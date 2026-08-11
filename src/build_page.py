@@ -118,6 +118,7 @@ def render_index(data: dict, out_dir: Path, nav: str = "") -> None:
     timings_json = json.dumps(word_timings(out_dir, data["segments"]), ensure_ascii=False)
     if nav:
         template = template.replace('<main id="app"', f'{nav}<main id="app"')
+    template = template.replace("</head>", '<meta name="build-ver" content="nav-v1">\n</head>')
     html = (
         template
         .replace("{{TITLE}}", html_escape.escape(data["meta"]["title"]))
