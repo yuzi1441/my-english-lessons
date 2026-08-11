@@ -26,8 +26,8 @@ STOPWORDS = set(
 DAYS = [
     {
         "day": "day-01",
-        "title": "Monday: My First Standup",
-        "title_zh": "周一：我的第一次站会",
+        "title": "Lesson 1: My First Standup",
+        "title_zh": "第 1 课：我的第一次站会",
         "source": "Week 1 - Day 1",
         "segments": [
             {
@@ -103,8 +103,8 @@ DAYS = [
     },
     {
         "day": "day-02",
-        "title": "Tuesday: The Branch and the Bug",
-        "title_zh": "周二：分支与 Bug",
+        "title": "Lesson 2: The Branch and the Bug",
+        "title_zh": "第 2 课：分支与 Bug",
         "source": "Week 1 - Day 2",
         "segments": [
             {
@@ -188,8 +188,8 @@ DAYS = [
     },
     {
         "day": "day-03",
-        "title": "Wednesday: The Pull Request",
-        "title_zh": "周三：提交 PR",
+        "title": "Lesson 3: The Pull Request",
+        "title_zh": "第 3 课：提交 PR",
         "source": "Week 1 - Day 3",
         "segments": [
             {
@@ -272,8 +272,8 @@ DAYS = [
     },
     {
         "day": "day-04",
-        "title": "Thursday: The AI Brain",
-        "title_zh": "周四：AI 大脑",
+        "title": "Lesson 4: The AI Brain",
+        "title_zh": "第 4 课：AI 大脑",
         "source": "Week 1 - Day 4",
         "segments": [
             {
@@ -355,8 +355,8 @@ DAYS = [
     },
     {
         "day": "day-05",
-        "title": "Friday: Deploy Day",
-        "title_zh": "周五：上线日",
+        "title": "Lesson 5: Deploy Day",
+        "title_zh": "第 5 课：上线日",
         "source": "Week 1 - Day 5",
         "segments": [
             {
@@ -438,8 +438,8 @@ DAYS = [
     },
     {
         "day": "day-06",
-        "title": "Saturday: English and Coffee",
-        "title_zh": "周六：英语与咖啡",
+        "title": "Lesson 6: English and Coffee",
+        "title_zh": "第 6 课：英语与咖啡",
         "source": "Week 1 - Day 6",
         "segments": [
             {
@@ -523,8 +523,8 @@ DAYS = [
     },
     {
         "day": "day-07",
-        "title": "Sunday: Plan the Next Week",
-        "title_zh": "周日：规划下周",
+        "title": "Lesson 7: Plan the Next Week",
+        "title_zh": "第 7 课：规划下周",
         "source": "Week 1 - Day 7",
         "segments": [
             {

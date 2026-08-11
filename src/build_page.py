@@ -110,12 +110,14 @@ def word_timings(out_dir: Path, segments: list[dict], mismatched: list[str] | No
     return timings
 
 
-def render_index(data: dict, out_dir: Path) -> None:
+def render_index(data: dict, out_dir: Path, nav: str = "") -> None:
     template = (TEMPLATE_DIR / "index.html").read_text(encoding="utf-8")
     # escape every "<" as \u003c inside JSON strings: blocks script-tag breakout and comment-open parsing tricks
     lesson_json = json.dumps(data, ensure_ascii=False).replace("<", "\\u003c")
     status_json = json.dumps(audio_status(out_dir, data["segments"], required_word_audio_terms(data)), ensure_ascii=False)
     timings_json = json.dumps(word_timings(out_dir, data["segments"]), ensure_ascii=False)
+    if nav:
+        template = template.replace('<main id="app"', f'{nav}<main id="app"')
     html = (
         template
         .replace("{{TITLE}}", html_escape.escape(data["meta"]["title"]))
@@ -175,6 +177,9 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Build a static Immersion Reader lesson page.")
     parser.add_argument("segments_json", type=Path)
     parser.add_argument("--out", type=Path, required=True)
+    parser.add_argument("--prev", default="", help="relative href for previous lesson")
+    parser.add_argument("--next", default="", help="relative href for next lesson")
+    parser.add_argument("--home", default="", help="relative href for the lesson index page")
     args = parser.parse_args()
 
     try:
@@ -184,9 +189,26 @@ def main() -> int:
         print(f"schema validation failed: {exc}", file=sys.stderr)
         return 2
 
-    render_index(data, args.out)
+    nav = build_nav(args.prev, args.next, args.home)
+    render_index(data, args.out, nav)
     print(closeout(data, args.out))
     return 0
+
+
+def build_nav(prev: str, next_href: str, home: str) -> str:
+    def btn(href: str, label: str) -> str:
+        return f'<a class="lesson-nav-link" href="{html_escape.escape(href)}">{html_escape.escape(label)}</a>'
+
+    parts = []
+    if prev:
+        parts.append(btn(prev, "← 上一课"))
+    if home:
+        parts.append(btn(home, "周计划"))
+    if next_href:
+        parts.append(btn(next_href, "下一课 →"))
+    if not parts:
+        return ""
+    return f'<nav class="lesson-nav">{"".join(parts)}</nav>'
 
 
 if __name__ == "__main__":

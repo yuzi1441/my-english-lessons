@@ -1,7 +1,7 @@
 {
  "meta": {
-  "title": "Wednesday: The Pull Request",
-  "title_zh": "周三：提交 PR",
+  "title": "Lesson 3: The Pull Request",
+  "title_zh": "第 3 课：提交 PR",
   "source": "Week 1 - Day 3",
   "url": "",
   "kind": "article",
@@ -127,132 +127,17 @@
   }
  ],
  "lexicon": {
-  "push": {
-   "def": "推送",
-   "ipa": "/pʊʃ/"
-  },
-  "comment": {
-   "def": "评论",
-   "ipa": "/ˈkɑ.ment/"
-  },
-  "thank": {
-   "def": "感谢",
-   "ipa": "/θæŋk/"
-  },
   "hello": {
    "def": "你好",
    "ipa": "/həˈloʊ/"
   },
-  "called": {
-   "def": "被叫做",
-   "ipa": "/kɔld/"
+  "small": {
+   "def": "小的",
+   "ipa": "/smɔl/"
   },
-  "line": {
-   "def": "行;线路",
-   "ipa": "/laɪn/"
-  },
-  "checks": {
-   "def": "检查",
-   "ipa": "/tʃeks/"
-  },
-  "done": {
-   "def": "完成的",
-   "ipa": "/dʌn/"
-  },
-  "feedback": {
-   "def": "反馈",
-   "ipa": "/ˈfid.bæk/"
-  },
-  "fix": {
-   "def": "修复",
-   "ipa": "/fɪks/"
-  },
-  "wednesday": {
-   "def": "星期三",
-   "ipa": "/ˈwenz.deɪ/"
-  },
-  "learn": {
-   "def": "学习",
-   "ipa": "/lɝn/"
-  },
-  "faster": {
-   "def": "更快的",
-   "ipa": "/ˈfæs.tər/"
-  },
-  "program": {
-   "def": "程序",
-   "ipa": "/ˈproʊ.ɡræm/"
-  },
-  "write": {
-   "def": "写",
-   "ipa": "/raɪt/"
-  },
-  "finds": {
-   "def": "发现",
-   "ipa": "/faɪndz/"
-  },
-  "open": {
-   "def": "打开;开启",
-   "ipa": "/ˈoʊ.pən/"
-  },
-  "little": {
-   "def": "一点",
-   "ipa": "/ˈlɪt.əl/"
-  },
-  "maria's": {
-   "lemma": "maria"
-  },
-  "share": {
-   "def": "分享",
-   "ipa": "/ʃer/"
-  },
-  "new": {
-   "def": "新的",
-   "ipa": "/nu/"
-  },
-  "happy": {
-   "def": "开心的",
-   "ipa": "/ˈhæp.i/"
-  },
-  "says": {
-   "def": "说",
-   "ipa": "/sez/"
-  },
-  "add": {
-   "def": "添加",
-   "ipa": "/æd/"
-  },
-  "computer": {
-   "def": "电脑",
-   "ipa": "/kəmˈpju.tər/"
-  },
-  "short": {
-   "def": "短的",
-   "ipa": "/ʃɔrt/"
-  },
-  "again": {
-   "def": "再一次",
-   "ipa": "/əˈɡen/"
-  },
-  "helps": {
-   "def": "帮助",
-   "ipa": "/helps/"
-  },
-  "say": {
-   "def": "说",
-   "ipa": "/seɪ/"
-  },
-  "itself": {
-   "def": "它自己",
-   "ipa": "/ɪtˈself/"
-  },
-  "ability": {
-   "def": "能力",
-   "ipa": "/əˈbɪl.ə.ti/"
-  },
-  "good": {
-   "def": "好的",
-   "ipa": "/ɡʊd/"
+  "thank": {
+   "def": "感谢",
+   "ipa": "/θæŋk/"
   },
   "slow": {
    "def": "慢的",
@@ -262,117 +147,232 @@
    "def": "阅读",
    "ipa": "/rid/"
   },
-  "make": {
-   "def": "做;制造",
-   "ipa": "/meɪk/"
+  "add": {
+   "def": "添加",
+   "ipa": "/æd/"
   },
-  "one": {
-   "def": "一个",
-   "ipa": "/wʌn/"
+  "called": {
+   "def": "被叫做",
+   "ipa": "/kɔld/"
   },
-  "maria": {
-   "def": "人名;Maria",
-   "ipa": "/məˈri.ə/"
+  "share": {
+   "def": "分享",
+   "ipa": "/ʃer/"
   },
-  "chat": {
-   "def": "聊天",
-   "ipa": "/tʃæt/"
-  },
-  "problem": {
-   "def": "问题",
-   "ipa": "/ˈprɑ.bləm/"
-  },
-  "users": {
-   "def": "用户们",
-   "ipa": "/ˈju.zərz/"
-  },
-  "tests": {
-   "def": "测试们",
-   "ipa": "/tests/"
-  },
-  "bigger": {
-   "def": "更大的",
-   "ipa": "/ˈbɪɡ.ər/"
-  },
-  "review": {
-   "def": "评审;回顾",
-   "ipa": "/rɪˈvju/"
-  },
-  "finish": {
-   "def": "完成",
-   "ipa": "/ˈfɪn.ɪʃ/"
-  },
-  "now": {
-   "def": "现在",
-   "ipa": "/naʊ/"
-  },
-  "task": {
-   "def": "任务",
-   "ipa": "/tæsk/"
-  },
-  "branch": {
-   "def": "分支",
-   "ipa": "/bræntʃ/"
-  },
-  "pass": {
-   "def": "通过",
-   "ipa": "/pæs/"
-  },
-  "request": {
-   "def": "请求",
-   "ipa": "/rɪˈkwest/"
-  },
-  "call": {
-   "def": "称呼;打电话",
-   "ipa": "/kɔl/"
-  },
-  "need": {
-   "def": "需要",
-   "ipa": "/nid/"
-  },
-  "small": {
-   "def": "小的",
-   "ipa": "/smɔl/"
+  "little": {
+   "def": "一点",
+   "ipa": "/ˈlɪt.əl/"
   },
   "writes": {
    "def": "写",
    "ipa": "/raɪts/"
   },
-  "looks": {
-   "def": "看起来",
-   "ipa": "/lʊks/"
+  "now": {
+   "def": "现在",
+   "ipa": "/naʊ/"
   },
-  "feature": {
-   "def": "功能",
-   "ipa": "/ˈfi.tʃər/"
+  "computer": {
+   "def": "电脑",
+   "ipa": "/kəmˈpju.tər/"
+  },
+  "wednesday": {
+   "def": "星期三",
+   "ipa": "/ˈwenz.deɪ/"
+  },
+  "maria": {
+   "def": "人名;Maria",
+   "ipa": "/məˈri.ə/"
   },
   "asks": {
    "def": "请求;问",
    "ipa": "/æsks/"
   },
-  "team": {
-   "def": "团队",
-   "ipa": "/tim/"
+  "chat": {
+   "def": "聊天",
+   "ipa": "/tʃæt/"
+  },
+  "finish": {
+   "def": "完成",
+   "ipa": "/ˈfɪn.ɪʃ/"
+  },
+  "bigger": {
+   "def": "更大的",
+   "ipa": "/ˈbɪɡ.ər/"
+  },
+  "itself": {
+   "def": "它自己",
+   "ipa": "/ɪtˈself/"
+  },
+  "make": {
+   "def": "做;制造",
+   "ipa": "/meɪk/"
+  },
+  "fix": {
+   "def": "修复",
+   "ipa": "/fɪks/"
+  },
+  "helps": {
+   "def": "帮助",
+   "ipa": "/helps/"
+  },
+  "review": {
+   "def": "评审;回顾",
+   "ipa": "/rɪˈvju/"
+  },
+  "tests": {
+   "def": "测试们",
+   "ipa": "/tests/"
+  },
+  "line": {
+   "def": "行;线路",
+   "ipa": "/laɪn/"
+  },
+  "say": {
+   "def": "说",
+   "ipa": "/seɪ/"
+  },
+  "write": {
+   "def": "写",
+   "ipa": "/raɪt/"
+  },
+  "good": {
+   "def": "好的",
+   "ipa": "/ɡʊd/"
+  },
+  "branch": {
+   "def": "分支",
+   "ipa": "/bræntʃ/"
+  },
+  "again": {
+   "def": "再一次",
+   "ipa": "/əˈɡen/"
+  },
+  "problem": {
+   "def": "问题",
+   "ipa": "/ˈprɑ.bləm/"
+  },
+  "ability": {
+   "def": "能力",
+   "ipa": "/əˈbɪl.ə.ti/"
+  },
+  "feedback": {
+   "def": "反馈",
+   "ipa": "/ˈfid.bæk/"
+  },
+  "pass": {
+   "def": "通过",
+   "ipa": "/pæs/"
+  },
+  "need": {
+   "def": "需要",
+   "ipa": "/nid/"
+  },
+  "done": {
+   "def": "完成的",
+   "ipa": "/dʌn/"
+  },
+  "runs": {
+   "def": "运行",
+   "ipa": "/rʌnz/"
+  },
+  "comment": {
+   "def": "评论",
+   "ipa": "/ˈkɑ.ment/"
   },
   "code": {
    "def": "代码",
    "ipa": "/koʊd/"
   },
+  "new": {
+   "def": "新的",
+   "ipa": "/nu/"
+  },
+  "feature": {
+   "def": "功能",
+   "ipa": "/ˈfi.tʃər/"
+  },
+  "finds": {
+   "def": "发现",
+   "ipa": "/faɪndz/"
+  },
+  "request": {
+   "def": "请求",
+   "ipa": "/rɪˈkwest/"
+  },
   "upset": {
    "def": "不高兴的",
    "ipa": "/ʌpˈset/"
   },
-  "check": {
-   "def": "检查",
-   "ipa": "/tʃek/"
+  "team": {
+   "def": "团队",
+   "ipa": "/tim/"
   },
   "pull": {
    "def": "拉;拉取",
    "ipa": "/pʊl/"
   },
-  "runs": {
-   "def": "运行",
-   "ipa": "/rʌnz/"
+  "looks": {
+   "def": "看起来",
+   "ipa": "/lʊks/"
+  },
+  "says": {
+   "def": "说",
+   "ipa": "/sez/"
+  },
+  "users": {
+   "def": "用户们",
+   "ipa": "/ˈju.zərz/"
+  },
+  "maria's": {
+   "lemma": "maria"
+  },
+  "checks": {
+   "def": "检查",
+   "ipa": "/tʃeks/"
+  },
+  "push": {
+   "def": "推送",
+   "ipa": "/pʊʃ/"
+  },
+  "learn": {
+   "def": "学习",
+   "ipa": "/lɝn/"
+  },
+  "task": {
+   "def": "任务",
+   "ipa": "/tæsk/"
+  },
+  "one": {
+   "def": "一个",
+   "ipa": "/wʌn/"
+  },
+  "program": {
+   "def": "程序",
+   "ipa": "/ˈproʊ.ɡræm/"
+  },
+  "short": {
+   "def": "短的",
+   "ipa": "/ʃɔrt/"
+  },
+  "open": {
+   "def": "打开;开启",
+   "ipa": "/ˈoʊ.pən/"
+  },
+  "faster": {
+   "def": "更快的",
+   "ipa": "/ˈfæs.tər/"
+  },
+  "call": {
+   "def": "称呼;打电话",
+   "ipa": "/kɔl/"
+  },
+  "happy": {
+   "def": "开心的",
+   "ipa": "/ˈhæp.i/"
+  },
+  "check": {
+   "def": "检查",
+   "ipa": "/tʃek/"
   }
  }
 }

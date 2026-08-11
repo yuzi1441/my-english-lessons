@@ -1,7 +1,7 @@
 {
  "meta": {
-  "title": "Tuesday: The Branch and the Bug",
-  "title_zh": "周二：分支与 Bug",
+  "title": "Lesson 2: The Branch and the Bug",
+  "title_zh": "第 2 课：分支与 Bug",
   "source": "Week 1 - Day 2",
   "url": "",
   "kind": "article",
@@ -127,173 +127,181 @@
   }
  ],
  "lexicon": {
-  "send": {
-   "def": "发送",
-   "ipa": "/send/"
-  },
-  "website": {
-   "def": "网站",
-   "ipa": "/ˈweb.saɪt/"
-  },
-  "github": {
-   "def": "代码托管网站",
-   "ipa": "/ˈɡɪt.hʌb/"
-  },
-  "means": {
-   "def": "意思是",
-   "ipa": "/minz/"
-  },
-  "push": {
-   "def": "推送",
-   "ipa": "/pʊʃ/"
-  },
-  "line": {
-   "def": "行;线路",
-   "ipa": "/laɪn/"
-  },
-  "checks": {
-   "def": "检查",
-   "ipa": "/tʃeks/"
-  },
-  "done": {
-   "def": "完成的",
-   "ipa": "/dʌn/"
-  },
-  "first": {
-   "def": "第一个;初次",
-   "ipa": "/fɝst/"
-  },
-  "type": {
-   "def": "敲;打字",
-   "ipa": "/taɪp/"
-  },
-  "fix": {
-   "def": "修复",
-   "ipa": "/fɪks/"
-  },
-  "learn": {
-   "def": "学习",
-   "ipa": "/lɝn/"
-  },
-  "test": {
-   "def": "测试",
-   "ipa": "/test/"
-  },
-  "talks": {
-   "def": "交谈",
-   "ipa": "/tɔks/"
-  },
-  "see": {
-   "def": "看到",
-   "ipa": "/si/"
-  },
-  "program": {
-   "def": "程序",
-   "ipa": "/ˈproʊ.ɡræm/"
-  },
-  "tuesday": {
-   "def": "星期二",
-   "ipa": "/ˈtuz.deɪ/"
-  },
-  "write": {
-   "def": "写",
-   "ipa": "/raɪt/"
-  },
-  "message": {
-   "def": "消息",
-   "ipa": "/ˈmes.ɪdʒ/"
-  },
-  "second": {
-   "def": "第二;秒",
-   "ipa": "/ˈsek.ənd/"
-  },
-  "new": {
-   "def": "新的",
-   "ipa": "/nu/"
-  },
-  "happy": {
-   "def": "开心的",
-   "ipa": "/ˈhæp.i/"
-  },
-  "says": {
-   "def": "说",
-   "ipa": "/sez/"
-  },
-  "bug": {
-   "def": "缺陷;小问题",
-   "ipa": "/bʌɡ/"
-  },
-  "alex": {
-   "def": "人名;Alex",
-   "ipa": "/ˈæl.ɪks/"
-  },
-  "helps": {
-   "def": "帮助",
-   "ipa": "/helps/"
-  },
-  "answer": {
-   "def": "回答",
-   "ipa": "/ˈæn.sər/"
-  },
-  "words": {
-   "def": "单词们",
-   "ipa": "/wɝdz/"
-  },
-  "reads": {
-   "def": "阅读",
-   "ipa": "/ridz/"
-  },
-  "part": {
-   "def": "部分",
-   "ipa": "/pɑrt/"
-  },
-  "safe": {
-   "def": "安全的",
-   "ipa": "/seɪf/"
-  },
-  "good": {
-   "def": "好的",
-   "ipa": "/ɡʊd/"
-  },
-  "feel": {
-   "def": "感觉",
-   "ipa": "/fil/"
+  "proud": {
+   "def": "自豪的",
+   "ipa": "/praʊd/"
   },
   "read": {
    "def": "阅读",
    "ipa": "/rid/"
   },
-  "lunch": {
-   "def": "午餐",
-   "ipa": "/lʌntʃ/"
+  "tuesday": {
+   "def": "星期二",
+   "ipa": "/ˈtuz.deɪ/"
+  },
+  "see": {
+   "def": "看到",
+   "ipa": "/si/"
   },
   "command": {
    "def": "命令",
    "ipa": "/kəˈmænd/"
   },
-  "gone": {
-   "def": "消失的",
-   "ipa": "/ɡɔn/"
+  "everyone": {
+   "def": "每个人",
+   "ipa": "/ˈev.ri.wʌn/"
   },
-  "make": {
-   "def": "做;制造",
-   "ipa": "/meɪk/"
+  "test": {
+   "def": "测试",
+   "ipa": "/test/"
   },
-  "how": {
-   "def": "怎样",
-   "ipa": "/haʊ/"
+  "writes": {
+   "def": "写",
+   "ipa": "/raɪts/"
   },
-  "one": {
-   "def": "一个",
-   "ipa": "/wʌn/"
+  "now": {
+   "def": "现在",
+   "ipa": "/naʊ/"
+  },
+  "work": {
+   "def": "工作",
+   "ipa": "/wɝk/"
   },
   "maria": {
    "def": "人名;Maria",
    "ipa": "/məˈri.ə/"
   },
+  "job": {
+   "def": "工作",
+   "ipa": "/dʒɑb/"
+  },
   "chat": {
    "def": "聊天",
    "ipa": "/tʃæt/"
+  },
+  "second": {
+   "def": "第二;秒",
+   "ipa": "/ˈsek.ənd/"
+  },
+  "words": {
+   "def": "单词们",
+   "ipa": "/wɝdz/"
+  },
+  "fix": {
+   "def": "修复",
+   "ipa": "/fɪks/"
+  },
+  "make": {
+   "def": "做;制造",
+   "ipa": "/meɪk/"
+  },
+  "reads": {
+   "def": "阅读",
+   "ipa": "/ridz/"
+  },
+  "feel": {
+   "def": "感觉",
+   "ipa": "/fil/"
+  },
+  "how": {
+   "def": "怎样",
+   "ipa": "/haʊ/"
+  },
+  "first": {
+   "def": "第一个;初次",
+   "ipa": "/fɝst/"
+  },
+  "helps": {
+   "def": "帮助",
+   "ipa": "/helps/"
+  },
+  "talks": {
+   "def": "交谈",
+   "ipa": "/tɔks/"
+  },
+  "shows": {
+   "def": "展示",
+   "ipa": "/ʃoʊz/"
+  },
+  "line": {
+   "def": "行;线路",
+   "ipa": "/laɪn/"
+  },
+  "safe": {
+   "def": "安全的",
+   "ipa": "/seɪf/"
+  },
+  "main": {
+   "def": "主要的",
+   "ipa": "/meɪn/"
+  },
+  "write": {
+   "def": "写",
+   "ipa": "/raɪt/"
+  },
+  "notebook": {
+   "def": "笔记本",
+   "ipa": "/ˈnoʊt.bʊk/"
+  },
+  "good": {
+   "def": "好的",
+   "ipa": "/ɡʊd/"
+  },
+  "two": {
+   "def": "二",
+   "ipa": "/tu/"
+  },
+  "branch": {
+   "def": "分支",
+   "ipa": "/bræntʃ/"
+  },
+  "change": {
+   "def": "改变;改动",
+   "ipa": "/tʃeɪndʒ/"
+  },
+  "send": {
+   "def": "发送",
+   "ipa": "/send/"
+  },
+  "bug": {
+   "def": "缺陷;小问题",
+   "ipa": "/bʌɡ/"
+  },
+  "done": {
+   "def": "完成的",
+   "ipa": "/dʌn/"
+  },
+  "code": {
+   "def": "代码",
+   "ipa": "/koʊd/"
+  },
+  "new": {
+   "def": "新的",
+   "ipa": "/nu/"
+  },
+  "part": {
+   "def": "部分",
+   "ipa": "/pɑrt/"
+  },
+  "means": {
+   "def": "意思是",
+   "ipa": "/minz/"
+  },
+  "team": {
+   "def": "团队",
+   "ipa": "/tim/"
+  },
+  "gone": {
+   "def": "消失的",
+   "ipa": "/ɡɔn/"
+  },
+  "says": {
+   "def": "说",
+   "ipa": "/sez/"
+  },
+  "copy": {
+   "def": "副本;复制",
+   "ipa": "/ˈkɑ.pi/"
   },
   "users": {
    "def": "用户们",
@@ -303,85 +311,77 @@
    "def": "部分们",
    "ipa": "/pɑrts/"
   },
-  "job": {
-   "def": "工作",
-   "ipa": "/dʒɑb/"
+  "checks": {
+   "def": "检查",
+   "ipa": "/tʃeks/"
   },
-  "notebook": {
-   "def": "笔记本",
-   "ipa": "/ˈnoʊt.bʊk/"
+  "push": {
+   "def": "推送",
+   "ipa": "/pʊʃ/"
   },
-  "copy": {
-   "def": "副本;复制",
-   "ipa": "/ˈkɑ.pi/"
+  "answer": {
+   "def": "回答",
+   "ipa": "/ˈæn.sər/"
   },
-  "two": {
-   "def": "二",
-   "ipa": "/tu/"
+  "type": {
+   "def": "敲;打字",
+   "ipa": "/taɪp/"
   },
-  "now": {
-   "def": "现在",
-   "ipa": "/naʊ/"
+  "learn": {
+   "def": "学习",
+   "ipa": "/lɝn/"
   },
-  "clean": {
-   "def": "干净的",
-   "ipa": "/klin/"
+  "github": {
+   "def": "代码托管网站",
+   "ipa": "/ˈɡɪt.hʌb/"
   },
-  "stays": {
-   "def": "保持;停留",
-   "ipa": "/steɪz/"
-  },
-  "branch": {
-   "def": "分支",
-   "ipa": "/bræntʃ/"
-  },
-  "everyone": {
-   "def": "每个人",
-   "ipa": "/ˈev.ri.wʌn/"
-  },
-  "change": {
-   "def": "改变;改动",
-   "ipa": "/tʃeɪndʒ/"
-  },
-  "small": {
-   "def": "小的",
-   "ipa": "/smɔl/"
-  },
-  "writes": {
-   "def": "写",
-   "ipa": "/raɪts/"
-  },
-  "work": {
-   "def": "工作",
-   "ipa": "/wɝk/"
-  },
-  "slowly": {
-   "def": "慢慢地",
-   "ipa": "/ˈsloʊ.li/"
-  },
-  "shows": {
-   "def": "展示",
-   "ipa": "/ʃoʊz/"
+  "one": {
+   "def": "一个",
+   "ipa": "/wʌn/"
   },
   "brain": {
    "def": "大脑",
    "ipa": "/breɪn/"
   },
-  "proud": {
-   "def": "自豪的",
-   "ipa": "/praʊd/"
+  "slowly": {
+   "def": "慢慢地",
+   "ipa": "/ˈsloʊ.li/"
   },
-  "team": {
-   "def": "团队",
-   "ipa": "/tim/"
+  "clean": {
+   "def": "干净的",
+   "ipa": "/klin/"
   },
-  "main": {
-   "def": "主要的",
-   "ipa": "/meɪn/"
+  "happy": {
+   "def": "开心的",
+   "ipa": "/ˈhæp.i/"
   },
-  "code": {
-   "def": "代码",
-   "ipa": "/koʊd/"
+  "program": {
+   "def": "程序",
+   "ipa": "/ˈproʊ.ɡræm/"
+  },
+  "website": {
+   "def": "网站",
+   "ipa": "/ˈweb.saɪt/"
+  },
+  "lunch": {
+   "def": "午餐",
+   "ipa": "/lʌntʃ/"
+  },
+  "alex": {
+   "def": "人名;Alex",
+   "ipa": "/ˈæl.ɪks/"
+  },
+  "stays": {
+   "def": "保持;停留",
+   "ipa": "/steɪz/"
+  },
+  "message": {
+   "def": "消息",
+   "ipa": "/ˈmes.ɪdʒ/"
+  },
+  "small": {
+   "def": "小的",
+   "ipa": "/smɔl/"
   }
  }
 }
