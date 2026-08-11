@@ -127,37 +127,17 @@
   }
  ],
  "lexicon": {
+  "write": {
+   "def": "写",
+   "ipa": "/raɪt/"
+  },
   "knows": {
    "def": "知道",
    "ipa": "/noʊz/"
   },
-  "another": {
-   "def": "另一个",
-   "ipa": "/əˈnʌð.ər/"
-  },
-  "friendly": {
-   "def": "友好的",
-   "ipa": "/ˈfrend.li/"
-  },
-  "question": {
-   "def": "问题",
-   "ipa": "/ˈkwes.tʃən/"
-  },
-  "new": {
-   "def": "新的",
-   "ipa": "/nu/"
-  },
-  "big": {
-   "def": "大的",
-   "ipa": "/bɪɡ/"
-  },
-  "answers": {
-   "def": "回答",
-   "ipa": "/ˈæn.sərz/"
-  },
-  "prompts": {
-   "def": "提示词们",
-   "ipa": "/prɑmpts/"
+  "teacher": {
+   "def": "老师",
+   "ipa": "/ˈti.tʃər/"
   },
   "try": {
    "def": "尝试",
@@ -167,181 +147,201 @@
    "def": "英语",
    "ipa": "/ˈɪŋ.ɡlɪʃ/"
   },
-  "unclear": {
-   "def": "不清楚的",
-   "ipa": "/ʌnˈklɪr/"
-  },
-  "job": {
-   "def": "工作",
-   "ipa": "/dʒɑb/"
-  },
-  "feel": {
-   "def": "感觉",
-   "ipa": "/fil/"
-  },
-  "friend": {
-   "def": "朋友",
-   "ipa": "/frend/"
-  },
-  "short": {
-   "def": "短的",
-   "ipa": "/ʃɔrt/"
-  },
-  "sentences": {
-   "def": "句子们",
-   "ipa": "/ˈsen.tənsɪz/"
-  },
-  "instruction": {
-   "def": "指令",
-   "ipa": "/ɪnˈstrʌk.ʃən/"
-  },
-  "writes": {
-   "def": "写",
-   "ipa": "/raɪts/"
-  },
-  "testing": {
-   "def": "测试;试错",
-   "ipa": "/ˈtes.tɪŋ/"
-  },
-  "many": {
-   "def": "许多",
-   "ipa": "/ˈmen.i/"
-  },
-  "learn": {
-   "def": "学习",
-   "ipa": "/lɝn/"
-  },
-  "find": {
-   "def": "找到;发现",
-   "ipa": "/faɪnd/"
-  },
-  "small": {
-   "def": "小的",
-   "ipa": "/smɔl/"
-  },
-  "follows": {
-   "def": "遵循",
-   "ipa": "/ˈfɑ.loʊz/"
-  },
-  "write": {
-   "def": "写",
-   "ipa": "/raɪt/"
-  },
-  "brain": {
-   "def": "大脑",
-   "ipa": "/breɪn/"
-  },
-  "thursday": {
-   "def": "星期四",
-   "ipa": "/ˈθɝz.deɪ/"
-  },
-  "engineering": {
-   "def": "工程",
-   "ipa": "/ˌen.dʒɪˈnɪr.ɪŋ/"
+  "good": {
+   "def": "好的",
+   "ipa": "/ɡʊd/"
   },
   "afternoon": {
    "def": "下午",
    "ipa": "/ˌæf.tərˈnun/"
   },
-  "how": {
-   "def": "怎样",
-   "ipa": "/haʊ/"
-  },
-  "words": {
-   "def": "单词们",
-   "ipa": "/wɝdz/"
-  },
-  "good": {
-   "def": "好的",
-   "ipa": "/ɡʊd/"
-  },
-  "difference": {
-   "def": "差别",
-   "ipa": "/ˈdɪf.ər.əns/"
-  },
-  "real": {
-   "def": "真实的",
-   "ipa": "/ril/"
-  },
-  "clear": {
-   "def": "清楚的",
-   "ipa": "/klɪr/"
-  },
-  "ask": {
-   "def": "问",
-   "ipa": "/æsk/"
-  },
-  "answer": {
-   "def": "回答",
-   "ipa": "/ˈæn.sər/"
-  },
-  "give": {
-   "def": "给",
-   "ipa": "/ɡɪv/"
-  },
-  "makes": {
-   "def": "做;使",
-   "ipa": "/meɪks/"
-  },
-  "reads": {
-   "def": "阅读",
-   "ipa": "/ridz/"
-  },
-  "clean": {
-   "def": "干净的",
-   "ipa": "/klin/"
-  },
-  "model": {
-   "def": "模型",
-   "ipa": "/ˈmɑ.dəl/"
-  },
-  "program": {
-   "def": "程序",
-   "ipa": "/ˈproʊ.ɡræm/"
-  },
-  "amazed": {
-   "def": "惊叹的",
-   "ipa": "/əˈmeɪzd/"
-  },
-  "scientist": {
-   "def": "科学家",
-   "ipa": "/ˈsaɪ.ən.tɪst/"
-  },
-  "teacher": {
-   "def": "老师",
-   "ipa": "/ˈti.tʃər/"
-  },
-  "today": {
-   "def": "今天",
-   "ipa": "/təˈdeɪ/"
-  },
-  "smart": {
-   "def": "聪明的",
-   "ipa": "/smɑrt/"
-  },
-  "like": {
-   "def": "像;喜欢",
-   "ipa": "/laɪk/"
+  "friendly": {
+   "def": "友好的",
+   "ipa": "/ˈfrend.li/"
   },
   "messy": {
    "def": "凌乱的",
    "ipa": "/ˈmes.i/"
   },
-  "long": {
-   "def": "长的",
-   "ipa": "/lɔŋ/"
+  "feel": {
+   "def": "感觉",
+   "ipa": "/fil/"
   },
-  "one": {
-   "def": "一个",
-   "ipa": "/wʌn/"
+  "engineering": {
+   "def": "工程",
+   "ipa": "/ˌen.dʒɪˈnɪr.ɪŋ/"
   },
   "prompt": {
    "def": "提示词",
    "ipa": "/prɑmpt/"
   },
+  "follows": {
+   "def": "遵循",
+   "ipa": "/ˈfɑ.loʊz/"
+  },
   "language": {
    "def": "语言",
    "ipa": "/ˈlæŋ.ɡwɪdʒ/"
+  },
+  "small": {
+   "def": "小的",
+   "ipa": "/smɔl/"
+  },
+  "amazed": {
+   "def": "惊叹的",
+   "ipa": "/əˈmeɪzd/"
+  },
+  "unclear": {
+   "def": "不清楚的",
+   "ipa": "/ʌnˈklɪr/"
+  },
+  "writes": {
+   "def": "写",
+   "ipa": "/raɪts/"
+  },
+  "scientist": {
+   "def": "科学家",
+   "ipa": "/ˈsaɪ.ən.tɪst/"
+  },
+  "testing": {
+   "def": "测试;试错",
+   "ipa": "/ˈtes.tɪŋ/"
+  },
+  "real": {
+   "def": "真实的",
+   "ipa": "/ril/"
+  },
+  "how": {
+   "def": "怎样",
+   "ipa": "/haʊ/"
+  },
+  "new": {
+   "def": "新的",
+   "ipa": "/nu/"
+  },
+  "one": {
+   "def": "一个",
+   "ipa": "/wʌn/"
+  },
+  "clear": {
+   "def": "清楚的",
+   "ipa": "/klɪr/"
+  },
+  "makes": {
+   "def": "做;使",
+   "ipa": "/meɪks/"
+  },
+  "learn": {
+   "def": "学习",
+   "ipa": "/lɝn/"
+  },
+  "difference": {
+   "def": "差别",
+   "ipa": "/ˈdɪf.ər.əns/"
+  },
+  "answers": {
+   "def": "回答",
+   "ipa": "/ˈæn.sərz/"
+  },
+  "many": {
+   "def": "许多",
+   "ipa": "/ˈmen.i/"
+  },
+  "ask": {
+   "def": "问",
+   "ipa": "/æsk/"
+  },
+  "brain": {
+   "def": "大脑",
+   "ipa": "/breɪn/"
+  },
+  "short": {
+   "def": "短的",
+   "ipa": "/ʃɔrt/"
+  },
+  "another": {
+   "def": "另一个",
+   "ipa": "/əˈnʌð.ər/"
+  },
+  "thursday": {
+   "def": "星期四",
+   "ipa": "/ˈθɝz.deɪ/"
+  },
+  "long": {
+   "def": "长的",
+   "ipa": "/lɔŋ/"
+  },
+  "answer": {
+   "def": "回答",
+   "ipa": "/ˈæn.sər/"
+  },
+  "job": {
+   "def": "工作",
+   "ipa": "/dʒɑb/"
+  },
+  "friend": {
+   "def": "朋友",
+   "ipa": "/frend/"
+  },
+  "words": {
+   "def": "单词们",
+   "ipa": "/wɝdz/"
+  },
+  "big": {
+   "def": "大的",
+   "ipa": "/bɪɡ/"
+  },
+  "clean": {
+   "def": "干净的",
+   "ipa": "/klin/"
+  },
+  "give": {
+   "def": "给",
+   "ipa": "/ɡɪv/"
+  },
+  "reads": {
+   "def": "阅读",
+   "ipa": "/ridz/"
+  },
+  "smart": {
+   "def": "聪明的",
+   "ipa": "/smɑrt/"
+  },
+  "sentences": {
+   "def": "句子们",
+   "ipa": "/ˈsen.tənsɪz/"
+  },
+  "program": {
+   "def": "程序",
+   "ipa": "/ˈproʊ.ɡræm/"
+  },
+  "today": {
+   "def": "今天",
+   "ipa": "/təˈdeɪ/"
+  },
+  "instruction": {
+   "def": "指令",
+   "ipa": "/ɪnˈstrʌk.ʃən/"
+  },
+  "find": {
+   "def": "找到;发现",
+   "ipa": "/faɪnd/"
+  },
+  "question": {
+   "def": "问题",
+   "ipa": "/ˈkwes.tʃən/"
+  },
+  "model": {
+   "def": "模型",
+   "ipa": "/ˈmɑ.dəl/"
+  },
+  "prompts": {
+   "def": "提示词们",
+   "ipa": "/prɑmpts/"
+  },
+  "like": {
+   "def": "像;喜欢",
+   "ipa": "/laɪk/"
   }
  }
 }

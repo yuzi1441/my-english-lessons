@@ -127,73 +127,125 @@
   }
  ],
  "lexicon": {
-  "new": {
-   "def": "新的",
-   "ipa": "/nu/"
+  "leader": {
+   "def": "组长;领导",
+   "ipa": "/ˈli.dər/"
   },
-  "problem": {
-   "def": "问题",
-   "ipa": "/ˈprɑ.bləm/"
+  "hello": {
+   "def": "你好",
+   "ipa": "/həˈloʊ/"
   },
-  "now": {
-   "def": "现在",
-   "ipa": "/naʊ/"
-  },
-  "short": {
-   "def": "短的",
-   "ipa": "/ʃɔrt/"
-  },
-  "talks": {
-   "def": "交谈",
-   "ipa": "/tɔks/"
-  },
-  "morning": {
-   "def": "早晨",
-   "ipa": "/ˈmɔr.nɪŋ/"
-  },
-  "welcome": {
-   "def": "欢迎",
-   "ipa": "/ˈwel.kəm/"
-  },
-  "teammate": {
-   "def": "队友",
-   "ipa": "/ˈtim.meɪt/"
-  },
-  "alex": {
-   "def": "人名;Alex",
-   "ipa": "/ˈæl.ɪks/"
-  },
-  "chat": {
-   "def": "聊天",
-   "ipa": "/tʃæt/"
-  },
-  "say": {
-   "def": "说",
-   "ipa": "/seɪ/"
-  },
-  "team": {
-   "def": "团队",
-   "ipa": "/tim/"
-  },
-  "look": {
-   "def": "看",
-   "ipa": "/lʊk/"
+  "get": {
+   "def": "得到;变得",
+   "ipa": "/ɡet/"
   },
   "first": {
    "def": "第一个;初次",
    "ipa": "/fɝst/"
   },
-  "time": {
-   "def": "时间;次",
-   "ipa": "/taɪm/"
+  "day": {
+   "def": "一天",
+   "ipa": "/deɪ/"
+  },
+  "stands": {
+   "def": "站立",
+   "ipa": "/stændz/"
   },
   "fix": {
    "def": "修复",
    "ipa": "/fɪks/"
   },
-  "job": {
-   "def": "工作",
-   "ipa": "/dʒɑb/"
+  "starts": {
+   "def": "开始",
+   "ipa": "/stɑrts/"
+  },
+  "learn": {
+   "def": "学习",
+   "ipa": "/lɝn/"
+  },
+  "nervous": {
+   "def": "紧张的",
+   "ipa": "/ˈnɝ.vəs/"
+  },
+  "questions": {
+   "def": "问题们",
+   "ipa": "/ˈkwes.tʃənz/"
+  },
+  "talks": {
+   "def": "交谈",
+   "ipa": "/tɔks/"
+  },
+  "kind": {
+   "def": "友善的",
+   "ipa": "/kaɪnd/"
+  },
+  "program": {
+   "def": "程序",
+   "ipa": "/ˈproʊ.ɡræm/"
+  },
+  "today": {
+   "def": "今天",
+   "ipa": "/təˈdeɪ/"
+  },
+  "friendly": {
+   "def": "友好的",
+   "ipa": "/ˈfrend.li/"
+  },
+  "open": {
+   "def": "打开;开启",
+   "ipa": "/ˈoʊ.pən/"
+  },
+  "little": {
+   "def": "一点",
+   "ipa": "/ˈlɪt.əl/"
+  },
+  "look": {
+   "def": "看",
+   "ipa": "/lʊk/"
+  },
+  "new": {
+   "def": "新的",
+   "ipa": "/nu/"
+  },
+  "makes": {
+   "def": "做;使",
+   "ipa": "/meɪks/"
+  },
+  "says": {
+   "def": "说",
+   "ipa": "/sez/"
+  },
+  "bug": {
+   "def": "缺陷;小问题",
+   "ipa": "/bʌɡ/"
+  },
+  "short": {
+   "def": "短的",
+   "ipa": "/ʃɔrt/"
+  },
+  "alex": {
+   "def": "人名;Alex",
+   "ipa": "/ˈæl.ɪks/"
+  },
+  "tells": {
+   "def": "告诉",
+   "ipa": "/telz/"
+  },
+  "thing": {
+   "def": "事情",
+   "ipa": "/θɪŋ/"
+  },
+  "say": {
+   "def": "说",
+   "ipa": "/seɪ/"
+  },
+  "time": {
+   "def": "时间;次",
+   "ipa": "/taɪm/"
+  },
+  "feel": {
+   "def": "感觉",
+   "ipa": "/fil/"
   },
   "better": {
    "def": "更好的",
@@ -203,165 +255,113 @@
    "def": "哪里",
    "ipa": "/wer/"
   },
-  "small": {
-   "def": "小的",
-   "ipa": "/smɔl/"
-  },
-  "task": {
-   "def": "任务",
-   "ipa": "/tæsk/"
-  },
-  "asks": {
-   "def": "请求;问",
-   "ipa": "/æsks/"
-  },
-  "shows": {
-   "def": "展示",
-   "ipa": "/ʃoʊz/"
-  },
-  "ask": {
-   "def": "问",
-   "ipa": "/æsk/"
-  },
-  "around": {
-   "def": "周围;四处",
-   "ipa": "/əˈraʊnd/"
-  },
-  "day": {
-   "def": "一天",
-   "ipa": "/deɪ/"
-  },
   "take": {
    "def": "拿;花费",
    "ipa": "/teɪk/"
   },
-  "starts": {
-   "def": "开始",
-   "ipa": "/stɑrts/"
-  },
-  "monday": {
-   "def": "星期一",
-   "ipa": "/ˈmʌn.deɪ/"
-  },
-  "call": {
-   "def": "称呼;打电话",
-   "ipa": "/kɔl/"
-  },
-  "code": {
-   "def": "代码",
-   "ipa": "/koʊd/"
-  },
-  "meeting": {
-   "def": "会议",
-   "ipa": "/ˈmi.tɪŋ/"
-  },
-  "stands": {
-   "def": "站立",
-   "ipa": "/stændz/"
-  },
-  "leader": {
-   "def": "组长;领导",
-   "ipa": "/ˈli.dər/"
+  "one": {
+   "def": "一个",
+   "ipa": "/wʌn/"
   },
   "maria": {
    "def": "人名;Maria",
    "ipa": "/məˈri.ə/"
   },
-  "questions": {
-   "def": "问题们",
-   "ipa": "/ˈkwes.tʃənz/"
+  "chat": {
+   "def": "聊天",
+   "ipa": "/tʃæt/"
   },
-  "says": {
-   "def": "说",
-   "ipa": "/sez/"
-  },
-  "nervous": {
-   "def": "紧张的",
-   "ipa": "/ˈnɝ.vəs/"
-  },
-  "learn": {
-   "def": "学习",
-   "ipa": "/lɝn/"
-  },
-  "kind": {
-   "def": "友善的",
-   "ipa": "/kaɪnd/"
-  },
-  "engineer": {
-   "def": "工程师",
-   "ipa": "/ˌen.dʒɪˈnɪr/"
-  },
-  "bug": {
-   "def": "缺陷;小问题",
-   "ipa": "/bʌɡ/"
+  "problem": {
+   "def": "问题",
+   "ipa": "/ˈprɑ.bləm/"
   },
   "lives": {
    "def": "存在;住",
    "ipa": "/lɪvz/"
   },
-  "today": {
-   "def": "今天",
-   "ipa": "/təˈdeɪ/"
-  },
-  "little": {
-   "def": "一点",
-   "ipa": "/ˈlɪt.əl/"
-  },
-  "open": {
-   "def": "打开;开启",
-   "ipa": "/ˈoʊ.pən/"
-  },
-  "friendly": {
-   "def": "友好的",
-   "ipa": "/ˈfrend.li/"
-  },
-  "feel": {
-   "def": "感觉",
-   "ipa": "/fil/"
-  },
-  "standup": {
-   "def": "站会",
-   "ipa": "/ˈstænd.ʌp/"
-  },
-  "get": {
-   "def": "得到;变得",
-   "ipa": "/ɡet/"
-  },
-  "find": {
-   "def": "找到;发现",
-   "ipa": "/faɪnd/"
-  },
-  "hello": {
-   "def": "你好",
-   "ipa": "/həˈloʊ/"
-  },
-  "tells": {
-   "def": "告诉",
-   "ipa": "/telz/"
-  },
   "name": {
    "def": "名字",
    "ipa": "/neɪm/"
   },
-  "makes": {
-   "def": "做;使",
-   "ipa": "/meɪks/"
+  "job": {
+   "def": "工作",
+   "ipa": "/dʒɑb/"
+  },
+  "teammate": {
+   "def": "队友",
+   "ipa": "/ˈtim.meɪt/"
+  },
+  "now": {
+   "def": "现在",
+   "ipa": "/naʊ/"
+  },
+  "task": {
+   "def": "任务",
+   "ipa": "/tæsk/"
   },
   "everyone": {
    "def": "每个人",
    "ipa": "/ˈev.ri.wʌn/"
   },
-  "thing": {
-   "def": "事情",
-   "ipa": "/θɪŋ/"
+  "monday": {
+   "def": "星期一",
+   "ipa": "/ˈmʌn.deɪ/"
   },
-  "program": {
-   "def": "程序",
-   "ipa": "/ˈproʊ.ɡræm/"
+  "welcome": {
+   "def": "欢迎",
+   "ipa": "/ˈwel.kəm/"
   },
-  "one": {
-   "def": "一个",
-   "ipa": "/wʌn/"
+  "call": {
+   "def": "称呼;打电话",
+   "ipa": "/kɔl/"
+  },
+  "small": {
+   "def": "小的",
+   "ipa": "/smɔl/"
+  },
+  "around": {
+   "def": "周围;四处",
+   "ipa": "/əˈraʊnd/"
+  },
+  "engineer": {
+   "def": "工程师",
+   "ipa": "/ˌen.dʒɪˈnɪr/"
+  },
+  "morning": {
+   "def": "早晨",
+   "ipa": "/ˈmɔr.nɪŋ/"
+  },
+  "asks": {
+   "def": "请求;问",
+   "ipa": "/æsks/"
+  },
+  "ask": {
+   "def": "问",
+   "ipa": "/æsk/"
+  },
+  "shows": {
+   "def": "展示",
+   "ipa": "/ʃoʊz/"
+  },
+  "team": {
+   "def": "团队",
+   "ipa": "/tim/"
+  },
+  "meeting": {
+   "def": "会议",
+   "ipa": "/ˈmi.tɪŋ/"
+  },
+  "standup": {
+   "def": "站会",
+   "ipa": "/ˈstænd.ʌp/"
+  },
+  "find": {
+   "def": "找到;发现",
+   "ipa": "/faɪnd/"
+  },
+  "code": {
+   "def": "代码",
+   "ipa": "/koʊd/"
   }
  }
 }

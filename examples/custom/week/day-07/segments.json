@@ -127,45 +127,185 @@
   }
  ],
  "lexicon": {
-  "new": {
-   "def": "新的",
-   "ipa": "/nu/"
+  "back": {
+   "def": "回来",
+   "ipa": "/bæk/"
+  },
+  "step": {
+   "def": "一步;步骤",
+   "ipa": "/step/"
+  },
+  "three": {
+   "def": "三",
+   "ipa": "/θri/"
+  },
+  "most": {
+   "def": "大部分",
+   "ipa": "/moʊst/"
+  },
+  "monday": {
+   "def": "星期一",
+   "ipa": "/ˈmʌn.deɪ/"
+  },
+  "weekend": {
+   "def": "周末",
+   "ipa": "/ˈwik.end/"
+  },
+  "english": {
+   "def": "英语",
+   "ipa": "/ˈɪŋ.ɡlɪʃ/"
+  },
+  "welcome": {
+   "def": "欢迎",
+   "ipa": "/ˈwel.kəm/"
+  },
+  "home": {
+   "def": "家",
+   "ipa": "/hoʊm/"
+  },
+  "time": {
+   "def": "时间;次",
+   "ipa": "/taɪm/"
   },
   "feel": {
    "def": "感觉",
    "ipa": "/fil/"
   },
-  "journey": {
-   "def": "旅程",
-   "ipa": "/ˈdʒɝ.ni/"
-  },
-  "mistakes": {
-   "def": "错误们",
-   "ipa": "/mɪˈsteɪks/"
-  },
-  "meet": {
-   "def": "见面",
-   "ipa": "/mit/"
-  },
-  "short": {
-   "def": "短的",
-   "ipa": "/ʃɔrt/"
+  "rest": {
+   "def": "休息",
+   "ipa": "/rest/"
   },
   "sunday": {
    "def": "星期日",
    "ipa": "/ˈsʌn.deɪ/"
   },
-  "standup": {
-   "def": "站会",
-   "ipa": "/ˈstænd.ʌp/"
+  "hello": {
+   "def": "你好",
+   "ipa": "/həˈloʊ/"
+  },
+  "mistakes": {
+   "def": "错误们",
+   "ipa": "/mɪˈsteɪks/"
+  },
+  "read": {
+   "def": "阅读",
+   "ipa": "/rid/"
+  },
+  "look": {
+   "def": "看",
+   "ipa": "/lʊk/"
+  },
+  "small": {
+   "def": "小的",
+   "ipa": "/smɔl/"
+  },
+  "take": {
+   "def": "拿;花费",
+   "ipa": "/teɪk/"
+  },
+  "ten": {
+   "def": "十",
+   "ipa": "/ten/"
+  },
+  "day": {
+   "def": "一天",
+   "ipa": "/deɪ/"
+  },
+  "practice": {
+   "def": "练习",
+   "ipa": "/ˈpræk.tɪs/"
+  },
+  "article": {
+   "def": "文章",
+   "ipa": "/ˈɑr.tɪ.kəl/"
+  },
+  "new": {
+   "def": "新的",
+   "ipa": "/nu/"
+  },
+  "one": {
+   "def": "一个",
+   "ipa": "/wʌn/"
+  },
+  "week": {
+   "def": "周;星期",
+   "ipa": "/wik/"
+  },
+  "happy": {
+   "def": "开心的",
+   "ipa": "/ˈhæp.i/"
+  },
+  "learn": {
+   "def": "学习",
+   "ipa": "/lɝn/"
+  },
+  "starts": {
+   "def": "开始",
+   "ipa": "/stɑrts/"
+  },
+  "slowly": {
+   "def": "慢慢地",
+   "ipa": "/ˈsloʊ.li/"
+  },
+  "many": {
+   "def": "许多",
+   "ipa": "/ˈmen.i/"
+  },
+  "meet": {
+   "def": "见面",
+   "ipa": "/mit/"
+  },
+  "tell": {
+   "def": "告诉",
+   "ipa": "/tel/"
+  },
+  "journey": {
+   "def": "旅程",
+   "ipa": "/ˈdʒɝ.ni/"
+  },
+  "short": {
+   "def": "短的",
+   "ipa": "/ʃɔrt/"
+  },
+  "team": {
+   "def": "团队",
+   "ipa": "/tim/"
+  },
+  "again": {
+   "def": "再一次",
+   "ipa": "/əˈɡen/"
+  },
+  "ready": {
+   "def": "准备好的",
+   "ipa": "/ˈred.i/"
+  },
+  "works": {
+   "def": "起作用;运作",
+   "ipa": "/wɝks/"
+  },
+  "next": {
+   "def": "下一个",
+   "ipa": "/nekst/"
+  },
+  "learning": {
+   "def": "学习",
+   "ipa": "/ˈlɝ.nɪŋ/"
   },
   "afraid": {
    "def": "害怕的",
    "ipa": "/əˈfreɪd/"
   },
-  "next": {
-   "def": "下一个",
-   "ipa": "/nekst/"
+  "words": {
+   "def": "单词们",
+   "ipa": "/wɝdz/"
+  },
+  "progress": {
+   "def": "进步",
+   "ipa": "/ˈprɑ.ɡres/"
+  },
+  "steps": {
+   "def": "步骤们",
+   "ipa": "/steps/"
   },
   "sentences": {
    "def": "句子们",
@@ -175,173 +315,33 @@
    "def": "每一个",
    "ipa": "/ˈev.ri/"
   },
-  "tell": {
-   "def": "告诉",
-   "ipa": "/tel/"
-  },
-  "back": {
-   "def": "回来",
-   "ipa": "/bæk/"
-  },
-  "read": {
-   "def": "阅读",
-   "ipa": "/rid/"
-  },
   "wrote": {
    "def": "写了(write的过去式)",
    "ipa": "/roʊt/"
-  },
-  "rest": {
-   "def": "休息",
-   "ipa": "/rest/"
-  },
-  "welcome": {
-   "def": "欢迎",
-   "ipa": "/ˈwel.kəm/"
-  },
-  "ready": {
-   "def": "准备好的",
-   "ipa": "/ˈred.i/"
-  },
-  "many": {
-   "def": "许多",
-   "ipa": "/ˈmen.i/"
-  },
-  "plan": {
-   "def": "计划",
-   "ipa": "/plæn/"
-  },
-  "learn": {
-   "def": "学习",
-   "ipa": "/lɝn/"
   },
   "notebook": {
    "def": "笔记本",
    "ipa": "/ˈnoʊt.bʊk/"
   },
-  "happy": {
-   "def": "开心的",
-   "ipa": "/ˈhæp.i/"
-  },
-  "three": {
-   "def": "三",
-   "ipa": "/θri/"
-  },
-  "hello": {
-   "def": "你好",
-   "ipa": "/həˈloʊ/"
-  },
-  "small": {
-   "def": "小的",
-   "ipa": "/smɔl/"
-  },
-  "progress": {
-   "def": "进步",
-   "ipa": "/ˈprɑ.ɡres/"
-  },
-  "ten": {
-   "def": "十",
-   "ipa": "/ten/"
+  "standup": {
+   "def": "站会",
+   "ipa": "/ˈstænd.ʌp/"
   },
   "remember": {
    "def": "记得",
    "ipa": "/rɪˈmem.bər/"
   },
-  "home": {
-   "def": "家",
-   "ipa": "/hoʊm/"
+  "language": {
+   "def": "语言",
+   "ipa": "/ˈlæŋ.ɡwɪdʒ/"
   },
-  "step": {
-   "def": "一步;步骤",
-   "ipa": "/step/"
-  },
-  "article": {
-   "def": "文章",
-   "ipa": "/ˈɑr.tɪ.kəl/"
-  },
-  "works": {
-   "def": "起作用;运作",
-   "ipa": "/wɝks/"
-  },
-  "steps": {
-   "def": "步骤们",
-   "ipa": "/steps/"
-  },
-  "learning": {
-   "def": "学习",
-   "ipa": "/ˈlɝ.nɪŋ/"
-  },
-  "words": {
-   "def": "单词们",
-   "ipa": "/wɝdz/"
+  "plan": {
+   "def": "计划",
+   "ipa": "/plæn/"
   },
   "say": {
    "def": "说",
    "ipa": "/seɪ/"
-  },
-  "again": {
-   "def": "再一次",
-   "ipa": "/əˈɡen/"
-  },
-  "team": {
-   "def": "团队",
-   "ipa": "/tim/"
-  },
-  "week": {
-   "def": "周;星期",
-   "ipa": "/wik/"
-  },
-  "day": {
-   "def": "一天",
-   "ipa": "/deɪ/"
-  },
-  "weekend": {
-   "def": "周末",
-   "ipa": "/ˈwik.end/"
-  },
-  "look": {
-   "def": "看",
-   "ipa": "/lʊk/"
-  },
-  "practice": {
-   "def": "练习",
-   "ipa": "/ˈpræk.tɪs/"
-  },
-  "take": {
-   "def": "拿;花费",
-   "ipa": "/teɪk/"
-  },
-  "most": {
-   "def": "大部分",
-   "ipa": "/moʊst/"
-  },
-  "starts": {
-   "def": "开始",
-   "ipa": "/stɑrts/"
-  },
-  "monday": {
-   "def": "星期一",
-   "ipa": "/ˈmʌn.deɪ/"
-  },
-  "time": {
-   "def": "时间;次",
-   "ipa": "/taɪm/"
-  },
-  "slowly": {
-   "def": "慢慢地",
-   "ipa": "/ˈsloʊ.li/"
-  },
-  "english": {
-   "def": "英语",
-   "ipa": "/ˈɪŋ.ɡlɪʃ/"
-  },
-  "one": {
-   "def": "一个",
-   "ipa": "/wʌn/"
-  },
-  "language": {
-   "def": "语言",
-   "ipa": "/ˈlæŋ.ɡwɪdʒ/"
   }
  }
 }

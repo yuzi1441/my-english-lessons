@@ -127,193 +127,137 @@
   }
  ],
  "lexicon": {
-  "use": {
-   "def": "使用",
-   "ipa": "/juz/"
-  },
-  "big": {
-   "def": "大的",
-   "ipa": "/bɪɡ/"
-  },
-  "now": {
-   "def": "现在",
-   "ipa": "/naʊ/"
-  },
-  "proud": {
-   "def": "自豪的",
-   "ipa": "/praʊd/"
-  },
-  "error": {
-   "def": "错误",
-   "ipa": "/ˈer.ər/"
-  },
-  "happy": {
-   "def": "开心的",
-   "ipa": "/ˈhæp.i/"
-  },
-  "learning": {
-   "def": "学习",
-   "ipa": "/ˈlɝ.nɪŋ/"
-  },
-  "requests": {
-   "def": "请求们",
-   "ipa": "/rɪˈkwests/"
-  },
-  "team": {
-   "def": "团队",
-   "ipa": "/tim/"
-  },
-  "week": {
-   "def": "周;星期",
-   "ipa": "/wik/"
-  },
-  "something": {
-   "def": "某事",
-   "ipa": "/ˈsʌm.θɪŋ/"
-  },
-  "look": {
-   "def": "看",
-   "ipa": "/lʊk/"
-  },
-  "feature": {
-   "def": "功能",
-   "ipa": "/ˈfi.tʃər/"
-  },
-  "first": {
-   "def": "第一个;初次",
-   "ipa": "/fɝst/"
-  },
-  "much": {
-   "def": "很多",
-   "ipa": "/mʌtʃ/"
-  },
-  "logs": {
-   "def": "日志们",
-   "ipa": "/lɔɡz/"
-  },
-  "put": {
-   "def": "放;放置",
-   "ipa": "/pʊt/"
-  },
-  "rate": {
-   "def": "比率",
-   "ipa": "/reɪt/"
-  },
-  "minutes": {
-   "def": "分钟",
-   "ipa": "/ˈmɪn.ɪts/"
-  },
-  "when": {
-   "def": "当…时",
-   "ipa": "/wen/"
-  },
-  "see": {
-   "def": "看到",
-   "ipa": "/si/"
-  },
-  "many": {
-   "def": "许多",
-   "ipa": "/ˈmen.i/"
-  },
-  "records": {
-   "def": "记录们",
-   "ipa": "/ˈrek.ərdz/"
-  },
-  "asks": {
-   "def": "请求;问",
-   "ipa": "/æsks/"
-  },
-  "button": {
-   "def": "按钮",
-   "ipa": "/ˈbʌt.ən/"
-  },
-  "win": {
-   "def": "胜利",
-   "ipa": "/wɪn/"
-  },
-  "day": {
-   "def": "一天",
-   "ipa": "/deɪ/"
-  },
-  "problems": {
-   "def": "问题们",
-   "ipa": "/ˈprɑ.bləmz/"
-  },
-  "user": {
-   "def": "用户",
-   "ipa": "/ˈju.zər/"
-  },
   "deploy": {
    "def": "部署;上线",
    "ipa": "/dɪˈplɔɪ/"
-  },
-  "call": {
-   "def": "称呼;打电话",
-   "ipa": "/kɔl/"
-  },
-  "maria": {
-   "def": "人名;Maria",
-   "ipa": "/məˈri.ə/"
-  },
-  "live": {
-   "def": "上线;直播",
-   "ipa": "/lɪv/"
-  },
-  "says": {
-   "def": "说",
-   "ipa": "/sez/"
-  },
-  "online": {
-   "def": "在线的",
-   "ipa": "/ˈɑn.laɪn/"
   },
   "home": {
    "def": "家",
    "ipa": "/hoʊm/"
   },
+  "screen": {
+   "def": "屏幕",
+   "ipa": "/skrin/"
+  },
+  "much": {
+   "def": "很多",
+   "ipa": "/mʌtʃ/"
+  },
+  "first": {
+   "def": "第一个;初次",
+   "ipa": "/fɝst/"
+  },
+  "day": {
+   "def": "一天",
+   "ipa": "/deɪ/"
+  },
+  "use": {
+   "def": "使用",
+   "ipa": "/juz/"
+  },
+  "something": {
+   "def": "某事",
+   "ipa": "/ˈsʌm.θɪŋ/"
+  },
   "low": {
    "def": "低的",
    "ipa": "/loʊ/"
+  },
+  "errors": {
+   "def": "错误们",
+   "ipa": "/ˈer.ərz/"
   },
   "works": {
    "def": "起作用;运作",
    "ipa": "/wɝks/"
   },
-  "press": {
-   "def": "按",
-   "ipa": "/pres/"
+  "watch": {
+   "def": "观察;看",
+   "ipa": "/wɑtʃ/"
   },
-  "screen": {
-   "def": "屏幕",
-   "ipa": "/skrin/"
+  "program": {
+   "def": "程序",
+   "ipa": "/ˈproʊ.ɡræm/"
   },
-  "clean": {
-   "def": "干净的",
-   "ipa": "/klin/"
+  "see": {
+   "def": "看到",
+   "ipa": "/si/"
   },
-  "check": {
-   "def": "检查",
-   "ipa": "/tʃek/"
+  "win": {
+   "def": "胜利",
+   "ipa": "/wɪn/"
   },
-  "finish": {
-   "def": "完成",
-   "ipa": "/ˈfɪn.ɪʃ/"
+  "error": {
+   "def": "错误",
+   "ipa": "/ˈer.ər/"
   },
-  "everything": {
-   "def": "一切",
-   "ipa": "/ˈev.ri.θɪŋ/"
-  },
-  "fail": {
-   "def": "失败",
-   "ipa": "/feɪl/"
+  "way": {
+   "def": "路;方式",
+   "ipa": "/weɪ/"
   },
   "little": {
    "def": "一点",
    "ipa": "/ˈlɪt.əl/"
   },
+  "look": {
+   "def": "看",
+   "ipa": "/lʊk/"
+  },
+  "button": {
+   "def": "按钮",
+   "ipa": "/ˈbʌt.ən/"
+  },
+  "online": {
+   "def": "在线的",
+   "ipa": "/ˈɑn.laɪn/"
+  },
+  "press": {
+   "def": "按",
+   "ipa": "/pres/"
+  },
   "high-five": {
    "def": "击掌",
    "ipa": "/ˈhaɪ.faɪv/"
+  },
+  "week": {
+   "def": "周;星期",
+   "ipa": "/wik/"
+  },
+  "says": {
+   "def": "说",
+   "ipa": "/sez/"
+  },
+  "happy": {
+   "def": "开心的",
+   "ipa": "/ˈhæp.i/"
+  },
+  "many": {
+   "def": "许多",
+   "ipa": "/ˈmen.i/"
+  },
+  "live": {
+   "def": "上线;直播",
+   "ipa": "/lɪv/"
+  },
+  "learning": {
+   "def": "学习",
+   "ipa": "/ˈlɝ.nɪŋ/"
+  },
+  "big": {
+   "def": "大的",
+   "ipa": "/bɪɡ/"
+  },
+  "problems": {
+   "def": "问题们",
+   "ipa": "/ˈprɑ.bləmz/"
+  },
+  "records": {
+   "def": "记录们",
+   "ipa": "/ˈrek.ərdz/"
+  },
+  "safe": {
+   "def": "安全的",
+   "ipa": "/seɪf/"
   },
   "wait": {
    "def": "等待",
@@ -323,57 +267,113 @@
    "def": "感觉",
    "ipa": "/fil/"
   },
-  "watch": {
-   "def": "观察;看",
-   "ipa": "/wɑtʃ/"
-  },
-  "way": {
-   "def": "路;方式",
-   "ipa": "/weɪ/"
-  },
-  "writes": {
-   "def": "写",
-   "ipa": "/raɪts/"
-  },
-  "ready": {
-   "def": "准备好的",
-   "ipa": "/ˈred.i/"
-  },
-  "friday": {
-   "def": "星期五",
-   "ipa": "/ˈfraɪ.deɪ/"
-  },
-  "excited": {
-   "def": "兴奋的",
-   "ipa": "/ɪkˈsaɪ.tɪd/"
-  },
-  "ten": {
-   "def": "十",
-   "ipa": "/ten/"
+  "requests": {
+   "def": "请求们",
+   "ipa": "/rɪˈkwests/"
   },
   "how": {
    "def": "怎样",
    "ipa": "/haʊ/"
   },
-  "safe": {
-   "def": "安全的",
-   "ipa": "/seɪf/"
+  "maria": {
+   "def": "人名;Maria",
+   "ipa": "/məˈri.ə/"
   },
   "users": {
    "def": "用户们",
    "ipa": "/ˈju.zərz/"
   },
+  "everything": {
+   "def": "一切",
+   "ipa": "/ˈev.ri.θɪŋ/"
+  },
+  "ready": {
+   "def": "准备好的",
+   "ipa": "/ˈred.i/"
+  },
+  "logs": {
+   "def": "日志们",
+   "ipa": "/lɔɡz/"
+  },
+  "when": {
+   "def": "当…时",
+   "ipa": "/wen/"
+  },
+  "put": {
+   "def": "放;放置",
+   "ipa": "/pʊt/"
+  },
+  "finish": {
+   "def": "完成",
+   "ipa": "/ˈfɪn.ɪʃ/"
+  },
+  "user": {
+   "def": "用户",
+   "ipa": "/ˈju.zər/"
+  },
+  "now": {
+   "def": "现在",
+   "ipa": "/naʊ/"
+  },
+  "clean": {
+   "def": "干净的",
+   "ipa": "/klin/"
+  },
   "request": {
    "def": "请求",
    "ipa": "/rɪˈkwest/"
   },
-  "errors": {
-   "def": "错误们",
-   "ipa": "/ˈer.ərz/"
+  "call": {
+   "def": "称呼;打电话",
+   "ipa": "/kɔl/"
   },
-  "program": {
-   "def": "程序",
-   "ipa": "/ˈproʊ.ɡræm/"
+  "writes": {
+   "def": "写",
+   "ipa": "/raɪts/"
+  },
+  "ten": {
+   "def": "十",
+   "ipa": "/ten/"
+  },
+  "excited": {
+   "def": "兴奋的",
+   "ipa": "/ɪkˈsaɪ.tɪd/"
+  },
+  "feature": {
+   "def": "功能",
+   "ipa": "/ˈfi.tʃər/"
+  },
+  "asks": {
+   "def": "请求;问",
+   "ipa": "/æsks/"
+  },
+  "fail": {
+   "def": "失败",
+   "ipa": "/feɪl/"
+  },
+  "proud": {
+   "def": "自豪的",
+   "ipa": "/praʊd/"
+  },
+  "friday": {
+   "def": "星期五",
+   "ipa": "/ˈfraɪ.deɪ/"
+  },
+  "team": {
+   "def": "团队",
+   "ipa": "/tim/"
+  },
+  "rate": {
+   "def": "比率",
+   "ipa": "/reɪt/"
+  },
+  "check": {
+   "def": "检查",
+   "ipa": "/tʃek/"
+  },
+  "minutes": {
+   "def": "分钟",
+   "ipa": "/ˈmɪn.ɪts/"
   }
  }
 }
