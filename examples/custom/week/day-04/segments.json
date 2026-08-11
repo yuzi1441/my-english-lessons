@@ -1,0 +1,347 @@
+{
+ "meta": {
+  "title": "Thursday: The AI Brain",
+  "title_zh": "周四：AI 大脑",
+  "source": "Week 1 - Day 4",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 153,
+   "segment_count": 3,
+   "difficulty": "入门",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "语言模型",
+    "问问题",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先逐句听读一遍 · 再看中文讲解 · 最后完成英文小练习"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "On Thursday, I learn about the AI brain. The brain is a language model. A language model is a big program. It reads words and writes new words. It is like a smart friend that knows English. I ask the model a question in English. It answers in English. I am amazed.",
+   "tts": "On Thursday, I learn about the AI brain. The brain is a language model. A language model is a big program. It reads words and writes new words. It is like a smart friend that knows English. I ask the model a question in English. It answers in English. I am amazed.",
+   "zh": "周四我学习 AI 大脑。大脑是个语言模型，语言模型是个很大的程序，它能读文字、写新文字，像个懂英语的聪明朋友。我用英文问它问题，它用英文回答，我很惊叹。讲解：language model=语言模型，smart=聪明的，question=问题，amazed=惊叹的。句形 learn about X=学习 X，ask a question=问问题，answer in English=用英文回答。",
+   "hard": [
+    {
+     "w": "afternoon",
+     "type": "word",
+     "def": "下午"
+    },
+    {
+     "w": "amazed",
+     "type": "word",
+     "def": "惊叹的"
+    },
+    {
+     "w": "answers",
+     "type": "word",
+     "def": "回答"
+    },
+    {
+     "w": "ask",
+     "type": "word",
+     "def": "问"
+    },
+    {
+     "w": "big",
+     "type": "word",
+     "def": "大的"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I give the model a prompt. A prompt is the instruction I give it. I write: you are a friendly teacher. Answer in short sentences. The model follows my prompt. It answers in short sentences. A good prompt makes a big difference. I learn that prompt engineering is a real job.",
+   "tts": "I give the model a prompt. A prompt is the instruction I give it. I write: you are a friendly teacher. Answer in short sentences. The model follows my prompt. It answers in short sentences. A good prompt makes a big difference. I learn that prompt engineering is a real job.",
+   "zh": "我给模型一个 prompt（提示词），就是给它的指令。我写：你是一个友善的老师，用短句回答。模型照做了，用短句回答。好的 prompt 效果差别很大。我了解到提示词工程是真实的工作。讲解：friendly=友善的，teacher=老师，follow=跟随/照做，difference=差别。句形 give a prompt=给提示词，make a big difference=效果差别很大，a real job=一个真实的工作。",
+   "hard": []
+  },
+  {
+   "id": "seg-03",
+   "en": "In the afternoon, I try many prompts. One prompt is too long. The answer is messy. Another prompt is too short. The answer is unclear. I find a good one: short, clear, and friendly. The answer is clean. Testing is how I learn. I feel like a small scientist today.",
+   "tts": "In the afternoon, I try many prompts. One prompt is too long. The answer is messy. Another prompt is too short. The answer is unclear. I find a good one: short, clear, and friendly. The answer is clean. Testing is how I learn. I feel like a small scientist today.",
+   "zh": "下午我试了很多提示词。一个太长了，答案乱；一个太短了，答案不清楚。我找到一个好的：简短、清楚、友善，答案就干净了。靠试错来学习，今天我觉得自己像个小学者。讲解：messy=凌乱的，unclear=不清楚的，clean=干净的，scientist=科学家。句形 too long / too short=太长/太短，feel like=感觉像，testing is how I learn=试错就是我学习的方式。",
+   "hard": []
+  }
+ ],
+ "chunks": [
+  {
+   "t": "a language model",
+   "cn": "语言模型",
+   "eg": "The chat program uses a language model."
+  },
+  {
+   "t": "ask a question",
+   "cn": "问问题",
+   "eg": "I ask the model a question."
+  },
+  {
+   "t": "give a prompt",
+   "cn": "给提示词",
+   "eg": "I give the model a clear prompt."
+  },
+  {
+   "t": "make a difference",
+   "cn": "产生差别;起作用",
+   "eg": "A good prompt makes a difference."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "X is like Y.",
+   "cn": "X 就像 Y。例如：It is like a smart friend."
+  },
+  {
+   "t": "X makes a big difference.",
+   "cn": "X 效果差别很大。"
+  },
+  {
+   "t": "One X is too long. Another X is too short.",
+   "cn": "一个 X 太长，另一个太短。"
+  },
+  {
+   "t": "Testing is how I learn.",
+   "cn": "试错是我学习的方式。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Write 3 short sentences about how to write a good prompt, like a small design note. Use a language model, ask a question, and make a difference.",
+   "hint_chunks": [
+    "a language model",
+    "ask a question",
+    "make a difference"
+   ]
+  }
+ ],
+ "lexicon": {
+  "knows": {
+   "def": "知道",
+   "ipa": "/noʊz/"
+  },
+  "another": {
+   "def": "另一个",
+   "ipa": "/əˈnʌð.ər/"
+  },
+  "friendly": {
+   "def": "友好的",
+   "ipa": "/ˈfrend.li/"
+  },
+  "question": {
+   "def": "问题",
+   "ipa": "/ˈkwes.tʃən/"
+  },
+  "new": {
+   "def": "新的",
+   "ipa": "/nu/"
+  },
+  "big": {
+   "def": "大的",
+   "ipa": "/bɪɡ/"
+  },
+  "answers": {
+   "def": "回答",
+   "ipa": "/ˈæn.sərz/"
+  },
+  "prompts": {
+   "def": "提示词们",
+   "ipa": "/prɑmpts/"
+  },
+  "try": {
+   "def": "尝试",
+   "ipa": "/traɪ/"
+  },
+  "english": {
+   "def": "英语",
+   "ipa": "/ˈɪŋ.ɡlɪʃ/"
+  },
+  "unclear": {
+   "def": "不清楚的",
+   "ipa": "/ʌnˈklɪr/"
+  },
+  "job": {
+   "def": "工作",
+   "ipa": "/dʒɑb/"
+  },
+  "feel": {
+   "def": "感觉",
+   "ipa": "/fil/"
+  },
+  "friend": {
+   "def": "朋友",
+   "ipa": "/frend/"
+  },
+  "short": {
+   "def": "短的",
+   "ipa": "/ʃɔrt/"
+  },
+  "sentences": {
+   "def": "句子们",
+   "ipa": "/ˈsen.tənsɪz/"
+  },
+  "instruction": {
+   "def": "指令",
+   "ipa": "/ɪnˈstrʌk.ʃən/"
+  },
+  "writes": {
+   "def": "写",
+   "ipa": "/raɪts/"
+  },
+  "testing": {
+   "def": "测试;试错",
+   "ipa": "/ˈtes.tɪŋ/"
+  },
+  "many": {
+   "def": "许多",
+   "ipa": "/ˈmen.i/"
+  },
+  "learn": {
+   "def": "学习",
+   "ipa": "/lɝn/"
+  },
+  "find": {
+   "def": "找到;发现",
+   "ipa": "/faɪnd/"
+  },
+  "small": {
+   "def": "小的",
+   "ipa": "/smɔl/"
+  },
+  "follows": {
+   "def": "遵循",
+   "ipa": "/ˈfɑ.loʊz/"
+  },
+  "write": {
+   "def": "写",
+   "ipa": "/raɪt/"
+  },
+  "brain": {
+   "def": "大脑",
+   "ipa": "/breɪn/"
+  },
+  "thursday": {
+   "def": "星期四",
+   "ipa": "/ˈθɝz.deɪ/"
+  },
+  "engineering": {
+   "def": "工程",
+   "ipa": "/ˌen.dʒɪˈnɪr.ɪŋ/"
+  },
+  "afternoon": {
+   "def": "下午",
+   "ipa": "/ˌæf.tərˈnun/"
+  },
+  "how": {
+   "def": "怎样",
+   "ipa": "/haʊ/"
+  },
+  "words": {
+   "def": "单词们",
+   "ipa": "/wɝdz/"
+  },
+  "good": {
+   "def": "好的",
+   "ipa": "/ɡʊd/"
+  },
+  "difference": {
+   "def": "差别",
+   "ipa": "/ˈdɪf.ər.əns/"
+  },
+  "real": {
+   "def": "真实的",
+   "ipa": "/ril/"
+  },
+  "clear": {
+   "def": "清楚的",
+   "ipa": "/klɪr/"
+  },
+  "ask": {
+   "def": "问",
+   "ipa": "/æsk/"
+  },
+  "answer": {
+   "def": "回答",
+   "ipa": "/ˈæn.sər/"
+  },
+  "give": {
+   "def": "给",
+   "ipa": "/ɡɪv/"
+  },
+  "makes": {
+   "def": "做;使",
+   "ipa": "/meɪks/"
+  },
+  "reads": {
+   "def": "阅读",
+   "ipa": "/ridz/"
+  },
+  "clean": {
+   "def": "干净的",
+   "ipa": "/klin/"
+  },
+  "model": {
+   "def": "模型",
+   "ipa": "/ˈmɑ.dəl/"
+  },
+  "program": {
+   "def": "程序",
+   "ipa": "/ˈproʊ.ɡræm/"
+  },
+  "amazed": {
+   "def": "惊叹的",
+   "ipa": "/əˈmeɪzd/"
+  },
+  "scientist": {
+   "def": "科学家",
+   "ipa": "/ˈsaɪ.ən.tɪst/"
+  },
+  "teacher": {
+   "def": "老师",
+   "ipa": "/ˈti.tʃər/"
+  },
+  "today": {
+   "def": "今天",
+   "ipa": "/təˈdeɪ/"
+  },
+  "smart": {
+   "def": "聪明的",
+   "ipa": "/smɑrt/"
+  },
+  "like": {
+   "def": "像;喜欢",
+   "ipa": "/laɪk/"
+  },
+  "messy": {
+   "def": "凌乱的",
+   "ipa": "/ˈmes.i/"
+  },
+  "long": {
+   "def": "长的",
+   "ipa": "/lɔŋ/"
+  },
+  "one": {
+   "def": "一个",
+   "ipa": "/wʌn/"
+  },
+  "prompt": {
+   "def": "提示词",
+   "ipa": "/prɑmpt/"
+  },
+  "language": {
+   "def": "语言",
+   "ipa": "/ˈlæŋ.ɡwɪdʒ/"
+  }
+ }
+}

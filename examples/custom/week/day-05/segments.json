@@ -1,0 +1,379 @@
+{
+ "meta": {
+  "title": "Friday: Deploy Day",
+  "title_zh": "周五：上线日",
+  "source": "Week 1 - Day 5",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 134,
+   "segment_count": 3,
+   "difficulty": "入门",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "上线",
+    "错误率",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先逐句听读一遍 · 再看中文讲解 · 最后完成英文小练习"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "On Friday, we put the feature online. We call this deploy. The team is a little excited. Deploy day is a big day. First, I check the logs. Logs are the records the program writes. The logs look clean. No errors.",
+   "tts": "On Friday, we put the feature online. We call this deploy. The team is a little excited. Deploy day is a big day. First, I check the logs. Logs are the records the program writes. The logs look clean. No errors.",
+   "zh": "周五我们把功能上线，这叫 deploy（部署）。团队有点兴奋，上线日是大日子。先检查日志，日志是程序写下的记录。日志看起来很干净，没有错误。讲解：put online=上线，excited=兴奋的，records=记录，clean=干净的，errors=错误们。句形 put X online=把 X 上线，check the logs=检查日志，a big day=重要的一天。",
+   "hard": [
+    {
+     "w": "asks",
+     "type": "word",
+     "def": "请求;问"
+    },
+    {
+     "w": "big",
+     "type": "word",
+     "def": "大的"
+    },
+    {
+     "w": "button",
+     "type": "word",
+     "def": "按钮"
+    },
+    {
+     "w": "errors",
+     "type": "word",
+     "def": "错误们"
+    },
+    {
+     "w": "everything",
+     "type": "word",
+     "def": "一切"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "Then I watch the error rate. Error rate is how many requests fail. A request is when a user asks for something. The rate is low. We are safe. Maria says: ready to go. I press the deploy button. We wait. Then we see: it is live.",
+   "tts": "Then I watch the error rate. Error rate is how many requests fail. A request is when a user asks for something. The rate is low. We are safe. Maria says: ready to go. I press the deploy button. We wait. Then we see: it is live.",
+   "zh": "然后我盯错误率，就是请求失败的占比。请求就是用户向程序要东西。比率很低，我们很安全。Maria 说：准备上线。我按下部署按钮，我们等待，然后看到：上线了。讲解：watch=观察，low=低的，safe=安全的，press=按，live=上线/在线的。句形 error rate=错误率，ready to go=准备出发/可以上了，press the button=按按钮。",
+   "hard": []
+  },
+  {
+   "id": "seg-03",
+   "en": "The feature is live. Users can use it now. I watch the screen for ten minutes. Everything works. No problems. The team is happy. We high-five. I finish my first week with a win. On the way home, I feel proud. I am learning so much.",
+   "tts": "The feature is live. Users can use it now. I watch the screen for ten minutes. Everything works. No problems. The team is happy. We high-five. I finish my first week with a win. On the way home, I feel proud. I am learning so much.",
+   "zh": "功能上线了，用户现在能用了。我盯着屏幕看了十分钟，一切正常，没有问题。团队很开心，我们击掌庆祝。第一周以一场胜利结束。回家的路上我很自豪，我学到了好多。讲解：works=正常运作，high-five=击掌，win=胜利，on the way home=回家路上。句形 everything works=一切正常，with a win=以一场胜利，learn so much=学到很多。",
+   "hard": []
+  }
+ ],
+ "chunks": [
+  {
+   "t": "put online",
+   "cn": "上线",
+   "eg": "We put the feature online on Friday."
+  },
+  {
+   "t": "error rate",
+   "cn": "错误率",
+   "eg": "I watch the error rate after deploy."
+  },
+  {
+   "t": "ready to go",
+   "cn": "准备就绪;可以上了",
+   "eg": "The code is ready to go."
+  },
+  {
+   "t": "on the way home",
+   "cn": "回家路上",
+   "eg": "I feel proud on the way home."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "We call this X.",
+   "cn": "我们叫它 X。例如：We call this deploy."
+  },
+  {
+   "t": "X is when Y.",
+   "cn": "X 就是 Y 的时候。例如：A request is when a user asks."
+  },
+  {
+   "t": "We are safe.",
+   "cn": "我们是安全的。"
+  },
+  {
+   "t": "Everything works.",
+   "cn": "一切正常。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "slack_message",
+   "task": "Write 3 short sentences in English, like a message to the team after deploy. Say the feature is live and all is well. Use put online, error rate, and ready to go.",
+   "hint_chunks": [
+    "put online",
+    "error rate",
+    "ready to go"
+   ]
+  }
+ ],
+ "lexicon": {
+  "use": {
+   "def": "使用",
+   "ipa": "/juz/"
+  },
+  "big": {
+   "def": "大的",
+   "ipa": "/bɪɡ/"
+  },
+  "now": {
+   "def": "现在",
+   "ipa": "/naʊ/"
+  },
+  "proud": {
+   "def": "自豪的",
+   "ipa": "/praʊd/"
+  },
+  "error": {
+   "def": "错误",
+   "ipa": "/ˈer.ər/"
+  },
+  "happy": {
+   "def": "开心的",
+   "ipa": "/ˈhæp.i/"
+  },
+  "learning": {
+   "def": "学习",
+   "ipa": "/ˈlɝ.nɪŋ/"
+  },
+  "requests": {
+   "def": "请求们",
+   "ipa": "/rɪˈkwests/"
+  },
+  "team": {
+   "def": "团队",
+   "ipa": "/tim/"
+  },
+  "week": {
+   "def": "周;星期",
+   "ipa": "/wik/"
+  },
+  "something": {
+   "def": "某事",
+   "ipa": "/ˈsʌm.θɪŋ/"
+  },
+  "look": {
+   "def": "看",
+   "ipa": "/lʊk/"
+  },
+  "feature": {
+   "def": "功能",
+   "ipa": "/ˈfi.tʃər/"
+  },
+  "first": {
+   "def": "第一个;初次",
+   "ipa": "/fɝst/"
+  },
+  "much": {
+   "def": "很多",
+   "ipa": "/mʌtʃ/"
+  },
+  "logs": {
+   "def": "日志们",
+   "ipa": "/lɔɡz/"
+  },
+  "put": {
+   "def": "放;放置",
+   "ipa": "/pʊt/"
+  },
+  "rate": {
+   "def": "比率",
+   "ipa": "/reɪt/"
+  },
+  "minutes": {
+   "def": "分钟",
+   "ipa": "/ˈmɪn.ɪts/"
+  },
+  "when": {
+   "def": "当…时",
+   "ipa": "/wen/"
+  },
+  "see": {
+   "def": "看到",
+   "ipa": "/si/"
+  },
+  "many": {
+   "def": "许多",
+   "ipa": "/ˈmen.i/"
+  },
+  "records": {
+   "def": "记录们",
+   "ipa": "/ˈrek.ərdz/"
+  },
+  "asks": {
+   "def": "请求;问",
+   "ipa": "/æsks/"
+  },
+  "button": {
+   "def": "按钮",
+   "ipa": "/ˈbʌt.ən/"
+  },
+  "win": {
+   "def": "胜利",
+   "ipa": "/wɪn/"
+  },
+  "day": {
+   "def": "一天",
+   "ipa": "/deɪ/"
+  },
+  "problems": {
+   "def": "问题们",
+   "ipa": "/ˈprɑ.bləmz/"
+  },
+  "user": {
+   "def": "用户",
+   "ipa": "/ˈju.zər/"
+  },
+  "deploy": {
+   "def": "部署;上线",
+   "ipa": "/dɪˈplɔɪ/"
+  },
+  "call": {
+   "def": "称呼;打电话",
+   "ipa": "/kɔl/"
+  },
+  "maria": {
+   "def": "人名;Maria",
+   "ipa": "/məˈri.ə/"
+  },
+  "live": {
+   "def": "上线;直播",
+   "ipa": "/lɪv/"
+  },
+  "says": {
+   "def": "说",
+   "ipa": "/sez/"
+  },
+  "online": {
+   "def": "在线的",
+   "ipa": "/ˈɑn.laɪn/"
+  },
+  "home": {
+   "def": "家",
+   "ipa": "/hoʊm/"
+  },
+  "low": {
+   "def": "低的",
+   "ipa": "/loʊ/"
+  },
+  "works": {
+   "def": "起作用;运作",
+   "ipa": "/wɝks/"
+  },
+  "press": {
+   "def": "按",
+   "ipa": "/pres/"
+  },
+  "screen": {
+   "def": "屏幕",
+   "ipa": "/skrin/"
+  },
+  "clean": {
+   "def": "干净的",
+   "ipa": "/klin/"
+  },
+  "check": {
+   "def": "检查",
+   "ipa": "/tʃek/"
+  },
+  "finish": {
+   "def": "完成",
+   "ipa": "/ˈfɪn.ɪʃ/"
+  },
+  "everything": {
+   "def": "一切",
+   "ipa": "/ˈev.ri.θɪŋ/"
+  },
+  "fail": {
+   "def": "失败",
+   "ipa": "/feɪl/"
+  },
+  "little": {
+   "def": "一点",
+   "ipa": "/ˈlɪt.əl/"
+  },
+  "high-five": {
+   "def": "击掌",
+   "ipa": "/ˈhaɪ.faɪv/"
+  },
+  "wait": {
+   "def": "等待",
+   "ipa": "/weɪt/"
+  },
+  "feel": {
+   "def": "感觉",
+   "ipa": "/fil/"
+  },
+  "watch": {
+   "def": "观察;看",
+   "ipa": "/wɑtʃ/"
+  },
+  "way": {
+   "def": "路;方式",
+   "ipa": "/weɪ/"
+  },
+  "writes": {
+   "def": "写",
+   "ipa": "/raɪts/"
+  },
+  "ready": {
+   "def": "准备好的",
+   "ipa": "/ˈred.i/"
+  },
+  "friday": {
+   "def": "星期五",
+   "ipa": "/ˈfraɪ.deɪ/"
+  },
+  "excited": {
+   "def": "兴奋的",
+   "ipa": "/ɪkˈsaɪ.tɪd/"
+  },
+  "ten": {
+   "def": "十",
+   "ipa": "/ten/"
+  },
+  "how": {
+   "def": "怎样",
+   "ipa": "/haʊ/"
+  },
+  "safe": {
+   "def": "安全的",
+   "ipa": "/seɪf/"
+  },
+  "users": {
+   "def": "用户们",
+   "ipa": "/ˈju.zərz/"
+  },
+  "request": {
+   "def": "请求",
+   "ipa": "/rɪˈkwest/"
+  },
+  "errors": {
+   "def": "错误们",
+   "ipa": "/ˈer.ərz/"
+  },
+  "program": {
+   "def": "程序",
+   "ipa": "/ˈproʊ.ɡræm/"
+  }
+ }
+}

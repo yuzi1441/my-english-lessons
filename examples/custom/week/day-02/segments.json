@@ -1,0 +1,387 @@
+{
+ "meta": {
+  "title": "Tuesday: The Branch and the Bug",
+  "title_zh": "周二：分支与 Bug",
+  "source": "Week 1 - Day 2",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 170,
+   "segment_count": 3,
+   "difficulty": "入门",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "新建分支",
+    "干得好",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先逐句听读一遍 · 再看中文讲解 · 最后完成英文小练习"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "On Tuesday, I fix the bug. First, I make a new branch. A branch is a copy of the code. I work in the branch. This is safe. The main branch stays clean. I change one line of code. Then I test it. The bug is gone. I am happy. My first fix is done.",
+   "tts": "On Tuesday, I fix the bug. First, I make a new branch. A branch is a copy of the code. I work in the branch. This is safe. The main branch stays clean. I change one line of code. Then I test it. The bug is gone. I am happy. My first fix is done.",
+   "zh": "周二我修 bug。先新建一个分支，分支是代码的副本，我在分支里改。这样很安全，主干分支保持干净。我改了一行代码，然后测试，bug 消失了。我很开心，第一次修复完成了。讲解：safe=安全的，clean=干净的，line=行，gone=消失了。句形 make a new branch=新建分支，change one line of code=改一行代码，be done=完成了。",
+   "hard": [
+    {
+     "w": "alex",
+     "type": "word",
+     "def": "人名;Alex"
+    },
+    {
+     "w": "brain",
+     "type": "word",
+     "def": "大脑"
+    },
+    {
+     "w": "checks",
+     "type": "word",
+     "def": "检查"
+    },
+    {
+     "w": "command",
+     "type": "word",
+     "def": "命令"
+    },
+    {
+     "w": "copy",
+     "type": "word",
+     "def": "副本;复制"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "Maria checks my work. She says: good job, Alex. Then she shows me how to push the code. Push means send the code to GitHub. GitHub is a website for code. I type one command and push. The code is on GitHub now. Everyone on the team can see it. I feel proud of my small change.",
+   "tts": "Maria checks my work. She says: good job, Alex. Then she shows me how to push the code. Push means send the code to GitHub. GitHub is a website for code. I type one command and push. The code is on GitHub now. Everyone on the team can see it. I feel proud of my small change.",
+   "zh": "Maria 检查我的工作，她说：干得好，Alex。然后她教我怎么 push 代码。push 就是把代码发到 GitHub，GitHub 是个存放代码的网站。我敲一条命令就推送了，现在代码在 GitHub 上，队友都能看到。我为这个小改动感到自豪。讲解：good job=干得好，type a command=敲命令，proud=自豪的，see=看到。句形 show me how to X=教我怎么做 X，feel proud of X=为 X 自豪。",
+   "hard": []
+  },
+  {
+   "id": "seg-03",
+   "en": "After lunch, I learn more about the chat program. It has two parts. The first part talks to users. The second part is the AI brain. The AI brain reads the message and writes an answer. I read the code slowly. Some words are new to me. Maria helps me. I write the new words in my notebook.",
+   "tts": "After lunch, I learn more about the chat program. It has two parts. The first part talks to users. The second part is the AI brain. The AI brain reads the message and writes an answer. I read the code slowly. Some words are new to me. Maria helps me. I write the new words in my notebook.",
+   "zh": "午饭后我继续了解聊天程序。它有两部分：第一部分和用户对话，第二部分是 AI 大脑。AI 大脑读消息、写回答。我慢慢读代码，有些词我不认识，Maria 帮我，我把新词记在笔记本上。讲解：part=部分，brain=大脑，message=消息，answer=回答，notebook=笔记本。句形 learn about X=了解 X，read the code slowly=慢慢读代码，write in my notebook=记在笔记本上。",
+   "hard": []
+  }
+ ],
+ "chunks": [
+  {
+   "t": "make a new branch",
+   "cn": "新建分支",
+   "eg": "Make a new branch before you code."
+  },
+  {
+   "t": "good job",
+   "cn": "干得好",
+   "eg": "Good job on the fix, Alex."
+  },
+  {
+   "t": "push the code",
+   "cn": "推送代码",
+   "eg": "I push the code to GitHub."
+  },
+  {
+   "t": "write in my notebook",
+   "cn": "记在笔记本上",
+   "eg": "I write new words in my notebook."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "X means Y.",
+   "cn": "X 的意思是 Y。例如：Push means send the code."
+  },
+  {
+   "t": "I feel proud of X.",
+   "cn": "我为 X 感到自豪。"
+  },
+  {
+   "t": "It has two parts.",
+   "cn": "它有两部分。"
+  },
+  {
+   "t": "Some words are new to me.",
+   "cn": "有些词我不认识。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "pr_description",
+   "task": "Write 3 short sentences about your first fix, like a note to the team. Say what the bug was and how you fixed it. Use make a new branch, push the code, and good job.",
+   "hint_chunks": [
+    "make a new branch",
+    "push the code",
+    "good job"
+   ]
+  }
+ ],
+ "lexicon": {
+  "new": {
+   "def": "新的",
+   "ipa": "/nu/"
+  },
+  "now": {
+   "def": "现在",
+   "ipa": "/naʊ/"
+  },
+  "proud": {
+   "def": "自豪的",
+   "ipa": "/praʊd/"
+  },
+  "test": {
+   "def": "测试",
+   "ipa": "/test/"
+  },
+  "main": {
+   "def": "主要的",
+   "ipa": "/meɪn/"
+  },
+  "change": {
+   "def": "改变;改动",
+   "ipa": "/tʃeɪndʒ/"
+  },
+  "talks": {
+   "def": "交谈",
+   "ipa": "/tɔks/"
+  },
+  "happy": {
+   "def": "开心的",
+   "ipa": "/ˈhæp.i/"
+  },
+  "alex": {
+   "def": "人名;Alex",
+   "ipa": "/ˈæl.ɪks/"
+  },
+  "brain": {
+   "def": "大脑",
+   "ipa": "/breɪn/"
+  },
+  "chat": {
+   "def": "聊天",
+   "ipa": "/tʃæt/"
+  },
+  "make": {
+   "def": "做;制造",
+   "ipa": "/meɪk/"
+  },
+  "answer": {
+   "def": "回答",
+   "ipa": "/ˈæn.sər/"
+  },
+  "team": {
+   "def": "团队",
+   "ipa": "/tim/"
+  },
+  "parts": {
+   "def": "部分们",
+   "ipa": "/pɑrts/"
+  },
+  "command": {
+   "def": "命令",
+   "ipa": "/kəˈmænd/"
+  },
+  "first": {
+   "def": "第一个;初次",
+   "ipa": "/fɝst/"
+  },
+  "helps": {
+   "def": "帮助",
+   "ipa": "/helps/"
+  },
+  "send": {
+   "def": "发送",
+   "ipa": "/send/"
+  },
+  "fix": {
+   "def": "修复",
+   "ipa": "/fɪks/"
+  },
+  "branch": {
+   "def": "分支",
+   "ipa": "/bræntʃ/"
+  },
+  "gone": {
+   "def": "消失的",
+   "ipa": "/ɡɔn/"
+  },
+  "job": {
+   "def": "工作",
+   "ipa": "/dʒɑb/"
+  },
+  "second": {
+   "def": "第二;秒",
+   "ipa": "/ˈsek.ənd/"
+  },
+  "tuesday": {
+   "def": "星期二",
+   "ipa": "/ˈtuz.deɪ/"
+  },
+  "see": {
+   "def": "看到",
+   "ipa": "/si/"
+  },
+  "small": {
+   "def": "小的",
+   "ipa": "/smɔl/"
+  },
+  "write": {
+   "def": "写",
+   "ipa": "/raɪt/"
+  },
+  "line": {
+   "def": "行;线路",
+   "ipa": "/laɪn/"
+  },
+  "good": {
+   "def": "好的",
+   "ipa": "/ɡʊd/"
+  },
+  "shows": {
+   "def": "展示",
+   "ipa": "/ʃoʊz/"
+  },
+  "stays": {
+   "def": "保持;停留",
+   "ipa": "/steɪz/"
+  },
+  "lunch": {
+   "def": "午餐",
+   "ipa": "/lʌntʃ/"
+  },
+  "slowly": {
+   "def": "慢慢地",
+   "ipa": "/ˈsloʊ.li/"
+  },
+  "github": {
+   "def": "代码托管网站",
+   "ipa": "/ˈɡɪt.hʌb/"
+  },
+  "code": {
+   "def": "代码",
+   "ipa": "/koʊd/"
+  },
+  "maria": {
+   "def": "人名;Maria",
+   "ipa": "/məˈri.ə/"
+  },
+  "says": {
+   "def": "说",
+   "ipa": "/sez/"
+  },
+  "read": {
+   "def": "阅读",
+   "ipa": "/rid/"
+  },
+  "learn": {
+   "def": "学习",
+   "ipa": "/lɝn/"
+  },
+  "notebook": {
+   "def": "笔记本",
+   "ipa": "/ˈnoʊt.bʊk/"
+  },
+  "words": {
+   "def": "单词们",
+   "ipa": "/wɝdz/"
+  },
+  "clean": {
+   "def": "干净的",
+   "ipa": "/klin/"
+  },
+  "work": {
+   "def": "工作",
+   "ipa": "/wɝk/"
+  },
+  "bug": {
+   "def": "缺陷;小问题",
+   "ipa": "/bʌɡ/"
+  },
+  "done": {
+   "def": "完成的",
+   "ipa": "/dʌn/"
+  },
+  "website": {
+   "def": "网站",
+   "ipa": "/ˈweb.saɪt/"
+  },
+  "push": {
+   "def": "推送",
+   "ipa": "/pʊʃ/"
+  },
+  "message": {
+   "def": "消息",
+   "ipa": "/ˈmes.ɪdʒ/"
+  },
+  "feel": {
+   "def": "感觉",
+   "ipa": "/fil/"
+  },
+  "writes": {
+   "def": "写",
+   "ipa": "/raɪts/"
+  },
+  "part": {
+   "def": "部分",
+   "ipa": "/pɑrt/"
+  },
+  "how": {
+   "def": "怎样",
+   "ipa": "/haʊ/"
+  },
+  "safe": {
+   "def": "安全的",
+   "ipa": "/seɪf/"
+  },
+  "users": {
+   "def": "用户们",
+   "ipa": "/ˈju.zərz/"
+  },
+  "means": {
+   "def": "意思是",
+   "ipa": "/minz/"
+  },
+  "reads": {
+   "def": "阅读",
+   "ipa": "/ridz/"
+  },
+  "copy": {
+   "def": "副本;复制",
+   "ipa": "/ˈkɑ.pi/"
+  },
+  "type": {
+   "def": "敲;打字",
+   "ipa": "/taɪp/"
+  },
+  "everyone": {
+   "def": "每个人",
+   "ipa": "/ˈev.ri.wʌn/"
+  },
+  "program": {
+   "def": "程序",
+   "ipa": "/ˈproʊ.ɡræm/"
+  },
+  "two": {
+   "def": "二",
+   "ipa": "/tu/"
+  },
+  "one": {
+   "def": "一个",
+   "ipa": "/wʌn/"
+  },
+  "checks": {
+   "def": "检查",
+   "ipa": "/tʃeks/"
+  }
+ }
+}

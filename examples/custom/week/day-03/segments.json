@@ -1,0 +1,378 @@
+{
+ "meta": {
+  "title": "Wednesday: The Pull Request",
+  "title_zh": "周三：提交 PR",
+  "source": "Week 1 - Day 3",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 158,
+   "segment_count": 3,
+   "difficulty": "入门",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "开一个 PR",
+    "简称",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先逐句听读一遍 · 再看中文讲解 · 最后完成英文小练习"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "On Wednesday, I finish a bigger task. I add a small feature to the chat program. A feature is a new ability. Now the program can say hello to users. I write the code in my branch. Then I need to share it with the team. I open a pull request. We call it a PR for short.",
+   "tts": "On Wednesday, I finish a bigger task. I add a small feature to the chat program. A feature is a new ability. Now the program can say hello to users. I write the code in my branch. Then I need to share it with the team. I open a pull request. We call it a PR for short.",
+   "zh": "周三我完成一个稍大的任务：给聊天程序加个小功能。feature 就是新能力。现在程序能跟用户打招呼了。我在分支里写完代码，需要分享给团队，于是开了一个 pull request，简称 PR。讲解：ability=能力，say hello=打招呼，share=分享，for short=简称。句形 add a feature=加功能，open a pull request=开一个 PR，need to X=需要做 X。",
+   "hard": [
+    {
+     "w": "ability",
+     "type": "word",
+     "def": "能力"
+    },
+    {
+     "w": "add",
+     "type": "word",
+     "def": "添加"
+    },
+    {
+     "w": "asks",
+     "type": "word",
+     "def": "请求;问"
+    },
+    {
+     "w": "bigger",
+     "type": "word",
+     "def": "更大的"
+    },
+    {
+     "w": "called",
+     "type": "word",
+     "def": "被叫做"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "A pull request asks the team to check my code. This check is called a review. The computer also checks my code. It runs the tests by itself. The tests pass. I am happy. Then Maria looks at my code. She finds one small problem. She writes a comment under my code.",
+   "tts": "A pull request asks the team to check my code. This check is called a review. The computer also checks my code. It runs the tests by itself. The tests pass. I am happy. Then Maria looks at my code. She finds one small problem. She writes a comment under my code.",
+   "zh": "PR 就是请团队检查我的代码，这个检查叫 review（评审）。电脑也会自动检查，跑测试。测试通过了，我很开心。然后 Maria 看我的代码，发现一个小问题，在我的代码下面写了条评论。讲解：check=检查，pass=通过，look at=看，write a comment=写评论。句形 ask the team to check=请团队检查，run the tests=跑测试，find a problem=发现问题。",
+   "hard": []
+  },
+  {
+   "id": "seg-03",
+   "en": "I read Maria's comment. She says: this line is a little slow. You can make it faster. I am not upset. Good feedback helps me learn. I thank her and fix the line. I push the code again. Now Maria says: it looks good. The review is done.",
+   "tts": "I read Maria's comment. She says: this line is a little slow. You can make it faster. I am not upset. Good feedback helps me learn. I thank her and fix the line. I push the code again. Now Maria says: it looks good. The review is done.",
+   "zh": "我读了 Maria 的评论。她说：这行代码有点慢，可以改快一点。我没有不高兴，好的反馈能帮我进步。我谢过她，修好那行，重新推送。Maria 说看起来不错了，评审完成。讲解：a little=一点，faster=更快的，upset=不高兴的，again=再一次。句形 thank her and fix=谢过她并修复，it looks good=看起来不错，help me learn=帮我学习。",
+   "hard": []
+  }
+ ],
+ "chunks": [
+  {
+   "t": "open a pull request",
+   "cn": "开一个 PR",
+   "eg": "I open a pull request for the new feature."
+  },
+  {
+   "t": "for short",
+   "cn": "简称",
+   "eg": "We call it a PR for short."
+  },
+  {
+   "t": "run the tests",
+   "cn": "跑测试",
+   "eg": "The computer runs the tests."
+  },
+  {
+   "t": "good feedback",
+   "cn": "好的反馈",
+   "eg": "Good feedback helps me learn."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "We call it X for short.",
+   "cn": "我们简称它为 X。"
+  },
+  {
+   "t": "This check is called X.",
+   "cn": "这个检查叫做 X。"
+  },
+  {
+   "t": "Good feedback helps me X.",
+   "cn": "好的反馈帮我 X。"
+  },
+  {
+   "t": "It looks good.",
+   "cn": "看起来不错。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "code_review_comment",
+   "task": "Write 2 short review comments in English. Say one thing is good, and one thing can be better. Use open a pull request, run the tests, and good feedback.",
+   "hint_chunks": [
+    "open a pull request",
+    "run the tests",
+    "good feedback"
+   ]
+  }
+ ],
+ "lexicon": {
+  "new": {
+   "def": "新的",
+   "ipa": "/nu/"
+  },
+  "problem": {
+   "def": "问题",
+   "ipa": "/ˈprɑ.bləm/"
+  },
+  "now": {
+   "def": "现在",
+   "ipa": "/naʊ/"
+  },
+  "called": {
+   "def": "被叫做",
+   "ipa": "/kɔld/"
+  },
+  "review": {
+   "def": "评审;回顾",
+   "ipa": "/rɪˈvju/"
+  },
+  "short": {
+   "def": "短的",
+   "ipa": "/ʃɔrt/"
+  },
+  "feedback": {
+   "def": "反馈",
+   "ipa": "/ˈfid.bæk/"
+  },
+  "happy": {
+   "def": "开心的",
+   "ipa": "/ˈhæp.i/"
+  },
+  "slow": {
+   "def": "慢的",
+   "ipa": "/sloʊ/"
+  },
+  "chat": {
+   "def": "聊天",
+   "ipa": "/tʃæt/"
+  },
+  "make": {
+   "def": "做;制造",
+   "ipa": "/meɪk/"
+  },
+  "thank": {
+   "def": "感谢",
+   "ipa": "/θæŋk/"
+  },
+  "say": {
+   "def": "说",
+   "ipa": "/seɪ/"
+  },
+  "team": {
+   "def": "团队",
+   "ipa": "/tim/"
+  },
+  "feature": {
+   "def": "功能",
+   "ipa": "/ˈfi.tʃər/"
+  },
+  "helps": {
+   "def": "帮助",
+   "ipa": "/helps/"
+  },
+  "fix": {
+   "def": "修复",
+   "ipa": "/fɪks/"
+  },
+  "need": {
+   "def": "需要",
+   "ipa": "/nid/"
+  },
+  "branch": {
+   "def": "分支",
+   "ipa": "/bræntʃ/"
+  },
+  "faster": {
+   "def": "更快的",
+   "ipa": "/ˈfæs.tər/"
+  },
+  "share": {
+   "def": "分享",
+   "ipa": "/ʃer/"
+  },
+  "finds": {
+   "def": "发现",
+   "ipa": "/faɪndz/"
+  },
+  "bigger": {
+   "def": "更大的",
+   "ipa": "/ˈbɪɡ.ər/"
+  },
+  "ability": {
+   "def": "能力",
+   "ipa": "/əˈbɪl.ə.ti/"
+  },
+  "small": {
+   "def": "小的",
+   "ipa": "/smɔl/"
+  },
+  "task": {
+   "def": "任务",
+   "ipa": "/tæsk/"
+  },
+  "write": {
+   "def": "写",
+   "ipa": "/raɪt/"
+  },
+  "line": {
+   "def": "行;线路",
+   "ipa": "/laɪn/"
+  },
+  "asks": {
+   "def": "请求;问",
+   "ipa": "/æsks/"
+  },
+  "good": {
+   "def": "好的",
+   "ipa": "/ɡʊd/"
+  },
+  "computer": {
+   "def": "电脑",
+   "ipa": "/kəmˈpju.tər/"
+  },
+  "add": {
+   "def": "添加",
+   "ipa": "/æd/"
+  },
+  "call": {
+   "def": "称呼;打电话",
+   "ipa": "/kɔl/"
+  },
+  "itself": {
+   "def": "它自己",
+   "ipa": "/ɪtˈself/"
+  },
+  "code": {
+   "def": "代码",
+   "ipa": "/koʊd/"
+  },
+  "maria": {
+   "def": "人名;Maria",
+   "ipa": "/məˈri.ə/"
+  },
+  "tests": {
+   "def": "测试们",
+   "ipa": "/tests/"
+  },
+  "read": {
+   "def": "阅读",
+   "ipa": "/rid/"
+  },
+  "says": {
+   "def": "说",
+   "ipa": "/sez/"
+  },
+  "looks": {
+   "def": "看起来",
+   "ipa": "/lʊks/"
+  },
+  "learn": {
+   "def": "学习",
+   "ipa": "/lɝn/"
+  },
+  "upset": {
+   "def": "不高兴的",
+   "ipa": "/ʌpˈset/"
+  },
+  "again": {
+   "def": "再一次",
+   "ipa": "/əˈɡen/"
+  },
+  "check": {
+   "def": "检查",
+   "ipa": "/tʃek/"
+  },
+  "finish": {
+   "def": "完成",
+   "ipa": "/ˈfɪn.ɪʃ/"
+  },
+  "runs": {
+   "def": "运行",
+   "ipa": "/rʌnz/"
+  },
+  "done": {
+   "def": "完成的",
+   "ipa": "/dʌn/"
+  },
+  "little": {
+   "def": "一点",
+   "ipa": "/ˈlɪt.əl/"
+  },
+  "push": {
+   "def": "推送",
+   "ipa": "/pʊʃ/"
+  },
+  "open": {
+   "def": "打开;开启",
+   "ipa": "/ˈoʊ.pən/"
+  },
+  "wednesday": {
+   "def": "星期三",
+   "ipa": "/ˈwenz.deɪ/"
+  },
+  "comment": {
+   "def": "评论",
+   "ipa": "/ˈkɑ.ment/"
+  },
+  "writes": {
+   "def": "写",
+   "ipa": "/raɪts/"
+  },
+  "pull": {
+   "def": "拉;拉取",
+   "ipa": "/pʊl/"
+  },
+  "hello": {
+   "def": "你好",
+   "ipa": "/həˈloʊ/"
+  },
+  "pass": {
+   "def": "通过",
+   "ipa": "/pæs/"
+  },
+  "users": {
+   "def": "用户们",
+   "ipa": "/ˈju.zərz/"
+  },
+  "maria's": {
+   "lemma": "maria"
+  },
+  "request": {
+   "def": "请求",
+   "ipa": "/rɪˈkwest/"
+  },
+  "program": {
+   "def": "程序",
+   "ipa": "/ˈproʊ.ɡræm/"
+  },
+  "one": {
+   "def": "一个",
+   "ipa": "/wʌn/"
+  },
+  "checks": {
+   "def": "检查",
+   "ipa": "/tʃeks/"
+  }
+ }
+}

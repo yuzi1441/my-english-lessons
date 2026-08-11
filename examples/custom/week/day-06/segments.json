@@ -1,0 +1,355 @@
+{
+ "meta": {
+  "title": "Saturday: English and Coffee",
+  "title_zh": "周六：英语与咖啡",
+  "source": "Week 1 - Day 6",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 142,
+   "segment_count": 3,
+   "difficulty": "入门",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "害怕犯错",
+    "点咖啡",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先逐句听读一遍 · 再看中文讲解 · 最后完成英文小练习"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "On Saturday, I rest. I do not code. I meet my friend Lucy at a coffee shop. Lucy speaks English well. She wants to practice with me. I order a coffee in English. The waiter smiles. I am a little shy, but I do it. I am proud.",
+   "tts": "On Saturday, I rest. I do not code. I meet my friend Lucy at a coffee shop. Lucy speaks English well. She wants to practice with me. I order a coffee in English. The waiter smiles. I am a little shy, but I do it. I am proud.",
+   "zh": "周六我休息，不写代码。我和朋友 Lucy 在咖啡店见面，她英语很好，想陪我练习。我用英语点了杯咖啡，服务员对我微笑。我有点害羞，但还是做到了，我很自豪。讲解：rest=休息，coffee shop=咖啡店，waiter=服务员，shy=害羞的，order=点单。句形 meet my friend=见朋友，speak English well=英语说得很好，order a coffee=点咖啡。",
+   "hard": [
+    {
+     "w": "afraid",
+     "type": "word",
+     "def": "害怕的"
+    },
+    {
+     "w": "asks",
+     "type": "word",
+     "def": "请求;问"
+    },
+    {
+     "w": "brain",
+     "type": "word",
+     "def": "大脑"
+    },
+    {
+     "w": "choice",
+     "type": "word",
+     "def": "选择"
+    },
+    {
+     "w": "claps",
+     "type": "word",
+     "def": "鼓掌"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "Lucy teaches me a trick. She says: do not be afraid of mistakes. Mistakes are how we learn. Say the word slowly. Then say it again, faster. I practice ten words with her. The last one sounds good. She claps. I laugh.",
+   "tts": "Lucy teaches me a trick. She says: do not be afraid of mistakes. Mistakes are how we learn. Say the word slowly. Then say it again, faster. I practice ten words with her. The last one sounds good. She claps. I laugh.",
+   "zh": "Lucy 教我一个小技巧。她说：别怕犯错，错误就是我们学习的方式。慢慢说一个词，然后再说一遍，快一点。我陪她练了十个词，最后一个说得很不错，她鼓掌，我笑了。讲解：trick=技巧/诀窍，afraid=害怕的，mistakes=错误们，claps=鼓掌，laugh=笑。句形 be afraid of X=害怕 X，practice words=练单词，say it again=再说一遍。",
+   "hard": []
+  },
+  {
+   "id": "seg-03",
+   "en": "We talk about my week. I tell her about the deploy and the AI brain. She asks: what is your favorite word this week? I think and say: deploy. It is short and strong. She laughs and says: good choice. I write my new words in my notebook. Learning can be fun.",
+   "tts": "We talk about my week. I tell her about the deploy and the AI brain. She asks: what is your favorite word this week? I think and say: deploy. It is short and strong. She laughs and says: good choice. I write my new words in my notebook. Learning can be fun.",
+   "zh": "我们聊我这周的经历，我跟她讲了上线和 AI 大脑的事。她问：这周你最喜欢的词是什么？我想了想，说：deploy，它又短又有力。她笑着说：好选择。我把新词记进笔记本。学习也可以是件开心的事。讲解：favorite=最喜欢的，choice=选择，strong=有力的，fun=有趣的。句形 talk about X=谈论 X，tell her about X=跟她讲 X，learning can be fun=学习可以很有趣。",
+   "hard": []
+  }
+ ],
+ "chunks": [
+  {
+   "t": "be afraid of mistakes",
+   "cn": "害怕犯错",
+   "eg": "Do not be afraid of mistakes."
+  },
+  {
+   "t": "order a coffee",
+   "cn": "点咖啡",
+   "eg": "I order a coffee in English."
+  },
+  {
+   "t": "say it again",
+   "cn": "再说一遍",
+   "eg": "Say the word again, faster."
+  },
+  {
+   "t": "talk about",
+   "cn": "谈论",
+   "eg": "We talk about my week."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "X is how we learn.",
+   "cn": "X 就是我们学习的方式。例如：Mistakes are how we learn."
+  },
+  {
+   "t": "Do not be afraid of X.",
+   "cn": "不要害怕 X。"
+  },
+  {
+   "t": "My favorite X is Y.",
+   "cn": "我最喜欢的 X 是 Y。"
+  },
+  {
+   "t": "Learning can be fun.",
+   "cn": "学习可以很有趣。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "slack_message",
+   "task": "Write 2 short sentences in English about your favorite word of the week and why. Use talk about, be afraid of mistakes, and say it again.",
+   "hint_chunks": [
+    "talk about",
+    "be afraid of mistakes",
+    "say it again"
+   ]
+  }
+ ],
+ "lexicon": {
+  "laugh": {
+   "def": "笑",
+   "ipa": "/læf/"
+  },
+  "strong": {
+   "def": "有力的",
+   "ipa": "/strɔŋ/"
+  },
+  "new": {
+   "def": "新的",
+   "ipa": "/nu/"
+  },
+  "mistakes": {
+   "def": "错误们",
+   "ipa": "/mɪˈsteɪks/"
+  },
+  "short": {
+   "def": "短的",
+   "ipa": "/ʃɔrt/"
+  },
+  "proud": {
+   "def": "自豪的",
+   "ipa": "/praʊd/"
+  },
+  "tell": {
+   "def": "告诉",
+   "ipa": "/tel/"
+  },
+  "saturday": {
+   "def": "星期六",
+   "ipa": "/ˈsæt.ər.deɪ/"
+  },
+  "teaches": {
+   "def": "教",
+   "ipa": "/titʃɪz/"
+  },
+  "brain": {
+   "def": "大脑",
+   "ipa": "/breɪn/"
+  },
+  "learning": {
+   "def": "学习",
+   "ipa": "/ˈlɝ.nɪŋ/"
+  },
+  "say": {
+   "def": "说",
+   "ipa": "/seɪ/"
+  },
+  "week": {
+   "def": "周;星期",
+   "ipa": "/wik/"
+  },
+  "coffee": {
+   "def": "咖啡",
+   "ipa": "/ˈkɔ.fi/"
+  },
+  "friend": {
+   "def": "朋友",
+   "ipa": "/frend/"
+  },
+  "faster": {
+   "def": "更快的",
+   "ipa": "/ˈfæs.tər/"
+  },
+  "afraid": {
+   "def": "害怕的",
+   "ipa": "/əˈfreɪd/"
+  },
+  "write": {
+   "def": "写",
+   "ipa": "/raɪt/"
+  },
+  "good": {
+   "def": "好的",
+   "ipa": "/ɡʊd/"
+  },
+  "asks": {
+   "def": "请求;问",
+   "ipa": "/æsks/"
+  },
+  "fun": {
+   "def": "有趣的",
+   "ipa": "/fʌn/"
+  },
+  "slowly": {
+   "def": "慢慢地",
+   "ipa": "/ˈsloʊ.li/"
+  },
+  "order": {
+   "def": "点单",
+   "ipa": "/ˈɔr.dər/"
+  },
+  "deploy": {
+   "def": "部署;上线",
+   "ipa": "/dɪˈplɔɪ/"
+  },
+  "laughs": {
+   "def": "笑",
+   "ipa": "/læfs/"
+  },
+  "shy": {
+   "def": "害羞的",
+   "ipa": "/ʃaɪ/"
+  },
+  "code": {
+   "def": "代码",
+   "ipa": "/koʊd/"
+  },
+  "speaks": {
+   "def": "说;讲",
+   "ipa": "/spiks/"
+  },
+  "word": {
+   "def": "单词",
+   "ipa": "/wɝd/"
+  },
+  "says": {
+   "def": "说",
+   "ipa": "/sez/"
+  },
+  "rest": {
+   "def": "休息",
+   "ipa": "/rest/"
+  },
+  "smiles": {
+   "def": "微笑",
+   "ipa": "/smaɪlz/"
+  },
+  "shop": {
+   "def": "店铺",
+   "ipa": "/ʃɑp/"
+  },
+  "learn": {
+   "def": "学习",
+   "ipa": "/lɝn/"
+  },
+  "notebook": {
+   "def": "笔记本",
+   "ipa": "/ˈnoʊt.bʊk/"
+  },
+  "trick": {
+   "def": "技巧",
+   "ipa": "/trɪk/"
+  },
+  "claps": {
+   "def": "鼓掌",
+   "ipa": "/klæps/"
+  },
+  "words": {
+   "def": "单词们",
+   "ipa": "/wɝdz/"
+  },
+  "again": {
+   "def": "再一次",
+   "ipa": "/əˈɡen/"
+  },
+  "think": {
+   "def": "想",
+   "ipa": "/θɪŋk/"
+  },
+  "english": {
+   "def": "英语",
+   "ipa": "/ˈɪŋ.ɡlɪʃ/"
+  },
+  "little": {
+   "def": "一点",
+   "ipa": "/ˈlɪt.əl/"
+  },
+  "wants": {
+   "def": "想要",
+   "ipa": "/wɑnts/"
+  },
+  "lucy": {
+   "def": "人名;Lucy",
+   "ipa": "/ˈlu.si/"
+  },
+  "meet": {
+   "def": "见面",
+   "ipa": "/mit/"
+  },
+  "well": {
+   "def": "好地",
+   "ipa": "/wel/"
+  },
+  "choice": {
+   "def": "选择",
+   "ipa": "/tʃɔɪs/"
+  },
+  "ten": {
+   "def": "十",
+   "ipa": "/ten/"
+  },
+  "favorite": {
+   "def": "最喜欢的",
+   "ipa": "/ˈfeɪ.vər.ɪt/"
+  },
+  "how": {
+   "def": "怎样",
+   "ipa": "/haʊ/"
+  },
+  "talk": {
+   "def": "交谈",
+   "ipa": "/tɔk/"
+  },
+  "practice": {
+   "def": "练习",
+   "ipa": "/ˈpræk.tɪs/"
+  },
+  "sounds": {
+   "def": "听起来",
+   "ipa": "/saʊndz/"
+  },
+  "last": {
+   "def": "最后一个",
+   "ipa": "/læst/"
+  },
+  "waiter": {
+   "def": "服务员",
+   "ipa": "/ˈweɪ.tər/"
+  },
+  "one": {
+   "def": "一个",
+   "ipa": "/wʌn/"
+  }
+ }
+}

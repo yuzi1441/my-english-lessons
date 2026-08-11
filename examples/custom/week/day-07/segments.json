@@ -1,0 +1,347 @@
+{
+ "meta": {
+  "title": "Sunday: Plan the Next Week",
+  "title_zh": "周日：规划下周",
+  "source": "Week 1 - Day 7",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 128,
+   "segment_count": 3,
+   "difficulty": "入门",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "对…满意",
+    "小步;循序渐进",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先逐句听读一遍 · 再看中文讲解 · 最后完成英文小练习"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "On Sunday, I rest at home. I look at my notebook. I wrote many new words this week. I read them slowly. I remember most of them. I am happy with my progress. Practice works.",
+   "tts": "On Sunday, I rest at home. I look at my notebook. I wrote many new words this week. I read them slowly. I remember most of them. I am happy with my progress. Practice works.",
+   "zh": "周日我在家休息，翻开笔记本，这周我记了好多新词。我慢慢地读，大部分都记得。我对自己的进步很满意，练习真的有用。讲解：at home=在家，remember=记得，most=大部分，progress=进步，works=有用/起作用。句形 look at X=看 X，be happy with X=对 X 满意，practice works=练习有用。",
+   "hard": [
+    {
+     "w": "afraid",
+     "type": "word",
+     "def": "害怕的"
+    },
+    {
+     "w": "article",
+     "type": "word",
+     "def": "文章"
+    },
+    {
+     "w": "back",
+     "type": "word",
+     "def": "回来"
+    },
+    {
+     "w": "english",
+     "type": "word",
+     "def": "英语"
+    },
+    {
+     "w": "every",
+     "type": "word",
+     "def": "每一个"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I plan the next week. Next week, I will learn ten new words every day. I will read one short article in English. I will say three sentences in the standup. I will not be afraid of mistakes. Small steps every day. That is the plan.",
+   "tts": "I plan the next week. Next week, I will learn ten new words every day. I will read one short article in English. I will say three sentences in the standup. I will not be afraid of mistakes. Small steps every day. That is the plan.",
+   "zh": "我规划下周。下周我每天学十个新词，读一篇短的英文文章，在站会上说三句话，不怕犯错。每天一小步，这就是计划。讲解：plan=计划，every day=每天，short=短的，steps=步骤，small steps=小步。句形 I will X=我将要做 X（未来时），every day=每天，that is the plan=这就是计划。",
+   "hard": []
+  },
+  {
+   "id": "seg-03",
+   "en": "On Monday, a new week starts. I will meet my team again. I will say hello in English. I will tell them about my weekend. They will say: welcome back. I feel ready. Learning a language is a journey. I take it one step at a time.",
+   "tts": "On Monday, a new week starts. I will meet my team again. I will say hello in English. I will tell them about my weekend. They will say: welcome back. I feel ready. Learning a language is a journey. I take it one step at a time.",
+   "zh": "周一新的星期开始。我会再见到团队，用英文打招呼，跟他们讲我的周末。他们会说：欢迎回来。我觉得准备好了。学语言是一段旅程，我一步一个脚印地走。讲解：weekend=周末，welcome back=欢迎回来，ready=准备好的，journey=旅程。句形 a new week starts=新的一周开始，one step at a time=一步一个脚印，feel ready=感觉准备好了。",
+   "hard": []
+  }
+ ],
+ "chunks": [
+  {
+   "t": "be happy with",
+   "cn": "对…满意",
+   "eg": "I am happy with my progress."
+  },
+  {
+   "t": "small steps",
+   "cn": "小步;循序渐进",
+   "eg": "Small steps every day work."
+  },
+  {
+   "t": "welcome back",
+   "cn": "欢迎回来",
+   "eg": "My team says welcome back."
+  },
+  {
+   "t": "one step at a time",
+   "cn": "一步一个脚印",
+   "eg": "I take it one step at a time."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "I am happy with X.",
+   "cn": "我对 X 很满意。"
+  },
+  {
+   "t": "I will X next week.",
+   "cn": "下周我要 X。"
+  },
+  {
+   "t": "Small steps every day.",
+   "cn": "每天一小步。"
+  },
+  {
+   "t": "I take it one step at a time.",
+   "cn": "我一步一个脚印地走。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "standup_update",
+   "task": "Write 3 short sentences about your plan for the next week. Say one thing you will learn and one thing you will do. Use be happy with, small steps, and one step at a time.",
+   "hint_chunks": [
+    "be happy with",
+    "small steps",
+    "one step at a time"
+   ]
+  }
+ ],
+ "lexicon": {
+  "new": {
+   "def": "新的",
+   "ipa": "/nu/"
+  },
+  "feel": {
+   "def": "感觉",
+   "ipa": "/fil/"
+  },
+  "journey": {
+   "def": "旅程",
+   "ipa": "/ˈdʒɝ.ni/"
+  },
+  "mistakes": {
+   "def": "错误们",
+   "ipa": "/mɪˈsteɪks/"
+  },
+  "meet": {
+   "def": "见面",
+   "ipa": "/mit/"
+  },
+  "short": {
+   "def": "短的",
+   "ipa": "/ʃɔrt/"
+  },
+  "sunday": {
+   "def": "星期日",
+   "ipa": "/ˈsʌn.deɪ/"
+  },
+  "standup": {
+   "def": "站会",
+   "ipa": "/ˈstænd.ʌp/"
+  },
+  "afraid": {
+   "def": "害怕的",
+   "ipa": "/əˈfreɪd/"
+  },
+  "next": {
+   "def": "下一个",
+   "ipa": "/nekst/"
+  },
+  "sentences": {
+   "def": "句子们",
+   "ipa": "/ˈsen.tənsɪz/"
+  },
+  "every": {
+   "def": "每一个",
+   "ipa": "/ˈev.ri/"
+  },
+  "tell": {
+   "def": "告诉",
+   "ipa": "/tel/"
+  },
+  "back": {
+   "def": "回来",
+   "ipa": "/bæk/"
+  },
+  "read": {
+   "def": "阅读",
+   "ipa": "/rid/"
+  },
+  "wrote": {
+   "def": "写了(write的过去式)",
+   "ipa": "/roʊt/"
+  },
+  "rest": {
+   "def": "休息",
+   "ipa": "/rest/"
+  },
+  "welcome": {
+   "def": "欢迎",
+   "ipa": "/ˈwel.kəm/"
+  },
+  "ready": {
+   "def": "准备好的",
+   "ipa": "/ˈred.i/"
+  },
+  "many": {
+   "def": "许多",
+   "ipa": "/ˈmen.i/"
+  },
+  "plan": {
+   "def": "计划",
+   "ipa": "/plæn/"
+  },
+  "learn": {
+   "def": "学习",
+   "ipa": "/lɝn/"
+  },
+  "notebook": {
+   "def": "笔记本",
+   "ipa": "/ˈnoʊt.bʊk/"
+  },
+  "happy": {
+   "def": "开心的",
+   "ipa": "/ˈhæp.i/"
+  },
+  "three": {
+   "def": "三",
+   "ipa": "/θri/"
+  },
+  "hello": {
+   "def": "你好",
+   "ipa": "/həˈloʊ/"
+  },
+  "small": {
+   "def": "小的",
+   "ipa": "/smɔl/"
+  },
+  "progress": {
+   "def": "进步",
+   "ipa": "/ˈprɑ.ɡres/"
+  },
+  "ten": {
+   "def": "十",
+   "ipa": "/ten/"
+  },
+  "remember": {
+   "def": "记得",
+   "ipa": "/rɪˈmem.bər/"
+  },
+  "home": {
+   "def": "家",
+   "ipa": "/hoʊm/"
+  },
+  "step": {
+   "def": "一步;步骤",
+   "ipa": "/step/"
+  },
+  "article": {
+   "def": "文章",
+   "ipa": "/ˈɑr.tɪ.kəl/"
+  },
+  "works": {
+   "def": "起作用;运作",
+   "ipa": "/wɝks/"
+  },
+  "steps": {
+   "def": "步骤们",
+   "ipa": "/steps/"
+  },
+  "learning": {
+   "def": "学习",
+   "ipa": "/ˈlɝ.nɪŋ/"
+  },
+  "words": {
+   "def": "单词们",
+   "ipa": "/wɝdz/"
+  },
+  "say": {
+   "def": "说",
+   "ipa": "/seɪ/"
+  },
+  "again": {
+   "def": "再一次",
+   "ipa": "/əˈɡen/"
+  },
+  "team": {
+   "def": "团队",
+   "ipa": "/tim/"
+  },
+  "week": {
+   "def": "周;星期",
+   "ipa": "/wik/"
+  },
+  "day": {
+   "def": "一天",
+   "ipa": "/deɪ/"
+  },
+  "weekend": {
+   "def": "周末",
+   "ipa": "/ˈwik.end/"
+  },
+  "look": {
+   "def": "看",
+   "ipa": "/lʊk/"
+  },
+  "practice": {
+   "def": "练习",
+   "ipa": "/ˈpræk.tɪs/"
+  },
+  "take": {
+   "def": "拿;花费",
+   "ipa": "/teɪk/"
+  },
+  "most": {
+   "def": "大部分",
+   "ipa": "/moʊst/"
+  },
+  "starts": {
+   "def": "开始",
+   "ipa": "/stɑrts/"
+  },
+  "monday": {
+   "def": "星期一",
+   "ipa": "/ˈmʌn.deɪ/"
+  },
+  "time": {
+   "def": "时间;次",
+   "ipa": "/taɪm/"
+  },
+  "slowly": {
+   "def": "慢慢地",
+   "ipa": "/ˈsloʊ.li/"
+  },
+  "english": {
+   "def": "英语",
+   "ipa": "/ˈɪŋ.ɡlɪʃ/"
+  },
+  "one": {
+   "def": "一个",
+   "ipa": "/wʌn/"
+  },
+  "language": {
+   "def": "语言",
+   "ipa": "/ˈlæŋ.ɡwɪdʒ/"
+  }
+ }
+}
