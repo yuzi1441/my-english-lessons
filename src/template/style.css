@@ -1157,6 +1157,17 @@ textarea:focus {
 }
 
 @media (max-width: 440px) {
+  .topbar {
+    border-radius: 24px;
+  }
+  .topbar-inner {
+    flex-wrap: wrap;
+  }
+  .toolbar {
+    width: 100%;
+    margin-left: 0;
+    justify-content: flex-end;
+  }
   .player-inner { flex-wrap: wrap; }
   .p-now { order: -1; flex-basis: 100%; }
   .seg { padding: 14px 14px 14px 18px; }

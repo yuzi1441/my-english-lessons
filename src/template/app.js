@@ -14,7 +14,8 @@
     seen: "ir_seen_terms",
     plays: "ir_plays",
     rate: "ir_rate",
-    zh: "ir_zh",
+    // v2 resets the stale hidden-by-default preference from the first release.
+    zh: "ir_zh_v2",
     fs: "ir_fs",
     voice: "ir_voice"
   };
@@ -91,7 +92,7 @@
           <div class="toolbar">
             <span id="recProgress" class="tool-progress hidden" title="每段跟读录音 3 次达标"></span>
             <button id="revealBtn" class="tool primary hidden">揭文本</button>
-            <button id="zhBtn" class="tool" title="显示 / 隐藏中文大意">中文</button>
+            <button id="zhBtn" class="tool" title="显示 / 隐藏中文大意" aria-pressed="true">隐藏中文</button>
             <button id="fsDown" class="tool" title="缩小英文字号">A−</button>
             <button id="fsUp" class="tool" title="放大英文字号">A+</button>
             <button id="resetBtn" class="tool danger" title="清空本课学习记录（保留语速等偏好）">重置</button>
@@ -1413,13 +1414,20 @@
     const zhBtn = $("#zhBtn");
     if (localStorage.getItem(KEYS.zh) === "0") {
       document.body.classList.add("hide-zh");
-    } else if (zhBtn) {
-      zhBtn.classList.add("on");
     }
+    updateZhButton(document.body.classList.contains("hide-zh"));
     const fs = localStorage.getItem(KEYS.fs);
     if (fs) document.documentElement.style.setProperty("--fs", `${fs}px`);
     $$(".rate").forEach(btn => btn.classList.toggle("on", parseFloat(btn.dataset.rate) === state.rate));
     updateRecProgress();
+  }
+
+  function updateZhButton(hidden) {
+    const zhBtn = $("#zhBtn");
+    if (!zhBtn) return;
+    zhBtn.classList.toggle("on", !hidden);
+    zhBtn.textContent = hidden ? "显示中文" : "隐藏中文";
+    zhBtn.setAttribute("aria-pressed", hidden ? "false" : "true");
   }
 
   function flashSaved(id) {
@@ -1588,7 +1596,7 @@
 
     $("#zhBtn").addEventListener("click", () => {
       const hidden = document.body.classList.toggle("hide-zh");
-      $("#zhBtn").classList.toggle("on", !hidden);
+      updateZhButton(hidden);
       localStorage.setItem(KEYS.zh, hidden ? "0" : "1");
     });
 
