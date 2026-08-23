@@ -1,0 +1,170 @@
+{
+ "meta": {
+  "title": "Lesson 17: Read a Simple Chart",
+  "title_zh": "第 17 课：读懂一张简单图表",
+  "source": "Month 1 · Week 3 · Day 17",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 113,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "随着时间",
+    "增长更快",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "The clean data is ready. I make a line chart for sales over time. The line goes up slowly. A chart lets me see a direction faster than a long table. It is a picture of the data, not the whole explanation.",
+   "tts": "The clean data is ready. I make a line chart for sales over time. The line goes up slowly. A chart lets me see a direction faster than a long table. It is a picture of the data, not the whole explanation.",
+   "zh": "清理后的数据准备好了。我做了一张销售额随时间变化的折线图。线条缓慢向上。图表比长表格更快让我们看到方向，但它只是数据的图像，不是完整解释。讲解：line chart=折线图，over time=随时间，direction=方向，explanation=解释。",
+   "hard": [
+    {
+     "w": "line chart",
+     "type": "term",
+     "def": "折线图"
+    },
+    {
+     "w": "over time",
+     "type": "term",
+     "def": "随时间"
+    },
+    {
+     "w": "explanation",
+     "type": "word",
+     "def": "解释"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I compare two companies. Company A is larger, but Company B grows faster. The answer changes when I change the question. Size and growth are different ideas. I say exactly what the chart shows.",
+   "tts": "I compare two companies. Company A is larger, but Company B grows faster. The answer changes when I change the question. Size and growth are different ideas. I say exactly what the chart shows.",
+   "zh": "我比较两家公司。A 公司更大，但 B 公司增长更快。当我改变问题时，答案也会改变。规模和增长是不同的概念。我准确说出图表显示了什么。讲解：compare=比较，larger=更大的，grow faster=增长更快，idea=概念。",
+   "hard": [
+    {
+     "w": "compare",
+     "type": "word",
+     "def": "比较"
+    },
+    {
+     "w": "growth",
+     "type": "term",
+     "def": "增长"
+    },
+    {
+     "w": "exactly",
+     "type": "word",
+     "def": "准确地"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "A chart can hide a detail. The vertical axis starts at fifty, not zero. The change looks very large. I check the axis before I make a strong claim. Good readers ask how the chart was made.",
+   "tts": "A chart can hide a detail. The vertical axis starts at fifty, not zero. The change looks very large. I check the axis before I make a strong claim. Good readers ask how the chart was made.",
+   "zh": "图表可能隐藏一个细节：纵轴从五十开始，而不是从零开始，所以变化看起来很大。在做出强烈结论前，我先检查坐标轴。好的读者会问图表是怎样制作的。讲解：axis=坐标轴，hide=隐藏，claim=结论/主张，vertical=垂直的。",
+   "hard": [
+    {
+     "w": "axis",
+     "type": "term",
+     "def": "坐标轴"
+    },
+    {
+     "w": "hide",
+     "type": "word",
+     "def": "隐藏"
+    },
+    {
+     "w": "claim",
+     "type": "word",
+     "def": "主张"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "over time",
+   "cn": "随着时间",
+   "eg": "Sales grow over time."
+  },
+  {
+   "t": "grow faster",
+   "cn": "增长更快",
+   "eg": "Company B grows faster."
+  },
+  {
+   "t": "what the chart shows",
+   "cn": "图表显示的内容",
+   "eg": "Say what the chart shows."
+  },
+  {
+   "t": "make a strong claim",
+   "cn": "做出强烈结论",
+   "eg": "Check the data before you make a strong claim."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "X is larger, but Y grows faster.",
+   "cn": "X 更大，但 Y 增长更快。"
+  },
+  {
+   "t": "The answer changes when X.",
+   "cn": "当 X 时，答案会变化。"
+  },
+  {
+   "t": "I check X before Y.",
+   "cn": "我在 Y 前检查 X。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Describe a chart in 3 sentences. Use over time, grow faster, and what the chart shows.",
+   "hint_chunks": [
+    "over time",
+    "grow faster",
+    "what the chart shows"
+   ]
+  }
+ ],
+ "lexicon": {
+  "explanation": {
+   "def": "解释"
+  },
+  "compare": {
+   "def": "比较"
+  },
+  "growth": {
+   "def": "增长"
+  },
+  "exactly": {
+   "def": "准确地"
+  },
+  "axis": {
+   "def": "坐标轴"
+  },
+  "hide": {
+   "def": "隐藏"
+  },
+  "claim": {
+   "def": "主张"
+  }
+ }
+}

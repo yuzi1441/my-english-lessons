@@ -1,0 +1,170 @@
+{
+ "meta": {
+  "title": "Lesson 13: Find the Error",
+  "title_zh": "第 13 课：找到错误",
+  "source": "Month 1 · Week 2 · Day 13",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 111,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "最后一行",
+    "再次运行",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "My program stops with an error. The message says that a key is missing. I read the last line first. It tells me where the program stopped. Then I look at the data and find a different spelling.",
+   "tts": "My program stops with an error. The message says that a key is missing. I read the last line first. It tells me where the program stopped. Then I look at the data and find a different spelling.",
+   "zh": "我的程序因为错误停止了。错误信息说一个 key（键）缺失。我先读最后一行，它告诉我程序停在哪里。然后我查看数据，发现拼写不一样。讲解：error message=错误信息，missing=缺失的，spelling=拼写。",
+   "hard": [
+    {
+     "w": "missing",
+     "type": "word",
+     "def": "缺失的"
+    },
+    {
+     "w": "spelling",
+     "type": "word",
+     "def": "拼写"
+    },
+    {
+     "w": "stop",
+     "type": "word",
+     "def": "停止"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I fix the spelling and run the program again. This time, another error appears. Debugging is not one big jump. It is a series of small checks. I fix one problem, run again, and learn from the next message.",
+   "tts": "I fix the spelling and run the program again. This time, another error appears. Debugging is not one big jump. It is a series of small checks. I fix one problem, run again, and learn from the next message.",
+   "zh": "我修正拼写，再次运行程序。这次出现了另一个错误。debugging（调试）不是一次大跳跃，而是一连串小检查。我修一个问题，再运行，再从下一条信息中学习。讲解：debug=调试，series=一连串，appear=出现。",
+   "hard": [
+    {
+     "w": "debugging",
+     "type": "term",
+     "def": "调试"
+    },
+    {
+     "w": "series",
+     "type": "word",
+     "def": "一连串"
+    },
+    {
+     "w": "appear",
+     "type": "word",
+     "def": "出现"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "At the end, the program runs. I write down what happened. The note will help me next time. I am not afraid of errors now. An error is a message that can guide me.",
+   "tts": "At the end, the program runs. I write down what happened. The note will help me next time. I am not afraid of errors now. An error is a message that can guide me.",
+   "zh": "最后程序运行了。我记下发生了什么，这条笔记下次会帮助我。现在我不再害怕错误。错误是一条可以指导我的信息。讲解：write down=记下，guide=指导，at the end=最后。",
+   "hard": [
+    {
+     "w": "write down",
+     "type": "term",
+     "def": "记下"
+    },
+    {
+     "w": "guide",
+     "type": "word",
+     "def": "指导"
+    },
+    {
+     "w": "at the end",
+     "type": "term",
+     "def": "最后"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "the last line",
+   "cn": "最后一行",
+   "eg": "Read the last line first."
+  },
+  {
+   "t": "run again",
+   "cn": "再次运行",
+   "eg": "Fix the code and run again."
+  },
+  {
+   "t": "a series of small checks",
+   "cn": "一连串小检查",
+   "eg": "Debugging is a series of small checks."
+  },
+  {
+   "t": "write down",
+   "cn": "记下",
+   "eg": "Write down what happened."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "The message tells me X.",
+   "cn": "信息告诉我 X。"
+  },
+  {
+   "t": "This time, Y appears.",
+   "cn": "这次出现了 Y。"
+  },
+  {
+   "t": "I am not afraid of X.",
+   "cn": "我不害怕 X。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "slack_message",
+   "task": "Write a short team message about fixing an error. Use the last line, run again, and write down.",
+   "hint_chunks": [
+    "the last line",
+    "run again",
+    "a series of small checks"
+   ]
+  }
+ ],
+ "lexicon": {
+  "missing": {
+   "def": "缺失的"
+  },
+  "spelling": {
+   "def": "拼写"
+  },
+  "stop": {
+   "def": "停止"
+  },
+  "debugging": {
+   "def": "调试"
+  },
+  "series": {
+   "def": "一连串"
+  },
+  "appear": {
+   "def": "出现"
+  },
+  "guide": {
+   "def": "指导"
+  }
+ }
+}

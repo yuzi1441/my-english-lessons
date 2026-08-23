@@ -1,0 +1,170 @@
+{
+ "meta": {
+  "title": "Lesson 27: Write the Project Update",
+  "title_zh": "第 27 课：写项目更新",
+  "source": "Month 1 · Week 4 · Day 27",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 102,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "已经完成的内容",
+    "下一步是什么",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "It is Friday. I write an update for the team. I start with what is done: the data reader works and the first chart is ready. Then I say what is next: check two more sources and improve the labels.",
+   "tts": "It is Friday. I write an update for the team. I start with what is done: the data reader works and the first chart is ready. Then I say what is next: check two more sources and improve the labels.",
+   "zh": "周五，我给团队写一份更新。先写已经完成的：数据读取器能工作，第一张图表准备好了。然后写下一步：检查两个来源并改进标签。讲解：update=更新，done=完成的，improve=改进，label=标签。",
+   "hard": [
+    {
+     "w": "update",
+     "type": "word",
+     "def": "更新"
+    },
+    {
+     "w": "done",
+     "type": "word",
+     "def": "完成的"
+    },
+    {
+     "w": "improve",
+     "type": "word",
+     "def": "改进"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I mention one risk. The data may be one month late. This means the chart is useful for a first look, but not for a final decision. The team can now choose the next check.",
+   "tts": "I mention one risk. The data may be one month late. This means the chart is useful for a first look, but not for a final decision. The team can now choose the next check.",
+   "zh": "我提到一个风险：数据可能晚了一个月。这意味着图表适合初步查看，但不适合做最终决策。团队现在可以选择下一项检查。讲解：late=晚的，first look=初步查看，decision=决定，choose=选择。",
+   "hard": [
+    {
+     "w": "late",
+     "type": "word",
+     "def": "晚的"
+    },
+    {
+     "w": "first look",
+     "type": "term",
+     "def": "初步查看"
+    },
+    {
+     "w": "decision",
+     "type": "term",
+     "def": "决定"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "I keep the message short. A good update answers three questions: what changed, what is blocked, and what will happen next. Clear writing helps the team move.",
+   "tts": "I keep the message short. A good update answers three questions: what changed, what is blocked, and what will happen next. Clear writing helps the team move.",
+   "zh": "我把消息写得简短。好的更新回答三个问题：改了什么、什么被卡住了、接下来会发生什么。清楚的写作能帮助团队前进。讲解：blocked=被阻塞的，move=推进，what changed=发生了什么变化。",
+   "hard": [
+    {
+     "w": "blocked",
+     "type": "word",
+     "def": "被阻塞的"
+    },
+    {
+     "w": "move",
+     "type": "word",
+     "def": "推进"
+    },
+    {
+     "w": "what changed",
+     "type": "term",
+     "def": "发生了什么变化"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "what is done",
+   "cn": "已经完成的内容",
+   "eg": "Start with what is done."
+  },
+  {
+   "t": "what is next",
+   "cn": "下一步是什么",
+   "eg": "Then say what is next."
+  },
+  {
+   "t": "for a first look",
+   "cn": "用于初步查看",
+   "eg": "The chart is useful for a first look."
+  },
+  {
+   "t": "what is blocked",
+   "cn": "什么被卡住了",
+   "eg": "Say what is blocked."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "I start with X.",
+   "cn": "我从 X 开始。"
+  },
+  {
+   "t": "This means X, but not Y.",
+   "cn": "这意味着 X，但不是 Y。"
+  },
+  {
+   "t": "A good update answers X.",
+   "cn": "好的更新回答 X。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "slack_message",
+   "task": "Write a project update with done, next, and one risk. Use what is done, what is next, and what is blocked.",
+   "hint_chunks": [
+    "what is done",
+    "what is next",
+    "for a first look"
+   ]
+  }
+ ],
+ "lexicon": {
+  "update": {
+   "def": "更新"
+  },
+  "done": {
+   "def": "完成的"
+  },
+  "improve": {
+   "def": "改进"
+  },
+  "late": {
+   "def": "晚的"
+  },
+  "decision": {
+   "def": "决定"
+  },
+  "blocked": {
+   "def": "被阻塞的"
+  },
+  "move": {
+   "def": "推进"
+  }
+ }
+}

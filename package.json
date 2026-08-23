@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test:review": "node --test tests/adaptive-review.test.js"
+  },
+  "dependencies": {
+    "ts-fsrs": "^5.4.1"
+  }
+}

@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "title": "Lesson 28: The Month Project",
+  "title_zh": "第 28 课：月度小项目",
+  "source": "Month 1 · Week 4 · Day 28",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 120,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "结合我的技能",
+    "没有检查就……",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "At the end of the month, I combine my skills. I ask one question about a small company dataset. I read a JSON file, clean the values, and make a chart. Then I ask an AI tool to help me explain the result.",
+   "tts": "At the end of the month, I combine my skills. I ask one question about a small company dataset. I read a JSON file, clean the values, and make a chart. Then I ask an AI tool to help me explain the result.",
+   "zh": "月底，我把学到的技能结合起来。我针对一份小公司的数据提出一个问题，读取 JSON 文件，清理数值并制作图表，然后请 AI 工具帮我解释结果。讲解：combine=结合，dataset=数据集，result=结果。",
+   "hard": [
+    {
+     "w": "combine",
+     "type": "word",
+     "def": "结合"
+    },
+    {
+     "w": "dataset",
+     "type": "term",
+     "def": "数据集"
+    },
+    {
+     "w": "result",
+     "type": "word",
+     "def": "结果"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I do not copy the answer without checking. I compare it with the chart and the source. I correct one wrong detail. I write a short note with facts, limits, and a next step. The note is simple, but it is mine.",
+   "tts": "I do not copy the answer without checking. I compare it with the chart and the source. I correct one wrong detail. I write a short note with facts, limits, and a next step. The note is simple, but it is mine.",
+   "zh": "我不会不检查就复制答案。我把答案和图表、来源进行比较，修正一个错误细节。我写一份包含事实、限制和下一步的短笔记。笔记很简单，但它是我自己的。讲解：copy=复制，detail=细节，limit=限制，mine=我的。",
+   "hard": [
+    {
+     "w": "detail",
+     "type": "word",
+     "def": "细节"
+    },
+    {
+     "w": "limit",
+     "type": "term",
+     "def": "限制"
+    },
+    {
+     "w": "mine",
+     "type": "word",
+     "def": "我的"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "I present the project in three minutes. I say the question, the evidence, and the uncertainty. I do not need perfect English. I need clear English and honest thinking. This is my next small step.",
+   "tts": "I present the project in three minutes. I say the question, the evidence, and the uncertainty. I do not need perfect English. I need clear English and honest thinking. This is my next small step.",
+   "zh": "我用三分钟介绍这个项目，说清问题、证据和不确定性。我不需要完美英语，只需要清楚的英语和诚实的思考。这就是我的下一小步。讲解：present=介绍/展示，perfect=完美的，honest thinking=诚实思考。",
+   "hard": [
+    {
+     "w": "present",
+     "type": "word",
+     "def": "介绍;展示"
+    },
+    {
+     "w": "perfect",
+     "type": "word",
+     "def": "完美的"
+    },
+    {
+     "w": "uncertainty",
+     "type": "term",
+     "def": "不确定性"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "combine my skills",
+   "cn": "结合我的技能",
+   "eg": "I combine my skills in one project."
+  },
+  {
+   "t": "without checking",
+   "cn": "没有检查就……",
+   "eg": "Do not copy it without checking."
+  },
+  {
+   "t": "facts, limits, and a next step",
+   "cn": "事实、限制和下一步",
+   "eg": "The note has facts, limits, and a next step."
+  },
+  {
+   "t": "clear English",
+   "cn": "清楚的英语",
+   "eg": "I need clear English."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "I do not X without Y.",
+   "cn": "没有 Y，我不会 X。"
+  },
+  {
+   "t": "I need X, not Y.",
+   "cn": "我需要 X，而不是 Y。"
+  },
+  {
+   "t": "This is my next step.",
+   "cn": "这是我的下一步。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "standup_update",
+   "task": "Write a 3-minute project presentation in 5 short sentences. Use combine my skills, without checking, and clear English.",
+   "hint_chunks": [
+    "combine my skills",
+    "without checking",
+    "facts, limits, and a next step"
+   ]
+  }
+ ],
+ "lexicon": {
+  "combine": {
+   "def": "结合"
+  },
+  "dataset": {
+   "def": "数据集"
+  },
+  "result": {
+   "def": "结果"
+  },
+  "detail": {
+   "def": "细节"
+  },
+  "limit": {
+   "def": "限制"
+  },
+  "mine": {
+   "def": "我的"
+  },
+  "present": {
+   "def": "介绍;展示"
+  },
+  "perfect": {
+   "def": "完美的"
+  },
+  "uncertainty": {
+   "def": "不确定性"
+  }
+ }
+}

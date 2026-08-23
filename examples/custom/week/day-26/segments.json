@@ -1,0 +1,173 @@
+{
+ "meta": {
+  "title": "Lesson 26: Use an API Carefully",
+  "title_zh": "第 26 课：谨慎使用 API",
+  "source": "Month 1 · Week 4 · Day 26",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 108,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "通往另一个服务的门",
+    "发送请求",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "My small program calls an API. An API is a door to another service. I send a request and receive a response. The response has data and a status code. I print the status before I trust the data.",
+   "tts": "My small program calls an API. An API is a door to another service. I send a request and receive a response. The response has data and a status code. I print the status before I trust the data.",
+   "zh": "我的小程序调用一个 API。API 是通往另一个服务的一扇门。我发送请求并收到响应。响应有数据和状态码。我在相信数据前先打印状态。讲解：API=程序接口，request=请求，response=响应，status code=状态码。",
+   "hard": [
+    {
+     "w": "API",
+     "type": "term",
+     "def": "程序接口"
+    },
+    {
+     "w": "response",
+     "type": "term",
+     "def": "响应"
+    },
+    {
+     "w": "status code",
+     "type": "term",
+     "def": "状态码"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "The request fails when the key is missing. I keep the key outside the code. A secret should not appear in a public file or a screenshot. I use an environment variable instead.",
+   "tts": "The request fails when the key is missing. I keep the key outside the code. A secret should not appear in a public file or a screenshot. I use an environment variable instead.",
+   "zh": "当 key 缺失时，请求失败。我把 key 放在代码外。秘密不应该出现在公开文件或截图里，我改用环境变量。讲解：secret=秘密，public=公开的，screenshot=截图，environment variable=环境变量。",
+   "hard": [
+    {
+     "w": "secret",
+     "type": "term",
+     "def": "秘密"
+    },
+    {
+     "w": "public",
+     "type": "word",
+     "def": "公开的"
+    },
+    {
+     "w": "screenshot",
+     "type": "word",
+     "def": "截图"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "I also set a limit on requests. A free service may have a small quota. If I call it too often, the program may stop. Good code handles the limit and tells the user what happened.",
+   "tts": "I also set a limit on requests. A free service may have a small quota. If I call it too often, the program may stop. Good code handles the limit and tells the user what happened.",
+   "zh": "我还给请求设置限制。免费服务可能只有很小的配额。如果调用太频繁，程序可能停止。好的代码会处理限制，并告诉用户发生了什么。讲解：quota=配额，often=经常地，handle=处理，happen=发生。",
+   "hard": [
+    {
+     "w": "quota",
+     "type": "term",
+     "def": "配额"
+    },
+    {
+     "w": "handle",
+     "type": "word",
+     "def": "处理"
+    },
+    {
+     "w": "happen",
+     "type": "word",
+     "def": "发生"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "a door to another service",
+   "cn": "通往另一个服务的门",
+   "eg": "An API is a door to another service."
+  },
+  {
+   "t": "send a request",
+   "cn": "发送请求",
+   "eg": "The program sends a request."
+  },
+  {
+   "t": "keep the key outside the code",
+   "cn": "把 key 放在代码外",
+   "eg": "Keep the key outside the code."
+  },
+  {
+   "t": "set a limit",
+   "cn": "设置限制",
+   "eg": "Set a limit on requests."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "I send X and receive Y.",
+   "cn": "我发送 X 并收到 Y。"
+  },
+  {
+   "t": "A secret should not appear in X.",
+   "cn": "秘密不应该出现在 X 中。"
+  },
+  {
+   "t": "If X, the program may Y.",
+   "cn": "如果 X，程序可能 Y。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Write a short API safety note. Use send a request, keep the key outside the code, and set a limit.",
+   "hint_chunks": [
+    "a door to another service",
+    "send a request",
+    "keep the key outside the code"
+   ]
+  }
+ ],
+ "lexicon": {
+  "api": {
+   "def": "程序接口"
+  },
+  "response": {
+   "def": "响应"
+  },
+  "secret": {
+   "def": "秘密"
+  },
+  "public": {
+   "def": "公开的"
+  },
+  "screenshot": {
+   "def": "截图"
+  },
+  "quota": {
+   "def": "配额"
+  },
+  "handle": {
+   "def": "处理"
+  },
+  "happen": {
+   "def": "发生"
+  }
+ }
+}

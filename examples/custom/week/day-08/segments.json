@@ -1,0 +1,173 @@
+{
+ "meta": {
+  "title": "Lesson 8: Open the Python Notebook",
+  "title_zh": "第 8 课：打开 Python 笔记本",
+  "source": "Month 1 · Week 2 · Day 8",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 141,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "打开代码笔记本",
+    "清楚的名字",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "On Monday, I start the Python week. I open a notebook on my computer. A notebook lets me write code and see the result below it. I type a small line: print hello. The code runs, and I see the word hello. It feels simple, but I am happy.",
+   "tts": "On Monday, I start the Python week. I open a notebook on my computer. A notebook lets me write code and see the result below it. I type a small line: print hello. The code runs, and I see the word hello. It feels simple, but I am happy.",
+   "zh": "周一我开始 Python 学习周。我在电脑上打开一个 notebook（笔记本）。它可以让我写代码，并在下面看到结果。我输入一行小代码 print hello，代码运行后，我看到了 hello。虽然简单，但我很开心。讲解：notebook=代码笔记本，run=运行，result=结果。",
+   "hard": [
+    {
+     "w": "notebook",
+     "type": "term",
+     "def": "代码笔记本"
+    },
+    {
+     "w": "result",
+     "type": "word",
+     "def": "结果"
+    },
+    {
+     "w": "run",
+     "type": "word",
+     "def": "运行"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I make a new folder for the project. I give it a clear name. Clear names help me find files later. I also write a short note about the goal: read a small data file. The goal is not big. A small goal is easier to finish.",
+   "tts": "I make a new folder for the project. I give it a clear name. Clear names help me find files later. I also write a short note about the goal: read a small data file. The goal is not big. A small goal is easier to finish.",
+   "zh": "我为项目建了一个新文件夹，并给它起了清楚的名字。清楚的名字能帮助我以后找到文件。我还写下目标：读取一个小数据文件。目标不大，小目标更容易完成。讲解：folder=文件夹，clear=清楚的，goal=目标，finish=完成。",
+   "hard": [
+    {
+     "w": "folder",
+     "type": "word",
+     "def": "文件夹"
+    },
+    {
+     "w": "clear",
+     "type": "word",
+     "def": "清楚的"
+    },
+    {
+     "w": "goal",
+     "type": "word",
+     "def": "目标"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "Before I learn more commands, I save my work. I say the first sentence in English: I am learning Python one small step at a time. This sentence is easy, but it is useful. I read it aloud twice. English and code can grow together.",
+   "tts": "Before I learn more commands, I save my work. I say the first sentence in English: I am learning Python one small step at a time. This sentence is easy, but it is useful. I read it aloud twice. English and code can grow together.",
+   "zh": "在学习更多命令前，我先保存工作。我用英语说：我一步一步学习 Python。这句话很简单，但很有用。我大声读了两遍。英语和代码可以一起进步。讲解：save=保存，aloud=大声地，grow together=一起成长。",
+   "hard": [
+    {
+     "w": "save",
+     "type": "word",
+     "def": "保存"
+    },
+    {
+     "w": "aloud",
+     "type": "word",
+     "def": "大声地"
+    },
+    {
+     "w": "step at a time",
+     "type": "term",
+     "def": "一步一步"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "open a notebook",
+   "cn": "打开代码笔记本",
+   "eg": "I open a notebook for the project."
+  },
+  {
+   "t": "clear name",
+   "cn": "清楚的名字",
+   "eg": "Use a clear name for the file."
+  },
+  {
+   "t": "one step at a time",
+   "cn": "一步一步",
+   "eg": "I learn Python one step at a time."
+  },
+  {
+   "t": "save my work",
+   "cn": "保存我的工作",
+   "eg": "I save my work before I stop."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "A notebook lets me X.",
+   "cn": "笔记本让我可以 X。"
+  },
+  {
+   "t": "A small goal is easier to X.",
+   "cn": "小目标更容易 X。"
+  },
+  {
+   "t": "I am learning X one step at a time.",
+   "cn": "我一步一步学习 X。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "standup_update",
+   "task": "Write 3 short sentences about starting a Python project. Use open a notebook, clear name, and save my work.",
+   "hint_chunks": [
+    "open a notebook",
+    "clear name",
+    "one step at a time"
+   ]
+  }
+ ],
+ "lexicon": {
+  "notebook": {
+   "def": "代码笔记本"
+  },
+  "result": {
+   "def": "结果"
+  },
+  "run": {
+   "def": "运行"
+  },
+  "folder": {
+   "def": "文件夹"
+  },
+  "clear": {
+   "def": "清楚的"
+  },
+  "goal": {
+   "def": "目标"
+  },
+  "save": {
+   "def": "保存"
+  },
+  "aloud": {
+   "def": "大声地"
+  }
+ }
+}

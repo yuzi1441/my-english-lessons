@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "title": "Lesson 25: Facts, Sources, and Uncertainty",
+  "title_zh": "第 25 课：事实、来源与不确定性",
+  "source": "Month 1 · Week 4 · Day 25",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 99,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "没有给出来源",
+    "把说法标为未验证",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "I ask AI about a company's market. The answer lists several facts, but it gives no sources. I mark those claims as unverified. A smooth paragraph is not proof. I need a document, a date, or a direct link.",
+   "tts": "I ask AI about a company's market. The answer lists several facts, but it gives no sources. I mark those claims as unverified. A smooth paragraph is not proof. I need a document, a date, or a direct link.",
+   "zh": "我问 AI 一家公司的市场情况。答案列出几个事实，却没有来源。我把这些说法标记为未验证。流畅的段落不是证据，我需要文件、日期或直接链接。讲解：claim=说法/主张，unverified=未验证的，proof=证据，direct=直接的。",
+   "hard": [
+    {
+     "w": "claim",
+     "type": "term",
+     "def": "说法"
+    },
+    {
+     "w": "unverified",
+     "type": "term",
+     "def": "未验证的"
+    },
+    {
+     "w": "proof",
+     "type": "word",
+     "def": "证据"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "One source is old. The market may have changed since then. I write the date beside the fact. I also use careful language: the report says, the data suggests, or I do not know yet.",
+   "tts": "One source is old. The market may have changed since then. I write the date beside the fact. I also use careful language: the report says, the data suggests, or I do not know yet.",
+   "zh": "一个来源很旧，市场可能已经变化。我把日期写在事实旁边，也使用谨慎表达：报告说、数据暗示，或者我还不知道。讲解：old=旧的，changed=变化的，suggest=暗示，careful=谨慎的。",
+   "hard": [
+    {
+     "w": "suggest",
+     "type": "word",
+     "def": "暗示"
+    },
+    {
+     "w": "careful",
+     "type": "word",
+     "def": "谨慎的"
+    },
+    {
+     "w": "beside",
+     "type": "word",
+     "def": "在旁边"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "This does not make research weak. It makes the boundary clear. Good work shows what is known, what is likely, and what still needs checking.",
+   "tts": "This does not make research weak. It makes the boundary clear. Good work shows what is known, what is likely, and what still needs checking.",
+   "zh": "这不会让研究变弱，反而会让边界清楚。好的工作会显示什么是已知的、什么是可能的，以及什么还需要检查。讲解：boundary=边界，likely=可能的，still needs checking=仍需检查。",
+   "hard": [
+    {
+     "w": "boundary",
+     "type": "term",
+     "def": "边界"
+    },
+    {
+     "w": "likely",
+     "type": "word",
+     "def": "可能的"
+    },
+    {
+     "w": "known",
+     "type": "word",
+     "def": "已知的"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "give no sources",
+   "cn": "没有给出来源",
+   "eg": "The answer gives no sources."
+  },
+  {
+   "t": "mark a claim as unverified",
+   "cn": "把说法标为未验证",
+   "eg": "Mark the claim as unverified."
+  },
+  {
+   "t": "the data suggests",
+   "cn": "数据暗示",
+   "eg": "The data suggests a change."
+  },
+  {
+   "t": "the boundary is clear",
+   "cn": "边界清楚",
+   "eg": "Now the boundary is clear."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "The report says X.",
+   "cn": "报告说 X。"
+  },
+  {
+   "t": "The data suggests X.",
+   "cn": "数据暗示 X。"
+  },
+  {
+   "t": "I do not know yet.",
+   "cn": "我还不知道。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Write three cautious sentences about a source. Use mark a claim as unverified, the data suggests, and I do not know yet.",
+   "hint_chunks": [
+    "give no sources",
+    "mark a claim as unverified",
+    "the data suggests"
+   ]
+  }
+ ],
+ "lexicon": {
+  "claim": {
+   "def": "说法"
+  },
+  "unverified": {
+   "def": "未验证的"
+  },
+  "proof": {
+   "def": "证据"
+  },
+  "suggest": {
+   "def": "暗示"
+  },
+  "careful": {
+   "def": "谨慎的"
+  },
+  "beside": {
+   "def": "在旁边"
+  },
+  "boundary": {
+   "def": "边界"
+  },
+  "likely": {
+   "def": "可能的"
+  },
+  "known": {
+   "def": "已知的"
+  }
+ }
+}

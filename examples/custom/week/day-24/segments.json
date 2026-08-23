@@ -1,0 +1,173 @@
+{
+ "meta": {
+  "title": "Lesson 24: Check the AI Answer",
+  "title_zh": "第 24 课：检查 AI 的答案",
+  "source": "Month 1 · Week 4 · Day 24",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 109,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "相信语气",
+    "运行一个小测试",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "The AI gives me a confident answer. I do not trust the tone by itself. I check the code in my own project. I run a small test and compare the result with the answer. The test is the judge.",
+   "tts": "The AI gives me a confident answer. I do not trust the tone by itself. I check the code in my own project. I run a small test and compare the result with the answer. The test is the judge.",
+   "zh": "AI 给了我一个听起来很自信的答案。我不会只相信语气，而是在自己的项目里检查代码。我运行一个小测试，把结果和答案比较。测试才是裁判。讲解：confident=自信的，tone=语气，judge=裁判，compare=比较。",
+   "hard": [
+    {
+     "w": "confident",
+     "type": "word",
+     "def": "自信的"
+    },
+    {
+     "w": "by itself",
+     "type": "term",
+     "def": "单独地"
+    },
+    {
+     "w": "judge",
+     "type": "word",
+     "def": "裁判"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "The answer uses a library function I do not know. I open the official documentation. The documentation says the function has a limit. The AI did not mention the limit. I add the missing detail to my note.",
+   "tts": "The answer uses a library function I do not know. I open the official documentation. The documentation says the function has a limit. The AI did not mention the limit. I add the missing detail to my note.",
+   "zh": "答案使用了一个我不认识的库函数。我打开官方文档，文档说这个函数有一个限制，而 AI 没有提到。我把缺失细节补进笔记。讲解：library=库，official=官方的，documentation=文档，limit=限制。",
+   "hard": [
+    {
+     "w": "library",
+     "type": "term",
+     "def": "库"
+    },
+    {
+     "w": "official",
+     "type": "word",
+     "def": "官方的"
+    },
+    {
+     "w": "documentation",
+     "type": "term",
+     "def": "文档"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "AI is useful for a first draft, not a final authority. I keep the helpful part and correct the weak part. My responsibility is to check before I use the answer.",
+   "tts": "AI is useful for a first draft, not a final authority. I keep the helpful part and correct the weak part. My responsibility is to check before I use the answer.",
+   "zh": "AI 适合做第一稿，不是最终权威。我保留有用部分，修正薄弱部分。在使用答案前进行检查，是我的责任。讲解：draft=草稿，authority=权威，responsibility=责任，correct=修正。",
+   "hard": [
+    {
+     "w": "draft",
+     "type": "word",
+     "def": "草稿"
+    },
+    {
+     "w": "authority",
+     "type": "word",
+     "def": "权威"
+    },
+    {
+     "w": "responsibility",
+     "type": "term",
+     "def": "责任"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "trust the tone",
+   "cn": "相信语气",
+   "eg": "Do not trust the tone by itself."
+  },
+  {
+   "t": "run a small test",
+   "cn": "运行一个小测试",
+   "eg": "Run a small test first."
+  },
+  {
+   "t": "official documentation",
+   "cn": "官方文档",
+   "eg": "Check the official documentation."
+  },
+  {
+   "t": "a first draft",
+   "cn": "第一稿",
+   "eg": "AI can make a first draft."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "I do not trust X by itself.",
+   "cn": "我不会单独相信 X。"
+  },
+  {
+   "t": "The documentation says X.",
+   "cn": "文档说 X。"
+  },
+  {
+   "t": "My responsibility is to X.",
+   "cn": "我的责任是 X。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "code_review_comment",
+   "task": "Write a review comment about checking an AI answer. Use run a small test, official documentation, and a first draft.",
+   "hint_chunks": [
+    "trust the tone",
+    "run a small test",
+    "official documentation"
+   ]
+  }
+ ],
+ "lexicon": {
+  "confident": {
+   "def": "自信的"
+  },
+  "judge": {
+   "def": "裁判"
+  },
+  "library": {
+   "def": "库"
+  },
+  "official": {
+   "def": "官方的"
+  },
+  "documentation": {
+   "def": "文档"
+  },
+  "draft": {
+   "def": "草稿"
+  },
+  "authority": {
+   "def": "权威"
+  },
+  "responsibility": {
+   "def": "责任"
+  }
+ }
+}

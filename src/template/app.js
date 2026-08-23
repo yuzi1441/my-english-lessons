@@ -11,6 +11,7 @@
     week: "ir_week",
     last: "ir_last",
     basket: "ir_basket",
+    vocab: "ir_vocab_v1",
     seen: "ir_seen_terms",
     plays: "ir_plays",
     rate: "ir_rate",
@@ -28,6 +29,7 @@
     rate: parseFloat(localStorage.getItem(KEYS.rate) || "1"),
     counts: readJSON(KEYS.counts, {}),
     basket: readJSON(KEYS.basket, []),
+    vocab: readJSON(KEYS.vocab, []).map(normalizeVocabItem),
     seen: readJSON(KEYS.seen, {}),
     plays: readJSON(KEYS.plays, {}),
     recordings: {},
@@ -51,6 +53,57 @@
 
   function writeJSON(key, value) {
     localStorage.setItem(key, JSON.stringify(value));
+  }
+
+  function normalizeVocabItem(item) {
+    const createdAt = Number(item?.createdAt) || Date.now();
+    return { ...item, updatedAt: Number(item?.updatedAt) || Number(item?.lastReviewed) || createdAt };
+  }
+
+  function mergeVocabItems(...lists) {
+    const merged = new Map();
+    lists.flatMap(list => Array.isArray(list) ? list : []).forEach(raw => {
+      const item = normalizeVocabItem(raw);
+      const key = String(item.word || "").trim().toLowerCase();
+      if (!key) return;
+      const previous = merged.get(key);
+      if (!previous || Number(item.updatedAt) >= Number(previous.updatedAt)) merged.set(key, item);
+    });
+    return Array.from(merged.values()).sort((a, b) => Number(b.updatedAt || 0) - Number(a.updatedAt || 0));
+  }
+
+  async function syncCloudVocab(items) {
+    try {
+      const response = await fetch("/api/vocab/sync", {
+        method: "POST",
+        credentials: "same-origin",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ items })
+      });
+      if (!response.ok) return;
+      const result = await response.json();
+      if (Array.isArray(result.items)) {
+        state.vocab = mergeVocabItems(state.vocab, result.items);
+        writeJSON(KEYS.vocab, state.vocab);
+        updateVocabChip();
+      }
+    } catch { /* static/local mode remains usable */ }
+  }
+
+  async function hydrateCloudVocab() {
+    try {
+      const session = await fetch("/api/session", { credentials: "same-origin" });
+      if (!session.ok) return;
+      const sessionData = await session.json();
+      if (!sessionData.authenticated) return;
+      const response = await fetch("/api/vocab", { credentials: "same-origin" });
+      if (!response.ok) return;
+      const result = await response.json();
+      state.vocab = mergeVocabItems(state.vocab, result.items);
+      writeJSON(KEYS.vocab, state.vocab);
+      updateVocabChip();
+      await syncCloudVocab(state.vocab);
+    } catch { /* static/local mode remains usable */ }
   }
 
   function esc(text) {
@@ -93,6 +146,7 @@
             <span id="recProgress" class="tool-progress hidden" title="每段跟读录音 3 次达标"></span>
             <button id="revealBtn" class="tool primary hidden">揭文本</button>
             <button id="zhBtn" class="tool" title="显示 / 隐藏中文大意" aria-pressed="true">隐藏中文</button>
+            <a class="tool vocab-link" href="../vocab.html" title="打开独立生词本">生词本 <span id="vocabCount">0</span></a>
             <button id="fsDown" class="tool" title="缩小英文字号">A−</button>
             <button id="fsUp" class="tool" title="放大英文字号">A+</button>
             <button id="resetBtn" class="tool danger" title="清空本课学习记录（保留语速等偏好）">重置</button>
@@ -138,6 +192,7 @@
     applyInitialPrefs();
     bindBaseEvents();
     updateBasketChip();
+    updateVocabChip();
     renderBasket();
     renderHeat();
     observeFadeIns();
@@ -159,10 +214,17 @@
           </div>
         </div>
         <ul class="study-values">${card.value_points.map(v => `<li>${esc(v)}</li>`).join("")}</ul>
-        <div class="study-foot">
+      <div class="study-foot">
           <div class="study-suggest">${esc(suggestion.main)}${suggestion.sub ? `<span>${esc(suggestion.sub)}</span>` : ""}</div>
-          <div class="study-actions">${studyActions().join("")}</div>
-        </div>
+          <div class="study-actions">
+            ${studyActions().join("")}
+            <a class="study-vocab-entry" href="../vocab.html">
+              <span class="study-vocab-icon">✦</span>
+              <span><strong>我的生词本</strong><small>进入今日复习</small></span>
+              <b id="studyVocabCount">0</b>
+            </a>
+          </div>
+      </div>
       </section>
     `;
   }
@@ -819,7 +881,10 @@
       def: entry.def,
       type: "word",
       ipa: entry.ipa || "",
-      lemma: raw.lemma || ""
+      lemma: raw.lemma || "",
+      note: entry.note || "",
+      pos: entry.pos || "",
+      eg: entry.eg || ""
     };
   }
 
@@ -862,6 +927,32 @@
     return { def: "", type: "word" };
   }
 
+  function enrichTermInfo(term, info, context) {
+    const lower = String(term || "").toLowerCase();
+    const related = (data.chunks || [])
+      .filter(item => {
+        const phrase = String(item.t || "").toLowerCase();
+        return phrase.includes(lower) || lower.includes(phrase);
+      })
+      .slice(0, 3)
+      .map(item => `${item.t}：${item.cn}`);
+    const type = info.type || "word";
+    const note = info.note || (type === "term"
+      ? "这是本课的技术术语，建议把英文、中文含义和使用场景一起记忆。"
+      : type === "chunk"
+        ? "这是固定词块，建议整体记忆，不要只按单个单词逐字翻译。"
+        : "先结合本句理解核心意思，再用自己的话造一个短句。"
+    );
+    return {
+      ...info,
+      type,
+      def: info.def || "暂未收录中文释义",
+      note,
+      related: info.related || related,
+      context: context && !/[一-龥]/.test(context) ? context : "",
+    };
+  }
+
   function positionPopover(popover, anchor) {
     const rect = anchor.getBoundingClientRect();
     const w = popover.offsetWidth;
@@ -877,6 +968,7 @@
   }
 
   function popCardHTML(word, info, context) {
+    info = enrichTermInfo(word, info, context);
     const occ = termOccurrences(word);
     const occLine = occ.length
       ? `本课 ${occ.length} 次 · ${occ.slice(0, 4).map(n => `<button class="pop-seglink" data-jump-seg="${n - 1}">§${n}</button>`).join(" ")}`
@@ -892,11 +984,16 @@
         <button class="pop-speak" data-speak="${esc(word)}" title="朗读">🔊</button>
       </div>
       ${info.ipa ? `<div class="pop-ipa">${esc(info.ipa)}</div>` : ""}
-      ${info.def ? `<div class="pop-def">${esc(info.def)}</div>` : ""}
+      <div class="pop-detail"><span class="pop-label">中文释义</span>${esc(info.def)}</div>
+      ${info.pos ? `<div class="pop-detail"><span class="pop-label">词性</span>${esc(info.pos)}</div>` : ""}
+      ${info.note ? `<div class="pop-note"><span class="pop-label">学习提示</span>${esc(info.note)}</div>` : ""}
+      ${info.context ? `<div class="pop-context"><span class="pop-label">本课语境</span>${esc(info.context)}</div>` : ""}
       ${info.eg ? `<div class="pop-eg">例：${esc(info.eg)}</div>` : ""}
+      ${info.related?.length ? `<div class="pop-related"><span class="pop-label">相关搭配</span>${info.related.map(esc).join(" · ")}</div>` : ""}
       ${metaBits.length ? `<div class="pop-meta">${metaBits.join('<span class="pop-dot">·</span>')}</div>` : ""}
+      <button class="pop-vocab ${vocabEntryFor(word) ? "saved" : ""}" data-add-vocab="${esc(word)}" data-vocab-context="${esc(info.context || context || "")}">${vocabEntryFor(word) ? "✓ 已在生词本" : "＋ 加入生词本"}</button>
       <button class="pop-ask ${info.def ? "ghost-ask" : ""}" data-copy-word="${esc(word)}" data-copy-context="${esc(context)}">${info.def ? "仍不懂？复制 → 问你的 agent" : "📋 复制 → 问你的 agent"}</button>
-      ${info.def ? "" : `<div class="pop-sub">复制「表达 + 原句 + 学习目标」，粘给本地 agent 即可</div>`}
+      <div class="pop-sub">生词会记在独立生词本中，换课程后仍然保留</div>
     `;
   }
 
@@ -917,6 +1014,7 @@
   const SELECTION_CHAR_CAP = 1200;
   // passage text lives here instead of a data attribute: selections run long
   let selectionPassage = "";
+  let selectionTimer = null;
 
   function selectionInfo() {
     const sel = window.getSelection();
@@ -972,8 +1070,7 @@
     positionPopover(popover, info.range);
   }
 
-  function handleSelectionEnd(event) {
-    if (event.target.closest?.(".term-popover, textarea, input, .player")) return;
+  function openSelectionIfReady() {
     const info = selectionInfo();
     if (!info) return;
     if (info.words > SELECTION_WORD_CAP || info.chars > SELECTION_CHAR_CAP) {
@@ -981,6 +1078,13 @@
       return;
     }
     showSelectionPopover(info);
+  }
+
+  function scheduleSelectionPopover(event) {
+    if (event?.target?.closest?.(".term-popover, textarea, input, .player")) return;
+    clearTimeout(selectionTimer);
+    // Mobile browsers finish the range a moment after touchend/selectionchange.
+    selectionTimer = setTimeout(openSelectionIfReady, 140);
   }
 
   /* ---------- basket ---------- */
@@ -1002,6 +1106,63 @@
     }
     chip.classList.remove("hidden");
     chip.textContent = `🧺 ${state.basket.length}`;
+  }
+
+  function vocabEntryFor(term) {
+    const lower = String(term || "").trim().toLowerCase();
+    return state.vocab.find(item => String(item.word || "").toLowerCase() === lower) || null;
+  }
+
+  function updateVocabChip() {
+    ["#vocabCount", "#studyVocabCount"].forEach(selector => {
+      const count = $(selector);
+      if (count) count.textContent = String(state.vocab.length);
+    });
+  }
+
+  function addVocabWord(term, rawInfo, context) {
+    const word = String(term || "").trim();
+    if (!word) return;
+    const info = enrichTermInfo(word, rawInfo || { def: "", type: "word" }, context || "");
+    const now = Date.now();
+    const existing = vocabEntryFor(word);
+    if (existing) {
+      existing.def = info.def || existing.def || "待补充";
+      existing.type = info.type || existing.type || "word";
+      existing.ipa = info.ipa || existing.ipa || "";
+      existing.note = info.note || existing.note || "";
+      existing.related = info.related || existing.related || [];
+      existing.examples = Array.from(new Set([context || existing.examples?.[0] || "", ...(existing.examples || [])].filter(Boolean))).slice(0, 5);
+      existing.lessons = Array.from(new Set([data.meta.title, ...(existing.lessons || [])])).slice(0, 8);
+      existing.stage = Number.isFinite(Number(existing.stage)) ? Number(existing.stage) : Math.min(Number(existing.reviews) || 0, 5);
+      existing.nextReview = Number(existing.nextReview) || now;
+      existing.reviewHistory = Array.isArray(existing.reviewHistory) ? existing.reviewHistory : [];
+      existing.lastSeen = now;
+      existing.updatedAt = now;
+    } else {
+      state.vocab.unshift({
+        word,
+        def: info.def || "待补充",
+        type: info.type || "word",
+        ipa: info.ipa || "",
+        note: info.note || "",
+        related: info.related || [],
+        examples: context ? [context] : [],
+        lessons: [data.meta.title],
+        status: "learning",
+        reviews: 0,
+        stage: 0,
+        nextReview: now,
+        reviewHistory: [],
+        createdAt: now,
+        lastSeen: now,
+        updatedAt: now,
+      });
+    }
+    writeJSON(KEYS.vocab, state.vocab);
+    updateVocabChip();
+    syncCloudVocab(state.vocab);
+    toast(existing ? "已更新生词本" : "已加入生词本");
   }
 
   function basketSegLabel(id) {
@@ -1440,7 +1601,7 @@
 
   function markContext(mark) {
     const segEl = mark.closest(".seg");
-    if (segEl) return data.segments[Number(segEl.dataset.i)].en;
+    if (segEl) return data.segments[Number(segEl.dataset.i)]?.en || "";
     return mark.textContent;
   }
 
@@ -1475,6 +1636,13 @@
       const speakBtn = event.target.closest("[data-speak]");
       if (speakBtn) {
         playWordAudio(speakBtn.dataset.speak);
+        return;
+      }
+      if (target.dataset.addVocab) {
+        const term = target.dataset.addVocab;
+        addVocabWord(term, lookupTerm(term, null), target.dataset.vocabContext || "");
+        target.textContent = "✓ 已在生词本";
+        target.classList.add("saved");
         return;
       }
       const segLink = event.target.closest("[data-jump-seg]");
@@ -1582,7 +1750,10 @@
       if (target.id === "abBtn") cycleAB();
     });
 
-    document.addEventListener("mouseup", handleSelectionEnd);
+    document.addEventListener("mouseup", scheduleSelectionPopover);
+    document.addEventListener("pointerup", scheduleSelectionPopover, { passive: true });
+    document.addEventListener("touchend", scheduleSelectionPopover, { passive: true });
+    document.addEventListener("selectionchange", scheduleSelectionPopover);
 
     document.addEventListener("keydown", event => {
       if ((event.key === "Enter" || event.key === " ") && event.target.matches?.("mark.hl[data-term]")) {
@@ -1651,4 +1822,5 @@
     "color:inherit"
   );
   render();
+  hydrateCloudVocab();
 })();

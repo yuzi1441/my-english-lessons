@@ -57,6 +57,19 @@ Then open `http://localhost:8770/index.html`.
 
 Generated lessons belong in `lessons/`, which is ignored by git. Do not commit user-captured transcripts, private articles, or generated lesson audio unless you own the rights.
 
+## 30-day vocabulary course
+
+Build the independent computer, daily-conversation, and GitHub vocabulary course alongside the existing speaking lessons:
+
+```bash
+python3 scripts/make_vocabulary_month.py
+python3 scripts/generate_vocabulary_audio.py
+```
+
+The source data is written to `examples/vocabulary-month/month.json`; the interactive site is built at `lessons/week/vocabulary-month/`. Each day contains 18 new items and six exercises. The audio command generates a fixed Edge US-English voice for every term and example, with browser speech kept only as a fallback. Review state is shared with the existing vocabulary book.
+
+The vocabulary notebook uses the official `ts-fsrs` scheduler with 90% target retention, four review ratings, short-term relearning steps, and per-card difficulty/stability state. `npm ci` installs the pinned browser scheduler before the static build copies its UMD bundle into `lessons/week/vendor/`.
+
 ## Skill Install
 
 Copy `skills/immersion-reader/` into `~/.claude/skills/` or your project `.claude/skills/` directory. OpenCode and Codex users should keep this repository's `AGENTS.md` with the lesson project so the agent follows the data contract.

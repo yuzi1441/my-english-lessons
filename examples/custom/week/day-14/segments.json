@@ -1,0 +1,167 @@
+{
+ "meta": {
+  "title": "Lesson 14: Python Week Review",
+  "title_zh": "第 14 课：Python 周复习",
+  "source": "Month 1 · Week 2 · Day 14",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 113,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "基础步骤",
+    "一次一件事",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "This week I opened a notebook and used variables. I made a small function and tested it. I put values in a list and read a JSON file. These actions are small, but they are the basic steps of a useful program.",
+   "tts": "This week I opened a notebook and used variables. I made a small function and tested it. I put values in a list and read a JSON file. These actions are small, but they are the basic steps of a useful program.",
+   "zh": "这周我打开了 notebook，使用了变量。我写了一个小函数并测试它，把值放进列表，还读取了 JSON 文件。这些动作很小，却是实用程序的基础步骤。讲解：basic=基础的，action=动作，useful=有用的。",
+   "hard": [
+    {
+     "w": "basic",
+     "type": "word",
+     "def": "基础的"
+    },
+    {
+     "w": "action",
+     "type": "word",
+     "def": "动作"
+    },
+    {
+     "w": "useful",
+     "type": "word",
+     "def": "有用的"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I also learned how to debug. When an error appears, I read the message and check one thing at a time. I do not need to understand everything at once. I only need the next clear step.",
+   "tts": "I also learned how to debug. When an error appears, I read the message and check one thing at a time. I do not need to understand everything at once. I only need the next clear step.",
+   "zh": "我还学会了怎样调试。出现错误时，我读信息，一次检查一件事。我不需要一下子理解所有内容，只需要找到下一步清楚的动作。讲解：at once=一下子，next step=下一步，clear=清楚的。",
+   "hard": [
+    {
+     "w": "at once",
+     "type": "term",
+     "def": "一下子"
+    },
+    {
+     "w": "next step",
+     "type": "term",
+     "def": "下一步"
+    },
+    {
+     "w": "understand",
+     "type": "word",
+     "def": "理解"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "For next week, I will use Python with a small table of real data. I will read it, clean it, and ask one simple question. Learning works when I practice a little every day.",
+   "tts": "For next week, I will use Python with a small table of real data. I will read it, clean it, and ask one simple question. Learning works when I practice a little every day.",
+   "zh": "下周我会用 Python 处理一张真实数据小表。我会读取、清理数据，再问一个简单问题。每天练习一点，学习就会有效果。讲解：real data=真实数据，clean data=清理数据，practice=练习。",
+   "hard": [
+    {
+     "w": "real data",
+     "type": "term",
+     "def": "真实数据"
+    },
+    {
+     "w": "clean",
+     "type": "word",
+     "def": "清理"
+    },
+    {
+     "w": "practice",
+     "type": "word",
+     "def": "练习"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "the basic steps",
+   "cn": "基础步骤",
+   "eg": "These are the basic steps."
+  },
+  {
+   "t": "one thing at a time",
+   "cn": "一次一件事",
+   "eg": "Check one thing at a time."
+  },
+  {
+   "t": "the next clear step",
+   "cn": "下一步清楚的动作",
+   "eg": "Find the next clear step."
+  },
+  {
+   "t": "practice every day",
+   "cn": "每天练习",
+   "eg": "I practice a little every day."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "This week I X.",
+   "cn": "这周我做了 X。"
+  },
+  {
+   "t": "I do not need to X at once.",
+   "cn": "我不需要一下子 X。"
+  },
+  {
+   "t": "Learning works when X.",
+   "cn": "当 X 时，学习会有效果。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "standup_update",
+   "task": "Write a weekly review with three sentences. Use the basic steps, one thing at a time, and practice every day.",
+   "hint_chunks": [
+    "the basic steps",
+    "one thing at a time",
+    "the next clear step"
+   ]
+  }
+ ],
+ "lexicon": {
+  "basic": {
+   "def": "基础的"
+  },
+  "action": {
+   "def": "动作"
+  },
+  "useful": {
+   "def": "有用的"
+  },
+  "understand": {
+   "def": "理解"
+  },
+  "clean": {
+   "def": "清理"
+  },
+  "practice": {
+   "def": "练习"
+  }
+ }
+}

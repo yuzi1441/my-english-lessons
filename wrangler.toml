@@ -1,0 +1,8 @@
+name = "my-english-lessons"
+compatibility_date = "2025-08-13"
+pages_build_output_dir = "lessons/week"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "my-english-lessons-sync"
+database_id = "9fc1b00f-5d34-4bec-b63d-89070484e325"

@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "title": "Lesson 12: Read a JSON File",
+  "title_zh": "第 12 课：读取 JSON 文件",
+  "source": "Month 1 · Week 2 · Day 12",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 117,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "文本格式",
+    "把文本变成结构",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "My data is in a JSON file. JSON is a simple text format. It stores names and values with clear labels. I open the file and read it with Python. The program turns the text into a structure I can use.",
+   "tts": "My data is in a JSON file. JSON is a simple text format. It stores names and values with clear labels. I open the file and read it with Python. The program turns the text into a structure I can use.",
+   "zh": "我的数据在一个 JSON 文件里。JSON 是一种简单的文本格式，用清楚的标签保存名字和值。我打开文件并用 Python 读取它，程序把文本变成我可以使用的结构。讲解：format=格式，label=标签，store=保存，turn into=变成。",
+   "hard": [
+    {
+     "w": "format",
+     "type": "term",
+     "def": "格式"
+    },
+    {
+     "w": "label",
+     "type": "word",
+     "def": "标签"
+    },
+    {
+     "w": "store",
+     "type": "word",
+     "def": "保存"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "The file has a list of prices. I ask Python for the price of one company. If the name exists, I get a number. If it does not exist, I get nothing. I check the name before I use the result.",
+   "tts": "The file has a list of prices. I ask Python for the price of one company. If the name exists, I get a number. If it does not exist, I get nothing. I check the name before I use the result.",
+   "zh": "文件里有一个价格列表。我向 Python 请求某家公司的价格。如果名字存在，我会得到一个数字；如果不存在，就什么也得不到。我在使用结果前先检查名字。讲解：exist=存在，result=结果，nothing=什么也没有。",
+   "hard": [
+    {
+     "w": "exist",
+     "type": "word",
+     "def": "存在"
+    },
+    {
+     "w": "result",
+     "type": "word",
+     "def": "结果"
+    },
+    {
+     "w": "nothing",
+     "type": "word",
+     "def": "什么也没有"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "I save a clean copy after reading the file. I keep the original file safe. This small habit protects my work. When the program changes, I can compare the new data with the old data.",
+   "tts": "I save a clean copy after reading the file. I keep the original file safe. This small habit protects my work. When the program changes, I can compare the new data with the old data.",
+   "zh": "读完文件后，我保存一份干净的副本，并把原始文件保护好。这个小习惯能保护我的工作。当程序发生变化时，我可以把新数据和旧数据进行比较。讲解：copy=副本，protect=保护，compare=比较，habit=习惯。",
+   "hard": [
+    {
+     "w": "protect",
+     "type": "word",
+     "def": "保护"
+    },
+    {
+     "w": "compare",
+     "type": "word",
+     "def": "比较"
+    },
+    {
+     "w": "habit",
+     "type": "word",
+     "def": "习惯"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "a text format",
+   "cn": "文本格式",
+   "eg": "JSON is a simple text format."
+  },
+  {
+   "t": "turn text into a structure",
+   "cn": "把文本变成结构",
+   "eg": "Python turns text into a structure."
+  },
+  {
+   "t": "if the name exists",
+   "cn": "如果名字存在",
+   "eg": "I get a price if the name exists."
+  },
+  {
+   "t": "keep the original safe",
+   "cn": "保护原始文件",
+   "eg": "Keep the original file safe."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "It stores X with Y.",
+   "cn": "它用 Y 保存 X。"
+  },
+  {
+   "t": "If X exists, I get Y.",
+   "cn": "如果 X 存在，我得到 Y。"
+  },
+  {
+   "t": "I can compare X with Y.",
+   "cn": "我可以比较 X 和 Y。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Write a short data note about reading JSON. Use a text format, if the name exists, and keep the original safe.",
+   "hint_chunks": [
+    "a text format",
+    "turn text into a structure",
+    "if the name exists"
+   ]
+  }
+ ],
+ "lexicon": {
+  "format": {
+   "def": "格式"
+  },
+  "label": {
+   "def": "标签"
+  },
+  "store": {
+   "def": "保存"
+  },
+  "exist": {
+   "def": "存在"
+  },
+  "result": {
+   "def": "结果"
+  },
+  "nothing": {
+   "def": "什么也没有"
+  },
+  "protect": {
+   "def": "保护"
+  },
+  "compare": {
+   "def": "比较"
+  },
+  "habit": {
+   "def": "习惯"
+  }
+ }
+}

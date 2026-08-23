@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "title": "Lesson 18: Evidence and Story",
+  "title_zh": "第 18 课：证据与故事",
+  "source": "Month 1 · Week 3 · Day 18",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 100,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "寻找证据",
+    "整体情况复杂",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "A headline says the company is winning. I do not accept the headline immediately. I look for evidence: sales, profit, users, and cash. One good number is not enough to explain a whole business.",
+   "tts": "A headline says the company is winning. I do not accept the headline immediately. I look for evidence: sales, profit, users, and cash. One good number is not enough to explain a whole business.",
+   "zh": "一个标题说这家公司正在获胜。我不会马上接受这个标题，而是寻找证据：销售额、利润、用户和现金。一个漂亮数字不足以解释整个生意。讲解：headline=标题，evidence=证据，profit=利润，cash=现金。",
+   "hard": [
+    {
+     "w": "headline",
+     "type": "word",
+     "def": "标题"
+    },
+    {
+     "w": "evidence",
+     "type": "term",
+     "def": "证据"
+    },
+    {
+     "w": "profit",
+     "type": "word",
+     "def": "利润"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "The company has more users, but each user spends less. The user number is positive, but the picture is mixed. I write both facts in my note. Honest research keeps good and bad evidence together.",
+   "tts": "The company has more users, but each user spends less. The user number is positive, but the picture is mixed. I write both facts in my note. Honest research keeps good and bad evidence together.",
+   "zh": "公司的用户更多了，但每个用户花的钱更少。用户数量是积极信号，但整体情况很复杂。我把两个事实都写进笔记。诚实的研究会把好证据和坏证据放在一起。讲解：spend=花费，positive=积极的，mixed=复杂的/好坏混合。",
+   "hard": [
+    {
+     "w": "spend",
+     "type": "word",
+     "def": "花费"
+    },
+    {
+     "w": "positive",
+     "type": "word",
+     "def": "积极的"
+    },
+    {
+     "w": "mixed",
+     "type": "word",
+     "def": "好坏混合的"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "I separate fact from opinion. The fact is: sales grew five percent. My opinion is: the growth may continue. I label the opinion clearly. This small habit keeps my thinking clean.",
+   "tts": "I separate fact from opinion. The fact is: sales grew five percent. My opinion is: the growth may continue. I label the opinion clearly. This small habit keeps my thinking clean.",
+   "zh": "我把事实和观点分开。事实是销售额增长了百分之五，观点是增长可能继续。我清楚标注观点。这个小习惯能让思考保持干净。讲解：separate=分开，opinion=观点，continue=继续，label=标注。",
+   "hard": [
+    {
+     "w": "separate",
+     "type": "word",
+     "def": "分开"
+    },
+    {
+     "w": "opinion",
+     "type": "term",
+     "def": "观点"
+    },
+    {
+     "w": "continue",
+     "type": "word",
+     "def": "继续"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "look for evidence",
+   "cn": "寻找证据",
+   "eg": "Look for evidence behind the headline."
+  },
+  {
+   "t": "the picture is mixed",
+   "cn": "整体情况复杂",
+   "eg": "The picture is mixed."
+  },
+  {
+   "t": "separate fact from opinion",
+   "cn": "区分事实与观点",
+   "eg": "Separate fact from opinion."
+  },
+  {
+   "t": "label clearly",
+   "cn": "清楚标注",
+   "eg": "Label your opinion clearly."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "I do not accept X immediately.",
+   "cn": "我不会马上接受 X。"
+  },
+  {
+   "t": "The fact is X.",
+   "cn": "事实是 X。"
+  },
+  {
+   "t": "My opinion is X.",
+   "cn": "我的观点是 X。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Write a short research note that separates fact and opinion. Use look for evidence, the picture is mixed, and separate fact from opinion.",
+   "hint_chunks": [
+    "look for evidence",
+    "the picture is mixed",
+    "separate fact from opinion"
+   ]
+  }
+ ],
+ "lexicon": {
+  "headline": {
+   "def": "标题"
+  },
+  "evidence": {
+   "def": "证据"
+  },
+  "profit": {
+   "def": "利润"
+  },
+  "spend": {
+   "def": "花费"
+  },
+  "positive": {
+   "def": "积极的"
+  },
+  "mixed": {
+   "def": "好坏混合的"
+  },
+  "separate": {
+   "def": "分开"
+  },
+  "opinion": {
+   "def": "观点"
+  },
+  "continue": {
+   "def": "继续"
+  }
+ }
+}

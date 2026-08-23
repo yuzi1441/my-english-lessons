@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "title": "Lesson 23: Give the AI Context",
+  "title_zh": "第 23 课：给 AI 上下文",
+  "source": "Month 1 · Week 4 · Day 23",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 106,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "给它上下文",
+    "展示一个例子",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "The model does not know my whole project. I give it context before I ask a question. I explain the user, the goal, the current behavior, and the problem. Context helps the model choose a better answer.",
+   "tts": "The model does not know my whole project. I give it context before I ask a question. I explain the user, the goal, the current behavior, and the problem. Context helps the model choose a better answer.",
+   "zh": "模型不知道我的整个项目。我在提问前先给它上下文，说明用户、目标、当前行为和问题。上下文能帮助模型选择更好的答案。讲解：context=上下文，behavior=行为，choose=选择。",
+   "hard": [
+    {
+     "w": "context",
+     "type": "term",
+     "def": "上下文"
+    },
+    {
+     "w": "behavior",
+     "type": "word",
+     "def": "行为"
+    },
+    {
+     "w": "choose",
+     "type": "word",
+     "def": "选择"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I also show one good example and one bad example. Examples make the difference clear. If I want a short answer, I show the length and tone. The model follows a pattern more easily when I show it.",
+   "tts": "I also show one good example and one bad example. Examples make the difference clear. If I want a short answer, I show the length and tone. The model follows a pattern more easily when I show it.",
+   "zh": "我还给出一个好例子和一个坏例子。例子会让差别清楚。如果我想要短答案，我会示范长度和语气。给出模式后，模型更容易遵循。讲解：example=例子，tone=语气，pattern=模式，follow=遵循。",
+   "hard": [
+    {
+     "w": "example",
+     "type": "word",
+     "def": "例子"
+    },
+    {
+     "w": "tone",
+     "type": "word",
+     "def": "语气"
+    },
+    {
+     "w": "pattern",
+     "type": "term",
+     "def": "模式"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "Too much context can also be a problem. I keep the useful parts and remove old notes. A focused context saves time and reduces confusion. Good prompting is partly good editing.",
+   "tts": "Too much context can also be a problem. I keep the useful parts and remove old notes. A focused context saves time and reduces confusion. Good prompting is partly good editing.",
+   "zh": "上下文太多也可能成为问题。我保留有用部分，删除旧笔记。聚焦的上下文能节省时间并减少混乱。好的提示词工作有一部分就是好的编辑。讲解：focused=聚焦的，reduce=减少，confusion=混乱，edit=编辑。",
+   "hard": [
+    {
+     "w": "focused",
+     "type": "word",
+     "def": "聚焦的"
+    },
+    {
+     "w": "reduce",
+     "type": "word",
+     "def": "减少"
+    },
+    {
+     "w": "confusion",
+     "type": "word",
+     "def": "混乱"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "give it context",
+   "cn": "给它上下文",
+   "eg": "Give the model context first."
+  },
+  {
+   "t": "show one example",
+   "cn": "展示一个例子",
+   "eg": "Show one good example."
+  },
+  {
+   "t": "follow a pattern",
+   "cn": "遵循一个模式",
+   "eg": "The model can follow a pattern."
+  },
+  {
+   "t": "remove old notes",
+   "cn": "删除旧笔记",
+   "eg": "Remove old notes from the prompt."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "I explain X before I ask Y.",
+   "cn": "我在问 Y 前解释 X。"
+  },
+  {
+   "t": "Examples make X clear.",
+   "cn": "例子让 X 变清楚。"
+  },
+  {
+   "t": "I keep X and remove Y.",
+   "cn": "我保留 X，删除 Y。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Write a prompt context block for a small coding problem. Use give it context, show one example, and remove old notes.",
+   "hint_chunks": [
+    "give it context",
+    "show one example",
+    "follow a pattern"
+   ]
+  }
+ ],
+ "lexicon": {
+  "context": {
+   "def": "上下文"
+  },
+  "behavior": {
+   "def": "行为"
+  },
+  "choose": {
+   "def": "选择"
+  },
+  "example": {
+   "def": "例子"
+  },
+  "tone": {
+   "def": "语气"
+  },
+  "pattern": {
+   "def": "模式"
+  },
+  "focused": {
+   "def": "聚焦的"
+  },
+  "reduce": {
+   "def": "减少"
+  },
+  "confusion": {
+   "def": "混乱"
+  }
+ }
+}

@@ -1,0 +1,173 @@
+{
+ "meta": {
+  "title": "Lesson 11: Lists and Tables",
+  "title_zh": "第 11 课：列表与表格",
+  "source": "Month 1 · Week 2 · Day 11",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 118,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "容纳多个值",
+    "在零号位置",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "Today I use a list. A list holds several values in one place. I make a list of prices: ten, twelve, and fifteen. The first item has position zero. Python starts counting at zero. I check the first item and see ten.",
+   "tts": "Today I use a list. A list holds several values in one place. I make a list of prices: ten, twelve, and fifteen. The first item has position zero. Python starts counting at zero. I check the first item and see ten.",
+   "zh": "今天我使用列表。列表把多个值放在一个地方。我建立一个价格列表：十、十二和十五。第一个项目的位置是零。Python 从零开始计数。我检查第一个项目，看到十。讲解：list=列表，hold=容纳，item=项目，position=位置。",
+   "hard": [
+    {
+     "w": "list",
+     "type": "term",
+     "def": "列表"
+    },
+    {
+     "w": "hold",
+     "type": "word",
+     "def": "容纳"
+    },
+    {
+     "w": "item",
+     "type": "word",
+     "def": "项目"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "A table has rows and columns. A row can describe one company. The columns can hold a name, a price, and a date. I do not need to remember every number. I let the table keep the structure for me.",
+   "tts": "A table has rows and columns. A row can describe one company. The columns can hold a name, a price, and a date. I do not need to remember every number. I let the table keep the structure for me.",
+   "zh": "表格有行和列。一行可以描述一家公司，列可以放名字、价格和日期。我不需要记住每个数字，让表格帮我保存结构。讲解：row=行，column=列，describe=描述，structure=结构。",
+   "hard": [
+    {
+     "w": "row",
+     "type": "term",
+     "def": "行"
+    },
+    {
+     "w": "column",
+     "type": "term",
+     "def": "列"
+    },
+    {
+     "w": "structure",
+     "type": "word",
+     "def": "结构"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "I loop through the list and print each price. The computer repeats the same action. I watch the output. One price is wrong, so I check the original list. Small checks help me trust the data.",
+   "tts": "I loop through the list and print each price. The computer repeats the same action. I watch the output. One price is wrong, so I check the original list. Small checks help me trust the data.",
+   "zh": "我遍历列表并打印每个价格，电脑会重复同一个动作。我观察输出，发现一个价格不对，于是检查原始列表。小检查能帮助我相信数据。讲解：loop through=遍历，output=输出，original=原始的，trust=相信。",
+   "hard": [
+    {
+     "w": "loop through",
+     "type": "term",
+     "def": "遍历"
+    },
+    {
+     "w": "output",
+     "type": "word",
+     "def": "输出"
+    },
+    {
+     "w": "trust",
+     "type": "word",
+     "def": "相信"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "hold several values",
+   "cn": "容纳多个值",
+   "eg": "A list holds several values."
+  },
+  {
+   "t": "at position zero",
+   "cn": "在零号位置",
+   "eg": "The first item is at position zero."
+  },
+  {
+   "t": "loop through",
+   "cn": "遍历",
+   "eg": "We loop through the list."
+  },
+  {
+   "t": "trust the data",
+   "cn": "相信数据",
+   "eg": "Small checks help us trust the data."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "A list holds X.",
+   "cn": "列表容纳 X。"
+  },
+  {
+   "t": "The first item is at X.",
+   "cn": "第一个项目在 X。"
+  },
+  {
+   "t": "I check X.",
+   "cn": "我检查 X。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Write 3 short sentences describing a small data table. Use hold several values, loop through, and trust the data.",
+   "hint_chunks": [
+    "hold several values",
+    "at position zero",
+    "loop through"
+   ]
+  }
+ ],
+ "lexicon": {
+  "list": {
+   "def": "列表"
+  },
+  "hold": {
+   "def": "容纳"
+  },
+  "item": {
+   "def": "项目"
+  },
+  "row": {
+   "def": "行"
+  },
+  "column": {
+   "def": "列"
+  },
+  "structure": {
+   "def": "结构"
+  },
+  "output": {
+   "def": "输出"
+  },
+  "trust": {
+   "def": "相信"
+  }
+ }
+}

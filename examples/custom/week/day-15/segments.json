@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "title": "Lesson 15: Ask a Good Data Question",
+  "title_zh": "第 15 课：提出一个好的数据问题",
+  "source": "Month 1 · Week 3 · Day 15",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 112,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "给项目一个方向",
+    "要测量什么",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "I start a small research project. Before I open the data, I write one question. I ask: did the company's sales grow this year? A clear question gives the project a direction. Without a question, a table is only a pile of numbers.",
+   "tts": "I start a small research project. Before I open the data, I write one question. I ask: did the company's sales grow this year? A clear question gives the project a direction. Without a question, a table is only a pile of numbers.",
+   "zh": "我开始一个小研究项目。在打开数据前，我先写下一个问题：这家公司的销售额今年增长了吗？清楚的问题会给项目一个方向。没有问题，表格只是一堆数字。讲解：research=研究，sales=销售额，direction=方向，pile=一堆。",
+   "hard": [
+    {
+     "w": "research",
+     "type": "term",
+     "def": "研究"
+    },
+    {
+     "w": "sales",
+     "type": "word",
+     "def": "销售额"
+    },
+    {
+     "w": "direction",
+     "type": "word",
+     "def": "方向"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I decide what to measure. I need sales for two years, not every number in the report. I write the source next to each value. A source helps another person check my work.",
+   "tts": "I decide what to measure. I need sales for two years, not every number in the report. I write the source next to each value. A source helps another person check my work.",
+   "zh": "我决定测量什么。我需要两年的销售额，而不是报告里的每一个数字。我把来源写在每个值旁边。来源能帮助另一个人检查我的工作。讲解：measure=测量，report=报告，source=来源，value=数值。",
+   "hard": [
+    {
+     "w": "measure",
+     "type": "word",
+     "def": "测量"
+    },
+    {
+     "w": "source",
+     "type": "term",
+     "def": "来源"
+    },
+    {
+     "w": "value",
+     "type": "word",
+     "def": "数值"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "The first result is not surprising. Sales grew a little. I do not tell a big story yet. I check the period, the unit, and the original document. Good research starts with a small, testable question.",
+   "tts": "The first result is not surprising. Sales grew a little. I do not tell a big story yet. I check the period, the unit, and the original document. Good research starts with a small, testable question.",
+   "zh": "第一个结果并不意外，销售额增长了一点。我暂时不讲一个很大的故事，而是检查期间、单位和原始文件。好的研究从一个小而可验证的问题开始。讲解：surprising=令人意外的，period=期间，unit=单位，testable=可验证的。",
+   "hard": [
+    {
+     "w": "period",
+     "type": "word",
+     "def": "期间"
+    },
+    {
+     "w": "unit",
+     "type": "word",
+     "def": "单位"
+    },
+    {
+     "w": "testable",
+     "type": "word",
+     "def": "可验证的"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "give the project a direction",
+   "cn": "给项目一个方向",
+   "eg": "A clear question gives the project a direction."
+  },
+  {
+   "t": "what to measure",
+   "cn": "要测量什么",
+   "eg": "Decide what to measure first."
+  },
+  {
+   "t": "next to each value",
+   "cn": "在每个数值旁边",
+   "eg": "Write the source next to each value."
+  },
+  {
+   "t": "tell a big story",
+   "cn": "讲一个很大的故事",
+   "eg": "Do not tell a big story too early."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "I ask: X?",
+   "cn": "我问：X 吗？"
+  },
+  {
+   "t": "I need X, not Y.",
+   "cn": "我需要 X，而不是 Y。"
+  },
+  {
+   "t": "I do not X yet.",
+   "cn": "我暂时不 X。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Write a research question and two data rules. Use what to measure, next to each value, and tell a big story.",
+   "hint_chunks": [
+    "give the project a direction",
+    "what to measure",
+    "next to each value"
+   ]
+  }
+ ],
+ "lexicon": {
+  "research": {
+   "def": "研究"
+  },
+  "sales": {
+   "def": "销售额"
+  },
+  "direction": {
+   "def": "方向"
+  },
+  "measure": {
+   "def": "测量"
+  },
+  "source": {
+   "def": "来源"
+  },
+  "value": {
+   "def": "数值"
+  },
+  "period": {
+   "def": "期间"
+  },
+  "unit": {
+   "def": "单位"
+  },
+  "testable": {
+   "def": "可验证的"
+  }
+ }
+}

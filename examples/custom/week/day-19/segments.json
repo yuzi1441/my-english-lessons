@@ -1,0 +1,173 @@
+{
+ "meta": {
+  "title": "Lesson 19: Explain a Number",
+  "title_zh": "第 19 课：解释一个数字",
+  "source": "Month 1 · Week 3 · Day 19",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 111,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "数字的来源",
+    "一次性事件",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "My manager asks about the five percent growth. I answer with a complete sentence. Sales grew five percent from last year. I also say where the number comes from. A number is stronger when people can check it.",
+   "tts": "My manager asks about the five percent growth. I answer with a complete sentence. Sales grew five percent from last year. I also say where the number comes from. A number is stronger when people can check it.",
+   "zh": "经理问我百分之五的增长。我用完整句子回答：销售额比去年增长百分之五。我还说明数字来自哪里。一个可以被检查的数字更有说服力。讲解：complete=完整的，from last year=与去年相比，stronger=更有说服力。",
+   "hard": [
+    {
+     "w": "complete",
+     "type": "word",
+     "def": "完整的"
+    },
+    {
+     "w": "from last year",
+     "type": "term",
+     "def": "与去年相比"
+    },
+    {
+     "w": "checkable",
+     "type": "word",
+     "def": "可检查的"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "She asks if the growth is real or caused by a one-time event. I check the notes. One large order made this quarter special. I add this limit to the explanation. Context changes the meaning of a number.",
+   "tts": "She asks if the growth is real or caused by a one-time event. I check the notes. One large order made this quarter special. I add this limit to the explanation. Context changes the meaning of a number.",
+   "zh": "她问增长是真实的，还是一次性事件造成的。我检查记录，发现一笔大订单让这个季度很特殊。我把这个限制补进解释。上下文会改变数字的含义。讲解：one-time=一次性的，quarter=季度，limit=限制，context=上下文。",
+   "hard": [
+    {
+     "w": "one-time",
+     "type": "term",
+     "def": "一次性的"
+    },
+    {
+     "w": "quarter",
+     "type": "term",
+     "def": "季度"
+    },
+    {
+     "w": "context",
+     "type": "term",
+     "def": "上下文"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "I do not need a long speech. I need a clear number, a source, and one important limit. This is enough for a useful update. Short evidence is easier for a busy team to remember.",
+   "tts": "I do not need a long speech. I need a clear number, a source, and one important limit. This is enough for a useful update. Short evidence is easier for a busy team to remember.",
+   "zh": "我不需要一大段演讲，只需要一个清楚的数字、一个来源和一个重要限制。这样就足够做出有用的更新。简短的证据更容易让忙碌的团队记住。讲解：speech=演讲，limit=限制，update=更新，busy=忙碌的。",
+   "hard": [
+    {
+     "w": "speech",
+     "type": "word",
+     "def": "演讲"
+    },
+    {
+     "w": "update",
+     "type": "word",
+     "def": "更新"
+    },
+    {
+     "w": "busy",
+     "type": "word",
+     "def": "忙碌的"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "where the number comes from",
+   "cn": "数字的来源",
+   "eg": "Say where the number comes from."
+  },
+  {
+   "t": "a one-time event",
+   "cn": "一次性事件",
+   "eg": "The result may be a one-time event."
+  },
+  {
+   "t": "add a limit",
+   "cn": "补充一个限制",
+   "eg": "Add a limit to the explanation."
+  },
+  {
+   "t": "a useful update",
+   "cn": "有用的更新",
+   "eg": "This is enough for a useful update."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "X grew Y from last year.",
+   "cn": "X 比去年增长了 Y。"
+  },
+  {
+   "t": "X is caused by Y.",
+   "cn": "X 是由 Y 造成的。"
+  },
+  {
+   "t": "This is enough for X.",
+   "cn": "这对 X 已经足够。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "standup_update",
+   "task": "Write a 3-sentence update about one number. Use where the number comes from, a one-time event, and add a limit.",
+   "hint_chunks": [
+    "where the number comes from",
+    "a one-time event",
+    "add a limit"
+   ]
+  }
+ ],
+ "lexicon": {
+  "complete": {
+   "def": "完整的"
+  },
+  "checkable": {
+   "def": "可检查的"
+  },
+  "one-time": {
+   "def": "一次性的"
+  },
+  "quarter": {
+   "def": "季度"
+  },
+  "context": {
+   "def": "上下文"
+  },
+  "speech": {
+   "def": "演讲"
+  },
+  "update": {
+   "def": "更新"
+  },
+  "busy": {
+   "def": "忙碌的"
+  }
+ }
+}

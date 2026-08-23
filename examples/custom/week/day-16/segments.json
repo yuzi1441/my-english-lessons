@@ -1,0 +1,173 @@
+{
+ "meta": {
+  "title": "Lesson 16: Clean the Data",
+  "title_zh": "第 16 课：清理数据",
+  "source": "Month 1 · Week 3 · Day 16",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 105,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "空值不等于零",
+    "统一格式",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "The table has three empty cells. Empty cells are not zero. I mark them as missing. If I change them to zero, the average will be wrong. I also find two dates with different formats. I make the format the same.",
+   "tts": "The table has three empty cells. Empty cells are not zero. I mark them as missing. If I change them to zero, the average will be wrong. I also find two dates with different formats. I make the format the same.",
+   "zh": "表格里有三个空单元格。空单元格不等于零，我把它们标记为缺失。如果把它们改成零，平均值就会错误。我还发现两个日期格式不同，于是统一格式。讲解：empty=空的，missing=缺失的，average=平均值，format=格式。",
+   "hard": [
+    {
+     "w": "empty",
+     "type": "word",
+     "def": "空的"
+    },
+    {
+     "w": "missing",
+     "type": "word",
+     "def": "缺失的"
+    },
+    {
+     "w": "average",
+     "type": "word",
+     "def": "平均值"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "One company name has an extra space. Another name uses a short form. I remove the extra space and choose one name. Clean names make it possible to group the rows correctly.",
+   "tts": "One company name has an extra space. Another name uses a short form. I remove the extra space and choose one name. Clean names make it possible to group the rows correctly.",
+   "zh": "一家公司的名字多了一个空格，另一家用了缩写。我去掉多余空格，并统一成一个名字。干净的名字能让我们正确地把各行分组。讲解：extra=多余的，short form=缩写，remove=去掉，group=分组。",
+   "hard": [
+    {
+     "w": "extra",
+     "type": "word",
+     "def": "多余的"
+    },
+    {
+     "w": "short form",
+     "type": "term",
+     "def": "缩写"
+    },
+    {
+     "w": "group",
+     "type": "word",
+     "def": "分组"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "I keep a note of every change. The clean file is useful, but the note is also important. It tells me what I changed and why. Another researcher can repeat my steps.",
+   "tts": "I keep a note of every change. The clean file is useful, but the note is also important. It tells me what I changed and why. Another researcher can repeat my steps.",
+   "zh": "我记录每一次改动。干净的文件很有用，但改动记录同样重要。它告诉我改了什么、为什么改。另一个研究者可以重复我的步骤。讲解：repeat=重复，change=改动，step=步骤，researcher=研究者。",
+   "hard": [
+    {
+     "w": "repeat",
+     "type": "word",
+     "def": "重复"
+    },
+    {
+     "w": "record",
+     "type": "word",
+     "def": "记录"
+    },
+    {
+     "w": "researcher",
+     "type": "word",
+     "def": "研究者"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "empty is not zero",
+   "cn": "空值不等于零",
+   "eg": "Remember that empty is not zero."
+  },
+  {
+   "t": "make the format the same",
+   "cn": "统一格式",
+   "eg": "Make the date format the same."
+  },
+  {
+   "t": "remove the extra space",
+   "cn": "去掉多余空格",
+   "eg": "Remove the extra space first."
+  },
+  {
+   "t": "keep a note of",
+   "cn": "记录……",
+   "eg": "Keep a note of every change."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "X is not Y.",
+   "cn": "X 不等于 Y。"
+  },
+  {
+   "t": "I make X the same.",
+   "cn": "我把 X 统一。"
+  },
+  {
+   "t": "It tells me what and why.",
+   "cn": "它告诉我是什么以及为什么。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Write a short data-cleaning note. Use empty is not zero, make the format the same, and keep a note of.",
+   "hint_chunks": [
+    "empty is not zero",
+    "make the format the same",
+    "remove the extra space"
+   ]
+  }
+ ],
+ "lexicon": {
+  "empty": {
+   "def": "空的"
+  },
+  "missing": {
+   "def": "缺失的"
+  },
+  "average": {
+   "def": "平均值"
+  },
+  "extra": {
+   "def": "多余的"
+  },
+  "group": {
+   "def": "分组"
+  },
+  "repeat": {
+   "def": "重复"
+  },
+  "record": {
+   "def": "记录"
+  },
+  "researcher": {
+   "def": "研究者"
+  }
+ }
+}

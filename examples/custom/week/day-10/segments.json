@@ -1,0 +1,173 @@
+{
+ "meta": {
+  "title": "Lesson 10: Small Functions",
+  "title_zh": "第 10 课：小函数",
+  "source": "Month 1 · Week 2 · Day 10",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 123,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "一组指令",
+    "接收一个输入",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "A function is a small group of instructions. I give the function a name: greet. When I call greet, it says hello. I do not write the same code many times. I write it once and use it again. This makes the program easier to read.",
+   "tts": "A function is a small group of instructions. I give the function a name: greet. When I call greet, it says hello. I do not write the same code many times. I write it once and use it again. This makes the program easier to read.",
+   "zh": "函数是一小组指令。我给函数起名 greet。调用 greet 时，它会说 hello。我不需要把同样的代码写很多遍，只写一次，然后重复使用。这样程序更容易阅读。讲解：function=函数，instruction=指令，call a function=调用函数。",
+   "hard": [
+    {
+     "w": "function",
+     "type": "term",
+     "def": "函数"
+    },
+    {
+     "w": "instruction",
+     "type": "term",
+     "def": "指令"
+    },
+    {
+     "w": "call",
+     "type": "word",
+     "def": "调用"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "Some functions take an input. I make a function called double. It takes a number and returns the number times two. I give it three, and it returns six. The function has one clear job. Clear jobs are easier to test.",
+   "tts": "Some functions take an input. I make a function called double. It takes a number and returns the number times two. I give it three, and it returns six. The function has one clear job. Clear jobs are easier to test.",
+   "zh": "有些函数接收输入。我写一个叫 double 的函数，它接收一个数字，并返回这个数字乘以二。我给它三，它返回六。这个函数只有一个清楚的任务。任务清楚，测试就容易。讲解：input=输入，return=返回，times=乘以，job=任务。",
+   "hard": [
+    {
+     "w": "input",
+     "type": "term",
+     "def": "输入"
+    },
+    {
+     "w": "return",
+     "type": "term",
+     "def": "返回"
+    },
+    {
+     "w": "clear job",
+     "type": "term",
+     "def": "清楚的任务"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "I write a short test for double. I expect double three to be six. The test passes. I feel more confident because the code has a small proof. A function and a test work well together.",
+   "tts": "I write a short test for double. I expect double three to be six. The test passes. I feel more confident because the code has a small proof. A function and a test work well together.",
+   "zh": "我为 double 写一个小测试。我期待 double three 的结果是 six，测试通过了。有了这个小证明，我更有信心。函数和测试很适合一起工作。讲解：expect=期待，pass=通过，confident=有信心的，proof=证明。",
+   "hard": [
+    {
+     "w": "expect",
+     "type": "word",
+     "def": "期待"
+    },
+    {
+     "w": "confident",
+     "type": "word",
+     "def": "有信心的"
+    },
+    {
+     "w": "proof",
+     "type": "word",
+     "def": "证明"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "a group of instructions",
+   "cn": "一组指令",
+   "eg": "A function is a group of instructions."
+  },
+  {
+   "t": "take an input",
+   "cn": "接收一个输入",
+   "eg": "This function takes an input."
+  },
+  {
+   "t": "return a value",
+   "cn": "返回一个值",
+   "eg": "The function returns a value."
+  },
+  {
+   "t": "work well together",
+   "cn": "配合得很好",
+   "eg": "Tests and functions work well together."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "It takes X and returns Y.",
+   "cn": "它接收 X 并返回 Y。"
+  },
+  {
+   "t": "I expect X to be Y.",
+   "cn": "我期待 X 是 Y。"
+  },
+  {
+   "t": "The test passes.",
+   "cn": "测试通过了。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "code_review_comment",
+   "task": "Write a short code review comment about a function. Use take an input, return a value, and work well together.",
+   "hint_chunks": [
+    "a group of instructions",
+    "take an input",
+    "return a value"
+   ]
+  }
+ ],
+ "lexicon": {
+  "function": {
+   "def": "函数"
+  },
+  "instruction": {
+   "def": "指令"
+  },
+  "call": {
+   "def": "调用"
+  },
+  "input": {
+   "def": "输入"
+  },
+  "return": {
+   "def": "返回"
+  },
+  "expect": {
+   "def": "期待"
+  },
+  "confident": {
+   "def": "有信心的"
+  },
+  "proof": {
+   "def": "证明"
+  }
+ }
+}

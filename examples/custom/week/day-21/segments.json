@@ -1,0 +1,167 @@
+{
+ "meta": {
+  "title": "Lesson 21: Research Week Review",
+  "title_zh": "第 21 课：研究英语周复习",
+  "source": "Month 1 · Week 3 · Day 21",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 111,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "提出清楚的问题",
+    "寻找证据",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "This week I learned to ask a clear data question. I cleaned empty cells and checked dates. I read a chart and looked for evidence. These steps slow me down, but they make the answer safer.",
+   "tts": "This week I learned to ask a clear data question. I cleaned empty cells and checked dates. I read a chart and looked for evidence. These steps slow me down, but they make the answer safer.",
+   "zh": "这周我学会提出清楚的数据问题。我清理空单元格，检查日期，阅读图表并寻找证据。这些步骤会让我慢一点，但能让答案更安全。讲解：cell=单元格，safe=安全的，slow down=放慢。",
+   "hard": [
+    {
+     "w": "cell",
+     "type": "word",
+     "def": "单元格"
+    },
+    {
+     "w": "evidence",
+     "type": "term",
+     "def": "证据"
+    },
+    {
+     "w": "slow down",
+     "type": "term",
+     "def": "放慢"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I also practiced explaining a number. I gave the source and the context. I separated fact from opinion. When I do not know, I say I do not know. Honest uncertainty is better than a confident guess.",
+   "tts": "I also practiced explaining a number. I gave the source and the context. I separated fact from opinion. When I do not know, I say I do not know. Honest uncertainty is better than a confident guess.",
+   "zh": "我还练习解释一个数字，说明来源和上下文，区分事实与观点。不知道时，我就说不知道。诚实的不确定性比自信的猜测更好。讲解：uncertainty=不确定性，confident=自信的，guess=猜测。",
+   "hard": [
+    {
+     "w": "uncertainty",
+     "type": "word",
+     "def": "不确定性"
+    },
+    {
+     "w": "guess",
+     "type": "word",
+     "def": "猜测"
+    },
+    {
+     "w": "better than",
+     "type": "term",
+     "def": "比……更好"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "Next week I will use English with AI tools. I will write a clear prompt, check the answer, and keep a record of the source. The goal is not to sound clever. The goal is to think clearly.",
+   "tts": "Next week I will use English with AI tools. I will write a clear prompt, check the answer, and keep a record of the source. The goal is not to sound clever. The goal is to think clearly.",
+   "zh": "下周我会用英语配合 AI 工具。我会写清楚的提示词，检查答案，并记录来源。目标不是听起来聪明，而是清楚地思考。讲解：tool=工具，prompt=提示词，source=来源，sound clever=听起来聪明。",
+   "hard": [
+    {
+     "w": "tool",
+     "type": "word",
+     "def": "工具"
+    },
+    {
+     "w": "prompt",
+     "type": "term",
+     "def": "提示词"
+    },
+    {
+     "w": "think clearly",
+     "type": "term",
+     "def": "清楚地思考"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "ask a clear question",
+   "cn": "提出清楚的问题",
+   "eg": "Ask a clear question first."
+  },
+  {
+   "t": "look for evidence",
+   "cn": "寻找证据",
+   "eg": "Look for evidence in the data."
+  },
+  {
+   "t": "better than a confident guess",
+   "cn": "比自信的猜测更好",
+   "eg": "Uncertainty is better than a confident guess."
+  },
+  {
+   "t": "think clearly",
+   "cn": "清楚地思考",
+   "eg": "The goal is to think clearly."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "These steps make X safer.",
+   "cn": "这些步骤让 X 更安全。"
+  },
+  {
+   "t": "When I do not know, I X.",
+   "cn": "不知道时，我会 X。"
+  },
+  {
+   "t": "The goal is not X. The goal is Y.",
+   "cn": "目标不是 X，目标是 Y。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "standup_update",
+   "task": "Write a weekly review. Use ask a clear question, better than a confident guess, and think clearly.",
+   "hint_chunks": [
+    "ask a clear question",
+    "look for evidence",
+    "better than a confident guess"
+   ]
+  }
+ ],
+ "lexicon": {
+  "cell": {
+   "def": "单元格"
+  },
+  "evidence": {
+   "def": "证据"
+  },
+  "uncertainty": {
+   "def": "不确定性"
+  },
+  "guess": {
+   "def": "猜测"
+  },
+  "tool": {
+   "def": "工具"
+  },
+  "prompt": {
+   "def": "提示词"
+  }
+ }
+}

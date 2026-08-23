@@ -1,0 +1,167 @@
+{
+ "meta": {
+  "title": "Lesson 20: A Small Research Note",
+  "title_zh": "第 20 课：一份小研究笔记",
+  "source": "Month 1 · Week 3 · Day 20",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 109,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "说明问题",
+    "掩盖一个弱事实",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "I write a short note about the company. First, I state the question. Then I give two facts from the data. After that, I explain one risk. The note is not a final answer. It is a clear starting point for discussion.",
+   "tts": "I write a short note about the company. First, I state the question. Then I give two facts from the data. After that, I explain one risk. The note is not a final answer. It is a clear starting point for discussion.",
+   "zh": "我写一份关于这家公司的短笔记。先说明问题，再给出两个数据事实，然后解释一个风险。这份笔记不是最终答案，而是一个清楚的讨论起点。讲解：state=说明，risk=风险，discussion=讨论，starting point=起点。",
+   "hard": [
+    {
+     "w": "state",
+     "type": "word",
+     "def": "说明"
+    },
+    {
+     "w": "risk",
+     "type": "term",
+     "def": "风险"
+    },
+    {
+     "w": "starting point",
+     "type": "term",
+     "def": "起点"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I use simple words. I do not hide a weak fact behind a big word. I write: sales grew, but cash fell. This sentence is short and honest. The reader can ask the next question.",
+   "tts": "I use simple words. I do not hide a weak fact behind a big word. I write: sales grew, but cash fell. This sentence is short and honest. The reader can ask the next question.",
+   "zh": "我使用简单词语，不用大词掩盖弱证据。我写：销售额增长了，但现金减少了。这句话短而诚实，读者可以继续问下一个问题。讲解：hide behind=躲在……后面，weak=弱的，honest=诚实的，reader=读者。",
+   "hard": [
+    {
+     "w": "hide",
+     "type": "word",
+     "def": "掩盖"
+    },
+    {
+     "w": "weak",
+     "type": "word",
+     "def": "弱的"
+    },
+    {
+     "w": "honest",
+     "type": "word",
+     "def": "诚实的"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "I finish with a next step. I will read the next report and compare the cash number. A good note tells me what to do next, not only what I saw before.",
+   "tts": "I finish with a next step. I will read the next report and compare the cash number. A good note tells me what to do next, not only what I saw before.",
+   "zh": "我最后写下一步行动：继续阅读下一份报告，并比较现金数字。一份好的笔记不只告诉我以前看到了什么，也告诉我下一步要做什么。讲解：finish with=以……结束，compare=比较，next step=下一步。",
+   "hard": [
+    {
+     "w": "finish with",
+     "type": "term",
+     "def": "以……结束"
+    },
+    {
+     "w": "compare",
+     "type": "word",
+     "def": "比较"
+    },
+    {
+     "w": "what to do next",
+     "type": "term",
+     "def": "下一步做什么"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "state the question",
+   "cn": "说明问题",
+   "eg": "State the question first."
+  },
+  {
+   "t": "hide a weak fact",
+   "cn": "掩盖一个弱事实",
+   "eg": "Do not hide a weak fact."
+  },
+  {
+   "t": "a starting point",
+   "cn": "一个起点",
+   "eg": "The note is a starting point."
+  },
+  {
+   "t": "what to do next",
+   "cn": "下一步做什么",
+   "eg": "The note tells me what to do next."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
+  },
+  {
+   "t": "X grew, but Y fell.",
+   "cn": "X 增长了，但 Y 下降了。"
+  },
+  {
+   "t": "I will X next.",
+   "cn": "接下来我会 X。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Write a short research note with a question, two facts, and a next step. Use state the question, a starting point, and what to do next.",
+   "hint_chunks": [
+    "state the question",
+    "hide a weak fact",
+    "a starting point"
+   ]
+  }
+ ],
+ "lexicon": {
+  "state": {
+   "def": "说明"
+  },
+  "risk": {
+   "def": "风险"
+  },
+  "hide": {
+   "def": "掩盖"
+  },
+  "weak": {
+   "def": "弱的"
+  },
+  "honest": {
+   "def": "诚实的"
+  },
+  "compare": {
+   "def": "比较"
+  }
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "meta": {
+  "title": "Lesson 22: Write a Better Prompt",
+  "title_zh": "第 22 课：写出更好的提示词",
+  "source": "Month 1 · Week 4 · Day 22",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 111,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "太短",
+    "像老师一样工作",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "I ask an AI tool to explain a Python error. My first prompt is too short: fix this. The answer is vague. I add the goal, the error message, and the code around the error. The second answer is more useful.",
+   "tts": "I ask an AI tool to explain a Python error. My first prompt is too short: fix this. The answer is vague. I add the goal, the error message, and the code around the error. The second answer is more useful.",
+   "zh": "我让 AI 工具解释一个 Python 错误。我的第一个提示词太短：修复这个。答案很模糊。我补充目标、错误信息和错误附近的代码，第二个答案更有用。讲解：vague=模糊的，around=附近，useful=有用的。",
+   "hard": [
+    {
+     "w": "prompt",
+     "type": "term",
+     "def": "提示词"
+    },
+    {
+     "w": "vague",
+     "type": "word",
+     "def": "模糊的"
+    },
+    {
+     "w": "around",
+     "type": "word",
+     "def": "附近"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "A good prompt gives the model a role and a format. I say: act as a patient teacher. Explain the error in three short steps. Use simple English and Chinese notes. The format makes the answer easier to read.",
+   "tts": "A good prompt gives the model a role and a format. I say: act as a patient teacher. Explain the error in three short steps. Use simple English and Chinese notes. The format makes the answer easier to read.",
+   "zh": "好的提示词会给模型一个角色和格式。我说：请像耐心的老师一样，用三个短步骤解释错误，使用简单英语和中文笔记。格式会让答案更容易阅读。讲解：role=角色，format=格式，patient=耐心的，step=步骤。",
+   "hard": [
+    {
+     "w": "role",
+     "type": "term",
+     "def": "角色"
+    },
+    {
+     "w": "format",
+     "type": "term",
+     "def": "格式"
+    },
+    {
+     "w": "patient",
+     "type": "word",
+     "def": "耐心的"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "I do not ask the model to guess missing facts. I tell it to say when it is unsure. A clear limit protects the answer. Prompts are instructions, not magic words.",
+   "tts": "I do not ask the model to guess missing facts. I tell it to say when it is unsure. A clear limit protects the answer. Prompts are instructions, not magic words.",
+   "zh": "我不要求模型猜测缺失事实，而是告诉它不确定时要说出来。清楚的限制可以保护答案。提示词是指令，不是魔法词。讲解：guess=猜测，unsure=不确定的，limit=限制，magic=魔法的。",
+   "hard": [
+    {
+     "w": "unsure",
+     "type": "word",
+     "def": "不确定的"
+    },
+    {
+     "w": "limit",
+     "type": "term",
+     "def": "限制"
+    },
+    {
+     "w": "instruction",
+     "type": "term",
+     "def": "指令"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "too short",
+   "cn": "太短",
+   "eg": "The first prompt is too short."
+  },
+  {
+   "t": "act as a teacher",
+   "cn": "像老师一样工作",
+   "eg": "Act as a patient teacher."
+  },
+  {
+   "t": "in three short steps",
+   "cn": "用三个短步骤",
+   "eg": "Explain it in three short steps."
+  },
+  {
+   "t": "say when you are unsure",
+   "cn": "不确定时说出来",
+   "eg": "Say when you are unsure."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "My first prompt is X.",
+   "cn": "我的第一个提示词是 X。"
+  },
+  {
+   "t": "Explain X in Y steps.",
+   "cn": "用 Y 个步骤解释 X。"
+  },
+  {
+   "t": "Tell it to X.",
+   "cn": "告诉它 X。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "design_note",
+   "task": "Write a prompt for an English tutor. Use act as a teacher, in three short steps, and say when you are unsure.",
+   "hint_chunks": [
+    "too short",
+    "act as a teacher",
+    "in three short steps"
+   ]
+  }
+ ],
+ "lexicon": {
+  "prompt": {
+   "def": "提示词"
+  },
+  "vague": {
+   "def": "模糊的"
+  },
+  "around": {
+   "def": "附近"
+  },
+  "role": {
+   "def": "角色"
+  },
+  "format": {
+   "def": "格式"
+  },
+  "patient": {
+   "def": "耐心的"
+  },
+  "unsure": {
+   "def": "不确定的"
+  },
+  "limit": {
+   "def": "限制"
+  },
+  "instruction": {
+   "def": "指令"
+  }
+ }
+}

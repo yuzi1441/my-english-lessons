@@ -1,0 +1,173 @@
+{
+ "meta": {
+  "title": "Lesson 9: Names and Values",
+  "title_zh": "第 9 课：名字与值",
+  "source": "Month 1 · Week 2 · Day 9",
+  "url": "",
+  "kind": "article",
+  "lang": "en",
+  "study_card": {
+   "word_count": 126,
+   "segment_count": 3,
+   "difficulty": "入门进阶",
+   "estimated_days": 1,
+   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "value_points": [
+    "一个值的名字",
+    "保持不变",
+    "每日一次英文小练习"
+   ],
+   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+  }
+ },
+ "voice": {
+  "engine": "edge",
+  "voice": "en-US-AndrewNeural",
+  "rate": "-20%",
+  "speed": 0.8
+ },
+ "segments": [
+  {
+   "id": "seg-01",
+   "en": "Today I learn variables. A variable is a name for a value. I write name equals Alex. The name is Alex. Then I write minutes equals twenty. The value is twenty. A good variable name tells me what the value means.",
+   "tts": "Today I learn variables. A variable is a name for a value. I write name equals Alex. The name is Alex. Then I write minutes equals twenty. The value is twenty. A good variable name tells me what the value means.",
+   "zh": "今天我学习变量。变量就是一个值的名字。我写 name 等于 Alex，值是 Alex。然后写 minutes 等于 twenty，值是 twenty。好的变量名会告诉我这个值是什么意思。讲解：variable=变量，value=值，mean=意思是。",
+   "hard": [
+    {
+     "w": "variable",
+     "type": "term",
+     "def": "变量"
+    },
+    {
+     "w": "value",
+     "type": "term",
+     "def": "值"
+    },
+    {
+     "w": "mean",
+     "type": "word",
+     "def": "意思是"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "en": "I change the value of minutes. At first, it is ten. Later, it is twenty. The name stays the same, but the value changes. This is useful when a program needs to remember new information. I read the code slowly and say each line.",
+   "tts": "I change the value of minutes. At first, it is ten. Later, it is twenty. The name stays the same, but the value changes. This is useful when a program needs to remember new information. I read the code slowly and say each line.",
+   "zh": "我改变 minutes 的值。开始是十，后来变成二十。名字不变，但值变了。当程序需要记住新信息时，这很有用。我慢慢读代码，并把每一行说出来。讲解：at first=起初，later=后来，stay the same=保持不变，information=信息。",
+   "hard": [
+    {
+     "w": "at first",
+     "type": "term",
+     "def": "起初"
+    },
+    {
+     "w": "later",
+     "type": "word",
+     "def": "后来"
+    },
+    {
+     "w": "information",
+     "type": "word",
+     "def": "信息"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "Numbers and text are different kinds of values. A number can be added. Text can be joined. If I mix them by mistake, Python may show an error. I do not panic. I read the message and check the values again.",
+   "tts": "Numbers and text are different kinds of values. A number can be added. Text can be joined. If I mix them by mistake, Python may show an error. I do not panic. I read the message and check the values again.",
+   "zh": "数字和文本是不同类型的值。数字可以相加，文本可以连接。如果我不小心把它们混在一起，Python 可能会显示错误。我不慌，先读错误信息，再重新检查值。讲解：kind=种类，join=连接，mix=混合，panic=慌张。",
+   "hard": [
+    {
+     "w": "text",
+     "type": "term",
+     "def": "文本"
+    },
+    {
+     "w": "join",
+     "type": "word",
+     "def": "连接"
+    },
+    {
+     "w": "panic",
+     "type": "word",
+     "def": "慌张"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "t": "a name for a value",
+   "cn": "一个值的名字",
+   "eg": "A variable is a name for a value."
+  },
+  {
+   "t": "stay the same",
+   "cn": "保持不变",
+   "eg": "The name can stay the same."
+  },
+  {
+   "t": "by mistake",
+   "cn": "错误地;不小心地",
+   "eg": "I mixed the values by mistake."
+  },
+  {
+   "t": "read the message",
+   "cn": "阅读提示信息",
+   "eg": "Read the message before you change code."
+  }
+ ],
+ "patterns": [
+  {
+   "t": "A variable is X.",
+   "cn": "变量是 X。"
+  },
+  {
+   "t": "The name stays the same, but X changes.",
+   "cn": "名字保持不变，但 X 发生变化。"
+  },
+  {
+   "t": "I do not panic.",
+   "cn": "我不慌。"
+  }
+ ],
+ "transfer_tasks": [
+  {
+   "genre": "standup_update",
+   "task": "Write 3 short sentences explaining a variable. Use a name for a value, stay the same, and by mistake.",
+   "hint_chunks": [
+    "a name for a value",
+    "stay the same",
+    "by mistake"
+   ]
+  }
+ ],
+ "lexicon": {
+  "variable": {
+   "def": "变量"
+  },
+  "value": {
+   "def": "值"
+  },
+  "mean": {
+   "def": "意思是"
+  },
+  "later": {
+   "def": "后来"
+  },
+  "information": {
+   "def": "信息"
+  },
+  "text": {
+   "def": "文本"
+  },
+  "join": {
+   "def": "连接"
+  },
+  "panic": {
+   "def": "慌张"
+  }
+ }
+}
