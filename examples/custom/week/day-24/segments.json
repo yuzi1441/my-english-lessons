@@ -1,23 +1,23 @@
 {
  "meta": {
-  "title": "Lesson 24: Check the AI Answer",
-  "title_zh": "第 24 课：检查 AI 的答案",
-  "source": "Month 1 · Week 4 · Day 24",
+  "title": "Day 24: Vocabulary Speaking Lab",
+  "title_zh": "第 24 天：当天词汇口语实验室",
+  "source": "Vocabulary Month · Day 24",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 109,
-   "segment_count": 3,
-   "difficulty": "入门进阶",
+   "word_count": 473,
+   "segment_count": 6,
+   "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
-   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
    "value_points": [
-    "相信语气",
-    "运行一个小测试",
-    "每日一次英文小练习"
+    "当天 18 个词汇全部进入口语正文",
+    "超时、重试与连接失败 × 截止时间和延期 × 合并策略",
+    "30 秒个人化输出"
    ],
-   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
   }
  },
  "voice": {
@@ -29,145 +29,206 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "The AI gives me a confident answer. I do not trust the tone by itself. I check the code in my own project. I run a small test and compare the result with the answer. The test is the judge.",
-   "tts": "The AI gives me a confident answer. I do not trust the tone by itself. I check the code in my own project. I run a small test and compare the result with the answer. The test is the judge.",
-   "zh": "AI 给了我一个听起来很自信的答案。我不会只相信语气，而是在自己的项目里检查代码。我运行一个小测试，把结果和答案比较。测试才是裁判。讲解：confident=自信的，tone=语气，judge=裁判，compare=比较。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 超时、重试与连接失败 with a teammate. I use timeout to talk about 超时，操作在规定时间内没有完成. I use retry to talk about 重试，在失败后再次执行同一操作. I use connection failure to talk about 连接失败，客户端无法与服务建立通信. I tell my teammate: Today I use timeout, retry, and connection failure. At the end, I say: I can use timeout clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 超时、重试与连接失败 with a teammate. I use timeout to talk about 超时，操作在规定时间内没有完成. I use retry to talk about 重试，在失败后再次执行同一操作. I use connection failure to talk about 连接失败，客户端无法与服务建立通信. I tell my teammate: Today I use timeout, retry, and connection failure. At the end, I say: I can use timeout clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“超时、重试与连接失败”。先听英文，再尝试不看中文复述。timeout：超时，操作在规定时间内没有完成。示例：I learned how to use \"timeout\" in a computer task.retry：重试，在失败后再次执行同一操作。示例：I learned how to use \"retry\" in a computer task.connection failure：连接失败，客户端无法与服务建立通信。示例：I learned how to use \"connection failure\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "confident",
-     "type": "word",
-     "def": "自信的"
-    },
-    {
-     "w": "by itself",
+     "w": "timeout",
      "type": "term",
-     "def": "单独地"
+     "def": "超时，操作在规定时间内没有完成"
     },
     {
-     "w": "judge",
-     "type": "word",
-     "def": "裁判"
+     "w": "retry",
+     "type": "term",
+     "def": "重试，在失败后再次执行同一操作"
+    },
+    {
+     "w": "connection failure",
+     "type": "idiom",
+     "def": "连接失败，客户端无法与服务建立通信"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "The answer uses a library function I do not know. I open the official documentation. The documentation says the function has a limit. The AI did not mention the limit. I add the missing detail to my note.",
-   "tts": "The answer uses a library function I do not know. I open the official documentation. The documentation says the function has a limit. The AI did not mention the limit. I add the missing detail to my note.",
-   "zh": "答案使用了一个我不认识的库函数。我打开官方文档，文档说这个函数有一个限制，而 AI 没有提到。我把缺失细节补进笔记。讲解：library=库，official=官方的，documentation=文档，limit=限制。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 超时、重试与连接失败 with a teammate. I use retry limit to talk about 重试上限，允许再次尝试的最大次数. I use backoff delay to talk about 退避延迟，每次重试前逐渐增加的等待时间. I use network interruption to talk about 网络中断，已有网络连接意外停止. I tell my teammate: Today I use retry limit, backoff delay, and network interruption. At the end, I say: I can use retry limit clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 超时、重试与连接失败 with a teammate. I use retry limit to talk about 重试上限，允许再次尝试的最大次数. I use backoff delay to talk about 退避延迟，每次重试前逐渐增加的等待时间. I use network interruption to talk about 网络中断，已有网络连接意外停止. I tell my teammate: Today I use retry limit, backoff delay, and network interruption. At the end, I say: I can use retry limit clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“超时、重试与连接失败”。先听英文，再尝试不看中文复述。retry limit：重试上限，允许再次尝试的最大次数。示例：I learned how to use \"retry limit\" in a computer task.backoff delay：退避延迟，每次重试前逐渐增加的等待时间。示例：I learned how to use \"backoff delay\" in a computer task.network interruption：网络中断，已有网络连接意外停止。示例：I learned how to use \"network interruption\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "library",
-     "type": "term",
-     "def": "库"
+     "w": "retry limit",
+     "type": "idiom",
+     "def": "重试上限，允许再次尝试的最大次数"
     },
     {
-     "w": "official",
-     "type": "word",
-     "def": "官方的"
+     "w": "backoff delay",
+     "type": "idiom",
+     "def": "退避延迟，每次重试前逐渐增加的等待时间"
     },
     {
-     "w": "documentation",
-     "type": "term",
-     "def": "文档"
+     "w": "network interruption",
+     "type": "idiom",
+     "def": "网络中断，已有网络连接意外停止"
     }
    ]
   },
   {
    "id": "seg-03",
-   "en": "AI is useful for a first draft, not a final authority. I keep the helpful part and correct the weak part. My responsibility is to check before I use the answer.",
-   "tts": "AI is useful for a first draft, not a final authority. I keep the helpful part and correct the weak part. My responsibility is to check before I use the answer.",
-   "zh": "AI 适合做第一稿，不是最终权威。我保留有用部分，修正薄弱部分。在使用答案前进行检查，是我的责任。讲解：draft=草稿，authority=权威，responsibility=责任，correct=修正。",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 截止时间和延期 with a teammate. I use The deadline is Friday. to talk about 截止时间是星期五。. I use We're behind schedule. to talk about 我们的进度落后了。. I use I need an extension. to talk about 我需要延期。. I tell my teammate: Today I use The deadline is Friday., We're behind schedule., and I need an extension.. At the end, I say: I can use The deadline is Friday. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 截止时间和延期 with a teammate. I use The deadline is Friday. to talk about 截止时间是星期五。. I use We're behind schedule. to talk about 我们的进度落后了。. I use I need an extension. to talk about 我需要延期。. I tell my teammate: Today I use The deadline is Friday., We're behind schedule., and I need an extension.. At the end, I say: I can use The deadline is Friday. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“截止时间和延期”。先听英文，再尝试不看中文复述。The deadline is Friday.：截止时间是星期五。。示例：The deadline is Friday.We're behind schedule.：我们的进度落后了。。示例：We're behind schedule.I need an extension.：我需要延期。。示例：I need an extension.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "draft",
-     "type": "word",
-     "def": "草稿"
+     "w": "The deadline is Friday.",
+     "type": "idiom",
+     "def": "截止时间是星期五。"
     },
     {
-     "w": "authority",
-     "type": "word",
-     "def": "权威"
+     "w": "We're behind schedule.",
+     "type": "idiom",
+     "def": "我们的进度落后了。"
     },
     {
-     "w": "responsibility",
-     "type": "term",
-     "def": "责任"
+     "w": "I need an extension.",
+     "type": "idiom",
+     "def": "我需要延期。"
+    }
+   ]
+  },
+  {
+   "id": "seg-04",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 截止时间和延期 with a teammate. I use The task is taking longer than expected. to talk about 任务花的时间比预期更长。. I use I'll update you tomorrow. to talk about 我明天会更新进展。. I use Thank you for your patience. to talk about 谢谢你的耐心。. I tell my teammate: Today I use The task is taking longer than expected., I'll update you tomorrow., and Thank you for your patience.. At the end, I say: I can use The task is taking longer than expected. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 截止时间和延期 with a teammate. I use The task is taking longer than expected. to talk about 任务花的时间比预期更长。. I use I'll update you tomorrow. to talk about 我明天会更新进展。. I use Thank you for your patience. to talk about 谢谢你的耐心。. I tell my teammate: Today I use The task is taking longer than expected., I'll update you tomorrow., and Thank you for your patience.. At the end, I say: I can use The task is taking longer than expected. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“截止时间和延期”。先听英文，再尝试不看中文复述。The task is taking longer than expected.：任务花的时间比预期更长。。示例：The task is taking longer than expected.I'll update you tomorrow.：我明天会更新进展。。示例：I'll update you tomorrow.Thank you for your patience.：谢谢你的耐心。。示例：Thank you for your patience.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "The task is taking longer than expected.",
+     "type": "idiom",
+     "def": "任务花的时间比预期更长。"
+    },
+    {
+     "w": "I'll update you tomorrow.",
+     "type": "idiom",
+     "def": "我明天会更新进展。"
+    },
+    {
+     "w": "Thank you for your patience.",
+     "type": "idiom",
+     "def": "谢谢你的耐心。"
+    }
+   ]
+  },
+  {
+   "id": "seg-05",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并策略 with a teammate. I use squash and merge to talk about 压缩并合并，把多个提交合成一个后合入. I use rebase and merge to talk about 变基并合并，把提交移到目标分支之后再合入. I use merge commit to talk about 合并提交，专门记录两条历史合并的提交. I tell my teammate: Today I use squash and merge, rebase and merge, and merge commit. At the end, I say: I can use squash and merge clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并策略 with a teammate. I use squash and merge to talk about 压缩并合并，把多个提交合成一个后合入. I use rebase and merge to talk about 变基并合并，把提交移到目标分支之后再合入. I use merge commit to talk about 合并提交，专门记录两条历史合并的提交. I tell my teammate: Today I use squash and merge, rebase and merge, and merge commit. At the end, I say: I can use squash and merge clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“合并策略”。先听英文，再尝试不看中文复述。squash and merge：压缩并合并，把多个提交合成一个后合入。示例：Our team uses \"squash and merge\" to keep the project clear.rebase and merge：变基并合并，把提交移到目标分支之后再合入。示例：Our team uses \"rebase and merge\" to keep the project clear.merge commit：合并提交，专门记录两条历史合并的提交。示例：Our team uses \"merge commit\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "squash and merge",
+     "type": "idiom",
+     "def": "压缩并合并，把多个提交合成一个后合入"
+    },
+    {
+     "w": "rebase and merge",
+     "type": "idiom",
+     "def": "变基并合并，把提交移到目标分支之后再合入"
+    },
+    {
+     "w": "merge commit",
+     "type": "idiom",
+     "def": "合并提交，专门记录两条历史合并的提交"
+    }
+   ]
+  },
+  {
+   "id": "seg-06",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并策略 with a teammate. I use squash commits to talk about 压缩提交，把多个小提交组合成一个. I use rebase a branch to talk about 变基分支，把分支提交重新放到新基础上. I use linear history to talk about 线性历史，不包含分叉合并节点的提交历史. I tell my teammate: Today I use squash commits, rebase a branch, and linear history. At the end, I say: I can use squash commits clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并策略 with a teammate. I use squash commits to talk about 压缩提交，把多个小提交组合成一个. I use rebase a branch to talk about 变基分支，把分支提交重新放到新基础上. I use linear history to talk about 线性历史，不包含分叉合并节点的提交历史. I tell my teammate: Today I use squash commits, rebase a branch, and linear history. At the end, I say: I can use squash commits clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“合并策略”。先听英文，再尝试不看中文复述。squash commits：压缩提交，把多个小提交组合成一个。示例：Our team uses \"squash commits\" to keep the project clear.rebase a branch：变基分支，把分支提交重新放到新基础上。示例：Our team uses \"rebase a branch\" to keep the project clear.linear history：线性历史，不包含分叉合并节点的提交历史。示例：Our team uses \"linear history\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "squash commits",
+     "type": "idiom",
+     "def": "压缩提交，把多个小提交组合成一个"
+    },
+    {
+     "w": "rebase a branch",
+     "type": "idiom",
+     "def": "变基分支，把分支提交重新放到新基础上"
+    },
+    {
+     "w": "linear history",
+     "type": "idiom",
+     "def": "线性历史，不包含分叉合并节点的提交历史"
     }
    ]
   }
  ],
  "chunks": [
   {
-   "t": "trust the tone",
-   "cn": "相信语气",
-   "eg": "Do not trust the tone by itself."
+   "t": "timeout",
+   "cn": "超时，操作在规定时间内没有完成",
+   "eg": "I learned how to use \"timeout\" in a computer task."
   },
   {
-   "t": "run a small test",
-   "cn": "运行一个小测试",
-   "eg": "Run a small test first."
+   "t": "retry",
+   "cn": "重试，在失败后再次执行同一操作",
+   "eg": "I learned how to use \"retry\" in a computer task."
   },
   {
-   "t": "official documentation",
-   "cn": "官方文档",
-   "eg": "Check the official documentation."
+   "t": "connection failure",
+   "cn": "连接失败，客户端无法与服务建立通信",
+   "eg": "I learned how to use \"connection failure\" in a computer task."
   },
   {
-   "t": "a first draft",
-   "cn": "第一稿",
-   "eg": "AI can make a first draft."
+   "t": "retry limit",
+   "cn": "重试上限，允许再次尝试的最大次数",
+   "eg": "I learned how to use \"retry limit\" in a computer task."
+  },
+  {
+   "t": "backoff delay",
+   "cn": "退避延迟，每次重试前逐渐增加的等待时间",
+   "eg": "I learned how to use \"backoff delay\" in a computer task."
+  },
+  {
+   "t": "network interruption",
+   "cn": "网络中断，已有网络连接意外停止",
+   "eg": "I learned how to use \"network interruption\" in a computer task."
   }
  ],
  "patterns": [
   {
-   "t": "I do not trust X by itself.",
-   "cn": "我不会单独相信 X。"
+   "t": "The key expression is X.",
+   "cn": "关键表达是 X。"
   },
   {
-   "t": "The documentation says X.",
-   "cn": "文档说 X。"
+   "t": "In Chinese, it means X.",
+   "cn": "它的中文意思是 X。"
   },
   {
-   "t": "My responsibility is to X.",
-   "cn": "我的责任是 X。"
+   "t": "I can use X clearly today.",
+   "cn": "我今天能清楚地使用 X。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "code_review_comment",
-   "task": "Write a review comment about checking an AI answer. Use run a small test, official documentation, and a first draft.",
+   "genre": "standup_update",
+   "task": "Use any three Day 24 vocabulary items. Say what you did, what problem you had, and what you will do next.",
    "hint_chunks": [
-    "trust the tone",
-    "run a small test",
-    "official documentation"
+    "timeout",
+    "retry",
+    "connection failure"
    ]
   }
  ],
  "lexicon": {
-  "confident": {
-   "def": "自信的"
+  "timeout": {
+   "def": "超时，操作在规定时间内没有完成"
   },
-  "judge": {
-   "def": "裁判"
-  },
-  "library": {
-   "def": "库"
-  },
-  "official": {
-   "def": "官方的"
-  },
-  "documentation": {
-   "def": "文档"
-  },
-  "draft": {
-   "def": "草稿"
-  },
-  "authority": {
-   "def": "权威"
-  },
-  "responsibility": {
-   "def": "责任"
+  "retry": {
+   "def": "重试，在失败后再次执行同一操作"
   }
  }
 }

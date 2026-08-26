@@ -1,23 +1,23 @@
 {
  "meta": {
-  "title": "Lesson 5: Deploy Day",
-  "title_zh": "第 5 课：上线日",
-  "source": "Week 1 - Day 5",
+  "title": "Day 5: Vocabulary Speaking Lab",
+  "title_zh": "第 5 天：当天词汇口语实验室",
+  "source": "Vocabulary Month · Day 5",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 134,
-   "segment_count": 3,
-   "difficulty": "入门",
+   "word_count": 458,
+   "segment_count": 6,
+   "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
-   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
    "value_points": [
-    "上线",
-    "错误率",
-    "每日一次英文小练习"
+    "当天 18 个词汇全部进入口语正文",
+    "输入、处理与输出 × 点餐 × 远程同步",
+    "30 秒个人化输出"
    ],
-   "suggested_pace": "先逐句听读一遍 · 再看中文讲解 · 最后完成英文小练习"
+   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
   }
  },
  "voice": {
@@ -29,351 +29,209 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "On Friday, we put the feature online. We call this deploy. The team is a little excited. Deploy day is a big day. First, I check the logs. Logs are the records the program writes. The logs look clean. No errors.",
-   "tts": "On Friday, we put the feature online. We call this deploy. The team is a little excited. Deploy day is a big day. First, I check the logs. Logs are the records the program writes. The logs look clean. No errors.",
-   "zh": "周五我们把功能上线，这叫 deploy（部署）。团队有点兴奋，上线日是大日子。先检查日志，日志是程序写下的记录。日志看起来很干净，没有错误。讲解：put online=上线，excited=兴奋的，records=记录，clean=干净的，errors=错误们。句形 put X online=把 X 上线，check the logs=检查日志，a big day=重要的一天。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 输入、处理与输出 with a teammate. I use input to talk about 输入，程序接收到的数据. I use process data to talk about 处理数据，按照规则改变或分析数据. I use output value to talk about 输出值，程序处理后返回的结果. I tell my teammate: Today I use input, process data, and output value. At the end, I say: I can use input clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 输入、处理与输出 with a teammate. I use input to talk about 输入，程序接收到的数据. I use process data to talk about 处理数据，按照规则改变或分析数据. I use output value to talk about 输出值，程序处理后返回的结果. I tell my teammate: Today I use input, process data, and output value. At the end, I say: I can use input clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“输入、处理与输出”。先听英文，再尝试不看中文复述。input：输入，程序接收到的数据。示例：I learned how to use \"input\" in a computer task.process data：处理数据，按照规则改变或分析数据。示例：I learned how to use \"process data\" in a computer task.output value：输出值，程序处理后返回的结果。示例：I learned how to use \"output value\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "asks",
-     "type": "word",
-     "def": "请求;问"
+     "w": "input",
+     "type": "term",
+     "def": "输入，程序接收到的数据"
     },
     {
-     "w": "big",
-     "type": "word",
-     "def": "大的"
+     "w": "process data",
+     "type": "idiom",
+     "def": "处理数据，按照规则改变或分析数据"
     },
     {
-     "w": "button",
-     "type": "word",
-     "def": "按钮"
-    },
-    {
-     "w": "errors",
-     "type": "word",
-     "def": "错误们"
-    },
-    {
-     "w": "everything",
-     "type": "word",
-     "def": "一切"
+     "w": "output value",
+     "type": "idiom",
+     "def": "输出值，程序处理后返回的结果"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "Then I watch the error rate. Error rate is how many requests fail. A request is when a user asks for something. The rate is low. We are safe. Maria says: ready to go. I press the deploy button. We wait. Then we see: it is live.",
-   "tts": "Then I watch the error rate. Error rate is how many requests fail. A request is when a user asks for something. The rate is low. We are safe. Maria says: ready to go. I press the deploy button. We wait. Then we see: it is live.",
-   "zh": "然后我盯错误率，就是请求失败的占比。请求就是用户向程序要东西。比率很低，我们很安全。Maria 说：准备上线。我按下部署按钮，我们等待，然后看到：上线了。讲解：watch=观察，low=低的，safe=安全的，press=按，live=上线/在线的。句形 error rate=错误率，ready to go=准备出发/可以上了，press the button=按按钮。",
-   "hard": []
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 输入、处理与输出 with a teammate. I use function to talk about 函数，可以重复调用的一组指令. I use parameter to talk about 参数，函数定义中接收输入的名字. I use return value to talk about 返回值，函数完成后交回的结果. I tell my teammate: Today I use function, parameter, and return value. At the end, I say: I can use function clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 输入、处理与输出 with a teammate. I use function to talk about 函数，可以重复调用的一组指令. I use parameter to talk about 参数，函数定义中接收输入的名字. I use return value to talk about 返回值，函数完成后交回的结果. I tell my teammate: Today I use function, parameter, and return value. At the end, I say: I can use function clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“输入、处理与输出”。先听英文，再尝试不看中文复述。function：函数，可以重复调用的一组指令。示例：I learned how to use \"function\" in a computer task.parameter：参数，函数定义中接收输入的名字。示例：I learned how to use \"parameter\" in a computer task.return value：返回值，函数完成后交回的结果。示例：I learned how to use \"return value\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "function",
+     "type": "term",
+     "def": "函数，可以重复调用的一组指令"
+    },
+    {
+     "w": "parameter",
+     "type": "term",
+     "def": "参数，函数定义中接收输入的名字"
+    },
+    {
+     "w": "return value",
+     "type": "idiom",
+     "def": "返回值，函数完成后交回的结果"
+    }
+   ]
   },
   {
    "id": "seg-03",
-   "en": "The feature is live. Users can use it now. I watch the screen for ten minutes. Everything works. No problems. The team is happy. We high-five. I finish my first week with a win. On the way home, I feel proud. I am learning so much.",
-   "tts": "The feature is live. Users can use it now. I watch the screen for ten minutes. Everything works. No problems. The team is happy. We high-five. I finish my first week with a win. On the way home, I feel proud. I am learning so much.",
-   "zh": "功能上线了，用户现在能用了。我盯着屏幕看了十分钟，一切正常，没有问题。团队很开心，我们击掌庆祝。第一周以一场胜利结束。回家的路上我很自豪，我学到了好多。讲解：works=正常运作，high-five=击掌，win=胜利，on the way home=回家路上。句形 everything works=一切正常，with a win=以一场胜利，learn so much=学到很多。",
-   "hard": []
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 点餐 with a teammate. I use I'd like to order ... to talk about 我想点……. I use Could I have ...? to talk about 我可以要……吗？. I use What do you recommend? to talk about 你推荐什么？. I tell my teammate: Today I use I'd like to order ..., Could I have ...?, and What do you recommend?. At the end, I say: I can use I'd like to order ... clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 点餐 with a teammate. I use I'd like to order ... to talk about 我想点……. I use Could I have ...? to talk about 我可以要……吗？. I use What do you recommend? to talk about 你推荐什么？. I tell my teammate: Today I use I'd like to order ..., Could I have ...?, and What do you recommend?. At the end, I say: I can use I'd like to order ... clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“点餐”。先听英文，再尝试不看中文复述。I'd like to order ...：我想点……。示例：I'd like to orderCould I have ...?：我可以要……吗？。示例：Could I have ?What do you recommend?：你推荐什么？。示例：What do you recommend?最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "I'd like to order ...",
+     "type": "idiom",
+     "def": "我想点……"
+    },
+    {
+     "w": "Could I have ...?",
+     "type": "idiom",
+     "def": "我可以要……吗？"
+    },
+    {
+     "w": "What do you recommend?",
+     "type": "idiom",
+     "def": "你推荐什么？"
+    }
+   ]
+  },
+  {
+   "id": "seg-04",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 点餐 with a teammate. I use No ice, please. to talk about 请不要加冰。. I use Could we have the bill? to talk about 可以给我们账单吗？. I use Is service included? to talk about 包含服务费吗？. I tell my teammate: Today I use No ice, please., Could we have the bill?, and Is service included?. At the end, I say: I can use No ice, please. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 点餐 with a teammate. I use No ice, please. to talk about 请不要加冰。. I use Could we have the bill? to talk about 可以给我们账单吗？. I use Is service included? to talk about 包含服务费吗？. I tell my teammate: Today I use No ice, please., Could we have the bill?, and Is service included?. At the end, I say: I can use No ice, please. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“点餐”。先听英文，再尝试不看中文复述。No ice, please.：请不要加冰。。示例：No ice, please.Could we have the bill?：可以给我们账单吗？。示例：Could we have the bill?Is service included?：包含服务费吗？。示例：Is service included?最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "No ice, please.",
+     "type": "idiom",
+     "def": "请不要加冰。"
+    },
+    {
+     "w": "Could we have the bill?",
+     "type": "idiom",
+     "def": "可以给我们账单吗？"
+    },
+    {
+     "w": "Is service included?",
+     "type": "idiom",
+     "def": "包含服务费吗？"
+    }
+   ]
+  },
+  {
+   "id": "seg-05",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 远程同步 with a teammate. I use push changes to talk about 推送更改，把本地提交发送到远程仓库. I use pull changes to talk about 拉取更改，取得并合并远程的新提交. I use fetch updates to talk about 获取更新，只下载远程信息而暂不合并. I tell my teammate: Today I use push changes, pull changes, and fetch updates. At the end, I say: I can use push changes clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 远程同步 with a teammate. I use push changes to talk about 推送更改，把本地提交发送到远程仓库. I use pull changes to talk about 拉取更改，取得并合并远程的新提交. I use fetch updates to talk about 获取更新，只下载远程信息而暂不合并. I tell my teammate: Today I use push changes, pull changes, and fetch updates. At the end, I say: I can use push changes clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“远程同步”。先听英文，再尝试不看中文复述。push changes：推送更改，把本地提交发送到远程仓库。示例：Our team uses \"push changes\" to keep the project clear.pull changes：拉取更改，取得并合并远程的新提交。示例：Our team uses \"pull changes\" to keep the project clear.fetch updates：获取更新，只下载远程信息而暂不合并。示例：Our team uses \"fetch updates\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "push changes",
+     "type": "idiom",
+     "def": "推送更改，把本地提交发送到远程仓库"
+    },
+    {
+     "w": "pull changes",
+     "type": "idiom",
+     "def": "拉取更改，取得并合并远程的新提交"
+    },
+    {
+     "w": "fetch updates",
+     "type": "idiom",
+     "def": "获取更新，只下载远程信息而暂不合并"
+    }
+   ]
+  },
+  {
+   "id": "seg-06",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 远程同步 with a teammate. I use origin remote to talk about origin 远程，克隆仓库时默认的远程名称. I use upstream remote to talk about upstream 远程，通常指原始项目的远程仓库. I use sync with remote to talk about 与远程同步，让本地和远程进度保持一致. I tell my teammate: Today I use origin remote, upstream remote, and sync with remote. At the end, I say: I can use origin remote clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 远程同步 with a teammate. I use origin remote to talk about origin 远程，克隆仓库时默认的远程名称. I use upstream remote to talk about upstream 远程，通常指原始项目的远程仓库. I use sync with remote to talk about 与远程同步，让本地和远程进度保持一致. I tell my teammate: Today I use origin remote, upstream remote, and sync with remote. At the end, I say: I can use origin remote clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“远程同步”。先听英文，再尝试不看中文复述。origin remote：origin 远程，克隆仓库时默认的远程名称。示例：Our team uses \"origin remote\" to keep the project clear.upstream remote：upstream 远程，通常指原始项目的远程仓库。示例：Our team uses \"upstream remote\" to keep the project clear.sync with remote：与远程同步，让本地和远程进度保持一致。示例：Our team uses \"sync with remote\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "origin remote",
+     "type": "idiom",
+     "def": "origin 远程，克隆仓库时默认的远程名称"
+    },
+    {
+     "w": "upstream remote",
+     "type": "idiom",
+     "def": "upstream 远程，通常指原始项目的远程仓库"
+    },
+    {
+     "w": "sync with remote",
+     "type": "idiom",
+     "def": "与远程同步，让本地和远程进度保持一致"
+    }
+   ]
   }
  ],
  "chunks": [
   {
-   "t": "put online",
-   "cn": "上线",
-   "eg": "We put the feature online on Friday."
+   "t": "input",
+   "cn": "输入，程序接收到的数据",
+   "eg": "I learned how to use \"input\" in a computer task."
   },
   {
-   "t": "error rate",
-   "cn": "错误率",
-   "eg": "I watch the error rate after deploy."
+   "t": "process data",
+   "cn": "处理数据，按照规则改变或分析数据",
+   "eg": "I learned how to use \"process data\" in a computer task."
   },
   {
-   "t": "ready to go",
-   "cn": "准备就绪;可以上了",
-   "eg": "The code is ready to go."
+   "t": "output value",
+   "cn": "输出值，程序处理后返回的结果",
+   "eg": "I learned how to use \"output value\" in a computer task."
   },
   {
-   "t": "on the way home",
-   "cn": "回家路上",
-   "eg": "I feel proud on the way home."
+   "t": "function",
+   "cn": "函数，可以重复调用的一组指令",
+   "eg": "I learned how to use \"function\" in a computer task."
+  },
+  {
+   "t": "parameter",
+   "cn": "参数，函数定义中接收输入的名字",
+   "eg": "I learned how to use \"parameter\" in a computer task."
+  },
+  {
+   "t": "return value",
+   "cn": "返回值，函数完成后交回的结果",
+   "eg": "I learned how to use \"return value\" in a computer task."
   }
  ],
  "patterns": [
   {
-   "t": "We call this X.",
-   "cn": "我们叫它 X。例如：We call this deploy."
+   "t": "The key expression is X.",
+   "cn": "关键表达是 X。"
   },
   {
-   "t": "X is when Y.",
-   "cn": "X 就是 Y 的时候。例如：A request is when a user asks."
+   "t": "In Chinese, it means X.",
+   "cn": "它的中文意思是 X。"
   },
   {
-   "t": "We are safe.",
-   "cn": "我们是安全的。"
-  },
-  {
-   "t": "Everything works.",
-   "cn": "一切正常。"
+   "t": "I can use X clearly today.",
+   "cn": "我今天能清楚地使用 X。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "slack_message",
-   "task": "Write 3 short sentences in English, like a message to the team after deploy. Say the feature is live and all is well. Use put online, error rate, and ready to go.",
+   "genre": "standup_update",
+   "task": "Use any three Day 5 vocabulary items. Say what you did, what problem you had, and what you will do next.",
    "hint_chunks": [
-    "put online",
-    "error rate",
-    "ready to go"
+    "input",
+    "process data",
+    "output value"
    ]
   }
  ],
  "lexicon": {
-  "proud": {
-   "def": "自豪的",
-   "ipa": "/praʊd/"
+  "input": {
+   "def": "输入，程序接收到的数据"
   },
-  "day": {
-   "def": "一天",
-   "ipa": "/deɪ/"
+  "function": {
+   "def": "函数，可以重复调用的一组指令"
   },
-  "fail": {
-   "def": "失败",
-   "ipa": "/feɪl/"
-  },
-  "see": {
-   "def": "看到",
-   "ipa": "/si/"
-  },
-  "button": {
-   "def": "按钮",
-   "ipa": "/ˈbʌt.ən/"
-  },
-  "when": {
-   "def": "当…时",
-   "ipa": "/wen/"
-  },
-  "user": {
-   "def": "用户",
-   "ipa": "/ˈju.zər/"
-  },
-  "ready": {
-   "def": "准备好的",
-   "ipa": "/ˈred.i/"
-  },
-  "high-five": {
-   "def": "击掌",
-   "ipa": "/ˈhaɪ.faɪv/"
-  },
-  "little": {
-   "def": "一点",
-   "ipa": "/ˈlɪt.əl/"
-  },
-  "writes": {
-   "def": "写",
-   "ipa": "/raɪts/"
-  },
-  "now": {
-   "def": "现在",
-   "ipa": "/naʊ/"
-  },
-  "wait": {
-   "def": "等待",
-   "ipa": "/weɪt/"
-  },
-  "put": {
-   "def": "放;放置",
-   "ipa": "/pʊt/"
-  },
-  "minutes": {
-   "def": "分钟",
-   "ipa": "/ˈmɪn.ɪts/"
-  },
-  "error": {
-   "def": "错误",
-   "ipa": "/ˈer.ər/"
-  },
-  "big": {
-   "def": "大的",
-   "ipa": "/bɪɡ/"
-  },
-  "maria": {
-   "def": "人名;Maria",
-   "ipa": "/məˈri.ə/"
-  },
-  "asks": {
-   "def": "请求;问",
-   "ipa": "/æsks/"
-  },
-  "deploy": {
-   "def": "部署;上线",
-   "ipa": "/dɪˈplɔɪ/"
-  },
-  "press": {
-   "def": "按",
-   "ipa": "/pres/"
-  },
-  "finish": {
-   "def": "完成",
-   "ipa": "/ˈfɪn.ɪʃ/"
-  },
-  "win": {
-   "def": "胜利",
-   "ipa": "/wɪn/"
-  },
-  "rate": {
-   "def": "比率",
-   "ipa": "/reɪt/"
-  },
-  "ten": {
-   "def": "十",
-   "ipa": "/ten/"
-  },
-  "requests": {
-   "def": "请求们",
-   "ipa": "/rɪˈkwests/"
-  },
-  "logs": {
-   "def": "日志们",
-   "ipa": "/lɔɡz/"
-  },
-  "everything": {
-   "def": "一切",
-   "ipa": "/ˈev.ri.θɪŋ/"
-  },
-  "problems": {
-   "def": "问题们",
-   "ipa": "/ˈprɑ.bləmz/"
-  },
-  "live": {
-   "def": "上线;直播",
-   "ipa": "/lɪv/"
-  },
-  "feel": {
-   "def": "感觉",
-   "ipa": "/fil/"
-  },
-  "how": {
-   "def": "怎样",
-   "ipa": "/haʊ/"
-  },
-  "home": {
-   "def": "家",
-   "ipa": "/hoʊm/"
-  },
-  "first": {
-   "def": "第一个;初次",
-   "ipa": "/fɝst/"
-  },
-  "errors": {
-   "def": "错误们",
-   "ipa": "/ˈer.ərz/"
-  },
-  "online": {
-   "def": "在线的",
-   "ipa": "/ˈɑn.laɪn/"
-  },
-  "safe": {
-   "def": "安全的",
-   "ipa": "/seɪf/"
-  },
-  "excited": {
-   "def": "兴奋的",
-   "ipa": "/ɪkˈsaɪ.tɪd/"
-  },
-  "screen": {
-   "def": "屏幕",
-   "ipa": "/skrin/"
-  },
-  "much": {
-   "def": "很多",
-   "ipa": "/mʌtʃ/"
-  },
-  "records": {
-   "def": "记录们",
-   "ipa": "/ˈrek.ərdz/"
-  },
-  "use": {
-   "def": "使用",
-   "ipa": "/juz/"
-  },
-  "look": {
-   "def": "看",
-   "ipa": "/lʊk/"
-  },
-  "watch": {
-   "def": "观察;看",
-   "ipa": "/wɑtʃ/"
-  },
-  "feature": {
-   "def": "功能",
-   "ipa": "/ˈfi.tʃər/"
-  },
-  "request": {
-   "def": "请求",
-   "ipa": "/rɪˈkwest/"
-  },
-  "something": {
-   "def": "某事",
-   "ipa": "/ˈsʌm.θɪŋ/"
-  },
-  "many": {
-   "def": "许多",
-   "ipa": "/ˈmen.i/"
-  },
-  "team": {
-   "def": "团队",
-   "ipa": "/tim/"
-  },
-  "says": {
-   "def": "说",
-   "ipa": "/sez/"
-  },
-  "works": {
-   "def": "起作用;运作",
-   "ipa": "/wɝks/"
-  },
-  "users": {
-   "def": "用户们",
-   "ipa": "/ˈju.zərz/"
-  },
-  "low": {
-   "def": "低的",
-   "ipa": "/loʊ/"
-  },
-  "week": {
-   "def": "周;星期",
-   "ipa": "/wik/"
-  },
-  "friday": {
-   "def": "星期五",
-   "ipa": "/ˈfraɪ.deɪ/"
-  },
-  "way": {
-   "def": "路;方式",
-   "ipa": "/weɪ/"
-  },
-  "learning": {
-   "def": "学习",
-   "ipa": "/ˈlɝ.nɪŋ/"
-  },
-  "clean": {
-   "def": "干净的",
-   "ipa": "/klin/"
-  },
-  "program": {
-   "def": "程序",
-   "ipa": "/ˈproʊ.ɡræm/"
-  },
-  "call": {
-   "def": "称呼;打电话",
-   "ipa": "/kɔl/"
-  },
-  "happy": {
-   "def": "开心的",
-   "ipa": "/ˈhæp.i/"
-  },
-  "check": {
-   "def": "检查",
-   "ipa": "/tʃek/"
+  "parameter": {
+   "def": "参数，函数定义中接收输入的名字"
   }
  }
 }

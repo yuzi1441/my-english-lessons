@@ -1,23 +1,23 @@
 {
  "meta": {
-  "title": "Lesson 20: A Small Research Note",
-  "title_zh": "第 20 课：一份小研究笔记",
-  "source": "Month 1 · Week 3 · Day 20",
+  "title": "Day 20: Vocabulary Speaking Lab",
+  "title_zh": "第 20 天：当天词汇口语实验室",
+  "source": "Vocabulary Month · Day 20",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 109,
-   "segment_count": 3,
-   "difficulty": "入门进阶",
+   "word_count": 460,
+   "segment_count": 6,
+   "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
-   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
    "value_points": [
-    "说明问题",
-    "掩盖一个弱事实",
-    "每日一次英文小练习"
+    "当天 18 个词汇全部进入口语正文",
+    "库、依赖与框架 × 表达偏好和选择 × 变更日志",
+    "30 秒个人化输出"
    ],
-   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
   }
  },
  "voice": {
@@ -29,139 +29,215 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "I write a short note about the company. First, I state the question. Then I give two facts from the data. After that, I explain one risk. The note is not a final answer. It is a clear starting point for discussion.",
-   "tts": "I write a short note about the company. First, I state the question. Then I give two facts from the data. After that, I explain one risk. The note is not a final answer. It is a clear starting point for discussion.",
-   "zh": "我写一份关于这家公司的短笔记。先说明问题，再给出两个数据事实，然后解释一个风险。这份笔记不是最终答案，而是一个清楚的讨论起点。讲解：state=说明，risk=风险，discussion=讨论，starting point=起点。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 库、依赖与框架 with a teammate. I use library to talk about 库，可被程序调用的一组现成功能. I use dependency to talk about 依赖，项目正常运行需要的外部软件. I use framework to talk about 框架，为应用提供整体结构和规则的工具. I tell my teammate: Today I use library, dependency, and framework. At the end, I say: I can use library clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 库、依赖与框架 with a teammate. I use library to talk about 库，可被程序调用的一组现成功能. I use dependency to talk about 依赖，项目正常运行需要的外部软件. I use framework to talk about 框架，为应用提供整体结构和规则的工具. I tell my teammate: Today I use library, dependency, and framework. At the end, I say: I can use library clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“库、依赖与框架”。先听英文，再尝试不看中文复述。library：库，可被程序调用的一组现成功能。示例：I learned how to use \"library\" in a computer task.dependency：依赖，项目正常运行需要的外部软件。示例：I learned how to use \"dependency\" in a computer task.framework：框架，为应用提供整体结构和规则的工具。示例：I learned how to use \"framework\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "state",
-     "type": "word",
-     "def": "说明"
+     "w": "library",
+     "type": "term",
+     "def": "库，可被程序调用的一组现成功能"
     },
     {
-     "w": "risk",
+     "w": "dependency",
      "type": "term",
-     "def": "风险"
+     "def": "依赖，项目正常运行需要的外部软件"
     },
     {
-     "w": "starting point",
+     "w": "framework",
      "type": "term",
-     "def": "起点"
+     "def": "框架，为应用提供整体结构和规则的工具"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "I use simple words. I do not hide a weak fact behind a big word. I write: sales grew, but cash fell. This sentence is short and honest. The reader can ask the next question.",
-   "tts": "I use simple words. I do not hide a weak fact behind a big word. I write: sales grew, but cash fell. This sentence is short and honest. The reader can ask the next question.",
-   "zh": "我使用简单词语，不用大词掩盖弱证据。我写：销售额增长了，但现金减少了。这句话短而诚实，读者可以继续问下一个问题。讲解：hide behind=躲在……后面，weak=弱的，honest=诚实的，reader=读者。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 库、依赖与框架 with a teammate. I use package to talk about 软件包，可安装和分发的代码集合. I use package manager to talk about 包管理器，安装和管理软件包的工具. I use dependency version to talk about 依赖版本，项目指定使用的依赖发布编号. I tell my teammate: Today I use package, package manager, and dependency version. At the end, I say: I can use package clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 库、依赖与框架 with a teammate. I use package to talk about 软件包，可安装和分发的代码集合. I use package manager to talk about 包管理器，安装和管理软件包的工具. I use dependency version to talk about 依赖版本，项目指定使用的依赖发布编号. I tell my teammate: Today I use package, package manager, and dependency version. At the end, I say: I can use package clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“库、依赖与框架”。先听英文，再尝试不看中文复述。package：软件包，可安装和分发的代码集合。示例：I learned how to use \"package\" in a computer task.package manager：包管理器，安装和管理软件包的工具。示例：I learned how to use \"package manager\" in a computer task.dependency version：依赖版本，项目指定使用的依赖发布编号。示例：I learned how to use \"dependency version\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "hide",
-     "type": "word",
-     "def": "掩盖"
+     "w": "package",
+     "type": "term",
+     "def": "软件包，可安装和分发的代码集合"
     },
     {
-     "w": "weak",
-     "type": "word",
-     "def": "弱的"
+     "w": "package manager",
+     "type": "idiom",
+     "def": "包管理器，安装和管理软件包的工具"
     },
     {
-     "w": "honest",
-     "type": "word",
-     "def": "诚实的"
+     "w": "dependency version",
+     "type": "idiom",
+     "def": "依赖版本，项目指定使用的依赖发布编号"
     }
    ]
   },
   {
    "id": "seg-03",
-   "en": "I finish with a next step. I will read the next report and compare the cash number. A good note tells me what to do next, not only what I saw before.",
-   "tts": "I finish with a next step. I will read the next report and compare the cash number. A good note tells me what to do next, not only what I saw before.",
-   "zh": "我最后写下一步行动：继续阅读下一份报告，并比较现金数字。一份好的笔记不只告诉我以前看到了什么，也告诉我下一步要做什么。讲解：finish with=以……结束，compare=比较，next step=下一步。",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达偏好和选择 with a teammate. I use I prefer the first option. to talk about 我更喜欢第一个方案。. I use I'd rather wait. to talk about 我宁愿等一等。. I use This works better for me. to talk about 这个对我更合适。. I tell my teammate: Today I use I prefer the first option., I'd rather wait., and This works better for me.. At the end, I say: I can use I prefer the first option. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达偏好和选择 with a teammate. I use I prefer the first option. to talk about 我更喜欢第一个方案。. I use I'd rather wait. to talk about 我宁愿等一等。. I use This works better for me. to talk about 这个对我更合适。. I tell my teammate: Today I use I prefer the first option., I'd rather wait., and This works better for me.. At the end, I say: I can use I prefer the first option. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“表达偏好和选择”。先听英文，再尝试不看中文复述。I prefer the first option.：我更喜欢第一个方案。。示例：I prefer the first option.I'd rather wait.：我宁愿等一等。。示例：I'd rather wait.This works better for me.：这个对我更合适。。示例：This works better for me.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "finish with",
-     "type": "term",
-     "def": "以……结束"
+     "w": "I prefer the first option.",
+     "type": "idiom",
+     "def": "我更喜欢第一个方案。"
     },
     {
-     "w": "compare",
-     "type": "word",
-     "def": "比较"
+     "w": "I'd rather wait.",
+     "type": "idiom",
+     "def": "我宁愿等一等。"
     },
     {
-     "w": "what to do next",
+     "w": "This works better for me.",
+     "type": "idiom",
+     "def": "这个对我更合适。"
+    }
+   ]
+  },
+  {
+   "id": "seg-04",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达偏好和选择 with a teammate. I use The main reason is ... to talk about 主要原因是……. I use It depends on the situation. to talk about 这取决于具体情况。. I use Let's choose this one. to talk about 我们选这个吧。. I tell my teammate: Today I use The main reason is ..., It depends on the situation., and Let's choose this one.. At the end, I say: I can use The main reason is ... clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达偏好和选择 with a teammate. I use The main reason is ... to talk about 主要原因是……. I use It depends on the situation. to talk about 这取决于具体情况。. I use Let's choose this one. to talk about 我们选这个吧。. I tell my teammate: Today I use The main reason is ..., It depends on the situation., and Let's choose this one.. At the end, I say: I can use The main reason is ... clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“表达偏好和选择”。先听英文，再尝试不看中文复述。The main reason is ...：主要原因是……。示例：The main reason isIt depends on the situation.：这取决于具体情况。。示例：It depends on the situation.Let's choose this one.：我们选这个吧。。示例：Let's choose this one.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "The main reason is ...",
+     "type": "idiom",
+     "def": "主要原因是……"
+    },
+    {
+     "w": "It depends on the situation.",
+     "type": "idiom",
+     "def": "这取决于具体情况。"
+    },
+    {
+     "w": "Let's choose this one.",
+     "type": "idiom",
+     "def": "我们选这个吧。"
+    }
+   ]
+  },
+  {
+   "id": "seg-05",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 变更日志 with a teammate. I use changelog to talk about 变更日志，按版本记录项目变化的文件. I use breaking change to talk about 破坏性变更，会让旧用法不再兼容的变化. I use new feature to talk about 新功能，新版本增加的能力. I tell my teammate: Today I use changelog, breaking change, and new feature. At the end, I say: I can use changelog clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 变更日志 with a teammate. I use changelog to talk about 变更日志，按版本记录项目变化的文件. I use breaking change to talk about 破坏性变更，会让旧用法不再兼容的变化. I use new feature to talk about 新功能，新版本增加的能力. I tell my teammate: Today I use changelog, breaking change, and new feature. At the end, I say: I can use changelog clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“变更日志”。先听英文，再尝试不看中文复述。changelog：变更日志，按版本记录项目变化的文件。示例：Our team uses \"changelog\" to keep the project clear.breaking change：破坏性变更，会让旧用法不再兼容的变化。示例：Our team uses \"breaking change\" to keep the project clear.new feature：新功能，新版本增加的能力。示例：Our team uses \"new feature\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "changelog",
      "type": "term",
-     "def": "下一步做什么"
+     "def": "变更日志，按版本记录项目变化的文件"
+    },
+    {
+     "w": "breaking change",
+     "type": "idiom",
+     "def": "破坏性变更，会让旧用法不再兼容的变化"
+    },
+    {
+     "w": "new feature",
+     "type": "idiom",
+     "def": "新功能，新版本增加的能力"
+    }
+   ]
+  },
+  {
+   "id": "seg-06",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 变更日志 with a teammate. I use bug fix entry to talk about 缺陷修复条目，记录某项错误修复的说明. I use deprecation notice to talk about 弃用通知，说明某项功能将来会被移除. I use release summary to talk about 发布摘要，用简短文字概括版本变化. I tell my teammate: Today I use bug fix entry, deprecation notice, and release summary. At the end, I say: I can use bug fix entry clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 变更日志 with a teammate. I use bug fix entry to talk about 缺陷修复条目，记录某项错误修复的说明. I use deprecation notice to talk about 弃用通知，说明某项功能将来会被移除. I use release summary to talk about 发布摘要，用简短文字概括版本变化. I tell my teammate: Today I use bug fix entry, deprecation notice, and release summary. At the end, I say: I can use bug fix entry clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“变更日志”。先听英文，再尝试不看中文复述。bug fix entry：缺陷修复条目，记录某项错误修复的说明。示例：Our team uses \"bug fix entry\" to keep the project clear.deprecation notice：弃用通知，说明某项功能将来会被移除。示例：Our team uses \"deprecation notice\" to keep the project clear.release summary：发布摘要，用简短文字概括版本变化。示例：Our team uses \"release summary\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "bug fix entry",
+     "type": "idiom",
+     "def": "缺陷修复条目，记录某项错误修复的说明"
+    },
+    {
+     "w": "deprecation notice",
+     "type": "idiom",
+     "def": "弃用通知，说明某项功能将来会被移除"
+    },
+    {
+     "w": "release summary",
+     "type": "idiom",
+     "def": "发布摘要，用简短文字概括版本变化"
     }
    ]
   }
  ],
  "chunks": [
   {
-   "t": "state the question",
-   "cn": "说明问题",
-   "eg": "State the question first."
+   "t": "library",
+   "cn": "库，可被程序调用的一组现成功能",
+   "eg": "I learned how to use \"library\" in a computer task."
   },
   {
-   "t": "hide a weak fact",
-   "cn": "掩盖一个弱事实",
-   "eg": "Do not hide a weak fact."
+   "t": "dependency",
+   "cn": "依赖，项目正常运行需要的外部软件",
+   "eg": "I learned how to use \"dependency\" in a computer task."
   },
   {
-   "t": "a starting point",
-   "cn": "一个起点",
-   "eg": "The note is a starting point."
+   "t": "framework",
+   "cn": "框架，为应用提供整体结构和规则的工具",
+   "eg": "I learned how to use \"framework\" in a computer task."
   },
   {
-   "t": "what to do next",
-   "cn": "下一步做什么",
-   "eg": "The note tells me what to do next."
+   "t": "package",
+   "cn": "软件包，可安装和分发的代码集合",
+   "eg": "I learned how to use \"package\" in a computer task."
+  },
+  {
+   "t": "package manager",
+   "cn": "包管理器，安装和管理软件包的工具",
+   "eg": "I learned how to use \"package manager\" in a computer task."
+  },
+  {
+   "t": "dependency version",
+   "cn": "依赖版本，项目指定使用的依赖发布编号",
+   "eg": "I learned how to use \"dependency version\" in a computer task."
   }
  ],
  "patterns": [
   {
-   "t": "First, I X.",
-   "cn": "首先，我 X。"
+   "t": "The key expression is X.",
+   "cn": "关键表达是 X。"
   },
   {
-   "t": "X grew, but Y fell.",
-   "cn": "X 增长了，但 Y 下降了。"
+   "t": "In Chinese, it means X.",
+   "cn": "它的中文意思是 X。"
   },
   {
-   "t": "I will X next.",
-   "cn": "接下来我会 X。"
+   "t": "I can use X clearly today.",
+   "cn": "我今天能清楚地使用 X。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "design_note",
-   "task": "Write a short research note with a question, two facts, and a next step. Use state the question, a starting point, and what to do next.",
+   "genre": "standup_update",
+   "task": "Use any three Day 20 vocabulary items. Say what you did, what problem you had, and what you will do next.",
    "hint_chunks": [
-    "state the question",
-    "hide a weak fact",
-    "a starting point"
+    "library",
+    "dependency",
+    "framework"
    ]
   }
  ],
  "lexicon": {
-  "state": {
-   "def": "说明"
+  "library": {
+   "def": "库，可被程序调用的一组现成功能"
   },
-  "risk": {
-   "def": "风险"
+  "dependency": {
+   "def": "依赖，项目正常运行需要的外部软件"
   },
-  "hide": {
-   "def": "掩盖"
+  "framework": {
+   "def": "框架，为应用提供整体结构和规则的工具"
   },
-  "weak": {
-   "def": "弱的"
+  "package": {
+   "def": "软件包，可安装和分发的代码集合"
   },
-  "honest": {
-   "def": "诚实的"
-  },
-  "compare": {
-   "def": "比较"
+  "changelog": {
+   "def": "变更日志，按版本记录项目变化的文件"
   }
  }
 }

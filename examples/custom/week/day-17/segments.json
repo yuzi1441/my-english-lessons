@@ -1,23 +1,23 @@
 {
  "meta": {
-  "title": "Lesson 17: Read a Simple Chart",
-  "title_zh": "第 17 课：读懂一张简单图表",
-  "source": "Month 1 · Week 3 · Day 17",
+  "title": "Day 17: Vocabulary Speaking Lab",
+  "title_zh": "第 17 天：当天词汇口语实验室",
+  "source": "Vocabulary Month · Day 17",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 113,
-   "segment_count": 3,
-   "difficulty": "入门进阶",
+   "word_count": 478,
+   "segment_count": 6,
+   "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
-   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
    "value_points": [
-    "随着时间",
-    "增长更快",
-    "每日一次英文小练习"
+    "当天 18 个词汇全部进入口语正文",
+    "身份验证与权限 × 看病和药店 × Token、Secret 与权限",
+    "30 秒个人化输出"
    ],
-   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
   }
  },
  "voice": {
@@ -29,142 +29,206 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "The clean data is ready. I make a line chart for sales over time. The line goes up slowly. A chart lets me see a direction faster than a long table. It is a picture of the data, not the whole explanation.",
-   "tts": "The clean data is ready. I make a line chart for sales over time. The line goes up slowly. A chart lets me see a direction faster than a long table. It is a picture of the data, not the whole explanation.",
-   "zh": "清理后的数据准备好了。我做了一张销售额随时间变化的折线图。线条缓慢向上。图表比长表格更快让我们看到方向，但它只是数据的图像，不是完整解释。讲解：line chart=折线图，over time=随时间，direction=方向，explanation=解释。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 身份验证与权限 with a teammate. I use authentication to talk about 身份验证，确认用户是谁的过程. I use authorization to talk about 授权，确认用户可以做什么的过程. I use user account to talk about 用户账号，用来识别和保存个人信息的身份. I tell my teammate: Today I use authentication, authorization, and user account. At the end, I say: I can use authentication clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 身份验证与权限 with a teammate. I use authentication to talk about 身份验证，确认用户是谁的过程. I use authorization to talk about 授权，确认用户可以做什么的过程. I use user account to talk about 用户账号，用来识别和保存个人信息的身份. I tell my teammate: Today I use authentication, authorization, and user account. At the end, I say: I can use authentication clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“身份验证与权限”。先听英文，再尝试不看中文复述。authentication：身份验证，确认用户是谁的过程。示例：I learned how to use \"authentication\" in a computer task.authorization：授权，确认用户可以做什么的过程。示例：I learned how to use \"authorization\" in a computer task.user account：用户账号，用来识别和保存个人信息的身份。示例：I learned how to use \"user account\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "line chart",
+     "w": "authentication",
      "type": "term",
-     "def": "折线图"
+     "def": "身份验证，确认用户是谁的过程"
     },
     {
-     "w": "over time",
+     "w": "authorization",
      "type": "term",
-     "def": "随时间"
+     "def": "授权，确认用户可以做什么的过程"
     },
     {
-     "w": "explanation",
-     "type": "word",
-     "def": "解释"
+     "w": "user account",
+     "type": "idiom",
+     "def": "用户账号，用来识别和保存个人信息的身份"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "I compare two companies. Company A is larger, but Company B grows faster. The answer changes when I change the question. Size and growth are different ideas. I say exactly what the chart shows.",
-   "tts": "I compare two companies. Company A is larger, but Company B grows faster. The answer changes when I change the question. Size and growth are different ideas. I say exactly what the chart shows.",
-   "zh": "我比较两家公司。A 公司更大，但 B 公司增长更快。当我改变问题时，答案也会改变。规模和增长是不同的概念。我准确说出图表显示了什么。讲解：compare=比较，larger=更大的，grow faster=增长更快，idea=概念。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 身份验证与权限 with a teammate. I use login session to talk about 登录会话，用户登录后持续一段时间的访问状态. I use access permission to talk about 访问权限，允许用户读取或修改某项资源的规则. I use sign out to talk about 退出登录，结束当前登录会话. I tell my teammate: Today I use login session, access permission, and sign out. At the end, I say: I can use login session clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 身份验证与权限 with a teammate. I use login session to talk about 登录会话，用户登录后持续一段时间的访问状态. I use access permission to talk about 访问权限，允许用户读取或修改某项资源的规则. I use sign out to talk about 退出登录，结束当前登录会话. I tell my teammate: Today I use login session, access permission, and sign out. At the end, I say: I can use login session clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“身份验证与权限”。先听英文，再尝试不看中文复述。login session：登录会话，用户登录后持续一段时间的访问状态。示例：I learned how to use \"login session\" in a computer task.access permission：访问权限，允许用户读取或修改某项资源的规则。示例：I learned how to use \"access permission\" in a computer task.sign out：退出登录，结束当前登录会话。示例：I learned how to use \"sign out\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "compare",
-     "type": "word",
-     "def": "比较"
+     "w": "login session",
+     "type": "idiom",
+     "def": "登录会话，用户登录后持续一段时间的访问状态"
     },
     {
-     "w": "growth",
-     "type": "term",
-     "def": "增长"
+     "w": "access permission",
+     "type": "idiom",
+     "def": "访问权限，允许用户读取或修改某项资源的规则"
     },
     {
-     "w": "exactly",
-     "type": "word",
-     "def": "准确地"
+     "w": "sign out",
+     "type": "idiom",
+     "def": "退出登录，结束当前登录会话"
     }
    ]
   },
   {
    "id": "seg-03",
-   "en": "A chart can hide a detail. The vertical axis starts at fifty, not zero. The change looks very large. I check the axis before I make a strong claim. Good readers ask how the chart was made.",
-   "tts": "A chart can hide a detail. The vertical axis starts at fifty, not zero. The change looks very large. I check the axis before I make a strong claim. Good readers ask how the chart was made.",
-   "zh": "图表可能隐藏一个细节：纵轴从五十开始，而不是从零开始，所以变化看起来很大。在做出强烈结论前，我先检查坐标轴。好的读者会问图表是怎样制作的。讲解：axis=坐标轴，hide=隐藏，claim=结论/主张，vertical=垂直的。",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 看病和药店 with a teammate. I use I don't feel well. to talk about 我感觉不舒服。. I use I have a headache. to talk about 我头痛。. I use How often should I take this? to talk about 这个药多久吃一次？. I tell my teammate: Today I use I don't feel well., I have a headache., and How often should I take this?. At the end, I say: I can use I don't feel well. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 看病和药店 with a teammate. I use I don't feel well. to talk about 我感觉不舒服。. I use I have a headache. to talk about 我头痛。. I use How often should I take this? to talk about 这个药多久吃一次？. I tell my teammate: Today I use I don't feel well., I have a headache., and How often should I take this?. At the end, I say: I can use I don't feel well. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“看病和药店”。先听英文，再尝试不看中文复述。I don't feel well.：我感觉不舒服。。示例：I don't feel well.I have a headache.：我头痛。。示例：I have a headache.How often should I take this?：这个药多久吃一次？。示例：How often should I take this?最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "axis",
-     "type": "term",
-     "def": "坐标轴"
+     "w": "I don't feel well.",
+     "type": "idiom",
+     "def": "我感觉不舒服。"
     },
     {
-     "w": "hide",
-     "type": "word",
-     "def": "隐藏"
+     "w": "I have a headache.",
+     "type": "idiom",
+     "def": "我头痛。"
     },
     {
-     "w": "claim",
-     "type": "word",
-     "def": "主张"
+     "w": "How often should I take this?",
+     "type": "idiom",
+     "def": "这个药多久吃一次？"
+    }
+   ]
+  },
+  {
+   "id": "seg-04",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 看病和药店 with a teammate. I use Are there any side effects? to talk about 有副作用吗？. I use I'm allergic to this medicine. to talk about 我对这种药过敏。. I use I need to see a doctor. to talk about 我需要看医生。. I tell my teammate: Today I use Are there any side effects?, I'm allergic to this medicine., and I need to see a doctor.. At the end, I say: I can use Are there any side effects? clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 看病和药店 with a teammate. I use Are there any side effects? to talk about 有副作用吗？. I use I'm allergic to this medicine. to talk about 我对这种药过敏。. I use I need to see a doctor. to talk about 我需要看医生。. I tell my teammate: Today I use Are there any side effects?, I'm allergic to this medicine., and I need to see a doctor.. At the end, I say: I can use Are there any side effects? clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“看病和药店”。先听英文，再尝试不看中文复述。Are there any side effects?：有副作用吗？。示例：Are there any side effects?I'm allergic to this medicine.：我对这种药过敏。。示例：I'm allergic to this medicine.I need to see a doctor.：我需要看医生。。示例：I need to see a doctor.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "Are there any side effects?",
+     "type": "idiom",
+     "def": "有副作用吗？"
+    },
+    {
+     "w": "I'm allergic to this medicine.",
+     "type": "idiom",
+     "def": "我对这种药过敏。"
+    },
+    {
+     "w": "I need to see a doctor.",
+     "type": "idiom",
+     "def": "我需要看医生。"
+    }
+   ]
+  },
+  {
+   "id": "seg-05",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about token、secret 与权限 with a teammate. I use access token to talk about 访问令牌，代替密码授权程序访问服务的字符串. I use personal access token to talk about 个人访问令牌，代表个人账号调用 GitHub 的令牌. I use repository secret to talk about 仓库机密，供自动化任务安全使用的敏感值. I tell my teammate: Today I use access token, personal access token, and repository secret. At the end, I say: I can use access token clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about token、secret 与权限 with a teammate. I use access token to talk about 访问令牌，代替密码授权程序访问服务的字符串. I use personal access token to talk about 个人访问令牌，代表个人账号调用 GitHub 的令牌. I use repository secret to talk about 仓库机密，供自动化任务安全使用的敏感值. I tell my teammate: Today I use access token, personal access token, and repository secret. At the end, I say: I can use access token clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Token、Secret 与权限”。先听英文，再尝试不看中文复述。access token：访问令牌，代替密码授权程序访问服务的字符串。示例：Our team uses \"access token\" to keep the project clear.personal access token：个人访问令牌，代表个人账号调用 GitHub 的令牌。示例：Our team uses \"personal access token\" to keep the project clear.repository secret：仓库机密，供自动化任务安全使用的敏感值。示例：Our team uses \"repository secret\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "access token",
+     "type": "idiom",
+     "def": "访问令牌，代替密码授权程序访问服务的字符串"
+    },
+    {
+     "w": "personal access token",
+     "type": "idiom",
+     "def": "个人访问令牌，代表个人账号调用 GitHub 的令牌"
+    },
+    {
+     "w": "repository secret",
+     "type": "idiom",
+     "def": "仓库机密，供自动化任务安全使用的敏感值"
+    }
+   ]
+  },
+  {
+   "id": "seg-06",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about token、secret 与权限 with a teammate. I use workflow permission to talk about 工作流权限，限制自动化可以执行的操作. I use secret scanning to talk about 机密扫描，自动发现意外提交的密钥. I use revoke a token to talk about 撤销令牌，让已有令牌立即失效. I tell my teammate: Today I use workflow permission, secret scanning, and revoke a token. At the end, I say: I can use workflow permission clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about token、secret 与权限 with a teammate. I use workflow permission to talk about 工作流权限，限制自动化可以执行的操作. I use secret scanning to talk about 机密扫描，自动发现意外提交的密钥. I use revoke a token to talk about 撤销令牌，让已有令牌立即失效. I tell my teammate: Today I use workflow permission, secret scanning, and revoke a token. At the end, I say: I can use workflow permission clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Token、Secret 与权限”。先听英文，再尝试不看中文复述。workflow permission：工作流权限，限制自动化可以执行的操作。示例：Our team uses \"workflow permission\" to keep the project clear.secret scanning：机密扫描，自动发现意外提交的密钥。示例：Our team uses \"secret scanning\" to keep the project clear.revoke a token：撤销令牌，让已有令牌立即失效。示例：Our team uses \"revoke a token\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "workflow permission",
+     "type": "idiom",
+     "def": "工作流权限，限制自动化可以执行的操作"
+    },
+    {
+     "w": "secret scanning",
+     "type": "idiom",
+     "def": "机密扫描，自动发现意外提交的密钥"
+    },
+    {
+     "w": "revoke a token",
+     "type": "idiom",
+     "def": "撤销令牌，让已有令牌立即失效"
     }
    ]
   }
  ],
  "chunks": [
   {
-   "t": "over time",
-   "cn": "随着时间",
-   "eg": "Sales grow over time."
+   "t": "authentication",
+   "cn": "身份验证，确认用户是谁的过程",
+   "eg": "I learned how to use \"authentication\" in a computer task."
   },
   {
-   "t": "grow faster",
-   "cn": "增长更快",
-   "eg": "Company B grows faster."
+   "t": "authorization",
+   "cn": "授权，确认用户可以做什么的过程",
+   "eg": "I learned how to use \"authorization\" in a computer task."
   },
   {
-   "t": "what the chart shows",
-   "cn": "图表显示的内容",
-   "eg": "Say what the chart shows."
+   "t": "user account",
+   "cn": "用户账号，用来识别和保存个人信息的身份",
+   "eg": "I learned how to use \"user account\" in a computer task."
   },
   {
-   "t": "make a strong claim",
-   "cn": "做出强烈结论",
-   "eg": "Check the data before you make a strong claim."
+   "t": "login session",
+   "cn": "登录会话，用户登录后持续一段时间的访问状态",
+   "eg": "I learned how to use \"login session\" in a computer task."
+  },
+  {
+   "t": "access permission",
+   "cn": "访问权限，允许用户读取或修改某项资源的规则",
+   "eg": "I learned how to use \"access permission\" in a computer task."
+  },
+  {
+   "t": "sign out",
+   "cn": "退出登录，结束当前登录会话",
+   "eg": "I learned how to use \"sign out\" in a computer task."
   }
  ],
  "patterns": [
   {
-   "t": "X is larger, but Y grows faster.",
-   "cn": "X 更大，但 Y 增长更快。"
+   "t": "The key expression is X.",
+   "cn": "关键表达是 X。"
   },
   {
-   "t": "The answer changes when X.",
-   "cn": "当 X 时，答案会变化。"
+   "t": "In Chinese, it means X.",
+   "cn": "它的中文意思是 X。"
   },
   {
-   "t": "I check X before Y.",
-   "cn": "我在 Y 前检查 X。"
+   "t": "I can use X clearly today.",
+   "cn": "我今天能清楚地使用 X。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "design_note",
-   "task": "Describe a chart in 3 sentences. Use over time, grow faster, and what the chart shows.",
+   "genre": "standup_update",
+   "task": "Use any three Day 17 vocabulary items. Say what you did, what problem you had, and what you will do next.",
    "hint_chunks": [
-    "over time",
-    "grow faster",
-    "what the chart shows"
+    "authentication",
+    "authorization",
+    "user account"
    ]
   }
  ],
  "lexicon": {
-  "explanation": {
-   "def": "解释"
+  "authentication": {
+   "def": "身份验证，确认用户是谁的过程"
   },
-  "compare": {
-   "def": "比较"
-  },
-  "growth": {
-   "def": "增长"
-  },
-  "exactly": {
-   "def": "准确地"
-  },
-  "axis": {
-   "def": "坐标轴"
-  },
-  "hide": {
-   "def": "隐藏"
-  },
-  "claim": {
-   "def": "主张"
+  "authorization": {
+   "def": "授权，确认用户可以做什么的过程"
   }
  }
 }

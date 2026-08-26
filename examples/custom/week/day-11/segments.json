@@ -1,23 +1,23 @@
 {
  "meta": {
-  "title": "Lesson 11: Lists and Tables",
-  "title_zh": "第 11 课：列表与表格",
-  "source": "Month 1 · Week 2 · Day 11",
+  "title": "Day 11: Vocabulary Speaking Lab",
+  "title_zh": "第 11 天：当天词汇口语实验室",
+  "source": "Vocabulary Month · Day 11",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 118,
-   "segment_count": 3,
-   "difficulty": "入门进阶",
+   "word_count": 466,
+   "segment_count": 6,
+   "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
-   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
    "value_points": [
-    "容纳多个值",
-    "在零号位置",
-    "每日一次英文小练习"
+    "当天 18 个词汇全部进入口语正文",
+    "IP、localhost 与端口 × 天气和闲聊 × 关注开源项目",
+    "30 秒个人化输出"
    ],
-   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
   }
  },
  "voice": {
@@ -29,145 +29,206 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I use a list. A list holds several values in one place. I make a list of prices: ten, twelve, and fifteen. The first item has position zero. Python starts counting at zero. I check the first item and see ten.",
-   "tts": "Today I use a list. A list holds several values in one place. I make a list of prices: ten, twelve, and fifteen. The first item has position zero. Python starts counting at zero. I check the first item and see ten.",
-   "zh": "今天我使用列表。列表把多个值放在一个地方。我建立一个价格列表：十、十二和十五。第一个项目的位置是零。Python 从零开始计数。我检查第一个项目，看到十。讲解：list=列表，hold=容纳，item=项目，position=位置。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ip、localhost 与端口 with a teammate. I use IP address to talk about IP 地址，用来定位网络中设备的数字地址. I use localhost to talk about 本地主机，表示当前这台电脑. I use port number to talk about 端口号，用来区分同一设备上的不同网络服务. I tell my teammate: Today I use IP address, localhost, and port number. At the end, I say: I can use IP address clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ip、localhost 与端口 with a teammate. I use IP address to talk about IP 地址，用来定位网络中设备的数字地址. I use localhost to talk about 本地主机，表示当前这台电脑. I use port number to talk about 端口号，用来区分同一设备上的不同网络服务. I tell my teammate: Today I use IP address, localhost, and port number. At the end, I say: I can use IP address clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“IP、localhost 与端口”。先听英文，再尝试不看中文复述。IP address：IP 地址，用来定位网络中设备的数字地址。示例：I learned how to use \"I P address\" in a computer task.localhost：本地主机，表示当前这台电脑。示例：I learned how to use \"local host\" in a computer task.port number：端口号，用来区分同一设备上的不同网络服务。示例：I learned how to use \"port number\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "list",
+     "w": "IP address",
+     "type": "idiom",
+     "def": "IP 地址，用来定位网络中设备的数字地址"
+    },
+    {
+     "w": "localhost",
      "type": "term",
-     "def": "列表"
+     "def": "本地主机，表示当前这台电脑"
     },
     {
-     "w": "hold",
-     "type": "word",
-     "def": "容纳"
-    },
-    {
-     "w": "item",
-     "type": "word",
-     "def": "项目"
+     "w": "port number",
+     "type": "idiom",
+     "def": "端口号，用来区分同一设备上的不同网络服务"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "A table has rows and columns. A row can describe one company. The columns can hold a name, a price, and a date. I do not need to remember every number. I let the table keep the structure for me.",
-   "tts": "A table has rows and columns. A row can describe one company. The columns can hold a name, a price, and a date. I do not need to remember every number. I let the table keep the structure for me.",
-   "zh": "表格有行和列。一行可以描述一家公司，列可以放名字、价格和日期。我不需要记住每个数字，让表格帮我保存结构。讲解：row=行，column=列，describe=描述，structure=结构。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ip、localhost 与端口 with a teammate. I use network interface to talk about 网络接口，设备连接网络的入口. I use private address to talk about 私有地址，只在内部网络中使用的地址. I use public address to talk about 公网地址，可以在互联网中路由的地址. I tell my teammate: Today I use network interface, private address, and public address. At the end, I say: I can use network interface clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ip、localhost 与端口 with a teammate. I use network interface to talk about 网络接口，设备连接网络的入口. I use private address to talk about 私有地址，只在内部网络中使用的地址. I use public address to talk about 公网地址，可以在互联网中路由的地址. I tell my teammate: Today I use network interface, private address, and public address. At the end, I say: I can use network interface clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“IP、localhost 与端口”。先听英文，再尝试不看中文复述。network interface：网络接口，设备连接网络的入口。示例：I learned how to use \"network interface\" in a computer task.private address：私有地址，只在内部网络中使用的地址。示例：I learned how to use \"private address\" in a computer task.public address：公网地址，可以在互联网中路由的地址。示例：I learned how to use \"public address\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "row",
-     "type": "term",
-     "def": "行"
+     "w": "network interface",
+     "type": "idiom",
+     "def": "网络接口，设备连接网络的入口"
     },
     {
-     "w": "column",
-     "type": "term",
-     "def": "列"
+     "w": "private address",
+     "type": "idiom",
+     "def": "私有地址，只在内部网络中使用的地址"
     },
     {
-     "w": "structure",
-     "type": "word",
-     "def": "结构"
+     "w": "public address",
+     "type": "idiom",
+     "def": "公网地址，可以在互联网中路由的地址"
     }
    ]
   },
   {
    "id": "seg-03",
-   "en": "I loop through the list and print each price. The computer repeats the same action. I watch the output. One price is wrong, so I check the original list. Small checks help me trust the data.",
-   "tts": "I loop through the list and print each price. The computer repeats the same action. I watch the output. One price is wrong, so I check the original list. Small checks help me trust the data.",
-   "zh": "我遍历列表并打印每个价格，电脑会重复同一个动作。我观察输出，发现一个价格不对，于是检查原始列表。小检查能帮助我相信数据。讲解：loop through=遍历，output=输出，original=原始的，trust=相信。",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 天气和闲聊 with a teammate. I use It's sunny today. to talk about 今天阳光很好。. I use It looks like rain. to talk about 看起来要下雨。. I use It's getting colder. to talk about 天气正在变冷。. I tell my teammate: Today I use It's sunny today., It looks like rain., and It's getting colder.. At the end, I say: I can use It's sunny today. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 天气和闲聊 with a teammate. I use It's sunny today. to talk about 今天阳光很好。. I use It looks like rain. to talk about 看起来要下雨。. I use It's getting colder. to talk about 天气正在变冷。. I tell my teammate: Today I use It's sunny today., It looks like rain., and It's getting colder.. At the end, I say: I can use It's sunny today. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“天气和闲聊”。先听英文，再尝试不看中文复述。It's sunny today.：今天阳光很好。。示例：It's sunny today.It looks like rain.：看起来要下雨。。示例：It looks like rain.It's getting colder.：天气正在变冷。。示例：It's getting colder.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "loop through",
+     "w": "It's sunny today.",
+     "type": "idiom",
+     "def": "今天阳光很好。"
+    },
+    {
+     "w": "It looks like rain.",
+     "type": "idiom",
+     "def": "看起来要下雨。"
+    },
+    {
+     "w": "It's getting colder.",
+     "type": "idiom",
+     "def": "天气正在变冷。"
+    }
+   ]
+  },
+  {
+   "id": "seg-04",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 天气和闲聊 with a teammate. I use The weather is nice. to talk about 天气不错。. I use How was your weekend? to talk about 你周末过得怎么样？. I use What have you been up to? to talk about 你最近在忙什么？. I tell my teammate: Today I use The weather is nice., How was your weekend?, and What have you been up to?. At the end, I say: I can use The weather is nice. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 天气和闲聊 with a teammate. I use The weather is nice. to talk about 天气不错。. I use How was your weekend? to talk about 你周末过得怎么样？. I use What have you been up to? to talk about 你最近在忙什么？. I tell my teammate: Today I use The weather is nice., How was your weekend?, and What have you been up to?. At the end, I say: I can use The weather is nice. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“天气和闲聊”。先听英文，再尝试不看中文复述。The weather is nice.：天气不错。。示例：The weather is nice.How was your weekend?：你周末过得怎么样？。示例：How was your weekend?What have you been up to?：你最近在忙什么？。示例：What have you been up to?最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "The weather is nice.",
+     "type": "idiom",
+     "def": "天气不错。"
+    },
+    {
+     "w": "How was your weekend?",
+     "type": "idiom",
+     "def": "你周末过得怎么样？"
+    },
+    {
+     "w": "What have you been up to?",
+     "type": "idiom",
+     "def": "你最近在忙什么？"
+    }
+   ]
+  },
+  {
+   "id": "seg-05",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 关注开源项目 with a teammate. I use fork a repository to talk about 复刻仓库，在自己账号下创建项目副本. I use star a project to talk about 给项目加星，表示收藏或支持. I use watch a repository to talk about 关注仓库，接收仓库活动通知. I tell my teammate: Today I use fork a repository, star a project, and watch a repository. At the end, I say: I can use fork a repository clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 关注开源项目 with a teammate. I use fork a repository to talk about 复刻仓库，在自己账号下创建项目副本. I use star a project to talk about 给项目加星，表示收藏或支持. I use watch a repository to talk about 关注仓库，接收仓库活动通知. I tell my teammate: Today I use fork a repository, star a project, and watch a repository. At the end, I say: I can use fork a repository clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“关注开源项目”。先听英文，再尝试不看中文复述。fork a repository：复刻仓库，在自己账号下创建项目副本。示例：Our team uses \"fork a repository\" to keep the project clear.star a project：给项目加星，表示收藏或支持。示例：Our team uses \"star a project\" to keep the project clear.watch a repository：关注仓库，接收仓库活动通知。示例：Our team uses \"watch a repository\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "fork a repository",
+     "type": "idiom",
+     "def": "复刻仓库，在自己账号下创建项目副本"
+    },
+    {
+     "w": "star a project",
+     "type": "idiom",
+     "def": "给项目加星，表示收藏或支持"
+    },
+    {
+     "w": "watch a repository",
+     "type": "idiom",
+     "def": "关注仓库，接收仓库活动通知"
+    }
+   ]
+  },
+  {
+   "id": "seg-06",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 关注开源项目 with a teammate. I use follower to talk about 关注者，订阅某个用户动态的人. I use activity feed to talk about 活动信息流，集中显示项目动态. I use notification setting to talk about 通知设置，控制接收哪些项目消息. I tell my teammate: Today I use follower, activity feed, and notification setting. At the end, I say: I can use follower clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 关注开源项目 with a teammate. I use follower to talk about 关注者，订阅某个用户动态的人. I use activity feed to talk about 活动信息流，集中显示项目动态. I use notification setting to talk about 通知设置，控制接收哪些项目消息. I tell my teammate: Today I use follower, activity feed, and notification setting. At the end, I say: I can use follower clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“关注开源项目”。先听英文，再尝试不看中文复述。follower：关注者，订阅某个用户动态的人。示例：Our team uses \"follower\" to keep the project clear.activity feed：活动信息流，集中显示项目动态。示例：Our team uses \"activity feed\" to keep the project clear.notification setting：通知设置，控制接收哪些项目消息。示例：Our team uses \"notification setting\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "follower",
      "type": "term",
-     "def": "遍历"
+     "def": "关注者，订阅某个用户动态的人"
     },
     {
-     "w": "output",
-     "type": "word",
-     "def": "输出"
+     "w": "activity feed",
+     "type": "idiom",
+     "def": "活动信息流，集中显示项目动态"
     },
     {
-     "w": "trust",
-     "type": "word",
-     "def": "相信"
+     "w": "notification setting",
+     "type": "idiom",
+     "def": "通知设置，控制接收哪些项目消息"
     }
    ]
   }
  ],
  "chunks": [
   {
-   "t": "hold several values",
-   "cn": "容纳多个值",
-   "eg": "A list holds several values."
+   "t": "IP address",
+   "cn": "IP 地址，用来定位网络中设备的数字地址",
+   "eg": "I learned how to use \"I P address\" in a computer task."
   },
   {
-   "t": "at position zero",
-   "cn": "在零号位置",
-   "eg": "The first item is at position zero."
+   "t": "localhost",
+   "cn": "本地主机，表示当前这台电脑",
+   "eg": "I learned how to use \"local host\" in a computer task."
   },
   {
-   "t": "loop through",
-   "cn": "遍历",
-   "eg": "We loop through the list."
+   "t": "port number",
+   "cn": "端口号，用来区分同一设备上的不同网络服务",
+   "eg": "I learned how to use \"port number\" in a computer task."
   },
   {
-   "t": "trust the data",
-   "cn": "相信数据",
-   "eg": "Small checks help us trust the data."
+   "t": "network interface",
+   "cn": "网络接口，设备连接网络的入口",
+   "eg": "I learned how to use \"network interface\" in a computer task."
+  },
+  {
+   "t": "private address",
+   "cn": "私有地址，只在内部网络中使用的地址",
+   "eg": "I learned how to use \"private address\" in a computer task."
+  },
+  {
+   "t": "public address",
+   "cn": "公网地址，可以在互联网中路由的地址",
+   "eg": "I learned how to use \"public address\" in a computer task."
   }
  ],
  "patterns": [
   {
-   "t": "A list holds X.",
-   "cn": "列表容纳 X。"
+   "t": "The key expression is X.",
+   "cn": "关键表达是 X。"
   },
   {
-   "t": "The first item is at X.",
-   "cn": "第一个项目在 X。"
+   "t": "In Chinese, it means X.",
+   "cn": "它的中文意思是 X。"
   },
   {
-   "t": "I check X.",
-   "cn": "我检查 X。"
+   "t": "I can use X clearly today.",
+   "cn": "我今天能清楚地使用 X。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "design_note",
-   "task": "Write 3 short sentences describing a small data table. Use hold several values, loop through, and trust the data.",
+   "genre": "standup_update",
+   "task": "Use any three Day 11 vocabulary items. Say what you did, what problem you had, and what you will do next.",
    "hint_chunks": [
-    "hold several values",
-    "at position zero",
-    "loop through"
+    "IP address",
+    "localhost",
+    "port number"
    ]
   }
  ],
  "lexicon": {
-  "list": {
-   "def": "列表"
+  "localhost": {
+   "def": "本地主机，表示当前这台电脑"
   },
-  "hold": {
-   "def": "容纳"
-  },
-  "item": {
-   "def": "项目"
-  },
-  "row": {
-   "def": "行"
-  },
-  "column": {
-   "def": "列"
-  },
-  "structure": {
-   "def": "结构"
-  },
-  "output": {
-   "def": "输出"
-  },
-  "trust": {
-   "def": "相信"
+  "follower": {
+   "def": "关注者，订阅某个用户动态的人"
   }
  }
 }

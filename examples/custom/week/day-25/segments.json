@@ -1,23 +1,23 @@
 {
  "meta": {
-  "title": "Lesson 25: Facts, Sources, and Uncertainty",
-  "title_zh": "第 25 课：事实、来源与不确定性",
-  "source": "Month 1 · Week 4 · Day 25",
+  "title": "Day 25: Vocabulary Speaking Lab",
+  "title_zh": "第 25 天：当天词汇口语实验室",
+  "source": "Vocabulary Month · Day 25",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 99,
-   "segment_count": 3,
-   "difficulty": "入门进阶",
+   "word_count": 483,
+   "segment_count": 6,
+   "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
-   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
    "value_points": [
-    "没有给出来源",
-    "把说法标为未验证",
-    "每日一次英文小练习"
+    "当天 18 个词汇全部进入口语正文",
+    "AI 模型、Prompt 与 Context × 表达不确定性 × Discussion 与 RFC",
+    "30 秒个人化输出"
    ],
-   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
   }
  },
  "voice": {
@@ -29,148 +29,203 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "I ask AI about a company's market. The answer lists several facts, but it gives no sources. I mark those claims as unverified. A smooth paragraph is not proof. I need a document, a date, or a direct link.",
-   "tts": "I ask AI about a company's market. The answer lists several facts, but it gives no sources. I mark those claims as unverified. A smooth paragraph is not proof. I need a document, a date, or a direct link.",
-   "zh": "我问 AI 一家公司的市场情况。答案列出几个事实，却没有来源。我把这些说法标记为未验证。流畅的段落不是证据，我需要文件、日期或直接链接。讲解：claim=说法/主张，unverified=未验证的，proof=证据，direct=直接的。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ai 模型、prompt 与 context with a teammate. I use AI model to talk about AI 模型，从数据中学习规律并生成结果的程序. I use prompt to talk about 提示词，用户交给 AI 的任务和背景说明. I use context window to talk about 上下文窗口，模型一次能够处理的信息范围. I tell my teammate: Today I use AI model, prompt, and context window. At the end, I say: I can use AI model clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ai 模型、prompt 与 context with a teammate. I use AI model to talk about AI 模型，从数据中学习规律并生成结果的程序. I use prompt to talk about 提示词，用户交给 AI 的任务和背景说明. I use context window to talk about 上下文窗口，模型一次能够处理的信息范围. I tell my teammate: Today I use AI model, prompt, and context window. At the end, I say: I can use AI model clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“AI 模型、Prompt 与 Context”。先听英文，再尝试不看中文复述。AI model：AI 模型，从数据中学习规律并生成结果的程序。示例：I learned how to use \"A I model\" in a computer task.prompt：提示词，用户交给 AI 的任务和背景说明。示例：I learned how to use \"prompt\" in a computer task.context window：上下文窗口，模型一次能够处理的信息范围。示例：I learned how to use \"context window\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "claim",
-     "type": "term",
-     "def": "说法"
+     "w": "AI model",
+     "type": "idiom",
+     "def": "AI 模型，从数据中学习规律并生成结果的程序"
     },
     {
-     "w": "unverified",
+     "w": "prompt",
      "type": "term",
-     "def": "未验证的"
+     "def": "提示词，用户交给 AI 的任务和背景说明"
     },
     {
-     "w": "proof",
-     "type": "word",
-     "def": "证据"
+     "w": "context window",
+     "type": "idiom",
+     "def": "上下文窗口，模型一次能够处理的信息范围"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "One source is old. The market may have changed since then. I write the date beside the fact. I also use careful language: the report says, the data suggests, or I do not know yet.",
-   "tts": "One source is old. The market may have changed since then. I write the date beside the fact. I also use careful language: the report says, the data suggests, or I do not know yet.",
-   "zh": "一个来源很旧，市场可能已经变化。我把日期写在事实旁边，也使用谨慎表达：报告说、数据暗示，或者我还不知道。讲解：old=旧的，changed=变化的，suggest=暗示，careful=谨慎的。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ai 模型、prompt 与 context with a teammate. I use system instruction to talk about 系统指令，规定模型角色和总体行为的指令. I use user message to talk about 用户消息，用户向模型提出的具体内容. I use model response to talk about 模型响应，AI 根据输入生成的回答. I tell my teammate: Today I use system instruction, user message, and model response. At the end, I say: I can use system instruction clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ai 模型、prompt 与 context with a teammate. I use system instruction to talk about 系统指令，规定模型角色和总体行为的指令. I use user message to talk about 用户消息，用户向模型提出的具体内容. I use model response to talk about 模型响应，AI 根据输入生成的回答. I tell my teammate: Today I use system instruction, user message, and model response. At the end, I say: I can use system instruction clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“AI 模型、Prompt 与 Context”。先听英文，再尝试不看中文复述。system instruction：系统指令，规定模型角色和总体行为的指令。示例：I learned how to use \"system instruction\" in a computer task.user message：用户消息，用户向模型提出的具体内容。示例：I learned how to use \"user message\" in a computer task.model response：模型响应，AI 根据输入生成的回答。示例：I learned how to use \"model response\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "suggest",
-     "type": "word",
-     "def": "暗示"
+     "w": "system instruction",
+     "type": "idiom",
+     "def": "系统指令，规定模型角色和总体行为的指令"
     },
     {
-     "w": "careful",
-     "type": "word",
-     "def": "谨慎的"
+     "w": "user message",
+     "type": "idiom",
+     "def": "用户消息，用户向模型提出的具体内容"
     },
     {
-     "w": "beside",
-     "type": "word",
-     "def": "在旁边"
+     "w": "model response",
+     "type": "idiom",
+     "def": "模型响应，AI 根据输入生成的回答"
     }
    ]
   },
   {
    "id": "seg-03",
-   "en": "This does not make research weak. It makes the boundary clear. Good work shows what is known, what is likely, and what still needs checking.",
-   "tts": "This does not make research weak. It makes the boundary clear. Good work shows what is known, what is likely, and what still needs checking.",
-   "zh": "这不会让研究变弱，反而会让边界清楚。好的工作会显示什么是已知的、什么是可能的，以及什么还需要检查。讲解：boundary=边界，likely=可能的，still needs checking=仍需检查。",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达不确定性 with a teammate. I use I'm not completely sure. to talk about 我不是完全确定。. I use As far as I know ... to talk about 据我所知……. I use It seems likely that ... to talk about 看起来很可能……. I tell my teammate: Today I use I'm not completely sure., As far as I know ..., and It seems likely that .... At the end, I say: I can use I'm not completely sure. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达不确定性 with a teammate. I use I'm not completely sure. to talk about 我不是完全确定。. I use As far as I know ... to talk about 据我所知……. I use It seems likely that ... to talk about 看起来很可能……. I tell my teammate: Today I use I'm not completely sure., As far as I know ..., and It seems likely that .... At the end, I say: I can use I'm not completely sure. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“表达不确定性”。先听英文，再尝试不看中文复述。I'm not completely sure.：我不是完全确定。。示例：I'm not completely sure.As far as I know ...：据我所知……。示例：As far as I knowIt seems likely that ...：看起来很可能……。示例：It seems likely that最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "boundary",
-     "type": "term",
-     "def": "边界"
+     "w": "I'm not completely sure.",
+     "type": "idiom",
+     "def": "我不是完全确定。"
     },
     {
-     "w": "likely",
-     "type": "word",
-     "def": "可能的"
+     "w": "As far as I know ...",
+     "type": "idiom",
+     "def": "据我所知……"
     },
     {
-     "w": "known",
-     "type": "word",
-     "def": "已知的"
+     "w": "It seems likely that ...",
+     "type": "idiom",
+     "def": "看起来很可能……"
+    }
+   ]
+  },
+  {
+   "id": "seg-04",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达不确定性 with a teammate. I use I may be mistaken. to talk about 我可能弄错了。. I use Let me check first. to talk about 让我先确认一下。. I use The evidence is limited. to talk about 证据有限。. I tell my teammate: Today I use I may be mistaken., Let me check first., and The evidence is limited.. At the end, I say: I can use I may be mistaken. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达不确定性 with a teammate. I use I may be mistaken. to talk about 我可能弄错了。. I use Let me check first. to talk about 让我先确认一下。. I use The evidence is limited. to talk about 证据有限。. I tell my teammate: Today I use I may be mistaken., Let me check first., and The evidence is limited.. At the end, I say: I can use I may be mistaken. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“表达不确定性”。先听英文，再尝试不看中文复述。I may be mistaken.：我可能弄错了。。示例：I may be mistaken.Let me check first.：让我先确认一下。。示例：Let me check first.The evidence is limited.：证据有限。。示例：The evidence is limited.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "I may be mistaken.",
+     "type": "idiom",
+     "def": "我可能弄错了。"
+    },
+    {
+     "w": "Let me check first.",
+     "type": "idiom",
+     "def": "让我先确认一下。"
+    },
+    {
+     "w": "The evidence is limited.",
+     "type": "idiom",
+     "def": "证据有限。"
+    }
+   ]
+  },
+  {
+   "id": "seg-05",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about discussion 与 rfc with a teammate. I use GitHub Discussion to talk about GitHub 讨论区，用于开放问题和社区交流. I use request for comments to talk about 征求意见稿，请他人评议某个设计方案. I use design proposal to talk about 设计提案，说明准备如何解决问题的文档. I tell my teammate: Today I use GitHub Discussion, request for comments, and design proposal. At the end, I say: I can use GitHub Discussion clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about discussion 与 rfc with a teammate. I use GitHub Discussion to talk about GitHub 讨论区，用于开放问题和社区交流. I use request for comments to talk about 征求意见稿，请他人评议某个设计方案. I use design proposal to talk about 设计提案，说明准备如何解决问题的文档. I tell my teammate: Today I use GitHub Discussion, request for comments, and design proposal. At the end, I say: I can use GitHub Discussion clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Discussion 与 RFC”。先听英文，再尝试不看中文复述。GitHub Discussion：GitHub 讨论区，用于开放问题和社区交流。示例：Our team uses \"Git Hub Discussion\" to keep the project clear.request for comments：征求意见稿，请他人评议某个设计方案。示例：Our team uses \"request for comments\" to keep the project clear.design proposal：设计提案，说明准备如何解决问题的文档。示例：Our team uses \"design proposal\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "GitHub Discussion",
+     "type": "idiom",
+     "def": "GitHub 讨论区，用于开放问题和社区交流"
+    },
+    {
+     "w": "request for comments",
+     "type": "idiom",
+     "def": "征求意见稿，请他人评议某个设计方案"
+    },
+    {
+     "w": "design proposal",
+     "type": "idiom",
+     "def": "设计提案，说明准备如何解决问题的文档"
+    }
+   ]
+  },
+  {
+   "id": "seg-06",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about discussion 与 rfc with a teammate. I use open question to talk about 开放问题，尚未得到确定答案的问题. I use decision record to talk about 决策记录，保存选择、理由和取舍的文档. I use technical discussion to talk about 技术讨论，围绕实现方案进行的专业交流. I tell my teammate: Today I use open question, decision record, and technical discussion. At the end, I say: I can use open question clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about discussion 与 rfc with a teammate. I use open question to talk about 开放问题，尚未得到确定答案的问题. I use decision record to talk about 决策记录，保存选择、理由和取舍的文档. I use technical discussion to talk about 技术讨论，围绕实现方案进行的专业交流. I tell my teammate: Today I use open question, decision record, and technical discussion. At the end, I say: I can use open question clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Discussion 与 RFC”。先听英文，再尝试不看中文复述。open question：开放问题，尚未得到确定答案的问题。示例：Our team uses \"open question\" to keep the project clear.decision record：决策记录，保存选择、理由和取舍的文档。示例：Our team uses \"decision record\" to keep the project clear.technical discussion：技术讨论，围绕实现方案进行的专业交流。示例：Our team uses \"technical discussion\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "open question",
+     "type": "idiom",
+     "def": "开放问题，尚未得到确定答案的问题"
+    },
+    {
+     "w": "decision record",
+     "type": "idiom",
+     "def": "决策记录，保存选择、理由和取舍的文档"
+    },
+    {
+     "w": "technical discussion",
+     "type": "idiom",
+     "def": "技术讨论，围绕实现方案进行的专业交流"
     }
    ]
   }
  ],
  "chunks": [
   {
-   "t": "give no sources",
-   "cn": "没有给出来源",
-   "eg": "The answer gives no sources."
+   "t": "AI model",
+   "cn": "AI 模型，从数据中学习规律并生成结果的程序",
+   "eg": "I learned how to use \"A I model\" in a computer task."
   },
   {
-   "t": "mark a claim as unverified",
-   "cn": "把说法标为未验证",
-   "eg": "Mark the claim as unverified."
+   "t": "prompt",
+   "cn": "提示词，用户交给 AI 的任务和背景说明",
+   "eg": "I learned how to use \"prompt\" in a computer task."
   },
   {
-   "t": "the data suggests",
-   "cn": "数据暗示",
-   "eg": "The data suggests a change."
+   "t": "context window",
+   "cn": "上下文窗口，模型一次能够处理的信息范围",
+   "eg": "I learned how to use \"context window\" in a computer task."
   },
   {
-   "t": "the boundary is clear",
-   "cn": "边界清楚",
-   "eg": "Now the boundary is clear."
+   "t": "system instruction",
+   "cn": "系统指令，规定模型角色和总体行为的指令",
+   "eg": "I learned how to use \"system instruction\" in a computer task."
+  },
+  {
+   "t": "user message",
+   "cn": "用户消息，用户向模型提出的具体内容",
+   "eg": "I learned how to use \"user message\" in a computer task."
+  },
+  {
+   "t": "model response",
+   "cn": "模型响应，AI 根据输入生成的回答",
+   "eg": "I learned how to use \"model response\" in a computer task."
   }
  ],
  "patterns": [
   {
-   "t": "The report says X.",
-   "cn": "报告说 X。"
+   "t": "The key expression is X.",
+   "cn": "关键表达是 X。"
   },
   {
-   "t": "The data suggests X.",
-   "cn": "数据暗示 X。"
+   "t": "In Chinese, it means X.",
+   "cn": "它的中文意思是 X。"
   },
   {
-   "t": "I do not know yet.",
-   "cn": "我还不知道。"
+   "t": "I can use X clearly today.",
+   "cn": "我今天能清楚地使用 X。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "design_note",
-   "task": "Write three cautious sentences about a source. Use mark a claim as unverified, the data suggests, and I do not know yet.",
+   "genre": "standup_update",
+   "task": "Use any three Day 25 vocabulary items. Say what you did, what problem you had, and what you will do next.",
    "hint_chunks": [
-    "give no sources",
-    "mark a claim as unverified",
-    "the data suggests"
+    "AI model",
+    "prompt",
+    "context window"
    ]
   }
  ],
  "lexicon": {
-  "claim": {
-   "def": "说法"
-  },
-  "unverified": {
-   "def": "未验证的"
-  },
-  "proof": {
-   "def": "证据"
-  },
-  "suggest": {
-   "def": "暗示"
-  },
-  "careful": {
-   "def": "谨慎的"
-  },
-  "beside": {
-   "def": "在旁边"
-  },
-  "boundary": {
-   "def": "边界"
-  },
-  "likely": {
-   "def": "可能的"
-  },
-  "known": {
-   "def": "已知的"
+  "prompt": {
+   "def": "提示词，用户交给 AI 的任务和背景说明"
   }
  }
 }

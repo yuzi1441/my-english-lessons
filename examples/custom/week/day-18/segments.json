@@ -1,23 +1,23 @@
 {
  "meta": {
-  "title": "Lesson 18: Evidence and Story",
-  "title_zh": "第 18 课：证据与故事",
-  "source": "Month 1 · Week 3 · Day 18",
+  "title": "Day 18: Vocabulary Speaking Lab",
+  "title_zh": "第 18 天：当天词汇口语实验室",
+  "source": "Vocabulary Month · Day 18",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 100,
-   "segment_count": 3,
-   "difficulty": "入门进阶",
+   "word_count": 458,
+   "segment_count": 6,
+   "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
-   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
    "value_points": [
-    "寻找证据",
-    "整体情况复杂",
-    "每日一次英文小练习"
+    "当天 18 个词汇全部进入口语正文",
+    "加密、隐私与备份 × 紧急情况表达 × 受保护分支",
+    "30 秒个人化输出"
    ],
-   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
   }
  },
  "voice": {
@@ -29,148 +29,203 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "A headline says the company is winning. I do not accept the headline immediately. I look for evidence: sales, profit, users, and cash. One good number is not enough to explain a whole business.",
-   "tts": "A headline says the company is winning. I do not accept the headline immediately. I look for evidence: sales, profit, users, and cash. One good number is not enough to explain a whole business.",
-   "zh": "一个标题说这家公司正在获胜。我不会马上接受这个标题，而是寻找证据：销售额、利润、用户和现金。一个漂亮数字不足以解释整个生意。讲解：headline=标题，evidence=证据，profit=利润，cash=现金。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 加密、隐私与备份 with a teammate. I use encryption to talk about 加密，把数据转换成未经授权无法读取的形式. I use encrypted connection to talk about 加密连接，传输内容受到保护的网络连接. I use privacy setting to talk about 隐私设置，控制个人信息如何被使用和展示. I tell my teammate: Today I use encryption, encrypted connection, and privacy setting. At the end, I say: I can use encryption clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 加密、隐私与备份 with a teammate. I use encryption to talk about 加密，把数据转换成未经授权无法读取的形式. I use encrypted connection to talk about 加密连接，传输内容受到保护的网络连接. I use privacy setting to talk about 隐私设置，控制个人信息如何被使用和展示. I tell my teammate: Today I use encryption, encrypted connection, and privacy setting. At the end, I say: I can use encryption clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“加密、隐私与备份”。先听英文，再尝试不看中文复述。encryption：加密，把数据转换成未经授权无法读取的形式。示例：I learned how to use \"encryption\" in a computer task.encrypted connection：加密连接，传输内容受到保护的网络连接。示例：I learned how to use \"encrypted connection\" in a computer task.privacy setting：隐私设置，控制个人信息如何被使用和展示。示例：I learned how to use \"privacy setting\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "headline",
-     "type": "word",
-     "def": "标题"
-    },
-    {
-     "w": "evidence",
+     "w": "encryption",
      "type": "term",
-     "def": "证据"
+     "def": "加密，把数据转换成未经授权无法读取的形式"
     },
     {
-     "w": "profit",
-     "type": "word",
-     "def": "利润"
+     "w": "encrypted connection",
+     "type": "idiom",
+     "def": "加密连接，传输内容受到保护的网络连接"
+    },
+    {
+     "w": "privacy setting",
+     "type": "idiom",
+     "def": "隐私设置，控制个人信息如何被使用和展示"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "The company has more users, but each user spends less. The user number is positive, but the picture is mixed. I write both facts in my note. Honest research keeps good and bad evidence together.",
-   "tts": "The company has more users, but each user spends less. The user number is positive, but the picture is mixed. I write both facts in my note. Honest research keeps good and bad evidence together.",
-   "zh": "公司的用户更多了，但每个用户花的钱更少。用户数量是积极信号，但整体情况很复杂。我把两个事实都写进笔记。诚实的研究会把好证据和坏证据放在一起。讲解：spend=花费，positive=积极的，mixed=复杂的/好坏混合。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 加密、隐私与备份 with a teammate. I use data backup to talk about 数据备份，为重要数据保存额外副本. I use restore data to talk about 恢复数据，从备份中取回丢失或损坏的内容. I use recovery key to talk about 恢复密钥，用于重新获得加密数据访问权的密钥. I tell my teammate: Today I use data backup, restore data, and recovery key. At the end, I say: I can use data backup clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 加密、隐私与备份 with a teammate. I use data backup to talk about 数据备份，为重要数据保存额外副本. I use restore data to talk about 恢复数据，从备份中取回丢失或损坏的内容. I use recovery key to talk about 恢复密钥，用于重新获得加密数据访问权的密钥. I tell my teammate: Today I use data backup, restore data, and recovery key. At the end, I say: I can use data backup clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“加密、隐私与备份”。先听英文，再尝试不看中文复述。data backup：数据备份，为重要数据保存额外副本。示例：I learned how to use \"data backup\" in a computer task.restore data：恢复数据，从备份中取回丢失或损坏的内容。示例：I learned how to use \"restore data\" in a computer task.recovery key：恢复密钥，用于重新获得加密数据访问权的密钥。示例：I learned how to use \"recovery key\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "spend",
-     "type": "word",
-     "def": "花费"
+     "w": "data backup",
+     "type": "idiom",
+     "def": "数据备份，为重要数据保存额外副本"
     },
     {
-     "w": "positive",
-     "type": "word",
-     "def": "积极的"
+     "w": "restore data",
+     "type": "idiom",
+     "def": "恢复数据，从备份中取回丢失或损坏的内容"
     },
     {
-     "w": "mixed",
-     "type": "word",
-     "def": "好坏混合的"
+     "w": "recovery key",
+     "type": "idiom",
+     "def": "恢复密钥，用于重新获得加密数据访问权的密钥"
     }
    ]
   },
   {
    "id": "seg-03",
-   "en": "I separate fact from opinion. The fact is: sales grew five percent. My opinion is: the growth may continue. I label the opinion clearly. This small habit keeps my thinking clean.",
-   "tts": "I separate fact from opinion. The fact is: sales grew five percent. My opinion is: the growth may continue. I label the opinion clearly. This small habit keeps my thinking clean.",
-   "zh": "我把事实和观点分开。事实是销售额增长了百分之五，观点是增长可能继续。我清楚标注观点。这个小习惯能让思考保持干净。讲解：separate=分开，opinion=观点，continue=继续，label=标注。",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 紧急情况表达 with a teammate. I use Call an ambulance. to talk about 叫救护车。. I use I need help immediately. to talk about 我立刻需要帮助。. I use Where is the nearest hospital? to talk about 最近的医院在哪里？. I tell my teammate: Today I use Call an ambulance., I need help immediately., and Where is the nearest hospital?. At the end, I say: I can use Call an ambulance. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 紧急情况表达 with a teammate. I use Call an ambulance. to talk about 叫救护车。. I use I need help immediately. to talk about 我立刻需要帮助。. I use Where is the nearest hospital? to talk about 最近的医院在哪里？. I tell my teammate: Today I use Call an ambulance., I need help immediately., and Where is the nearest hospital?. At the end, I say: I can use Call an ambulance. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“紧急情况表达”。先听英文，再尝试不看中文复述。Call an ambulance.：叫救护车。。示例：Call an ambulance.I need help immediately.：我立刻需要帮助。。示例：I need help immediately.Where is the nearest hospital?：最近的医院在哪里？。示例：Where is the nearest hospital?最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "separate",
-     "type": "word",
-     "def": "分开"
+     "w": "Call an ambulance.",
+     "type": "idiom",
+     "def": "叫救护车。"
     },
     {
-     "w": "opinion",
-     "type": "term",
-     "def": "观点"
+     "w": "I need help immediately.",
+     "type": "idiom",
+     "def": "我立刻需要帮助。"
     },
     {
-     "w": "continue",
-     "type": "word",
-     "def": "继续"
+     "w": "Where is the nearest hospital?",
+     "type": "idiom",
+     "def": "最近的医院在哪里？"
+    }
+   ]
+  },
+  {
+   "id": "seg-04",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 紧急情况表达 with a teammate. I use I've lost my phone. to talk about 我的手机丢了。. I use Please contact the police. to talk about 请联系警察。. I use Is everyone safe? to talk about 所有人都安全吗？. I tell my teammate: Today I use I've lost my phone., Please contact the police., and Is everyone safe?. At the end, I say: I can use I've lost my phone. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 紧急情况表达 with a teammate. I use I've lost my phone. to talk about 我的手机丢了。. I use Please contact the police. to talk about 请联系警察。. I use Is everyone safe? to talk about 所有人都安全吗？. I tell my teammate: Today I use I've lost my phone., Please contact the police., and Is everyone safe?. At the end, I say: I can use I've lost my phone. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“紧急情况表达”。先听英文，再尝试不看中文复述。I've lost my phone.：我的手机丢了。。示例：I've lost my phone.Please contact the police.：请联系警察。。示例：Please contact the police.Is everyone safe?：所有人都安全吗？。示例：Is everyone safe?最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "I've lost my phone.",
+     "type": "idiom",
+     "def": "我的手机丢了。"
+    },
+    {
+     "w": "Please contact the police.",
+     "type": "idiom",
+     "def": "请联系警察。"
+    },
+    {
+     "w": "Is everyone safe?",
+     "type": "idiom",
+     "def": "所有人都安全吗？"
+    }
+   ]
+  },
+  {
+   "id": "seg-05",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 受保护分支 with a teammate. I use protected branch to talk about 受保护分支，限制直接修改的重要分支. I use branch protection rule to talk about 分支保护规则，规定合并前必须满足的条件. I use required approval to talk about 必需批准，合并前必须获得的评审同意. I tell my teammate: Today I use protected branch, branch protection rule, and required approval. At the end, I say: I can use protected branch clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 受保护分支 with a teammate. I use protected branch to talk about 受保护分支，限制直接修改的重要分支. I use branch protection rule to talk about 分支保护规则，规定合并前必须满足的条件. I use required approval to talk about 必需批准，合并前必须获得的评审同意. I tell my teammate: Today I use protected branch, branch protection rule, and required approval. At the end, I say: I can use protected branch clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“受保护分支”。先听英文，再尝试不看中文复述。protected branch：受保护分支，限制直接修改的重要分支。示例：Our team uses \"protected branch\" to keep the project clear.branch protection rule：分支保护规则，规定合并前必须满足的条件。示例：Our team uses \"branch protection rule\" to keep the project clear.required approval：必需批准，合并前必须获得的评审同意。示例：Our team uses \"required approval\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "protected branch",
+     "type": "idiom",
+     "def": "受保护分支，限制直接修改的重要分支"
+    },
+    {
+     "w": "branch protection rule",
+     "type": "idiom",
+     "def": "分支保护规则，规定合并前必须满足的条件"
+    },
+    {
+     "w": "required approval",
+     "type": "idiom",
+     "def": "必需批准，合并前必须获得的评审同意"
+    }
+   ]
+  },
+  {
+   "id": "seg-06",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 受保护分支 with a teammate. I use restrict pushes to talk about 限制推送，只允许特定人员直接推送. I use signed commit to talk about 签名提交，带有可验证作者签名的提交. I use security policy to talk about 安全政策，说明如何报告和处理安全问题. I tell my teammate: Today I use restrict pushes, signed commit, and security policy. At the end, I say: I can use restrict pushes clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 受保护分支 with a teammate. I use restrict pushes to talk about 限制推送，只允许特定人员直接推送. I use signed commit to talk about 签名提交，带有可验证作者签名的提交. I use security policy to talk about 安全政策，说明如何报告和处理安全问题. I tell my teammate: Today I use restrict pushes, signed commit, and security policy. At the end, I say: I can use restrict pushes clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“受保护分支”。先听英文，再尝试不看中文复述。restrict pushes：限制推送，只允许特定人员直接推送。示例：Our team uses \"restrict pushes\" to keep the project clear.signed commit：签名提交，带有可验证作者签名的提交。示例：Our team uses \"signed commit\" to keep the project clear.security policy：安全政策，说明如何报告和处理安全问题。示例：Our team uses \"security policy\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "restrict pushes",
+     "type": "idiom",
+     "def": "限制推送，只允许特定人员直接推送"
+    },
+    {
+     "w": "signed commit",
+     "type": "idiom",
+     "def": "签名提交，带有可验证作者签名的提交"
+    },
+    {
+     "w": "security policy",
+     "type": "idiom",
+     "def": "安全政策，说明如何报告和处理安全问题"
     }
    ]
   }
  ],
  "chunks": [
   {
-   "t": "look for evidence",
-   "cn": "寻找证据",
-   "eg": "Look for evidence behind the headline."
+   "t": "encryption",
+   "cn": "加密，把数据转换成未经授权无法读取的形式",
+   "eg": "I learned how to use \"encryption\" in a computer task."
   },
   {
-   "t": "the picture is mixed",
-   "cn": "整体情况复杂",
-   "eg": "The picture is mixed."
+   "t": "encrypted connection",
+   "cn": "加密连接，传输内容受到保护的网络连接",
+   "eg": "I learned how to use \"encrypted connection\" in a computer task."
   },
   {
-   "t": "separate fact from opinion",
-   "cn": "区分事实与观点",
-   "eg": "Separate fact from opinion."
+   "t": "privacy setting",
+   "cn": "隐私设置，控制个人信息如何被使用和展示",
+   "eg": "I learned how to use \"privacy setting\" in a computer task."
   },
   {
-   "t": "label clearly",
-   "cn": "清楚标注",
-   "eg": "Label your opinion clearly."
+   "t": "data backup",
+   "cn": "数据备份，为重要数据保存额外副本",
+   "eg": "I learned how to use \"data backup\" in a computer task."
+  },
+  {
+   "t": "restore data",
+   "cn": "恢复数据，从备份中取回丢失或损坏的内容",
+   "eg": "I learned how to use \"restore data\" in a computer task."
+  },
+  {
+   "t": "recovery key",
+   "cn": "恢复密钥，用于重新获得加密数据访问权的密钥",
+   "eg": "I learned how to use \"recovery key\" in a computer task."
   }
  ],
  "patterns": [
   {
-   "t": "I do not accept X immediately.",
-   "cn": "我不会马上接受 X。"
+   "t": "The key expression is X.",
+   "cn": "关键表达是 X。"
   },
   {
-   "t": "The fact is X.",
-   "cn": "事实是 X。"
+   "t": "In Chinese, it means X.",
+   "cn": "它的中文意思是 X。"
   },
   {
-   "t": "My opinion is X.",
-   "cn": "我的观点是 X。"
+   "t": "I can use X clearly today.",
+   "cn": "我今天能清楚地使用 X。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "design_note",
-   "task": "Write a short research note that separates fact and opinion. Use look for evidence, the picture is mixed, and separate fact from opinion.",
+   "genre": "standup_update",
+   "task": "Use any three Day 18 vocabulary items. Say what you did, what problem you had, and what you will do next.",
    "hint_chunks": [
-    "look for evidence",
-    "the picture is mixed",
-    "separate fact from opinion"
+    "encryption",
+    "encrypted connection",
+    "privacy setting"
    ]
   }
  ],
  "lexicon": {
-  "headline": {
-   "def": "标题"
-  },
-  "evidence": {
-   "def": "证据"
-  },
-  "profit": {
-   "def": "利润"
-  },
-  "spend": {
-   "def": "花费"
-  },
-  "positive": {
-   "def": "积极的"
-  },
-  "mixed": {
-   "def": "好坏混合的"
-  },
-  "separate": {
-   "def": "分开"
-  },
-  "opinion": {
-   "def": "观点"
-  },
-  "continue": {
-   "def": "继续"
+  "encryption": {
+   "def": "加密，把数据转换成未经授权无法读取的形式"
   }
  }
 }

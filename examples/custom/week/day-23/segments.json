@@ -1,23 +1,23 @@
 {
  "meta": {
-  "title": "Lesson 23: Give the AI Context",
-  "title_zh": "第 23 课：给 AI 上下文",
-  "source": "Month 1 · Week 4 · Day 23",
+  "title": "Day 23: Vocabulary Speaking Lab",
+  "title_zh": "第 23 天：当天词汇口语实验室",
+  "source": "Vocabulary Month · Day 23",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 106,
-   "segment_count": 3,
-   "difficulty": "入门进阶",
+   "word_count": 497,
+   "segment_count": 6,
+   "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
-   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
    "value_points": [
-    "给它上下文",
-    "展示一个例子",
-    "每日一次英文小练习"
+    "当天 18 个词汇全部进入口语正文",
+    "性能、延迟与缓存 × 比较并作出决定 × 专业代码评审用语",
+    "30 秒个人化输出"
    ],
-   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
   }
  },
  "voice": {
@@ -29,148 +29,209 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "The model does not know my whole project. I give it context before I ask a question. I explain the user, the goal, the current behavior, and the problem. Context helps the model choose a better answer.",
-   "tts": "The model does not know my whole project. I give it context before I ask a question. I explain the user, the goal, the current behavior, and the problem. Context helps the model choose a better answer.",
-   "zh": "模型不知道我的整个项目。我在提问前先给它上下文，说明用户、目标、当前行为和问题。上下文能帮助模型选择更好的答案。讲解：context=上下文，behavior=行为，choose=选择。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 性能、延迟与缓存 with a teammate. I use performance to talk about 性能，系统完成工作的速度和效率. I use latency to talk about 延迟，从发出请求到收到响应的等待时间. I use cache to talk about 缓存，为快速读取而暂时保存的数据. I tell my teammate: Today I use performance, latency, and cache. At the end, I say: I can use performance clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 性能、延迟与缓存 with a teammate. I use performance to talk about 性能，系统完成工作的速度和效率. I use latency to talk about 延迟，从发出请求到收到响应的等待时间. I use cache to talk about 缓存，为快速读取而暂时保存的数据. I tell my teammate: Today I use performance, latency, and cache. At the end, I say: I can use performance clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“性能、延迟与缓存”。先听英文，再尝试不看中文复述。performance：性能，系统完成工作的速度和效率。示例：I learned how to use \"performance\" in a computer task.latency：延迟，从发出请求到收到响应的等待时间。示例：I learned how to use \"latency\" in a computer task.cache：缓存，为快速读取而暂时保存的数据。示例：I learned how to use \"cache\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "context",
+     "w": "performance",
      "type": "term",
-     "def": "上下文"
+     "def": "性能，系统完成工作的速度和效率"
     },
     {
-     "w": "behavior",
-     "type": "word",
-     "def": "行为"
+     "w": "latency",
+     "type": "term",
+     "def": "延迟，从发出请求到收到响应的等待时间"
     },
     {
-     "w": "choose",
-     "type": "word",
-     "def": "选择"
+     "w": "cache",
+     "type": "term",
+     "def": "缓存，为快速读取而暂时保存的数据"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "I also show one good example and one bad example. Examples make the difference clear. If I want a short answer, I show the length and tone. The model follows a pattern more easily when I show it.",
-   "tts": "I also show one good example and one bad example. Examples make the difference clear. If I want a short answer, I show the length and tone. The model follows a pattern more easily when I show it.",
-   "zh": "我还给出一个好例子和一个坏例子。例子会让差别清楚。如果我想要短答案，我会示范长度和语气。给出模式后，模型更容易遵循。讲解：example=例子，tone=语气，pattern=模式，follow=遵循。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 性能、延迟与缓存 with a teammate. I use cache hit to talk about 缓存命中，需要的数据直接在缓存中找到. I use cache miss to talk about 缓存未命中，需要的数据不在缓存中. I use response time to talk about 响应时间，系统完成一次请求所花的时间. I tell my teammate: Today I use cache hit, cache miss, and response time. At the end, I say: I can use cache hit clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 性能、延迟与缓存 with a teammate. I use cache hit to talk about 缓存命中，需要的数据直接在缓存中找到. I use cache miss to talk about 缓存未命中，需要的数据不在缓存中. I use response time to talk about 响应时间，系统完成一次请求所花的时间. I tell my teammate: Today I use cache hit, cache miss, and response time. At the end, I say: I can use cache hit clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“性能、延迟与缓存”。先听英文，再尝试不看中文复述。cache hit：缓存命中，需要的数据直接在缓存中找到。示例：I learned how to use \"cache hit\" in a computer task.cache miss：缓存未命中，需要的数据不在缓存中。示例：I learned how to use \"cache miss\" in a computer task.response time：响应时间，系统完成一次请求所花的时间。示例：I learned how to use \"response time\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "example",
-     "type": "word",
-     "def": "例子"
+     "w": "cache hit",
+     "type": "idiom",
+     "def": "缓存命中，需要的数据直接在缓存中找到"
     },
     {
-     "w": "tone",
-     "type": "word",
-     "def": "语气"
+     "w": "cache miss",
+     "type": "idiom",
+     "def": "缓存未命中，需要的数据不在缓存中"
     },
     {
-     "w": "pattern",
-     "type": "term",
-     "def": "模式"
+     "w": "response time",
+     "type": "idiom",
+     "def": "响应时间，系统完成一次请求所花的时间"
     }
    ]
   },
   {
    "id": "seg-03",
-   "en": "Too much context can also be a problem. I keep the useful parts and remove old notes. A focused context saves time and reduces confusion. Good prompting is partly good editing.",
-   "tts": "Too much context can also be a problem. I keep the useful parts and remove old notes. A focused context saves time and reduces confusion. Good prompting is partly good editing.",
-   "zh": "上下文太多也可能成为问题。我保留有用部分，删除旧笔记。聚焦的上下文能节省时间并减少混乱。好的提示词工作有一部分就是好的编辑。讲解：focused=聚焦的，reduce=减少，confusion=混乱，edit=编辑。",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 比较并作出决定 with a teammate. I use What are the main differences? to talk about 主要区别是什么？. I use This one is more reliable. to talk about 这个更可靠。. I use The other option is cheaper. to talk about 另一个方案更便宜。. I tell my teammate: Today I use What are the main differences?, This one is more reliable., and The other option is cheaper.. At the end, I say: I can use What are the main differences? clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 比较并作出决定 with a teammate. I use What are the main differences? to talk about 主要区别是什么？. I use This one is more reliable. to talk about 这个更可靠。. I use The other option is cheaper. to talk about 另一个方案更便宜。. I tell my teammate: Today I use What are the main differences?, This one is more reliable., and The other option is cheaper.. At the end, I say: I can use What are the main differences? clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“比较并作出决定”。先听英文，再尝试不看中文复述。What are the main differences?：主要区别是什么？。示例：What are the main differences?This one is more reliable.：这个更可靠。。示例：This one is more reliable.The other option is cheaper.：另一个方案更便宜。。示例：The other option is cheaper.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "focused",
-     "type": "word",
-     "def": "聚焦的"
+     "w": "What are the main differences?",
+     "type": "idiom",
+     "def": "主要区别是什么？"
     },
     {
-     "w": "reduce",
-     "type": "word",
-     "def": "减少"
+     "w": "This one is more reliable.",
+     "type": "idiom",
+     "def": "这个更可靠。"
     },
     {
-     "w": "confusion",
-     "type": "word",
-     "def": "混乱"
+     "w": "The other option is cheaper.",
+     "type": "idiom",
+     "def": "另一个方案更便宜。"
+    }
+   ]
+  },
+  {
+   "id": "seg-04",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 比较并作出决定 with a teammate. I use What are the trade-offs? to talk about 有哪些取舍？. I use I need time to decide. to talk about 我需要时间决定。. I use Let's review the facts. to talk about 我们回顾一下事实吧。. I tell my teammate: Today I use What are the trade-offs?, I need time to decide., and Let's review the facts.. At the end, I say: I can use What are the trade-offs? clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 比较并作出决定 with a teammate. I use What are the trade-offs? to talk about 有哪些取舍？. I use I need time to decide. to talk about 我需要时间决定。. I use Let's review the facts. to talk about 我们回顾一下事实吧。. I tell my teammate: Today I use What are the trade-offs?, I need time to decide., and Let's review the facts.. At the end, I say: I can use What are the trade-offs? clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“比较并作出决定”。先听英文，再尝试不看中文复述。What are the trade-offs?：有哪些取舍？。示例：What are the trade-offs?I need time to decide.：我需要时间决定。。示例：I need time to decide.Let's review the facts.：我们回顾一下事实吧。。示例：Let's review the facts.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "What are the trade-offs?",
+     "type": "idiom",
+     "def": "有哪些取舍？"
+    },
+    {
+     "w": "I need time to decide.",
+     "type": "idiom",
+     "def": "我需要时间决定。"
+    },
+    {
+     "w": "Let's review the facts.",
+     "type": "idiom",
+     "def": "我们回顾一下事实吧。"
+    }
+   ]
+  },
+  {
+   "id": "seg-05",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 专业代码评审用语 with a teammate. I use Looks good to me. to talk about 我看起来没问题。. I use Could you clarify this part? to talk about 你可以说明这一部分吗？. I use Please add a test. to talk about 请增加一个测试。. I tell my teammate: Today I use Looks good to me., Could you clarify this part?, and Please add a test.. At the end, I say: I can use Looks good to me. clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 专业代码评审用语 with a teammate. I use Looks good to me. to talk about 我看起来没问题。. I use Could you clarify this part? to talk about 你可以说明这一部分吗？. I use Please add a test. to talk about 请增加一个测试。. I tell my teammate: Today I use Looks good to me., Could you clarify this part?, and Please add a test.. At the end, I say: I can use Looks good to me. clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“专业代码评审用语”。先听英文，再尝试不看中文复述。Looks good to me.：我看起来没问题。。示例：Our team uses \"Looks good to me.\" to keep the project clear.Could you clarify this part?：你可以说明这一部分吗？。示例：Our team uses \"Could you clarify this part?\" to keep the project clear.Please add a test.：请增加一个测试。。示例：Our team uses \"Please add a test.\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "Looks good to me.",
+     "type": "idiom",
+     "def": "我看起来没问题。"
+    },
+    {
+     "w": "Could you clarify this part?",
+     "type": "idiom",
+     "def": "你可以说明这一部分吗？"
+    },
+    {
+     "w": "Please add a test.",
+     "type": "idiom",
+     "def": "请增加一个测试。"
+    }
+   ]
+  },
+  {
+   "id": "seg-06",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 专业代码评审用语 with a teammate. I use This may cause an error. to talk about 这可能导致错误。. I use Consider renaming this variable. to talk about 可以考虑重命名这个变量。. I use Thanks for the update. to talk about 谢谢你的更新。. I tell my teammate: Today I use This may cause an error., Consider renaming this variable., and Thanks for the update.. At the end, I say: I can use This may cause an error. clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 专业代码评审用语 with a teammate. I use This may cause an error. to talk about 这可能导致错误。. I use Consider renaming this variable. to talk about 可以考虑重命名这个变量。. I use Thanks for the update. to talk about 谢谢你的更新。. I tell my teammate: Today I use This may cause an error., Consider renaming this variable., and Thanks for the update.. At the end, I say: I can use This may cause an error. clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“专业代码评审用语”。先听英文，再尝试不看中文复述。This may cause an error.：这可能导致错误。。示例：Our team uses \"This may cause an error.\" to keep the project clear.Consider renaming this variable.：可以考虑重命名这个变量。。示例：Our team uses \"Consider renaming this variable.\" to keep the project clear.Thanks for the update.：谢谢你的更新。。示例：Our team uses \"Thanks for the update.\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "This may cause an error.",
+     "type": "idiom",
+     "def": "这可能导致错误。"
+    },
+    {
+     "w": "Consider renaming this variable.",
+     "type": "idiom",
+     "def": "可以考虑重命名这个变量。"
+    },
+    {
+     "w": "Thanks for the update.",
+     "type": "idiom",
+     "def": "谢谢你的更新。"
     }
    ]
   }
  ],
  "chunks": [
   {
-   "t": "give it context",
-   "cn": "给它上下文",
-   "eg": "Give the model context first."
+   "t": "performance",
+   "cn": "性能，系统完成工作的速度和效率",
+   "eg": "I learned how to use \"performance\" in a computer task."
   },
   {
-   "t": "show one example",
-   "cn": "展示一个例子",
-   "eg": "Show one good example."
+   "t": "latency",
+   "cn": "延迟，从发出请求到收到响应的等待时间",
+   "eg": "I learned how to use \"latency\" in a computer task."
   },
   {
-   "t": "follow a pattern",
-   "cn": "遵循一个模式",
-   "eg": "The model can follow a pattern."
+   "t": "cache",
+   "cn": "缓存，为快速读取而暂时保存的数据",
+   "eg": "I learned how to use \"cache\" in a computer task."
   },
   {
-   "t": "remove old notes",
-   "cn": "删除旧笔记",
-   "eg": "Remove old notes from the prompt."
+   "t": "cache hit",
+   "cn": "缓存命中，需要的数据直接在缓存中找到",
+   "eg": "I learned how to use \"cache hit\" in a computer task."
+  },
+  {
+   "t": "cache miss",
+   "cn": "缓存未命中，需要的数据不在缓存中",
+   "eg": "I learned how to use \"cache miss\" in a computer task."
+  },
+  {
+   "t": "response time",
+   "cn": "响应时间，系统完成一次请求所花的时间",
+   "eg": "I learned how to use \"response time\" in a computer task."
   }
  ],
  "patterns": [
   {
-   "t": "I explain X before I ask Y.",
-   "cn": "我在问 Y 前解释 X。"
+   "t": "The key expression is X.",
+   "cn": "关键表达是 X。"
   },
   {
-   "t": "Examples make X clear.",
-   "cn": "例子让 X 变清楚。"
+   "t": "In Chinese, it means X.",
+   "cn": "它的中文意思是 X。"
   },
   {
-   "t": "I keep X and remove Y.",
-   "cn": "我保留 X，删除 Y。"
+   "t": "I can use X clearly today.",
+   "cn": "我今天能清楚地使用 X。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "design_note",
-   "task": "Write a prompt context block for a small coding problem. Use give it context, show one example, and remove old notes.",
+   "genre": "standup_update",
+   "task": "Use any three Day 23 vocabulary items. Say what you did, what problem you had, and what you will do next.",
    "hint_chunks": [
-    "give it context",
-    "show one example",
-    "follow a pattern"
+    "performance",
+    "latency",
+    "cache"
    ]
   }
  ],
  "lexicon": {
-  "context": {
-   "def": "上下文"
+  "performance": {
+   "def": "性能，系统完成工作的速度和效率"
   },
-  "behavior": {
-   "def": "行为"
+  "latency": {
+   "def": "延迟，从发出请求到收到响应的等待时间"
   },
-  "choose": {
-   "def": "选择"
-  },
-  "example": {
-   "def": "例子"
-  },
-  "tone": {
-   "def": "语气"
-  },
-  "pattern": {
-   "def": "模式"
-  },
-  "focused": {
-   "def": "聚焦的"
-  },
-  "reduce": {
-   "def": "减少"
-  },
-  "confusion": {
-   "def": "混乱"
+  "cache": {
+   "def": "缓存，为快速读取而暂时保存的数据"
   }
  }
 }

@@ -1,23 +1,23 @@
 {
  "meta": {
-  "title": "Lesson 3: The Pull Request",
-  "title_zh": "第 3 课：提交 PR",
-  "source": "Week 1 - Day 3",
+  "title": "Day 3: Vocabulary Speaking Lab",
+  "title_zh": "第 3 天：当天词汇口语实验室",
+  "source": "Vocabulary Month · Day 3",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 158,
-   "segment_count": 3,
-   "difficulty": "入门",
+   "word_count": 458,
+   "segment_count": 6,
+   "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
-   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
    "value_points": [
-    "开一个 PR",
-    "简称",
-    "每日一次英文小练习"
+    "当天 18 个词汇全部进入口语正文",
+    "程序、代码与运行 × 时间和日程 × 提交代码",
+    "30 秒个人化输出"
    ],
-   "suggested_pace": "先逐句听读一遍 · 再看中文讲解 · 最后完成英文小练习"
+   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
   }
  },
  "voice": {
@@ -29,350 +29,212 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "On Wednesday, I finish a bigger task. I add a small feature to the chat program. A feature is a new ability. Now the program can say hello to users. I write the code in my branch. Then I need to share it with the team. I open a pull request. We call it a PR for short.",
-   "tts": "On Wednesday, I finish a bigger task. I add a small feature to the chat program. A feature is a new ability. Now the program can say hello to users. I write the code in my branch. Then I need to share it with the team. I open a pull request. We call it a PR for short.",
-   "zh": "周三我完成一个稍大的任务：给聊天程序加个小功能。feature 就是新能力。现在程序能跟用户打招呼了。我在分支里写完代码，需要分享给团队，于是开了一个 pull request，简称 PR。讲解：ability=能力，say hello=打招呼，share=分享，for short=简称。句形 add a feature=加功能，open a pull request=开一个 PR，need to X=需要做 X。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 程序、代码与运行 with a teammate. I use program to talk about 程序，让电脑执行任务的一组指令. I use command to talk about 命令，告诉电脑立即执行某个操作的文字. I use run a program to talk about 运行程序，让电脑开始执行程序指令. I tell my teammate: Today I use program, command, and run a program. At the end, I say: I can use program clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 程序、代码与运行 with a teammate. I use program to talk about 程序，让电脑执行任务的一组指令. I use command to talk about 命令，告诉电脑立即执行某个操作的文字. I use run a program to talk about 运行程序，让电脑开始执行程序指令. I tell my teammate: Today I use program, command, and run a program. At the end, I say: I can use program clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“程序、代码与运行”。先听英文，再尝试不看中文复述。program：程序，让电脑执行任务的一组指令。示例：I learned how to use \"program\" in a computer task.command：命令，告诉电脑立即执行某个操作的文字。示例：I learned how to use \"command\" in a computer task.run a program：运行程序，让电脑开始执行程序指令。示例：I learned how to use \"run a program\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "ability",
-     "type": "word",
-     "def": "能力"
+     "w": "program",
+     "type": "term",
+     "def": "程序，让电脑执行任务的一组指令"
     },
     {
-     "w": "add",
-     "type": "word",
-     "def": "添加"
+     "w": "command",
+     "type": "term",
+     "def": "命令，告诉电脑立即执行某个操作的文字"
     },
     {
-     "w": "asks",
-     "type": "word",
-     "def": "请求;问"
-    },
-    {
-     "w": "bigger",
-     "type": "word",
-     "def": "更大的"
-    },
-    {
-     "w": "called",
-     "type": "word",
-     "def": "被叫做"
+     "w": "run a program",
+     "type": "idiom",
+     "def": "运行程序，让电脑开始执行程序指令"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "A pull request asks the team to check my code. This check is called a review. The computer also checks my code. It runs the tests by itself. The tests pass. I am happy. Then Maria looks at my code. She finds one small problem. She writes a comment under my code.",
-   "tts": "A pull request asks the team to check my code. This check is called a review. The computer also checks my code. It runs the tests by itself. The tests pass. I am happy. Then Maria looks at my code. She finds one small problem. She writes a comment under my code.",
-   "zh": "PR 就是请团队检查我的代码，这个检查叫 review（评审）。电脑也会自动检查，跑测试。测试通过了，我很开心。然后 Maria 看我的代码，发现一个小问题，在我的代码下面写了条评论。讲解：check=检查，pass=通过，look at=看，write a comment=写评论。句形 ask the team to check=请团队检查，run the tests=跑测试，find a problem=发现问题。",
-   "hard": []
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 程序、代码与运行 with a teammate. I use execute code to talk about 执行代码，让代码真正产生结果. I use output to talk about 输出，程序处理后给出的结果. I use stop a process to talk about 停止进程，让正在运行的任务结束. I tell my teammate: Today I use execute code, output, and stop a process. At the end, I say: I can use execute code clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 程序、代码与运行 with a teammate. I use execute code to talk about 执行代码，让代码真正产生结果. I use output to talk about 输出，程序处理后给出的结果. I use stop a process to talk about 停止进程，让正在运行的任务结束. I tell my teammate: Today I use execute code, output, and stop a process. At the end, I say: I can use execute code clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“程序、代码与运行”。先听英文，再尝试不看中文复述。execute code：执行代码，让代码真正产生结果。示例：I learned how to use \"execute code\" in a computer task.output：输出，程序处理后给出的结果。示例：I learned how to use \"output\" in a computer task.stop a process：停止进程，让正在运行的任务结束。示例：I learned how to use \"stop a process\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "execute code",
+     "type": "idiom",
+     "def": "执行代码，让代码真正产生结果"
+    },
+    {
+     "w": "output",
+     "type": "term",
+     "def": "输出，程序处理后给出的结果"
+    },
+    {
+     "w": "stop a process",
+     "type": "idiom",
+     "def": "停止进程，让正在运行的任务结束"
+    }
+   ]
   },
   {
    "id": "seg-03",
-   "en": "I read Maria's comment. She says: this line is a little slow. You can make it faster. I am not upset. Good feedback helps me learn. I thank her and fix the line. I push the code again. Now Maria says: it looks good. The review is done.",
-   "tts": "I read Maria's comment. She says: this line is a little slow. You can make it faster. I am not upset. Good feedback helps me learn. I thank her and fix the line. I push the code again. Now Maria says: it looks good. The review is done.",
-   "zh": "我读了 Maria 的评论。她说：这行代码有点慢，可以改快一点。我没有不高兴，好的反馈能帮我进步。我谢过她，修好那行，重新推送。Maria 说看起来不错了，评审完成。讲解：a little=一点，faster=更快的，upset=不高兴的，again=再一次。句形 thank her and fix=谢过她并修复，it looks good=看起来不错，help me learn=帮我学习。",
-   "hard": []
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 时间和日程 with a teammate. I use What time is it? to talk about 现在几点？. I use What time works for you? to talk about 什么时间对你方便？. I use I'm available at ... to talk about 我在……有时间。. I tell my teammate: Today I use What time is it?, What time works for you?, and I'm available at .... At the end, I say: I can use What time is it? clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 时间和日程 with a teammate. I use What time is it? to talk about 现在几点？. I use What time works for you? to talk about 什么时间对你方便？. I use I'm available at ... to talk about 我在……有时间。. I tell my teammate: Today I use What time is it?, What time works for you?, and I'm available at .... At the end, I say: I can use What time is it? clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“时间和日程”。先听英文，再尝试不看中文复述。What time is it?：现在几点？。示例：What time is it?What time works for you?：什么时间对你方便？。示例：What time works for you?I'm available at ...：我在……有时间。。示例：I'm available at最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "What time is it?",
+     "type": "idiom",
+     "def": "现在几点？"
+    },
+    {
+     "w": "What time works for you?",
+     "type": "idiom",
+     "def": "什么时间对你方便？"
+    },
+    {
+     "w": "I'm available at ...",
+     "type": "idiom",
+     "def": "我在……有时间。"
+    }
+   ]
+  },
+  {
+   "id": "seg-04",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 时间和日程 with a teammate. I use Let's meet at ... to talk about 我们……见吧。. I use I'm running late. to talk about 我要迟到了。. I use See you tomorrow. to talk about 明天见。. I tell my teammate: Today I use Let's meet at ..., I'm running late., and See you tomorrow.. At the end, I say: I can use Let's meet at ... clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 时间和日程 with a teammate. I use Let's meet at ... to talk about 我们……见吧。. I use I'm running late. to talk about 我要迟到了。. I use See you tomorrow. to talk about 明天见。. I tell my teammate: Today I use Let's meet at ..., I'm running late., and See you tomorrow.. At the end, I say: I can use Let's meet at ... clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“时间和日程”。先听英文，再尝试不看中文复述。Let's meet at ...：我们……见吧。。示例：Let's meet atI'm running late.：我要迟到了。。示例：I'm running late.See you tomorrow.：明天见。。示例：See you tomorrow.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "Let's meet at ...",
+     "type": "idiom",
+     "def": "我们……见吧。"
+    },
+    {
+     "w": "I'm running late.",
+     "type": "idiom",
+     "def": "我要迟到了。"
+    },
+    {
+     "w": "See you tomorrow.",
+     "type": "idiom",
+     "def": "明天见。"
+    }
+   ]
+  },
+  {
+   "id": "seg-05",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 提交代码 with a teammate. I use commit to talk about 提交，保存一组有意义的代码变化. I use commit message to talk about 提交说明，解释本次提交修改了什么. I use save a snapshot to talk about 保存快照，记录项目在某一时刻的状态. I tell my teammate: Today I use commit, commit message, and save a snapshot. At the end, I say: I can use commit clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 提交代码 with a teammate. I use commit to talk about 提交，保存一组有意义的代码变化. I use commit message to talk about 提交说明，解释本次提交修改了什么. I use save a snapshot to talk about 保存快照，记录项目在某一时刻的状态. I tell my teammate: Today I use commit, commit message, and save a snapshot. At the end, I say: I can use commit clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“提交代码”。先听英文，再尝试不看中文复述。commit：提交，保存一组有意义的代码变化。示例：Our team uses \"commit\" to keep the project clear.commit message：提交说明，解释本次提交修改了什么。示例：Our team uses \"commit message\" to keep the project clear.save a snapshot：保存快照，记录项目在某一时刻的状态。示例：Our team uses \"save a snapshot\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "commit",
+     "type": "term",
+     "def": "提交，保存一组有意义的代码变化"
+    },
+    {
+     "w": "commit message",
+     "type": "idiom",
+     "def": "提交说明，解释本次提交修改了什么"
+    },
+    {
+     "w": "save a snapshot",
+     "type": "idiom",
+     "def": "保存快照，记录项目在某一时刻的状态"
+    }
+   ]
+  },
+  {
+   "id": "seg-06",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 提交代码 with a teammate. I use commit history to talk about 提交历史，按时间保存的历次代码变化. I use commit hash to talk about 提交哈希，用来唯一识别某次提交的字符串. I use make a commit to talk about 创建提交，把当前选中的变化记入历史. I tell my teammate: Today I use commit history, commit hash, and make a commit. At the end, I say: I can use commit history clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 提交代码 with a teammate. I use commit history to talk about 提交历史，按时间保存的历次代码变化. I use commit hash to talk about 提交哈希，用来唯一识别某次提交的字符串. I use make a commit to talk about 创建提交，把当前选中的变化记入历史. I tell my teammate: Today I use commit history, commit hash, and make a commit. At the end, I say: I can use commit history clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“提交代码”。先听英文，再尝试不看中文复述。commit history：提交历史，按时间保存的历次代码变化。示例：Our team uses \"commit history\" to keep the project clear.commit hash：提交哈希，用来唯一识别某次提交的字符串。示例：Our team uses \"commit hash\" to keep the project clear.make a commit：创建提交，把当前选中的变化记入历史。示例：Our team uses \"make a commit\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "commit history",
+     "type": "idiom",
+     "def": "提交历史，按时间保存的历次代码变化"
+    },
+    {
+     "w": "commit hash",
+     "type": "idiom",
+     "def": "提交哈希，用来唯一识别某次提交的字符串"
+    },
+    {
+     "w": "make a commit",
+     "type": "idiom",
+     "def": "创建提交，把当前选中的变化记入历史"
+    }
+   ]
   }
  ],
  "chunks": [
   {
-   "t": "open a pull request",
-   "cn": "开一个 PR",
-   "eg": "I open a pull request for the new feature."
+   "t": "program",
+   "cn": "程序，让电脑执行任务的一组指令",
+   "eg": "I learned how to use \"program\" in a computer task."
   },
   {
-   "t": "for short",
-   "cn": "简称",
-   "eg": "We call it a PR for short."
+   "t": "command",
+   "cn": "命令，告诉电脑立即执行某个操作的文字",
+   "eg": "I learned how to use \"command\" in a computer task."
   },
   {
-   "t": "run the tests",
-   "cn": "跑测试",
-   "eg": "The computer runs the tests."
+   "t": "run a program",
+   "cn": "运行程序，让电脑开始执行程序指令",
+   "eg": "I learned how to use \"run a program\" in a computer task."
   },
   {
-   "t": "good feedback",
-   "cn": "好的反馈",
-   "eg": "Good feedback helps me learn."
+   "t": "execute code",
+   "cn": "执行代码，让代码真正产生结果",
+   "eg": "I learned how to use \"execute code\" in a computer task."
+  },
+  {
+   "t": "output",
+   "cn": "输出，程序处理后给出的结果",
+   "eg": "I learned how to use \"output\" in a computer task."
+  },
+  {
+   "t": "stop a process",
+   "cn": "停止进程，让正在运行的任务结束",
+   "eg": "I learned how to use \"stop a process\" in a computer task."
   }
  ],
  "patterns": [
   {
-   "t": "We call it X for short.",
-   "cn": "我们简称它为 X。"
+   "t": "The key expression is X.",
+   "cn": "关键表达是 X。"
   },
   {
-   "t": "This check is called X.",
-   "cn": "这个检查叫做 X。"
+   "t": "In Chinese, it means X.",
+   "cn": "它的中文意思是 X。"
   },
   {
-   "t": "Good feedback helps me X.",
-   "cn": "好的反馈帮我 X。"
-  },
-  {
-   "t": "It looks good.",
-   "cn": "看起来不错。"
+   "t": "I can use X clearly today.",
+   "cn": "我今天能清楚地使用 X。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "code_review_comment",
-   "task": "Write 2 short review comments in English. Say one thing is good, and one thing can be better. Use open a pull request, run the tests, and good feedback.",
+   "genre": "standup_update",
+   "task": "Use any three Day 3 vocabulary items. Say what you did, what problem you had, and what you will do next.",
    "hint_chunks": [
-    "open a pull request",
-    "run the tests",
-    "good feedback"
+    "program",
+    "command",
+    "run a program"
    ]
   }
  ],
  "lexicon": {
-  "hello": {
-   "def": "你好",
-   "ipa": "/həˈloʊ/"
-  },
-  "small": {
-   "def": "小的",
-   "ipa": "/smɔl/"
-  },
-  "thank": {
-   "def": "感谢",
-   "ipa": "/θæŋk/"
-  },
-  "slow": {
-   "def": "慢的",
-   "ipa": "/sloʊ/"
-  },
-  "read": {
-   "def": "阅读",
-   "ipa": "/rid/"
-  },
-  "add": {
-   "def": "添加",
-   "ipa": "/æd/"
-  },
-  "called": {
-   "def": "被叫做",
-   "ipa": "/kɔld/"
-  },
-  "share": {
-   "def": "分享",
-   "ipa": "/ʃer/"
-  },
-  "little": {
-   "def": "一点",
-   "ipa": "/ˈlɪt.əl/"
-  },
-  "writes": {
-   "def": "写",
-   "ipa": "/raɪts/"
-  },
-  "now": {
-   "def": "现在",
-   "ipa": "/naʊ/"
-  },
-  "computer": {
-   "def": "电脑",
-   "ipa": "/kəmˈpju.tər/"
-  },
-  "wednesday": {
-   "def": "星期三",
-   "ipa": "/ˈwenz.deɪ/"
-  },
-  "maria": {
-   "def": "人名;Maria",
-   "ipa": "/məˈri.ə/"
-  },
-  "asks": {
-   "def": "请求;问",
-   "ipa": "/æsks/"
-  },
-  "chat": {
-   "def": "聊天",
-   "ipa": "/tʃæt/"
-  },
-  "finish": {
-   "def": "完成",
-   "ipa": "/ˈfɪn.ɪʃ/"
-  },
-  "bigger": {
-   "def": "更大的",
-   "ipa": "/ˈbɪɡ.ər/"
-  },
-  "itself": {
-   "def": "它自己",
-   "ipa": "/ɪtˈself/"
-  },
-  "make": {
-   "def": "做;制造",
-   "ipa": "/meɪk/"
-  },
-  "fix": {
-   "def": "修复",
-   "ipa": "/fɪks/"
-  },
-  "helps": {
-   "def": "帮助",
-   "ipa": "/helps/"
-  },
-  "review": {
-   "def": "评审;回顾",
-   "ipa": "/rɪˈvju/"
-  },
-  "tests": {
-   "def": "测试们",
-   "ipa": "/tests/"
-  },
-  "line": {
-   "def": "行;线路",
-   "ipa": "/laɪn/"
-  },
-  "say": {
-   "def": "说",
-   "ipa": "/seɪ/"
-  },
-  "write": {
-   "def": "写",
-   "ipa": "/raɪt/"
-  },
-  "good": {
-   "def": "好的",
-   "ipa": "/ɡʊd/"
-  },
-  "branch": {
-   "def": "分支",
-   "ipa": "/bræntʃ/"
-  },
-  "again": {
-   "def": "再一次",
-   "ipa": "/əˈɡen/"
-  },
-  "problem": {
-   "def": "问题",
-   "ipa": "/ˈprɑ.bləm/"
-  },
-  "ability": {
-   "def": "能力",
-   "ipa": "/əˈbɪl.ə.ti/"
-  },
-  "feedback": {
-   "def": "反馈",
-   "ipa": "/ˈfid.bæk/"
-  },
-  "pass": {
-   "def": "通过",
-   "ipa": "/pæs/"
-  },
-  "need": {
-   "def": "需要",
-   "ipa": "/nid/"
-  },
-  "done": {
-   "def": "完成的",
-   "ipa": "/dʌn/"
-  },
-  "runs": {
-   "def": "运行",
-   "ipa": "/rʌnz/"
-  },
-  "comment": {
-   "def": "评论",
-   "ipa": "/ˈkɑ.ment/"
-  },
-  "code": {
-   "def": "代码",
-   "ipa": "/koʊd/"
-  },
-  "new": {
-   "def": "新的",
-   "ipa": "/nu/"
-  },
-  "feature": {
-   "def": "功能",
-   "ipa": "/ˈfi.tʃər/"
-  },
-  "finds": {
-   "def": "发现",
-   "ipa": "/faɪndz/"
-  },
-  "request": {
-   "def": "请求",
-   "ipa": "/rɪˈkwest/"
-  },
-  "upset": {
-   "def": "不高兴的",
-   "ipa": "/ʌpˈset/"
-  },
-  "team": {
-   "def": "团队",
-   "ipa": "/tim/"
-  },
-  "pull": {
-   "def": "拉;拉取",
-   "ipa": "/pʊl/"
-  },
-  "looks": {
-   "def": "看起来",
-   "ipa": "/lʊks/"
-  },
-  "says": {
-   "def": "说",
-   "ipa": "/sez/"
-  },
-  "users": {
-   "def": "用户们",
-   "ipa": "/ˈju.zərz/"
-  },
-  "maria's": {
-   "lemma": "maria"
-  },
-  "checks": {
-   "def": "检查",
-   "ipa": "/tʃeks/"
-  },
-  "push": {
-   "def": "推送",
-   "ipa": "/pʊʃ/"
-  },
-  "learn": {
-   "def": "学习",
-   "ipa": "/lɝn/"
-  },
-  "task": {
-   "def": "任务",
-   "ipa": "/tæsk/"
-  },
-  "one": {
-   "def": "一个",
-   "ipa": "/wʌn/"
-  },
   "program": {
-   "def": "程序",
-   "ipa": "/ˈproʊ.ɡræm/"
+   "def": "程序，让电脑执行任务的一组指令"
   },
-  "short": {
-   "def": "短的",
-   "ipa": "/ʃɔrt/"
+  "command": {
+   "def": "命令，告诉电脑立即执行某个操作的文字"
   },
-  "open": {
-   "def": "打开;开启",
-   "ipa": "/ˈoʊ.pən/"
+  "output": {
+   "def": "输出，程序处理后给出的结果"
   },
-  "faster": {
-   "def": "更快的",
-   "ipa": "/ˈfæs.tər/"
-  },
-  "call": {
-   "def": "称呼;打电话",
-   "ipa": "/kɔl/"
-  },
-  "happy": {
-   "def": "开心的",
-   "ipa": "/ˈhæp.i/"
-  },
-  "check": {
-   "def": "检查",
-   "ipa": "/tʃek/"
+  "commit": {
+   "def": "提交，保存一组有意义的代码变化"
   }
  }
 }

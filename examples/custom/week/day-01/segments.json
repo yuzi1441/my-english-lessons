@@ -1,23 +1,23 @@
 {
  "meta": {
-  "title": "Lesson 1: My First Standup",
-  "title_zh": "第 1 课：我的第一次站会",
-  "source": "Week 1 - Day 1",
+  "title": "Day 1: Vocabulary Speaking Lab",
+  "title_zh": "第 1 天：当天词汇口语实验室",
+  "source": "Vocabulary Month · Day 1",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 164,
-   "segment_count": 3,
-   "difficulty": "入门",
+   "word_count": 445,
+   "segment_count": 6,
+   "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
-   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
    "value_points": [
-    "开会",
-    "上班第一天",
-    "每日一次英文小练习"
+    "当天 18 个词汇全部进入口语正文",
+    "电脑硬件与设备 × 问候和自我介绍 × 仓库与 README",
+    "30 秒个人化输出"
    ],
-   "suggested_pace": "先逐句听读一遍 · 再看中文讲解 · 最后完成英文小练习"
+   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
   }
  },
  "voice": {
@@ -29,339 +29,218 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "My name is Alex. Today is Monday, my first day at a new job. I am a new engineer. My team makes a chat program. In the morning, we have a short meeting. We call it a standup. Everyone stands and talks. I am a little nervous. It is my first time at a standup.",
-   "tts": "My name is Alex. Today is Monday, my first day at a new job. I am a new engineer. My team makes a chat program. In the morning, we have a short meeting. We call it a standup. Everyone stands and talks. I am a little nervous. It is my first time at a standup.",
-   "zh": "我叫 Alex。今天是周一，新工作的第一天。我是新来的工程师，团队在做一个聊天程序。早上我们开个短会，叫站会。大家都站着说话。我有点紧张，这是我第一次参加站会。讲解：engineer=工程师，nervous=紧张的，first time=第一次。句形 my first day at a new job=新工作的第一天，have a meeting=开会。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 电脑硬件与设备 with a teammate. I use hardware to talk about 硬件，电脑中可以实际触摸到的部件. I use device to talk about 设备，用来完成某项工作的电子工具. I use monitor to talk about 显示器，用来显示电脑画面. I tell my teammate: Today I use hardware, device, and monitor. At the end, I say: I can use hardware clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 电脑硬件与设备 with a teammate. I use hardware to talk about 硬件，电脑中可以实际触摸到的部件. I use device to talk about 设备，用来完成某项工作的电子工具. I use monitor to talk about 显示器，用来显示电脑画面. I tell my teammate: Today I use hardware, device, and monitor. At the end, I say: I can use hardware clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“电脑硬件与设备”。先听英文，再尝试不看中文复述。hardware：硬件，电脑中可以实际触摸到的部件。示例：I learned how to use \"hardware\" in a computer task.device：设备，用来完成某项工作的电子工具。示例：I learned how to use \"device\" in a computer task.monitor：显示器，用来显示电脑画面。示例：I learned how to use \"monitor\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "alex",
-     "type": "word",
-     "def": "人名;Alex"
+     "w": "hardware",
+     "type": "term",
+     "def": "硬件，电脑中可以实际触摸到的部件"
     },
     {
-     "w": "around",
-     "type": "word",
-     "def": "周围;四处"
+     "w": "device",
+     "type": "term",
+     "def": "设备，用来完成某项工作的电子工具"
     },
     {
-     "w": "ask",
-     "type": "word",
-     "def": "问"
-    },
-    {
-     "w": "asks",
-     "type": "word",
-     "def": "请求;问"
-    },
-    {
-     "w": "better",
-     "type": "word",
-     "def": "更好的"
+     "w": "monitor",
+     "type": "term",
+     "def": "显示器，用来显示电脑画面"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "The team leader starts. He says hello and asks everyone to say one thing. I say: I am Alex, and I will learn the chat program today. My teammate Maria is kind. She says: welcome, Alex. She shows me where the code lives. I feel better now. The team is friendly.",
-   "tts": "The team leader starts. He says hello and asks everyone to say one thing. I say: I am Alex, and I will learn the chat program today. My teammate Maria is kind. She says: welcome, Alex. She shows me where the code lives. I feel better now. The team is friendly.",
-   "zh": "组长先开口，问大家好，然后让每个人说一件事。我说：我叫 Alex，今天要学习聊天程序。队友 Maria 很友善，她说：欢迎你，Alex。她带我看代码放在哪里。我现在感觉好多了，团队很友好。讲解：leader=组长/领导，kind=友善的，welcome=欢迎，friendly=友好的。句形 say one thing=说一件事，show me where X lives=带我看 X 在哪。",
-   "hard": []
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 电脑硬件与设备 with a teammate. I use keyboard to talk about 键盘，用来输入文字和命令. I use mouse to talk about 鼠标，用来移动光标和点击. I use power button to talk about 电源按钮，用来开机或关机. I tell my teammate: Today I use keyboard, mouse, and power button. At the end, I say: I can use keyboard clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 电脑硬件与设备 with a teammate. I use keyboard to talk about 键盘，用来输入文字和命令. I use mouse to talk about 鼠标，用来移动光标和点击. I use power button to talk about 电源按钮，用来开机或关机. I tell my teammate: Today I use keyboard, mouse, and power button. At the end, I say: I can use keyboard clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“电脑硬件与设备”。先听英文，再尝试不看中文复述。keyboard：键盘，用来输入文字和命令。示例：I learned how to use \"keyboard\" in a computer task.mouse：鼠标，用来移动光标和点击。示例：I learned how to use \"mouse\" in a computer task.power button：电源按钮，用来开机或关机。示例：I learned how to use \"power button\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "keyboard",
+     "type": "term",
+     "def": "键盘，用来输入文字和命令"
+    },
+    {
+     "w": "mouse",
+     "type": "term",
+     "def": "鼠标，用来移动光标和点击"
+    },
+    {
+     "w": "power button",
+     "type": "idiom",
+     "def": "电源按钮，用来开机或关机"
+    }
+   ]
   },
   {
    "id": "seg-03",
-   "en": "After the standup, I get my first task. My task is small: fix a small bug in the chat program. A bug is a small problem in the code. Maria tells me: take your time, ask questions. I open the code and look around. I find the problem. It is a small one. I can fix it today.",
-   "tts": "After the standup, I get my first task. My task is small: fix a small bug in the chat program. A bug is a small problem in the code. Maria tells me: take your time, ask questions. I open the code and look around. I find the problem. It is a small one. I can fix it today.",
-   "zh": "站会后我接到第一个任务，任务很小：修复聊天程序里的一个小 bug。bug 就是代码里的小问题。Maria 说：慢慢来，有问题就问。我打开代码四处看看，找到了问题，是个小问题，今天就能修好。讲解：task=任务，take your time=慢慢来/别着急，look around=四处看看，fix=修复。句形 get my first task=接到第一个任务，find the problem=找到问题。",
-   "hard": []
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 问候和自我介绍 with a teammate. I use Nice to meet you. to talk about 很高兴认识你。. I use How are you doing? to talk about 你最近怎么样？. I use My name is ... to talk about 我的名字是……. I tell my teammate: Today I use Nice to meet you., How are you doing?, and My name is .... At the end, I say: I can use Nice to meet you. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 问候和自我介绍 with a teammate. I use Nice to meet you. to talk about 很高兴认识你。. I use How are you doing? to talk about 你最近怎么样？. I use My name is ... to talk about 我的名字是……. I tell my teammate: Today I use Nice to meet you., How are you doing?, and My name is .... At the end, I say: I can use Nice to meet you. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“问候和自我介绍”。先听英文，再尝试不看中文复述。Nice to meet you.：很高兴认识你。。示例：Nice to meet you.How are you doing?：你最近怎么样？。示例：How are you doing?My name is ...：我的名字是……。示例：My name is最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "Nice to meet you.",
+     "type": "idiom",
+     "def": "很高兴认识你。"
+    },
+    {
+     "w": "How are you doing?",
+     "type": "idiom",
+     "def": "你最近怎么样？"
+    },
+    {
+     "w": "My name is ...",
+     "type": "idiom",
+     "def": "我的名字是……"
+    }
+   ]
+  },
+  {
+   "id": "seg-04",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 问候和自我介绍 with a teammate. I use I'm new here. to talk about 我是新来的。. I use Where are you from? to talk about 你来自哪里？. I use See you later. to talk about 回头见。. I tell my teammate: Today I use I'm new here., Where are you from?, and See you later.. At the end, I say: I can use I'm new here. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 问候和自我介绍 with a teammate. I use I'm new here. to talk about 我是新来的。. I use Where are you from? to talk about 你来自哪里？. I use See you later. to talk about 回头见。. I tell my teammate: Today I use I'm new here., Where are you from?, and See you later.. At the end, I say: I can use I'm new here. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“问候和自我介绍”。先听英文，再尝试不看中文复述。I'm new here.：我是新来的。。示例：I'm new here.Where are you from?：你来自哪里？。示例：Where are you from?See you later.：回头见。。示例：See you later.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "I'm new here.",
+     "type": "idiom",
+     "def": "我是新来的。"
+    },
+    {
+     "w": "Where are you from?",
+     "type": "idiom",
+     "def": "你来自哪里？"
+    },
+    {
+     "w": "See you later.",
+     "type": "idiom",
+     "def": "回头见。"
+    }
+   ]
+  },
+  {
+   "id": "seg-05",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 仓库与 readme with a teammate. I use repository to talk about 仓库，集中存放项目代码和历史记录的地方. I use README file to talk about README 文件，介绍项目用途和使用方法的说明文件. I use source code to talk about 源代码，程序员编写的程序文本. I tell my teammate: Today I use repository, README file, and source code. At the end, I say: I can use repository clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 仓库与 readme with a teammate. I use repository to talk about 仓库，集中存放项目代码和历史记录的地方. I use README file to talk about README 文件，介绍项目用途和使用方法的说明文件. I use source code to talk about 源代码，程序员编写的程序文本. I tell my teammate: Today I use repository, README file, and source code. At the end, I say: I can use repository clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“仓库与 README”。先听英文，再尝试不看中文复述。repository：仓库，集中存放项目代码和历史记录的地方。示例：Our team uses \"repository\" to keep the project clear.README file：README 文件，介绍项目用途和使用方法的说明文件。示例：Our team uses \"read me file\" to keep the project clear.source code：源代码，程序员编写的程序文本。示例：Our team uses \"source code\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "repository",
+     "type": "term",
+     "def": "仓库，集中存放项目代码和历史记录的地方"
+    },
+    {
+     "w": "README file",
+     "type": "idiom",
+     "def": "README 文件，介绍项目用途和使用方法的说明文件"
+    },
+    {
+     "w": "source code",
+     "type": "idiom",
+     "def": "源代码，程序员编写的程序文本"
+    }
+   ]
+  },
+  {
+   "id": "seg-06",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 仓库与 readme with a teammate. I use project folder to talk about 项目文件夹，保存一个项目相关文件的目录. I use code hosting to talk about 代码托管，把代码保存在可协作的网络平台上. I use public repository to talk about 公开仓库，任何人都能查看的仓库. I tell my teammate: Today I use project folder, code hosting, and public repository. At the end, I say: I can use project folder clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 仓库与 readme with a teammate. I use project folder to talk about 项目文件夹，保存一个项目相关文件的目录. I use code hosting to talk about 代码托管，把代码保存在可协作的网络平台上. I use public repository to talk about 公开仓库，任何人都能查看的仓库. I tell my teammate: Today I use project folder, code hosting, and public repository. At the end, I say: I can use project folder clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“仓库与 README”。先听英文，再尝试不看中文复述。project folder：项目文件夹，保存一个项目相关文件的目录。示例：Our team uses \"project folder\" to keep the project clear.code hosting：代码托管，把代码保存在可协作的网络平台上。示例：Our team uses \"code hosting\" to keep the project clear.public repository：公开仓库，任何人都能查看的仓库。示例：Our team uses \"public repository\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "project folder",
+     "type": "idiom",
+     "def": "项目文件夹，保存一个项目相关文件的目录"
+    },
+    {
+     "w": "code hosting",
+     "type": "idiom",
+     "def": "代码托管，把代码保存在可协作的网络平台上"
+    },
+    {
+     "w": "public repository",
+     "type": "idiom",
+     "def": "公开仓库，任何人都能查看的仓库"
+    }
+   ]
   }
  ],
  "chunks": [
   {
-   "t": "have a meeting",
-   "cn": "开会",
-   "eg": "We have a meeting every morning."
+   "t": "hardware",
+   "cn": "硬件，电脑中可以实际触摸到的部件",
+   "eg": "I learned how to use \"hardware\" in a computer task."
   },
   {
-   "t": "first day at work",
-   "cn": "上班第一天",
-   "eg": "Today is my first day at work."
+   "t": "device",
+   "cn": "设备，用来完成某项工作的电子工具",
+   "eg": "I learned how to use \"device\" in a computer task."
   },
   {
-   "t": "take your time",
-   "cn": "慢慢来;别着急",
-   "eg": "Please take your time with the task."
+   "t": "monitor",
+   "cn": "显示器，用来显示电脑画面",
+   "eg": "I learned how to use \"monitor\" in a computer task."
   },
   {
-   "t": "look around",
-   "cn": "四处看看;熟悉一下",
-   "eg": "I look around the code first."
+   "t": "keyboard",
+   "cn": "键盘，用来输入文字和命令",
+   "eg": "I learned how to use \"keyboard\" in a computer task."
+  },
+  {
+   "t": "mouse",
+   "cn": "鼠标，用来移动光标和点击",
+   "eg": "I learned how to use \"mouse\" in a computer task."
+  },
+  {
+   "t": "power button",
+   "cn": "电源按钮，用来开机或关机",
+   "eg": "I learned how to use \"power button\" in a computer task."
   }
  ],
  "patterns": [
   {
-   "t": "My name is X.",
-   "cn": "我叫 X。例如：My name is Alex."
+   "t": "The key expression is X.",
+   "cn": "关键表达是 X。"
   },
   {
-   "t": "Today is my first day at X.",
-   "cn": "今天是我在 X 的第一天。"
+   "t": "In Chinese, it means X.",
+   "cn": "它的中文意思是 X。"
   },
   {
-   "t": "A bug is a small problem in X.",
-   "cn": "bug 就是 X 里的小问题。"
-  },
-  {
-   "t": "I find the problem.",
-   "cn": "我找到了问题。"
+   "t": "I can use X clearly today.",
+   "cn": "我今天能清楚地使用 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Write 3 short sentences in English: say your name, what you did today, and what you will do tomorrow. Try to use have a meeting, take your time, and look around.",
+   "task": "Use any three Day 1 vocabulary items. Say what you did, what problem you had, and what you will do next.",
    "hint_chunks": [
-    "have a meeting",
-    "take your time",
-    "look around"
+    "hardware",
+    "device",
+    "monitor"
    ]
   }
  ],
  "lexicon": {
-  "hello": {
-   "def": "你好",
-   "ipa": "/həˈloʊ/"
+  "hardware": {
+   "def": "硬件，电脑中可以实际触摸到的部件"
   },
-  "day": {
-   "def": "一天",
-   "ipa": "/deɪ/"
+  "device": {
+   "def": "设备，用来完成某项工作的电子工具"
   },
-  "leader": {
-   "def": "组长;领导",
-   "ipa": "/ˈli.dər/"
+  "monitor": {
+   "def": "显示器，用来显示电脑画面"
   },
-  "get": {
-   "def": "得到;变得",
-   "ipa": "/ɡet/"
+  "keyboard": {
+   "def": "键盘，用来输入文字和命令"
   },
-  "lives": {
-   "def": "存在;住",
-   "ipa": "/lɪvz/"
+  "mouse": {
+   "def": "鼠标，用来移动光标和点击"
   },
-  "name": {
-   "def": "名字",
-   "ipa": "/neɪm/"
-  },
-  "everyone": {
-   "def": "每个人",
-   "ipa": "/ˈev.ri.wʌn/"
-  },
-  "better": {
-   "def": "更好的",
-   "ipa": "/ˈbet.ər/"
-  },
-  "little": {
-   "def": "一点",
-   "ipa": "/ˈlɪt.əl/"
-  },
-  "now": {
-   "def": "现在",
-   "ipa": "/naʊ/"
-  },
-  "around": {
-   "def": "周围;四处",
-   "ipa": "/əˈraʊnd/"
-  },
-  "kind": {
-   "def": "友善的",
-   "ipa": "/kaɪnd/"
-  },
-  "maria": {
-   "def": "人名;Maria",
-   "ipa": "/məˈri.ə/"
-  },
-  "nervous": {
-   "def": "紧张的",
-   "ipa": "/ˈnɝ.vəs/"
-  },
-  "job": {
-   "def": "工作",
-   "ipa": "/dʒɑb/"
-  },
-  "asks": {
-   "def": "请求;问",
-   "ipa": "/æsks/"
-  },
-  "chat": {
-   "def": "聊天",
-   "ipa": "/tʃæt/"
-  },
-  "engineer": {
-   "def": "工程师",
-   "ipa": "/ˌen.dʒɪˈnɪr/"
-  },
-  "tells": {
-   "def": "告诉",
-   "ipa": "/telz/"
-  },
-  "fix": {
-   "def": "修复",
-   "ipa": "/fɪks/"
-  },
-  "welcome": {
-   "def": "欢迎",
-   "ipa": "/ˈwel.kəm/"
-  },
-  "feel": {
-   "def": "感觉",
-   "ipa": "/fil/"
-  },
-  "take": {
-   "def": "拿;花费",
-   "ipa": "/teɪk/"
-  },
-  "first": {
-   "def": "第一个;初次",
-   "ipa": "/fɝst/"
-  },
-  "talks": {
-   "def": "交谈",
-   "ipa": "/tɔks/"
-  },
-  "shows": {
-   "def": "展示",
-   "ipa": "/ʃoʊz/"
-  },
-  "today": {
-   "def": "今天",
-   "ipa": "/təˈdeɪ/"
-  },
-  "say": {
-   "def": "说",
-   "ipa": "/seɪ/"
-  },
-  "teammate": {
-   "def": "队友",
-   "ipa": "/ˈtim.meɪt/"
-  },
-  "problem": {
-   "def": "问题",
-   "ipa": "/ˈprɑ.bləm/"
-  },
-  "bug": {
-   "def": "缺陷;小问题",
-   "ipa": "/bʌɡ/"
-  },
-  "monday": {
-   "def": "星期一",
-   "ipa": "/ˈmʌn.deɪ/"
-  },
-  "look": {
-   "def": "看",
-   "ipa": "/lʊk/"
-  },
-  "makes": {
-   "def": "做;使",
-   "ipa": "/meɪks/"
-  },
-  "stands": {
-   "def": "站立",
-   "ipa": "/stændz/"
-  },
-  "code": {
-   "def": "代码",
-   "ipa": "/koʊd/"
-  },
-  "starts": {
-   "def": "开始",
-   "ipa": "/stɑrts/"
-  },
-  "thing": {
-   "def": "事情",
-   "ipa": "/θɪŋ/"
-  },
-  "meeting": {
-   "def": "会议",
-   "ipa": "/ˈmi.tɪŋ/"
-  },
-  "new": {
-   "def": "新的",
-   "ipa": "/nu/"
-  },
-  "team": {
-   "def": "团队",
-   "ipa": "/tim/"
-  },
-  "says": {
-   "def": "说",
-   "ipa": "/sez/"
-  },
-  "time": {
-   "def": "时间;次",
-   "ipa": "/taɪm/"
-  },
-  "learn": {
-   "def": "学习",
-   "ipa": "/lɝn/"
-  },
-  "friendly": {
-   "def": "友好的",
-   "ipa": "/ˈfrend.li/"
-  },
-  "find": {
-   "def": "找到;发现",
-   "ipa": "/faɪnd/"
-  },
-  "morning": {
-   "def": "早晨",
-   "ipa": "/ˈmɔr.nɪŋ/"
-  },
-  "task": {
-   "def": "任务",
-   "ipa": "/tæsk/"
-  },
-  "where": {
-   "def": "哪里",
-   "ipa": "/wer/"
-  },
-  "one": {
-   "def": "一个",
-   "ipa": "/wʌn/"
-  },
-  "questions": {
-   "def": "问题们",
-   "ipa": "/ˈkwes.tʃənz/"
-  },
-  "standup": {
-   "def": "站会",
-   "ipa": "/ˈstænd.ʌp/"
-  },
-  "program": {
-   "def": "程序",
-   "ipa": "/ˈproʊ.ɡræm/"
-  },
-  "short": {
-   "def": "短的",
-   "ipa": "/ʃɔrt/"
-  },
-  "open": {
-   "def": "打开;开启",
-   "ipa": "/ˈoʊ.pən/"
-  },
-  "alex": {
-   "def": "人名;Alex",
-   "ipa": "/ˈæl.ɪks/"
-  },
-  "call": {
-   "def": "称呼;打电话",
-   "ipa": "/kɔl/"
-  },
-  "ask": {
-   "def": "问",
-   "ipa": "/æsk/"
-  },
-  "small": {
-   "def": "小的",
-   "ipa": "/smɔl/"
+  "repository": {
+   "def": "仓库，集中存放项目代码和历史记录的地方"
   }
  }
 }

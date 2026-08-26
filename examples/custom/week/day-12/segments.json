@@ -1,23 +1,23 @@
 {
  "meta": {
-  "title": "Lesson 12: Read a JSON File",
-  "title_zh": "第 12 课：读取 JSON 文件",
-  "source": "Month 1 · Week 2 · Day 12",
+  "title": "Day 12: Vocabulary Speaking Lab",
+  "title_zh": "第 12 天：当天词汇口语实验室",
+  "source": "Vocabulary Month · Day 12",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 117,
-   "segment_count": 3,
-   "difficulty": "入门进阶",
+   "word_count": 465,
+   "segment_count": 6,
+   "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
-   "main_practice": "跟读 + 精读 + 中文讲解对照",
+   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
    "value_points": [
-    "文本格式",
-    "把文本变成结构",
-    "每日一次英文小练习"
+    "当天 18 个词汇全部进入口语正文",
+    "DNS、域名与 URL × 酒店与旅行 × 标签与里程碑",
+    "30 秒个人化输出"
    ],
-   "suggested_pace": "先猜大意 · 再听读 · 最后完成英文输出"
+   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
   }
  },
  "voice": {
@@ -29,148 +29,215 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "My data is in a JSON file. JSON is a simple text format. It stores names and values with clear labels. I open the file and read it with Python. The program turns the text into a structure I can use.",
-   "tts": "My data is in a JSON file. JSON is a simple text format. It stores names and values with clear labels. I open the file and read it with Python. The program turns the text into a structure I can use.",
-   "zh": "我的数据在一个 JSON 文件里。JSON 是一种简单的文本格式，用清楚的标签保存名字和值。我打开文件并用 Python 读取它，程序把文本变成我可以使用的结构。讲解：format=格式，label=标签，store=保存，turn into=变成。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about dns、域名与 url with a teammate. I use DNS to talk about 域名系统，把容易记的域名转换成网络地址. I use domain name to talk about 域名，网站便于记忆的名称. I use web address to talk about 网页地址，用来定位网络页面的地址. I tell my teammate: Today I use DNS, domain name, and web address. At the end, I say: I can use DNS clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about dns、域名与 url with a teammate. I use DNS to talk about 域名系统，把容易记的域名转换成网络地址. I use domain name to talk about 域名，网站便于记忆的名称. I use web address to talk about 网页地址，用来定位网络页面的地址. I tell my teammate: Today I use DNS, domain name, and web address. At the end, I say: I can use DNS clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“DNS、域名与 URL”。先听英文，再尝试不看中文复述。DNS：域名系统，把容易记的域名转换成网络地址。示例：I learned how to use \"D N S\" in a computer task.domain name：域名，网站便于记忆的名称。示例：I learned how to use \"domain name\" in a computer task.web address：网页地址，用来定位网络页面的地址。示例：I learned how to use \"web address\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "format",
+     "w": "DNS",
      "type": "term",
-     "def": "格式"
+     "def": "域名系统，把容易记的域名转换成网络地址"
     },
     {
-     "w": "label",
-     "type": "word",
-     "def": "标签"
+     "w": "domain name",
+     "type": "idiom",
+     "def": "域名，网站便于记忆的名称"
     },
     {
-     "w": "store",
-     "type": "word",
-     "def": "保存"
+     "w": "web address",
+     "type": "idiom",
+     "def": "网页地址，用来定位网络页面的地址"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "The file has a list of prices. I ask Python for the price of one company. If the name exists, I get a number. If it does not exist, I get nothing. I check the name before I use the result.",
-   "tts": "The file has a list of prices. I ask Python for the price of one company. If the name exists, I get a number. If it does not exist, I get nothing. I check the name before I use the result.",
-   "zh": "文件里有一个价格列表。我向 Python 请求某家公司的价格。如果名字存在，我会得到一个数字；如果不存在，就什么也得不到。我在使用结果前先检查名字。讲解：exist=存在，result=结果，nothing=什么也没有。",
+   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about dns、域名与 url with a teammate. I use URL to talk about 统一资源定位符，网络资源的完整地址. I use subdomain to talk about 子域名，位于主域名前的分级名称. I use resolve a domain to talk about 解析域名，把域名转换为 IP 地址. I tell my teammate: Today I use URL, subdomain, and resolve a domain. At the end, I say: I can use URL clearly today.",
+   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about dns、域名与 url with a teammate. I use URL to talk about 统一资源定位符，网络资源的完整地址. I use subdomain to talk about 子域名，位于主域名前的分级名称. I use resolve a domain to talk about 解析域名，把域名转换为 IP 地址. I tell my teammate: Today I use URL, subdomain, and resolve a domain. At the end, I say: I can use URL clearly today.",
+   "zh": "今天口语练习围绕“计算机英语”，场景是“DNS、域名与 URL”。先听英文，再尝试不看中文复述。URL：统一资源定位符，网络资源的完整地址。示例：I learned how to use \"U R L\" in a computer task.subdomain：子域名，位于主域名前的分级名称。示例：I learned how to use \"subdomain\" in a computer task.resolve a domain：解析域名，把域名转换为 IP 地址。示例：I learned how to use \"resolve a domain\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "exist",
-     "type": "word",
-     "def": "存在"
+     "w": "URL",
+     "type": "term",
+     "def": "统一资源定位符，网络资源的完整地址"
     },
     {
-     "w": "result",
-     "type": "word",
-     "def": "结果"
+     "w": "subdomain",
+     "type": "term",
+     "def": "子域名，位于主域名前的分级名称"
     },
     {
-     "w": "nothing",
-     "type": "word",
-     "def": "什么也没有"
+     "w": "resolve a domain",
+     "type": "idiom",
+     "def": "解析域名，把域名转换为 IP 地址"
     }
    ]
   },
   {
    "id": "seg-03",
-   "en": "I save a clean copy after reading the file. I keep the original file safe. This small habit protects my work. When the program changes, I can compare the new data with the old data.",
-   "tts": "I save a clean copy after reading the file. I keep the original file safe. This small habit protects my work. When the program changes, I can compare the new data with the old data.",
-   "zh": "读完文件后，我保存一份干净的副本，并把原始文件保护好。这个小习惯能保护我的工作。当程序发生变化时，我可以把新数据和旧数据进行比较。讲解：copy=副本，protect=保护，compare=比较，habit=习惯。",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 酒店与旅行 with a teammate. I use I'd like to check in. to talk about 我想办理入住。. I use I have a reservation. to talk about 我有预订。. I use Is breakfast included? to talk about 包含早餐吗？. I tell my teammate: Today I use I'd like to check in., I have a reservation., and Is breakfast included?. At the end, I say: I can use I'd like to check in. clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 酒店与旅行 with a teammate. I use I'd like to check in. to talk about 我想办理入住。. I use I have a reservation. to talk about 我有预订。. I use Is breakfast included? to talk about 包含早餐吗？. I tell my teammate: Today I use I'd like to check in., I have a reservation., and Is breakfast included?. At the end, I say: I can use I'd like to check in. clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“酒店与旅行”。先听英文，再尝试不看中文复述。I'd like to check in.：我想办理入住。。示例：I'd like to check in.I have a reservation.：我有预订。。示例：I have a reservation.Is breakfast included?：包含早餐吗？。示例：Is breakfast included?最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
-     "w": "protect",
-     "type": "word",
-     "def": "保护"
+     "w": "I'd like to check in.",
+     "type": "idiom",
+     "def": "我想办理入住。"
     },
     {
-     "w": "compare",
-     "type": "word",
-     "def": "比较"
+     "w": "I have a reservation.",
+     "type": "idiom",
+     "def": "我有预订。"
     },
     {
-     "w": "habit",
-     "type": "word",
-     "def": "习惯"
+     "w": "Is breakfast included?",
+     "type": "idiom",
+     "def": "包含早餐吗？"
+    }
+   ]
+  },
+  {
+   "id": "seg-04",
+   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 酒店与旅行 with a teammate. I use What time is checkout? to talk about 几点退房？. I use Could I get another towel? to talk about 可以再给我一条毛巾吗？. I use Can you store my luggage? to talk about 你们能寄存我的行李吗？. I tell my teammate: Today I use What time is checkout?, Could I get another towel?, and Can you store my luggage?. At the end, I say: I can use What time is checkout? clearly today.",
+   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 酒店与旅行 with a teammate. I use What time is checkout? to talk about 几点退房？. I use Could I get another towel? to talk about 可以再给我一条毛巾吗？. I use Can you store my luggage? to talk about 你们能寄存我的行李吗？. I tell my teammate: Today I use What time is checkout?, Could I get another towel?, and Can you store my luggage?. At the end, I say: I can use What time is checkout? clearly today.",
+   "zh": "今天口语练习围绕“日常交流英语”，场景是“酒店与旅行”。先听英文，再尝试不看中文复述。What time is checkout?：几点退房？。示例：What time is checkout?Could I get another towel?：可以再给我一条毛巾吗？。示例：Could I get another towel?Can you store my luggage?：你们能寄存我的行李吗？。示例：Can you store my luggage?最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "What time is checkout?",
+     "type": "idiom",
+     "def": "几点退房？"
+    },
+    {
+     "w": "Could I get another towel?",
+     "type": "idiom",
+     "def": "可以再给我一条毛巾吗？"
+    },
+    {
+     "w": "Can you store my luggage?",
+     "type": "idiom",
+     "def": "你们能寄存我的行李吗？"
+    }
+   ]
+  },
+  {
+   "id": "seg-05",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 标签与里程碑 with a teammate. I use label to talk about 标签，用来分类问题单和拉取请求. I use milestone to talk about 里程碑，把一组事项归入同一个阶段目标. I use add a label to talk about 添加标签，为事项增加分类. I tell my teammate: Today I use label, milestone, and add a label. At the end, I say: I can use label clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 标签与里程碑 with a teammate. I use label to talk about 标签，用来分类问题单和拉取请求. I use milestone to talk about 里程碑，把一组事项归入同一个阶段目标. I use add a label to talk about 添加标签，为事项增加分类. I tell my teammate: Today I use label, milestone, and add a label. At the end, I say: I can use label clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“标签与里程碑”。先听英文，再尝试不看中文复述。label：标签，用来分类问题单和拉取请求。示例：Our team uses \"label\" to keep the project clear.milestone：里程碑，把一组事项归入同一个阶段目标。示例：Our team uses \"milestone\" to keep the project clear.add a label：添加标签，为事项增加分类。示例：Our team uses \"add a label\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "label",
+     "type": "term",
+     "def": "标签，用来分类问题单和拉取请求"
+    },
+    {
+     "w": "milestone",
+     "type": "term",
+     "def": "里程碑，把一组事项归入同一个阶段目标"
+    },
+    {
+     "w": "add a label",
+     "type": "idiom",
+     "def": "添加标签，为事项增加分类"
+    }
+   ]
+  },
+  {
+   "id": "seg-06",
+   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 标签与里程碑 with a teammate. I use remove a label to talk about 移除标签，取消已有分类. I use due date to talk about 截止日期，计划完成事项的日期. I use project board to talk about 项目看板，用卡片追踪工作状态的页面. I tell my teammate: Today I use remove a label, due date, and project board. At the end, I say: I can use remove a label clearly today.",
+   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 标签与里程碑 with a teammate. I use remove a label to talk about 移除标签，取消已有分类. I use due date to talk about 截止日期，计划完成事项的日期. I use project board to talk about 项目看板，用卡片追踪工作状态的页面. I tell my teammate: Today I use remove a label, due date, and project board. At the end, I say: I can use remove a label clearly today.",
+   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“标签与里程碑”。先听英文，再尝试不看中文复述。remove a label：移除标签，取消已有分类。示例：Our team uses \"remove a label\" to keep the project clear.due date：截止日期，计划完成事项的日期。示例：Our team uses \"due date\" to keep the project clear.project board：项目看板，用卡片追踪工作状态的页面。示例：Our team uses \"project board\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
+   "hard": [
+    {
+     "w": "remove a label",
+     "type": "idiom",
+     "def": "移除标签，取消已有分类"
+    },
+    {
+     "w": "due date",
+     "type": "idiom",
+     "def": "截止日期，计划完成事项的日期"
+    },
+    {
+     "w": "project board",
+     "type": "idiom",
+     "def": "项目看板，用卡片追踪工作状态的页面"
     }
    ]
   }
  ],
  "chunks": [
   {
-   "t": "a text format",
-   "cn": "文本格式",
-   "eg": "JSON is a simple text format."
+   "t": "DNS",
+   "cn": "域名系统，把容易记的域名转换成网络地址",
+   "eg": "I learned how to use \"D N S\" in a computer task."
   },
   {
-   "t": "turn text into a structure",
-   "cn": "把文本变成结构",
-   "eg": "Python turns text into a structure."
+   "t": "domain name",
+   "cn": "域名，网站便于记忆的名称",
+   "eg": "I learned how to use \"domain name\" in a computer task."
   },
   {
-   "t": "if the name exists",
-   "cn": "如果名字存在",
-   "eg": "I get a price if the name exists."
+   "t": "web address",
+   "cn": "网页地址，用来定位网络页面的地址",
+   "eg": "I learned how to use \"web address\" in a computer task."
   },
   {
-   "t": "keep the original safe",
-   "cn": "保护原始文件",
-   "eg": "Keep the original file safe."
+   "t": "URL",
+   "cn": "统一资源定位符，网络资源的完整地址",
+   "eg": "I learned how to use \"U R L\" in a computer task."
+  },
+  {
+   "t": "subdomain",
+   "cn": "子域名，位于主域名前的分级名称",
+   "eg": "I learned how to use \"subdomain\" in a computer task."
+  },
+  {
+   "t": "resolve a domain",
+   "cn": "解析域名，把域名转换为 IP 地址",
+   "eg": "I learned how to use \"resolve a domain\" in a computer task."
   }
  ],
  "patterns": [
   {
-   "t": "It stores X with Y.",
-   "cn": "它用 Y 保存 X。"
+   "t": "The key expression is X.",
+   "cn": "关键表达是 X。"
   },
   {
-   "t": "If X exists, I get Y.",
-   "cn": "如果 X 存在，我得到 Y。"
+   "t": "In Chinese, it means X.",
+   "cn": "它的中文意思是 X。"
   },
   {
-   "t": "I can compare X with Y.",
-   "cn": "我可以比较 X 和 Y。"
+   "t": "I can use X clearly today.",
+   "cn": "我今天能清楚地使用 X。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "design_note",
-   "task": "Write a short data note about reading JSON. Use a text format, if the name exists, and keep the original safe.",
+   "genre": "standup_update",
+   "task": "Use any three Day 12 vocabulary items. Say what you did, what problem you had, and what you will do next.",
    "hint_chunks": [
-    "a text format",
-    "turn text into a structure",
-    "if the name exists"
+    "DNS",
+    "domain name",
+    "web address"
    ]
   }
  ],
  "lexicon": {
-  "format": {
-   "def": "格式"
+  "dns": {
+   "def": "域名系统，把容易记的域名转换成网络地址"
+  },
+  "url": {
+   "def": "统一资源定位符，网络资源的完整地址"
+  },
+  "subdomain": {
+   "def": "子域名，位于主域名前的分级名称"
   },
   "label": {
-   "def": "标签"
+   "def": "标签，用来分类问题单和拉取请求"
   },
-  "store": {
-   "def": "保存"
-  },
-  "exist": {
-   "def": "存在"
-  },
-  "result": {
-   "def": "结果"
-  },
-  "nothing": {
-   "def": "什么也没有"
-  },
-  "protect": {
-   "def": "保护"
-  },
-  "compare": {
-   "def": "比较"
-  },
-  "habit": {
-   "def": "习惯"
+  "milestone": {
+   "def": "里程碑，把一组事项归入同一个阶段目标"
   }
  }
 }
