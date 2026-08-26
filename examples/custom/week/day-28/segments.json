@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 28: Vocabulary Speaking Lab",
-  "title_zh": "第 28 天：当天词汇口语实验室",
+  "title": "Day 28: Alex's 专业场景",
+  "title_zh": "第 28 天：Alex 的专业场景",
   "source": "Vocabulary Month · Day 28",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 475,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 281,
+   "segment_count": 3,
+   "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "开源软件与许可证 × 社区礼仪 × 开源贡献规范",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"open source\" when I talk about my computer project. I say \"software license\" when I talk about my computer project. I say \"contributor\" when I talk about my computer project. I tell my teammate: Today I use open source, software license, and contributor. At the end, I say: I can use open source clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"open source\" when I talk about my computer project. I say \"software license\" when I talk about my computer project. I say \"contributor\" when I talk about my computer project. I tell my teammate: Today I use open source, software license, and contributor. At the end, I say: I can use open source clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“开源软件与许可证”。先听英文，再尝试不看中文复述。open source：开源，允许他人查看并按许可证使用源代码。示例：I learned how to use \"open source\" in a computer task.software license：软件许可证，规定软件可以如何使用和分发。示例：I learned how to use \"software license\" in a computer task.contributor：贡献者，为项目提供代码或其他帮助的人。示例：I learned how to use \"contributor\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"open source\" and \"software license\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Thanks for sharing.\" and \"Could you explain your idea?\" to clarify the goal, timing, and next step. Finally, Alex documents \"CONTRIBUTING guide\" and \"CODEOWNERS file\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"open source\" and \"software license\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Thanks for sharing.\" and \"Could you explain your idea?\" to clarify the goal, timing, and next step. Finally, Alex documents \"CONTRIBUTING guide\" and \"CODEOWNERS file\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 28 天 · 专业场景。今天把“开源软件与许可证、社区礼仪、开源贡献规范”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：open source, software license, Thanks for sharing., Could you explain your idea?, CONTRIBUTING guide, CODEOWNERS file。",
    "hard": [
     {
      "w": "open source",
@@ -44,42 +45,6 @@
      "def": "软件许可证，规定软件可以如何使用和分发"
     },
     {
-     "w": "contributor",
-     "type": "term",
-     "def": "贡献者，为项目提供代码或其他帮助的人"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"contribution\" when I talk about my computer project. I say \"maintainership\" when I talk about my computer project. I say \"community guideline\" when I talk about my computer project. I tell my teammate: Today I use contribution, maintainership, and community guideline. At the end, I say: I can use contribution clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"contribution\" when I talk about my computer project. I say \"maintainership\" when I talk about my computer project. I say \"community guideline\" when I talk about my computer project. I tell my teammate: Today I use contribution, maintainership, and community guideline. At the end, I say: I can use contribution clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“开源软件与许可证”。先听英文，再尝试不看中文复述。contribution：贡献，提交给项目的代码、文档或建议。示例：I learned how to use \"contribution\" in a computer task.maintainership：维护职责，长期管理项目方向和质量的责任。示例：I learned how to use \"maintainership\" in a computer task.community guideline：社区准则，规定参与者应遵守的行为方式。示例：I learned how to use \"community guideline\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "contribution",
-     "type": "term",
-     "def": "贡献，提交给项目的代码、文档或建议"
-    },
-    {
-     "w": "maintainership",
-     "type": "term",
-     "def": "维护职责，长期管理项目方向和质量的责任"
-    },
-    {
-     "w": "community guideline",
-     "type": "idiom",
-     "def": "社区准则，规定参与者应遵守的行为方式"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Thanks for sharing.\" in a daily conversation. I say \"Could you explain your idea?\" in a daily conversation. I say \"Please be respectful.\" in a daily conversation. I tell my teammate: Today I use Thanks for sharing., Could you explain your idea?, and Please be respectful.. At the end, I say: I can use Thanks for sharing. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Thanks for sharing.\" in a daily conversation. I say \"Could you explain your idea?\" in a daily conversation. I say \"Please be respectful.\" in a daily conversation. I tell my teammate: Today I use Thanks for sharing., Could you explain your idea?, and Please be respectful.. At the end, I say: I can use Thanks for sharing. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“社区礼仪”。先听英文，再尝试不看中文复述。Thanks for sharing.：谢谢你的分享。。示例：Thanks for sharing.Could you explain your idea?：你可以解释一下你的想法吗？。示例：Could you explain your idea?Please be respectful.：请保持尊重。。示例：Please be respectful.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "Thanks for sharing.",
      "type": "idiom",
      "def": "谢谢你的分享。"
@@ -90,22 +55,72 @@
      "def": "你可以解释一下你的想法吗？"
     },
     {
-     "w": "Please be respectful.",
+     "w": "CONTRIBUTING guide",
      "type": "idiom",
-     "def": "请保持尊重。"
+     "def": "贡献指南，说明如何参与项目的文件"
+    },
+    {
+     "w": "CODEOWNERS file",
+     "type": "idiom",
+     "def": "代码所有者文件，指定目录或文件的评审负责人"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I appreciate your feedback.\" in a daily conversation. I say \"Let's keep the discussion focused.\" in a daily conversation. I say \"Everyone is welcome here.\" in a daily conversation. I tell my teammate: Today I use I appreciate your feedback., Let's keep the discussion focused., and Everyone is welcome here.. At the end, I say: I can use I appreciate your feedback. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I appreciate your feedback.\" in a daily conversation. I say \"Let's keep the discussion focused.\" in a daily conversation. I say \"Everyone is welcome here.\" in a daily conversation. I tell my teammate: Today I use I appreciate your feedback., Let's keep the discussion focused., and Everyone is welcome here.. At the end, I say: I can use I appreciate your feedback. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“社区礼仪”。先听英文，再尝试不看中文复述。I appreciate your feedback.：感谢你的反馈。。示例：I appreciate your feedback.Let's keep the discussion focused.：让我们让讨论保持聚焦。。示例：Let's keep the discussion focused.Everyone is welcome here.：这里欢迎每个人。。示例：Everyone is welcome here.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"contributor\" and \"contribution\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Please be respectful.\" and \"I appreciate your feedback.\" to clarify the goal, timing, and next step. Finally, Alex documents \"contribution guideline\" and \"pull request template\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"contributor\" and \"contribution\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Please be respectful.\" and \"I appreciate your feedback.\" to clarify the goal, timing, and next step. Finally, Alex documents \"contribution guideline\" and \"pull request template\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 28 天 · 专业场景。今天把“开源软件与许可证、社区礼仪、开源贡献规范”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：contributor, contribution, Please be respectful., I appreciate your feedback., contribution guideline, pull request template。",
    "hard": [
+    {
+     "w": "contributor",
+     "type": "term",
+     "def": "贡献者，为项目提供代码或其他帮助的人"
+    },
+    {
+     "w": "contribution",
+     "type": "term",
+     "def": "贡献，提交给项目的代码、文档或建议"
+    },
+    {
+     "w": "Please be respectful.",
+     "type": "idiom",
+     "def": "请保持尊重。"
+    },
     {
      "w": "I appreciate your feedback.",
      "type": "idiom",
      "def": "感谢你的反馈。"
+    },
+    {
+     "w": "contribution guideline",
+     "type": "idiom",
+     "def": "贡献规则，项目接受贡献的具体要求"
+    },
+    {
+     "w": "pull request template",
+     "type": "idiom",
+     "def": "拉取请求模板，提示贡献者填写必要信息"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"maintainership\" and \"community guideline\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Let's keep the discussion focused.\" and \"Everyone is welcome here.\" to clarify the goal, timing, and next step. Finally, Alex documents \"code of conduct\" and \"maintainer review\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"maintainership\" and \"community guideline\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Let's keep the discussion focused.\" and \"Everyone is welcome here.\" to clarify the goal, timing, and next step. Finally, Alex documents \"code of conduct\" and \"maintainer review\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 28 天 · 专业场景。今天把“开源软件与许可证、社区礼仪、开源贡献规范”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：maintainership, community guideline, Let's keep the discussion focused., Everyone is welcome here., code of conduct, maintainer review。",
+   "hard": [
+    {
+     "w": "maintainership",
+     "type": "term",
+     "def": "维护职责，长期管理项目方向和质量的责任"
+    },
+    {
+     "w": "community guideline",
+     "type": "idiom",
+     "def": "社区准则，规定参与者应遵守的行为方式"
     },
     {
      "w": "Let's keep the discussion focused.",
@@ -116,42 +131,6 @@
      "w": "Everyone is welcome here.",
      "type": "idiom",
      "def": "这里欢迎每个人。"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"CONTRIBUTING guide\" when I work with my team. I use \"CODEOWNERS file\" when I work with my team. I use \"contribution guideline\" when I work with my team. I tell my teammate: Today I use CONTRIBUTING guide, CODEOWNERS file, and contribution guideline. At the end, I say: I can use CONTRIBUTING guide clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"CONTRIBUTING guide\" when I work with my team. I use \"CODEOWNERS file\" when I work with my team. I use \"contribution guideline\" when I work with my team. I tell my teammate: Today I use CONTRIBUTING guide, CODEOWNERS file, and contribution guideline. At the end, I say: I can use CONTRIBUTING guide clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“开源贡献规范”。先听英文，再尝试不看中文复述。CONTRIBUTING guide：贡献指南，说明如何参与项目的文件。示例：Our team uses \"contributing guide\" to keep the project clear.CODEOWNERS file：代码所有者文件，指定目录或文件的评审负责人。示例：Our team uses \"code owners file\" to keep the project clear.contribution guideline：贡献规则，项目接受贡献的具体要求。示例：Our team uses \"contribution guideline\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "CONTRIBUTING guide",
-     "type": "idiom",
-     "def": "贡献指南，说明如何参与项目的文件"
-    },
-    {
-     "w": "CODEOWNERS file",
-     "type": "idiom",
-     "def": "代码所有者文件，指定目录或文件的评审负责人"
-    },
-    {
-     "w": "contribution guideline",
-     "type": "idiom",
-     "def": "贡献规则，项目接受贡献的具体要求"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"pull request template\" when I work with my team. I use \"code of conduct\" when I work with my team. I use \"maintainer review\" when I work with my team. I tell my teammate: Today I use pull request template, code of conduct, and maintainer review. At the end, I say: I can use pull request template clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"pull request template\" when I work with my team. I use \"code of conduct\" when I work with my team. I use \"maintainer review\" when I work with my team. I tell my teammate: Today I use pull request template, code of conduct, and maintainer review. At the end, I say: I can use pull request template clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“开源贡献规范”。先听英文，再尝试不看中文复述。pull request template：拉取请求模板，提示贡献者填写必要信息。示例：Our team uses \"pull request template\" to keep the project clear.code of conduct：行为准则，规定社区成员应遵守的行为标准。示例：Our team uses \"code of conduct\" to keep the project clear.maintainer review：维护者评审，由项目维护者进行的最终检查。示例：Our team uses \"maintainer review\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "pull request template",
-     "type": "idiom",
-     "def": "拉取请求模板，提示贡献者填写必要信息"
     },
     {
      "w": "code of conduct",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 28 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 28 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "open source",
     "software license",

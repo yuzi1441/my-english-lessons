@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 15: Vocabulary Speaking Lab",
-  "title_zh": "第 15 天：当天词汇口语实验室",
+  "title": "Day 15: Alex's 项目协作",
+  "title_zh": "第 15 天：Alex 的项目协作",
   "source": "Vocabulary Month · Day 15",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 469,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 284,
+   "segment_count": 3,
+   "difficulty": "项目协作 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "数据库、表与查询 × 工作进度沟通 × 持续集成",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"database\" when I talk about my computer project. I say \"table\" when I talk about my computer project. I say \"row\" when I talk about my computer project. I tell my teammate: Today I use database, table, and row. At the end, I say: I can use database clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"database\" when I talk about my computer project. I say \"table\" when I talk about my computer project. I say \"row\" when I talk about my computer project. I tell my teammate: Today I use database, table, and row. At the end, I say: I can use database clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“数据库、表与查询”。先听英文，再尝试不看中文复述。database：数据库，按照结构长期保存和查询数据的系统。示例：I learned how to use \"database\" in a computer task.table：数据表，以行和列组织数据的结构。示例：I learned how to use \"table\" in a computer task.row：行，表中一条完整的数据记录。示例：I learned how to use \"row\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "By day 15, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"database\" and \"table\" and explains why each one matters. When a teammate asks for an update, Alex uses \"What are you working on?\" and \"I'm working on ...\" to keep the conversation clear. After the meeting, Alex updates the project with \"continuous integration\" and \"GitHub Actions\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 15, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"database\" and \"table\" and explains why each one matters. When a teammate asks for an update, Alex uses \"What are you working on?\" and \"I'm working on ...\" to keep the conversation clear. After the meeting, Alex updates the project with \"continuous integration\" and \"GitHub Actions\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 15 天 · 项目协作。今天把“数据库、表与查询、工作进度沟通、持续集成”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：database, table, What are you working on?, I'm working on ..., continuous integration, GitHub Actions。",
    "hard": [
     {
      "w": "database",
@@ -44,42 +45,6 @@
      "def": "数据表，以行和列组织数据的结构"
     },
     {
-     "w": "row",
-     "type": "term",
-     "def": "行，表中一条完整的数据记录"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"column\" when I talk about my computer project. I say \"query\" when I talk about my computer project. I say \"database record\" when I talk about my computer project. I tell my teammate: Today I use column, query, and database record. At the end, I say: I can use column clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"column\" when I talk about my computer project. I say \"query\" when I talk about my computer project. I say \"database record\" when I talk about my computer project. I tell my teammate: Today I use column, query, and database record. At the end, I say: I can use column clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“数据库、表与查询”。先听英文，再尝试不看中文复述。column：列，表中同一种属性的数据字段。示例：I learned how to use \"column\" in a computer task.query：查询，向数据库提出读取或修改数据的要求。示例：I learned how to use \"query\" in a computer task.database record：数据库记录，代表一个对象的一组字段。示例：I learned how to use \"database record\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "column",
-     "type": "term",
-     "def": "列，表中同一种属性的数据字段"
-    },
-    {
-     "w": "query",
-     "type": "term",
-     "def": "查询，向数据库提出读取或修改数据的要求"
-    },
-    {
-     "w": "database record",
-     "type": "idiom",
-     "def": "数据库记录，代表一个对象的一组字段"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What are you working on?\" in a daily conversation. I say \"I'm working on ...\" in a daily conversation. I say \"I've finished ...\" in a daily conversation. I tell my teammate: Today I use What are you working on?, I'm working on ..., and I've finished .... At the end, I say: I can use What are you working on? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What are you working on?\" in a daily conversation. I say \"I'm working on ...\" in a daily conversation. I say \"I've finished ...\" in a daily conversation. I tell my teammate: Today I use What are you working on?, I'm working on ..., and I've finished .... At the end, I say: I can use What are you working on? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“工作进度沟通”。先听英文，再尝试不看中文复述。What are you working on?：你正在做什么？。示例：What are you working on?I'm working on ...：我正在处理……。示例：I'm working onI've finished ...：我已经完成……。示例：I've finished最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "What are you working on?",
      "type": "idiom",
      "def": "你正在做什么？"
@@ -90,22 +55,72 @@
      "def": "我正在处理……"
     },
     {
-     "w": "I've finished ...",
+     "w": "continuous integration",
      "type": "idiom",
-     "def": "我已经完成……"
+     "def": "持续集成，频繁合并并自动验证代码的做法"
+    },
+    {
+     "w": "GitHub Actions",
+     "type": "idiom",
+     "def": "GitHub 自动化服务，可运行测试和部署任务"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'm blocked by ...\" in a daily conversation. I say \"My next step is ...\" in a daily conversation. I say \"I need more time.\" in a daily conversation. I tell my teammate: Today I use I'm blocked by ..., My next step is ..., and I need more time.. At the end, I say: I can use I'm blocked by ... clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'm blocked by ...\" in a daily conversation. I say \"My next step is ...\" in a daily conversation. I say \"I need more time.\" in a daily conversation. I tell my teammate: Today I use I'm blocked by ..., My next step is ..., and I need more time.. At the end, I say: I can use I'm blocked by ... clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“工作进度沟通”。先听英文，再尝试不看中文复述。I'm blocked by ...：我被……阻碍了。。示例：I'm blocked byMy next step is ...：我的下一步是……。示例：My next step isI need more time.：我需要更多时间。。示例：I need more time.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "By day 15, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"row\" and \"column\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I've finished ...\" and \"I'm blocked by ...\" to keep the conversation clear. After the meeting, Alex updates the project with \"workflow file\" and \"workflow run\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 15, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"row\" and \"column\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I've finished ...\" and \"I'm blocked by ...\" to keep the conversation clear. After the meeting, Alex updates the project with \"workflow file\" and \"workflow run\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 15 天 · 项目协作。今天把“数据库、表与查询、工作进度沟通、持续集成”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：row, column, I've finished ..., I'm blocked by ..., workflow file, workflow run。",
    "hard": [
+    {
+     "w": "row",
+     "type": "term",
+     "def": "行，表中一条完整的数据记录"
+    },
+    {
+     "w": "column",
+     "type": "term",
+     "def": "列，表中同一种属性的数据字段"
+    },
+    {
+     "w": "I've finished ...",
+     "type": "idiom",
+     "def": "我已经完成……"
+    },
     {
      "w": "I'm blocked by ...",
      "type": "idiom",
      "def": "我被……阻碍了。"
+    },
+    {
+     "w": "workflow file",
+     "type": "idiom",
+     "def": "工作流文件，用 YAML 定义自动化步骤"
+    },
+    {
+     "w": "workflow run",
+     "type": "idiom",
+     "def": "工作流运行，某次自动化任务的执行记录"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "By day 15, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"query\" and \"database record\" and explains why each one matters. When a teammate asks for an update, Alex uses \"My next step is ...\" and \"I need more time.\" to keep the conversation clear. After the meeting, Alex updates the project with \"automated test\" and \"build pipeline\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 15, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"query\" and \"database record\" and explains why each one matters. When a teammate asks for an update, Alex uses \"My next step is ...\" and \"I need more time.\" to keep the conversation clear. After the meeting, Alex updates the project with \"automated test\" and \"build pipeline\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 15 天 · 项目协作。今天把“数据库、表与查询、工作进度沟通、持续集成”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：query, database record, My next step is ..., I need more time., automated test, build pipeline。",
+   "hard": [
+    {
+     "w": "query",
+     "type": "term",
+     "def": "查询，向数据库提出读取或修改数据的要求"
+    },
+    {
+     "w": "database record",
+     "type": "idiom",
+     "def": "数据库记录，代表一个对象的一组字段"
     },
     {
      "w": "My next step is ...",
@@ -116,42 +131,6 @@
      "w": "I need more time.",
      "type": "idiom",
      "def": "我需要更多时间。"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"continuous integration\" when I work with my team. I use \"GitHub Actions\" when I work with my team. I use \"workflow file\" when I work with my team. I tell my teammate: Today I use continuous integration, GitHub Actions, and workflow file. At the end, I say: I can use continuous integration clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"continuous integration\" when I work with my team. I use \"GitHub Actions\" when I work with my team. I use \"workflow file\" when I work with my team. I tell my teammate: Today I use continuous integration, GitHub Actions, and workflow file. At the end, I say: I can use continuous integration clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“持续集成”。先听英文，再尝试不看中文复述。continuous integration：持续集成，频繁合并并自动验证代码的做法。示例：Our team uses \"continuous integration\" to keep the project clear.GitHub Actions：GitHub 自动化服务，可运行测试和部署任务。示例：Our team uses \"Git Hub Actions\" to keep the project clear.workflow file：工作流文件，用 YAML 定义自动化步骤。示例：Our team uses \"workflow file\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "continuous integration",
-     "type": "idiom",
-     "def": "持续集成，频繁合并并自动验证代码的做法"
-    },
-    {
-     "w": "GitHub Actions",
-     "type": "idiom",
-     "def": "GitHub 自动化服务，可运行测试和部署任务"
-    },
-    {
-     "w": "workflow file",
-     "type": "idiom",
-     "def": "工作流文件，用 YAML 定义自动化步骤"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"workflow run\" when I work with my team. I use \"automated test\" when I work with my team. I use \"build pipeline\" when I work with my team. I tell my teammate: Today I use workflow run, automated test, and build pipeline. At the end, I say: I can use workflow run clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"workflow run\" when I work with my team. I use \"automated test\" when I work with my team. I use \"build pipeline\" when I work with my team. I tell my teammate: Today I use workflow run, automated test, and build pipeline. At the end, I say: I can use workflow run clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“持续集成”。先听英文，再尝试不看中文复述。workflow run：工作流运行，某次自动化任务的执行记录。示例：Our team uses \"workflow run\" to keep the project clear.automated test：自动化测试，由程序自动检查代码行为。示例：Our team uses \"automated test\" to keep the project clear.build pipeline：构建流水线，依次完成检查、构建和发布的流程。示例：Our team uses \"build pipeline\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "workflow run",
-     "type": "idiom",
-     "def": "工作流运行，某次自动化任务的执行记录"
     },
     {
      "w": "automated test",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 15 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 15 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "database",
     "table",

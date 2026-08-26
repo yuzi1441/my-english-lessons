@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 5: Vocabulary Speaking Lab",
-  "title_zh": "第 5 天：当天词汇口语实验室",
+  "title": "Day 5: Alex's 入门故事",
+  "title_zh": "第 5 天：Alex 的入门故事",
   "source": "Vocabulary Month · Day 5",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 472,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 256,
+   "segment_count": 3,
+   "difficulty": "入门故事 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "输入、处理与输出 × 点餐 × 远程同步",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"input\" when I talk about my computer project. I say \"process data\" when I talk about my computer project. I say \"output value\" when I talk about my computer project. I tell my teammate: Today I use input, process data, and output value. At the end, I say: I can use input clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"input\" when I talk about my computer project. I say \"process data\" when I talk about my computer project. I say \"output value\" when I talk about my computer project. I tell my teammate: Today I use input, process data, and output value. At the end, I say: I can use input clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“输入、处理与输出”。先听英文，再尝试不看中文复述。input：输入，程序接收到的数据。示例：I learned how to use \"input\" in a computer task.process data：处理数据，按照规则改变或分析数据。示例：I learned how to use \"process data\" in a computer task.output value：输出值，程序处理后返回的结果。示例：I learned how to use \"output value\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "It is day 5. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"input\" and \"process data\" while looking at the computer. Maria starts a short conversation. She says \"I'd like to order ...\" and \"Could I have ...?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"push changes\" and \"pull changes\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 5. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"input\" and \"process data\" while looking at the computer. Maria starts a short conversation. She says \"I'd like to order ...\" and \"Could I have ...?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"push changes\" and \"pull changes\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 5 天 · 入门故事。今天把“输入、处理与输出、点餐、远程同步”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：input, process data, I'd like to order ..., Could I have ...?, push changes, pull changes。",
    "hard": [
     {
      "w": "input",
@@ -44,42 +45,6 @@
      "def": "处理数据，按照规则改变或分析数据"
     },
     {
-     "w": "output value",
-     "type": "idiom",
-     "def": "输出值，程序处理后返回的结果"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"function\" when I talk about my computer project. I say \"parameter\" when I talk about my computer project. I say \"return value\" when I talk about my computer project. I tell my teammate: Today I use function, parameter, and return value. At the end, I say: I can use function clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"function\" when I talk about my computer project. I say \"parameter\" when I talk about my computer project. I say \"return value\" when I talk about my computer project. I tell my teammate: Today I use function, parameter, and return value. At the end, I say: I can use function clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“输入、处理与输出”。先听英文，再尝试不看中文复述。function：函数，可以重复调用的一组指令。示例：I learned how to use \"function\" in a computer task.parameter：参数，函数定义中接收输入的名字。示例：I learned how to use \"parameter\" in a computer task.return value：返回值，函数完成后交回的结果。示例：I learned how to use \"return value\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "function",
-     "type": "term",
-     "def": "函数，可以重复调用的一组指令"
-    },
-    {
-     "w": "parameter",
-     "type": "term",
-     "def": "参数，函数定义中接收输入的名字"
-    },
-    {
-     "w": "return value",
-     "type": "idiom",
-     "def": "返回值，函数完成后交回的结果"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'd like to order ...\" in a daily conversation. I say \"Could I have ...?\" in a daily conversation. I say \"What do you recommend?\" in a daily conversation. I tell my teammate: Today I use I'd like to order ..., Could I have ...?, and What do you recommend?. At the end, I say: I can use I'd like to order ... clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'd like to order ...\" in a daily conversation. I say \"Could I have ...?\" in a daily conversation. I say \"What do you recommend?\" in a daily conversation. I tell my teammate: Today I use I'd like to order ..., Could I have ...?, and What do you recommend?. At the end, I say: I can use I'd like to order ... clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“点餐”。先听英文，再尝试不看中文复述。I'd like to order ...：我想点……。示例：I'd like to orderCould I have ...?：我可以要……吗？。示例：Could I have ?What do you recommend?：你推荐什么？。示例：What do you recommend?最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "I'd like to order ...",
      "type": "idiom",
      "def": "我想点……"
@@ -90,22 +55,72 @@
      "def": "我可以要……吗？"
     },
     {
-     "w": "What do you recommend?",
+     "w": "push changes",
      "type": "idiom",
-     "def": "你推荐什么？"
+     "def": "推送更改，把本地提交发送到远程仓库"
+    },
+    {
+     "w": "pull changes",
+     "type": "idiom",
+     "def": "拉取更改，取得并合并远程的新提交"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"No ice, please.\" in a daily conversation. I say \"Could we have the bill?\" in a daily conversation. I say \"Is service included?\" in a daily conversation. I tell my teammate: Today I use No ice, please., Could we have the bill?, and Is service included?. At the end, I say: I can use No ice, please. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"No ice, please.\" in a daily conversation. I say \"Could we have the bill?\" in a daily conversation. I say \"Is service included?\" in a daily conversation. I tell my teammate: Today I use No ice, please., Could we have the bill?, and Is service included?. At the end, I say: I can use No ice, please. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“点餐”。先听英文，再尝试不看中文复述。No ice, please.：请不要加冰。。示例：No ice, please.Could we have the bill?：可以给我们账单吗？。示例：Could we have the bill?Is service included?：包含服务费吗？。示例：Is service included?最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "It is day 5. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"output value\" and \"function\" while looking at the computer. Maria starts a short conversation. She says \"What do you recommend?\" and \"No ice, please.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"fetch updates\" and \"origin remote\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 5. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"output value\" and \"function\" while looking at the computer. Maria starts a short conversation. She says \"What do you recommend?\" and \"No ice, please.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"fetch updates\" and \"origin remote\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 5 天 · 入门故事。今天把“输入、处理与输出、点餐、远程同步”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：output value, function, What do you recommend?, No ice, please., fetch updates, origin remote。",
    "hard": [
+    {
+     "w": "output value",
+     "type": "idiom",
+     "def": "输出值，程序处理后返回的结果"
+    },
+    {
+     "w": "function",
+     "type": "term",
+     "def": "函数，可以重复调用的一组指令"
+    },
+    {
+     "w": "What do you recommend?",
+     "type": "idiom",
+     "def": "你推荐什么？"
+    },
     {
      "w": "No ice, please.",
      "type": "idiom",
      "def": "请不要加冰。"
+    },
+    {
+     "w": "fetch updates",
+     "type": "idiom",
+     "def": "获取更新，只下载远程信息而暂不合并"
+    },
+    {
+     "w": "origin remote",
+     "type": "idiom",
+     "def": "origin 远程，克隆仓库时默认的远程名称"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "It is day 5. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"parameter\" and \"return value\" while looking at the computer. Maria starts a short conversation. She says \"Could we have the bill?\" and \"Is service included?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"upstream remote\" and \"sync with remote\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 5. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"parameter\" and \"return value\" while looking at the computer. Maria starts a short conversation. She says \"Could we have the bill?\" and \"Is service included?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"upstream remote\" and \"sync with remote\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 5 天 · 入门故事。今天把“输入、处理与输出、点餐、远程同步”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：parameter, return value, Could we have the bill?, Is service included?, upstream remote, sync with remote。",
+   "hard": [
+    {
+     "w": "parameter",
+     "type": "term",
+     "def": "参数，函数定义中接收输入的名字"
+    },
+    {
+     "w": "return value",
+     "type": "idiom",
+     "def": "返回值，函数完成后交回的结果"
     },
     {
      "w": "Could we have the bill?",
@@ -116,42 +131,6 @@
      "w": "Is service included?",
      "type": "idiom",
      "def": "包含服务费吗？"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"push changes\" when I work with my team. I use \"pull changes\" when I work with my team. I use \"fetch updates\" when I work with my team. I tell my teammate: Today I use push changes, pull changes, and fetch updates. At the end, I say: I can use push changes clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"push changes\" when I work with my team. I use \"pull changes\" when I work with my team. I use \"fetch updates\" when I work with my team. I tell my teammate: Today I use push changes, pull changes, and fetch updates. At the end, I say: I can use push changes clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“远程同步”。先听英文，再尝试不看中文复述。push changes：推送更改，把本地提交发送到远程仓库。示例：Our team uses \"push changes\" to keep the project clear.pull changes：拉取更改，取得并合并远程的新提交。示例：Our team uses \"pull changes\" to keep the project clear.fetch updates：获取更新，只下载远程信息而暂不合并。示例：Our team uses \"fetch updates\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "push changes",
-     "type": "idiom",
-     "def": "推送更改，把本地提交发送到远程仓库"
-    },
-    {
-     "w": "pull changes",
-     "type": "idiom",
-     "def": "拉取更改，取得并合并远程的新提交"
-    },
-    {
-     "w": "fetch updates",
-     "type": "idiom",
-     "def": "获取更新，只下载远程信息而暂不合并"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"origin remote\" when I work with my team. I use \"upstream remote\" when I work with my team. I use \"sync with remote\" when I work with my team. I tell my teammate: Today I use origin remote, upstream remote, and sync with remote. At the end, I say: I can use origin remote clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"origin remote\" when I work with my team. I use \"upstream remote\" when I work with my team. I use \"sync with remote\" when I work with my team. I tell my teammate: Today I use origin remote, upstream remote, and sync with remote. At the end, I say: I can use origin remote clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“远程同步”。先听英文，再尝试不看中文复述。origin remote：origin 远程，克隆仓库时默认的远程名称。示例：Our team uses \"origin remote\" to keep the project clear.upstream remote：upstream 远程，通常指原始项目的远程仓库。示例：Our team uses \"upstream remote\" to keep the project clear.sync with remote：与远程同步，让本地和远程进度保持一致。示例：Our team uses \"sync with remote\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "origin remote",
-     "type": "idiom",
-     "def": "origin 远程，克隆仓库时默认的远程名称"
     },
     {
      "w": "upstream remote",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "I am new on the team.",
+   "cn": "我是团队里的新人。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "I need to X.",
+   "cn": "我需要做 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I feel ready for the next step.",
+   "cn": "我准备好进行下一步了。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 5 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 5 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "input",
     "process data",

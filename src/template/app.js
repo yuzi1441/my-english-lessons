@@ -505,7 +505,9 @@
 
   function audioSrc(i) {
     const tts = data.segments[i].tts || "";
-    if (/\.mp3($|\?)/.test(tts)) return tts.includes("/") ? tts : `audio/${tts}`;
+    const audioFile = data.segments[i].audio_file || "";
+    if (audioFile) return audioFile.includes("/") ? audioFile : `audio/${audioFile}`;
+    if (/\.(mp3|m4a|wav)($|\?)/i.test(tts)) return tts.includes("/") ? tts : `audio/${tts}`;
     return `audio/${data.segments[i].id}.mp3`;
   }
 

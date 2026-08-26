@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 27: Vocabulary Speaking Lab",
-  "title_zh": "第 27 天：当天词汇口语实验室",
+  "title": "Day 27: Alex's 专业场景",
+  "title_zh": "第 27 天：Alex 的专业场景",
   "source": "Vocabulary Month · Day 27",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 486,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 286,
+   "segment_count": 3,
+   "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "钓鱼、恶意软件与安全更新 × 银行和支付 × 安全公告与 Dependabot",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"phishing\" when I talk about my computer project. I say \"malware\" when I talk about my computer project. I say \"security patch\" when I talk about my computer project. I tell my teammate: Today I use phishing, malware, and security patch. At the end, I say: I can use phishing clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"phishing\" when I talk about my computer project. I say \"malware\" when I talk about my computer project. I say \"security patch\" when I talk about my computer project. I tell my teammate: Today I use phishing, malware, and security patch. At the end, I say: I can use phishing clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“钓鱼、恶意软件与安全更新”。先听英文，再尝试不看中文复述。phishing：网络钓鱼，用假消息诱骗用户交出敏感信息。示例：I learned how to use \"phishing\" in a computer task.malware：恶意软件，故意破坏或窃取数据的软件。示例：I learned how to use \"malware\" in a computer task.security patch：安全补丁，修复软件安全漏洞的更新。示例：I learned how to use \"security patch\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"phishing\" and \"malware\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I'd like to transfer money.\" and \"Has the payment gone through?\" to clarify the goal, timing, and next step. Finally, Alex documents \"security advisory\" and \"Dependabot alert\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"phishing\" and \"malware\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I'd like to transfer money.\" and \"Has the payment gone through?\" to clarify the goal, timing, and next step. Finally, Alex documents \"security advisory\" and \"Dependabot alert\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 27 天 · 专业场景。今天把“钓鱼、恶意软件与安全更新、银行和支付、安全公告与 Dependabot”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：phishing, malware, I'd like to transfer money., Has the payment gone through?, security advisory, Dependabot alert。",
    "hard": [
     {
      "w": "phishing",
@@ -44,42 +45,6 @@
      "def": "恶意软件，故意破坏或窃取数据的软件"
     },
     {
-     "w": "security patch",
-     "type": "idiom",
-     "def": "安全补丁，修复软件安全漏洞的更新"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"suspicious link\" when I talk about my computer project. I say \"antivirus software\" when I talk about my computer project. I say \"update immediately\" when I talk about my computer project. I tell my teammate: Today I use suspicious link, antivirus software, and update immediately. At the end, I say: I can use suspicious link clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"suspicious link\" when I talk about my computer project. I say \"antivirus software\" when I talk about my computer project. I say \"update immediately\" when I talk about my computer project. I tell my teammate: Today I use suspicious link, antivirus software, and update immediately. At the end, I say: I can use suspicious link clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“钓鱼、恶意软件与安全更新”。先听英文，再尝试不看中文复述。suspicious link：可疑链接，可能引向欺诈或恶意页面的网址。示例：I learned how to use \"suspicious link\" in a computer task.antivirus software：杀毒软件，用来发现和阻止恶意程序的软件。示例：I learned how to use \"antivirus software\" in a computer task.update immediately：立即更新，尽快安装重要的安全修复。示例：I learned how to use \"update immediately\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "suspicious link",
-     "type": "idiom",
-     "def": "可疑链接，可能引向欺诈或恶意页面的网址"
-    },
-    {
-     "w": "antivirus software",
-     "type": "idiom",
-     "def": "杀毒软件，用来发现和阻止恶意程序的软件"
-    },
-    {
-     "w": "update immediately",
-     "type": "idiom",
-     "def": "立即更新，尽快安装重要的安全修复"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'd like to transfer money.\" in a daily conversation. I say \"Has the payment gone through?\" in a daily conversation. I say \"I don't recognize this charge.\" in a daily conversation. I tell my teammate: Today I use I'd like to transfer money., Has the payment gone through?, and I don't recognize this charge.. At the end, I say: I can use I'd like to transfer money. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'd like to transfer money.\" in a daily conversation. I say \"Has the payment gone through?\" in a daily conversation. I say \"I don't recognize this charge.\" in a daily conversation. I tell my teammate: Today I use I'd like to transfer money., Has the payment gone through?, and I don't recognize this charge.. At the end, I say: I can use I'd like to transfer money. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“银行和支付”。先听英文，再尝试不看中文复述。I'd like to transfer money.：我想转账。。示例：I'd like to transfer money.Has the payment gone through?：付款成功了吗？。示例：Has the payment gone through?I don't recognize this charge.：我不认识这笔扣款。。示例：I don't recognize this charge.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "I'd like to transfer money.",
      "type": "idiom",
      "def": "我想转账。"
@@ -90,22 +55,72 @@
      "def": "付款成功了吗？"
     },
     {
-     "w": "I don't recognize this charge.",
+     "w": "security advisory",
      "type": "idiom",
-     "def": "我不认识这笔扣款。"
+     "def": "安全公告，披露漏洞影响和修复方法的通知"
+    },
+    {
+     "w": "Dependabot alert",
+     "type": "idiom",
+     "def": "Dependabot 警报，GitHub 对依赖漏洞的自动提醒"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"My card was declined.\" in a daily conversation. I say \"Could you freeze the card?\" in a daily conversation. I say \"Please send me a confirmation.\" in a daily conversation. I tell my teammate: Today I use My card was declined., Could you freeze the card?, and Please send me a confirmation.. At the end, I say: I can use My card was declined. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"My card was declined.\" in a daily conversation. I say \"Could you freeze the card?\" in a daily conversation. I say \"Please send me a confirmation.\" in a daily conversation. I tell my teammate: Today I use My card was declined., Could you freeze the card?, and Please send me a confirmation.. At the end, I say: I can use My card was declined. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“银行和支付”。先听英文，再尝试不看中文复述。My card was declined.：我的卡被拒绝了。。示例：My card was declined.Could you freeze the card?：你能冻结这张卡吗？。示例：Could you freeze the card?Please send me a confirmation.：请给我发送确认信息。。示例：Please send me a confirmation.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"security patch\" and \"suspicious link\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I don't recognize this charge.\" and \"My card was declined.\" to clarify the goal, timing, and next step. Finally, Alex documents \"vulnerable dependency\" and \"security update\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"security patch\" and \"suspicious link\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I don't recognize this charge.\" and \"My card was declined.\" to clarify the goal, timing, and next step. Finally, Alex documents \"vulnerable dependency\" and \"security update\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 27 天 · 专业场景。今天把“钓鱼、恶意软件与安全更新、银行和支付、安全公告与 Dependabot”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：security patch, suspicious link, I don't recognize this charge., My card was declined., vulnerable dependency, security update。",
    "hard": [
+    {
+     "w": "security patch",
+     "type": "idiom",
+     "def": "安全补丁，修复软件安全漏洞的更新"
+    },
+    {
+     "w": "suspicious link",
+     "type": "idiom",
+     "def": "可疑链接，可能引向欺诈或恶意页面的网址"
+    },
+    {
+     "w": "I don't recognize this charge.",
+     "type": "idiom",
+     "def": "我不认识这笔扣款。"
+    },
     {
      "w": "My card was declined.",
      "type": "idiom",
      "def": "我的卡被拒绝了。"
+    },
+    {
+     "w": "vulnerable dependency",
+     "type": "idiom",
+     "def": "易受攻击的依赖，包含已知漏洞的软件包"
+    },
+    {
+     "w": "security update",
+     "type": "idiom",
+     "def": "安全更新，修复安全问题的新版本"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"antivirus software\" and \"update immediately\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Could you freeze the card?\" and \"Please send me a confirmation.\" to clarify the goal, timing, and next step. Finally, Alex documents \"private vulnerability report\" and \"patched version\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"antivirus software\" and \"update immediately\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Could you freeze the card?\" and \"Please send me a confirmation.\" to clarify the goal, timing, and next step. Finally, Alex documents \"private vulnerability report\" and \"patched version\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 27 天 · 专业场景。今天把“钓鱼、恶意软件与安全更新、银行和支付、安全公告与 Dependabot”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：antivirus software, update immediately, Could you freeze the card?, Please send me a confirmation., private vulnerability report, patched version。",
+   "hard": [
+    {
+     "w": "antivirus software",
+     "type": "idiom",
+     "def": "杀毒软件，用来发现和阻止恶意程序的软件"
+    },
+    {
+     "w": "update immediately",
+     "type": "idiom",
+     "def": "立即更新，尽快安装重要的安全修复"
     },
     {
      "w": "Could you freeze the card?",
@@ -116,42 +131,6 @@
      "w": "Please send me a confirmation.",
      "type": "idiom",
      "def": "请给我发送确认信息。"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"security advisory\" when I work with my team. I use \"Dependabot alert\" when I work with my team. I use \"vulnerable dependency\" when I work with my team. I tell my teammate: Today I use security advisory, Dependabot alert, and vulnerable dependency. At the end, I say: I can use security advisory clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"security advisory\" when I work with my team. I use \"Dependabot alert\" when I work with my team. I use \"vulnerable dependency\" when I work with my team. I tell my teammate: Today I use security advisory, Dependabot alert, and vulnerable dependency. At the end, I say: I can use security advisory clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“安全公告与 Dependabot”。先听英文，再尝试不看中文复述。security advisory：安全公告，披露漏洞影响和修复方法的通知。示例：Our team uses \"security advisory\" to keep the project clear.Dependabot alert：Dependabot 警报，GitHub 对依赖漏洞的自动提醒。示例：Our team uses \"depend a bot alert\" to keep the project clear.vulnerable dependency：易受攻击的依赖，包含已知漏洞的软件包。示例：Our team uses \"vulnerable dependency\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "security advisory",
-     "type": "idiom",
-     "def": "安全公告，披露漏洞影响和修复方法的通知"
-    },
-    {
-     "w": "Dependabot alert",
-     "type": "idiom",
-     "def": "Dependabot 警报，GitHub 对依赖漏洞的自动提醒"
-    },
-    {
-     "w": "vulnerable dependency",
-     "type": "idiom",
-     "def": "易受攻击的依赖，包含已知漏洞的软件包"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"security update\" when I work with my team. I use \"private vulnerability report\" when I work with my team. I use \"patched version\" when I work with my team. I tell my teammate: Today I use security update, private vulnerability report, and patched version. At the end, I say: I can use security update clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"security update\" when I work with my team. I use \"private vulnerability report\" when I work with my team. I use \"patched version\" when I work with my team. I tell my teammate: Today I use security update, private vulnerability report, and patched version. At the end, I say: I can use security update clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“安全公告与 Dependabot”。先听英文，再尝试不看中文复述。security update：安全更新，修复安全问题的新版本。示例：Our team uses \"security update\" to keep the project clear.private vulnerability report：私密漏洞报告，非公开提交安全问题的渠道。示例：Our team uses \"private vulnerability report\" to keep the project clear.patched version：已修复版本，已经包含漏洞补丁的软件版本。示例：Our team uses \"patched version\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "security update",
-     "type": "idiom",
-     "def": "安全更新，修复安全问题的新版本"
     },
     {
      "w": "private vulnerability report",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 27 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 27 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "phishing",
     "malware",

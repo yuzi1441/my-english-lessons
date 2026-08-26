@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 18: Vocabulary Speaking Lab",
-  "title_zh": "第 18 天：当天词汇口语实验室",
+  "title": "Day 18: Alex's 项目协作",
+  "title_zh": "第 18 天：Alex 的项目协作",
   "source": "Vocabulary Month · Day 18",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 474,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 287,
+   "segment_count": 3,
+   "difficulty": "项目协作 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "加密、隐私与备份 × 紧急情况表达 × 受保护分支",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"encryption\" when I talk about my computer project. I say \"encrypted connection\" when I talk about my computer project. I say \"privacy setting\" when I talk about my computer project. I tell my teammate: Today I use encryption, encrypted connection, and privacy setting. At the end, I say: I can use encryption clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"encryption\" when I talk about my computer project. I say \"encrypted connection\" when I talk about my computer project. I say \"privacy setting\" when I talk about my computer project. I tell my teammate: Today I use encryption, encrypted connection, and privacy setting. At the end, I say: I can use encryption clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“加密、隐私与备份”。先听英文，再尝试不看中文复述。encryption：加密，把数据转换成未经授权无法读取的形式。示例：I learned how to use \"encryption\" in a computer task.encrypted connection：加密连接，传输内容受到保护的网络连接。示例：I learned how to use \"encrypted connection\" in a computer task.privacy setting：隐私设置，控制个人信息如何被使用和展示。示例：I learned how to use \"privacy setting\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "By day 18, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"encryption\" and \"encrypted connection\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Call an ambulance.\" and \"I need help immediately.\" to keep the conversation clear. After the meeting, Alex updates the project with \"protected branch\" and \"branch protection rule\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 18, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"encryption\" and \"encrypted connection\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Call an ambulance.\" and \"I need help immediately.\" to keep the conversation clear. After the meeting, Alex updates the project with \"protected branch\" and \"branch protection rule\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 18 天 · 项目协作。今天把“加密、隐私与备份、紧急情况表达、受保护分支”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：encryption, encrypted connection, Call an ambulance., I need help immediately., protected branch, branch protection rule。",
    "hard": [
     {
      "w": "encryption",
@@ -44,42 +45,6 @@
      "def": "加密连接，传输内容受到保护的网络连接"
     },
     {
-     "w": "privacy setting",
-     "type": "idiom",
-     "def": "隐私设置，控制个人信息如何被使用和展示"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"data backup\" when I talk about my computer project. I say \"restore data\" when I talk about my computer project. I say \"recovery key\" when I talk about my computer project. I tell my teammate: Today I use data backup, restore data, and recovery key. At the end, I say: I can use data backup clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"data backup\" when I talk about my computer project. I say \"restore data\" when I talk about my computer project. I say \"recovery key\" when I talk about my computer project. I tell my teammate: Today I use data backup, restore data, and recovery key. At the end, I say: I can use data backup clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“加密、隐私与备份”。先听英文，再尝试不看中文复述。data backup：数据备份，为重要数据保存额外副本。示例：I learned how to use \"data backup\" in a computer task.restore data：恢复数据，从备份中取回丢失或损坏的内容。示例：I learned how to use \"restore data\" in a computer task.recovery key：恢复密钥，用于重新获得加密数据访问权的密钥。示例：I learned how to use \"recovery key\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "data backup",
-     "type": "idiom",
-     "def": "数据备份，为重要数据保存额外副本"
-    },
-    {
-     "w": "restore data",
-     "type": "idiom",
-     "def": "恢复数据，从备份中取回丢失或损坏的内容"
-    },
-    {
-     "w": "recovery key",
-     "type": "idiom",
-     "def": "恢复密钥，用于重新获得加密数据访问权的密钥"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Call an ambulance.\" in a daily conversation. I say \"I need help immediately.\" in a daily conversation. I say \"Where is the nearest hospital?\" in a daily conversation. I tell my teammate: Today I use Call an ambulance., I need help immediately., and Where is the nearest hospital?. At the end, I say: I can use Call an ambulance. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Call an ambulance.\" in a daily conversation. I say \"I need help immediately.\" in a daily conversation. I say \"Where is the nearest hospital?\" in a daily conversation. I tell my teammate: Today I use Call an ambulance., I need help immediately., and Where is the nearest hospital?. At the end, I say: I can use Call an ambulance. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“紧急情况表达”。先听英文，再尝试不看中文复述。Call an ambulance.：叫救护车。。示例：Call an ambulance.I need help immediately.：我立刻需要帮助。。示例：I need help immediately.Where is the nearest hospital?：最近的医院在哪里？。示例：Where is the nearest hospital?最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "Call an ambulance.",
      "type": "idiom",
      "def": "叫救护车。"
@@ -90,22 +55,72 @@
      "def": "我立刻需要帮助。"
     },
     {
-     "w": "Where is the nearest hospital?",
+     "w": "protected branch",
      "type": "idiom",
-     "def": "最近的医院在哪里？"
+     "def": "受保护分支，限制直接修改的重要分支"
+    },
+    {
+     "w": "branch protection rule",
+     "type": "idiom",
+     "def": "分支保护规则，规定合并前必须满足的条件"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I've lost my phone.\" in a daily conversation. I say \"Please contact the police.\" in a daily conversation. I say \"Is everyone safe?\" in a daily conversation. I tell my teammate: Today I use I've lost my phone., Please contact the police., and Is everyone safe?. At the end, I say: I can use I've lost my phone. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I've lost my phone.\" in a daily conversation. I say \"Please contact the police.\" in a daily conversation. I say \"Is everyone safe?\" in a daily conversation. I tell my teammate: Today I use I've lost my phone., Please contact the police., and Is everyone safe?. At the end, I say: I can use I've lost my phone. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“紧急情况表达”。先听英文，再尝试不看中文复述。I've lost my phone.：我的手机丢了。。示例：I've lost my phone.Please contact the police.：请联系警察。。示例：Please contact the police.Is everyone safe?：所有人都安全吗？。示例：Is everyone safe?最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "By day 18, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"privacy setting\" and \"data backup\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Where is the nearest hospital?\" and \"I've lost my phone.\" to keep the conversation clear. After the meeting, Alex updates the project with \"required approval\" and \"restrict pushes\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 18, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"privacy setting\" and \"data backup\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Where is the nearest hospital?\" and \"I've lost my phone.\" to keep the conversation clear. After the meeting, Alex updates the project with \"required approval\" and \"restrict pushes\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 18 天 · 项目协作。今天把“加密、隐私与备份、紧急情况表达、受保护分支”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：privacy setting, data backup, Where is the nearest hospital?, I've lost my phone., required approval, restrict pushes。",
    "hard": [
+    {
+     "w": "privacy setting",
+     "type": "idiom",
+     "def": "隐私设置，控制个人信息如何被使用和展示"
+    },
+    {
+     "w": "data backup",
+     "type": "idiom",
+     "def": "数据备份，为重要数据保存额外副本"
+    },
+    {
+     "w": "Where is the nearest hospital?",
+     "type": "idiom",
+     "def": "最近的医院在哪里？"
+    },
     {
      "w": "I've lost my phone.",
      "type": "idiom",
      "def": "我的手机丢了。"
+    },
+    {
+     "w": "required approval",
+     "type": "idiom",
+     "def": "必需批准，合并前必须获得的评审同意"
+    },
+    {
+     "w": "restrict pushes",
+     "type": "idiom",
+     "def": "限制推送，只允许特定人员直接推送"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "By day 18, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"restore data\" and \"recovery key\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Please contact the police.\" and \"Is everyone safe?\" to keep the conversation clear. After the meeting, Alex updates the project with \"signed commit\" and \"security policy\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 18, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"restore data\" and \"recovery key\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Please contact the police.\" and \"Is everyone safe?\" to keep the conversation clear. After the meeting, Alex updates the project with \"signed commit\" and \"security policy\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 18 天 · 项目协作。今天把“加密、隐私与备份、紧急情况表达、受保护分支”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：restore data, recovery key, Please contact the police., Is everyone safe?, signed commit, security policy。",
+   "hard": [
+    {
+     "w": "restore data",
+     "type": "idiom",
+     "def": "恢复数据，从备份中取回丢失或损坏的内容"
+    },
+    {
+     "w": "recovery key",
+     "type": "idiom",
+     "def": "恢复密钥，用于重新获得加密数据访问权的密钥"
     },
     {
      "w": "Please contact the police.",
@@ -116,42 +131,6 @@
      "w": "Is everyone safe?",
      "type": "idiom",
      "def": "所有人都安全吗？"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"protected branch\" when I work with my team. I use \"branch protection rule\" when I work with my team. I use \"required approval\" when I work with my team. I tell my teammate: Today I use protected branch, branch protection rule, and required approval. At the end, I say: I can use protected branch clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"protected branch\" when I work with my team. I use \"branch protection rule\" when I work with my team. I use \"required approval\" when I work with my team. I tell my teammate: Today I use protected branch, branch protection rule, and required approval. At the end, I say: I can use protected branch clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“受保护分支”。先听英文，再尝试不看中文复述。protected branch：受保护分支，限制直接修改的重要分支。示例：Our team uses \"protected branch\" to keep the project clear.branch protection rule：分支保护规则，规定合并前必须满足的条件。示例：Our team uses \"branch protection rule\" to keep the project clear.required approval：必需批准，合并前必须获得的评审同意。示例：Our team uses \"required approval\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "protected branch",
-     "type": "idiom",
-     "def": "受保护分支，限制直接修改的重要分支"
-    },
-    {
-     "w": "branch protection rule",
-     "type": "idiom",
-     "def": "分支保护规则，规定合并前必须满足的条件"
-    },
-    {
-     "w": "required approval",
-     "type": "idiom",
-     "def": "必需批准，合并前必须获得的评审同意"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"restrict pushes\" when I work with my team. I use \"signed commit\" when I work with my team. I use \"security policy\" when I work with my team. I tell my teammate: Today I use restrict pushes, signed commit, and security policy. At the end, I say: I can use restrict pushes clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"restrict pushes\" when I work with my team. I use \"signed commit\" when I work with my team. I use \"security policy\" when I work with my team. I tell my teammate: Today I use restrict pushes, signed commit, and security policy. At the end, I say: I can use restrict pushes clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“受保护分支”。先听英文，再尝试不看中文复述。restrict pushes：限制推送，只允许特定人员直接推送。示例：Our team uses \"restrict pushes\" to keep the project clear.signed commit：签名提交，带有可验证作者签名的提交。示例：Our team uses \"signed commit\" to keep the project clear.security policy：安全政策，说明如何报告和处理安全问题。示例：Our team uses \"security policy\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "restrict pushes",
-     "type": "idiom",
-     "def": "限制推送，只允许特定人员直接推送"
     },
     {
      "w": "signed commit",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 18 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 18 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "encryption",
     "encrypted connection",

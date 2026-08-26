@@ -16,6 +16,11 @@ for day_num in $(seq -w 1 30); do
   find "lessons/week/day-${day_num}/audio" -maxdepth 1 -type f -name 'seg-*.mp3' -delete 2>/dev/null || true
   find "lessons/week/day-${day_num}/audio" -maxdepth 1 -type f -name 'seg-*.words.json' -delete 2>/dev/null || true
 done
+if command -v say >/dev/null 2>&1 && command -v afconvert >/dev/null 2>&1; then
+  python3 scripts/generate_speaking_audio.py
+else
+  echo "macOS voice tools unavailable; speaking pages will use browser speech fallback"
+fi
 python3 scripts/generate_vocabulary_audio.py
 cp src/template/vocab.html lessons/week/vocab.html
 cp src/template/vocab.js lessons/week/vocab.js
@@ -41,10 +46,6 @@ for day_num in $(seq -w 1 30); do
   fi
 
   (
-    if [ "${GENERATE_SPEAKING_AUDIO:-0}" = "1" ]; then
-      python3 src/tts_generate.py "examples/custom/week/$day/segments.json" \
-        --out "lessons/week/$day/audio" --word-audio off --force
-    fi
     python3 src/build_page.py "examples/custom/week/$day/segments.json" \
       --out "lessons/week/$day" --prev "$prev" --next "$next" --home "../index.html"
   ) &

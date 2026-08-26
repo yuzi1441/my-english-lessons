@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 11: Vocabulary Speaking Lab",
-  "title_zh": "第 11 天：当天词汇口语实验室",
+  "title": "Day 11: Alex's 基础工作",
+  "title_zh": "第 11 天：Alex 的基础工作",
   "source": "Vocabulary Month · Day 11",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 479,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 277,
+   "segment_count": 3,
+   "difficulty": "基础工作 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "IP、localhost 与端口 × 天气和闲聊 × 关注开源项目",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"IP address\" when I talk about my computer project. I say \"localhost\" when I talk about my computer project. I say \"port number\" when I talk about my computer project. I tell my teammate: Today I use IP address, localhost, and port number. At the end, I say: I can use IP address clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"IP address\" when I talk about my computer project. I say \"localhost\" when I talk about my computer project. I say \"port number\" when I talk about my computer project. I tell my teammate: Today I use IP address, localhost, and port number. At the end, I say: I can use IP address clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“IP、localhost 与端口”。先听英文，再尝试不看中文复述。IP address：IP 地址，用来定位网络中设备的数字地址。示例：I learned how to use \"I P address\" in a computer task.localhost：本地主机，表示当前这台电脑。示例：I learned how to use \"local host\" in a computer task.port number：端口号，用来区分同一设备上的不同网络服务。示例：I learned how to use \"port number\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "On day 11, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"IP address\" and \"localhost\" and writes one clear note about the work. During a short chat, Maria uses \"It's sunny today.\" and \"It looks like rain.\". Alex answers politely and asks one question. Then Alex records the progress with \"fork a repository\" and \"star a project\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 11, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"IP address\" and \"localhost\" and writes one clear note about the work. During a short chat, Maria uses \"It's sunny today.\" and \"It looks like rain.\". Alex answers politely and asks one question. Then Alex records the progress with \"fork a repository\" and \"star a project\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 11 天 · 基础工作。今天把“IP、localhost 与端口、天气和闲聊、关注开源项目”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：IP address, localhost, It's sunny today., It looks like rain., fork a repository, star a project。",
    "hard": [
     {
      "w": "IP address",
@@ -44,42 +45,6 @@
      "def": "本地主机，表示当前这台电脑"
     },
     {
-     "w": "port number",
-     "type": "idiom",
-     "def": "端口号，用来区分同一设备上的不同网络服务"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"network interface\" when I talk about my computer project. I say \"private address\" when I talk about my computer project. I say \"public address\" when I talk about my computer project. I tell my teammate: Today I use network interface, private address, and public address. At the end, I say: I can use network interface clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"network interface\" when I talk about my computer project. I say \"private address\" when I talk about my computer project. I say \"public address\" when I talk about my computer project. I tell my teammate: Today I use network interface, private address, and public address. At the end, I say: I can use network interface clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“IP、localhost 与端口”。先听英文，再尝试不看中文复述。network interface：网络接口，设备连接网络的入口。示例：I learned how to use \"network interface\" in a computer task.private address：私有地址，只在内部网络中使用的地址。示例：I learned how to use \"private address\" in a computer task.public address：公网地址，可以在互联网中路由的地址。示例：I learned how to use \"public address\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "network interface",
-     "type": "idiom",
-     "def": "网络接口，设备连接网络的入口"
-    },
-    {
-     "w": "private address",
-     "type": "idiom",
-     "def": "私有地址，只在内部网络中使用的地址"
-    },
-    {
-     "w": "public address",
-     "type": "idiom",
-     "def": "公网地址，可以在互联网中路由的地址"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"It's sunny today.\" in a daily conversation. I say \"It looks like rain.\" in a daily conversation. I say \"It's getting colder.\" in a daily conversation. I tell my teammate: Today I use It's sunny today., It looks like rain., and It's getting colder.. At the end, I say: I can use It's sunny today. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"It's sunny today.\" in a daily conversation. I say \"It looks like rain.\" in a daily conversation. I say \"It's getting colder.\" in a daily conversation. I tell my teammate: Today I use It's sunny today., It looks like rain., and It's getting colder.. At the end, I say: I can use It's sunny today. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“天气和闲聊”。先听英文，再尝试不看中文复述。It's sunny today.：今天阳光很好。。示例：It's sunny today.It looks like rain.：看起来要下雨。。示例：It looks like rain.It's getting colder.：天气正在变冷。。示例：It's getting colder.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "It's sunny today.",
      "type": "idiom",
      "def": "今天阳光很好。"
@@ -90,22 +55,72 @@
      "def": "看起来要下雨。"
     },
     {
-     "w": "It's getting colder.",
+     "w": "fork a repository",
      "type": "idiom",
-     "def": "天气正在变冷。"
+     "def": "复刻仓库，在自己账号下创建项目副本"
+    },
+    {
+     "w": "star a project",
+     "type": "idiom",
+     "def": "给项目加星，表示收藏或支持"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The weather is nice.\" in a daily conversation. I say \"How was your weekend?\" in a daily conversation. I say \"What have you been up to?\" in a daily conversation. I tell my teammate: Today I use The weather is nice., How was your weekend?, and What have you been up to?. At the end, I say: I can use The weather is nice. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The weather is nice.\" in a daily conversation. I say \"How was your weekend?\" in a daily conversation. I say \"What have you been up to?\" in a daily conversation. I tell my teammate: Today I use The weather is nice., How was your weekend?, and What have you been up to?. At the end, I say: I can use The weather is nice. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“天气和闲聊”。先听英文，再尝试不看中文复述。The weather is nice.：天气不错。。示例：The weather is nice.How was your weekend?：你周末过得怎么样？。示例：How was your weekend?What have you been up to?：你最近在忙什么？。示例：What have you been up to?最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "On day 11, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"port number\" and \"network interface\" and writes one clear note about the work. During a short chat, Maria uses \"It's getting colder.\" and \"The weather is nice.\". Alex answers politely and asks one question. Then Alex records the progress with \"watch a repository\" and \"follower\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 11, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"port number\" and \"network interface\" and writes one clear note about the work. During a short chat, Maria uses \"It's getting colder.\" and \"The weather is nice.\". Alex answers politely and asks one question. Then Alex records the progress with \"watch a repository\" and \"follower\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 11 天 · 基础工作。今天把“IP、localhost 与端口、天气和闲聊、关注开源项目”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：port number, network interface, It's getting colder., The weather is nice., watch a repository, follower。",
    "hard": [
+    {
+     "w": "port number",
+     "type": "idiom",
+     "def": "端口号，用来区分同一设备上的不同网络服务"
+    },
+    {
+     "w": "network interface",
+     "type": "idiom",
+     "def": "网络接口，设备连接网络的入口"
+    },
+    {
+     "w": "It's getting colder.",
+     "type": "idiom",
+     "def": "天气正在变冷。"
+    },
     {
      "w": "The weather is nice.",
      "type": "idiom",
      "def": "天气不错。"
+    },
+    {
+     "w": "watch a repository",
+     "type": "idiom",
+     "def": "关注仓库，接收仓库活动通知"
+    },
+    {
+     "w": "follower",
+     "type": "term",
+     "def": "关注者，订阅某个用户动态的人"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "On day 11, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"private address\" and \"public address\" and writes one clear note about the work. During a short chat, Maria uses \"How was your weekend?\" and \"What have you been up to?\". Alex answers politely and asks one question. Then Alex records the progress with \"activity feed\" and \"notification setting\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 11, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"private address\" and \"public address\" and writes one clear note about the work. During a short chat, Maria uses \"How was your weekend?\" and \"What have you been up to?\". Alex answers politely and asks one question. Then Alex records the progress with \"activity feed\" and \"notification setting\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 11 天 · 基础工作。今天把“IP、localhost 与端口、天气和闲聊、关注开源项目”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：private address, public address, How was your weekend?, What have you been up to?, activity feed, notification setting。",
+   "hard": [
+    {
+     "w": "private address",
+     "type": "idiom",
+     "def": "私有地址，只在内部网络中使用的地址"
+    },
+    {
+     "w": "public address",
+     "type": "idiom",
+     "def": "公网地址，可以在互联网中路由的地址"
     },
     {
      "w": "How was your weekend?",
@@ -116,42 +131,6 @@
      "w": "What have you been up to?",
      "type": "idiom",
      "def": "你最近在忙什么？"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"fork a repository\" when I work with my team. I use \"star a project\" when I work with my team. I use \"watch a repository\" when I work with my team. I tell my teammate: Today I use fork a repository, star a project, and watch a repository. At the end, I say: I can use fork a repository clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"fork a repository\" when I work with my team. I use \"star a project\" when I work with my team. I use \"watch a repository\" when I work with my team. I tell my teammate: Today I use fork a repository, star a project, and watch a repository. At the end, I say: I can use fork a repository clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“关注开源项目”。先听英文，再尝试不看中文复述。fork a repository：复刻仓库，在自己账号下创建项目副本。示例：Our team uses \"fork a repository\" to keep the project clear.star a project：给项目加星，表示收藏或支持。示例：Our team uses \"star a project\" to keep the project clear.watch a repository：关注仓库，接收仓库活动通知。示例：Our team uses \"watch a repository\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "fork a repository",
-     "type": "idiom",
-     "def": "复刻仓库，在自己账号下创建项目副本"
-    },
-    {
-     "w": "star a project",
-     "type": "idiom",
-     "def": "给项目加星，表示收藏或支持"
-    },
-    {
-     "w": "watch a repository",
-     "type": "idiom",
-     "def": "关注仓库，接收仓库活动通知"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"follower\" when I work with my team. I use \"activity feed\" when I work with my team. I use \"notification setting\" when I work with my team. I tell my teammate: Today I use follower, activity feed, and notification setting. At the end, I say: I can use follower clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"follower\" when I work with my team. I use \"activity feed\" when I work with my team. I use \"notification setting\" when I work with my team. I tell my teammate: Today I use follower, activity feed, and notification setting. At the end, I say: I can use follower clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“关注开源项目”。先听英文，再尝试不看中文复述。follower：关注者，订阅某个用户动态的人。示例：Our team uses \"follower\" to keep the project clear.activity feed：活动信息流，集中显示项目动态。示例：Our team uses \"activity feed\" to keep the project clear.notification setting：通知设置，控制接收哪些项目消息。示例：Our team uses \"notification setting\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "follower",
-     "type": "term",
-     "def": "关注者，订阅某个用户动态的人"
     },
     {
      "w": "activity feed",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 11 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 11 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "IP address",
     "localhost",

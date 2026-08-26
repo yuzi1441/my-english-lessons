@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 17: Vocabulary Speaking Lab",
-  "title_zh": "第 17 天：当天词汇口语实验室",
+  "title": "Day 17: Alex's 项目协作",
+  "title_zh": "第 17 天：Alex 的项目协作",
   "source": "Vocabulary Month · Day 17",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 490,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 294,
+   "segment_count": 3,
+   "difficulty": "项目协作 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "身份验证与权限 × 看病和药店 × Token、Secret 与权限",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"authentication\" when I talk about my computer project. I say \"authorization\" when I talk about my computer project. I say \"user account\" when I talk about my computer project. I tell my teammate: Today I use authentication, authorization, and user account. At the end, I say: I can use authentication clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"authentication\" when I talk about my computer project. I say \"authorization\" when I talk about my computer project. I say \"user account\" when I talk about my computer project. I tell my teammate: Today I use authentication, authorization, and user account. At the end, I say: I can use authentication clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“身份验证与权限”。先听英文，再尝试不看中文复述。authentication：身份验证，确认用户是谁的过程。示例：I learned how to use \"authentication\" in a computer task.authorization：授权，确认用户可以做什么的过程。示例：I learned how to use \"authorization\" in a computer task.user account：用户账号，用来识别和保存个人信息的身份。示例：I learned how to use \"user account\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "By day 17, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"authentication\" and \"authorization\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I don't feel well.\" and \"I have a headache.\" to keep the conversation clear. After the meeting, Alex updates the project with \"access token\" and \"personal access token\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 17, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"authentication\" and \"authorization\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I don't feel well.\" and \"I have a headache.\" to keep the conversation clear. After the meeting, Alex updates the project with \"access token\" and \"personal access token\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 17 天 · 项目协作。今天把“身份验证与权限、看病和药店、Token、Secret 与权限”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：authentication, authorization, I don't feel well., I have a headache., access token, personal access token。",
    "hard": [
     {
      "w": "authentication",
@@ -44,42 +45,6 @@
      "def": "授权，确认用户可以做什么的过程"
     },
     {
-     "w": "user account",
-     "type": "idiom",
-     "def": "用户账号，用来识别和保存个人信息的身份"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"login session\" when I talk about my computer project. I say \"access permission\" when I talk about my computer project. I say \"sign out\" when I talk about my computer project. I tell my teammate: Today I use login session, access permission, and sign out. At the end, I say: I can use login session clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"login session\" when I talk about my computer project. I say \"access permission\" when I talk about my computer project. I say \"sign out\" when I talk about my computer project. I tell my teammate: Today I use login session, access permission, and sign out. At the end, I say: I can use login session clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“身份验证与权限”。先听英文，再尝试不看中文复述。login session：登录会话，用户登录后持续一段时间的访问状态。示例：I learned how to use \"login session\" in a computer task.access permission：访问权限，允许用户读取或修改某项资源的规则。示例：I learned how to use \"access permission\" in a computer task.sign out：退出登录，结束当前登录会话。示例：I learned how to use \"sign out\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "login session",
-     "type": "idiom",
-     "def": "登录会话，用户登录后持续一段时间的访问状态"
-    },
-    {
-     "w": "access permission",
-     "type": "idiom",
-     "def": "访问权限，允许用户读取或修改某项资源的规则"
-    },
-    {
-     "w": "sign out",
-     "type": "idiom",
-     "def": "退出登录，结束当前登录会话"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I don't feel well.\" in a daily conversation. I say \"I have a headache.\" in a daily conversation. I say \"How often should I take this?\" in a daily conversation. I tell my teammate: Today I use I don't feel well., I have a headache., and How often should I take this?. At the end, I say: I can use I don't feel well. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I don't feel well.\" in a daily conversation. I say \"I have a headache.\" in a daily conversation. I say \"How often should I take this?\" in a daily conversation. I tell my teammate: Today I use I don't feel well., I have a headache., and How often should I take this?. At the end, I say: I can use I don't feel well. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“看病和药店”。先听英文，再尝试不看中文复述。I don't feel well.：我感觉不舒服。。示例：I don't feel well.I have a headache.：我头痛。。示例：I have a headache.How often should I take this?：这个药多久吃一次？。示例：How often should I take this?最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "I don't feel well.",
      "type": "idiom",
      "def": "我感觉不舒服。"
@@ -90,22 +55,72 @@
      "def": "我头痛。"
     },
     {
-     "w": "How often should I take this?",
+     "w": "access token",
      "type": "idiom",
-     "def": "这个药多久吃一次？"
+     "def": "访问令牌，代替密码授权程序访问服务的字符串"
+    },
+    {
+     "w": "personal access token",
+     "type": "idiom",
+     "def": "个人访问令牌，代表个人账号调用 GitHub 的令牌"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Are there any side effects?\" in a daily conversation. I say \"I'm allergic to this medicine.\" in a daily conversation. I say \"I need to see a doctor.\" in a daily conversation. I tell my teammate: Today I use Are there any side effects?, I'm allergic to this medicine., and I need to see a doctor.. At the end, I say: I can use Are there any side effects? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Are there any side effects?\" in a daily conversation. I say \"I'm allergic to this medicine.\" in a daily conversation. I say \"I need to see a doctor.\" in a daily conversation. I tell my teammate: Today I use Are there any side effects?, I'm allergic to this medicine., and I need to see a doctor.. At the end, I say: I can use Are there any side effects? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“看病和药店”。先听英文，再尝试不看中文复述。Are there any side effects?：有副作用吗？。示例：Are there any side effects?I'm allergic to this medicine.：我对这种药过敏。。示例：I'm allergic to this medicine.I need to see a doctor.：我需要看医生。。示例：I need to see a doctor.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "By day 17, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"user account\" and \"login session\" and explains why each one matters. When a teammate asks for an update, Alex uses \"How often should I take this?\" and \"Are there any side effects?\" to keep the conversation clear. After the meeting, Alex updates the project with \"repository secret\" and \"workflow permission\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 17, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"user account\" and \"login session\" and explains why each one matters. When a teammate asks for an update, Alex uses \"How often should I take this?\" and \"Are there any side effects?\" to keep the conversation clear. After the meeting, Alex updates the project with \"repository secret\" and \"workflow permission\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 17 天 · 项目协作。今天把“身份验证与权限、看病和药店、Token、Secret 与权限”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：user account, login session, How often should I take this?, Are there any side effects?, repository secret, workflow permission。",
    "hard": [
+    {
+     "w": "user account",
+     "type": "idiom",
+     "def": "用户账号，用来识别和保存个人信息的身份"
+    },
+    {
+     "w": "login session",
+     "type": "idiom",
+     "def": "登录会话，用户登录后持续一段时间的访问状态"
+    },
+    {
+     "w": "How often should I take this?",
+     "type": "idiom",
+     "def": "这个药多久吃一次？"
+    },
     {
      "w": "Are there any side effects?",
      "type": "idiom",
      "def": "有副作用吗？"
+    },
+    {
+     "w": "repository secret",
+     "type": "idiom",
+     "def": "仓库机密，供自动化任务安全使用的敏感值"
+    },
+    {
+     "w": "workflow permission",
+     "type": "idiom",
+     "def": "工作流权限，限制自动化可以执行的操作"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "By day 17, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"access permission\" and \"sign out\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I'm allergic to this medicine.\" and \"I need to see a doctor.\" to keep the conversation clear. After the meeting, Alex updates the project with \"secret scanning\" and \"revoke a token\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 17, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"access permission\" and \"sign out\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I'm allergic to this medicine.\" and \"I need to see a doctor.\" to keep the conversation clear. After the meeting, Alex updates the project with \"secret scanning\" and \"revoke a token\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 17 天 · 项目协作。今天把“身份验证与权限、看病和药店、Token、Secret 与权限”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：access permission, sign out, I'm allergic to this medicine., I need to see a doctor., secret scanning, revoke a token。",
+   "hard": [
+    {
+     "w": "access permission",
+     "type": "idiom",
+     "def": "访问权限，允许用户读取或修改某项资源的规则"
+    },
+    {
+     "w": "sign out",
+     "type": "idiom",
+     "def": "退出登录，结束当前登录会话"
     },
     {
      "w": "I'm allergic to this medicine.",
@@ -116,42 +131,6 @@
      "w": "I need to see a doctor.",
      "type": "idiom",
      "def": "我需要看医生。"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"access token\" when I work with my team. I use \"personal access token\" when I work with my team. I use \"repository secret\" when I work with my team. I tell my teammate: Today I use access token, personal access token, and repository secret. At the end, I say: I can use access token clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"access token\" when I work with my team. I use \"personal access token\" when I work with my team. I use \"repository secret\" when I work with my team. I tell my teammate: Today I use access token, personal access token, and repository secret. At the end, I say: I can use access token clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Token、Secret 与权限”。先听英文，再尝试不看中文复述。access token：访问令牌，代替密码授权程序访问服务的字符串。示例：Our team uses \"access token\" to keep the project clear.personal access token：个人访问令牌，代表个人账号调用 GitHub 的令牌。示例：Our team uses \"personal access token\" to keep the project clear.repository secret：仓库机密，供自动化任务安全使用的敏感值。示例：Our team uses \"repository secret\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "access token",
-     "type": "idiom",
-     "def": "访问令牌，代替密码授权程序访问服务的字符串"
-    },
-    {
-     "w": "personal access token",
-     "type": "idiom",
-     "def": "个人访问令牌，代表个人账号调用 GitHub 的令牌"
-    },
-    {
-     "w": "repository secret",
-     "type": "idiom",
-     "def": "仓库机密，供自动化任务安全使用的敏感值"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"workflow permission\" when I work with my team. I use \"secret scanning\" when I work with my team. I use \"revoke a token\" when I work with my team. I tell my teammate: Today I use workflow permission, secret scanning, and revoke a token. At the end, I say: I can use workflow permission clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"workflow permission\" when I work with my team. I use \"secret scanning\" when I work with my team. I use \"revoke a token\" when I work with my team. I tell my teammate: Today I use workflow permission, secret scanning, and revoke a token. At the end, I say: I can use workflow permission clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Token、Secret 与权限”。先听英文，再尝试不看中文复述。workflow permission：工作流权限，限制自动化可以执行的操作。示例：Our team uses \"workflow permission\" to keep the project clear.secret scanning：机密扫描，自动发现意外提交的密钥。示例：Our team uses \"secret scanning\" to keep the project clear.revoke a token：撤销令牌，让已有令牌立即失效。示例：Our team uses \"revoke a token\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "workflow permission",
-     "type": "idiom",
-     "def": "工作流权限，限制自动化可以执行的操作"
     },
     {
      "w": "secret scanning",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 17 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 17 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "authentication",
     "authorization",

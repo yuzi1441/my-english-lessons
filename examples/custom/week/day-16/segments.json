@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 16: Vocabulary Speaking Lab",
-  "title_zh": "第 16 天：当天词汇口语实验室",
+  "title": "Day 16: Alex's 项目协作",
+  "title_zh": "第 16 天：Alex 的项目协作",
   "source": "Vocabulary Month · Day 16",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 483,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 290,
+   "segment_count": 3,
+   "difficulty": "项目协作 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "JSON、CSV 与日志 × 投诉、退换与解决问题 × 测试、构建与部署",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"JSON\" when I talk about my computer project. I say \"CSV\" when I talk about my computer project. I say \"log file\" when I talk about my computer project. I tell my teammate: Today I use JSON, CSV, and log file. At the end, I say: I can use JSON clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"JSON\" when I talk about my computer project. I say \"CSV\" when I talk about my computer project. I say \"log file\" when I talk about my computer project. I tell my teammate: Today I use JSON, CSV, and log file. At the end, I say: I can use JSON clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“JSON、CSV 与日志”。先听英文，再尝试不看中文复述。JSON：JSON 格式，用键和值表达结构化数据的文本格式。示例：I learned how to use \"J son\" in a computer task.CSV：逗号分隔值，用行列保存表格数据的文本格式。示例：I learned how to use \"C S V\" in a computer task.log file：日志文件，记录程序运行事件和错误的文件。示例：I learned how to use \"log file\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "By day 16, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"JSON\" and \"CSV\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I'd like to return this.\" and \"This item is damaged.\" to keep the conversation clear. After the meeting, Alex updates the project with \"test suite\" and \"build job\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 16, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"JSON\" and \"CSV\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I'd like to return this.\" and \"This item is damaged.\" to keep the conversation clear. After the meeting, Alex updates the project with \"test suite\" and \"build job\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 16 天 · 项目协作。今天把“JSON、CSV 与日志、投诉、退换与解决问题、测试、构建与部署”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：JSON, CSV, I'd like to return this., This item is damaged., test suite, build job。",
    "hard": [
     {
      "w": "JSON",
@@ -44,42 +45,6 @@
      "def": "逗号分隔值，用行列保存表格数据的文本格式"
     },
     {
-     "w": "log file",
-     "type": "idiom",
-     "def": "日志文件，记录程序运行事件和错误的文件"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"parse data\" when I talk about my computer project. I say \"structured data\" when I talk about my computer project. I say \"log entry\" when I talk about my computer project. I tell my teammate: Today I use parse data, structured data, and log entry. At the end, I say: I can use parse data clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"parse data\" when I talk about my computer project. I say \"structured data\" when I talk about my computer project. I say \"log entry\" when I talk about my computer project. I tell my teammate: Today I use parse data, structured data, and log entry. At the end, I say: I can use parse data clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“JSON、CSV 与日志”。先听英文，再尝试不看中文复述。parse data：解析数据，把文本转换成程序可使用的结构。示例：I learned how to use \"parse data\" in a computer task.structured data：结构化数据，按照固定字段组织的数据。示例：I learned how to use \"structured data\" in a computer task.log entry：日志条目，日志中记录的一次事件。示例：I learned how to use \"log entry\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "parse data",
-     "type": "idiom",
-     "def": "解析数据，把文本转换成程序可使用的结构"
-    },
-    {
-     "w": "structured data",
-     "type": "idiom",
-     "def": "结构化数据，按照固定字段组织的数据"
-    },
-    {
-     "w": "log entry",
-     "type": "idiom",
-     "def": "日志条目，日志中记录的一次事件"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'd like to return this.\" in a daily conversation. I say \"This item is damaged.\" in a daily conversation. I say \"I received the wrong order.\" in a daily conversation. I tell my teammate: Today I use I'd like to return this., This item is damaged., and I received the wrong order.. At the end, I say: I can use I'd like to return this. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'd like to return this.\" in a daily conversation. I say \"This item is damaged.\" in a daily conversation. I say \"I received the wrong order.\" in a daily conversation. I tell my teammate: Today I use I'd like to return this., This item is damaged., and I received the wrong order.. At the end, I say: I can use I'd like to return this. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“投诉、退换与解决问题”。先听英文，再尝试不看中文复述。I'd like to return this.：我想退掉这个。。示例：I'd like to return this.This item is damaged.：这个商品损坏了。。示例：This item is damaged.I received the wrong order.：我收到了错误的订单。。示例：I received the wrong order.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "I'd like to return this.",
      "type": "idiom",
      "def": "我想退掉这个。"
@@ -90,22 +55,72 @@
      "def": "这个商品损坏了。"
     },
     {
-     "w": "I received the wrong order.",
+     "w": "test suite",
      "type": "idiom",
-     "def": "我收到了错误的订单。"
+     "def": "测试套件，一组一起运行的测试"
+    },
+    {
+     "w": "build job",
+     "type": "idiom",
+     "def": "构建任务，把源代码转换成可运行产物的任务"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Could I get a refund?\" in a daily conversation. I say \"Could you replace it?\" in a daily conversation. I say \"Thank you for resolving this.\" in a daily conversation. I tell my teammate: Today I use Could I get a refund?, Could you replace it?, and Thank you for resolving this.. At the end, I say: I can use Could I get a refund? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Could I get a refund?\" in a daily conversation. I say \"Could you replace it?\" in a daily conversation. I say \"Thank you for resolving this.\" in a daily conversation. I tell my teammate: Today I use Could I get a refund?, Could you replace it?, and Thank you for resolving this.. At the end, I say: I can use Could I get a refund? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“投诉、退换与解决问题”。先听英文，再尝试不看中文复述。Could I get a refund?：我可以退款吗？。示例：Could I get a refund?Could you replace it?：你可以更换它吗？。示例：Could you replace it?Thank you for resolving this.：谢谢你解决这个问题。。示例：Thank you for resolving this.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "By day 16, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"log file\" and \"parse data\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I received the wrong order.\" and \"Could I get a refund?\" to keep the conversation clear. After the meeting, Alex updates the project with \"deployment job\" and \"test failure\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 16, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"log file\" and \"parse data\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I received the wrong order.\" and \"Could I get a refund?\" to keep the conversation clear. After the meeting, Alex updates the project with \"deployment job\" and \"test failure\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 16 天 · 项目协作。今天把“JSON、CSV 与日志、投诉、退换与解决问题、测试、构建与部署”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：log file, parse data, I received the wrong order., Could I get a refund?, deployment job, test failure。",
    "hard": [
+    {
+     "w": "log file",
+     "type": "idiom",
+     "def": "日志文件，记录程序运行事件和错误的文件"
+    },
+    {
+     "w": "parse data",
+     "type": "idiom",
+     "def": "解析数据，把文本转换成程序可使用的结构"
+    },
+    {
+     "w": "I received the wrong order.",
+     "type": "idiom",
+     "def": "我收到了错误的订单。"
+    },
     {
      "w": "Could I get a refund?",
      "type": "idiom",
      "def": "我可以退款吗？"
+    },
+    {
+     "w": "deployment job",
+     "type": "idiom",
+     "def": "部署任务，把构建产物发布到环境的任务"
+    },
+    {
+     "w": "test failure",
+     "type": "idiom",
+     "def": "测试失败，测试结果与预期不一致"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "By day 16, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"structured data\" and \"log entry\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Could you replace it?\" and \"Thank you for resolving this.\" to keep the conversation clear. After the meeting, Alex updates the project with \"build artifact\" and \"deployment environment\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 16, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"structured data\" and \"log entry\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Could you replace it?\" and \"Thank you for resolving this.\" to keep the conversation clear. After the meeting, Alex updates the project with \"build artifact\" and \"deployment environment\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 16 天 · 项目协作。今天把“JSON、CSV 与日志、投诉、退换与解决问题、测试、构建与部署”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：structured data, log entry, Could you replace it?, Thank you for resolving this., build artifact, deployment environment。",
+   "hard": [
+    {
+     "w": "structured data",
+     "type": "idiom",
+     "def": "结构化数据，按照固定字段组织的数据"
+    },
+    {
+     "w": "log entry",
+     "type": "idiom",
+     "def": "日志条目，日志中记录的一次事件"
     },
     {
      "w": "Could you replace it?",
@@ -116,42 +131,6 @@
      "w": "Thank you for resolving this.",
      "type": "idiom",
      "def": "谢谢你解决这个问题。"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"test suite\" when I work with my team. I use \"build job\" when I work with my team. I use \"deployment job\" when I work with my team. I tell my teammate: Today I use test suite, build job, and deployment job. At the end, I say: I can use test suite clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"test suite\" when I work with my team. I use \"build job\" when I work with my team. I use \"deployment job\" when I work with my team. I tell my teammate: Today I use test suite, build job, and deployment job. At the end, I say: I can use test suite clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“测试、构建与部署”。先听英文，再尝试不看中文复述。test suite：测试套件，一组一起运行的测试。示例：Our team uses \"test suite\" to keep the project clear.build job：构建任务，把源代码转换成可运行产物的任务。示例：Our team uses \"build job\" to keep the project clear.deployment job：部署任务，把构建产物发布到环境的任务。示例：Our team uses \"deployment job\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "test suite",
-     "type": "idiom",
-     "def": "测试套件，一组一起运行的测试"
-    },
-    {
-     "w": "build job",
-     "type": "idiom",
-     "def": "构建任务，把源代码转换成可运行产物的任务"
-    },
-    {
-     "w": "deployment job",
-     "type": "idiom",
-     "def": "部署任务，把构建产物发布到环境的任务"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"test failure\" when I work with my team. I use \"build artifact\" when I work with my team. I use \"deployment environment\" when I work with my team. I tell my teammate: Today I use test failure, build artifact, and deployment environment. At the end, I say: I can use test failure clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"test failure\" when I work with my team. I use \"build artifact\" when I work with my team. I use \"deployment environment\" when I work with my team. I tell my teammate: Today I use test failure, build artifact, and deployment environment. At the end, I say: I can use test failure clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“测试、构建与部署”。先听英文，再尝试不看中文复述。test failure：测试失败，测试结果与预期不一致。示例：Our team uses \"test failure\" to keep the project clear.build artifact：构建产物，构建流程生成的文件。示例：Our team uses \"build artifact\" to keep the project clear.deployment environment：部署环境，运行应用的目标位置。示例：Our team uses \"deployment environment\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "test failure",
-     "type": "idiom",
-     "def": "测试失败，测试结果与预期不一致"
     },
     {
      "w": "build artifact",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 16 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 16 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "JSON",
     "CSV",

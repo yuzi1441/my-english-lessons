@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 22: Vocabulary Speaking Lab",
-  "title_zh": "第 22 天：当天词汇口语实验室",
+  "title": "Day 22: Alex's 专业场景",
+  "title_zh": "第 22 天：Alex 的专业场景",
   "source": "Vocabulary Month · Day 22",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 485,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 286,
+   "segment_count": 3,
+   "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "异常与堆栈信息 × 客服电话 × 复现 Issue",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"exception\" when I talk about my computer project. I say \"stack trace\" when I talk about my computer project. I say \"error type\" when I talk about my computer project. I tell my teammate: Today I use exception, stack trace, and error type. At the end, I say: I can use exception clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"exception\" when I talk about my computer project. I say \"stack trace\" when I talk about my computer project. I say \"error type\" when I talk about my computer project. I tell my teammate: Today I use exception, stack trace, and error type. At the end, I say: I can use exception clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“异常与堆栈信息”。先听英文，再尝试不看中文复述。exception：异常，程序运行时发生的特殊错误情况。示例：I learned how to use \"exception\" in a computer task.stack trace：堆栈跟踪，显示错误经过哪些函数调用的记录。示例：I learned how to use \"stack trace\" in a computer task.error type：错误类型，用来区分不同错误类别的名称。示例：I learned how to use \"error type\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"exception\" and \"stack trace\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I'm calling about ...\" and \"My order hasn't arrived.\" to clarify the goal, timing, and next step. Finally, Alex documents \"issue template\" and \"steps to reproduce\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"exception\" and \"stack trace\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I'm calling about ...\" and \"My order hasn't arrived.\" to clarify the goal, timing, and next step. Finally, Alex documents \"issue template\" and \"steps to reproduce\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 22 天 · 专业场景。今天把“异常与堆栈信息、客服电话、复现 Issue”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：exception, stack trace, I'm calling about ..., My order hasn't arrived., issue template, steps to reproduce。",
    "hard": [
     {
      "w": "exception",
@@ -44,42 +45,6 @@
      "def": "堆栈跟踪，显示错误经过哪些函数调用的记录"
     },
     {
-     "w": "error type",
-     "type": "idiom",
-     "def": "错误类型，用来区分不同错误类别的名称"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"line number\" when I talk about my computer project. I say \"catch an exception\" when I talk about my computer project. I say \"handle an error\" when I talk about my computer project. I tell my teammate: Today I use line number, catch an exception, and handle an error. At the end, I say: I can use line number clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"line number\" when I talk about my computer project. I say \"catch an exception\" when I talk about my computer project. I say \"handle an error\" when I talk about my computer project. I tell my teammate: Today I use line number, catch an exception, and handle an error. At the end, I say: I can use line number clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“异常与堆栈信息”。先听英文，再尝试不看中文复述。line number：行号，表示错误所在代码位置的数字。示例：I learned how to use \"line number\" in a computer task.catch an exception：捕获异常，让程序有机会处理错误。示例：I learned how to use \"catch an exception\" in a computer task.handle an error：处理错误，用可控方式响应失败情况。示例：I learned how to use \"handle an error\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "line number",
-     "type": "idiom",
-     "def": "行号，表示错误所在代码位置的数字"
-    },
-    {
-     "w": "catch an exception",
-     "type": "idiom",
-     "def": "捕获异常，让程序有机会处理错误"
-    },
-    {
-     "w": "handle an error",
-     "type": "idiom",
-     "def": "处理错误，用可控方式响应失败情况"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'm calling about ...\" in a daily conversation. I say \"My order hasn't arrived.\" in a daily conversation. I say \"Could you check the status?\" in a daily conversation. I tell my teammate: Today I use I'm calling about ..., My order hasn't arrived., and Could you check the status?. At the end, I say: I can use I'm calling about ... clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'm calling about ...\" in a daily conversation. I say \"My order hasn't arrived.\" in a daily conversation. I say \"Could you check the status?\" in a daily conversation. I tell my teammate: Today I use I'm calling about ..., My order hasn't arrived., and Could you check the status?. At the end, I say: I can use I'm calling about ... clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“客服电话”。先听英文，再尝试不看中文复述。I'm calling about ...：我打电话是想咨询……。示例：I'm calling aboutMy order hasn't arrived.：我的订单还没有到。。示例：My order hasn't arrived.Could you check the status?：你可以查询一下状态吗？。示例：Could you check the status?最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "I'm calling about ...",
      "type": "idiom",
      "def": "我打电话是想咨询……"
@@ -90,22 +55,72 @@
      "def": "我的订单还没有到。"
     },
     {
-     "w": "Could you check the status?",
+     "w": "issue template",
      "type": "idiom",
-     "def": "你可以查询一下状态吗？"
+     "def": "问题单模板，指导用户提供必要信息的格式"
+    },
+    {
+     "w": "steps to reproduce",
+     "type": "idiom",
+     "def": "复现步骤，能够再次触发问题的操作顺序"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The problem started yesterday.\" in a daily conversation. I say \"I've already tried that.\" in a daily conversation. I say \"What should I do next?\" in a daily conversation. I tell my teammate: Today I use The problem started yesterday., I've already tried that., and What should I do next?. At the end, I say: I can use The problem started yesterday. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The problem started yesterday.\" in a daily conversation. I say \"I've already tried that.\" in a daily conversation. I say \"What should I do next?\" in a daily conversation. I tell my teammate: Today I use The problem started yesterday., I've already tried that., and What should I do next?. At the end, I say: I can use The problem started yesterday. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“客服电话”。先听英文，再尝试不看中文复述。The problem started yesterday.：问题从昨天开始。。示例：The problem started yesterday.I've already tried that.：我已经试过那个方法了。。示例：I've already tried that.What should I do next?：我下一步应该怎么做？。示例：What should I do next?最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"error type\" and \"line number\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Could you check the status?\" and \"The problem started yesterday.\" to clarify the goal, timing, and next step. Finally, Alex documents \"expected behavior\" and \"actual behavior\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"error type\" and \"line number\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Could you check the status?\" and \"The problem started yesterday.\" to clarify the goal, timing, and next step. Finally, Alex documents \"expected behavior\" and \"actual behavior\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 22 天 · 专业场景。今天把“异常与堆栈信息、客服电话、复现 Issue”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：error type, line number, Could you check the status?, The problem started yesterday., expected behavior, actual behavior。",
    "hard": [
+    {
+     "w": "error type",
+     "type": "idiom",
+     "def": "错误类型，用来区分不同错误类别的名称"
+    },
+    {
+     "w": "line number",
+     "type": "idiom",
+     "def": "行号，表示错误所在代码位置的数字"
+    },
+    {
+     "w": "Could you check the status?",
+     "type": "idiom",
+     "def": "你可以查询一下状态吗？"
+    },
     {
      "w": "The problem started yesterday.",
      "type": "idiom",
      "def": "问题从昨天开始。"
+    },
+    {
+     "w": "expected behavior",
+     "type": "idiom",
+     "def": "预期行为，软件本来应该出现的结果"
+    },
+    {
+     "w": "actual behavior",
+     "type": "idiom",
+     "def": "实际行为，软件真正出现的结果"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"catch an exception\" and \"handle an error\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I've already tried that.\" and \"What should I do next?\" to clarify the goal, timing, and next step. Finally, Alex documents \"minimal example\" and \"environment details\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"catch an exception\" and \"handle an error\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I've already tried that.\" and \"What should I do next?\" to clarify the goal, timing, and next step. Finally, Alex documents \"minimal example\" and \"environment details\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 22 天 · 专业场景。今天把“异常与堆栈信息、客服电话、复现 Issue”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：catch an exception, handle an error, I've already tried that., What should I do next?, minimal example, environment details。",
+   "hard": [
+    {
+     "w": "catch an exception",
+     "type": "idiom",
+     "def": "捕获异常，让程序有机会处理错误"
+    },
+    {
+     "w": "handle an error",
+     "type": "idiom",
+     "def": "处理错误，用可控方式响应失败情况"
     },
     {
      "w": "I've already tried that.",
@@ -116,42 +131,6 @@
      "w": "What should I do next?",
      "type": "idiom",
      "def": "我下一步应该怎么做？"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue template\" when I work with my team. I use \"steps to reproduce\" when I work with my team. I use \"expected behavior\" when I work with my team. I tell my teammate: Today I use issue template, steps to reproduce, and expected behavior. At the end, I say: I can use issue template clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue template\" when I work with my team. I use \"steps to reproduce\" when I work with my team. I use \"expected behavior\" when I work with my team. I tell my teammate: Today I use issue template, steps to reproduce, and expected behavior. At the end, I say: I can use issue template clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“复现 Issue”。先听英文，再尝试不看中文复述。issue template：问题单模板，指导用户提供必要信息的格式。示例：Our team uses \"issue template\" to keep the project clear.steps to reproduce：复现步骤，能够再次触发问题的操作顺序。示例：Our team uses \"steps to reproduce\" to keep the project clear.expected behavior：预期行为，软件本来应该出现的结果。示例：Our team uses \"expected behavior\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "issue template",
-     "type": "idiom",
-     "def": "问题单模板，指导用户提供必要信息的格式"
-    },
-    {
-     "w": "steps to reproduce",
-     "type": "idiom",
-     "def": "复现步骤，能够再次触发问题的操作顺序"
-    },
-    {
-     "w": "expected behavior",
-     "type": "idiom",
-     "def": "预期行为，软件本来应该出现的结果"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"actual behavior\" when I work with my team. I use \"minimal example\" when I work with my team. I use \"environment details\" when I work with my team. I tell my teammate: Today I use actual behavior, minimal example, and environment details. At the end, I say: I can use actual behavior clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"actual behavior\" when I work with my team. I use \"minimal example\" when I work with my team. I use \"environment details\" when I work with my team. I tell my teammate: Today I use actual behavior, minimal example, and environment details. At the end, I say: I can use actual behavior clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“复现 Issue”。先听英文，再尝试不看中文复述。actual behavior：实际行为，软件真正出现的结果。示例：Our team uses \"actual behavior\" to keep the project clear.minimal example：最小示例，只保留触发问题所需内容的示例。示例：Our team uses \"minimal example\" to keep the project clear.environment details：环境详情，系统、版本等运行条件信息。示例：Our team uses \"environment details\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "actual behavior",
-     "type": "idiom",
-     "def": "实际行为，软件真正出现的结果"
     },
     {
      "w": "minimal example",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 22 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 22 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "exception",
     "stack trace",

@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 9: Vocabulary Speaking Lab",
-  "title_zh": "第 9 天：当天词汇口语实验室",
+  "title": "Day 9: Alex's 基础工作",
+  "title_zh": "第 9 天：Alex 的基础工作",
   "source": "Vocabulary Month · Day 9",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 463,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 270,
+   "segment_count": 3,
+   "difficulty": "基础工作 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "CPU、进程与线程 × 家务和生活安排 × 合并与冲突",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"CPU\" when I talk about my computer project. I say \"processor\" when I talk about my computer project. I say \"process\" when I talk about my computer project. I tell my teammate: Today I use CPU, processor, and process. At the end, I say: I can use CPU clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"CPU\" when I talk about my computer project. I say \"processor\" when I talk about my computer project. I say \"process\" when I talk about my computer project. I tell my teammate: Today I use CPU, processor, and process. At the end, I say: I can use CPU clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“CPU、进程与线程”。先听英文，再尝试不看中文复述。CPU：中央处理器，负责执行计算和指令的核心部件。示例：I learned how to use \"C P U\" in a computer task.processor：处理器，执行程序指令的硬件。示例：I learned how to use \"processor\" in a computer task.process：进程，正在运行的程序实例。示例：I learned how to use \"process\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "On day 9, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"CPU\" and \"processor\" and writes one clear note about the work. During a short chat, Maria uses \"take out the trash\" and \"do the laundry\". Alex answers politely and asks one question. Then Alex records the progress with \"merge branches\" and \"merge conflict\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 9, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"CPU\" and \"processor\" and writes one clear note about the work. During a short chat, Maria uses \"take out the trash\" and \"do the laundry\". Alex answers politely and asks one question. Then Alex records the progress with \"merge branches\" and \"merge conflict\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 9 天 · 基础工作。今天把“CPU、进程与线程、家务和生活安排、合并与冲突”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：CPU, processor, take out the trash, do the laundry, merge branches, merge conflict。",
    "hard": [
     {
      "w": "CPU",
@@ -44,42 +45,6 @@
      "def": "处理器，执行程序指令的硬件"
     },
     {
-     "w": "process",
-     "type": "term",
-     "def": "进程，正在运行的程序实例"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"thread\" when I talk about my computer project. I say \"background task\" when I talk about my computer project. I say \"system resource\" when I talk about my computer project. I tell my teammate: Today I use thread, background task, and system resource. At the end, I say: I can use thread clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"thread\" when I talk about my computer project. I say \"background task\" when I talk about my computer project. I say \"system resource\" when I talk about my computer project. I tell my teammate: Today I use thread, background task, and system resource. At the end, I say: I can use thread clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“CPU、进程与线程”。先听英文，再尝试不看中文复述。thread：线程，进程内部的一条执行路径。示例：I learned how to use \"thread\" in a computer task.background task：后台任务，不占用当前界面但仍在运行的任务。示例：I learned how to use \"background task\" in a computer task.system resource：系统资源，CPU、内存等可供程序使用的能力。示例：I learned how to use \"system resource\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "thread",
-     "type": "term",
-     "def": "线程，进程内部的一条执行路径"
-    },
-    {
-     "w": "background task",
-     "type": "idiom",
-     "def": "后台任务，不占用当前界面但仍在运行的任务"
-    },
-    {
-     "w": "system resource",
-     "type": "idiom",
-     "def": "系统资源，CPU、内存等可供程序使用的能力"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"take out the trash\" in a daily conversation. I say \"do the laundry\" in a daily conversation. I say \"wash the dishes\" in a daily conversation. I tell my teammate: Today I use take out the trash, do the laundry, and wash the dishes. At the end, I say: I can use take out the trash clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"take out the trash\" in a daily conversation. I say \"do the laundry\" in a daily conversation. I say \"wash the dishes\" in a daily conversation. I tell my teammate: Today I use take out the trash, do the laundry, and wash the dishes. At the end, I say: I can use take out the trash clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“家务和生活安排”。先听英文，再尝试不看中文复述。take out the trash：把垃圾拿出去。示例：take out the trash.do the laundry：洗衣服。示例：do the laundry.wash the dishes：洗碗。示例：wash the dishes.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "take out the trash",
      "type": "idiom",
      "def": "把垃圾拿出去"
@@ -90,22 +55,72 @@
      "def": "洗衣服"
     },
     {
-     "w": "wash the dishes",
+     "w": "merge branches",
      "type": "idiom",
-     "def": "洗碗"
+     "def": "合并分支，把两条代码线组合起来"
+    },
+    {
+     "w": "merge conflict",
+     "type": "idiom",
+     "def": "合并冲突，两边修改无法自动组合的情况"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"clean the room\" in a daily conversation. I say \"pick up groceries\" in a daily conversation. I say \"finish the chores\" in a daily conversation. I tell my teammate: Today I use clean the room, pick up groceries, and finish the chores. At the end, I say: I can use clean the room clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"clean the room\" in a daily conversation. I say \"pick up groceries\" in a daily conversation. I say \"finish the chores\" in a daily conversation. I tell my teammate: Today I use clean the room, pick up groceries, and finish the chores. At the end, I say: I can use clean the room clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“家务和生活安排”。先听英文，再尝试不看中文复述。clean the room：打扫房间。示例：clean the room.pick up groceries：顺路买生活用品。示例：pick up groceries.finish the chores：做完家务。示例：finish the chores.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "On day 9, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"process\" and \"thread\" and writes one clear note about the work. During a short chat, Maria uses \"wash the dishes\" and \"clean the room\". Alex answers politely and asks one question. Then Alex records the progress with \"resolve a conflict\" and \"conflicting change\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 9, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"process\" and \"thread\" and writes one clear note about the work. During a short chat, Maria uses \"wash the dishes\" and \"clean the room\". Alex answers politely and asks one question. Then Alex records the progress with \"resolve a conflict\" and \"conflicting change\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 9 天 · 基础工作。今天把“CPU、进程与线程、家务和生活安排、合并与冲突”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：process, thread, wash the dishes, clean the room, resolve a conflict, conflicting change。",
    "hard": [
+    {
+     "w": "process",
+     "type": "term",
+     "def": "进程，正在运行的程序实例"
+    },
+    {
+     "w": "thread",
+     "type": "term",
+     "def": "线程，进程内部的一条执行路径"
+    },
+    {
+     "w": "wash the dishes",
+     "type": "idiom",
+     "def": "洗碗"
+    },
     {
      "w": "clean the room",
      "type": "idiom",
      "def": "打扫房间"
+    },
+    {
+     "w": "resolve a conflict",
+     "type": "idiom",
+     "def": "解决冲突，人工决定保留哪些内容"
+    },
+    {
+     "w": "conflicting change",
+     "type": "idiom",
+     "def": "冲突改动，与另一项修改互不兼容的变化"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "On day 9, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"background task\" and \"system resource\" and writes one clear note about the work. During a short chat, Maria uses \"pick up groceries\" and \"finish the chores\". Alex answers politely and asks one question. Then Alex records the progress with \"accept incoming change\" and \"complete the merge\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 9, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"background task\" and \"system resource\" and writes one clear note about the work. During a short chat, Maria uses \"pick up groceries\" and \"finish the chores\". Alex answers politely and asks one question. Then Alex records the progress with \"accept incoming change\" and \"complete the merge\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 9 天 · 基础工作。今天把“CPU、进程与线程、家务和生活安排、合并与冲突”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：background task, system resource, pick up groceries, finish the chores, accept incoming change, complete the merge。",
+   "hard": [
+    {
+     "w": "background task",
+     "type": "idiom",
+     "def": "后台任务，不占用当前界面但仍在运行的任务"
+    },
+    {
+     "w": "system resource",
+     "type": "idiom",
+     "def": "系统资源，CPU、内存等可供程序使用的能力"
     },
     {
      "w": "pick up groceries",
@@ -116,42 +131,6 @@
      "w": "finish the chores",
      "type": "idiom",
      "def": "做完家务"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"merge branches\" when I work with my team. I use \"merge conflict\" when I work with my team. I use \"resolve a conflict\" when I work with my team. I tell my teammate: Today I use merge branches, merge conflict, and resolve a conflict. At the end, I say: I can use merge branches clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"merge branches\" when I work with my team. I use \"merge conflict\" when I work with my team. I use \"resolve a conflict\" when I work with my team. I tell my teammate: Today I use merge branches, merge conflict, and resolve a conflict. At the end, I say: I can use merge branches clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“合并与冲突”。先听英文，再尝试不看中文复述。merge branches：合并分支，把两条代码线组合起来。示例：Our team uses \"merge branches\" to keep the project clear.merge conflict：合并冲突，两边修改无法自动组合的情况。示例：Our team uses \"merge conflict\" to keep the project clear.resolve a conflict：解决冲突，人工决定保留哪些内容。示例：Our team uses \"resolve a conflict\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "merge branches",
-     "type": "idiom",
-     "def": "合并分支，把两条代码线组合起来"
-    },
-    {
-     "w": "merge conflict",
-     "type": "idiom",
-     "def": "合并冲突，两边修改无法自动组合的情况"
-    },
-    {
-     "w": "resolve a conflict",
-     "type": "idiom",
-     "def": "解决冲突，人工决定保留哪些内容"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"conflicting change\" when I work with my team. I use \"accept incoming change\" when I work with my team. I use \"complete the merge\" when I work with my team. I tell my teammate: Today I use conflicting change, accept incoming change, and complete the merge. At the end, I say: I can use conflicting change clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"conflicting change\" when I work with my team. I use \"accept incoming change\" when I work with my team. I use \"complete the merge\" when I work with my team. I tell my teammate: Today I use conflicting change, accept incoming change, and complete the merge. At the end, I say: I can use conflicting change clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“合并与冲突”。先听英文，再尝试不看中文复述。conflicting change：冲突改动，与另一项修改互不兼容的变化。示例：Our team uses \"conflicting change\" to keep the project clear.accept incoming change：接受传入改动，选择另一分支的内容。示例：Our team uses \"accept incoming change\" to keep the project clear.complete the merge：完成合并，解决冲突后创建合并结果。示例：Our team uses \"complete the merge\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "conflicting change",
-     "type": "idiom",
-     "def": "冲突改动，与另一项修改互不兼容的变化"
     },
     {
      "w": "accept incoming change",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 9 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 9 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "CPU",
     "processor",

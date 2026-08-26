@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 13: Vocabulary Speaking Lab",
-  "title_zh": "第 13 天：当天词汇口语实验室",
+  "title": "Day 13: Alex's 基础工作",
+  "title_zh": "第 13 天：Alex 的基础工作",
   "source": "Vocabulary Month · Day 13",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 496,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 285,
+   "segment_count": 3,
+   "difficulty": "基础工作 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "HTTP 请求与响应 × 机场场景 × 负责人和提醒",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"HTTP request\" when I talk about my computer project. I say \"HTTP response\" when I talk about my computer project. I say \"status code\" when I talk about my computer project. I tell my teammate: Today I use HTTP request, HTTP response, and status code. At the end, I say: I can use HTTP request clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"HTTP request\" when I talk about my computer project. I say \"HTTP response\" when I talk about my computer project. I say \"status code\" when I talk about my computer project. I tell my teammate: Today I use HTTP request, HTTP response, and status code. At the end, I say: I can use HTTP request clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“HTTP 请求与响应”。先听英文，再尝试不看中文复述。HTTP request：HTTP 请求，客户端发给服务器的网络消息。示例：I learned how to use \"H T T P request\" in a computer task.HTTP response：HTTP 响应，服务器返回给客户端的结果。示例：I learned how to use \"H T T P response\" in a computer task.status code：状态码，用数字表示请求处理结果。示例：I learned how to use \"status code\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "On day 13, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"HTTP request\" and \"HTTP response\" and writes one clear note about the work. During a short chat, Maria uses \"Where is the check-in counter?\" and \"I'd like an aisle seat.\". Alex answers politely and asks one question. Then Alex records the progress with \"assignee\" and \"assign an issue\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 13, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"HTTP request\" and \"HTTP response\" and writes one clear note about the work. During a short chat, Maria uses \"Where is the check-in counter?\" and \"I'd like an aisle seat.\". Alex answers politely and asks one question. Then Alex records the progress with \"assignee\" and \"assign an issue\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 13 天 · 基础工作。今天把“HTTP 请求与响应、机场场景、负责人和提醒”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：HTTP request, HTTP response, Where is the check-in counter?, I'd like an aisle seat., assignee, assign an issue。",
    "hard": [
     {
      "w": "HTTP request",
@@ -44,42 +45,6 @@
      "def": "HTTP 响应，服务器返回给客户端的结果"
     },
     {
-     "w": "status code",
-     "type": "idiom",
-     "def": "状态码，用数字表示请求处理结果"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"request header\" when I talk about my computer project. I say \"response body\" when I talk about my computer project. I say \"GET request\" when I talk about my computer project. I tell my teammate: Today I use request header, response body, and GET request. At the end, I say: I can use request header clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"request header\" when I talk about my computer project. I say \"response body\" when I talk about my computer project. I say \"GET request\" when I talk about my computer project. I tell my teammate: Today I use request header, response body, and GET request. At the end, I say: I can use request header clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“HTTP 请求与响应”。先听英文，再尝试不看中文复述。request header：请求头，随请求发送的附加信息。示例：I learned how to use \"request header\" in a computer task.response body：响应体，服务器返回的主要数据内容。示例：I learned how to use \"response body\" in a computer task.GET request：GET 请求，通常用于读取服务器数据。示例：I learned how to use \"GET request\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "request header",
-     "type": "idiom",
-     "def": "请求头，随请求发送的附加信息"
-    },
-    {
-     "w": "response body",
-     "type": "idiom",
-     "def": "响应体，服务器返回的主要数据内容"
-    },
-    {
-     "w": "GET request",
-     "type": "idiom",
-     "def": "GET 请求，通常用于读取服务器数据"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Where is the check-in counter?\" in a daily conversation. I say \"I'd like an aisle seat.\" in a daily conversation. I say \"Where is the security check?\" in a daily conversation. I tell my teammate: Today I use Where is the check-in counter?, I'd like an aisle seat., and Where is the security check?. At the end, I say: I can use Where is the check-in counter? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Where is the check-in counter?\" in a daily conversation. I say \"I'd like an aisle seat.\" in a daily conversation. I say \"Where is the security check?\" in a daily conversation. I tell my teammate: Today I use Where is the check-in counter?, I'd like an aisle seat., and Where is the security check?. At the end, I say: I can use Where is the check-in counter? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“机场场景”。先听英文，再尝试不看中文复述。Where is the check-in counter?：值机柜台在哪里？。示例：Where is the check-in counter?I'd like an aisle seat.：我想要靠过道的座位。。示例：I'd like an aisle seat.Where is the security check?：安检在哪里？。示例：Where is the security check?最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "Where is the check-in counter?",
      "type": "idiom",
      "def": "值机柜台在哪里？"
@@ -90,22 +55,72 @@
      "def": "我想要靠过道的座位。"
     },
     {
-     "w": "Where is the security check?",
+     "w": "assignee",
+     "type": "term",
+     "def": "负责人，被指定处理事项的人"
+    },
+    {
+     "w": "assign an issue",
      "type": "idiom",
-     "def": "安检在哪里？"
+     "def": "分配问题单，把事项交给某个人处理"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What gate is it?\" in a daily conversation. I say \"The flight is delayed.\" in a daily conversation. I say \"Where can I collect my luggage?\" in a daily conversation. I tell my teammate: Today I use What gate is it?, The flight is delayed., and Where can I collect my luggage?. At the end, I say: I can use What gate is it? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What gate is it?\" in a daily conversation. I say \"The flight is delayed.\" in a daily conversation. I say \"Where can I collect my luggage?\" in a daily conversation. I tell my teammate: Today I use What gate is it?, The flight is delayed., and Where can I collect my luggage?. At the end, I say: I can use What gate is it? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“机场场景”。先听英文，再尝试不看中文复述。What gate is it?：是哪个登机口？。示例：What gate is it?The flight is delayed.：航班延误了。。示例：The flight is delayed.Where can I collect my luggage?：我在哪里取行李？。示例：Where can I collect my luggage?最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "On day 13, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"status code\" and \"request header\" and writes one clear note about the work. During a short chat, Maria uses \"Where is the security check?\" and \"What gate is it?\". Alex answers politely and asks one question. Then Alex records the progress with \"mention a teammate\" and \"team mention\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 13, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"status code\" and \"request header\" and writes one clear note about the work. During a short chat, Maria uses \"Where is the security check?\" and \"What gate is it?\". Alex answers politely and asks one question. Then Alex records the progress with \"mention a teammate\" and \"team mention\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 13 天 · 基础工作。今天把“HTTP 请求与响应、机场场景、负责人和提醒”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：status code, request header, Where is the security check?, What gate is it?, mention a teammate, team mention。",
    "hard": [
+    {
+     "w": "status code",
+     "type": "idiom",
+     "def": "状态码，用数字表示请求处理结果"
+    },
+    {
+     "w": "request header",
+     "type": "idiom",
+     "def": "请求头，随请求发送的附加信息"
+    },
+    {
+     "w": "Where is the security check?",
+     "type": "idiom",
+     "def": "安检在哪里？"
+    },
     {
      "w": "What gate is it?",
      "type": "idiom",
      "def": "是哪个登机口？"
+    },
+    {
+     "w": "mention a teammate",
+     "type": "idiom",
+     "def": "提及队友，用 @ 提醒某位成员"
+    },
+    {
+     "w": "team mention",
+     "type": "idiom",
+     "def": "团队提及，用 @ 一次通知整个团队"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "On day 13, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"response body\" and \"GET request\" and writes one clear note about the work. During a short chat, Maria uses \"The flight is delayed.\" and \"Where can I collect my luggage?\". Alex answers politely and asks one question. Then Alex records the progress with \"subscribe to an issue\" and \"unsubscribe from updates\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 13, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"response body\" and \"GET request\" and writes one clear note about the work. During a short chat, Maria uses \"The flight is delayed.\" and \"Where can I collect my luggage?\". Alex answers politely and asks one question. Then Alex records the progress with \"subscribe to an issue\" and \"unsubscribe from updates\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 13 天 · 基础工作。今天把“HTTP 请求与响应、机场场景、负责人和提醒”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：response body, GET request, The flight is delayed., Where can I collect my luggage?, subscribe to an issue, unsubscribe from updates。",
+   "hard": [
+    {
+     "w": "response body",
+     "type": "idiom",
+     "def": "响应体，服务器返回的主要数据内容"
+    },
+    {
+     "w": "GET request",
+     "type": "idiom",
+     "def": "GET 请求，通常用于读取服务器数据"
     },
     {
      "w": "The flight is delayed.",
@@ -116,42 +131,6 @@
      "w": "Where can I collect my luggage?",
      "type": "idiom",
      "def": "我在哪里取行李？"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"assignee\" when I work with my team. I use \"assign an issue\" when I work with my team. I use \"mention a teammate\" when I work with my team. I tell my teammate: Today I use assignee, assign an issue, and mention a teammate. At the end, I say: I can use assignee clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"assignee\" when I work with my team. I use \"assign an issue\" when I work with my team. I use \"mention a teammate\" when I work with my team. I tell my teammate: Today I use assignee, assign an issue, and mention a teammate. At the end, I say: I can use assignee clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“负责人和提醒”。先听英文，再尝试不看中文复述。assignee：负责人，被指定处理事项的人。示例：Our team uses \"assignee\" to keep the project clear.assign an issue：分配问题单，把事项交给某个人处理。示例：Our team uses \"assign an issue\" to keep the project clear.mention a teammate：提及队友，用 @ 提醒某位成员。示例：Our team uses \"mention a teammate\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "assignee",
-     "type": "term",
-     "def": "负责人，被指定处理事项的人"
-    },
-    {
-     "w": "assign an issue",
-     "type": "idiom",
-     "def": "分配问题单，把事项交给某个人处理"
-    },
-    {
-     "w": "mention a teammate",
-     "type": "idiom",
-     "def": "提及队友，用 @ 提醒某位成员"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"team mention\" when I work with my team. I use \"subscribe to an issue\" when I work with my team. I use \"unsubscribe from updates\" when I work with my team. I tell my teammate: Today I use team mention, subscribe to an issue, and unsubscribe from updates. At the end, I say: I can use team mention clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"team mention\" when I work with my team. I use \"subscribe to an issue\" when I work with my team. I use \"unsubscribe from updates\" when I work with my team. I tell my teammate: Today I use team mention, subscribe to an issue, and unsubscribe from updates. At the end, I say: I can use team mention clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“负责人和提醒”。先听英文，再尝试不看中文复述。team mention：团队提及，用 @ 一次通知整个团队。示例：Our team uses \"team mention\" to keep the project clear.subscribe to an issue：订阅问题单，接收后续更新。示例：Our team uses \"subscribe to an issue\" to keep the project clear.unsubscribe from updates：取消订阅更新，不再接收相关通知。示例：Our team uses \"unsubscribe from updates\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "team mention",
-     "type": "idiom",
-     "def": "团队提及，用 @ 一次通知整个团队"
     },
     {
      "w": "subscribe to an issue",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 13 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 13 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "HTTP request",
     "HTTP response",

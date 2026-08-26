@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 4: Vocabulary Speaking Lab",
-  "title_zh": "第 4 天：当天词汇口语实验室",
+  "title": "Day 4: Alex's 入门故事",
+  "title_zh": "第 4 天：Alex 的入门故事",
   "source": "Vocabulary Month · Day 4",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 473,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 256,
+   "segment_count": 3,
+   "difficulty": "入门故事 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "变量与数据类型 × 购物和价格 × 分支",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"variable\" when I talk about my computer project. I say \"value\" when I talk about my computer project. I say \"string\" when I talk about my computer project. I tell my teammate: Today I use variable, value, and string. At the end, I say: I can use variable clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"variable\" when I talk about my computer project. I say \"value\" when I talk about my computer project. I say \"string\" when I talk about my computer project. I tell my teammate: Today I use variable, value, and string. At the end, I say: I can use variable clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“变量与数据类型”。先听英文，再尝试不看中文复述。variable：变量，用名字保存一个可以使用或改变的值。示例：I learned how to use \"variable\" in a computer task.value：值，变量实际保存的内容。示例：I learned how to use \"value\" in a computer task.string：字符串，由文字或字符组成的数据。示例：I learned how to use \"string\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"variable\" and \"value\" while looking at the computer. Maria starts a short conversation. She says \"How much is this?\" and \"That's too expensive.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"branch\" and \"main branch\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"variable\" and \"value\" while looking at the computer. Maria starts a short conversation. She says \"How much is this?\" and \"That's too expensive.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"branch\" and \"main branch\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 4 天 · 入门故事。今天把“变量与数据类型、购物和价格、分支”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：variable, value, How much is this?, That's too expensive., branch, main branch。",
    "hard": [
     {
      "w": "variable",
@@ -44,42 +45,6 @@
      "def": "值，变量实际保存的内容"
     },
     {
-     "w": "string",
-     "type": "term",
-     "def": "字符串，由文字或字符组成的数据"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"integer\" when I talk about my computer project. I say \"boolean\" when I talk about my computer project. I say \"data type\" when I talk about my computer project. I tell my teammate: Today I use integer, boolean, and data type. At the end, I say: I can use integer clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"integer\" when I talk about my computer project. I say \"boolean\" when I talk about my computer project. I say \"data type\" when I talk about my computer project. I tell my teammate: Today I use integer, boolean, and data type. At the end, I say: I can use integer clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“变量与数据类型”。先听英文，再尝试不看中文复述。integer：整数，不带小数部分的数字。示例：I learned how to use \"integer\" in a computer task.boolean：布尔值，只有真或假两种状态。示例：I learned how to use \"boolean\" in a computer task.data type：数据类型，说明一项数据属于哪种类别。示例：I learned how to use \"data type\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "integer",
-     "type": "term",
-     "def": "整数，不带小数部分的数字"
-    },
-    {
-     "w": "boolean",
-     "type": "term",
-     "def": "布尔值，只有真或假两种状态"
-    },
-    {
-     "w": "data type",
-     "type": "idiom",
-     "def": "数据类型，说明一项数据属于哪种类别"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"How much is this?\" in a daily conversation. I say \"That's too expensive.\" in a daily conversation. I say \"Do you have a smaller size?\" in a daily conversation. I tell my teammate: Today I use How much is this?, That's too expensive., and Do you have a smaller size?. At the end, I say: I can use How much is this? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"How much is this?\" in a daily conversation. I say \"That's too expensive.\" in a daily conversation. I say \"Do you have a smaller size?\" in a daily conversation. I tell my teammate: Today I use How much is this?, That's too expensive., and Do you have a smaller size?. At the end, I say: I can use How much is this? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“购物和价格”。先听英文，再尝试不看中文复述。How much is this?：这个多少钱？。示例：How much is this?That's too expensive.：那太贵了。。示例：That's too expensive.Do you have a smaller size?：你们有小一点的尺码吗？。示例：Do you have a smaller size?最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "How much is this?",
      "type": "idiom",
      "def": "这个多少钱？"
@@ -90,22 +55,72 @@
      "def": "那太贵了。"
     },
     {
-     "w": "Do you have a smaller size?",
+     "w": "branch",
+     "type": "term",
+     "def": "分支，从主代码线分出来的独立工作线"
+    },
+    {
+     "w": "main branch",
      "type": "idiom",
-     "def": "你们有小一点的尺码吗？"
+     "def": "主分支，项目默认和最重要的代码线"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Can I pay by card?\" in a daily conversation. I say \"I'd like this one.\" in a daily conversation. I say \"Could I get a receipt?\" in a daily conversation. I tell my teammate: Today I use Can I pay by card?, I'd like this one., and Could I get a receipt?. At the end, I say: I can use Can I pay by card? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Can I pay by card?\" in a daily conversation. I say \"I'd like this one.\" in a daily conversation. I say \"Could I get a receipt?\" in a daily conversation. I tell my teammate: Today I use Can I pay by card?, I'd like this one., and Could I get a receipt?. At the end, I say: I can use Can I pay by card? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“购物和价格”。先听英文，再尝试不看中文复述。Can I pay by card?：我可以刷卡吗？。示例：Can I pay by card?I'd like this one.：我想要这个。。示例：I'd like this one.Could I get a receipt?：可以给我收据吗？。示例：Could I get a receipt?最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"string\" and \"integer\" while looking at the computer. Maria starts a short conversation. She says \"Do you have a smaller size?\" and \"Can I pay by card?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"feature branch\" and \"create a branch\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"string\" and \"integer\" while looking at the computer. Maria starts a short conversation. She says \"Do you have a smaller size?\" and \"Can I pay by card?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"feature branch\" and \"create a branch\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 4 天 · 入门故事。今天把“变量与数据类型、购物和价格、分支”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：string, integer, Do you have a smaller size?, Can I pay by card?, feature branch, create a branch。",
    "hard": [
+    {
+     "w": "string",
+     "type": "term",
+     "def": "字符串，由文字或字符组成的数据"
+    },
+    {
+     "w": "integer",
+     "type": "term",
+     "def": "整数，不带小数部分的数字"
+    },
+    {
+     "w": "Do you have a smaller size?",
+     "type": "idiom",
+     "def": "你们有小一点的尺码吗？"
+    },
     {
      "w": "Can I pay by card?",
      "type": "idiom",
      "def": "我可以刷卡吗？"
+    },
+    {
+     "w": "feature branch",
+     "type": "idiom",
+     "def": "功能分支，专门开发某项功能的分支"
+    },
+    {
+     "w": "create a branch",
+     "type": "idiom",
+     "def": "创建分支，建立新的独立工作线"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"boolean\" and \"data type\" while looking at the computer. Maria starts a short conversation. She says \"I'd like this one.\" and \"Could I get a receipt?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"switch branches\" and \"branch name\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"boolean\" and \"data type\" while looking at the computer. Maria starts a short conversation. She says \"I'd like this one.\" and \"Could I get a receipt?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"switch branches\" and \"branch name\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 4 天 · 入门故事。今天把“变量与数据类型、购物和价格、分支”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：boolean, data type, I'd like this one., Could I get a receipt?, switch branches, branch name。",
+   "hard": [
+    {
+     "w": "boolean",
+     "type": "term",
+     "def": "布尔值，只有真或假两种状态"
+    },
+    {
+     "w": "data type",
+     "type": "idiom",
+     "def": "数据类型，说明一项数据属于哪种类别"
     },
     {
      "w": "I'd like this one.",
@@ -116,42 +131,6 @@
      "w": "Could I get a receipt?",
      "type": "idiom",
      "def": "可以给我收据吗？"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"branch\" when I work with my team. I use \"main branch\" when I work with my team. I use \"feature branch\" when I work with my team. I tell my teammate: Today I use branch, main branch, and feature branch. At the end, I say: I can use branch clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"branch\" when I work with my team. I use \"main branch\" when I work with my team. I use \"feature branch\" when I work with my team. I tell my teammate: Today I use branch, main branch, and feature branch. At the end, I say: I can use branch clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“分支”。先听英文，再尝试不看中文复述。branch：分支，从主代码线分出来的独立工作线。示例：Our team uses \"branch\" to keep the project clear.main branch：主分支，项目默认和最重要的代码线。示例：Our team uses \"main branch\" to keep the project clear.feature branch：功能分支，专门开发某项功能的分支。示例：Our team uses \"feature branch\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "branch",
-     "type": "term",
-     "def": "分支，从主代码线分出来的独立工作线"
-    },
-    {
-     "w": "main branch",
-     "type": "idiom",
-     "def": "主分支，项目默认和最重要的代码线"
-    },
-    {
-     "w": "feature branch",
-     "type": "idiom",
-     "def": "功能分支，专门开发某项功能的分支"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"create a branch\" when I work with my team. I use \"switch branches\" when I work with my team. I use \"branch name\" when I work with my team. I tell my teammate: Today I use create a branch, switch branches, and branch name. At the end, I say: I can use create a branch clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"create a branch\" when I work with my team. I use \"switch branches\" when I work with my team. I use \"branch name\" when I work with my team. I tell my teammate: Today I use create a branch, switch branches, and branch name. At the end, I say: I can use create a branch clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“分支”。先听英文，再尝试不看中文复述。create a branch：创建分支，建立新的独立工作线。示例：Our team uses \"create a branch\" to keep the project clear.switch branches：切换分支，从一条工作线转到另一条。示例：Our team uses \"switch branches\" to keep the project clear.branch name：分支名称，用来说明分支用途的名字。示例：Our team uses \"branch name\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "create a branch",
-     "type": "idiom",
-     "def": "创建分支，建立新的独立工作线"
     },
     {
      "w": "switch branches",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "I am new on the team.",
+   "cn": "我是团队里的新人。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "I need to X.",
+   "cn": "我需要做 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I feel ready for the next step.",
+   "cn": "我准备好进行下一步了。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 4 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 4 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "variable",
     "value",

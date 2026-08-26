@@ -1,14 +1,9 @@
 #!/usr/bin/env python3
-"""Generate a 30-day speaking course that follows the vocabulary course.
-
-The vocabulary course is the spine: each speaking lesson reuses the same 18
-items in three short, read-aloud sections (computer, daily, GitHub).
-"""
+"""Generate a 30-day speaking course whose story follows the vocabulary month."""
 from __future__ import annotations
 
 import json
 from pathlib import Path
-
 
 ROOT = Path(__file__).resolve().parent.parent
 VOCAB = ROOT / "examples" / "vocabulary-month" / "month.json"
@@ -16,103 +11,87 @@ OUT = ROOT / "examples" / "custom" / "week"
 
 
 def hard_type(item: dict) -> str:
-    part = str(item.get("part", ""))
-    return "term" if "术语" in part else "idiom"
+    return "term" if "术语" in str(item.get("part", "")) else "idiom"
 
 
-def segment_for_group(day: int, group: dict, index: int, items: list[dict] | None = None) -> dict:
-    items = items if items is not None else group.get("items", [])
-    domain = group.get("domain", "")
-    title = group.get("title", "Vocabulary")
-    topic = group.get("topic", title)
-    english_title = {"computer": "computer English", "daily": "daily English", "github": "GitHub English"}.get(domain, "today's English")
-    lines = [
-        f"Today I practise {english_title} in a real conversation.",
-        "I need to explain a small task clearly to another person.",
-    ]
-    for item in items:
-        term = item.get("term", "")
-        if domain == "daily":
-            lines.append(f'I say "{term}" in a daily conversation.')
-        elif domain == "github":
-            lines.append(f'I use "{term}" when I work with my team.')
-        else:
-            lines.append(f'I say "{term}" when I talk about my computer project.')
-    terms = [item.get("term", "this word") for item in items]
-    if len(terms) >= 3:
-        lines.append(f"I tell my teammate: Today I use {terms[0]}, {terms[1]}, and {terms[2]}.")
-    lines.append(f"At the end, I say: I can use {terms[0] if terms else 'this word'} clearly today.")
-    en = " ".join(lines)
-    zh_lines = [
-        f"今天口语练习围绕“{title}”，场景是“{topic}”。",
-        "先听英文，再尝试不看中文复述。",
-    ]
-    for item in items:
-        zh_lines.append(f"{item.get('term', '')}：{item.get('meaning', '')}。示例：{item.get('example_speech') or item.get('example', '')}")
-    zh_lines.append("最后用自己的经历替换示例中的内容，再说一遍。")
-    return {
-        "id": f"seg-{index:02d}",
-        "en": en,
-        "tts": en,
-        "zh": "".join(zh_lines),
-        "hard": [
-            {"w": item.get("term", ""), "type": hard_type(item), "def": item.get("meaning", "")}
-            for item in items
-            if item.get("term")
-        ],
-    }
+def phase(day: int) -> tuple[str, str, str]:
+    if day <= 7:
+        return "入门故事", "Alex is new on the team. The sentences are short, clear, and easy to repeat.", "Alex is new, so the team uses short sentences."
+    if day <= 14:
+        return "基础工作", "Alex can now describe a small task and ask a clear question.", "Alex has practised the basics, so the team gives Alex a small task."
+    if day <= 21:
+        return "项目协作", "Alex now connects ideas, explains a problem, and reports progress.", "Because the project is growing, Alex needs to explain each step to the team."
+    return "专业场景", "Alex now handles an AI, security, or deployment task and gives a careful update.", "As the project becomes more professional, Alex gives a clear update and checks the risks."
 
 
-def make_lesson(day: dict) -> dict:
-    number = int(day["day"])
-    groups = day.get("groups", [])
-    segments = []
-    for group in groups:
-        items = group.get("items", [])
-        for offset in range(0, len(items), 3):
-            segments.append(segment_for_group(number, group, len(segments) + 1, items[offset : offset + 3]))
+def term_text(items: list[dict]) -> str:
+    return " and ".join(f'"{item.get("term", "")}"' for item in items)
+
+
+def segment_for_scene(day: int, groups: list[dict], scene: int, start: int) -> dict:
+    computer, daily, github = (group.get("items", []) for group in groups)
+    c, d, g = computer[start : start + 2], daily[start : start + 2], github[start : start + 2]
+    phase_name, level_note, bridge = phase(day)
+    if day <= 7:
+        en_lines = [
+            f"It is day {day}. Alex is new on the team. {bridge}",
+            f"In the morning, Alex practises {term_text(c)} while looking at the computer.",
+            f"Maria starts a short conversation. She says {term_text(d)}. Alex listens and replies.",
+            f"After lunch, Alex works with the team on GitHub. The team talks about {term_text(g)}.",
+            "Alex repeats the new words twice and feels ready for the next small step.",
+        ]
+    elif day <= 14:
+        en_lines = [
+            f"On day {day}, Alex has a small task. {bridge}",
+            f"First, Alex checks {term_text(c)} and writes one clear note about the work.",
+            f"During a short chat, Maria uses {term_text(d)}. Alex answers politely and asks one question.",
+            f"Then Alex records the progress with {term_text(g)} so the team can follow the change.",
+            "The task is not big, but Alex can now explain it from start to finish.",
+        ]
+    elif day <= 21:
+        en_lines = [
+            f"By day {day}, Alex is helping with a growing project. {bridge}",
+            f"Before the meeting, Alex reviews {term_text(c)} and explains why each one matters.",
+            f"When a teammate asks for an update, Alex uses {term_text(d)} to keep the conversation clear.",
+            f"After the meeting, Alex updates the project with {term_text(g)} and records the next action.",
+            "The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+        ]
+    else:
+        en_lines = [
+            f"Near the end of the month, Alex handles a more professional task. {bridge}",
+            f"Alex checks {term_text(c)} before making a decision and explains the possible risk.",
+            f"In the discussion, Alex uses {term_text(d)} to clarify the goal, timing, and next step.",
+            f"Finally, Alex documents {term_text(g)} so another teammate can review the work later.",
+            "The work is not perfect, but the update is clear, careful, and useful.",
+        ]
+    en = " ".join(en_lines)
+    title = groups[0].get("title", "词汇")
+    topics = "、".join(str(group.get("topic", "")) for group in groups)
+    terms = c + d + g
+    zh = (
+        f"第 {day} 天 · {phase_name}。今天把“{topics}”放进 Alex 的连续故事。"
+        f"{level_note}先听一遍，再遮住中文复述；最后把 Alex 换成自己。"
+        f"本段词汇：{', '.join(item.get('term', '') for item in terms)}。"
+    )
+    hard = [{"w": item.get("term", ""), "type": hard_type(item), "def": item.get("meaning", "")} for item in terms if item.get("term")]
+    return {"id": f"seg-{scene:02d}", "en": en, "tts": en, "audio_file": f"audio/seg-{scene:02d}.m4a", "zh": zh, "hard": hard}
+
+
+def make_lesson(day_data: dict) -> dict:
+    day = int(day_data["day"])
+    groups = day_data.get("groups", [])
+    segments = [segment_for_scene(day, groups, scene, start) for scene, start in enumerate((0, 2, 4), 1)]
     all_items = [item for group in groups for item in group.get("items", [])]
-    chunks = [
-        {"t": item.get("term", ""), "cn": item.get("meaning", ""), "eg": item.get("example_speech") or item.get("example", "")}
-        for item in all_items[:6]
-        if item.get("term")
-    ]
-    patterns = [
-        {"t": "The key expression is X.", "cn": "关键表达是 X。"},
-        {"t": "In Chinese, it means X.", "cn": "它的中文意思是 X。"},
-        {"t": "I can use X clearly today.", "cn": "我今天能清楚地使用 X。"},
-    ]
+    chunks = [{"t": item.get("term", ""), "cn": item.get("meaning", ""), "eg": item.get("example_speech") or item.get("example", "")} for item in all_items[:6] if item.get("term")]
+    phase_name, _, _ = phase(day)
+    patterns = ([{"t": "I am new on the team.", "cn": "我是团队里的新人。"}, {"t": "I need to X.", "cn": "我需要做 X。"}, {"t": "I feel ready for the next step.", "cn": "我准备好进行下一步了。"}] if day <= 7 else [{"t": "First, I X.", "cn": "首先，我 X。"}, {"t": "Then I X.", "cn": "然后，我 X。"}, {"t": "I can explain X from start to finish.", "cn": "我能从头到尾解释 X。"}])
     lexicon = {item["term"].lower(): {"def": item.get("meaning", "")} for item in all_items if item.get("term") and " " not in item["term"]}
-    word_count = sum(len(seg["en"].split()) for seg in segments)
+    word_count = sum(len(segment["en"].split()) for segment in segments)
     topics = " × ".join(str(group.get("topic", "")) for group in groups)
     return {
-        "meta": {
-            "title": f"Day {number}: Vocabulary Speaking Lab",
-            "title_zh": f"第 {number} 天：当天词汇口语实验室",
-            "source": f"Vocabulary Month · Day {number}",
-            "url": "",
-            "kind": "article",
-            "lang": "en",
-            "study_card": {
-                "word_count": word_count,
-                "segment_count": len(segments),
-                "difficulty": "词汇主线 · 口语应用",
-                "estimated_days": 1,
-                "main_practice": "先学词汇 · 再听读 · 最后主动输出",
-                "value_points": [f"当天 18 个词汇全部进入口语正文", topics, "30 秒个人化输出"],
-                "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换",
-            },
-        },
-        "voice": {"engine": "edge", "voice": "en-US-AndrewNeural", "rate": "-20%", "speed": 0.8},
-        "segments": segments,
-        "chunks": chunks,
-        "patterns": patterns,
-        "transfer_tasks": [{
-            "genre": "standup_update",
-            "task": f"Use any three Day {number} vocabulary items. Say what you did, what problem you had, and what you will do next.",
-            "hint_chunks": [item["t"] for item in chunks[:3]],
-        }],
-        "lexicon": lexicon,
+        "meta": {"title": f"Day {day}: Alex's {phase_name}", "title_zh": f"第 {day} 天：Alex 的{phase_name}", "source": f"Vocabulary Month · Day {day}", "url": "", "kind": "article", "lang": "en", "study_card": {"word_count": word_count, "segment_count": len(segments), "difficulty": f"{phase_name} · 词汇主线", "estimated_days": 1, "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历", "value_points": [f"当天 18 个词汇都进入 Alex 的故事", topics, "30 秒口语输出"], "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"}},
+        "voice": {"engine": "edge", "voice": "en-US-AndrewNeural", "rate": "-8%", "speed": 0.92}, "segments": segments, "chunks": chunks, "patterns": patterns,
+        "transfer_tasks": [{"genre": "standup_update", "task": f"Use any three Day {day} vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.", "hint_chunks": [item["t"] for item in chunks[:3]]}], "lexicon": lexicon,
     }
 
 
@@ -120,10 +99,9 @@ def write_index(days: list[dict]) -> None:
     rows = []
     for day in days:
         number = int(day["day"])
-        groups = day.get("groups", [])
-        topics = " × ".join(str(group.get("topic", "")) for group in groups)
-        rows.append(f'<li><a href="day-{number:02d}/index.html"><h2>Day {number} · 词汇口语实验室</h2><p>{topics} · 约 20 分钟</p></a></li>')
-    html = f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>英语学习 · 30 天词汇口语课</title><style>body{{font-family:-apple-system,sans-serif;max-width:760px;margin:0 auto;padding:32px 20px;line-height:1.6;background:#fafafa;color:#222}}h1{{font-size:28px}}ul{{list-style:none;padding:0}}li{{background:#fff;border:1px solid #e3e3e3;border-radius:10px;margin:10px 0;overflow:hidden}}a{{display:block;padding:14px 18px;text-decoration:none;color:#222}}h2{{margin:0 0 3px;font-size:17px}}p{{margin:0;color:#666;font-size:13px}}</style></head><body><h1>英语学习 · 30 天词汇口语课</h1><p>词汇是主线；每一天的 18 个词都会进入对应口语正文。</p><ul>{''.join(rows)}</ul></body></html>'''
+        topics = " × ".join(str(group.get("topic", "")) for group in day.get("groups", []))
+        rows.append(f'<li><a href="day-{number:02d}/index.html"><h2>Day {number} · Alex 的词汇口语故事</h2><p>{topics} · 约 20 分钟</p></a></li>')
+    html = f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>英语学习 · 30 天词汇口语课</title><style>body{{font-family:-apple-system,sans-serif;max-width:760px;margin:0 auto;padding:32px 20px;line-height:1.6;background:#fafafa;color:#222}}h1{{font-size:28px}}ul{{list-style:none;padding:0}}li{{background:#fff;border:1px solid #e3e3e3;border-radius:10px;margin:10px 0;overflow:hidden}}a{{display:block;padding:14px 18px;text-decoration:none;color:#222}}h2{{margin:0 0 3px;font-size:17px}}p{{margin:0;color:#666;font-size:13px}}</style></head><body><h1>英语学习 · 30 天词汇口语课</h1><p>词汇是主线；Alex 的故事从新人入职逐步走到专业项目协作。</p><ul>{''.join(rows)}</ul></body></html>'''
     (ROOT / "lessons" / "week" / "index.html").write_text(html, encoding="utf-8")
 
 
@@ -133,12 +111,11 @@ def main() -> None:
     if len(days) != 30:
         raise SystemExit(f"vocabulary month must contain 30 days, found {len(days)}")
     for raw in days:
-        lesson = make_lesson(raw)
         out = OUT / f"day-{int(raw['day']):02d}" / "segments.json"
         out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(json.dumps(lesson, ensure_ascii=False, indent=1), encoding="utf-8")
+        out.write_text(json.dumps(make_lesson(raw), ensure_ascii=False, indent=1), encoding="utf-8")
     write_index(days)
-    print(f"written 30 vocabulary-linked speaking lessons to {OUT}")
+    print(f"written 30 progressive story lessons to {OUT}")
 
 
 if __name__ == "__main__":

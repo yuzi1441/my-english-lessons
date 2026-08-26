@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 19: Vocabulary Speaking Lab",
-  "title_zh": "第 19 天：当天词汇口语实验室",
+  "title": "Day 19: Alex's 项目协作",
+  "title_zh": "第 19 天：Alex 的项目协作",
   "source": "Vocabulary Month · Day 19",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 482,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 290,
+   "segment_count": 3,
+   "difficulty": "项目协作 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "云服务器与容器 × 礼貌表达不同意见 × 发布与版本",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"cloud service\" when I talk about my computer project. I say \"virtual server\" when I talk about my computer project. I say \"container\" when I talk about my computer project. I tell my teammate: Today I use cloud service, virtual server, and container. At the end, I say: I can use cloud service clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"cloud service\" when I talk about my computer project. I say \"virtual server\" when I talk about my computer project. I say \"container\" when I talk about my computer project. I tell my teammate: Today I use cloud service, virtual server, and container. At the end, I say: I can use cloud service clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“云服务器与容器”。先听英文，再尝试不看中文复述。cloud service：云服务，通过互联网提供的计算或存储能力。示例：I learned how to use \"cloud service\" in a computer task.virtual server：虚拟服务器，在物理机器中模拟出的独立服务器。示例：I learned how to use \"virtual server\" in a computer task.container：容器，把应用和依赖封装在一起的运行环境。示例：I learned how to use \"container\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "By day 19, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"cloud service\" and \"virtual server\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I see your point.\" and \"I have a different view.\" to keep the conversation clear. After the meeting, Alex updates the project with \"release\" and \"release note\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 19, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"cloud service\" and \"virtual server\" and explains why each one matters. When a teammate asks for an update, Alex uses \"I see your point.\" and \"I have a different view.\" to keep the conversation clear. After the meeting, Alex updates the project with \"release\" and \"release note\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 19 天 · 项目协作。今天把“云服务器与容器、礼貌表达不同意见、发布与版本”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：cloud service, virtual server, I see your point., I have a different view., release, release note。",
    "hard": [
     {
      "w": "cloud service",
@@ -44,42 +45,6 @@
      "def": "虚拟服务器，在物理机器中模拟出的独立服务器"
     },
     {
-     "w": "container",
-     "type": "term",
-     "def": "容器，把应用和依赖封装在一起的运行环境"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"container image\" when I talk about my computer project. I say \"host machine\" when I talk about my computer project. I say \"start a container\" when I talk about my computer project. I tell my teammate: Today I use container image, host machine, and start a container. At the end, I say: I can use container image clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"container image\" when I talk about my computer project. I say \"host machine\" when I talk about my computer project. I say \"start a container\" when I talk about my computer project. I tell my teammate: Today I use container image, host machine, and start a container. At the end, I say: I can use container image clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“云服务器与容器”。先听英文，再尝试不看中文复述。container image：容器镜像，用来创建容器的只读模板。示例：I learned how to use \"container image\" in a computer task.host machine：宿主机，实际运行虚拟机或容器的机器。示例：I learned how to use \"host machine\" in a computer task.start a container：启动容器，根据镜像创建并运行容器。示例：I learned how to use \"start a container\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "container image",
-     "type": "idiom",
-     "def": "容器镜像，用来创建容器的只读模板"
-    },
-    {
-     "w": "host machine",
-     "type": "idiom",
-     "def": "宿主机，实际运行虚拟机或容器的机器"
-    },
-    {
-     "w": "start a container",
-     "type": "idiom",
-     "def": "启动容器，根据镜像创建并运行容器"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I see your point.\" in a daily conversation. I say \"I have a different view.\" in a daily conversation. I say \"Could we look at another option?\" in a daily conversation. I tell my teammate: Today I use I see your point., I have a different view., and Could we look at another option?. At the end, I say: I can use I see your point. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I see your point.\" in a daily conversation. I say \"I have a different view.\" in a daily conversation. I say \"Could we look at another option?\" in a daily conversation. I tell my teammate: Today I use I see your point., I have a different view., and Could we look at another option?. At the end, I say: I can use I see your point. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“礼貌表达不同意见”。先听英文，再尝试不看中文复述。I see your point.：我明白你的观点。。示例：I see your point.I have a different view.：我有不同的看法。。示例：I have a different view.Could we look at another option?：我们可以看看另一个方案吗？。示例：Could we look at another option?最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "I see your point.",
      "type": "idiom",
      "def": "我明白你的观点。"
@@ -90,22 +55,72 @@
      "def": "我有不同的看法。"
     },
     {
-     "w": "Could we look at another option?",
+     "w": "release",
+     "type": "term",
+     "def": "发布，把一个可用版本正式提供给用户"
+    },
+    {
+     "w": "release note",
      "type": "idiom",
-     "def": "我们可以看看另一个方案吗？"
+     "def": "发布说明，介绍新版本的变化"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'm not sure I agree.\" in a daily conversation. I say \"Let's compare the evidence.\" in a daily conversation. I say \"That sounds reasonable.\" in a daily conversation. I tell my teammate: Today I use I'm not sure I agree., Let's compare the evidence., and That sounds reasonable.. At the end, I say: I can use I'm not sure I agree. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'm not sure I agree.\" in a daily conversation. I say \"Let's compare the evidence.\" in a daily conversation. I say \"That sounds reasonable.\" in a daily conversation. I tell my teammate: Today I use I'm not sure I agree., Let's compare the evidence., and That sounds reasonable.. At the end, I say: I can use I'm not sure I agree. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“礼貌表达不同意见”。先听英文，再尝试不看中文复述。I'm not sure I agree.：我不确定我是否同意。。示例：I'm not sure I agree.Let's compare the evidence.：我们比较一下证据吧。。示例：Let's compare the evidence.That sounds reasonable.：听起来有道理。。示例：That sounds reasonable.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "By day 19, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"container\" and \"container image\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Could we look at another option?\" and \"I'm not sure I agree.\" to keep the conversation clear. After the meeting, Alex updates the project with \"version tag\" and \"semantic versioning\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 19, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"container\" and \"container image\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Could we look at another option?\" and \"I'm not sure I agree.\" to keep the conversation clear. After the meeting, Alex updates the project with \"version tag\" and \"semantic versioning\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 19 天 · 项目协作。今天把“云服务器与容器、礼貌表达不同意见、发布与版本”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：container, container image, Could we look at another option?, I'm not sure I agree., version tag, semantic versioning。",
    "hard": [
+    {
+     "w": "container",
+     "type": "term",
+     "def": "容器，把应用和依赖封装在一起的运行环境"
+    },
+    {
+     "w": "container image",
+     "type": "idiom",
+     "def": "容器镜像，用来创建容器的只读模板"
+    },
+    {
+     "w": "Could we look at another option?",
+     "type": "idiom",
+     "def": "我们可以看看另一个方案吗？"
+    },
     {
      "w": "I'm not sure I agree.",
      "type": "idiom",
      "def": "我不确定我是否同意。"
+    },
+    {
+     "w": "version tag",
+     "type": "idiom",
+     "def": "版本标签，为某次提交添加版本标记"
+    },
+    {
+     "w": "semantic versioning",
+     "type": "idiom",
+     "def": "语义化版本，用主版本、次版本和修订号表达变化"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "By day 19, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"host machine\" and \"start a container\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Let's compare the evidence.\" and \"That sounds reasonable.\" to keep the conversation clear. After the meeting, Alex updates the project with \"pre-release\" and \"publish a release\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 19, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"host machine\" and \"start a container\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Let's compare the evidence.\" and \"That sounds reasonable.\" to keep the conversation clear. After the meeting, Alex updates the project with \"pre-release\" and \"publish a release\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 19 天 · 项目协作。今天把“云服务器与容器、礼貌表达不同意见、发布与版本”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：host machine, start a container, Let's compare the evidence., That sounds reasonable., pre-release, publish a release。",
+   "hard": [
+    {
+     "w": "host machine",
+     "type": "idiom",
+     "def": "宿主机，实际运行虚拟机或容器的机器"
+    },
+    {
+     "w": "start a container",
+     "type": "idiom",
+     "def": "启动容器，根据镜像创建并运行容器"
     },
     {
      "w": "Let's compare the evidence.",
@@ -116,42 +131,6 @@
      "w": "That sounds reasonable.",
      "type": "idiom",
      "def": "听起来有道理。"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"release\" when I work with my team. I use \"release note\" when I work with my team. I use \"version tag\" when I work with my team. I tell my teammate: Today I use release, release note, and version tag. At the end, I say: I can use release clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"release\" when I work with my team. I use \"release note\" when I work with my team. I use \"version tag\" when I work with my team. I tell my teammate: Today I use release, release note, and version tag. At the end, I say: I can use release clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“发布与版本”。先听英文，再尝试不看中文复述。release：发布，把一个可用版本正式提供给用户。示例：Our team uses \"release\" to keep the project clear.release note：发布说明，介绍新版本的变化。示例：Our team uses \"release note\" to keep the project clear.version tag：版本标签，为某次提交添加版本标记。示例：Our team uses \"version tag\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "release",
-     "type": "term",
-     "def": "发布，把一个可用版本正式提供给用户"
-    },
-    {
-     "w": "release note",
-     "type": "idiom",
-     "def": "发布说明，介绍新版本的变化"
-    },
-    {
-     "w": "version tag",
-     "type": "idiom",
-     "def": "版本标签，为某次提交添加版本标记"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"semantic versioning\" when I work with my team. I use \"pre-release\" when I work with my team. I use \"publish a release\" when I work with my team. I tell my teammate: Today I use semantic versioning, pre-release, and publish a release. At the end, I say: I can use semantic versioning clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"semantic versioning\" when I work with my team. I use \"pre-release\" when I work with my team. I use \"publish a release\" when I work with my team. I tell my teammate: Today I use semantic versioning, pre-release, and publish a release. At the end, I say: I can use semantic versioning clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“发布与版本”。先听英文，再尝试不看中文复述。semantic versioning：语义化版本，用主版本、次版本和修订号表达变化。示例：Our team uses \"semantic versioning\" to keep the project clear.pre-release：预发布版本，在正式发布前供测试的版本。示例：Our team uses \"pre-release\" to keep the project clear.publish a release：发布版本，在 GitHub 上创建正式发布页面。示例：Our team uses \"publish a release\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "semantic versioning",
-     "type": "idiom",
-     "def": "语义化版本，用主版本、次版本和修订号表达变化"
     },
     {
      "w": "pre-release",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 19 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 19 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "cloud service",
     "virtual server",

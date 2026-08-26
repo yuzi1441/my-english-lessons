@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 26: Vocabulary Speaking Lab",
-  "title_zh": "第 26 天：当天词汇口语实验室",
+  "title": "Day 26: Alex's 专业场景",
+  "title_zh": "第 26 天：Alex 的专业场景",
   "source": "Vocabulary Month · Day 26",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 488,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 286,
+   "segment_count": 3,
+   "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "训练、推理与幻觉 × 新闻和观点交流 × 引用来源和文档",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"training data\" when I talk about my computer project. I say \"model training\" when I talk about my computer project. I say \"inference\" when I talk about my computer project. I tell my teammate: Today I use training data, model training, and inference. At the end, I say: I can use training data clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"training data\" when I talk about my computer project. I say \"model training\" when I talk about my computer project. I say \"inference\" when I talk about my computer project. I tell my teammate: Today I use training data, model training, and inference. At the end, I say: I can use training data clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“训练、推理与幻觉”。先听英文，再尝试不看中文复述。training data：训练数据，用来让模型学习规律的数据。示例：I learned how to use \"training data\" in a computer task.model training：模型训练，用数据调整模型参数的过程。示例：I learned how to use \"model training\" in a computer task.inference：推理，模型根据新输入生成结果的过程。示例：I learned how to use \"inference\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"training data\" and \"model training\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I read that ...\" and \"According to the report ...\" to clarify the goal, timing, and next step. Finally, Alex documents \"link to documentation\" and \"cite a source\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"training data\" and \"model training\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I read that ...\" and \"According to the report ...\" to clarify the goal, timing, and next step. Finally, Alex documents \"link to documentation\" and \"cite a source\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 26 天 · 专业场景。今天把“训练、推理与幻觉、新闻和观点交流、引用来源和文档”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：training data, model training, I read that ..., According to the report ..., link to documentation, cite a source。",
    "hard": [
     {
      "w": "training data",
@@ -44,42 +45,6 @@
      "def": "模型训练，用数据调整模型参数的过程"
     },
     {
-     "w": "inference",
-     "type": "term",
-     "def": "推理，模型根据新输入生成结果的过程"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"hallucination\" when I talk about my computer project. I say \"confidence level\" when I talk about my computer project. I say \"verify the answer\" when I talk about my computer project. I tell my teammate: Today I use hallucination, confidence level, and verify the answer. At the end, I say: I can use hallucination clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"hallucination\" when I talk about my computer project. I say \"confidence level\" when I talk about my computer project. I say \"verify the answer\" when I talk about my computer project. I tell my teammate: Today I use hallucination, confidence level, and verify the answer. At the end, I say: I can use hallucination clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“训练、推理与幻觉”。先听英文，再尝试不看中文复述。hallucination：幻觉，模型生成看似合理但并不真实的内容。示例：I learned how to use \"hallucination\" in a computer task.confidence level：置信程度，表示对结果把握大小的程度。示例：I learned how to use \"confidence level\" in a computer task.verify the answer：核验答案，用可靠来源检查回答是否正确。示例：I learned how to use \"verify the answer\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "hallucination",
-     "type": "term",
-     "def": "幻觉，模型生成看似合理但并不真实的内容"
-    },
-    {
-     "w": "confidence level",
-     "type": "idiom",
-     "def": "置信程度，表示对结果把握大小的程度"
-    },
-    {
-     "w": "verify the answer",
-     "type": "idiom",
-     "def": "核验答案，用可靠来源检查回答是否正确"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I read that ...\" in a daily conversation. I say \"According to the report ...\" in a daily conversation. I say \"What's your opinion?\" in a daily conversation. I tell my teammate: Today I use I read that ..., According to the report ..., and What's your opinion?. At the end, I say: I can use I read that ... clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I read that ...\" in a daily conversation. I say \"According to the report ...\" in a daily conversation. I say \"What's your opinion?\" in a daily conversation. I tell my teammate: Today I use I read that ..., According to the report ..., and What's your opinion?. At the end, I say: I can use I read that ... clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“新闻和观点交流”。先听英文，再尝试不看中文复述。I read that ...：我读到……。示例：I read thatAccording to the report ...：根据这份报告……。示例：According to the reportWhat's your opinion?：你的看法是什么？。示例：What's your opinion?最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "I read that ...",
      "type": "idiom",
      "def": "我读到……"
@@ -90,22 +55,72 @@
      "def": "根据这份报告……"
     },
     {
-     "w": "What's your opinion?",
+     "w": "link to documentation",
      "type": "idiom",
-     "def": "你的看法是什么？"
+     "def": "链接到文档，提供官方说明页面的网址"
+    },
+    {
+     "w": "cite a source",
+     "type": "idiom",
+     "def": "引用来源，说明事实或说法来自哪里"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I agree with that point.\" in a daily conversation. I say \"I see it differently.\" in a daily conversation. I say \"We need more information.\" in a daily conversation. I tell my teammate: Today I use I agree with that point., I see it differently., and We need more information.. At the end, I say: I can use I agree with that point. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I agree with that point.\" in a daily conversation. I say \"I see it differently.\" in a daily conversation. I say \"We need more information.\" in a daily conversation. I tell my teammate: Today I use I agree with that point., I see it differently., and We need more information.. At the end, I say: I can use I agree with that point. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“新闻和观点交流”。先听英文，再尝试不看中文复述。I agree with that point.：我同意那个观点。。示例：I agree with that point.I see it differently.：我的看法不同。。示例：I see it differently.We need more information.：我们需要更多信息。。示例：We need more information.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"inference\" and \"hallucination\" before making a decision and explains the possible risk. In the discussion, Alex uses \"What's your opinion?\" and \"I agree with that point.\" to clarify the goal, timing, and next step. Finally, Alex documents \"reference an issue\" and \"link a commit\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"inference\" and \"hallucination\" before making a decision and explains the possible risk. In the discussion, Alex uses \"What's your opinion?\" and \"I agree with that point.\" to clarify the goal, timing, and next step. Finally, Alex documents \"reference an issue\" and \"link a commit\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 26 天 · 专业场景。今天把“训练、推理与幻觉、新闻和观点交流、引用来源和文档”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：inference, hallucination, What's your opinion?, I agree with that point., reference an issue, link a commit。",
    "hard": [
+    {
+     "w": "inference",
+     "type": "term",
+     "def": "推理，模型根据新输入生成结果的过程"
+    },
+    {
+     "w": "hallucination",
+     "type": "term",
+     "def": "幻觉，模型生成看似合理但并不真实的内容"
+    },
+    {
+     "w": "What's your opinion?",
+     "type": "idiom",
+     "def": "你的看法是什么？"
+    },
     {
      "w": "I agree with that point.",
      "type": "idiom",
      "def": "我同意那个观点。"
+    },
+    {
+     "w": "reference an issue",
+     "type": "idiom",
+     "def": "引用问题单，在文字中关联另一问题单"
+    },
+    {
+     "w": "link a commit",
+     "type": "idiom",
+     "def": "链接提交，提供某次代码提交的直接地址"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"confidence level\" and \"verify the answer\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I see it differently.\" and \"We need more information.\" to clarify the goal, timing, and next step. Finally, Alex documents \"permanent link\" and \"documentation page\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"confidence level\" and \"verify the answer\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I see it differently.\" and \"We need more information.\" to clarify the goal, timing, and next step. Finally, Alex documents \"permanent link\" and \"documentation page\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 26 天 · 专业场景。今天把“训练、推理与幻觉、新闻和观点交流、引用来源和文档”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：confidence level, verify the answer, I see it differently., We need more information., permanent link, documentation page。",
+   "hard": [
+    {
+     "w": "confidence level",
+     "type": "idiom",
+     "def": "置信程度，表示对结果把握大小的程度"
+    },
+    {
+     "w": "verify the answer",
+     "type": "idiom",
+     "def": "核验答案，用可靠来源检查回答是否正确"
     },
     {
      "w": "I see it differently.",
@@ -116,42 +131,6 @@
      "w": "We need more information.",
      "type": "idiom",
      "def": "我们需要更多信息。"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"link to documentation\" when I work with my team. I use \"cite a source\" when I work with my team. I use \"reference an issue\" when I work with my team. I tell my teammate: Today I use link to documentation, cite a source, and reference an issue. At the end, I say: I can use link to documentation clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"link to documentation\" when I work with my team. I use \"cite a source\" when I work with my team. I use \"reference an issue\" when I work with my team. I tell my teammate: Today I use link to documentation, cite a source, and reference an issue. At the end, I say: I can use link to documentation clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“引用来源和文档”。先听英文，再尝试不看中文复述。link to documentation：链接到文档，提供官方说明页面的网址。示例：Our team uses \"link to documentation\" to keep the project clear.cite a source：引用来源，说明事实或说法来自哪里。示例：Our team uses \"cite a source\" to keep the project clear.reference an issue：引用问题单，在文字中关联另一问题单。示例：Our team uses \"reference an issue\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "link to documentation",
-     "type": "idiom",
-     "def": "链接到文档，提供官方说明页面的网址"
-    },
-    {
-     "w": "cite a source",
-     "type": "idiom",
-     "def": "引用来源，说明事实或说法来自哪里"
-    },
-    {
-     "w": "reference an issue",
-     "type": "idiom",
-     "def": "引用问题单，在文字中关联另一问题单"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"link a commit\" when I work with my team. I use \"permanent link\" when I work with my team. I use \"documentation page\" when I work with my team. I tell my teammate: Today I use link a commit, permanent link, and documentation page. At the end, I say: I can use link a commit clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"link a commit\" when I work with my team. I use \"permanent link\" when I work with my team. I use \"documentation page\" when I work with my team. I tell my teammate: Today I use link a commit, permanent link, and documentation page. At the end, I say: I can use link a commit clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“引用来源和文档”。先听英文，再尝试不看中文复述。link a commit：链接提交，提供某次代码提交的直接地址。示例：Our team uses \"link a commit\" to keep the project clear.permanent link：永久链接，固定指向特定版本内容的地址。示例：Our team uses \"permanent link\" to keep the project clear.documentation page：文档页面，解释项目功能和用法的页面。示例：Our team uses \"documentation page\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "link a commit",
-     "type": "idiom",
-     "def": "链接提交，提供某次代码提交的直接地址"
     },
     {
      "w": "permanent link",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 26 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 26 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "training data",
     "model training",

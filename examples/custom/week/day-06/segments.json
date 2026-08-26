@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 6: Vocabulary Speaking Lab",
-  "title_zh": "第 6 天：当天词汇口语实验室",
+  "title": "Day 6: Alex's 入门故事",
+  "title_zh": "第 6 天：Alex 的入门故事",
   "source": "Vocabulary Month · Day 6",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 481,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 260,
+   "segment_count": 3,
+   "difficulty": "入门故事 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "错误与调试 × 问路和交通 × Issue 问题单",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"bug\" when I talk about my computer project. I say \"error message\" when I talk about my computer project. I say \"debugging\" when I talk about my computer project. I tell my teammate: Today I use bug, error message, and debugging. At the end, I say: I can use bug clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"bug\" when I talk about my computer project. I say \"error message\" when I talk about my computer project. I say \"debugging\" when I talk about my computer project. I tell my teammate: Today I use bug, error message, and debugging. At the end, I say: I can use bug clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“错误与调试”。先听英文，再尝试不看中文复述。bug：程序缺陷，使程序出现错误行为的问题。示例：I learned how to use \"bug\" in a computer task.error message：错误信息，说明程序为何失败的提示。示例：I learned how to use \"error message\" in a computer task.debugging：调试，寻找并修复程序问题的过程。示例：I learned how to use \"debugging\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "It is day 6. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"bug\" and \"error message\" while looking at the computer. Maria starts a short conversation. She says \"How do I get to ...?\" and \"Is it far from here?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"issue\" and \"open an issue\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 6. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"bug\" and \"error message\" while looking at the computer. Maria starts a short conversation. She says \"How do I get to ...?\" and \"Is it far from here?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"issue\" and \"open an issue\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 6 天 · 入门故事。今天把“错误与调试、问路和交通、Issue 问题单”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：bug, error message, How do I get to ...?, Is it far from here?, issue, open an issue。",
    "hard": [
     {
      "w": "bug",
@@ -44,42 +45,6 @@
      "def": "错误信息，说明程序为何失败的提示"
     },
     {
-     "w": "debugging",
-     "type": "term",
-     "def": "调试，寻找并修复程序问题的过程"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"reproduce an error\" when I talk about my computer project. I say \"root cause\" when I talk about my computer project. I say \"fix a bug\" when I talk about my computer project. I tell my teammate: Today I use reproduce an error, root cause, and fix a bug. At the end, I say: I can use reproduce an error clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"reproduce an error\" when I talk about my computer project. I say \"root cause\" when I talk about my computer project. I say \"fix a bug\" when I talk about my computer project. I tell my teammate: Today I use reproduce an error, root cause, and fix a bug. At the end, I say: I can use reproduce an error clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“错误与调试”。先听英文，再尝试不看中文复述。reproduce an error：复现错误，重复触发同一个问题。示例：I learned how to use \"reproduce an error\" in a computer task.root cause：根本原因，真正导致问题发生的原因。示例：I learned how to use \"root cause\" in a computer task.fix a bug：修复缺陷，改正导致程序出错的代码。示例：I learned how to use \"fix a bug\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "reproduce an error",
-     "type": "idiom",
-     "def": "复现错误，重复触发同一个问题"
-    },
-    {
-     "w": "root cause",
-     "type": "idiom",
-     "def": "根本原因，真正导致问题发生的原因"
-    },
-    {
-     "w": "fix a bug",
-     "type": "idiom",
-     "def": "修复缺陷，改正导致程序出错的代码"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"How do I get to ...?\" in a daily conversation. I say \"Is it far from here?\" in a daily conversation. I say \"Turn left.\" in a daily conversation. I tell my teammate: Today I use How do I get to ...?, Is it far from here?, and Turn left.. At the end, I say: I can use How do I get to ...? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"How do I get to ...?\" in a daily conversation. I say \"Is it far from here?\" in a daily conversation. I say \"Turn left.\" in a daily conversation. I tell my teammate: Today I use How do I get to ...?, Is it far from here?, and Turn left.. At the end, I say: I can use How do I get to ...? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“问路和交通”。先听英文，再尝试不看中文复述。How do I get to ...?：我怎么去……？。示例：How do I get to ?Is it far from here?：离这里远吗？。示例：Is it far from here?Turn left.：向左转。。示例：Turn left.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "How do I get to ...?",
      "type": "idiom",
      "def": "我怎么去……？"
@@ -90,22 +55,72 @@
      "def": "离这里远吗？"
     },
     {
-     "w": "Turn left.",
+     "w": "issue",
+     "type": "term",
+     "def": "问题单，用来记录缺陷、需求或讨论事项"
+    },
+    {
+     "w": "open an issue",
      "type": "idiom",
-     "def": "向左转。"
+     "def": "创建问题单，开始记录一个待处理事项"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Go straight.\" in a daily conversation. I say \"Which line should I take?\" in a daily conversation. I say \"Where should I get off?\" in a daily conversation. I tell my teammate: Today I use Go straight., Which line should I take?, and Where should I get off?. At the end, I say: I can use Go straight. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Go straight.\" in a daily conversation. I say \"Which line should I take?\" in a daily conversation. I say \"Where should I get off?\" in a daily conversation. I tell my teammate: Today I use Go straight., Which line should I take?, and Where should I get off?. At the end, I say: I can use Go straight. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“问路和交通”。先听英文，再尝试不看中文复述。Go straight.：一直向前走。。示例：Go straight.Which line should I take?：我应该坐哪条线路？。示例：Which line should I take?Where should I get off?：我应该在哪里下车？。示例：Where should I get off?最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "It is day 6. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"debugging\" and \"reproduce an error\" while looking at the computer. Maria starts a short conversation. She says \"Turn left.\" and \"Go straight.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"issue title\" and \"issue description\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 6. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"debugging\" and \"reproduce an error\" while looking at the computer. Maria starts a short conversation. She says \"Turn left.\" and \"Go straight.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"issue title\" and \"issue description\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 6 天 · 入门故事。今天把“错误与调试、问路和交通、Issue 问题单”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：debugging, reproduce an error, Turn left., Go straight., issue title, issue description。",
    "hard": [
+    {
+     "w": "debugging",
+     "type": "term",
+     "def": "调试，寻找并修复程序问题的过程"
+    },
+    {
+     "w": "reproduce an error",
+     "type": "idiom",
+     "def": "复现错误，重复触发同一个问题"
+    },
+    {
+     "w": "Turn left.",
+     "type": "idiom",
+     "def": "向左转。"
+    },
     {
      "w": "Go straight.",
      "type": "idiom",
      "def": "一直向前走。"
+    },
+    {
+     "w": "issue title",
+     "type": "idiom",
+     "def": "问题单标题，用一句话概括问题"
+    },
+    {
+     "w": "issue description",
+     "type": "idiom",
+     "def": "问题单描述，提供背景、现象和目标"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "It is day 6. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"root cause\" and \"fix a bug\" while looking at the computer. Maria starts a short conversation. She says \"Which line should I take?\" and \"Where should I get off?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"bug report\" and \"close an issue\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 6. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"root cause\" and \"fix a bug\" while looking at the computer. Maria starts a short conversation. She says \"Which line should I take?\" and \"Where should I get off?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"bug report\" and \"close an issue\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 6 天 · 入门故事。今天把“错误与调试、问路和交通、Issue 问题单”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：root cause, fix a bug, Which line should I take?, Where should I get off?, bug report, close an issue。",
+   "hard": [
+    {
+     "w": "root cause",
+     "type": "idiom",
+     "def": "根本原因，真正导致问题发生的原因"
+    },
+    {
+     "w": "fix a bug",
+     "type": "idiom",
+     "def": "修复缺陷，改正导致程序出错的代码"
     },
     {
      "w": "Which line should I take?",
@@ -116,42 +131,6 @@
      "w": "Where should I get off?",
      "type": "idiom",
      "def": "我应该在哪里下车？"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue\" when I work with my team. I use \"open an issue\" when I work with my team. I use \"issue title\" when I work with my team. I tell my teammate: Today I use issue, open an issue, and issue title. At the end, I say: I can use issue clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue\" when I work with my team. I use \"open an issue\" when I work with my team. I use \"issue title\" when I work with my team. I tell my teammate: Today I use issue, open an issue, and issue title. At the end, I say: I can use issue clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Issue 问题单”。先听英文，再尝试不看中文复述。issue：问题单，用来记录缺陷、需求或讨论事项。示例：Our team uses \"issue\" to keep the project clear.open an issue：创建问题单，开始记录一个待处理事项。示例：Our team uses \"open an issue\" to keep the project clear.issue title：问题单标题，用一句话概括问题。示例：Our team uses \"issue title\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "issue",
-     "type": "term",
-     "def": "问题单，用来记录缺陷、需求或讨论事项"
-    },
-    {
-     "w": "open an issue",
-     "type": "idiom",
-     "def": "创建问题单，开始记录一个待处理事项"
-    },
-    {
-     "w": "issue title",
-     "type": "idiom",
-     "def": "问题单标题，用一句话概括问题"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue description\" when I work with my team. I use \"bug report\" when I work with my team. I use \"close an issue\" when I work with my team. I tell my teammate: Today I use issue description, bug report, and close an issue. At the end, I say: I can use issue description clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue description\" when I work with my team. I use \"bug report\" when I work with my team. I use \"close an issue\" when I work with my team. I tell my teammate: Today I use issue description, bug report, and close an issue. At the end, I say: I can use issue description clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Issue 问题单”。先听英文，再尝试不看中文复述。issue description：问题单描述，提供背景、现象和目标。示例：Our team uses \"issue description\" to keep the project clear.bug report：缺陷报告，详细记录软件错误。示例：Our team uses \"bug report\" to keep the project clear.close an issue：关闭问题单，表示事项已经解决或不再处理。示例：Our team uses \"close an issue\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "issue description",
-     "type": "idiom",
-     "def": "问题单描述，提供背景、现象和目标"
     },
     {
      "w": "bug report",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "I am new on the team.",
+   "cn": "我是团队里的新人。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "I need to X.",
+   "cn": "我需要做 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I feel ready for the next step.",
+   "cn": "我准备好进行下一步了。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 6 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 6 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "bug",
     "error message",

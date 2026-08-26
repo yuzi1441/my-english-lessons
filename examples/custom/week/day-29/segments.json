@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 29: Vocabulary Speaking Lab",
-  "title_zh": "第 29 天：当天词汇口语实验室",
+  "title": "Day 29: Alex's 专业场景",
+  "title_zh": "第 29 天：Alex 的专业场景",
   "source": "Vocabulary Month · Day 29",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 484,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 285,
+   "segment_count": 3,
+   "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "部署、监控与回滚 × 项目介绍 × 发布工作流",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"deployment\" when I talk about my computer project. I say \"monitoring\" when I talk about my computer project. I say \"health check\" when I talk about my computer project. I tell my teammate: Today I use deployment, monitoring, and health check. At the end, I say: I can use deployment clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"deployment\" when I talk about my computer project. I say \"monitoring\" when I talk about my computer project. I say \"health check\" when I talk about my computer project. I tell my teammate: Today I use deployment, monitoring, and health check. At the end, I say: I can use deployment clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“部署、监控与回滚”。先听英文，再尝试不看中文复述。deployment：部署，把应用发布到可运行环境的过程。示例：I learned how to use \"deployment\" in a computer task.monitoring：监控，持续观察系统状态和关键指标。示例：I learned how to use \"monitoring\" in a computer task.health check：健康检查，自动判断服务是否正常运行。示例：I learned how to use \"health check\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"deployment\" and \"monitoring\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Today I'd like to present ...\" and \"The goal of this project is ...\" to clarify the goal, timing, and next step. Finally, Alex documents \"release branch\" and \"deployment approval\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"deployment\" and \"monitoring\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Today I'd like to present ...\" and \"The goal of this project is ...\" to clarify the goal, timing, and next step. Finally, Alex documents \"release branch\" and \"deployment approval\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 29 天 · 专业场景。今天把“部署、监控与回滚、项目介绍、发布工作流”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：deployment, monitoring, Today I'd like to present ..., The goal of this project is ..., release branch, deployment approval。",
    "hard": [
     {
      "w": "deployment",
@@ -44,42 +45,6 @@
      "def": "监控，持续观察系统状态和关键指标"
     },
     {
-     "w": "health check",
-     "type": "idiom",
-     "def": "健康检查，自动判断服务是否正常运行"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"rollback\" when I talk about my computer project. I say \"production environment\" when I talk about my computer project. I say \"service outage\" when I talk about my computer project. I tell my teammate: Today I use rollback, production environment, and service outage. At the end, I say: I can use rollback clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"rollback\" when I talk about my computer project. I say \"production environment\" when I talk about my computer project. I say \"service outage\" when I talk about my computer project. I tell my teammate: Today I use rollback, production environment, and service outage. At the end, I say: I can use rollback clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“部署、监控与回滚”。先听英文，再尝试不看中文复述。rollback：回滚，把系统恢复到之前稳定版本。示例：I learned how to use \"rollback\" in a computer task.production environment：生产环境，真实用户使用的正式运行环境。示例：I learned how to use \"production environment\" in a computer task.service outage：服务中断，用户暂时无法使用服务的情况。示例：I learned how to use \"service outage\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "rollback",
-     "type": "term",
-     "def": "回滚，把系统恢复到之前稳定版本"
-    },
-    {
-     "w": "production environment",
-     "type": "idiom",
-     "def": "生产环境，真实用户使用的正式运行环境"
-    },
-    {
-     "w": "service outage",
-     "type": "idiom",
-     "def": "服务中断，用户暂时无法使用服务的情况"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Today I'd like to present ...\" in a daily conversation. I say \"The goal of this project is ...\" in a daily conversation. I say \"Here is the main result.\" in a daily conversation. I tell my teammate: Today I use Today I'd like to present ..., The goal of this project is ..., and Here is the main result.. At the end, I say: I can use Today I'd like to present ... clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Today I'd like to present ...\" in a daily conversation. I say \"The goal of this project is ...\" in a daily conversation. I say \"Here is the main result.\" in a daily conversation. I tell my teammate: Today I use Today I'd like to present ..., The goal of this project is ..., and Here is the main result.. At the end, I say: I can use Today I'd like to present ... clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“项目介绍”。先听英文，再尝试不看中文复述。Today I'd like to present ...：今天我想介绍……。示例：Today I'd like to presentThe goal of this project is ...：这个项目的目标是……。示例：The goal of this project isHere is the main result.：这是主要结果。。示例：Here is the main result.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "Today I'd like to present ...",
      "type": "idiom",
      "def": "今天我想介绍……"
@@ -90,22 +55,72 @@
      "def": "这个项目的目标是……"
     },
     {
-     "w": "Here is the main result.",
+     "w": "release branch",
      "type": "idiom",
-     "def": "这是主要结果。"
+     "def": "发布分支，为准备新版本建立的分支"
+    },
+    {
+     "w": "deployment approval",
+     "type": "idiom",
+     "def": "部署批准，发布生产环境前的人工确认"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"This chart shows ...\" in a daily conversation. I say \"One limitation is ...\" in a daily conversation. I say \"My recommendation is ...\" in a daily conversation. I tell my teammate: Today I use This chart shows ..., One limitation is ..., and My recommendation is .... At the end, I say: I can use This chart shows ... clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"This chart shows ...\" in a daily conversation. I say \"One limitation is ...\" in a daily conversation. I say \"My recommendation is ...\" in a daily conversation. I tell my teammate: Today I use This chart shows ..., One limitation is ..., and My recommendation is .... At the end, I say: I can use This chart shows ... clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“项目介绍”。先听英文，再尝试不看中文复述。This chart shows ...：这张图显示……。示例：This chart showsOne limitation is ...：一个局限是……。示例：One limitation isMy recommendation is ...：我的建议是……。示例：My recommendation is最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"health check\" and \"rollback\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Here is the main result.\" and \"This chart shows ...\" to clarify the goal, timing, and next step. Finally, Alex documents \"production deploy\" and \"rollback plan\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"health check\" and \"rollback\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Here is the main result.\" and \"This chart shows ...\" to clarify the goal, timing, and next step. Finally, Alex documents \"production deploy\" and \"rollback plan\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 29 天 · 专业场景。今天把“部署、监控与回滚、项目介绍、发布工作流”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：health check, rollback, Here is the main result., This chart shows ..., production deploy, rollback plan。",
    "hard": [
+    {
+     "w": "health check",
+     "type": "idiom",
+     "def": "健康检查，自动判断服务是否正常运行"
+    },
+    {
+     "w": "rollback",
+     "type": "term",
+     "def": "回滚，把系统恢复到之前稳定版本"
+    },
+    {
+     "w": "Here is the main result.",
+     "type": "idiom",
+     "def": "这是主要结果。"
+    },
     {
      "w": "This chart shows ...",
      "type": "idiom",
      "def": "这张图显示……"
+    },
+    {
+     "w": "production deploy",
+     "type": "idiom",
+     "def": "生产部署，把版本发布给真实用户"
+    },
+    {
+     "w": "rollback plan",
+     "type": "idiom",
+     "def": "回滚计划，发布失败时恢复旧版本的方案"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"production environment\" and \"service outage\" before making a decision and explains the possible risk. In the discussion, Alex uses \"One limitation is ...\" and \"My recommendation is ...\" to clarify the goal, timing, and next step. Finally, Alex documents \"release checklist\" and \"post-release check\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"production environment\" and \"service outage\" before making a decision and explains the possible risk. In the discussion, Alex uses \"One limitation is ...\" and \"My recommendation is ...\" to clarify the goal, timing, and next step. Finally, Alex documents \"release checklist\" and \"post-release check\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 29 天 · 专业场景。今天把“部署、监控与回滚、项目介绍、发布工作流”放进 Alex 的连续故事。Alex now handles an AI, security, or deployment task and gives a careful update.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：production environment, service outage, One limitation is ..., My recommendation is ..., release checklist, post-release check。",
+   "hard": [
+    {
+     "w": "production environment",
+     "type": "idiom",
+     "def": "生产环境，真实用户使用的正式运行环境"
+    },
+    {
+     "w": "service outage",
+     "type": "idiom",
+     "def": "服务中断，用户暂时无法使用服务的情况"
     },
     {
      "w": "One limitation is ...",
@@ -116,42 +131,6 @@
      "w": "My recommendation is ...",
      "type": "idiom",
      "def": "我的建议是……"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"release branch\" when I work with my team. I use \"deployment approval\" when I work with my team. I use \"production deploy\" when I work with my team. I tell my teammate: Today I use release branch, deployment approval, and production deploy. At the end, I say: I can use release branch clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"release branch\" when I work with my team. I use \"deployment approval\" when I work with my team. I use \"production deploy\" when I work with my team. I tell my teammate: Today I use release branch, deployment approval, and production deploy. At the end, I say: I can use release branch clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“发布工作流”。先听英文，再尝试不看中文复述。release branch：发布分支，为准备新版本建立的分支。示例：Our team uses \"release branch\" to keep the project clear.deployment approval：部署批准，发布生产环境前的人工确认。示例：Our team uses \"deployment approval\" to keep the project clear.production deploy：生产部署，把版本发布给真实用户。示例：Our team uses \"production deploy\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "release branch",
-     "type": "idiom",
-     "def": "发布分支，为准备新版本建立的分支"
-    },
-    {
-     "w": "deployment approval",
-     "type": "idiom",
-     "def": "部署批准，发布生产环境前的人工确认"
-    },
-    {
-     "w": "production deploy",
-     "type": "idiom",
-     "def": "生产部署，把版本发布给真实用户"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"rollback plan\" when I work with my team. I use \"release checklist\" when I work with my team. I use \"post-release check\" when I work with my team. I tell my teammate: Today I use rollback plan, release checklist, and post-release check. At the end, I say: I can use rollback plan clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"rollback plan\" when I work with my team. I use \"release checklist\" when I work with my team. I use \"post-release check\" when I work with my team. I tell my teammate: Today I use rollback plan, release checklist, and post-release check. At the end, I say: I can use rollback plan clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“发布工作流”。先听英文，再尝试不看中文复述。rollback plan：回滚计划，发布失败时恢复旧版本的方案。示例：Our team uses \"rollback plan\" to keep the project clear.release checklist：发布检查表，上线前逐项确认的事项列表。示例：Our team uses \"release checklist\" to keep the project clear.post-release check：发布后检查，上线后确认系统正常的验证。示例：Our team uses \"post-release check\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "rollback plan",
-     "type": "idiom",
-     "def": "回滚计划，发布失败时恢复旧版本的方案"
     },
     {
      "w": "release checklist",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 29 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 29 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "deployment",
     "monitoring",

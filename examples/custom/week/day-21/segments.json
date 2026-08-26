@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 21: Vocabulary Speaking Lab",
-  "title_zh": "第 21 天：当天词汇口语实验室",
+  "title": "Day 21: Alex's 项目协作",
+  "title_zh": "第 21 天：Alex 的项目协作",
   "source": "Vocabulary Month · Day 21",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 492,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 294,
+   "segment_count": 3,
+   "difficulty": "项目协作 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "Git 工作区状态 × 租房和维修 × 修改或撤销提交",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"working tree\" when I talk about my computer project. I say \"staged change\" when I talk about my computer project. I say \"unstaged change\" when I talk about my computer project. I tell my teammate: Today I use working tree, staged change, and unstaged change. At the end, I say: I can use working tree clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"working tree\" when I talk about my computer project. I say \"staged change\" when I talk about my computer project. I say \"unstaged change\" when I talk about my computer project. I tell my teammate: Today I use working tree, staged change, and unstaged change. At the end, I say: I can use working tree clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“Git 工作区状态”。先听英文，再尝试不看中文复述。working tree：工作树，当前检出的项目文件状态。示例：I learned how to use \"working tree\" in a computer task.staged change：已暂存改动，准备进入下一次提交的变化。示例：I learned how to use \"staged change\" in a computer task.unstaged change：未暂存改动，尚未加入提交区的变化。示例：I learned how to use \"unstaged change\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "By day 21, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"working tree\" and \"staged change\" and explains why each one matters. When a teammate asks for an update, Alex uses \"The sink is leaking.\" and \"The light isn't working.\" to keep the conversation clear. After the meeting, Alex updates the project with \"amend a commit\" and \"revert a commit\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 21, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"working tree\" and \"staged change\" and explains why each one matters. When a teammate asks for an update, Alex uses \"The sink is leaking.\" and \"The light isn't working.\" to keep the conversation clear. After the meeting, Alex updates the project with \"amend a commit\" and \"revert a commit\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 21 天 · 项目协作。今天把“Git 工作区状态、租房和维修、修改或撤销提交”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：working tree, staged change, The sink is leaking., The light isn't working., amend a commit, revert a commit。",
    "hard": [
     {
      "w": "working tree",
@@ -44,42 +45,6 @@
      "def": "已暂存改动，准备进入下一次提交的变化"
     },
     {
-     "w": "unstaged change",
-     "type": "idiom",
-     "def": "未暂存改动，尚未加入提交区的变化"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"tracked file\" when I talk about my computer project. I say \"untracked file\" when I talk about my computer project. I say \"clean state\" when I talk about my computer project. I tell my teammate: Today I use tracked file, untracked file, and clean state. At the end, I say: I can use tracked file clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"tracked file\" when I talk about my computer project. I say \"untracked file\" when I talk about my computer project. I say \"clean state\" when I talk about my computer project. I tell my teammate: Today I use tracked file, untracked file, and clean state. At the end, I say: I can use tracked file clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“Git 工作区状态”。先听英文，再尝试不看中文复述。tracked file：已跟踪文件，Git 已经纳入版本管理的文件。示例：I learned how to use \"tracked file\" in a computer task.untracked file：未跟踪文件，Git 尚未纳入版本管理的新文件。示例：I learned how to use \"untracked file\" in a computer task.clean state：干净状态，工作区没有未提交变化的状态。示例：I learned how to use \"clean state\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "tracked file",
-     "type": "idiom",
-     "def": "已跟踪文件，Git 已经纳入版本管理的文件"
-    },
-    {
-     "w": "untracked file",
-     "type": "idiom",
-     "def": "未跟踪文件，Git 尚未纳入版本管理的新文件"
-    },
-    {
-     "w": "clean state",
-     "type": "idiom",
-     "def": "干净状态，工作区没有未提交变化的状态"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The sink is leaking.\" in a daily conversation. I say \"The light isn't working.\" in a daily conversation. I say \"Could someone repair it?\" in a daily conversation. I tell my teammate: Today I use The sink is leaking., The light isn't working., and Could someone repair it?. At the end, I say: I can use The sink is leaking. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The sink is leaking.\" in a daily conversation. I say \"The light isn't working.\" in a daily conversation. I say \"Could someone repair it?\" in a daily conversation. I tell my teammate: Today I use The sink is leaking., The light isn't working., and Could someone repair it?. At the end, I say: I can use The sink is leaking. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“租房和维修”。先听英文，再尝试不看中文复述。The sink is leaking.：水槽漏水了。。示例：The sink is leaking.The light isn't working.：灯不亮了。。示例：The light isn't working.Could someone repair it?：可以派人来修吗？。示例：Could someone repair it?最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "The sink is leaking.",
      "type": "idiom",
      "def": "水槽漏水了。"
@@ -90,22 +55,72 @@
      "def": "灯不亮了。"
     },
     {
-     "w": "Could someone repair it?",
+     "w": "amend a commit",
      "type": "idiom",
-     "def": "可以派人来修吗？"
+     "def": "修改最近提交，补充或更正最后一次提交"
+    },
+    {
+     "w": "revert a commit",
+     "type": "idiom",
+     "def": "还原提交，用新提交抵消旧提交的改动"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"When can the technician come?\" in a daily conversation. I say \"The problem is getting worse.\" in a daily conversation. I say \"It's working again now.\" in a daily conversation. I tell my teammate: Today I use When can the technician come?, The problem is getting worse., and It's working again now.. At the end, I say: I can use When can the technician come? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"When can the technician come?\" in a daily conversation. I say \"The problem is getting worse.\" in a daily conversation. I say \"It's working again now.\" in a daily conversation. I tell my teammate: Today I use When can the technician come?, The problem is getting worse., and It's working again now.. At the end, I say: I can use When can the technician come? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“租房和维修”。先听英文，再尝试不看中文复述。When can the technician come?：维修人员什么时候能来？。示例：When can the technician come?The problem is getting worse.：问题越来越严重。。示例：The problem is getting worse.It's working again now.：现在又能用了。。示例：It's working again now.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "By day 21, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"unstaged change\" and \"tracked file\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Could someone repair it?\" and \"When can the technician come?\" to keep the conversation clear. After the meeting, Alex updates the project with \"reset a branch\" and \"discard changes\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 21, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"unstaged change\" and \"tracked file\" and explains why each one matters. When a teammate asks for an update, Alex uses \"Could someone repair it?\" and \"When can the technician come?\" to keep the conversation clear. After the meeting, Alex updates the project with \"reset a branch\" and \"discard changes\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 21 天 · 项目协作。今天把“Git 工作区状态、租房和维修、修改或撤销提交”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：unstaged change, tracked file, Could someone repair it?, When can the technician come?, reset a branch, discard changes。",
    "hard": [
+    {
+     "w": "unstaged change",
+     "type": "idiom",
+     "def": "未暂存改动，尚未加入提交区的变化"
+    },
+    {
+     "w": "tracked file",
+     "type": "idiom",
+     "def": "已跟踪文件，Git 已经纳入版本管理的文件"
+    },
+    {
+     "w": "Could someone repair it?",
+     "type": "idiom",
+     "def": "可以派人来修吗？"
+    },
     {
      "w": "When can the technician come?",
      "type": "idiom",
      "def": "维修人员什么时候能来？"
+    },
+    {
+     "w": "reset a branch",
+     "type": "idiom",
+     "def": "重置分支，把分支指针移到另一提交"
+    },
+    {
+     "w": "discard changes",
+     "type": "idiom",
+     "def": "丢弃改动，放弃尚未保存的文件变化"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "By day 21, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"untracked file\" and \"clean state\" and explains why each one matters. When a teammate asks for an update, Alex uses \"The problem is getting worse.\" and \"It's working again now.\" to keep the conversation clear. After the meeting, Alex updates the project with \"restore a file\" and \"force push\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "tts": "By day 21, Alex is helping with a growing project. Because the project is growing, Alex needs to explain each step to the team. Before the meeting, Alex reviews \"untracked file\" and \"clean state\" and explains why each one matters. When a teammate asks for an update, Alex uses \"The problem is getting worse.\" and \"It's working again now.\" to keep the conversation clear. After the meeting, Alex updates the project with \"restore a file\" and \"force push\" and records the next action. The team understands the plan, and Alex has learned to connect vocabulary with real work.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 21 天 · 项目协作。今天把“Git 工作区状态、租房和维修、修改或撤销提交”放进 Alex 的连续故事。Alex now connects ideas, explains a problem, and reports progress.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：untracked file, clean state, The problem is getting worse., It's working again now., restore a file, force push。",
+   "hard": [
+    {
+     "w": "untracked file",
+     "type": "idiom",
+     "def": "未跟踪文件，Git 尚未纳入版本管理的新文件"
+    },
+    {
+     "w": "clean state",
+     "type": "idiom",
+     "def": "干净状态，工作区没有未提交变化的状态"
     },
     {
      "w": "The problem is getting worse.",
@@ -116,42 +131,6 @@
      "w": "It's working again now.",
      "type": "idiom",
      "def": "现在又能用了。"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"amend a commit\" when I work with my team. I use \"revert a commit\" when I work with my team. I use \"reset a branch\" when I work with my team. I tell my teammate: Today I use amend a commit, revert a commit, and reset a branch. At the end, I say: I can use amend a commit clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"amend a commit\" when I work with my team. I use \"revert a commit\" when I work with my team. I use \"reset a branch\" when I work with my team. I tell my teammate: Today I use amend a commit, revert a commit, and reset a branch. At the end, I say: I can use amend a commit clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“修改或撤销提交”。先听英文，再尝试不看中文复述。amend a commit：修改最近提交，补充或更正最后一次提交。示例：Our team uses \"amend a commit\" to keep the project clear.revert a commit：还原提交，用新提交抵消旧提交的改动。示例：Our team uses \"revert a commit\" to keep the project clear.reset a branch：重置分支，把分支指针移到另一提交。示例：Our team uses \"reset a branch\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "amend a commit",
-     "type": "idiom",
-     "def": "修改最近提交，补充或更正最后一次提交"
-    },
-    {
-     "w": "revert a commit",
-     "type": "idiom",
-     "def": "还原提交，用新提交抵消旧提交的改动"
-    },
-    {
-     "w": "reset a branch",
-     "type": "idiom",
-     "def": "重置分支，把分支指针移到另一提交"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"discard changes\" when I work with my team. I use \"restore a file\" when I work with my team. I use \"force push\" when I work with my team. I tell my teammate: Today I use discard changes, restore a file, and force push. At the end, I say: I can use discard changes clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"discard changes\" when I work with my team. I use \"restore a file\" when I work with my team. I use \"force push\" when I work with my team. I tell my teammate: Today I use discard changes, restore a file, and force push. At the end, I say: I can use discard changes clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“修改或撤销提交”。先听英文，再尝试不看中文复述。discard changes：丢弃改动，放弃尚未保存的文件变化。示例：Our team uses \"discard changes\" to keep the project clear.restore a file：恢复文件，把文件恢复到指定状态。示例：Our team uses \"restore a file\" to keep the project clear.force push：强制推送，用本地历史覆盖远程分支历史。示例：Our team uses \"force push\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "discard changes",
-     "type": "idiom",
-     "def": "丢弃改动，放弃尚未保存的文件变化"
     },
     {
      "w": "restore a file",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 21 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 21 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "working tree",
     "staged change",

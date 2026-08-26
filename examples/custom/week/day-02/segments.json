@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 2: Vocabulary Speaking Lab",
-  "title_zh": "第 2 天：当天词汇口语实验室",
+  "title": "Day 2: Alex's 入门故事",
+  "title_zh": "第 2 天：Alex 的入门故事",
   "source": "Vocabulary Month · Day 2",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 482,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 260,
+   "segment_count": 3,
+   "difficulty": "入门故事 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "文件、文件夹与路径 × 请求帮助 × 复制远程项目",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"file\" when I talk about my computer project. I say \"folder\" when I talk about my computer project. I say \"file path\" when I talk about my computer project. I tell my teammate: Today I use file, folder, and file path. At the end, I say: I can use file clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"file\" when I talk about my computer project. I say \"folder\" when I talk about my computer project. I say \"file path\" when I talk about my computer project. I tell my teammate: Today I use file, folder, and file path. At the end, I say: I can use file clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“文件、文件夹与路径”。先听英文，再尝试不看中文复述。file：文件，保存文字、图片或程序等内容的单位。示例：I learned how to use \"file\" in a computer task.folder：文件夹，用来分类存放文件。示例：I learned how to use \"folder\" in a computer task.file path：文件路径，表示文件所在位置的文字地址。示例：I learned how to use \"file path\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "It is day 2. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"file\" and \"folder\" while looking at the computer. Maria starts a short conversation. She says \"Could you help me?\" and \"I need some help.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"clone a repository\" and \"local copy\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 2. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"file\" and \"folder\" while looking at the computer. Maria starts a short conversation. She says \"Could you help me?\" and \"I need some help.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"clone a repository\" and \"local copy\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 2 天 · 入门故事。今天把“文件、文件夹与路径、请求帮助、复制远程项目”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：file, folder, Could you help me?, I need some help., clone a repository, local copy。",
    "hard": [
     {
      "w": "file",
@@ -44,42 +45,6 @@
      "def": "文件夹，用来分类存放文件"
     },
     {
-     "w": "file path",
-     "type": "idiom",
-     "def": "文件路径，表示文件所在位置的文字地址"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"absolute path\" when I talk about my computer project. I say \"relative path\" when I talk about my computer project. I say \"file extension\" when I talk about my computer project. I tell my teammate: Today I use absolute path, relative path, and file extension. At the end, I say: I can use absolute path clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"absolute path\" when I talk about my computer project. I say \"relative path\" when I talk about my computer project. I say \"file extension\" when I talk about my computer project. I tell my teammate: Today I use absolute path, relative path, and file extension. At the end, I say: I can use absolute path clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“文件、文件夹与路径”。先听英文，再尝试不看中文复述。absolute path：绝对路径，从系统根位置开始的完整地址。示例：I learned how to use \"absolute path\" in a computer task.relative path：相对路径，从当前位置出发的地址。示例：I learned how to use \"relative path\" in a computer task.file extension：文件扩展名，表示文件类型的结尾部分。示例：I learned how to use \"file extension\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "absolute path",
-     "type": "idiom",
-     "def": "绝对路径，从系统根位置开始的完整地址"
-    },
-    {
-     "w": "relative path",
-     "type": "idiom",
-     "def": "相对路径，从当前位置出发的地址"
-    },
-    {
-     "w": "file extension",
-     "type": "idiom",
-     "def": "文件扩展名，表示文件类型的结尾部分"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Could you help me?\" in a daily conversation. I say \"I need some help.\" in a daily conversation. I say \"Could you show me how?\" in a daily conversation. I tell my teammate: Today I use Could you help me?, I need some help., and Could you show me how?. At the end, I say: I can use Could you help me? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Could you help me?\" in a daily conversation. I say \"I need some help.\" in a daily conversation. I say \"Could you show me how?\" in a daily conversation. I tell my teammate: Today I use Could you help me?, I need some help., and Could you show me how?. At the end, I say: I can use Could you help me? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“请求帮助”。先听英文，再尝试不看中文复述。Could you help me?：你能帮帮我吗？。示例：Could you help me?I need some help.：我需要一些帮助。。示例：I need some help.Could you show me how?：你能示范一下怎么做吗？。示例：Could you show me how?最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "Could you help me?",
      "type": "idiom",
      "def": "你能帮帮我吗？"
@@ -90,22 +55,72 @@
      "def": "我需要一些帮助。"
     },
     {
-     "w": "Could you show me how?",
+     "w": "clone a repository",
      "type": "idiom",
-     "def": "你能示范一下怎么做吗？"
+     "def": "克隆仓库，把远程仓库完整复制到本地"
+    },
+    {
+     "w": "local copy",
+     "type": "idiom",
+     "def": "本地副本，保存在自己电脑上的项目版本"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I don't understand yet.\" in a daily conversation. I say \"Please say that again.\" in a daily conversation. I say \"Thank you for your help.\" in a daily conversation. I tell my teammate: Today I use I don't understand yet., Please say that again., and Thank you for your help.. At the end, I say: I can use I don't understand yet. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I don't understand yet.\" in a daily conversation. I say \"Please say that again.\" in a daily conversation. I say \"Thank you for your help.\" in a daily conversation. I tell my teammate: Today I use I don't understand yet., Please say that again., and Thank you for your help.. At the end, I say: I can use I don't understand yet. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“请求帮助”。先听英文，再尝试不看中文复述。I don't understand yet.：我还没有理解。。示例：I don't understand yet.Please say that again.：请再说一遍。。示例：Please say that again.Thank you for your help.：谢谢你的帮助。。示例：Thank you for your help.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "It is day 2. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"file path\" and \"absolute path\" while looking at the computer. Maria starts a short conversation. She says \"Could you show me how?\" and \"I don't understand yet.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"download the code\" and \"remote repository\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 2. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"file path\" and \"absolute path\" while looking at the computer. Maria starts a short conversation. She says \"Could you show me how?\" and \"I don't understand yet.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"download the code\" and \"remote repository\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 2 天 · 入门故事。今天把“文件、文件夹与路径、请求帮助、复制远程项目”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：file path, absolute path, Could you show me how?, I don't understand yet., download the code, remote repository。",
    "hard": [
+    {
+     "w": "file path",
+     "type": "idiom",
+     "def": "文件路径，表示文件所在位置的文字地址"
+    },
+    {
+     "w": "absolute path",
+     "type": "idiom",
+     "def": "绝对路径，从系统根位置开始的完整地址"
+    },
+    {
+     "w": "Could you show me how?",
+     "type": "idiom",
+     "def": "你能示范一下怎么做吗？"
+    },
     {
      "w": "I don't understand yet.",
      "type": "idiom",
      "def": "我还没有理解。"
+    },
+    {
+     "w": "download the code",
+     "type": "idiom",
+     "def": "下载代码，把代码文件保存到本地"
+    },
+    {
+     "w": "remote repository",
+     "type": "idiom",
+     "def": "远程仓库，保存在 GitHub 等服务器上的仓库"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "It is day 2. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"relative path\" and \"file extension\" while looking at the computer. Maria starts a short conversation. She says \"Please say that again.\" and \"Thank you for your help.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"clone URL\" and \"default directory\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 2. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"relative path\" and \"file extension\" while looking at the computer. Maria starts a short conversation. She says \"Please say that again.\" and \"Thank you for your help.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"clone URL\" and \"default directory\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 2 天 · 入门故事。今天把“文件、文件夹与路径、请求帮助、复制远程项目”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：relative path, file extension, Please say that again., Thank you for your help., clone URL, default directory。",
+   "hard": [
+    {
+     "w": "relative path",
+     "type": "idiom",
+     "def": "相对路径，从当前位置出发的地址"
+    },
+    {
+     "w": "file extension",
+     "type": "idiom",
+     "def": "文件扩展名，表示文件类型的结尾部分"
     },
     {
      "w": "Please say that again.",
@@ -116,42 +131,6 @@
      "w": "Thank you for your help.",
      "type": "idiom",
      "def": "谢谢你的帮助。"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"clone a repository\" when I work with my team. I use \"local copy\" when I work with my team. I use \"download the code\" when I work with my team. I tell my teammate: Today I use clone a repository, local copy, and download the code. At the end, I say: I can use clone a repository clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"clone a repository\" when I work with my team. I use \"local copy\" when I work with my team. I use \"download the code\" when I work with my team. I tell my teammate: Today I use clone a repository, local copy, and download the code. At the end, I say: I can use clone a repository clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“复制远程项目”。先听英文，再尝试不看中文复述。clone a repository：克隆仓库，把远程仓库完整复制到本地。示例：Our team uses \"clone a repository\" to keep the project clear.local copy：本地副本，保存在自己电脑上的项目版本。示例：Our team uses \"local copy\" to keep the project clear.download the code：下载代码，把代码文件保存到本地。示例：Our team uses \"download the code\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "clone a repository",
-     "type": "idiom",
-     "def": "克隆仓库，把远程仓库完整复制到本地"
-    },
-    {
-     "w": "local copy",
-     "type": "idiom",
-     "def": "本地副本，保存在自己电脑上的项目版本"
-    },
-    {
-     "w": "download the code",
-     "type": "idiom",
-     "def": "下载代码，把代码文件保存到本地"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"remote repository\" when I work with my team. I use \"clone URL\" when I work with my team. I use \"default directory\" when I work with my team. I tell my teammate: Today I use remote repository, clone URL, and default directory. At the end, I say: I can use remote repository clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"remote repository\" when I work with my team. I use \"clone URL\" when I work with my team. I use \"default directory\" when I work with my team. I tell my teammate: Today I use remote repository, clone URL, and default directory. At the end, I say: I can use remote repository clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“复制远程项目”。先听英文，再尝试不看中文复述。remote repository：远程仓库，保存在 GitHub 等服务器上的仓库。示例：Our team uses \"remote repository\" to keep the project clear.clone URL：克隆地址，用于定位远程仓库的网址。示例：Our team uses \"clone U R L\" to keep the project clear.default directory：默认目录，命令未另行指定时使用的文件夹。示例：Our team uses \"default directory\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "remote repository",
-     "type": "idiom",
-     "def": "远程仓库，保存在 GitHub 等服务器上的仓库"
     },
     {
      "w": "clone URL",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "I am new on the team.",
+   "cn": "我是团队里的新人。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "I need to X.",
+   "cn": "我需要做 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I feel ready for the next step.",
+   "cn": "我准备好进行下一步了。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 2 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 2 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "file",
     "folder",

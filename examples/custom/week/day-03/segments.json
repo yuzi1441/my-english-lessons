@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 3: Vocabulary Speaking Lab",
-  "title_zh": "第 3 天：当天词汇口语实验室",
+  "title": "Day 3: Alex's 入门故事",
+  "title_zh": "第 3 天：Alex 的入门故事",
   "source": "Vocabulary Month · Day 3",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 474,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 257,
+   "segment_count": 3,
+   "difficulty": "入门故事 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "程序、代码与运行 × 时间和日程 × 提交代码",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"program\" when I talk about my computer project. I say \"command\" when I talk about my computer project. I say \"run a program\" when I talk about my computer project. I tell my teammate: Today I use program, command, and run a program. At the end, I say: I can use program clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"program\" when I talk about my computer project. I say \"command\" when I talk about my computer project. I say \"run a program\" when I talk about my computer project. I tell my teammate: Today I use program, command, and run a program. At the end, I say: I can use program clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“程序、代码与运行”。先听英文，再尝试不看中文复述。program：程序，让电脑执行任务的一组指令。示例：I learned how to use \"program\" in a computer task.command：命令，告诉电脑立即执行某个操作的文字。示例：I learned how to use \"command\" in a computer task.run a program：运行程序，让电脑开始执行程序指令。示例：I learned how to use \"run a program\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "It is day 3. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"program\" and \"command\" while looking at the computer. Maria starts a short conversation. She says \"What time is it?\" and \"What time works for you?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"commit\" and \"commit message\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 3. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"program\" and \"command\" while looking at the computer. Maria starts a short conversation. She says \"What time is it?\" and \"What time works for you?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"commit\" and \"commit message\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 3 天 · 入门故事。今天把“程序、代码与运行、时间和日程、提交代码”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：program, command, What time is it?, What time works for you?, commit, commit message。",
    "hard": [
     {
      "w": "program",
@@ -44,42 +45,6 @@
      "def": "命令，告诉电脑立即执行某个操作的文字"
     },
     {
-     "w": "run a program",
-     "type": "idiom",
-     "def": "运行程序，让电脑开始执行程序指令"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"execute code\" when I talk about my computer project. I say \"output\" when I talk about my computer project. I say \"stop a process\" when I talk about my computer project. I tell my teammate: Today I use execute code, output, and stop a process. At the end, I say: I can use execute code clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"execute code\" when I talk about my computer project. I say \"output\" when I talk about my computer project. I say \"stop a process\" when I talk about my computer project. I tell my teammate: Today I use execute code, output, and stop a process. At the end, I say: I can use execute code clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“程序、代码与运行”。先听英文，再尝试不看中文复述。execute code：执行代码，让代码真正产生结果。示例：I learned how to use \"execute code\" in a computer task.output：输出，程序处理后给出的结果。示例：I learned how to use \"output\" in a computer task.stop a process：停止进程，让正在运行的任务结束。示例：I learned how to use \"stop a process\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "execute code",
-     "type": "idiom",
-     "def": "执行代码，让代码真正产生结果"
-    },
-    {
-     "w": "output",
-     "type": "term",
-     "def": "输出，程序处理后给出的结果"
-    },
-    {
-     "w": "stop a process",
-     "type": "idiom",
-     "def": "停止进程，让正在运行的任务结束"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What time is it?\" in a daily conversation. I say \"What time works for you?\" in a daily conversation. I say \"I'm available at ...\" in a daily conversation. I tell my teammate: Today I use What time is it?, What time works for you?, and I'm available at .... At the end, I say: I can use What time is it? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What time is it?\" in a daily conversation. I say \"What time works for you?\" in a daily conversation. I say \"I'm available at ...\" in a daily conversation. I tell my teammate: Today I use What time is it?, What time works for you?, and I'm available at .... At the end, I say: I can use What time is it? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“时间和日程”。先听英文，再尝试不看中文复述。What time is it?：现在几点？。示例：What time is it?What time works for you?：什么时间对你方便？。示例：What time works for you?I'm available at ...：我在……有时间。。示例：I'm available at最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "What time is it?",
      "type": "idiom",
      "def": "现在几点？"
@@ -90,22 +55,72 @@
      "def": "什么时间对你方便？"
     },
     {
-     "w": "I'm available at ...",
+     "w": "commit",
+     "type": "term",
+     "def": "提交，保存一组有意义的代码变化"
+    },
+    {
+     "w": "commit message",
      "type": "idiom",
-     "def": "我在……有时间。"
+     "def": "提交说明，解释本次提交修改了什么"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Let's meet at ...\" in a daily conversation. I say \"I'm running late.\" in a daily conversation. I say \"See you tomorrow.\" in a daily conversation. I tell my teammate: Today I use Let's meet at ..., I'm running late., and See you tomorrow.. At the end, I say: I can use Let's meet at ... clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Let's meet at ...\" in a daily conversation. I say \"I'm running late.\" in a daily conversation. I say \"See you tomorrow.\" in a daily conversation. I tell my teammate: Today I use Let's meet at ..., I'm running late., and See you tomorrow.. At the end, I say: I can use Let's meet at ... clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“时间和日程”。先听英文，再尝试不看中文复述。Let's meet at ...：我们……见吧。。示例：Let's meet atI'm running late.：我要迟到了。。示例：I'm running late.See you tomorrow.：明天见。。示例：See you tomorrow.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "It is day 3. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"run a program\" and \"execute code\" while looking at the computer. Maria starts a short conversation. She says \"I'm available at ...\" and \"Let's meet at ...\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"save a snapshot\" and \"commit history\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 3. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"run a program\" and \"execute code\" while looking at the computer. Maria starts a short conversation. She says \"I'm available at ...\" and \"Let's meet at ...\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"save a snapshot\" and \"commit history\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 3 天 · 入门故事。今天把“程序、代码与运行、时间和日程、提交代码”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：run a program, execute code, I'm available at ..., Let's meet at ..., save a snapshot, commit history。",
    "hard": [
+    {
+     "w": "run a program",
+     "type": "idiom",
+     "def": "运行程序，让电脑开始执行程序指令"
+    },
+    {
+     "w": "execute code",
+     "type": "idiom",
+     "def": "执行代码，让代码真正产生结果"
+    },
+    {
+     "w": "I'm available at ...",
+     "type": "idiom",
+     "def": "我在……有时间。"
+    },
     {
      "w": "Let's meet at ...",
      "type": "idiom",
      "def": "我们……见吧。"
+    },
+    {
+     "w": "save a snapshot",
+     "type": "idiom",
+     "def": "保存快照，记录项目在某一时刻的状态"
+    },
+    {
+     "w": "commit history",
+     "type": "idiom",
+     "def": "提交历史，按时间保存的历次代码变化"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "It is day 3. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"output\" and \"stop a process\" while looking at the computer. Maria starts a short conversation. She says \"I'm running late.\" and \"See you tomorrow.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"commit hash\" and \"make a commit\". Alex repeats the new words twice and feels ready for the next small step.",
+   "tts": "It is day 3. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"output\" and \"stop a process\" while looking at the computer. Maria starts a short conversation. She says \"I'm running late.\" and \"See you tomorrow.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"commit hash\" and \"make a commit\". Alex repeats the new words twice and feels ready for the next small step.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 3 天 · 入门故事。今天把“程序、代码与运行、时间和日程、提交代码”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：output, stop a process, I'm running late., See you tomorrow., commit hash, make a commit。",
+   "hard": [
+    {
+     "w": "output",
+     "type": "term",
+     "def": "输出，程序处理后给出的结果"
+    },
+    {
+     "w": "stop a process",
+     "type": "idiom",
+     "def": "停止进程，让正在运行的任务结束"
     },
     {
      "w": "I'm running late.",
@@ -116,42 +131,6 @@
      "w": "See you tomorrow.",
      "type": "idiom",
      "def": "明天见。"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"commit\" when I work with my team. I use \"commit message\" when I work with my team. I use \"save a snapshot\" when I work with my team. I tell my teammate: Today I use commit, commit message, and save a snapshot. At the end, I say: I can use commit clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"commit\" when I work with my team. I use \"commit message\" when I work with my team. I use \"save a snapshot\" when I work with my team. I tell my teammate: Today I use commit, commit message, and save a snapshot. At the end, I say: I can use commit clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“提交代码”。先听英文，再尝试不看中文复述。commit：提交，保存一组有意义的代码变化。示例：Our team uses \"commit\" to keep the project clear.commit message：提交说明，解释本次提交修改了什么。示例：Our team uses \"commit message\" to keep the project clear.save a snapshot：保存快照，记录项目在某一时刻的状态。示例：Our team uses \"save a snapshot\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "commit",
-     "type": "term",
-     "def": "提交，保存一组有意义的代码变化"
-    },
-    {
-     "w": "commit message",
-     "type": "idiom",
-     "def": "提交说明，解释本次提交修改了什么"
-    },
-    {
-     "w": "save a snapshot",
-     "type": "idiom",
-     "def": "保存快照，记录项目在某一时刻的状态"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"commit history\" when I work with my team. I use \"commit hash\" when I work with my team. I use \"make a commit\" when I work with my team. I tell my teammate: Today I use commit history, commit hash, and make a commit. At the end, I say: I can use commit history clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"commit history\" when I work with my team. I use \"commit hash\" when I work with my team. I use \"make a commit\" when I work with my team. I tell my teammate: Today I use commit history, commit hash, and make a commit. At the end, I say: I can use commit history clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“提交代码”。先听英文，再尝试不看中文复述。commit history：提交历史，按时间保存的历次代码变化。示例：Our team uses \"commit history\" to keep the project clear.commit hash：提交哈希，用来唯一识别某次提交的字符串。示例：Our team uses \"commit hash\" to keep the project clear.make a commit：创建提交，把当前选中的变化记入历史。示例：Our team uses \"make a commit\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "commit history",
-     "type": "idiom",
-     "def": "提交历史，按时间保存的历次代码变化"
     },
     {
      "w": "commit hash",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "I am new on the team.",
+   "cn": "我是团队里的新人。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "I need to X.",
+   "cn": "我需要做 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I feel ready for the next step.",
+   "cn": "我准备好进行下一步了。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 3 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 3 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "program",
     "command",

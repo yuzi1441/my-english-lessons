@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 12: Vocabulary Speaking Lab",
-  "title_zh": "第 12 天：当天词汇口语实验室",
+  "title": "Day 12: Alex's 基础工作",
+  "title_zh": "第 12 天：Alex 的基础工作",
   "source": "Vocabulary Month · Day 12",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 477,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 276,
+   "segment_count": 3,
+   "difficulty": "基础工作 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "DNS、域名与 URL × 酒店与旅行 × 标签与里程碑",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"DNS\" when I talk about my computer project. I say \"domain name\" when I talk about my computer project. I say \"web address\" when I talk about my computer project. I tell my teammate: Today I use DNS, domain name, and web address. At the end, I say: I can use DNS clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"DNS\" when I talk about my computer project. I say \"domain name\" when I talk about my computer project. I say \"web address\" when I talk about my computer project. I tell my teammate: Today I use DNS, domain name, and web address. At the end, I say: I can use DNS clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“DNS、域名与 URL”。先听英文，再尝试不看中文复述。DNS：域名系统，把容易记的域名转换成网络地址。示例：I learned how to use \"D N S\" in a computer task.domain name：域名，网站便于记忆的名称。示例：I learned how to use \"domain name\" in a computer task.web address：网页地址，用来定位网络页面的地址。示例：I learned how to use \"web address\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"DNS\" and \"domain name\" and writes one clear note about the work. During a short chat, Maria uses \"I'd like to check in.\" and \"I have a reservation.\". Alex answers politely and asks one question. Then Alex records the progress with \"label\" and \"milestone\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"DNS\" and \"domain name\" and writes one clear note about the work. During a short chat, Maria uses \"I'd like to check in.\" and \"I have a reservation.\". Alex answers politely and asks one question. Then Alex records the progress with \"label\" and \"milestone\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 12 天 · 基础工作。今天把“DNS、域名与 URL、酒店与旅行、标签与里程碑”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：DNS, domain name, I'd like to check in., I have a reservation., label, milestone。",
    "hard": [
     {
      "w": "DNS",
@@ -44,42 +45,6 @@
      "def": "域名，网站便于记忆的名称"
     },
     {
-     "w": "web address",
-     "type": "idiom",
-     "def": "网页地址，用来定位网络页面的地址"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"URL\" when I talk about my computer project. I say \"subdomain\" when I talk about my computer project. I say \"resolve a domain\" when I talk about my computer project. I tell my teammate: Today I use URL, subdomain, and resolve a domain. At the end, I say: I can use URL clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"URL\" when I talk about my computer project. I say \"subdomain\" when I talk about my computer project. I say \"resolve a domain\" when I talk about my computer project. I tell my teammate: Today I use URL, subdomain, and resolve a domain. At the end, I say: I can use URL clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“DNS、域名与 URL”。先听英文，再尝试不看中文复述。URL：统一资源定位符，网络资源的完整地址。示例：I learned how to use \"U R L\" in a computer task.subdomain：子域名，位于主域名前的分级名称。示例：I learned how to use \"subdomain\" in a computer task.resolve a domain：解析域名，把域名转换为 IP 地址。示例：I learned how to use \"resolve a domain\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "URL",
-     "type": "term",
-     "def": "统一资源定位符，网络资源的完整地址"
-    },
-    {
-     "w": "subdomain",
-     "type": "term",
-     "def": "子域名，位于主域名前的分级名称"
-    },
-    {
-     "w": "resolve a domain",
-     "type": "idiom",
-     "def": "解析域名，把域名转换为 IP 地址"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'd like to check in.\" in a daily conversation. I say \"I have a reservation.\" in a daily conversation. I say \"Is breakfast included?\" in a daily conversation. I tell my teammate: Today I use I'd like to check in., I have a reservation., and Is breakfast included?. At the end, I say: I can use I'd like to check in. clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'd like to check in.\" in a daily conversation. I say \"I have a reservation.\" in a daily conversation. I say \"Is breakfast included?\" in a daily conversation. I tell my teammate: Today I use I'd like to check in., I have a reservation., and Is breakfast included?. At the end, I say: I can use I'd like to check in. clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“酒店与旅行”。先听英文，再尝试不看中文复述。I'd like to check in.：我想办理入住。。示例：I'd like to check in.I have a reservation.：我有预订。。示例：I have a reservation.Is breakfast included?：包含早餐吗？。示例：Is breakfast included?最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "I'd like to check in.",
      "type": "idiom",
      "def": "我想办理入住。"
@@ -90,22 +55,72 @@
      "def": "我有预订。"
     },
     {
-     "w": "Is breakfast included?",
-     "type": "idiom",
-     "def": "包含早餐吗？"
+     "w": "label",
+     "type": "term",
+     "def": "标签，用来分类问题单和拉取请求"
+    },
+    {
+     "w": "milestone",
+     "type": "term",
+     "def": "里程碑，把一组事项归入同一个阶段目标"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What time is checkout?\" in a daily conversation. I say \"Could I get another towel?\" in a daily conversation. I say \"Can you store my luggage?\" in a daily conversation. I tell my teammate: Today I use What time is checkout?, Could I get another towel?, and Can you store my luggage?. At the end, I say: I can use What time is checkout? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What time is checkout?\" in a daily conversation. I say \"Could I get another towel?\" in a daily conversation. I say \"Can you store my luggage?\" in a daily conversation. I tell my teammate: Today I use What time is checkout?, Could I get another towel?, and Can you store my luggage?. At the end, I say: I can use What time is checkout? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“酒店与旅行”。先听英文，再尝试不看中文复述。What time is checkout?：几点退房？。示例：What time is checkout?Could I get another towel?：可以再给我一条毛巾吗？。示例：Could I get another towel?Can you store my luggage?：你们能寄存我的行李吗？。示例：Can you store my luggage?最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"web address\" and \"URL\" and writes one clear note about the work. During a short chat, Maria uses \"Is breakfast included?\" and \"What time is checkout?\". Alex answers politely and asks one question. Then Alex records the progress with \"add a label\" and \"remove a label\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"web address\" and \"URL\" and writes one clear note about the work. During a short chat, Maria uses \"Is breakfast included?\" and \"What time is checkout?\". Alex answers politely and asks one question. Then Alex records the progress with \"add a label\" and \"remove a label\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 12 天 · 基础工作。今天把“DNS、域名与 URL、酒店与旅行、标签与里程碑”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：web address, URL, Is breakfast included?, What time is checkout?, add a label, remove a label。",
    "hard": [
+    {
+     "w": "web address",
+     "type": "idiom",
+     "def": "网页地址，用来定位网络页面的地址"
+    },
+    {
+     "w": "URL",
+     "type": "term",
+     "def": "统一资源定位符，网络资源的完整地址"
+    },
+    {
+     "w": "Is breakfast included?",
+     "type": "idiom",
+     "def": "包含早餐吗？"
+    },
     {
      "w": "What time is checkout?",
      "type": "idiom",
      "def": "几点退房？"
+    },
+    {
+     "w": "add a label",
+     "type": "idiom",
+     "def": "添加标签，为事项增加分类"
+    },
+    {
+     "w": "remove a label",
+     "type": "idiom",
+     "def": "移除标签，取消已有分类"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"subdomain\" and \"resolve a domain\" and writes one clear note about the work. During a short chat, Maria uses \"Could I get another towel?\" and \"Can you store my luggage?\". Alex answers politely and asks one question. Then Alex records the progress with \"due date\" and \"project board\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"subdomain\" and \"resolve a domain\" and writes one clear note about the work. During a short chat, Maria uses \"Could I get another towel?\" and \"Can you store my luggage?\". Alex answers politely and asks one question. Then Alex records the progress with \"due date\" and \"project board\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 12 天 · 基础工作。今天把“DNS、域名与 URL、酒店与旅行、标签与里程碑”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：subdomain, resolve a domain, Could I get another towel?, Can you store my luggage?, due date, project board。",
+   "hard": [
+    {
+     "w": "subdomain",
+     "type": "term",
+     "def": "子域名，位于主域名前的分级名称"
+    },
+    {
+     "w": "resolve a domain",
+     "type": "idiom",
+     "def": "解析域名，把域名转换为 IP 地址"
     },
     {
      "w": "Could I get another towel?",
@@ -116,42 +131,6 @@
      "w": "Can you store my luggage?",
      "type": "idiom",
      "def": "你们能寄存我的行李吗？"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"label\" when I work with my team. I use \"milestone\" when I work with my team. I use \"add a label\" when I work with my team. I tell my teammate: Today I use label, milestone, and add a label. At the end, I say: I can use label clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"label\" when I work with my team. I use \"milestone\" when I work with my team. I use \"add a label\" when I work with my team. I tell my teammate: Today I use label, milestone, and add a label. At the end, I say: I can use label clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“标签与里程碑”。先听英文，再尝试不看中文复述。label：标签，用来分类问题单和拉取请求。示例：Our team uses \"label\" to keep the project clear.milestone：里程碑，把一组事项归入同一个阶段目标。示例：Our team uses \"milestone\" to keep the project clear.add a label：添加标签，为事项增加分类。示例：Our team uses \"add a label\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "label",
-     "type": "term",
-     "def": "标签，用来分类问题单和拉取请求"
-    },
-    {
-     "w": "milestone",
-     "type": "term",
-     "def": "里程碑，把一组事项归入同一个阶段目标"
-    },
-    {
-     "w": "add a label",
-     "type": "idiom",
-     "def": "添加标签，为事项增加分类"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"remove a label\" when I work with my team. I use \"due date\" when I work with my team. I use \"project board\" when I work with my team. I tell my teammate: Today I use remove a label, due date, and project board. At the end, I say: I can use remove a label clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"remove a label\" when I work with my team. I use \"due date\" when I work with my team. I use \"project board\" when I work with my team. I tell my teammate: Today I use remove a label, due date, and project board. At the end, I say: I can use remove a label clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“标签与里程碑”。先听英文，再尝试不看中文复述。remove a label：移除标签，取消已有分类。示例：Our team uses \"remove a label\" to keep the project clear.due date：截止日期，计划完成事项的日期。示例：Our team uses \"due date\" to keep the project clear.project board：项目看板，用卡片追踪工作状态的页面。示例：Our team uses \"project board\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "remove a label",
-     "type": "idiom",
-     "def": "移除标签，取消已有分类"
     },
     {
      "w": "due date",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 12 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 12 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "DNS",
     "domain name",

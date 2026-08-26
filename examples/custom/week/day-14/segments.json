@@ -1,37 +1,38 @@
 {
  "meta": {
-  "title": "Day 14: Vocabulary Speaking Lab",
-  "title_zh": "第 14 天：当天词汇口语实验室",
+  "title": "Day 14: Alex's 基础工作",
+  "title_zh": "第 14 天：Alex 的基础工作",
   "source": "Vocabulary Month · Day 14",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 492,
-   "segment_count": 6,
-   "difficulty": "词汇主线 · 口语应用",
+   "word_count": 282,
+   "segment_count": 3,
+   "difficulty": "基础工作 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先学词汇 · 再听读 · 最后主动输出",
+   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
    "value_points": [
-    "当天 18 个词汇全部进入口语正文",
+    "当天 18 个词汇都进入 Alex 的故事",
     "客户端、服务器与 API × 餐厅沟通 × 草稿 PR",
-    "30 秒个人化输出"
+    "30 秒口语输出"
    ],
-   "suggested_pace": "先猜意思 · 听读正文 · 遮住中文复述 · 用自己的经历替换"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-20%",
-  "speed": 0.8
+  "rate": "-8%",
+  "speed": 0.92
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"client\" when I talk about my computer project. I say \"server\" when I talk about my computer project. I say \"API\" when I talk about my computer project. I tell my teammate: Today I use client, server, and API. At the end, I say: I can use client clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"client\" when I talk about my computer project. I say \"server\" when I talk about my computer project. I say \"API\" when I talk about my computer project. I tell my teammate: Today I use client, server, and API. At the end, I say: I can use client clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“客户端、服务器与 API”。先听英文，再尝试不看中文复述。client：客户端，主动向服务器请求服务的程序。示例：I learned how to use \"client\" in a computer task.server：服务器，接收请求并提供数据或功能的程序。示例：I learned how to use \"server\" in a computer task.API：应用程序接口，让不同程序按约定互相通信。示例：I learned how to use \"A P I\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
+   "en": "On day 14, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"client\" and \"server\" and writes one clear note about the work. During a short chat, Maria uses \"Do you have a table for two?\" and \"Could we see the menu?\". Alex answers politely and asks one question. Then Alex records the progress with \"draft pull request\" and \"mark as ready\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 14, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"client\" and \"server\" and writes one clear note about the work. During a short chat, Maria uses \"Do you have a table for two?\" and \"Could we see the menu?\". Alex answers politely and asks one question. Then Alex records the progress with \"draft pull request\" and \"mark as ready\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-01.m4a",
+   "zh": "第 14 天 · 基础工作。今天把“客户端、服务器与 API、餐厅沟通、草稿 PR”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：client, server, Do you have a table for two?, Could we see the menu?, draft pull request, mark as ready。",
    "hard": [
     {
      "w": "client",
@@ -44,42 +45,6 @@
      "def": "服务器，接收请求并提供数据或功能的程序"
     },
     {
-     "w": "API",
-     "type": "term",
-     "def": "应用程序接口，让不同程序按约定互相通信"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"endpoint\" when I talk about my computer project. I say \"send a request\" when I talk about my computer project. I say \"receive a response\" when I talk about my computer project. I tell my teammate: Today I use endpoint, send a request, and receive a response. At the end, I say: I can use endpoint clearly today.",
-   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"endpoint\" when I talk about my computer project. I say \"send a request\" when I talk about my computer project. I say \"receive a response\" when I talk about my computer project. I tell my teammate: Today I use endpoint, send a request, and receive a response. At the end, I say: I can use endpoint clearly today.",
-   "zh": "今天口语练习围绕“计算机英语”，场景是“客户端、服务器与 API”。先听英文，再尝试不看中文复述。endpoint：接口端点，API 中提供某项功能的具体地址。示例：I learned how to use \"endpoint\" in a computer task.send a request：发送请求，向服务器提出操作或数据需求。示例：I learned how to use \"send a request\" in a computer task.receive a response：接收响应，取得服务器返回的结果。示例：I learned how to use \"receive a response\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "endpoint",
-     "type": "term",
-     "def": "接口端点，API 中提供某项功能的具体地址"
-    },
-    {
-     "w": "send a request",
-     "type": "idiom",
-     "def": "发送请求，向服务器提出操作或数据需求"
-    },
-    {
-     "w": "receive a response",
-     "type": "idiom",
-     "def": "接收响应，取得服务器返回的结果"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Do you have a table for two?\" in a daily conversation. I say \"Could we see the menu?\" in a daily conversation. I say \"I'm allergic to peanuts.\" in a daily conversation. I tell my teammate: Today I use Do you have a table for two?, Could we see the menu?, and I'm allergic to peanuts.. At the end, I say: I can use Do you have a table for two? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Do you have a table for two?\" in a daily conversation. I say \"Could we see the menu?\" in a daily conversation. I say \"I'm allergic to peanuts.\" in a daily conversation. I tell my teammate: Today I use Do you have a table for two?, Could we see the menu?, and I'm allergic to peanuts.. At the end, I say: I can use Do you have a table for two? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“餐厅沟通”。先听英文，再尝试不看中文复述。Do you have a table for two?：有两个人的桌位吗？。示例：Do you have a table for two?Could we see the menu?：可以给我们看菜单吗？。示例：Could we see the menu?I'm allergic to peanuts.：我对花生过敏。。示例：I'm allergic to peanuts.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
      "w": "Do you have a table for two?",
      "type": "idiom",
      "def": "有两个人的桌位吗？"
@@ -90,22 +55,72 @@
      "def": "可以给我们看菜单吗？"
     },
     {
-     "w": "I'm allergic to peanuts.",
+     "w": "draft pull request",
      "type": "idiom",
-     "def": "我对花生过敏。"
+     "def": "草稿拉取请求，尚未准备好合并的 PR"
+    },
+    {
+     "w": "mark as ready",
+     "type": "idiom",
+     "def": "标记为可评审，表示草稿已经准备完成"
     }
    ]
   },
   {
-   "id": "seg-04",
-   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Is this dish spicy?\" in a daily conversation. I say \"Could you pack this to go?\" in a daily conversation. I say \"Everything was delicious.\" in a daily conversation. I tell my teammate: Today I use Is this dish spicy?, Could you pack this to go?, and Everything was delicious.. At the end, I say: I can use Is this dish spicy? clearly today.",
-   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Is this dish spicy?\" in a daily conversation. I say \"Could you pack this to go?\" in a daily conversation. I say \"Everything was delicious.\" in a daily conversation. I tell my teammate: Today I use Is this dish spicy?, Could you pack this to go?, and Everything was delicious.. At the end, I say: I can use Is this dish spicy? clearly today.",
-   "zh": "今天口语练习围绕“日常交流英语”，场景是“餐厅沟通”。先听英文，再尝试不看中文复述。Is this dish spicy?：这道菜辣吗？。示例：Is this dish spicy?Could you pack this to go?：可以把这个打包吗？。示例：Could you pack this to go?Everything was delicious.：所有菜都很好吃。。示例：Everything was delicious.最后用自己的经历替换示例中的内容，再说一遍。",
+   "id": "seg-02",
+   "en": "On day 14, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"API\" and \"endpoint\" and writes one clear note about the work. During a short chat, Maria uses \"I'm allergic to peanuts.\" and \"Is this dish spicy?\". Alex answers politely and asks one question. Then Alex records the progress with \"convert to draft\" and \"review status\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 14, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"API\" and \"endpoint\" and writes one clear note about the work. During a short chat, Maria uses \"I'm allergic to peanuts.\" and \"Is this dish spicy?\". Alex answers politely and asks one question. Then Alex records the progress with \"convert to draft\" and \"review status\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-02.m4a",
+   "zh": "第 14 天 · 基础工作。今天把“客户端、服务器与 API、餐厅沟通、草稿 PR”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：API, endpoint, I'm allergic to peanuts., Is this dish spicy?, convert to draft, review status。",
    "hard": [
+    {
+     "w": "API",
+     "type": "term",
+     "def": "应用程序接口，让不同程序按约定互相通信"
+    },
+    {
+     "w": "endpoint",
+     "type": "term",
+     "def": "接口端点，API 中提供某项功能的具体地址"
+    },
+    {
+     "w": "I'm allergic to peanuts.",
+     "type": "idiom",
+     "def": "我对花生过敏。"
+    },
     {
      "w": "Is this dish spicy?",
      "type": "idiom",
      "def": "这道菜辣吗？"
+    },
+    {
+     "w": "convert to draft",
+     "type": "idiom",
+     "def": "转换为草稿，把正式 PR 退回准备状态"
+    },
+    {
+     "w": "review status",
+     "type": "idiom",
+     "def": "评审状态，显示 PR 当前是否获得批准"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "en": "On day 14, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"send a request\" and \"receive a response\" and writes one clear note about the work. During a short chat, Maria uses \"Could you pack this to go?\" and \"Everything was delicious.\". Alex answers politely and asks one question. Then Alex records the progress with \"base branch\" and \"compare branch\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "tts": "On day 14, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"send a request\" and \"receive a response\" and writes one clear note about the work. During a short chat, Maria uses \"Could you pack this to go?\" and \"Everything was delicious.\". Alex answers politely and asks one question. Then Alex records the progress with \"base branch\" and \"compare branch\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
+   "audio_file": "audio/seg-03.m4a",
+   "zh": "第 14 天 · 基础工作。今天把“客户端、服务器与 API、餐厅沟通、草稿 PR”放进 Alex 的连续故事。Alex can now describe a small task and ask a clear question.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：send a request, receive a response, Could you pack this to go?, Everything was delicious., base branch, compare branch。",
+   "hard": [
+    {
+     "w": "send a request",
+     "type": "idiom",
+     "def": "发送请求，向服务器提出操作或数据需求"
+    },
+    {
+     "w": "receive a response",
+     "type": "idiom",
+     "def": "接收响应，取得服务器返回的结果"
     },
     {
      "w": "Could you pack this to go?",
@@ -116,42 +131,6 @@
      "w": "Everything was delicious.",
      "type": "idiom",
      "def": "所有菜都很好吃。"
-    }
-   ]
-  },
-  {
-   "id": "seg-05",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"draft pull request\" when I work with my team. I use \"mark as ready\" when I work with my team. I use \"convert to draft\" when I work with my team. I tell my teammate: Today I use draft pull request, mark as ready, and convert to draft. At the end, I say: I can use draft pull request clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"draft pull request\" when I work with my team. I use \"mark as ready\" when I work with my team. I use \"convert to draft\" when I work with my team. I tell my teammate: Today I use draft pull request, mark as ready, and convert to draft. At the end, I say: I can use draft pull request clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“草稿 PR”。先听英文，再尝试不看中文复述。draft pull request：草稿拉取请求，尚未准备好合并的 PR。示例：Our team uses \"draft pull request\" to keep the project clear.mark as ready：标记为可评审，表示草稿已经准备完成。示例：Our team uses \"mark as ready\" to keep the project clear.convert to draft：转换为草稿，把正式 PR 退回准备状态。示例：Our team uses \"convert to draft\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "draft pull request",
-     "type": "idiom",
-     "def": "草稿拉取请求，尚未准备好合并的 PR"
-    },
-    {
-     "w": "mark as ready",
-     "type": "idiom",
-     "def": "标记为可评审，表示草稿已经准备完成"
-    },
-    {
-     "w": "convert to draft",
-     "type": "idiom",
-     "def": "转换为草稿，把正式 PR 退回准备状态"
-    }
-   ]
-  },
-  {
-   "id": "seg-06",
-   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"review status\" when I work with my team. I use \"base branch\" when I work with my team. I use \"compare branch\" when I work with my team. I tell my teammate: Today I use review status, base branch, and compare branch. At the end, I say: I can use review status clearly today.",
-   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"review status\" when I work with my team. I use \"base branch\" when I work with my team. I use \"compare branch\" when I work with my team. I tell my teammate: Today I use review status, base branch, and compare branch. At the end, I say: I can use review status clearly today.",
-   "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“草稿 PR”。先听英文，再尝试不看中文复述。review status：评审状态，显示 PR 当前是否获得批准。示例：Our team uses \"review status\" to keep the project clear.base branch：基础分支，PR 最终准备合入的目标分支。示例：Our team uses \"base branch\" to keep the project clear.compare branch：比较分支，PR 中包含新改动的来源分支。示例：Our team uses \"compare branch\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
-   "hard": [
-    {
-     "w": "review status",
-     "type": "idiom",
-     "def": "评审状态，显示 PR 当前是否获得批准"
     },
     {
      "w": "base branch",
@@ -200,22 +179,22 @@
  ],
  "patterns": [
   {
-   "t": "The key expression is X.",
-   "cn": "关键表达是 X。"
+   "t": "First, I X.",
+   "cn": "首先，我 X。"
   },
   {
-   "t": "In Chinese, it means X.",
-   "cn": "它的中文意思是 X。"
+   "t": "Then I X.",
+   "cn": "然后，我 X。"
   },
   {
-   "t": "I can use X clearly today.",
-   "cn": "我今天能清楚地使用 X。"
+   "t": "I can explain X from start to finish.",
+   "cn": "我能从头到尾解释 X。"
   }
  ],
  "transfer_tasks": [
   {
    "genre": "standup_update",
-   "task": "Use any three Day 14 vocabulary items. Say what you did, what problem you had, and what you will do next.",
+   "task": "Use any three Day 14 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "client",
     "server",

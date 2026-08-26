@@ -67,7 +67,8 @@ def audio_status(out_dir: Path, segments: list[dict], word_terms: list[str] | No
     audio_dir = out_dir / "audio"
     missing = []
     for seg in segments:
-        expected = audio_dir / f"{seg['id']}.mp3"
+        audio_file = str(seg.get("audio_file") or f"audio/{seg['id']}.mp3")
+        expected = out_dir / audio_file if audio_file.startswith("audio/") else audio_dir / audio_file
         if not expected.exists() or expected.stat().st_size == 0:
             missing.append(seg["id"])
     word_missing = []
@@ -96,8 +97,9 @@ def word_timings(out_dir: Path, segments: list[dict], mismatched: list[str] | No
             continue
         if isinstance(words, dict):
             expected = words.get("mp3_bytes")
-            mp3 = out_dir / "audio" / f"{seg['id']}.mp3"
-            if expected is not None and (not mp3.exists() or mp3.stat().st_size != expected):
+            audio_file = str(seg.get("audio_file") or f"audio/{seg['id']}.mp3")
+            audio_path = out_dir / audio_file if audio_file.startswith("audio/") else out_dir / "audio" / audio_file
+            if expected is not None and (not audio_path.exists() or audio_path.stat().st_size != expected):
                 if mismatched is not None:
                     mismatched.append(seg["id"])
                 continue
