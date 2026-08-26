@@ -1,13 +1,13 @@
 {
  "meta": {
-  "title": "Day 4: Alex's 入门故事",
+  "title": "Day 4: Alex's My First Week",
   "title_zh": "第 4 天：Alex 的入门故事",
   "source": "Vocabulary Month · Day 4",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 256,
+   "word_count": 259,
    "segment_count": 3,
    "difficulty": "入门故事 · 词汇主线",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"variable\" and \"value\" while looking at the computer. Maria starts a short conversation. She says \"How much is this?\" and \"That's too expensive.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"branch\" and \"main branch\". Alex repeats the new words twice and feels ready for the next small step.",
-   "tts": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"variable\" and \"value\" while looking at the computer. Maria starts a short conversation. She says \"How much is this?\" and \"That's too expensive.\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"branch\" and \"main branch\". Alex repeats the new words twice and feels ready for the next small step.",
+   "en": "It is day 4. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"variable\" and \"value\" for a small task. During our chat, she says \"How much is this?\" and \"That's too expensive.\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"branch\" and \"main branch\". The task is small, but I understand a little more than yesterday.",
+   "tts": "It is day 4. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"variable\" and \"value\" for a small task. During our chat, she says \"How much is this?\" and \"That's too expensive.\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"branch\" and \"main branch\". The task is small, but I understand a little more than yesterday.",
    "audio_file": "audio/seg-01.m4a",
    "zh": "第 4 天 · 入门故事。今天把“变量与数据类型、购物和价格、分支”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：variable, value, How much is this?, That's too expensive., branch, main branch。",
    "hard": [
@@ -68,8 +68,8 @@
   },
   {
    "id": "seg-02",
-   "en": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"string\" and \"integer\" while looking at the computer. Maria starts a short conversation. She says \"Do you have a smaller size?\" and \"Can I pay by card?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"feature branch\" and \"create a branch\". Alex repeats the new words twice and feels ready for the next small step.",
-   "tts": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"string\" and \"integer\" while looking at the computer. Maria starts a short conversation. She says \"Do you have a smaller size?\" and \"Can I pay by card?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"feature branch\" and \"create a branch\". Alex repeats the new words twice and feels ready for the next small step.",
+   "en": "It is day 4. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"string\" and \"integer\" for a small task. During our chat, she says \"Do you have a smaller size?\" and \"Can I pay by card?\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"feature branch\" and \"create a branch\". The task is small, but I understand a little more than yesterday.",
+   "tts": "It is day 4. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"string\" and \"integer\" for a small task. During our chat, she says \"Do you have a smaller size?\" and \"Can I pay by card?\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"feature branch\" and \"create a branch\". The task is small, but I understand a little more than yesterday.",
    "audio_file": "audio/seg-02.m4a",
    "zh": "第 4 天 · 入门故事。今天把“变量与数据类型、购物和价格、分支”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：string, integer, Do you have a smaller size?, Can I pay by card?, feature branch, create a branch。",
    "hard": [
@@ -107,8 +107,8 @@
   },
   {
    "id": "seg-03",
-   "en": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"boolean\" and \"data type\" while looking at the computer. Maria starts a short conversation. She says \"I'd like this one.\" and \"Could I get a receipt?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"switch branches\" and \"branch name\". Alex repeats the new words twice and feels ready for the next small step.",
-   "tts": "It is day 4. Alex is new on the team. Alex is new, so the team uses short sentences. In the morning, Alex practises \"boolean\" and \"data type\" while looking at the computer. Maria starts a short conversation. She says \"I'd like this one.\" and \"Could I get a receipt?\". Alex listens and replies. After lunch, Alex works with the team on GitHub. The team talks about \"switch branches\" and \"branch name\". Alex repeats the new words twice and feels ready for the next small step.",
+   "en": "It is day 4. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"boolean\" and \"data type\" for a small task. During our chat, she says \"I'd like this one.\" and \"Could I get a receipt?\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"switch branches\" and \"branch name\". The task is small, but I understand a little more than yesterday.",
+   "tts": "It is day 4. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"boolean\" and \"data type\" for a small task. During our chat, she says \"I'd like this one.\" and \"Could I get a receipt?\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"switch branches\" and \"branch name\". The task is small, but I understand a little more than yesterday.",
    "audio_file": "audio/seg-03.m4a",
    "zh": "第 4 天 · 入门故事。今天把“变量与数据类型、购物和价格、分支”放进 Alex 的连续故事。Alex is new on the team. The sentences are short, clear, and easy to repeat.先听一遍，再遮住中文复述；最后把 Alex 换成自己。本段词汇：boolean, data type, I'd like this one., Could I get a receipt?, switch branches, branch name。",
    "hard": [

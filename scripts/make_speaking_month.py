@@ -32,13 +32,38 @@ def segment_for_scene(day: int, groups: list[dict], scene: int, start: int) -> d
     computer, daily, github = (group.get("items", []) for group in groups)
     c, d, g = computer[start : start + 2], daily[start : start + 2], github[start : start + 2]
     phase_name, level_note, bridge = phase(day)
-    if day <= 7:
+    if day == 1:
+        if scene == 1:
+            en_lines = [
+                "My name is Alex. Today is Monday, my first day at a new job.",
+                "I am a new engineer. My team makes a chat program.",
+                f"In the morning, Maria shows me the {term_text(c)}. I look carefully and repeat the words.",
+                f"She smiles and says {term_text(d)}. After lunch, she shows me the {term_text(g)} on GitHub.",
+                "I am a little nervous, but Maria smiles and says that I can take my time.",
+            ]
+        elif scene == 2:
+            en_lines = [
+                "After the morning meeting, Maria helps me learn the project.",
+                f"She points to the {term_text(c)} and shows me where the files are.",
+                f"Then she says {term_text(d)}. I answer slowly and try to sound friendly.",
+                f"Together, we read the {term_text(g)} and find the next small task.",
+                "I do not know every word yet, but I feel better because the team is kind.",
+            ]
+        else:
+            en_lines = [
+                "Before I leave, Maria gives me a small task.",
+                f"I use the {term_text(c)} to finish it and then save my work.",
+                f"She asks me about {term_text(d)}. I listen, smile, and say goodbye.",
+                f"Then I open GitHub and look at the {term_text(g)} with her.",
+                "It is my first day, and I am ready to learn one small step at a time.",
+            ]
+    elif day <= 7:
         en_lines = [
-            f"It is day {day}. Alex is new on the team. {bridge}",
-            f"In the morning, Alex practises {term_text(c)} while looking at the computer.",
-            f"Maria starts a short conversation. She says {term_text(d)}. Alex listens and replies.",
-            f"After lunch, Alex works with the team on GitHub. The team talks about {term_text(g)}.",
-            "Alex repeats the new words twice and feels ready for the next small step.",
+            f"It is day {day}. Alex is still new on the team. {bridge}",
+            f"In the morning, Maria helps me use the {term_text(c)} for a small task.",
+            f"During our chat, she says {term_text(d)}. I answer clearly and ask one short question.",
+            f"After lunch, I work with the team on GitHub and practise {term_text(g)}.",
+            "The task is small, but I understand a little more than yesterday.",
         ]
     elif day <= 14:
         en_lines = [
@@ -88,8 +113,10 @@ def make_lesson(day_data: dict) -> dict:
     lexicon = {item["term"].lower(): {"def": item.get("meaning", "")} for item in all_items if item.get("term") and " " not in item["term"]}
     word_count = sum(len(segment["en"].split()) for segment in segments)
     topics = " × ".join(str(group.get("topic", "")) for group in groups)
+    english_titles = [(1, 1, "My First Standup"), (2, 7, "My First Week"), (8, 14, "Small Tasks"), (15, 21, "Project Collaboration"), (22, 30, "Professional Workflow")]
+    english_title = next(title for low, high, title in english_titles if low <= day <= high)
     return {
-        "meta": {"title": f"Day {day}: Alex's {phase_name}", "title_zh": f"第 {day} 天：Alex 的{phase_name}", "source": f"Vocabulary Month · Day {day}", "url": "", "kind": "article", "lang": "en", "study_card": {"word_count": word_count, "segment_count": len(segments), "difficulty": f"{phase_name} · 词汇主线", "estimated_days": 1, "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历", "value_points": [f"当天 18 个词汇都进入 Alex 的故事", topics, "30 秒口语输出"], "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"}},
+        "meta": {"title": f"Day {day}: Alex's {english_title}", "title_zh": f"第 {day} 天：Alex 的{phase_name}", "source": f"Vocabulary Month · Day {day}", "url": "", "kind": "article", "lang": "en", "study_card": {"word_count": word_count, "segment_count": len(segments), "difficulty": f"{phase_name} · 词汇主线", "estimated_days": 1, "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历", "value_points": [f"当天 18 个词汇都进入 Alex 的故事", topics, "30 秒口语输出"], "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"}},
         "voice": {"engine": "edge", "voice": "en-US-AndrewNeural", "rate": "-8%", "speed": 0.92}, "segments": segments, "chunks": chunks, "patterns": patterns,
         "transfer_tasks": [{"genre": "standup_update", "task": f"Use any three Day {day} vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.", "hint_chunks": [item["t"] for item in chunks[:3]]}], "lexicon": lexicon,
     }
