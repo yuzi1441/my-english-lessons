@@ -29,7 +29,11 @@ def term_text(items: list[dict]) -> str:
 
 
 def meaning_text(items: list[dict]) -> str:
-    return "、".join(str(item.get("meaning", "")).split("，", 1)[0] for item in items)
+    meanings = []
+    for item in items:
+        text = str(item.get("meaning", "")).split("，", 1)[0].strip()
+        meanings.append(text.rstrip("。！？；，, "))
+    return "、".join(meanings)
 
 
 def translation_for_scene(day: int, groups: list[dict], scene: int, start: int) -> str:
