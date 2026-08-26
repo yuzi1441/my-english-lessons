@@ -28,6 +28,29 @@ def term_text(items: list[dict]) -> str:
     return " and ".join(f'"{item.get("term", "")}"' for item in items)
 
 
+def meaning_text(items: list[dict]) -> str:
+    return "、".join(str(item.get("meaning", "")).split("，", 1)[0] for item in items)
+
+
+def translation_for_scene(day: int, groups: list[dict], scene: int, start: int) -> str:
+    computer, daily, github = (group.get("items", []) for group in groups)
+    c, d, g = computer[start : start + 2], daily[start : start + 2], github[start : start + 2]
+    cm, dm, gm = meaning_text(c), meaning_text(d), meaning_text(g)
+    if day == 1 and scene == 1:
+        return f"我叫 Alex。今天是周一，是我新工作的第一天。我是一名新工程师。我的团队在制作一个聊天程序。早上，Maria 给我看了{cm}。我仔细观察并重复这些词。她微笑着说“{dm}”。午饭后，她在 GitHub 上给我看了{gm}。我有点紧张，但 Maria 说我可以慢慢来。"
+    if day == 1 and scene == 2:
+        return f"早上会议结束后，Maria 帮我了解项目。她指着{cm}，并告诉我文件在哪里。然后她说：“{dm}。”我慢慢回答，并努力让自己的语气听起来友好。我们一起阅读{gm}，找到下一个小任务。我还不认识所有单词，但团队很友善，所以我感觉好多了。"
+    if day == 1:
+        return f"离开前，Maria 给我一个小任务。我用{cm}完成任务并保存工作。她问我{dm}，我认真听、微笑，然后道别。接着我打开 GitHub，和她一起查看{gm}。这是我的第一天，我准备一步一步学习。"
+    if day <= 7:
+        return f"第 {day} 天，Alex 仍是团队新人。因为 Alex 是新人，所以团队使用短句。早上，Maria 帮我在一个小任务中使用{cm}。聊天时，她说：“{dm}。”我清楚回答，并问了一个简短的问题。午饭后，我和团队在 GitHub 上工作，练习{gm}。任务很小，但我比昨天多理解了一点。"
+    if day <= 14:
+        return f"第 {day} 天，Alex 接到一个小任务。Alex 已经练习过基础内容，所以团队给了 Alex 一个小任务。首先，Alex 检查{cm}，并写下一条清楚的工作笔记。短聊时，Maria 使用了{dm}。Alex 礼貌地回答，并提出一个问题。然后 Alex 用{gm}记录进展，让团队可以跟进这次变化。任务不大，但 Alex 已经能从头到尾解释清楚。"
+    if day <= 21:
+        return f"第 {day} 天，Alex 正在帮助完成一个不断扩大的项目。因为项目在成长，Alex 需要向团队解释每一步。开会前，Alex 复习{cm}，并说明它们为什么重要。当队友询问进展时，Alex 使用{dm}，让对话保持清楚。会议后，Alex 用{gm}更新项目，并记录下一项行动。团队理解了计划，Alex 也学会了把词汇和真实工作联系起来。"
+    return f"接近月底时，Alex 处理一项更专业的任务。随着项目变得更专业，Alex 做出清楚的更新并检查风险。Alex 在做决定前检查{cm}，并解释可能的风险。讨论中，Alex 使用{dm}来说明目标、时间和下一步。最后，Alex 记录{gm}，让另一位队友之后可以检查工作。工作并不完美，但这次更新清楚、谨慎而且有用。"
+
+
 def segment_for_scene(day: int, groups: list[dict], scene: int, start: int) -> dict:
     computer, daily, github = (group.get("items", []) for group in groups)
     c, d, g = computer[start : start + 2], daily[start : start + 2], github[start : start + 2]
@@ -93,11 +116,7 @@ def segment_for_scene(day: int, groups: list[dict], scene: int, start: int) -> d
     title = groups[0].get("title", "词汇")
     topics = "、".join(str(group.get("topic", "")) for group in groups)
     terms = c + d + g
-    zh = (
-        f"第 {day} 天 · {phase_name}。今天把“{topics}”放进 Alex 的连续故事。"
-        f"{level_note}先听一遍，再遮住中文复述；最后把 Alex 换成自己。"
-        f"本段词汇：{', '.join(item.get('term', '') for item in terms)}。"
-    )
+    zh = translation_for_scene(day, groups, scene, start)
     hard = [{"w": item.get("term", ""), "type": hard_type(item), "def": item.get("meaning", "")} for item in terms if item.get("term")]
     return {"id": f"seg-{scene:02d}", "en": en, "tts": en, "audio_file": f"audio/seg-{scene:02d}.m4a", "zh": zh, "hard": hard}
 

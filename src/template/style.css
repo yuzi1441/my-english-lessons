@@ -489,6 +489,8 @@ button { font: inherit; color: inherit; }
   line-height: 1.78;
 }
 
+.zh-label { display:block; margin-bottom:6px; color:var(--brand); font-size:11px; font-weight:700; letter-spacing:.04em; }
+
 .hide-zh .zh { display: none; }
 
 .train-slot { grid-column: 1 / -1; }

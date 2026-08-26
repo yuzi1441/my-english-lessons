@@ -16,7 +16,7 @@
     plays: "ir_plays",
     rate: "ir_rate",
     // v2 resets the stale hidden-by-default preference from the first release.
-    zh: "ir_zh_v2",
+    zh: "ir_zh_v3",
     fs: "ir_fs",
     voice: "ir_voice"
   };
@@ -145,7 +145,7 @@
           <div class="toolbar">
             <span id="recProgress" class="tool-progress hidden" title="每段跟读录音 3 次达标"></span>
             <button id="revealBtn" class="tool primary hidden">揭文本</button>
-            <button id="zhBtn" class="tool" title="显示 / 隐藏中文大意" aria-pressed="true">隐藏中文</button>
+          <button id="zhBtn" class="tool" title="显示 / 隐藏原文翻译" aria-pressed="true">隐藏翻译</button>
             <a class="tool vocab-link" href="../vocab.html" title="打开独立生词本">生词本 <span id="vocabCount">0</span></a>
             <button id="fsDown" class="tool" title="缩小英文字号">A−</button>
             <button id="fsUp" class="tool" title="放大英文字号">A+</button>
@@ -374,7 +374,7 @@
         </div>
         <div class="seg-body">
           <p class="en">${renderHard(seg.en, seg.hard)}</p>
-          <p class="zh">${esc(seg.zh)}</p>
+          <p class="zh"><span class="zh-label">原文翻译</span>${esc(seg.zh)}</p>
           <div class="train-slot"></div>
         </div>
       </article>
@@ -1666,7 +1666,7 @@
     const zhBtn = $("#zhBtn");
     if (!zhBtn) return;
     zhBtn.classList.toggle("on", !hidden);
-    zhBtn.textContent = hidden ? "显示中文" : "隐藏中文";
+    zhBtn.textContent = hidden ? "显示翻译" : "隐藏翻译";
     zhBtn.setAttribute("aria-pressed", hidden ? "false" : "true");
   }
 
