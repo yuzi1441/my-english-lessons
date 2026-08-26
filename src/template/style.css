@@ -80,6 +80,18 @@ button { font: inherit; color: inherit; }
   padding: 0 24px 150px;
 }
 
+.vocab-bridge { margin: 18px 0 24px; padding: 18px 20px; border: 1px solid #d8e8df; border-radius: 16px; background: linear-gradient(135deg,#f4fbf7,#fff); }
+.vocab-bridge-head { display:flex; align-items:center; justify-content:space-between; gap:12px; color:#527063; font-size:13px; }
+.vocab-bridge-head a { color:#176b4c; font-weight:700; text-decoration:none; }
+.vocab-bridge-sub { margin:8px 0 14px; color:#60736b; font-size:14px; }
+.vocab-bridge-groups { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; }
+.vocab-bridge-group { min-width:0; }
+.vocab-bridge-domain { display:block; margin-bottom:7px; color:#315c4b; font-size:12px; font-weight:700; }
+.vocab-bridge-word { margin:0 5px 6px 0; padding:5px 9px; border:1px solid #cfe1d8; border-radius:999px; background:#fff; color:#214e3d; font:inherit; font-size:12px; cursor:pointer; }
+.vocab-bridge-word:hover { border-color:#2d8a65; background:#edf8f1; }
+.vocab-bridge-word.added { border-color:#2d8a65; background:#dff3e7; color:#176b4c; }
+@media (max-width: 640px) { .vocab-bridge { padding:15px; } .vocab-bridge-groups { grid-template-columns:1fr; gap:8px; } .vocab-bridge-head { align-items:flex-start; flex-direction:column; gap:5px; } }
+
 /* ---------- topbar (floating glass island) ---------- */
 
 .topbar {

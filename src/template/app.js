@@ -161,6 +161,9 @@
         ${audioStatus.missing.length ? `<p class="audio-note">🔈 ${audioStatus.missing.length} 段音频缺失，将使用浏览器朗读兜底</p>` : ""}
       </section>
       ${renderStudyCard()}
+      <section id="vocabBridge" class="vocab-bridge" aria-live="polite">
+        <div class="vocab-bridge-head"><span class="study-kicker">词汇先行</span><span>正在加载本课对应词汇…</span></div>
+      </section>
       <section id="blindGrid" class="blind-grid hidden"></section>
       <section id="segments" class="segments">${data.segments.map(renderSegment).join("")}</section>
       <section class="learning-block" id="chunksBlock">${renderChunks()}</section>
@@ -197,6 +200,65 @@
     renderHeat();
     observeFadeIns();
     startHalo();
+    hydrateVocabBridge();
+  }
+
+  function vocabDayNumber() {
+    const match = String(data?.meta?.source || "").match(/Day\s+(\d+)/i);
+    return match ? Number(match[1]) : 0;
+  }
+
+  async function hydrateVocabBridge() {
+    const panel = $("#vocabBridge");
+    const day = vocabDayNumber();
+    if (!panel || !day) return;
+    try {
+      const response = await fetch("../vocabulary-month/month.json", { credentials: "same-origin" });
+      if (!response.ok) throw new Error("vocabulary data unavailable");
+      const month = await response.json();
+      const lesson = (month.days || []).find(item => Number(item.day) === day);
+      if (!lesson) throw new Error("vocabulary day unavailable");
+      const groups = (lesson.groups || []).map(group => `
+        <div class="vocab-bridge-group">
+          <span class="vocab-bridge-domain">${esc(group.title)}</span>
+          ${(group.items || []).map(item => `<button class="vocab-bridge-word" type="button" data-word="${esc(item.term)}" title="点击加入生词本">${esc(item.term)}</button>`).join("")}
+        </div>
+      `).join("");
+      panel.innerHTML = `
+        <div class="vocab-bridge-head"><span class="study-kicker">词汇先行 · Day ${day}</span><a href="../vocabulary-month/?day=${day}">打开当天词汇课 →</a></div>
+        <p class="vocab-bridge-sub">先快速回忆下面的词，再在本课口语场景中听见、读出并使用它们。点击单词可加入生词本。</p>
+        <div class="vocab-bridge-groups">${groups}</div>
+      `;
+      $$(".vocab-bridge-word", panel).forEach(button => button.addEventListener("click", () => addBridgeWord(button, lesson)));
+    } catch {
+      panel.innerHTML = `<div class="vocab-bridge-head"><span class="study-kicker">词汇先行</span><a href="../vocabulary-month/">打开 30 天词汇课 →</a></div>`;
+    }
+  }
+
+  function addBridgeWord(button, lesson) {
+    const term = button.dataset.word || "";
+    const item = (lesson.groups || []).flatMap(group => group.items || []).find(entry => entry.term === term);
+    if (!item || !term) return;
+    const next = mergeVocabItems(state.vocab, [{
+      word: term,
+      meaning: item.meaning,
+      source: "vocabulary-month",
+      course: "30 天词汇课",
+      domain: item.part,
+      example: item.example,
+      collocation: item.collocation,
+      createdAt: Date.now(),
+      updatedAt: Date.now(),
+      stage: 0,
+      due: Date.now()
+    }]);
+    state.vocab = next;
+    writeJSON(KEYS.vocab, state.vocab);
+    syncCloudVocab(state.vocab);
+    updateVocabChip();
+    button.classList.add("added");
+    button.textContent = `✓ ${term}`;
+    toast(`已加入生词本：${term}`);
   }
 
   function renderStudyCard() {
