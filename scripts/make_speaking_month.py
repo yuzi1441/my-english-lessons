@@ -22,16 +22,22 @@ def hard_type(item: dict) -> str:
 
 def segment_for_group(day: int, group: dict, index: int, items: list[dict] | None = None) -> dict:
     items = items if items is not None else group.get("items", [])
-    topic = group.get("topic", group.get("title", "today's topic"))
+    domain = group.get("domain", "")
     title = group.get("title", "Vocabulary")
+    topic = group.get("topic", title)
+    english_title = {"computer": "computer English", "daily": "daily English", "github": "GitHub English"}.get(domain, "today's English")
     lines = [
-        f"Today I practise {title.lower()} in a real work conversation.",
-        f"The situation is simple: I need to talk about {topic.lower()} with a teammate.",
+        f"Today I practise {english_title} in a real conversation.",
+        "I need to explain a small task clearly to another person.",
     ]
     for item in items:
         term = item.get("term", "")
-        meaning = item.get("meaning", "")
-        lines.append(f"I use {term} to talk about {meaning}.")
+        if domain == "daily":
+            lines.append(f'I say "{term}" in a daily conversation.')
+        elif domain == "github":
+            lines.append(f'I use "{term}" when I work with my team.')
+        else:
+            lines.append(f'I say "{term}" when I talk about my computer project.')
     terms = [item.get("term", "this word") for item in items]
     if len(terms) >= 3:
         lines.append(f"I tell my teammate: Today I use {terms[0]}, {terms[1]}, and {terms[2]}.")

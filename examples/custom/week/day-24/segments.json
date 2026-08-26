@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 473,
+   "word_count": 489,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 超时、重试与连接失败 with a teammate. I use timeout to talk about 超时，操作在规定时间内没有完成. I use retry to talk about 重试，在失败后再次执行同一操作. I use connection failure to talk about 连接失败，客户端无法与服务建立通信. I tell my teammate: Today I use timeout, retry, and connection failure. At the end, I say: I can use timeout clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 超时、重试与连接失败 with a teammate. I use timeout to talk about 超时，操作在规定时间内没有完成. I use retry to talk about 重试，在失败后再次执行同一操作. I use connection failure to talk about 连接失败，客户端无法与服务建立通信. I tell my teammate: Today I use timeout, retry, and connection failure. At the end, I say: I can use timeout clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"timeout\" when I talk about my computer project. I say \"retry\" when I talk about my computer project. I say \"connection failure\" when I talk about my computer project. I tell my teammate: Today I use timeout, retry, and connection failure. At the end, I say: I can use timeout clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"timeout\" when I talk about my computer project. I say \"retry\" when I talk about my computer project. I say \"connection failure\" when I talk about my computer project. I tell my teammate: Today I use timeout, retry, and connection failure. At the end, I say: I can use timeout clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“超时、重试与连接失败”。先听英文，再尝试不看中文复述。timeout：超时，操作在规定时间内没有完成。示例：I learned how to use \"timeout\" in a computer task.retry：重试，在失败后再次执行同一操作。示例：I learned how to use \"retry\" in a computer task.connection failure：连接失败，客户端无法与服务建立通信。示例：I learned how to use \"connection failure\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 超时、重试与连接失败 with a teammate. I use retry limit to talk about 重试上限，允许再次尝试的最大次数. I use backoff delay to talk about 退避延迟，每次重试前逐渐增加的等待时间. I use network interruption to talk about 网络中断，已有网络连接意外停止. I tell my teammate: Today I use retry limit, backoff delay, and network interruption. At the end, I say: I can use retry limit clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 超时、重试与连接失败 with a teammate. I use retry limit to talk about 重试上限，允许再次尝试的最大次数. I use backoff delay to talk about 退避延迟，每次重试前逐渐增加的等待时间. I use network interruption to talk about 网络中断，已有网络连接意外停止. I tell my teammate: Today I use retry limit, backoff delay, and network interruption. At the end, I say: I can use retry limit clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"retry limit\" when I talk about my computer project. I say \"backoff delay\" when I talk about my computer project. I say \"network interruption\" when I talk about my computer project. I tell my teammate: Today I use retry limit, backoff delay, and network interruption. At the end, I say: I can use retry limit clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"retry limit\" when I talk about my computer project. I say \"backoff delay\" when I talk about my computer project. I say \"network interruption\" when I talk about my computer project. I tell my teammate: Today I use retry limit, backoff delay, and network interruption. At the end, I say: I can use retry limit clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“超时、重试与连接失败”。先听英文，再尝试不看中文复述。retry limit：重试上限，允许再次尝试的最大次数。示例：I learned how to use \"retry limit\" in a computer task.backoff delay：退避延迟，每次重试前逐渐增加的等待时间。示例：I learned how to use \"backoff delay\" in a computer task.network interruption：网络中断，已有网络连接意外停止。示例：I learned how to use \"network interruption\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 截止时间和延期 with a teammate. I use The deadline is Friday. to talk about 截止时间是星期五。. I use We're behind schedule. to talk about 我们的进度落后了。. I use I need an extension. to talk about 我需要延期。. I tell my teammate: Today I use The deadline is Friday., We're behind schedule., and I need an extension.. At the end, I say: I can use The deadline is Friday. clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 截止时间和延期 with a teammate. I use The deadline is Friday. to talk about 截止时间是星期五。. I use We're behind schedule. to talk about 我们的进度落后了。. I use I need an extension. to talk about 我需要延期。. I tell my teammate: Today I use The deadline is Friday., We're behind schedule., and I need an extension.. At the end, I say: I can use The deadline is Friday. clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The deadline is Friday.\" in a daily conversation. I say \"We're behind schedule.\" in a daily conversation. I say \"I need an extension.\" in a daily conversation. I tell my teammate: Today I use The deadline is Friday., We're behind schedule., and I need an extension.. At the end, I say: I can use The deadline is Friday. clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The deadline is Friday.\" in a daily conversation. I say \"We're behind schedule.\" in a daily conversation. I say \"I need an extension.\" in a daily conversation. I tell my teammate: Today I use The deadline is Friday., We're behind schedule., and I need an extension.. At the end, I say: I can use The deadline is Friday. clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“截止时间和延期”。先听英文，再尝试不看中文复述。The deadline is Friday.：截止时间是星期五。。示例：The deadline is Friday.We're behind schedule.：我们的进度落后了。。示例：We're behind schedule.I need an extension.：我需要延期。。示例：I need an extension.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 截止时间和延期 with a teammate. I use The task is taking longer than expected. to talk about 任务花的时间比预期更长。. I use I'll update you tomorrow. to talk about 我明天会更新进展。. I use Thank you for your patience. to talk about 谢谢你的耐心。. I tell my teammate: Today I use The task is taking longer than expected., I'll update you tomorrow., and Thank you for your patience.. At the end, I say: I can use The task is taking longer than expected. clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 截止时间和延期 with a teammate. I use The task is taking longer than expected. to talk about 任务花的时间比预期更长。. I use I'll update you tomorrow. to talk about 我明天会更新进展。. I use Thank you for your patience. to talk about 谢谢你的耐心。. I tell my teammate: Today I use The task is taking longer than expected., I'll update you tomorrow., and Thank you for your patience.. At the end, I say: I can use The task is taking longer than expected. clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The task is taking longer than expected.\" in a daily conversation. I say \"I'll update you tomorrow.\" in a daily conversation. I say \"Thank you for your patience.\" in a daily conversation. I tell my teammate: Today I use The task is taking longer than expected., I'll update you tomorrow., and Thank you for your patience.. At the end, I say: I can use The task is taking longer than expected. clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The task is taking longer than expected.\" in a daily conversation. I say \"I'll update you tomorrow.\" in a daily conversation. I say \"Thank you for your patience.\" in a daily conversation. I tell my teammate: Today I use The task is taking longer than expected., I'll update you tomorrow., and Thank you for your patience.. At the end, I say: I can use The task is taking longer than expected. clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“截止时间和延期”。先听英文，再尝试不看中文复述。The task is taking longer than expected.：任务花的时间比预期更长。。示例：The task is taking longer than expected.I'll update you tomorrow.：我明天会更新进展。。示例：I'll update you tomorrow.Thank you for your patience.：谢谢你的耐心。。示例：Thank you for your patience.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并策略 with a teammate. I use squash and merge to talk about 压缩并合并，把多个提交合成一个后合入. I use rebase and merge to talk about 变基并合并，把提交移到目标分支之后再合入. I use merge commit to talk about 合并提交，专门记录两条历史合并的提交. I tell my teammate: Today I use squash and merge, rebase and merge, and merge commit. At the end, I say: I can use squash and merge clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并策略 with a teammate. I use squash and merge to talk about 压缩并合并，把多个提交合成一个后合入. I use rebase and merge to talk about 变基并合并，把提交移到目标分支之后再合入. I use merge commit to talk about 合并提交，专门记录两条历史合并的提交. I tell my teammate: Today I use squash and merge, rebase and merge, and merge commit. At the end, I say: I can use squash and merge clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"squash and merge\" when I work with my team. I use \"rebase and merge\" when I work with my team. I use \"merge commit\" when I work with my team. I tell my teammate: Today I use squash and merge, rebase and merge, and merge commit. At the end, I say: I can use squash and merge clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"squash and merge\" when I work with my team. I use \"rebase and merge\" when I work with my team. I use \"merge commit\" when I work with my team. I tell my teammate: Today I use squash and merge, rebase and merge, and merge commit. At the end, I say: I can use squash and merge clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“合并策略”。先听英文，再尝试不看中文复述。squash and merge：压缩并合并，把多个提交合成一个后合入。示例：Our team uses \"squash and merge\" to keep the project clear.rebase and merge：变基并合并，把提交移到目标分支之后再合入。示例：Our team uses \"rebase and merge\" to keep the project clear.merge commit：合并提交，专门记录两条历史合并的提交。示例：Our team uses \"merge commit\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并策略 with a teammate. I use squash commits to talk about 压缩提交，把多个小提交组合成一个. I use rebase a branch to talk about 变基分支，把分支提交重新放到新基础上. I use linear history to talk about 线性历史，不包含分叉合并节点的提交历史. I tell my teammate: Today I use squash commits, rebase a branch, and linear history. At the end, I say: I can use squash commits clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并策略 with a teammate. I use squash commits to talk about 压缩提交，把多个小提交组合成一个. I use rebase a branch to talk about 变基分支，把分支提交重新放到新基础上. I use linear history to talk about 线性历史，不包含分叉合并节点的提交历史. I tell my teammate: Today I use squash commits, rebase a branch, and linear history. At the end, I say: I can use squash commits clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"squash commits\" when I work with my team. I use \"rebase a branch\" when I work with my team. I use \"linear history\" when I work with my team. I tell my teammate: Today I use squash commits, rebase a branch, and linear history. At the end, I say: I can use squash commits clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"squash commits\" when I work with my team. I use \"rebase a branch\" when I work with my team. I use \"linear history\" when I work with my team. I tell my teammate: Today I use squash commits, rebase a branch, and linear history. At the end, I say: I can use squash commits clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“合并策略”。先听英文，再尝试不看中文复述。squash commits：压缩提交，把多个小提交组合成一个。示例：Our team uses \"squash commits\" to keep the project clear.rebase a branch：变基分支，把分支提交重新放到新基础上。示例：Our team uses \"rebase a branch\" to keep the project clear.linear history：线性历史，不包含分叉合并节点的提交历史。示例：Our team uses \"linear history\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

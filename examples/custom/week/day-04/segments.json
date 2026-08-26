@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 457,
+   "word_count": 473,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 变量与数据类型 with a teammate. I use variable to talk about 变量，用名字保存一个可以使用或改变的值. I use value to talk about 值，变量实际保存的内容. I use string to talk about 字符串，由文字或字符组成的数据. I tell my teammate: Today I use variable, value, and string. At the end, I say: I can use variable clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 变量与数据类型 with a teammate. I use variable to talk about 变量，用名字保存一个可以使用或改变的值. I use value to talk about 值，变量实际保存的内容. I use string to talk about 字符串，由文字或字符组成的数据. I tell my teammate: Today I use variable, value, and string. At the end, I say: I can use variable clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"variable\" when I talk about my computer project. I say \"value\" when I talk about my computer project. I say \"string\" when I talk about my computer project. I tell my teammate: Today I use variable, value, and string. At the end, I say: I can use variable clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"variable\" when I talk about my computer project. I say \"value\" when I talk about my computer project. I say \"string\" when I talk about my computer project. I tell my teammate: Today I use variable, value, and string. At the end, I say: I can use variable clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“变量与数据类型”。先听英文，再尝试不看中文复述。variable：变量，用名字保存一个可以使用或改变的值。示例：I learned how to use \"variable\" in a computer task.value：值，变量实际保存的内容。示例：I learned how to use \"value\" in a computer task.string：字符串，由文字或字符组成的数据。示例：I learned how to use \"string\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 变量与数据类型 with a teammate. I use integer to talk about 整数，不带小数部分的数字. I use boolean to talk about 布尔值，只有真或假两种状态. I use data type to talk about 数据类型，说明一项数据属于哪种类别. I tell my teammate: Today I use integer, boolean, and data type. At the end, I say: I can use integer clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 变量与数据类型 with a teammate. I use integer to talk about 整数，不带小数部分的数字. I use boolean to talk about 布尔值，只有真或假两种状态. I use data type to talk about 数据类型，说明一项数据属于哪种类别. I tell my teammate: Today I use integer, boolean, and data type. At the end, I say: I can use integer clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"integer\" when I talk about my computer project. I say \"boolean\" when I talk about my computer project. I say \"data type\" when I talk about my computer project. I tell my teammate: Today I use integer, boolean, and data type. At the end, I say: I can use integer clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"integer\" when I talk about my computer project. I say \"boolean\" when I talk about my computer project. I say \"data type\" when I talk about my computer project. I tell my teammate: Today I use integer, boolean, and data type. At the end, I say: I can use integer clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“变量与数据类型”。先听英文，再尝试不看中文复述。integer：整数，不带小数部分的数字。示例：I learned how to use \"integer\" in a computer task.boolean：布尔值，只有真或假两种状态。示例：I learned how to use \"boolean\" in a computer task.data type：数据类型，说明一项数据属于哪种类别。示例：I learned how to use \"data type\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 购物和价格 with a teammate. I use How much is this? to talk about 这个多少钱？. I use That's too expensive. to talk about 那太贵了。. I use Do you have a smaller size? to talk about 你们有小一点的尺码吗？. I tell my teammate: Today I use How much is this?, That's too expensive., and Do you have a smaller size?. At the end, I say: I can use How much is this? clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 购物和价格 with a teammate. I use How much is this? to talk about 这个多少钱？. I use That's too expensive. to talk about 那太贵了。. I use Do you have a smaller size? to talk about 你们有小一点的尺码吗？. I tell my teammate: Today I use How much is this?, That's too expensive., and Do you have a smaller size?. At the end, I say: I can use How much is this? clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"How much is this?\" in a daily conversation. I say \"That's too expensive.\" in a daily conversation. I say \"Do you have a smaller size?\" in a daily conversation. I tell my teammate: Today I use How much is this?, That's too expensive., and Do you have a smaller size?. At the end, I say: I can use How much is this? clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"How much is this?\" in a daily conversation. I say \"That's too expensive.\" in a daily conversation. I say \"Do you have a smaller size?\" in a daily conversation. I tell my teammate: Today I use How much is this?, That's too expensive., and Do you have a smaller size?. At the end, I say: I can use How much is this? clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“购物和价格”。先听英文，再尝试不看中文复述。How much is this?：这个多少钱？。示例：How much is this?That's too expensive.：那太贵了。。示例：That's too expensive.Do you have a smaller size?：你们有小一点的尺码吗？。示例：Do you have a smaller size?最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 购物和价格 with a teammate. I use Can I pay by card? to talk about 我可以刷卡吗？. I use I'd like this one. to talk about 我想要这个。. I use Could I get a receipt? to talk about 可以给我收据吗？. I tell my teammate: Today I use Can I pay by card?, I'd like this one., and Could I get a receipt?. At the end, I say: I can use Can I pay by card? clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 购物和价格 with a teammate. I use Can I pay by card? to talk about 我可以刷卡吗？. I use I'd like this one. to talk about 我想要这个。. I use Could I get a receipt? to talk about 可以给我收据吗？. I tell my teammate: Today I use Can I pay by card?, I'd like this one., and Could I get a receipt?. At the end, I say: I can use Can I pay by card? clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Can I pay by card?\" in a daily conversation. I say \"I'd like this one.\" in a daily conversation. I say \"Could I get a receipt?\" in a daily conversation. I tell my teammate: Today I use Can I pay by card?, I'd like this one., and Could I get a receipt?. At the end, I say: I can use Can I pay by card? clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Can I pay by card?\" in a daily conversation. I say \"I'd like this one.\" in a daily conversation. I say \"Could I get a receipt?\" in a daily conversation. I tell my teammate: Today I use Can I pay by card?, I'd like this one., and Could I get a receipt?. At the end, I say: I can use Can I pay by card? clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“购物和价格”。先听英文，再尝试不看中文复述。Can I pay by card?：我可以刷卡吗？。示例：Can I pay by card?I'd like this one.：我想要这个。。示例：I'd like this one.Could I get a receipt?：可以给我收据吗？。示例：Could I get a receipt?最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 分支 with a teammate. I use branch to talk about 分支，从主代码线分出来的独立工作线. I use main branch to talk about 主分支，项目默认和最重要的代码线. I use feature branch to talk about 功能分支，专门开发某项功能的分支. I tell my teammate: Today I use branch, main branch, and feature branch. At the end, I say: I can use branch clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 分支 with a teammate. I use branch to talk about 分支，从主代码线分出来的独立工作线. I use main branch to talk about 主分支，项目默认和最重要的代码线. I use feature branch to talk about 功能分支，专门开发某项功能的分支. I tell my teammate: Today I use branch, main branch, and feature branch. At the end, I say: I can use branch clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"branch\" when I work with my team. I use \"main branch\" when I work with my team. I use \"feature branch\" when I work with my team. I tell my teammate: Today I use branch, main branch, and feature branch. At the end, I say: I can use branch clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"branch\" when I work with my team. I use \"main branch\" when I work with my team. I use \"feature branch\" when I work with my team. I tell my teammate: Today I use branch, main branch, and feature branch. At the end, I say: I can use branch clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“分支”。先听英文，再尝试不看中文复述。branch：分支，从主代码线分出来的独立工作线。示例：Our team uses \"branch\" to keep the project clear.main branch：主分支，项目默认和最重要的代码线。示例：Our team uses \"main branch\" to keep the project clear.feature branch：功能分支，专门开发某项功能的分支。示例：Our team uses \"feature branch\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 分支 with a teammate. I use create a branch to talk about 创建分支，建立新的独立工作线. I use switch branches to talk about 切换分支，从一条工作线转到另一条. I use branch name to talk about 分支名称，用来说明分支用途的名字. I tell my teammate: Today I use create a branch, switch branches, and branch name. At the end, I say: I can use create a branch clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 分支 with a teammate. I use create a branch to talk about 创建分支，建立新的独立工作线. I use switch branches to talk about 切换分支，从一条工作线转到另一条. I use branch name to talk about 分支名称，用来说明分支用途的名字. I tell my teammate: Today I use create a branch, switch branches, and branch name. At the end, I say: I can use create a branch clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"create a branch\" when I work with my team. I use \"switch branches\" when I work with my team. I use \"branch name\" when I work with my team. I tell my teammate: Today I use create a branch, switch branches, and branch name. At the end, I say: I can use create a branch clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"create a branch\" when I work with my team. I use \"switch branches\" when I work with my team. I use \"branch name\" when I work with my team. I tell my teammate: Today I use create a branch, switch branches, and branch name. At the end, I say: I can use create a branch clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“分支”。先听英文，再尝试不看中文复述。create a branch：创建分支，建立新的独立工作线。示例：Our team uses \"create a branch\" to keep the project clear.switch branches：切换分支，从一条工作线转到另一条。示例：Our team uses \"switch branches\" to keep the project clear.branch name：分支名称，用来说明分支用途的名字。示例：Our team uses \"branch name\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

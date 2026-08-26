@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 468,
+   "word_count": 484,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 部署、监控与回滚 with a teammate. I use deployment to talk about 部署，把应用发布到可运行环境的过程. I use monitoring to talk about 监控，持续观察系统状态和关键指标. I use health check to talk about 健康检查，自动判断服务是否正常运行. I tell my teammate: Today I use deployment, monitoring, and health check. At the end, I say: I can use deployment clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 部署、监控与回滚 with a teammate. I use deployment to talk about 部署，把应用发布到可运行环境的过程. I use monitoring to talk about 监控，持续观察系统状态和关键指标. I use health check to talk about 健康检查，自动判断服务是否正常运行. I tell my teammate: Today I use deployment, monitoring, and health check. At the end, I say: I can use deployment clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"deployment\" when I talk about my computer project. I say \"monitoring\" when I talk about my computer project. I say \"health check\" when I talk about my computer project. I tell my teammate: Today I use deployment, monitoring, and health check. At the end, I say: I can use deployment clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"deployment\" when I talk about my computer project. I say \"monitoring\" when I talk about my computer project. I say \"health check\" when I talk about my computer project. I tell my teammate: Today I use deployment, monitoring, and health check. At the end, I say: I can use deployment clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“部署、监控与回滚”。先听英文，再尝试不看中文复述。deployment：部署，把应用发布到可运行环境的过程。示例：I learned how to use \"deployment\" in a computer task.monitoring：监控，持续观察系统状态和关键指标。示例：I learned how to use \"monitoring\" in a computer task.health check：健康检查，自动判断服务是否正常运行。示例：I learned how to use \"health check\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 部署、监控与回滚 with a teammate. I use rollback to talk about 回滚，把系统恢复到之前稳定版本. I use production environment to talk about 生产环境，真实用户使用的正式运行环境. I use service outage to talk about 服务中断，用户暂时无法使用服务的情况. I tell my teammate: Today I use rollback, production environment, and service outage. At the end, I say: I can use rollback clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 部署、监控与回滚 with a teammate. I use rollback to talk about 回滚，把系统恢复到之前稳定版本. I use production environment to talk about 生产环境，真实用户使用的正式运行环境. I use service outage to talk about 服务中断，用户暂时无法使用服务的情况. I tell my teammate: Today I use rollback, production environment, and service outage. At the end, I say: I can use rollback clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"rollback\" when I talk about my computer project. I say \"production environment\" when I talk about my computer project. I say \"service outage\" when I talk about my computer project. I tell my teammate: Today I use rollback, production environment, and service outage. At the end, I say: I can use rollback clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"rollback\" when I talk about my computer project. I say \"production environment\" when I talk about my computer project. I say \"service outage\" when I talk about my computer project. I tell my teammate: Today I use rollback, production environment, and service outage. At the end, I say: I can use rollback clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“部署、监控与回滚”。先听英文，再尝试不看中文复述。rollback：回滚，把系统恢复到之前稳定版本。示例：I learned how to use \"rollback\" in a computer task.production environment：生产环境，真实用户使用的正式运行环境。示例：I learned how to use \"production environment\" in a computer task.service outage：服务中断，用户暂时无法使用服务的情况。示例：I learned how to use \"service outage\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 项目介绍 with a teammate. I use Today I'd like to present ... to talk about 今天我想介绍……. I use The goal of this project is ... to talk about 这个项目的目标是……. I use Here is the main result. to talk about 这是主要结果。. I tell my teammate: Today I use Today I'd like to present ..., The goal of this project is ..., and Here is the main result.. At the end, I say: I can use Today I'd like to present ... clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 项目介绍 with a teammate. I use Today I'd like to present ... to talk about 今天我想介绍……. I use The goal of this project is ... to talk about 这个项目的目标是……. I use Here is the main result. to talk about 这是主要结果。. I tell my teammate: Today I use Today I'd like to present ..., The goal of this project is ..., and Here is the main result.. At the end, I say: I can use Today I'd like to present ... clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Today I'd like to present ...\" in a daily conversation. I say \"The goal of this project is ...\" in a daily conversation. I say \"Here is the main result.\" in a daily conversation. I tell my teammate: Today I use Today I'd like to present ..., The goal of this project is ..., and Here is the main result.. At the end, I say: I can use Today I'd like to present ... clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Today I'd like to present ...\" in a daily conversation. I say \"The goal of this project is ...\" in a daily conversation. I say \"Here is the main result.\" in a daily conversation. I tell my teammate: Today I use Today I'd like to present ..., The goal of this project is ..., and Here is the main result.. At the end, I say: I can use Today I'd like to present ... clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“项目介绍”。先听英文，再尝试不看中文复述。Today I'd like to present ...：今天我想介绍……。示例：Today I'd like to presentThe goal of this project is ...：这个项目的目标是……。示例：The goal of this project isHere is the main result.：这是主要结果。。示例：Here is the main result.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 项目介绍 with a teammate. I use This chart shows ... to talk about 这张图显示……. I use One limitation is ... to talk about 一个局限是……. I use My recommendation is ... to talk about 我的建议是……. I tell my teammate: Today I use This chart shows ..., One limitation is ..., and My recommendation is .... At the end, I say: I can use This chart shows ... clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 项目介绍 with a teammate. I use This chart shows ... to talk about 这张图显示……. I use One limitation is ... to talk about 一个局限是……. I use My recommendation is ... to talk about 我的建议是……. I tell my teammate: Today I use This chart shows ..., One limitation is ..., and My recommendation is .... At the end, I say: I can use This chart shows ... clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"This chart shows ...\" in a daily conversation. I say \"One limitation is ...\" in a daily conversation. I say \"My recommendation is ...\" in a daily conversation. I tell my teammate: Today I use This chart shows ..., One limitation is ..., and My recommendation is .... At the end, I say: I can use This chart shows ... clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"This chart shows ...\" in a daily conversation. I say \"One limitation is ...\" in a daily conversation. I say \"My recommendation is ...\" in a daily conversation. I tell my teammate: Today I use This chart shows ..., One limitation is ..., and My recommendation is .... At the end, I say: I can use This chart shows ... clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“项目介绍”。先听英文，再尝试不看中文复述。This chart shows ...：这张图显示……。示例：This chart showsOne limitation is ...：一个局限是……。示例：One limitation isMy recommendation is ...：我的建议是……。示例：My recommendation is最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 发布工作流 with a teammate. I use release branch to talk about 发布分支，为准备新版本建立的分支. I use deployment approval to talk about 部署批准，发布生产环境前的人工确认. I use production deploy to talk about 生产部署，把版本发布给真实用户. I tell my teammate: Today I use release branch, deployment approval, and production deploy. At the end, I say: I can use release branch clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 发布工作流 with a teammate. I use release branch to talk about 发布分支，为准备新版本建立的分支. I use deployment approval to talk about 部署批准，发布生产环境前的人工确认. I use production deploy to talk about 生产部署，把版本发布给真实用户. I tell my teammate: Today I use release branch, deployment approval, and production deploy. At the end, I say: I can use release branch clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"release branch\" when I work with my team. I use \"deployment approval\" when I work with my team. I use \"production deploy\" when I work with my team. I tell my teammate: Today I use release branch, deployment approval, and production deploy. At the end, I say: I can use release branch clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"release branch\" when I work with my team. I use \"deployment approval\" when I work with my team. I use \"production deploy\" when I work with my team. I tell my teammate: Today I use release branch, deployment approval, and production deploy. At the end, I say: I can use release branch clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“发布工作流”。先听英文，再尝试不看中文复述。release branch：发布分支，为准备新版本建立的分支。示例：Our team uses \"release branch\" to keep the project clear.deployment approval：部署批准，发布生产环境前的人工确认。示例：Our team uses \"deployment approval\" to keep the project clear.production deploy：生产部署，把版本发布给真实用户。示例：Our team uses \"production deploy\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 发布工作流 with a teammate. I use rollback plan to talk about 回滚计划，发布失败时恢复旧版本的方案. I use release checklist to talk about 发布检查表，上线前逐项确认的事项列表. I use post-release check to talk about 发布后检查，上线后确认系统正常的验证. I tell my teammate: Today I use rollback plan, release checklist, and post-release check. At the end, I say: I can use rollback plan clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 发布工作流 with a teammate. I use rollback plan to talk about 回滚计划，发布失败时恢复旧版本的方案. I use release checklist to talk about 发布检查表，上线前逐项确认的事项列表. I use post-release check to talk about 发布后检查，上线后确认系统正常的验证. I tell my teammate: Today I use rollback plan, release checklist, and post-release check. At the end, I say: I can use rollback plan clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"rollback plan\" when I work with my team. I use \"release checklist\" when I work with my team. I use \"post-release check\" when I work with my team. I tell my teammate: Today I use rollback plan, release checklist, and post-release check. At the end, I say: I can use rollback plan clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"rollback plan\" when I work with my team. I use \"release checklist\" when I work with my team. I use \"post-release check\" when I work with my team. I tell my teammate: Today I use rollback plan, release checklist, and post-release check. At the end, I say: I can use rollback plan clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“发布工作流”。先听英文，再尝试不看中文复述。rollback plan：回滚计划，发布失败时恢复旧版本的方案。示例：Our team uses \"rollback plan\" to keep the project clear.release checklist：发布检查表，上线前逐项确认的事项列表。示例：Our team uses \"release checklist\" to keep the project clear.post-release check：发布后检查，上线后确认系统正常的验证。示例：Our team uses \"post-release check\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

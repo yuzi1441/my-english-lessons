@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 447,
+   "word_count": 463,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about cpu、进程与线程 with a teammate. I use CPU to talk about 中央处理器，负责执行计算和指令的核心部件. I use processor to talk about 处理器，执行程序指令的硬件. I use process to talk about 进程，正在运行的程序实例. I tell my teammate: Today I use CPU, processor, and process. At the end, I say: I can use CPU clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about cpu、进程与线程 with a teammate. I use CPU to talk about 中央处理器，负责执行计算和指令的核心部件. I use processor to talk about 处理器，执行程序指令的硬件. I use process to talk about 进程，正在运行的程序实例. I tell my teammate: Today I use CPU, processor, and process. At the end, I say: I can use CPU clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"CPU\" when I talk about my computer project. I say \"processor\" when I talk about my computer project. I say \"process\" when I talk about my computer project. I tell my teammate: Today I use CPU, processor, and process. At the end, I say: I can use CPU clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"CPU\" when I talk about my computer project. I say \"processor\" when I talk about my computer project. I say \"process\" when I talk about my computer project. I tell my teammate: Today I use CPU, processor, and process. At the end, I say: I can use CPU clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“CPU、进程与线程”。先听英文，再尝试不看中文复述。CPU：中央处理器，负责执行计算和指令的核心部件。示例：I learned how to use \"C P U\" in a computer task.processor：处理器，执行程序指令的硬件。示例：I learned how to use \"processor\" in a computer task.process：进程，正在运行的程序实例。示例：I learned how to use \"process\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about cpu、进程与线程 with a teammate. I use thread to talk about 线程，进程内部的一条执行路径. I use background task to talk about 后台任务，不占用当前界面但仍在运行的任务. I use system resource to talk about 系统资源，CPU、内存等可供程序使用的能力. I tell my teammate: Today I use thread, background task, and system resource. At the end, I say: I can use thread clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about cpu、进程与线程 with a teammate. I use thread to talk about 线程，进程内部的一条执行路径. I use background task to talk about 后台任务，不占用当前界面但仍在运行的任务. I use system resource to talk about 系统资源，CPU、内存等可供程序使用的能力. I tell my teammate: Today I use thread, background task, and system resource. At the end, I say: I can use thread clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"thread\" when I talk about my computer project. I say \"background task\" when I talk about my computer project. I say \"system resource\" when I talk about my computer project. I tell my teammate: Today I use thread, background task, and system resource. At the end, I say: I can use thread clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"thread\" when I talk about my computer project. I say \"background task\" when I talk about my computer project. I say \"system resource\" when I talk about my computer project. I tell my teammate: Today I use thread, background task, and system resource. At the end, I say: I can use thread clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“CPU、进程与线程”。先听英文，再尝试不看中文复述。thread：线程，进程内部的一条执行路径。示例：I learned how to use \"thread\" in a computer task.background task：后台任务，不占用当前界面但仍在运行的任务。示例：I learned how to use \"background task\" in a computer task.system resource：系统资源，CPU、内存等可供程序使用的能力。示例：I learned how to use \"system resource\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 家务和生活安排 with a teammate. I use take out the trash to talk about 把垃圾拿出去. I use do the laundry to talk about 洗衣服. I use wash the dishes to talk about 洗碗. I tell my teammate: Today I use take out the trash, do the laundry, and wash the dishes. At the end, I say: I can use take out the trash clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 家务和生活安排 with a teammate. I use take out the trash to talk about 把垃圾拿出去. I use do the laundry to talk about 洗衣服. I use wash the dishes to talk about 洗碗. I tell my teammate: Today I use take out the trash, do the laundry, and wash the dishes. At the end, I say: I can use take out the trash clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"take out the trash\" in a daily conversation. I say \"do the laundry\" in a daily conversation. I say \"wash the dishes\" in a daily conversation. I tell my teammate: Today I use take out the trash, do the laundry, and wash the dishes. At the end, I say: I can use take out the trash clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"take out the trash\" in a daily conversation. I say \"do the laundry\" in a daily conversation. I say \"wash the dishes\" in a daily conversation. I tell my teammate: Today I use take out the trash, do the laundry, and wash the dishes. At the end, I say: I can use take out the trash clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“家务和生活安排”。先听英文，再尝试不看中文复述。take out the trash：把垃圾拿出去。示例：take out the trash.do the laundry：洗衣服。示例：do the laundry.wash the dishes：洗碗。示例：wash the dishes.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 家务和生活安排 with a teammate. I use clean the room to talk about 打扫房间. I use pick up groceries to talk about 顺路买生活用品. I use finish the chores to talk about 做完家务. I tell my teammate: Today I use clean the room, pick up groceries, and finish the chores. At the end, I say: I can use clean the room clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 家务和生活安排 with a teammate. I use clean the room to talk about 打扫房间. I use pick up groceries to talk about 顺路买生活用品. I use finish the chores to talk about 做完家务. I tell my teammate: Today I use clean the room, pick up groceries, and finish the chores. At the end, I say: I can use clean the room clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"clean the room\" in a daily conversation. I say \"pick up groceries\" in a daily conversation. I say \"finish the chores\" in a daily conversation. I tell my teammate: Today I use clean the room, pick up groceries, and finish the chores. At the end, I say: I can use clean the room clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"clean the room\" in a daily conversation. I say \"pick up groceries\" in a daily conversation. I say \"finish the chores\" in a daily conversation. I tell my teammate: Today I use clean the room, pick up groceries, and finish the chores. At the end, I say: I can use clean the room clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“家务和生活安排”。先听英文，再尝试不看中文复述。clean the room：打扫房间。示例：clean the room.pick up groceries：顺路买生活用品。示例：pick up groceries.finish the chores：做完家务。示例：finish the chores.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并与冲突 with a teammate. I use merge branches to talk about 合并分支，把两条代码线组合起来. I use merge conflict to talk about 合并冲突，两边修改无法自动组合的情况. I use resolve a conflict to talk about 解决冲突，人工决定保留哪些内容. I tell my teammate: Today I use merge branches, merge conflict, and resolve a conflict. At the end, I say: I can use merge branches clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并与冲突 with a teammate. I use merge branches to talk about 合并分支，把两条代码线组合起来. I use merge conflict to talk about 合并冲突，两边修改无法自动组合的情况. I use resolve a conflict to talk about 解决冲突，人工决定保留哪些内容. I tell my teammate: Today I use merge branches, merge conflict, and resolve a conflict. At the end, I say: I can use merge branches clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"merge branches\" when I work with my team. I use \"merge conflict\" when I work with my team. I use \"resolve a conflict\" when I work with my team. I tell my teammate: Today I use merge branches, merge conflict, and resolve a conflict. At the end, I say: I can use merge branches clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"merge branches\" when I work with my team. I use \"merge conflict\" when I work with my team. I use \"resolve a conflict\" when I work with my team. I tell my teammate: Today I use merge branches, merge conflict, and resolve a conflict. At the end, I say: I can use merge branches clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“合并与冲突”。先听英文，再尝试不看中文复述。merge branches：合并分支，把两条代码线组合起来。示例：Our team uses \"merge branches\" to keep the project clear.merge conflict：合并冲突，两边修改无法自动组合的情况。示例：Our team uses \"merge conflict\" to keep the project clear.resolve a conflict：解决冲突，人工决定保留哪些内容。示例：Our team uses \"resolve a conflict\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并与冲突 with a teammate. I use conflicting change to talk about 冲突改动，与另一项修改互不兼容的变化. I use accept incoming change to talk about 接受传入改动，选择另一分支的内容. I use complete the merge to talk about 完成合并，解决冲突后创建合并结果. I tell my teammate: Today I use conflicting change, accept incoming change, and complete the merge. At the end, I say: I can use conflicting change clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 合并与冲突 with a teammate. I use conflicting change to talk about 冲突改动，与另一项修改互不兼容的变化. I use accept incoming change to talk about 接受传入改动，选择另一分支的内容. I use complete the merge to talk about 完成合并，解决冲突后创建合并结果. I tell my teammate: Today I use conflicting change, accept incoming change, and complete the merge. At the end, I say: I can use conflicting change clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"conflicting change\" when I work with my team. I use \"accept incoming change\" when I work with my team. I use \"complete the merge\" when I work with my team. I tell my teammate: Today I use conflicting change, accept incoming change, and complete the merge. At the end, I say: I can use conflicting change clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"conflicting change\" when I work with my team. I use \"accept incoming change\" when I work with my team. I use \"complete the merge\" when I work with my team. I tell my teammate: Today I use conflicting change, accept incoming change, and complete the merge. At the end, I say: I can use conflicting change clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“合并与冲突”。先听英文，再尝试不看中文复述。conflicting change：冲突改动，与另一项修改互不兼容的变化。示例：Our team uses \"conflicting change\" to keep the project clear.accept incoming change：接受传入改动，选择另一分支的内容。示例：Our team uses \"accept incoming change\" to keep the project clear.complete the merge：完成合并，解决冲突后创建合并结果。示例：Our team uses \"complete the merge\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

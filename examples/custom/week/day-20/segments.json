@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 460,
+   "word_count": 476,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 库、依赖与框架 with a teammate. I use library to talk about 库，可被程序调用的一组现成功能. I use dependency to talk about 依赖，项目正常运行需要的外部软件. I use framework to talk about 框架，为应用提供整体结构和规则的工具. I tell my teammate: Today I use library, dependency, and framework. At the end, I say: I can use library clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 库、依赖与框架 with a teammate. I use library to talk about 库，可被程序调用的一组现成功能. I use dependency to talk about 依赖，项目正常运行需要的外部软件. I use framework to talk about 框架，为应用提供整体结构和规则的工具. I tell my teammate: Today I use library, dependency, and framework. At the end, I say: I can use library clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"library\" when I talk about my computer project. I say \"dependency\" when I talk about my computer project. I say \"framework\" when I talk about my computer project. I tell my teammate: Today I use library, dependency, and framework. At the end, I say: I can use library clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"library\" when I talk about my computer project. I say \"dependency\" when I talk about my computer project. I say \"framework\" when I talk about my computer project. I tell my teammate: Today I use library, dependency, and framework. At the end, I say: I can use library clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“库、依赖与框架”。先听英文，再尝试不看中文复述。library：库，可被程序调用的一组现成功能。示例：I learned how to use \"library\" in a computer task.dependency：依赖，项目正常运行需要的外部软件。示例：I learned how to use \"dependency\" in a computer task.framework：框架，为应用提供整体结构和规则的工具。示例：I learned how to use \"framework\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 库、依赖与框架 with a teammate. I use package to talk about 软件包，可安装和分发的代码集合. I use package manager to talk about 包管理器，安装和管理软件包的工具. I use dependency version to talk about 依赖版本，项目指定使用的依赖发布编号. I tell my teammate: Today I use package, package manager, and dependency version. At the end, I say: I can use package clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 库、依赖与框架 with a teammate. I use package to talk about 软件包，可安装和分发的代码集合. I use package manager to talk about 包管理器，安装和管理软件包的工具. I use dependency version to talk about 依赖版本，项目指定使用的依赖发布编号. I tell my teammate: Today I use package, package manager, and dependency version. At the end, I say: I can use package clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"package\" when I talk about my computer project. I say \"package manager\" when I talk about my computer project. I say \"dependency version\" when I talk about my computer project. I tell my teammate: Today I use package, package manager, and dependency version. At the end, I say: I can use package clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"package\" when I talk about my computer project. I say \"package manager\" when I talk about my computer project. I say \"dependency version\" when I talk about my computer project. I tell my teammate: Today I use package, package manager, and dependency version. At the end, I say: I can use package clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“库、依赖与框架”。先听英文，再尝试不看中文复述。package：软件包，可安装和分发的代码集合。示例：I learned how to use \"package\" in a computer task.package manager：包管理器，安装和管理软件包的工具。示例：I learned how to use \"package manager\" in a computer task.dependency version：依赖版本，项目指定使用的依赖发布编号。示例：I learned how to use \"dependency version\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达偏好和选择 with a teammate. I use I prefer the first option. to talk about 我更喜欢第一个方案。. I use I'd rather wait. to talk about 我宁愿等一等。. I use This works better for me. to talk about 这个对我更合适。. I tell my teammate: Today I use I prefer the first option., I'd rather wait., and This works better for me.. At the end, I say: I can use I prefer the first option. clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达偏好和选择 with a teammate. I use I prefer the first option. to talk about 我更喜欢第一个方案。. I use I'd rather wait. to talk about 我宁愿等一等。. I use This works better for me. to talk about 这个对我更合适。. I tell my teammate: Today I use I prefer the first option., I'd rather wait., and This works better for me.. At the end, I say: I can use I prefer the first option. clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I prefer the first option.\" in a daily conversation. I say \"I'd rather wait.\" in a daily conversation. I say \"This works better for me.\" in a daily conversation. I tell my teammate: Today I use I prefer the first option., I'd rather wait., and This works better for me.. At the end, I say: I can use I prefer the first option. clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I prefer the first option.\" in a daily conversation. I say \"I'd rather wait.\" in a daily conversation. I say \"This works better for me.\" in a daily conversation. I tell my teammate: Today I use I prefer the first option., I'd rather wait., and This works better for me.. At the end, I say: I can use I prefer the first option. clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“表达偏好和选择”。先听英文，再尝试不看中文复述。I prefer the first option.：我更喜欢第一个方案。。示例：I prefer the first option.I'd rather wait.：我宁愿等一等。。示例：I'd rather wait.This works better for me.：这个对我更合适。。示例：This works better for me.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达偏好和选择 with a teammate. I use The main reason is ... to talk about 主要原因是……. I use It depends on the situation. to talk about 这取决于具体情况。. I use Let's choose this one. to talk about 我们选这个吧。. I tell my teammate: Today I use The main reason is ..., It depends on the situation., and Let's choose this one.. At the end, I say: I can use The main reason is ... clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达偏好和选择 with a teammate. I use The main reason is ... to talk about 主要原因是……. I use It depends on the situation. to talk about 这取决于具体情况。. I use Let's choose this one. to talk about 我们选这个吧。. I tell my teammate: Today I use The main reason is ..., It depends on the situation., and Let's choose this one.. At the end, I say: I can use The main reason is ... clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The main reason is ...\" in a daily conversation. I say \"It depends on the situation.\" in a daily conversation. I say \"Let's choose this one.\" in a daily conversation. I tell my teammate: Today I use The main reason is ..., It depends on the situation., and Let's choose this one.. At the end, I say: I can use The main reason is ... clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The main reason is ...\" in a daily conversation. I say \"It depends on the situation.\" in a daily conversation. I say \"Let's choose this one.\" in a daily conversation. I tell my teammate: Today I use The main reason is ..., It depends on the situation., and Let's choose this one.. At the end, I say: I can use The main reason is ... clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“表达偏好和选择”。先听英文，再尝试不看中文复述。The main reason is ...：主要原因是……。示例：The main reason isIt depends on the situation.：这取决于具体情况。。示例：It depends on the situation.Let's choose this one.：我们选这个吧。。示例：Let's choose this one.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 变更日志 with a teammate. I use changelog to talk about 变更日志，按版本记录项目变化的文件. I use breaking change to talk about 破坏性变更，会让旧用法不再兼容的变化. I use new feature to talk about 新功能，新版本增加的能力. I tell my teammate: Today I use changelog, breaking change, and new feature. At the end, I say: I can use changelog clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 变更日志 with a teammate. I use changelog to talk about 变更日志，按版本记录项目变化的文件. I use breaking change to talk about 破坏性变更，会让旧用法不再兼容的变化. I use new feature to talk about 新功能，新版本增加的能力. I tell my teammate: Today I use changelog, breaking change, and new feature. At the end, I say: I can use changelog clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"changelog\" when I work with my team. I use \"breaking change\" when I work with my team. I use \"new feature\" when I work with my team. I tell my teammate: Today I use changelog, breaking change, and new feature. At the end, I say: I can use changelog clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"changelog\" when I work with my team. I use \"breaking change\" when I work with my team. I use \"new feature\" when I work with my team. I tell my teammate: Today I use changelog, breaking change, and new feature. At the end, I say: I can use changelog clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“变更日志”。先听英文，再尝试不看中文复述。changelog：变更日志，按版本记录项目变化的文件。示例：Our team uses \"changelog\" to keep the project clear.breaking change：破坏性变更，会让旧用法不再兼容的变化。示例：Our team uses \"breaking change\" to keep the project clear.new feature：新功能，新版本增加的能力。示例：Our team uses \"new feature\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 变更日志 with a teammate. I use bug fix entry to talk about 缺陷修复条目，记录某项错误修复的说明. I use deprecation notice to talk about 弃用通知，说明某项功能将来会被移除. I use release summary to talk about 发布摘要，用简短文字概括版本变化. I tell my teammate: Today I use bug fix entry, deprecation notice, and release summary. At the end, I say: I can use bug fix entry clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 变更日志 with a teammate. I use bug fix entry to talk about 缺陷修复条目，记录某项错误修复的说明. I use deprecation notice to talk about 弃用通知，说明某项功能将来会被移除. I use release summary to talk about 发布摘要，用简短文字概括版本变化. I tell my teammate: Today I use bug fix entry, deprecation notice, and release summary. At the end, I say: I can use bug fix entry clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"bug fix entry\" when I work with my team. I use \"deprecation notice\" when I work with my team. I use \"release summary\" when I work with my team. I tell my teammate: Today I use bug fix entry, deprecation notice, and release summary. At the end, I say: I can use bug fix entry clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"bug fix entry\" when I work with my team. I use \"deprecation notice\" when I work with my team. I use \"release summary\" when I work with my team. I tell my teammate: Today I use bug fix entry, deprecation notice, and release summary. At the end, I say: I can use bug fix entry clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“变更日志”。先听英文，再尝试不看中文复述。bug fix entry：缺陷修复条目，记录某项错误修复的说明。示例：Our team uses \"bug fix entry\" to keep the project clear.deprecation notice：弃用通知，说明某项功能将来会被移除。示例：Our team uses \"deprecation notice\" to keep the project clear.release summary：发布摘要，用简短文字概括版本变化。示例：Our team uses \"release summary\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

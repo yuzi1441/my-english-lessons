@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 471,
+   "word_count": 485,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 异常与堆栈信息 with a teammate. I use exception to talk about 异常，程序运行时发生的特殊错误情况. I use stack trace to talk about 堆栈跟踪，显示错误经过哪些函数调用的记录. I use error type to talk about 错误类型，用来区分不同错误类别的名称. I tell my teammate: Today I use exception, stack trace, and error type. At the end, I say: I can use exception clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 异常与堆栈信息 with a teammate. I use exception to talk about 异常，程序运行时发生的特殊错误情况. I use stack trace to talk about 堆栈跟踪，显示错误经过哪些函数调用的记录. I use error type to talk about 错误类型，用来区分不同错误类别的名称. I tell my teammate: Today I use exception, stack trace, and error type. At the end, I say: I can use exception clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"exception\" when I talk about my computer project. I say \"stack trace\" when I talk about my computer project. I say \"error type\" when I talk about my computer project. I tell my teammate: Today I use exception, stack trace, and error type. At the end, I say: I can use exception clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"exception\" when I talk about my computer project. I say \"stack trace\" when I talk about my computer project. I say \"error type\" when I talk about my computer project. I tell my teammate: Today I use exception, stack trace, and error type. At the end, I say: I can use exception clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“异常与堆栈信息”。先听英文，再尝试不看中文复述。exception：异常，程序运行时发生的特殊错误情况。示例：I learned how to use \"exception\" in a computer task.stack trace：堆栈跟踪，显示错误经过哪些函数调用的记录。示例：I learned how to use \"stack trace\" in a computer task.error type：错误类型，用来区分不同错误类别的名称。示例：I learned how to use \"error type\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 异常与堆栈信息 with a teammate. I use line number to talk about 行号，表示错误所在代码位置的数字. I use catch an exception to talk about 捕获异常，让程序有机会处理错误. I use handle an error to talk about 处理错误，用可控方式响应失败情况. I tell my teammate: Today I use line number, catch an exception, and handle an error. At the end, I say: I can use line number clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 异常与堆栈信息 with a teammate. I use line number to talk about 行号，表示错误所在代码位置的数字. I use catch an exception to talk about 捕获异常，让程序有机会处理错误. I use handle an error to talk about 处理错误，用可控方式响应失败情况. I tell my teammate: Today I use line number, catch an exception, and handle an error. At the end, I say: I can use line number clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"line number\" when I talk about my computer project. I say \"catch an exception\" when I talk about my computer project. I say \"handle an error\" when I talk about my computer project. I tell my teammate: Today I use line number, catch an exception, and handle an error. At the end, I say: I can use line number clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"line number\" when I talk about my computer project. I say \"catch an exception\" when I talk about my computer project. I say \"handle an error\" when I talk about my computer project. I tell my teammate: Today I use line number, catch an exception, and handle an error. At the end, I say: I can use line number clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“异常与堆栈信息”。先听英文，再尝试不看中文复述。line number：行号，表示错误所在代码位置的数字。示例：I learned how to use \"line number\" in a computer task.catch an exception：捕获异常，让程序有机会处理错误。示例：I learned how to use \"catch an exception\" in a computer task.handle an error：处理错误，用可控方式响应失败情况。示例：I learned how to use \"handle an error\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 客服电话 with a teammate. I use I'm calling about ... to talk about 我打电话是想咨询……. I use My order hasn't arrived. to talk about 我的订单还没有到。. I use Could you check the status? to talk about 你可以查询一下状态吗？. I tell my teammate: Today I use I'm calling about ..., My order hasn't arrived., and Could you check the status?. At the end, I say: I can use I'm calling about ... clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 客服电话 with a teammate. I use I'm calling about ... to talk about 我打电话是想咨询……. I use My order hasn't arrived. to talk about 我的订单还没有到。. I use Could you check the status? to talk about 你可以查询一下状态吗？. I tell my teammate: Today I use I'm calling about ..., My order hasn't arrived., and Could you check the status?. At the end, I say: I can use I'm calling about ... clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'm calling about ...\" in a daily conversation. I say \"My order hasn't arrived.\" in a daily conversation. I say \"Could you check the status?\" in a daily conversation. I tell my teammate: Today I use I'm calling about ..., My order hasn't arrived., and Could you check the status?. At the end, I say: I can use I'm calling about ... clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'm calling about ...\" in a daily conversation. I say \"My order hasn't arrived.\" in a daily conversation. I say \"Could you check the status?\" in a daily conversation. I tell my teammate: Today I use I'm calling about ..., My order hasn't arrived., and Could you check the status?. At the end, I say: I can use I'm calling about ... clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“客服电话”。先听英文，再尝试不看中文复述。I'm calling about ...：我打电话是想咨询……。示例：I'm calling aboutMy order hasn't arrived.：我的订单还没有到。。示例：My order hasn't arrived.Could you check the status?：你可以查询一下状态吗？。示例：Could you check the status?最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 客服电话 with a teammate. I use The problem started yesterday. to talk about 问题从昨天开始。. I use I've already tried that. to talk about 我已经试过那个方法了。. I use What should I do next? to talk about 我下一步应该怎么做？. I tell my teammate: Today I use The problem started yesterday., I've already tried that., and What should I do next?. At the end, I say: I can use The problem started yesterday. clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 客服电话 with a teammate. I use The problem started yesterday. to talk about 问题从昨天开始。. I use I've already tried that. to talk about 我已经试过那个方法了。. I use What should I do next? to talk about 我下一步应该怎么做？. I tell my teammate: Today I use The problem started yesterday., I've already tried that., and What should I do next?. At the end, I say: I can use The problem started yesterday. clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The problem started yesterday.\" in a daily conversation. I say \"I've already tried that.\" in a daily conversation. I say \"What should I do next?\" in a daily conversation. I tell my teammate: Today I use The problem started yesterday., I've already tried that., and What should I do next?. At the end, I say: I can use The problem started yesterday. clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The problem started yesterday.\" in a daily conversation. I say \"I've already tried that.\" in a daily conversation. I say \"What should I do next?\" in a daily conversation. I tell my teammate: Today I use The problem started yesterday., I've already tried that., and What should I do next?. At the end, I say: I can use The problem started yesterday. clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“客服电话”。先听英文，再尝试不看中文复述。The problem started yesterday.：问题从昨天开始。。示例：The problem started yesterday.I've already tried that.：我已经试过那个方法了。。示例：I've already tried that.What should I do next?：我下一步应该怎么做？。示例：What should I do next?最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 复现 issue with a teammate. I use issue template to talk about 问题单模板，指导用户提供必要信息的格式. I use steps to reproduce to talk about 复现步骤，能够再次触发问题的操作顺序. I use expected behavior to talk about 预期行为，软件本来应该出现的结果. I tell my teammate: Today I use issue template, steps to reproduce, and expected behavior. At the end, I say: I can use issue template clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 复现 issue with a teammate. I use issue template to talk about 问题单模板，指导用户提供必要信息的格式. I use steps to reproduce to talk about 复现步骤，能够再次触发问题的操作顺序. I use expected behavior to talk about 预期行为，软件本来应该出现的结果. I tell my teammate: Today I use issue template, steps to reproduce, and expected behavior. At the end, I say: I can use issue template clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue template\" when I work with my team. I use \"steps to reproduce\" when I work with my team. I use \"expected behavior\" when I work with my team. I tell my teammate: Today I use issue template, steps to reproduce, and expected behavior. At the end, I say: I can use issue template clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue template\" when I work with my team. I use \"steps to reproduce\" when I work with my team. I use \"expected behavior\" when I work with my team. I tell my teammate: Today I use issue template, steps to reproduce, and expected behavior. At the end, I say: I can use issue template clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“复现 Issue”。先听英文，再尝试不看中文复述。issue template：问题单模板，指导用户提供必要信息的格式。示例：Our team uses \"issue template\" to keep the project clear.steps to reproduce：复现步骤，能够再次触发问题的操作顺序。示例：Our team uses \"steps to reproduce\" to keep the project clear.expected behavior：预期行为，软件本来应该出现的结果。示例：Our team uses \"expected behavior\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 复现 issue with a teammate. I use actual behavior to talk about 实际行为，软件真正出现的结果. I use minimal example to talk about 最小示例，只保留触发问题所需内容的示例. I use environment details to talk about 环境详情，系统、版本等运行条件信息. I tell my teammate: Today I use actual behavior, minimal example, and environment details. At the end, I say: I can use actual behavior clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 复现 issue with a teammate. I use actual behavior to talk about 实际行为，软件真正出现的结果. I use minimal example to talk about 最小示例，只保留触发问题所需内容的示例. I use environment details to talk about 环境详情，系统、版本等运行条件信息. I tell my teammate: Today I use actual behavior, minimal example, and environment details. At the end, I say: I can use actual behavior clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"actual behavior\" when I work with my team. I use \"minimal example\" when I work with my team. I use \"environment details\" when I work with my team. I tell my teammate: Today I use actual behavior, minimal example, and environment details. At the end, I say: I can use actual behavior clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"actual behavior\" when I work with my team. I use \"minimal example\" when I work with my team. I use \"environment details\" when I work with my team. I tell my teammate: Today I use actual behavior, minimal example, and environment details. At the end, I say: I can use actual behavior clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“复现 Issue”。先听英文，再尝试不看中文复述。actual behavior：实际行为，软件真正出现的结果。示例：Our team uses \"actual behavior\" to keep the project clear.minimal example：最小示例，只保留触发问题所需内容的示例。示例：Our team uses \"minimal example\" to keep the project clear.environment details：环境详情，系统、版本等运行条件信息。示例：Our team uses \"environment details\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

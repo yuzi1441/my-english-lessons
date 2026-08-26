@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 483,
+   "word_count": 484,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ai 模型、prompt 与 context with a teammate. I use AI model to talk about AI 模型，从数据中学习规律并生成结果的程序. I use prompt to talk about 提示词，用户交给 AI 的任务和背景说明. I use context window to talk about 上下文窗口，模型一次能够处理的信息范围. I tell my teammate: Today I use AI model, prompt, and context window. At the end, I say: I can use AI model clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ai 模型、prompt 与 context with a teammate. I use AI model to talk about AI 模型，从数据中学习规律并生成结果的程序. I use prompt to talk about 提示词，用户交给 AI 的任务和背景说明. I use context window to talk about 上下文窗口，模型一次能够处理的信息范围. I tell my teammate: Today I use AI model, prompt, and context window. At the end, I say: I can use AI model clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"AI model\" when I talk about my computer project. I say \"prompt\" when I talk about my computer project. I say \"context window\" when I talk about my computer project. I tell my teammate: Today I use AI model, prompt, and context window. At the end, I say: I can use AI model clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"AI model\" when I talk about my computer project. I say \"prompt\" when I talk about my computer project. I say \"context window\" when I talk about my computer project. I tell my teammate: Today I use AI model, prompt, and context window. At the end, I say: I can use AI model clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“AI 模型、Prompt 与 Context”。先听英文，再尝试不看中文复述。AI model：AI 模型，从数据中学习规律并生成结果的程序。示例：I learned how to use \"A I model\" in a computer task.prompt：提示词，用户交给 AI 的任务和背景说明。示例：I learned how to use \"prompt\" in a computer task.context window：上下文窗口，模型一次能够处理的信息范围。示例：I learned how to use \"context window\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ai 模型、prompt 与 context with a teammate. I use system instruction to talk about 系统指令，规定模型角色和总体行为的指令. I use user message to talk about 用户消息，用户向模型提出的具体内容. I use model response to talk about 模型响应，AI 根据输入生成的回答. I tell my teammate: Today I use system instruction, user message, and model response. At the end, I say: I can use system instruction clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about ai 模型、prompt 与 context with a teammate. I use system instruction to talk about 系统指令，规定模型角色和总体行为的指令. I use user message to talk about 用户消息，用户向模型提出的具体内容. I use model response to talk about 模型响应，AI 根据输入生成的回答. I tell my teammate: Today I use system instruction, user message, and model response. At the end, I say: I can use system instruction clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"system instruction\" when I talk about my computer project. I say \"user message\" when I talk about my computer project. I say \"model response\" when I talk about my computer project. I tell my teammate: Today I use system instruction, user message, and model response. At the end, I say: I can use system instruction clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"system instruction\" when I talk about my computer project. I say \"user message\" when I talk about my computer project. I say \"model response\" when I talk about my computer project. I tell my teammate: Today I use system instruction, user message, and model response. At the end, I say: I can use system instruction clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“AI 模型、Prompt 与 Context”。先听英文，再尝试不看中文复述。system instruction：系统指令，规定模型角色和总体行为的指令。示例：I learned how to use \"system instruction\" in a computer task.user message：用户消息，用户向模型提出的具体内容。示例：I learned how to use \"user message\" in a computer task.model response：模型响应，AI 根据输入生成的回答。示例：I learned how to use \"model response\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达不确定性 with a teammate. I use I'm not completely sure. to talk about 我不是完全确定。. I use As far as I know ... to talk about 据我所知……. I use It seems likely that ... to talk about 看起来很可能……. I tell my teammate: Today I use I'm not completely sure., As far as I know ..., and It seems likely that .... At the end, I say: I can use I'm not completely sure. clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达不确定性 with a teammate. I use I'm not completely sure. to talk about 我不是完全确定。. I use As far as I know ... to talk about 据我所知……. I use It seems likely that ... to talk about 看起来很可能……. I tell my teammate: Today I use I'm not completely sure., As far as I know ..., and It seems likely that .... At the end, I say: I can use I'm not completely sure. clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'm not completely sure.\" in a daily conversation. I say \"As far as I know ...\" in a daily conversation. I say \"It seems likely that ...\" in a daily conversation. I tell my teammate: Today I use I'm not completely sure., As far as I know ..., and It seems likely that .... At the end, I say: I can use I'm not completely sure. clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I'm not completely sure.\" in a daily conversation. I say \"As far as I know ...\" in a daily conversation. I say \"It seems likely that ...\" in a daily conversation. I tell my teammate: Today I use I'm not completely sure., As far as I know ..., and It seems likely that .... At the end, I say: I can use I'm not completely sure. clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“表达不确定性”。先听英文，再尝试不看中文复述。I'm not completely sure.：我不是完全确定。。示例：I'm not completely sure.As far as I know ...：据我所知……。示例：As far as I knowIt seems likely that ...：看起来很可能……。示例：It seems likely that最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达不确定性 with a teammate. I use I may be mistaken. to talk about 我可能弄错了。. I use Let me check first. to talk about 让我先确认一下。. I use The evidence is limited. to talk about 证据有限。. I tell my teammate: Today I use I may be mistaken., Let me check first., and The evidence is limited.. At the end, I say: I can use I may be mistaken. clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 表达不确定性 with a teammate. I use I may be mistaken. to talk about 我可能弄错了。. I use Let me check first. to talk about 让我先确认一下。. I use The evidence is limited. to talk about 证据有限。. I tell my teammate: Today I use I may be mistaken., Let me check first., and The evidence is limited.. At the end, I say: I can use I may be mistaken. clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I may be mistaken.\" in a daily conversation. I say \"Let me check first.\" in a daily conversation. I say \"The evidence is limited.\" in a daily conversation. I tell my teammate: Today I use I may be mistaken., Let me check first., and The evidence is limited.. At the end, I say: I can use I may be mistaken. clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I may be mistaken.\" in a daily conversation. I say \"Let me check first.\" in a daily conversation. I say \"The evidence is limited.\" in a daily conversation. I tell my teammate: Today I use I may be mistaken., Let me check first., and The evidence is limited.. At the end, I say: I can use I may be mistaken. clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“表达不确定性”。先听英文，再尝试不看中文复述。I may be mistaken.：我可能弄错了。。示例：I may be mistaken.Let me check first.：让我先确认一下。。示例：Let me check first.The evidence is limited.：证据有限。。示例：The evidence is limited.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about discussion 与 rfc with a teammate. I use GitHub Discussion to talk about GitHub 讨论区，用于开放问题和社区交流. I use request for comments to talk about 征求意见稿，请他人评议某个设计方案. I use design proposal to talk about 设计提案，说明准备如何解决问题的文档. I tell my teammate: Today I use GitHub Discussion, request for comments, and design proposal. At the end, I say: I can use GitHub Discussion clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about discussion 与 rfc with a teammate. I use GitHub Discussion to talk about GitHub 讨论区，用于开放问题和社区交流. I use request for comments to talk about 征求意见稿，请他人评议某个设计方案. I use design proposal to talk about 设计提案，说明准备如何解决问题的文档. I tell my teammate: Today I use GitHub Discussion, request for comments, and design proposal. At the end, I say: I can use GitHub Discussion clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"GitHub Discussion\" when I work with my team. I use \"request for comments\" when I work with my team. I use \"design proposal\" when I work with my team. I tell my teammate: Today I use GitHub Discussion, request for comments, and design proposal. At the end, I say: I can use GitHub Discussion clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"GitHub Discussion\" when I work with my team. I use \"request for comments\" when I work with my team. I use \"design proposal\" when I work with my team. I tell my teammate: Today I use GitHub Discussion, request for comments, and design proposal. At the end, I say: I can use GitHub Discussion clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Discussion 与 RFC”。先听英文，再尝试不看中文复述。GitHub Discussion：GitHub 讨论区，用于开放问题和社区交流。示例：Our team uses \"Git Hub Discussion\" to keep the project clear.request for comments：征求意见稿，请他人评议某个设计方案。示例：Our team uses \"request for comments\" to keep the project clear.design proposal：设计提案，说明准备如何解决问题的文档。示例：Our team uses \"design proposal\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about discussion 与 rfc with a teammate. I use open question to talk about 开放问题，尚未得到确定答案的问题. I use decision record to talk about 决策记录，保存选择、理由和取舍的文档. I use technical discussion to talk about 技术讨论，围绕实现方案进行的专业交流. I tell my teammate: Today I use open question, decision record, and technical discussion. At the end, I say: I can use open question clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about discussion 与 rfc with a teammate. I use open question to talk about 开放问题，尚未得到确定答案的问题. I use decision record to talk about 决策记录，保存选择、理由和取舍的文档. I use technical discussion to talk about 技术讨论，围绕实现方案进行的专业交流. I tell my teammate: Today I use open question, decision record, and technical discussion. At the end, I say: I can use open question clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"open question\" when I work with my team. I use \"decision record\" when I work with my team. I use \"technical discussion\" when I work with my team. I tell my teammate: Today I use open question, decision record, and technical discussion. At the end, I say: I can use open question clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"open question\" when I work with my team. I use \"decision record\" when I work with my team. I use \"technical discussion\" when I work with my team. I tell my teammate: Today I use open question, decision record, and technical discussion. At the end, I say: I can use open question clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Discussion 与 RFC”。先听英文，再尝试不看中文复述。open question：开放问题，尚未得到确定答案的问题。示例：Our team uses \"open question\" to keep the project clear.decision record：决策记录，保存选择、理由和取舍的文档。示例：Our team uses \"decision record\" to keep the project clear.technical discussion：技术讨论，围绕实现方案进行的专业交流。示例：Our team uses \"technical discussion\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

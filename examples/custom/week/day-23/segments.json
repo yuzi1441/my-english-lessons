@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 497,
+   "word_count": 513,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 性能、延迟与缓存 with a teammate. I use performance to talk about 性能，系统完成工作的速度和效率. I use latency to talk about 延迟，从发出请求到收到响应的等待时间. I use cache to talk about 缓存，为快速读取而暂时保存的数据. I tell my teammate: Today I use performance, latency, and cache. At the end, I say: I can use performance clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 性能、延迟与缓存 with a teammate. I use performance to talk about 性能，系统完成工作的速度和效率. I use latency to talk about 延迟，从发出请求到收到响应的等待时间. I use cache to talk about 缓存，为快速读取而暂时保存的数据. I tell my teammate: Today I use performance, latency, and cache. At the end, I say: I can use performance clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"performance\" when I talk about my computer project. I say \"latency\" when I talk about my computer project. I say \"cache\" when I talk about my computer project. I tell my teammate: Today I use performance, latency, and cache. At the end, I say: I can use performance clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"performance\" when I talk about my computer project. I say \"latency\" when I talk about my computer project. I say \"cache\" when I talk about my computer project. I tell my teammate: Today I use performance, latency, and cache. At the end, I say: I can use performance clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“性能、延迟与缓存”。先听英文，再尝试不看中文复述。performance：性能，系统完成工作的速度和效率。示例：I learned how to use \"performance\" in a computer task.latency：延迟，从发出请求到收到响应的等待时间。示例：I learned how to use \"latency\" in a computer task.cache：缓存，为快速读取而暂时保存的数据。示例：I learned how to use \"cache\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 性能、延迟与缓存 with a teammate. I use cache hit to talk about 缓存命中，需要的数据直接在缓存中找到. I use cache miss to talk about 缓存未命中，需要的数据不在缓存中. I use response time to talk about 响应时间，系统完成一次请求所花的时间. I tell my teammate: Today I use cache hit, cache miss, and response time. At the end, I say: I can use cache hit clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 性能、延迟与缓存 with a teammate. I use cache hit to talk about 缓存命中，需要的数据直接在缓存中找到. I use cache miss to talk about 缓存未命中，需要的数据不在缓存中. I use response time to talk about 响应时间，系统完成一次请求所花的时间. I tell my teammate: Today I use cache hit, cache miss, and response time. At the end, I say: I can use cache hit clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"cache hit\" when I talk about my computer project. I say \"cache miss\" when I talk about my computer project. I say \"response time\" when I talk about my computer project. I tell my teammate: Today I use cache hit, cache miss, and response time. At the end, I say: I can use cache hit clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"cache hit\" when I talk about my computer project. I say \"cache miss\" when I talk about my computer project. I say \"response time\" when I talk about my computer project. I tell my teammate: Today I use cache hit, cache miss, and response time. At the end, I say: I can use cache hit clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“性能、延迟与缓存”。先听英文，再尝试不看中文复述。cache hit：缓存命中，需要的数据直接在缓存中找到。示例：I learned how to use \"cache hit\" in a computer task.cache miss：缓存未命中，需要的数据不在缓存中。示例：I learned how to use \"cache miss\" in a computer task.response time：响应时间，系统完成一次请求所花的时间。示例：I learned how to use \"response time\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 比较并作出决定 with a teammate. I use What are the main differences? to talk about 主要区别是什么？. I use This one is more reliable. to talk about 这个更可靠。. I use The other option is cheaper. to talk about 另一个方案更便宜。. I tell my teammate: Today I use What are the main differences?, This one is more reliable., and The other option is cheaper.. At the end, I say: I can use What are the main differences? clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 比较并作出决定 with a teammate. I use What are the main differences? to talk about 主要区别是什么？. I use This one is more reliable. to talk about 这个更可靠。. I use The other option is cheaper. to talk about 另一个方案更便宜。. I tell my teammate: Today I use What are the main differences?, This one is more reliable., and The other option is cheaper.. At the end, I say: I can use What are the main differences? clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What are the main differences?\" in a daily conversation. I say \"This one is more reliable.\" in a daily conversation. I say \"The other option is cheaper.\" in a daily conversation. I tell my teammate: Today I use What are the main differences?, This one is more reliable., and The other option is cheaper.. At the end, I say: I can use What are the main differences? clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What are the main differences?\" in a daily conversation. I say \"This one is more reliable.\" in a daily conversation. I say \"The other option is cheaper.\" in a daily conversation. I tell my teammate: Today I use What are the main differences?, This one is more reliable., and The other option is cheaper.. At the end, I say: I can use What are the main differences? clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“比较并作出决定”。先听英文，再尝试不看中文复述。What are the main differences?：主要区别是什么？。示例：What are the main differences?This one is more reliable.：这个更可靠。。示例：This one is more reliable.The other option is cheaper.：另一个方案更便宜。。示例：The other option is cheaper.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 比较并作出决定 with a teammate. I use What are the trade-offs? to talk about 有哪些取舍？. I use I need time to decide. to talk about 我需要时间决定。. I use Let's review the facts. to talk about 我们回顾一下事实吧。. I tell my teammate: Today I use What are the trade-offs?, I need time to decide., and Let's review the facts.. At the end, I say: I can use What are the trade-offs? clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 比较并作出决定 with a teammate. I use What are the trade-offs? to talk about 有哪些取舍？. I use I need time to decide. to talk about 我需要时间决定。. I use Let's review the facts. to talk about 我们回顾一下事实吧。. I tell my teammate: Today I use What are the trade-offs?, I need time to decide., and Let's review the facts.. At the end, I say: I can use What are the trade-offs? clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What are the trade-offs?\" in a daily conversation. I say \"I need time to decide.\" in a daily conversation. I say \"Let's review the facts.\" in a daily conversation. I tell my teammate: Today I use What are the trade-offs?, I need time to decide., and Let's review the facts.. At the end, I say: I can use What are the trade-offs? clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"What are the trade-offs?\" in a daily conversation. I say \"I need time to decide.\" in a daily conversation. I say \"Let's review the facts.\" in a daily conversation. I tell my teammate: Today I use What are the trade-offs?, I need time to decide., and Let's review the facts.. At the end, I say: I can use What are the trade-offs? clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“比较并作出决定”。先听英文，再尝试不看中文复述。What are the trade-offs?：有哪些取舍？。示例：What are the trade-offs?I need time to decide.：我需要时间决定。。示例：I need time to decide.Let's review the facts.：我们回顾一下事实吧。。示例：Let's review the facts.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 专业代码评审用语 with a teammate. I use Looks good to me. to talk about 我看起来没问题。. I use Could you clarify this part? to talk about 你可以说明这一部分吗？. I use Please add a test. to talk about 请增加一个测试。. I tell my teammate: Today I use Looks good to me., Could you clarify this part?, and Please add a test.. At the end, I say: I can use Looks good to me. clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 专业代码评审用语 with a teammate. I use Looks good to me. to talk about 我看起来没问题。. I use Could you clarify this part? to talk about 你可以说明这一部分吗？. I use Please add a test. to talk about 请增加一个测试。. I tell my teammate: Today I use Looks good to me., Could you clarify this part?, and Please add a test.. At the end, I say: I can use Looks good to me. clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"Looks good to me.\" when I work with my team. I use \"Could you clarify this part?\" when I work with my team. I use \"Please add a test.\" when I work with my team. I tell my teammate: Today I use Looks good to me., Could you clarify this part?, and Please add a test.. At the end, I say: I can use Looks good to me. clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"Looks good to me.\" when I work with my team. I use \"Could you clarify this part?\" when I work with my team. I use \"Please add a test.\" when I work with my team. I tell my teammate: Today I use Looks good to me., Could you clarify this part?, and Please add a test.. At the end, I say: I can use Looks good to me. clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“专业代码评审用语”。先听英文，再尝试不看中文复述。Looks good to me.：我看起来没问题。。示例：Our team uses \"Looks good to me.\" to keep the project clear.Could you clarify this part?：你可以说明这一部分吗？。示例：Our team uses \"Could you clarify this part?\" to keep the project clear.Please add a test.：请增加一个测试。。示例：Our team uses \"Please add a test.\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 专业代码评审用语 with a teammate. I use This may cause an error. to talk about 这可能导致错误。. I use Consider renaming this variable. to talk about 可以考虑重命名这个变量。. I use Thanks for the update. to talk about 谢谢你的更新。. I tell my teammate: Today I use This may cause an error., Consider renaming this variable., and Thanks for the update.. At the end, I say: I can use This may cause an error. clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 专业代码评审用语 with a teammate. I use This may cause an error. to talk about 这可能导致错误。. I use Consider renaming this variable. to talk about 可以考虑重命名这个变量。. I use Thanks for the update. to talk about 谢谢你的更新。. I tell my teammate: Today I use This may cause an error., Consider renaming this variable., and Thanks for the update.. At the end, I say: I can use This may cause an error. clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"This may cause an error.\" when I work with my team. I use \"Consider renaming this variable.\" when I work with my team. I use \"Thanks for the update.\" when I work with my team. I tell my teammate: Today I use This may cause an error., Consider renaming this variable., and Thanks for the update.. At the end, I say: I can use This may cause an error. clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"This may cause an error.\" when I work with my team. I use \"Consider renaming this variable.\" when I work with my team. I use \"Thanks for the update.\" when I work with my team. I tell my teammate: Today I use This may cause an error., Consider renaming this variable., and Thanks for the update.. At the end, I say: I can use This may cause an error. clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“专业代码评审用语”。先听英文，再尝试不看中文复述。This may cause an error.：这可能导致错误。。示例：Our team uses \"This may cause an error.\" to keep the project clear.Consider renaming this variable.：可以考虑重命名这个变量。。示例：Our team uses \"Consider renaming this variable.\" to keep the project clear.Thanks for the update.：谢谢你的更新。。示例：Our team uses \"Thanks for the update.\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

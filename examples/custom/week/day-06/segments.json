@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 467,
+   "word_count": 481,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 错误与调试 with a teammate. I use bug to talk about 程序缺陷，使程序出现错误行为的问题. I use error message to talk about 错误信息，说明程序为何失败的提示. I use debugging to talk about 调试，寻找并修复程序问题的过程. I tell my teammate: Today I use bug, error message, and debugging. At the end, I say: I can use bug clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 错误与调试 with a teammate. I use bug to talk about 程序缺陷，使程序出现错误行为的问题. I use error message to talk about 错误信息，说明程序为何失败的提示. I use debugging to talk about 调试，寻找并修复程序问题的过程. I tell my teammate: Today I use bug, error message, and debugging. At the end, I say: I can use bug clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"bug\" when I talk about my computer project. I say \"error message\" when I talk about my computer project. I say \"debugging\" when I talk about my computer project. I tell my teammate: Today I use bug, error message, and debugging. At the end, I say: I can use bug clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"bug\" when I talk about my computer project. I say \"error message\" when I talk about my computer project. I say \"debugging\" when I talk about my computer project. I tell my teammate: Today I use bug, error message, and debugging. At the end, I say: I can use bug clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“错误与调试”。先听英文，再尝试不看中文复述。bug：程序缺陷，使程序出现错误行为的问题。示例：I learned how to use \"bug\" in a computer task.error message：错误信息，说明程序为何失败的提示。示例：I learned how to use \"error message\" in a computer task.debugging：调试，寻找并修复程序问题的过程。示例：I learned how to use \"debugging\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 错误与调试 with a teammate. I use reproduce an error to talk about 复现错误，重复触发同一个问题. I use root cause to talk about 根本原因，真正导致问题发生的原因. I use fix a bug to talk about 修复缺陷，改正导致程序出错的代码. I tell my teammate: Today I use reproduce an error, root cause, and fix a bug. At the end, I say: I can use reproduce an error clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 错误与调试 with a teammate. I use reproduce an error to talk about 复现错误，重复触发同一个问题. I use root cause to talk about 根本原因，真正导致问题发生的原因. I use fix a bug to talk about 修复缺陷，改正导致程序出错的代码. I tell my teammate: Today I use reproduce an error, root cause, and fix a bug. At the end, I say: I can use reproduce an error clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"reproduce an error\" when I talk about my computer project. I say \"root cause\" when I talk about my computer project. I say \"fix a bug\" when I talk about my computer project. I tell my teammate: Today I use reproduce an error, root cause, and fix a bug. At the end, I say: I can use reproduce an error clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"reproduce an error\" when I talk about my computer project. I say \"root cause\" when I talk about my computer project. I say \"fix a bug\" when I talk about my computer project. I tell my teammate: Today I use reproduce an error, root cause, and fix a bug. At the end, I say: I can use reproduce an error clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“错误与调试”。先听英文，再尝试不看中文复述。reproduce an error：复现错误，重复触发同一个问题。示例：I learned how to use \"reproduce an error\" in a computer task.root cause：根本原因，真正导致问题发生的原因。示例：I learned how to use \"root cause\" in a computer task.fix a bug：修复缺陷，改正导致程序出错的代码。示例：I learned how to use \"fix a bug\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 问路和交通 with a teammate. I use How do I get to ...? to talk about 我怎么去……？. I use Is it far from here? to talk about 离这里远吗？. I use Turn left. to talk about 向左转。. I tell my teammate: Today I use How do I get to ...?, Is it far from here?, and Turn left.. At the end, I say: I can use How do I get to ...? clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 问路和交通 with a teammate. I use How do I get to ...? to talk about 我怎么去……？. I use Is it far from here? to talk about 离这里远吗？. I use Turn left. to talk about 向左转。. I tell my teammate: Today I use How do I get to ...?, Is it far from here?, and Turn left.. At the end, I say: I can use How do I get to ...? clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"How do I get to ...?\" in a daily conversation. I say \"Is it far from here?\" in a daily conversation. I say \"Turn left.\" in a daily conversation. I tell my teammate: Today I use How do I get to ...?, Is it far from here?, and Turn left.. At the end, I say: I can use How do I get to ...? clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"How do I get to ...?\" in a daily conversation. I say \"Is it far from here?\" in a daily conversation. I say \"Turn left.\" in a daily conversation. I tell my teammate: Today I use How do I get to ...?, Is it far from here?, and Turn left.. At the end, I say: I can use How do I get to ...? clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“问路和交通”。先听英文，再尝试不看中文复述。How do I get to ...?：我怎么去……？。示例：How do I get to ?Is it far from here?：离这里远吗？。示例：Is it far from here?Turn left.：向左转。。示例：Turn left.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 问路和交通 with a teammate. I use Go straight. to talk about 一直向前走。. I use Which line should I take? to talk about 我应该坐哪条线路？. I use Where should I get off? to talk about 我应该在哪里下车？. I tell my teammate: Today I use Go straight., Which line should I take?, and Where should I get off?. At the end, I say: I can use Go straight. clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 问路和交通 with a teammate. I use Go straight. to talk about 一直向前走。. I use Which line should I take? to talk about 我应该坐哪条线路？. I use Where should I get off? to talk about 我应该在哪里下车？. I tell my teammate: Today I use Go straight., Which line should I take?, and Where should I get off?. At the end, I say: I can use Go straight. clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Go straight.\" in a daily conversation. I say \"Which line should I take?\" in a daily conversation. I say \"Where should I get off?\" in a daily conversation. I tell my teammate: Today I use Go straight., Which line should I take?, and Where should I get off?. At the end, I say: I can use Go straight. clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"Go straight.\" in a daily conversation. I say \"Which line should I take?\" in a daily conversation. I say \"Where should I get off?\" in a daily conversation. I tell my teammate: Today I use Go straight., Which line should I take?, and Where should I get off?. At the end, I say: I can use Go straight. clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“问路和交通”。先听英文，再尝试不看中文复述。Go straight.：一直向前走。。示例：Go straight.Which line should I take?：我应该坐哪条线路？。示例：Which line should I take?Where should I get off?：我应该在哪里下车？。示例：Where should I get off?最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about issue 问题单 with a teammate. I use issue to talk about 问题单，用来记录缺陷、需求或讨论事项. I use open an issue to talk about 创建问题单，开始记录一个待处理事项. I use issue title to talk about 问题单标题，用一句话概括问题. I tell my teammate: Today I use issue, open an issue, and issue title. At the end, I say: I can use issue clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about issue 问题单 with a teammate. I use issue to talk about 问题单，用来记录缺陷、需求或讨论事项. I use open an issue to talk about 创建问题单，开始记录一个待处理事项. I use issue title to talk about 问题单标题，用一句话概括问题. I tell my teammate: Today I use issue, open an issue, and issue title. At the end, I say: I can use issue clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue\" when I work with my team. I use \"open an issue\" when I work with my team. I use \"issue title\" when I work with my team. I tell my teammate: Today I use issue, open an issue, and issue title. At the end, I say: I can use issue clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue\" when I work with my team. I use \"open an issue\" when I work with my team. I use \"issue title\" when I work with my team. I tell my teammate: Today I use issue, open an issue, and issue title. At the end, I say: I can use issue clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Issue 问题单”。先听英文，再尝试不看中文复述。issue：问题单，用来记录缺陷、需求或讨论事项。示例：Our team uses \"issue\" to keep the project clear.open an issue：创建问题单，开始记录一个待处理事项。示例：Our team uses \"open an issue\" to keep the project clear.issue title：问题单标题，用一句话概括问题。示例：Our team uses \"issue title\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about issue 问题单 with a teammate. I use issue description to talk about 问题单描述，提供背景、现象和目标. I use bug report to talk about 缺陷报告，详细记录软件错误. I use close an issue to talk about 关闭问题单，表示事项已经解决或不再处理. I tell my teammate: Today I use issue description, bug report, and close an issue. At the end, I say: I can use issue description clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about issue 问题单 with a teammate. I use issue description to talk about 问题单描述，提供背景、现象和目标. I use bug report to talk about 缺陷报告，详细记录软件错误. I use close an issue to talk about 关闭问题单，表示事项已经解决或不再处理. I tell my teammate: Today I use issue description, bug report, and close an issue. At the end, I say: I can use issue description clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue description\" when I work with my team. I use \"bug report\" when I work with my team. I use \"close an issue\" when I work with my team. I tell my teammate: Today I use issue description, bug report, and close an issue. At the end, I say: I can use issue description clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"issue description\" when I work with my team. I use \"bug report\" when I work with my team. I use \"close an issue\" when I work with my team. I tell my teammate: Today I use issue description, bug report, and close an issue. At the end, I say: I can use issue description clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“Issue 问题单”。先听英文，再尝试不看中文复述。issue description：问题单描述，提供背景、现象和目标。示例：Our team uses \"issue description\" to keep the project clear.bug report：缺陷报告，详细记录软件错误。示例：Our team uses \"bug report\" to keep the project clear.close an issue：关闭问题单，表示事项已经解决或不再处理。示例：Our team uses \"close an issue\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

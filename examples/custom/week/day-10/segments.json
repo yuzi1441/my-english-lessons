@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 445,
+   "word_count": 461,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 命令行和终端 with a teammate. I use terminal to talk about 终端，用文字命令操作电脑的窗口. I use command line to talk about 命令行，输入和执行文本命令的环境. I use shell to talk about 命令解释器，读取并执行用户输入的命令. I tell my teammate: Today I use terminal, command line, and shell. At the end, I say: I can use terminal clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 命令行和终端 with a teammate. I use terminal to talk about 终端，用文字命令操作电脑的窗口. I use command line to talk about 命令行，输入和执行文本命令的环境. I use shell to talk about 命令解释器，读取并执行用户输入的命令. I tell my teammate: Today I use terminal, command line, and shell. At the end, I say: I can use terminal clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"terminal\" when I talk about my computer project. I say \"command line\" when I talk about my computer project. I say \"shell\" when I talk about my computer project. I tell my teammate: Today I use terminal, command line, and shell. At the end, I say: I can use terminal clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"terminal\" when I talk about my computer project. I say \"command line\" when I talk about my computer project. I say \"shell\" when I talk about my computer project. I tell my teammate: Today I use terminal, command line, and shell. At the end, I say: I can use terminal clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“命令行和终端”。先听英文，再尝试不看中文复述。terminal：终端，用文字命令操作电脑的窗口。示例：I learned how to use \"terminal\" in a computer task.command line：命令行，输入和执行文本命令的环境。示例：I learned how to use \"command line\" in a computer task.shell：命令解释器，读取并执行用户输入的命令。示例：I learned how to use \"shell\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 命令行和终端 with a teammate. I use command prompt to talk about 命令提示符，表示终端正在等待输入的位置. I use current directory to talk about 当前目录，命令此刻所在的文件夹. I use command option to talk about 命令选项，用来改变命令行为的附加参数. I tell my teammate: Today I use command prompt, current directory, and command option. At the end, I say: I can use command prompt clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 命令行和终端 with a teammate. I use command prompt to talk about 命令提示符，表示终端正在等待输入的位置. I use current directory to talk about 当前目录，命令此刻所在的文件夹. I use command option to talk about 命令选项，用来改变命令行为的附加参数. I tell my teammate: Today I use command prompt, current directory, and command option. At the end, I say: I can use command prompt clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"command prompt\" when I talk about my computer project. I say \"current directory\" when I talk about my computer project. I say \"command option\" when I talk about my computer project. I tell my teammate: Today I use command prompt, current directory, and command option. At the end, I say: I can use command prompt clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"command prompt\" when I talk about my computer project. I say \"current directory\" when I talk about my computer project. I say \"command option\" when I talk about my computer project. I tell my teammate: Today I use command prompt, current directory, and command option. At the end, I say: I can use command prompt clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“命令行和终端”。先听英文，再尝试不看中文复述。command prompt：命令提示符，表示终端正在等待输入的位置。示例：I learned how to use \"command prompt\" in a computer task.current directory：当前目录，命令此刻所在的文件夹。示例：I learned how to use \"current directory\" in a computer task.command option：命令选项，用来改变命令行为的附加参数。示例：I learned how to use \"command option\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 预约与改期 with a teammate. I use make an appointment to talk about 进行预约. I use reschedule the meeting to talk about 重新安排会议时间. I use cancel an appointment to talk about 取消预约. I tell my teammate: Today I use make an appointment, reschedule the meeting, and cancel an appointment. At the end, I say: I can use make an appointment clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 预约与改期 with a teammate. I use make an appointment to talk about 进行预约. I use reschedule the meeting to talk about 重新安排会议时间. I use cancel an appointment to talk about 取消预约. I tell my teammate: Today I use make an appointment, reschedule the meeting, and cancel an appointment. At the end, I say: I can use make an appointment clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"make an appointment\" in a daily conversation. I say \"reschedule the meeting\" in a daily conversation. I say \"cancel an appointment\" in a daily conversation. I tell my teammate: Today I use make an appointment, reschedule the meeting, and cancel an appointment. At the end, I say: I can use make an appointment clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"make an appointment\" in a daily conversation. I say \"reschedule the meeting\" in a daily conversation. I say \"cancel an appointment\" in a daily conversation. I tell my teammate: Today I use make an appointment, reschedule the meeting, and cancel an appointment. At the end, I say: I can use make an appointment clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“预约与改期”。先听英文，再尝试不看中文复述。make an appointment：进行预约。示例：make an appointment.reschedule the meeting：重新安排会议时间。示例：reschedule the meeting.cancel an appointment：取消预约。示例：cancel an appointment.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 预约与改期 with a teammate. I use confirm the time to talk about 确认时间. I use Does Tuesday work? to talk about 星期二方便吗？. I use I'm not available then. to talk about 我那时没有空。. I tell my teammate: Today I use confirm the time, Does Tuesday work?, and I'm not available then.. At the end, I say: I can use confirm the time clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 预约与改期 with a teammate. I use confirm the time to talk about 确认时间. I use Does Tuesday work? to talk about 星期二方便吗？. I use I'm not available then. to talk about 我那时没有空。. I tell my teammate: Today I use confirm the time, Does Tuesday work?, and I'm not available then.. At the end, I say: I can use confirm the time clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"confirm the time\" in a daily conversation. I say \"Does Tuesday work?\" in a daily conversation. I say \"I'm not available then.\" in a daily conversation. I tell my teammate: Today I use confirm the time, Does Tuesday work?, and I'm not available then.. At the end, I say: I can use confirm the time clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"confirm the time\" in a daily conversation. I say \"Does Tuesday work?\" in a daily conversation. I say \"I'm not available then.\" in a daily conversation. I tell my teammate: Today I use confirm the time, Does Tuesday work?, and I'm not available then.. At the end, I say: I can use confirm the time clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“预约与改期”。先听英文，再尝试不看中文复述。confirm the time：确认时间。示例：confirm the time.Does Tuesday work?：星期二方便吗？。示例：Does Tuesday work?I'm not available then.：我那时没有空。。示例：I'm not available then.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 自动检查状态 with a teammate. I use status check to talk about 状态检查，自动判断提交是否满足要求. I use required check to talk about 必需检查，合并前必须通过的检查. I use pending check to talk about 等待中的检查，尚未产生结果. I tell my teammate: Today I use status check, required check, and pending check. At the end, I say: I can use status check clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 自动检查状态 with a teammate. I use status check to talk about 状态检查，自动判断提交是否满足要求. I use required check to talk about 必需检查，合并前必须通过的检查. I use pending check to talk about 等待中的检查，尚未产生结果. I tell my teammate: Today I use status check, required check, and pending check. At the end, I say: I can use status check clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"status check\" when I work with my team. I use \"required check\" when I work with my team. I use \"pending check\" when I work with my team. I tell my teammate: Today I use status check, required check, and pending check. At the end, I say: I can use status check clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"status check\" when I work with my team. I use \"required check\" when I work with my team. I use \"pending check\" when I work with my team. I tell my teammate: Today I use status check, required check, and pending check. At the end, I say: I can use status check clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“自动检查状态”。先听英文，再尝试不看中文复述。status check：状态检查，自动判断提交是否满足要求。示例：Our team uses \"status check\" to keep the project clear.required check：必需检查，合并前必须通过的检查。示例：Our team uses \"required check\" to keep the project clear.pending check：等待中的检查，尚未产生结果。示例：Our team uses \"pending check\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 自动检查状态 with a teammate. I use passing check to talk about 通过的检查，自动验证成功. I use failed check to talk about 失败的检查，自动验证没有通过. I use check details to talk about 检查详情，显示自动任务的日志和结果. I tell my teammate: Today I use passing check, failed check, and check details. At the end, I say: I can use passing check clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 自动检查状态 with a teammate. I use passing check to talk about 通过的检查，自动验证成功. I use failed check to talk about 失败的检查，自动验证没有通过. I use check details to talk about 检查详情，显示自动任务的日志和结果. I tell my teammate: Today I use passing check, failed check, and check details. At the end, I say: I can use passing check clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"passing check\" when I work with my team. I use \"failed check\" when I work with my team. I use \"check details\" when I work with my team. I tell my teammate: Today I use passing check, failed check, and check details. At the end, I say: I can use passing check clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"passing check\" when I work with my team. I use \"failed check\" when I work with my team. I use \"check details\" when I work with my team. I tell my teammate: Today I use passing check, failed check, and check details. At the end, I say: I can use passing check clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“自动检查状态”。先听英文，再尝试不看中文复述。passing check：通过的检查，自动验证成功。示例：Our team uses \"passing check\" to keep the project clear.failed check：失败的检查，自动验证没有通过。示例：Our team uses \"failed check\" to keep the project clear.check details：检查详情，显示自动任务的日志和结果。示例：Our team uses \"check details\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

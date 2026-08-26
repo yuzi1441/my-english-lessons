@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 480,
+   "word_count": 492,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about git 工作区状态 with a teammate. I use working tree to talk about 工作树，当前检出的项目文件状态. I use staged change to talk about 已暂存改动，准备进入下一次提交的变化. I use unstaged change to talk about 未暂存改动，尚未加入提交区的变化. I tell my teammate: Today I use working tree, staged change, and unstaged change. At the end, I say: I can use working tree clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about git 工作区状态 with a teammate. I use working tree to talk about 工作树，当前检出的项目文件状态. I use staged change to talk about 已暂存改动，准备进入下一次提交的变化. I use unstaged change to talk about 未暂存改动，尚未加入提交区的变化. I tell my teammate: Today I use working tree, staged change, and unstaged change. At the end, I say: I can use working tree clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"working tree\" when I talk about my computer project. I say \"staged change\" when I talk about my computer project. I say \"unstaged change\" when I talk about my computer project. I tell my teammate: Today I use working tree, staged change, and unstaged change. At the end, I say: I can use working tree clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"working tree\" when I talk about my computer project. I say \"staged change\" when I talk about my computer project. I say \"unstaged change\" when I talk about my computer project. I tell my teammate: Today I use working tree, staged change, and unstaged change. At the end, I say: I can use working tree clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“Git 工作区状态”。先听英文，再尝试不看中文复述。working tree：工作树，当前检出的项目文件状态。示例：I learned how to use \"working tree\" in a computer task.staged change：已暂存改动，准备进入下一次提交的变化。示例：I learned how to use \"staged change\" in a computer task.unstaged change：未暂存改动，尚未加入提交区的变化。示例：I learned how to use \"unstaged change\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about git 工作区状态 with a teammate. I use tracked file to talk about 已跟踪文件，Git 已经纳入版本管理的文件. I use untracked file to talk about 未跟踪文件，Git 尚未纳入版本管理的新文件. I use clean state to talk about 干净状态，工作区没有未提交变化的状态. I tell my teammate: Today I use tracked file, untracked file, and clean state. At the end, I say: I can use tracked file clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about git 工作区状态 with a teammate. I use tracked file to talk about 已跟踪文件，Git 已经纳入版本管理的文件. I use untracked file to talk about 未跟踪文件，Git 尚未纳入版本管理的新文件. I use clean state to talk about 干净状态，工作区没有未提交变化的状态. I tell my teammate: Today I use tracked file, untracked file, and clean state. At the end, I say: I can use tracked file clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"tracked file\" when I talk about my computer project. I say \"untracked file\" when I talk about my computer project. I say \"clean state\" when I talk about my computer project. I tell my teammate: Today I use tracked file, untracked file, and clean state. At the end, I say: I can use tracked file clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"tracked file\" when I talk about my computer project. I say \"untracked file\" when I talk about my computer project. I say \"clean state\" when I talk about my computer project. I tell my teammate: Today I use tracked file, untracked file, and clean state. At the end, I say: I can use tracked file clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“Git 工作区状态”。先听英文，再尝试不看中文复述。tracked file：已跟踪文件，Git 已经纳入版本管理的文件。示例：I learned how to use \"tracked file\" in a computer task.untracked file：未跟踪文件，Git 尚未纳入版本管理的新文件。示例：I learned how to use \"untracked file\" in a computer task.clean state：干净状态，工作区没有未提交变化的状态。示例：I learned how to use \"clean state\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 租房和维修 with a teammate. I use The sink is leaking. to talk about 水槽漏水了。. I use The light isn't working. to talk about 灯不亮了。. I use Could someone repair it? to talk about 可以派人来修吗？. I tell my teammate: Today I use The sink is leaking., The light isn't working., and Could someone repair it?. At the end, I say: I can use The sink is leaking. clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 租房和维修 with a teammate. I use The sink is leaking. to talk about 水槽漏水了。. I use The light isn't working. to talk about 灯不亮了。. I use Could someone repair it? to talk about 可以派人来修吗？. I tell my teammate: Today I use The sink is leaking., The light isn't working., and Could someone repair it?. At the end, I say: I can use The sink is leaking. clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The sink is leaking.\" in a daily conversation. I say \"The light isn't working.\" in a daily conversation. I say \"Could someone repair it?\" in a daily conversation. I tell my teammate: Today I use The sink is leaking., The light isn't working., and Could someone repair it?. At the end, I say: I can use The sink is leaking. clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"The sink is leaking.\" in a daily conversation. I say \"The light isn't working.\" in a daily conversation. I say \"Could someone repair it?\" in a daily conversation. I tell my teammate: Today I use The sink is leaking., The light isn't working., and Could someone repair it?. At the end, I say: I can use The sink is leaking. clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“租房和维修”。先听英文，再尝试不看中文复述。The sink is leaking.：水槽漏水了。。示例：The sink is leaking.The light isn't working.：灯不亮了。。示例：The light isn't working.Could someone repair it?：可以派人来修吗？。示例：Could someone repair it?最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 租房和维修 with a teammate. I use When can the technician come? to talk about 维修人员什么时候能来？. I use The problem is getting worse. to talk about 问题越来越严重。. I use It's working again now. to talk about 现在又能用了。. I tell my teammate: Today I use When can the technician come?, The problem is getting worse., and It's working again now.. At the end, I say: I can use When can the technician come? clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 租房和维修 with a teammate. I use When can the technician come? to talk about 维修人员什么时候能来？. I use The problem is getting worse. to talk about 问题越来越严重。. I use It's working again now. to talk about 现在又能用了。. I tell my teammate: Today I use When can the technician come?, The problem is getting worse., and It's working again now.. At the end, I say: I can use When can the technician come? clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"When can the technician come?\" in a daily conversation. I say \"The problem is getting worse.\" in a daily conversation. I say \"It's working again now.\" in a daily conversation. I tell my teammate: Today I use When can the technician come?, The problem is getting worse., and It's working again now.. At the end, I say: I can use When can the technician come? clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"When can the technician come?\" in a daily conversation. I say \"The problem is getting worse.\" in a daily conversation. I say \"It's working again now.\" in a daily conversation. I tell my teammate: Today I use When can the technician come?, The problem is getting worse., and It's working again now.. At the end, I say: I can use When can the technician come? clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“租房和维修”。先听英文，再尝试不看中文复述。When can the technician come?：维修人员什么时候能来？。示例：When can the technician come?The problem is getting worse.：问题越来越严重。。示例：The problem is getting worse.It's working again now.：现在又能用了。。示例：It's working again now.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 修改或撤销提交 with a teammate. I use amend a commit to talk about 修改最近提交，补充或更正最后一次提交. I use revert a commit to talk about 还原提交，用新提交抵消旧提交的改动. I use reset a branch to talk about 重置分支，把分支指针移到另一提交. I tell my teammate: Today I use amend a commit, revert a commit, and reset a branch. At the end, I say: I can use amend a commit clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 修改或撤销提交 with a teammate. I use amend a commit to talk about 修改最近提交，补充或更正最后一次提交. I use revert a commit to talk about 还原提交，用新提交抵消旧提交的改动. I use reset a branch to talk about 重置分支，把分支指针移到另一提交. I tell my teammate: Today I use amend a commit, revert a commit, and reset a branch. At the end, I say: I can use amend a commit clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"amend a commit\" when I work with my team. I use \"revert a commit\" when I work with my team. I use \"reset a branch\" when I work with my team. I tell my teammate: Today I use amend a commit, revert a commit, and reset a branch. At the end, I say: I can use amend a commit clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"amend a commit\" when I work with my team. I use \"revert a commit\" when I work with my team. I use \"reset a branch\" when I work with my team. I tell my teammate: Today I use amend a commit, revert a commit, and reset a branch. At the end, I say: I can use amend a commit clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“修改或撤销提交”。先听英文，再尝试不看中文复述。amend a commit：修改最近提交，补充或更正最后一次提交。示例：Our team uses \"amend a commit\" to keep the project clear.revert a commit：还原提交，用新提交抵消旧提交的改动。示例：Our team uses \"revert a commit\" to keep the project clear.reset a branch：重置分支，把分支指针移到另一提交。示例：Our team uses \"reset a branch\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 修改或撤销提交 with a teammate. I use discard changes to talk about 丢弃改动，放弃尚未保存的文件变化. I use restore a file to talk about 恢复文件，把文件恢复到指定状态. I use force push to talk about 强制推送，用本地历史覆盖远程分支历史. I tell my teammate: Today I use discard changes, restore a file, and force push. At the end, I say: I can use discard changes clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 修改或撤销提交 with a teammate. I use discard changes to talk about 丢弃改动，放弃尚未保存的文件变化. I use restore a file to talk about 恢复文件，把文件恢复到指定状态. I use force push to talk about 强制推送，用本地历史覆盖远程分支历史. I tell my teammate: Today I use discard changes, restore a file, and force push. At the end, I say: I can use discard changes clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"discard changes\" when I work with my team. I use \"restore a file\" when I work with my team. I use \"force push\" when I work with my team. I tell my teammate: Today I use discard changes, restore a file, and force push. At the end, I say: I can use discard changes clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"discard changes\" when I work with my team. I use \"restore a file\" when I work with my team. I use \"force push\" when I work with my team. I tell my teammate: Today I use discard changes, restore a file, and force push. At the end, I say: I can use discard changes clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“修改或撤销提交”。先听英文，再尝试不看中文复述。discard changes：丢弃改动，放弃尚未保存的文件变化。示例：Our team uses \"discard changes\" to keep the project clear.restore a file：恢复文件，把文件恢复到指定状态。示例：Our team uses \"restore a file\" to keep the project clear.force push：强制推送，用本地历史覆盖远程分支历史。示例：Our team uses \"force push\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

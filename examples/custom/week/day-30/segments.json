@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 474,
+   "word_count": 490,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 系统结构、数据流与接口 with a teammate. I use system architecture to talk about 系统架构，描述系统各部分如何组合的整体设计. I use data flow to talk about 数据流，数据在系统各部分之间移动的过程. I use interface to talk about 接口，两个组件之间交换信息的约定. I tell my teammate: Today I use system architecture, data flow, and interface. At the end, I say: I can use system architecture clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 系统结构、数据流与接口 with a teammate. I use system architecture to talk about 系统架构，描述系统各部分如何组合的整体设计. I use data flow to talk about 数据流，数据在系统各部分之间移动的过程. I use interface to talk about 接口，两个组件之间交换信息的约定. I tell my teammate: Today I use system architecture, data flow, and interface. At the end, I say: I can use system architecture clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"system architecture\" when I talk about my computer project. I say \"data flow\" when I talk about my computer project. I say \"interface\" when I talk about my computer project. I tell my teammate: Today I use system architecture, data flow, and interface. At the end, I say: I can use system architecture clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"system architecture\" when I talk about my computer project. I say \"data flow\" when I talk about my computer project. I say \"interface\" when I talk about my computer project. I tell my teammate: Today I use system architecture, data flow, and interface. At the end, I say: I can use system architecture clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“系统结构、数据流与接口”。先听英文，再尝试不看中文复述。system architecture：系统架构，描述系统各部分如何组合的整体设计。示例：I learned how to use \"system architecture\" in a computer task.data flow：数据流，数据在系统各部分之间移动的过程。示例：I learned how to use \"data flow\" in a computer task.interface：接口，两个组件之间交换信息的约定。示例：I learned how to use \"interface\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 系统结构、数据流与接口 with a teammate. I use component to talk about 组件，系统中承担一项明确职责的部分. I use dependency graph to talk about 依赖图，显示组件之间依赖关系的图. I use design boundary to talk about 设计边界，划分组件职责和影响范围的界线. I tell my teammate: Today I use component, dependency graph, and design boundary. At the end, I say: I can use component clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 系统结构、数据流与接口 with a teammate. I use component to talk about 组件，系统中承担一项明确职责的部分. I use dependency graph to talk about 依赖图，显示组件之间依赖关系的图. I use design boundary to talk about 设计边界，划分组件职责和影响范围的界线. I tell my teammate: Today I use component, dependency graph, and design boundary. At the end, I say: I can use component clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"component\" when I talk about my computer project. I say \"dependency graph\" when I talk about my computer project. I say \"design boundary\" when I talk about my computer project. I tell my teammate: Today I use component, dependency graph, and design boundary. At the end, I say: I can use component clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"component\" when I talk about my computer project. I say \"dependency graph\" when I talk about my computer project. I say \"design boundary\" when I talk about my computer project. I tell my teammate: Today I use component, dependency graph, and design boundary. At the end, I say: I can use component clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“系统结构、数据流与接口”。先听英文，再尝试不看中文复述。component：组件，系统中承担一项明确职责的部分。示例：I learned how to use \"component\" in a computer task.dependency graph：依赖图，显示组件之间依赖关系的图。示例：I learned how to use \"dependency graph\" in a computer task.design boundary：设计边界，划分组件职责和影响范围的界线。示例：I learned how to use \"design boundary\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 月度复盘和未来计划 with a teammate. I use This month I learned ... to talk about 这个月我学会了……. I use The hardest part was ... to talk about 最难的部分是……. I use I'm proud that ... to talk about 我为……感到自豪。. I tell my teammate: Today I use This month I learned ..., The hardest part was ..., and I'm proud that .... At the end, I say: I can use This month I learned ... clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 月度复盘和未来计划 with a teammate. I use This month I learned ... to talk about 这个月我学会了……. I use The hardest part was ... to talk about 最难的部分是……. I use I'm proud that ... to talk about 我为……感到自豪。. I tell my teammate: Today I use This month I learned ..., The hardest part was ..., and I'm proud that .... At the end, I say: I can use This month I learned ... clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"This month I learned ...\" in a daily conversation. I say \"The hardest part was ...\" in a daily conversation. I say \"I'm proud that ...\" in a daily conversation. I tell my teammate: Today I use This month I learned ..., The hardest part was ..., and I'm proud that .... At the end, I say: I can use This month I learned ... clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"This month I learned ...\" in a daily conversation. I say \"The hardest part was ...\" in a daily conversation. I say \"I'm proud that ...\" in a daily conversation. I tell my teammate: Today I use This month I learned ..., The hardest part was ..., and I'm proud that .... At the end, I say: I can use This month I learned ... clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“月度复盘和未来计划”。先听英文，再尝试不看中文复述。This month I learned ...：这个月我学会了……。示例：This month I learnedThe hardest part was ...：最难的部分是……。示例：The hardest part wasI'm proud that ...：我为……感到自豪。。示例：I'm proud that最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 月度复盘和未来计划 with a teammate. I use I still need to improve ... to talk about 我仍然需要改进……. I use Next month I will ... to talk about 下个月我会……. I use My next small step is ... to talk about 我的下一个小步骤是……. I tell my teammate: Today I use I still need to improve ..., Next month I will ..., and My next small step is .... At the end, I say: I can use I still need to improve ... clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 月度复盘和未来计划 with a teammate. I use I still need to improve ... to talk about 我仍然需要改进……. I use Next month I will ... to talk about 下个月我会……. I use My next small step is ... to talk about 我的下一个小步骤是……. I tell my teammate: Today I use I still need to improve ..., Next month I will ..., and My next small step is .... At the end, I say: I can use I still need to improve ... clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I still need to improve ...\" in a daily conversation. I say \"Next month I will ...\" in a daily conversation. I say \"My next small step is ...\" in a daily conversation. I tell my teammate: Today I use I still need to improve ..., Next month I will ..., and My next small step is .... At the end, I say: I can use I still need to improve ... clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I still need to improve ...\" in a daily conversation. I say \"Next month I will ...\" in a daily conversation. I say \"My next small step is ...\" in a daily conversation. I tell my teammate: Today I use I still need to improve ..., Next month I will ..., and My next small step is .... At the end, I say: I can use I still need to improve ... clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“月度复盘和未来计划”。先听英文，再尝试不看中文复述。I still need to improve ...：我仍然需要改进……。示例：I still need to improveNext month I will ...：下个月我会……。示例：Next month I willMy next small step is ...：我的下一个小步骤是……。示例：My next small step is最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 项目更新与复盘 with a teammate. I use project update to talk about 项目更新，向团队说明当前进展的简短报告. I use completed work to talk about 已完成工作，已经交付或验证的事项. I use current blocker to talk about 当前阻碍，使工作暂时无法继续的问题. I tell my teammate: Today I use project update, completed work, and current blocker. At the end, I say: I can use project update clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 项目更新与复盘 with a teammate. I use project update to talk about 项目更新，向团队说明当前进展的简短报告. I use completed work to talk about 已完成工作，已经交付或验证的事项. I use current blocker to talk about 当前阻碍，使工作暂时无法继续的问题. I tell my teammate: Today I use project update, completed work, and current blocker. At the end, I say: I can use project update clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"project update\" when I work with my team. I use \"completed work\" when I work with my team. I use \"current blocker\" when I work with my team. I tell my teammate: Today I use project update, completed work, and current blocker. At the end, I say: I can use project update clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"project update\" when I work with my team. I use \"completed work\" when I work with my team. I use \"current blocker\" when I work with my team. I tell my teammate: Today I use project update, completed work, and current blocker. At the end, I say: I can use project update clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“项目更新与复盘”。先听英文，再尝试不看中文复述。project update：项目更新，向团队说明当前进展的简短报告。示例：Our team uses \"project update\" to keep the project clear.completed work：已完成工作，已经交付或验证的事项。示例：Our team uses \"completed work\" to keep the project clear.current blocker：当前阻碍，使工作暂时无法继续的问题。示例：Our team uses \"current blocker\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 项目更新与复盘 with a teammate. I use next action to talk about 下一行动，接下来要执行的具体步骤. I use lessons learned to talk about 经验总结，从本轮项目中得到的认识. I use follow-up issue to talk about 后续问题单，为下一步工作创建的事项. I tell my teammate: Today I use next action, lessons learned, and follow-up issue. At the end, I say: I can use next action clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 项目更新与复盘 with a teammate. I use next action to talk about 下一行动，接下来要执行的具体步骤. I use lessons learned to talk about 经验总结，从本轮项目中得到的认识. I use follow-up issue to talk about 后续问题单，为下一步工作创建的事项. I tell my teammate: Today I use next action, lessons learned, and follow-up issue. At the end, I say: I can use next action clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"next action\" when I work with my team. I use \"lessons learned\" when I work with my team. I use \"follow-up issue\" when I work with my team. I tell my teammate: Today I use next action, lessons learned, and follow-up issue. At the end, I say: I can use next action clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"next action\" when I work with my team. I use \"lessons learned\" when I work with my team. I use \"follow-up issue\" when I work with my team. I tell my teammate: Today I use next action, lessons learned, and follow-up issue. At the end, I say: I can use next action clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“项目更新与复盘”。先听英文，再尝试不看中文复述。next action：下一行动，接下来要执行的具体步骤。示例：Our team uses \"next action\" to keep the project clear.lessons learned：经验总结，从本轮项目中得到的认识。示例：Our team uses \"lessons learned\" to keep the project clear.follow-up issue：后续问题单，为下一步工作创建的事项。示例：Our team uses \"follow-up issue\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {

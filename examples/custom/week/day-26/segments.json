@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 472,
+   "word_count": 488,
    "segment_count": 6,
    "difficulty": "词汇主线 · 口语应用",
    "estimated_days": 1,
@@ -29,8 +29,8 @@
  "segments": [
   {
    "id": "seg-01",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 训练、推理与幻觉 with a teammate. I use training data to talk about 训练数据，用来让模型学习规律的数据. I use model training to talk about 模型训练，用数据调整模型参数的过程. I use inference to talk about 推理，模型根据新输入生成结果的过程. I tell my teammate: Today I use training data, model training, and inference. At the end, I say: I can use training data clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 训练、推理与幻觉 with a teammate. I use training data to talk about 训练数据，用来让模型学习规律的数据. I use model training to talk about 模型训练，用数据调整模型参数的过程. I use inference to talk about 推理，模型根据新输入生成结果的过程. I tell my teammate: Today I use training data, model training, and inference. At the end, I say: I can use training data clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"training data\" when I talk about my computer project. I say \"model training\" when I talk about my computer project. I say \"inference\" when I talk about my computer project. I tell my teammate: Today I use training data, model training, and inference. At the end, I say: I can use training data clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"training data\" when I talk about my computer project. I say \"model training\" when I talk about my computer project. I say \"inference\" when I talk about my computer project. I tell my teammate: Today I use training data, model training, and inference. At the end, I say: I can use training data clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“训练、推理与幻觉”。先听英文，再尝试不看中文复述。training data：训练数据，用来让模型学习规律的数据。示例：I learned how to use \"training data\" in a computer task.model training：模型训练，用数据调整模型参数的过程。示例：I learned how to use \"model training\" in a computer task.inference：推理，模型根据新输入生成结果的过程。示例：I learned how to use \"inference\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -52,8 +52,8 @@
   },
   {
    "id": "seg-02",
-   "en": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 训练、推理与幻觉 with a teammate. I use hallucination to talk about 幻觉，模型生成看似合理但并不真实的内容. I use confidence level to talk about 置信程度，表示对结果把握大小的程度. I use verify the answer to talk about 核验答案，用可靠来源检查回答是否正确. I tell my teammate: Today I use hallucination, confidence level, and verify the answer. At the end, I say: I can use hallucination clearly today.",
-   "tts": "Today I practise 计算机英语 in a real work conversation. The situation is simple: I need to talk about 训练、推理与幻觉 with a teammate. I use hallucination to talk about 幻觉，模型生成看似合理但并不真实的内容. I use confidence level to talk about 置信程度，表示对结果把握大小的程度. I use verify the answer to talk about 核验答案，用可靠来源检查回答是否正确. I tell my teammate: Today I use hallucination, confidence level, and verify the answer. At the end, I say: I can use hallucination clearly today.",
+   "en": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"hallucination\" when I talk about my computer project. I say \"confidence level\" when I talk about my computer project. I say \"verify the answer\" when I talk about my computer project. I tell my teammate: Today I use hallucination, confidence level, and verify the answer. At the end, I say: I can use hallucination clearly today.",
+   "tts": "Today I practise computer English in a real conversation. I need to explain a small task clearly to another person. I say \"hallucination\" when I talk about my computer project. I say \"confidence level\" when I talk about my computer project. I say \"verify the answer\" when I talk about my computer project. I tell my teammate: Today I use hallucination, confidence level, and verify the answer. At the end, I say: I can use hallucination clearly today.",
    "zh": "今天口语练习围绕“计算机英语”，场景是“训练、推理与幻觉”。先听英文，再尝试不看中文复述。hallucination：幻觉，模型生成看似合理但并不真实的内容。示例：I learned how to use \"hallucination\" in a computer task.confidence level：置信程度，表示对结果把握大小的程度。示例：I learned how to use \"confidence level\" in a computer task.verify the answer：核验答案，用可靠来源检查回答是否正确。示例：I learned how to use \"verify the answer\" in a computer task.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -75,8 +75,8 @@
   },
   {
    "id": "seg-03",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 新闻和观点交流 with a teammate. I use I read that ... to talk about 我读到……. I use According to the report ... to talk about 根据这份报告……. I use What's your opinion? to talk about 你的看法是什么？. I tell my teammate: Today I use I read that ..., According to the report ..., and What's your opinion?. At the end, I say: I can use I read that ... clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 新闻和观点交流 with a teammate. I use I read that ... to talk about 我读到……. I use According to the report ... to talk about 根据这份报告……. I use What's your opinion? to talk about 你的看法是什么？. I tell my teammate: Today I use I read that ..., According to the report ..., and What's your opinion?. At the end, I say: I can use I read that ... clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I read that ...\" in a daily conversation. I say \"According to the report ...\" in a daily conversation. I say \"What's your opinion?\" in a daily conversation. I tell my teammate: Today I use I read that ..., According to the report ..., and What's your opinion?. At the end, I say: I can use I read that ... clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I read that ...\" in a daily conversation. I say \"According to the report ...\" in a daily conversation. I say \"What's your opinion?\" in a daily conversation. I tell my teammate: Today I use I read that ..., According to the report ..., and What's your opinion?. At the end, I say: I can use I read that ... clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“新闻和观点交流”。先听英文，再尝试不看中文复述。I read that ...：我读到……。示例：I read thatAccording to the report ...：根据这份报告……。示例：According to the reportWhat's your opinion?：你的看法是什么？。示例：What's your opinion?最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -98,8 +98,8 @@
   },
   {
    "id": "seg-04",
-   "en": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 新闻和观点交流 with a teammate. I use I agree with that point. to talk about 我同意那个观点。. I use I see it differently. to talk about 我的看法不同。. I use We need more information. to talk about 我们需要更多信息。. I tell my teammate: Today I use I agree with that point., I see it differently., and We need more information.. At the end, I say: I can use I agree with that point. clearly today.",
-   "tts": "Today I practise 日常交流英语 in a real work conversation. The situation is simple: I need to talk about 新闻和观点交流 with a teammate. I use I agree with that point. to talk about 我同意那个观点。. I use I see it differently. to talk about 我的看法不同。. I use We need more information. to talk about 我们需要更多信息。. I tell my teammate: Today I use I agree with that point., I see it differently., and We need more information.. At the end, I say: I can use I agree with that point. clearly today.",
+   "en": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I agree with that point.\" in a daily conversation. I say \"I see it differently.\" in a daily conversation. I say \"We need more information.\" in a daily conversation. I tell my teammate: Today I use I agree with that point., I see it differently., and We need more information.. At the end, I say: I can use I agree with that point. clearly today.",
+   "tts": "Today I practise daily English in a real conversation. I need to explain a small task clearly to another person. I say \"I agree with that point.\" in a daily conversation. I say \"I see it differently.\" in a daily conversation. I say \"We need more information.\" in a daily conversation. I tell my teammate: Today I use I agree with that point., I see it differently., and We need more information.. At the end, I say: I can use I agree with that point. clearly today.",
    "zh": "今天口语练习围绕“日常交流英语”，场景是“新闻和观点交流”。先听英文，再尝试不看中文复述。I agree with that point.：我同意那个观点。。示例：I agree with that point.I see it differently.：我的看法不同。。示例：I see it differently.We need more information.：我们需要更多信息。。示例：We need more information.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -121,8 +121,8 @@
   },
   {
    "id": "seg-05",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 引用来源和文档 with a teammate. I use link to documentation to talk about 链接到文档，提供官方说明页面的网址. I use cite a source to talk about 引用来源，说明事实或说法来自哪里. I use reference an issue to talk about 引用问题单，在文字中关联另一问题单. I tell my teammate: Today I use link to documentation, cite a source, and reference an issue. At the end, I say: I can use link to documentation clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 引用来源和文档 with a teammate. I use link to documentation to talk about 链接到文档，提供官方说明页面的网址. I use cite a source to talk about 引用来源，说明事实或说法来自哪里. I use reference an issue to talk about 引用问题单，在文字中关联另一问题单. I tell my teammate: Today I use link to documentation, cite a source, and reference an issue. At the end, I say: I can use link to documentation clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"link to documentation\" when I work with my team. I use \"cite a source\" when I work with my team. I use \"reference an issue\" when I work with my team. I tell my teammate: Today I use link to documentation, cite a source, and reference an issue. At the end, I say: I can use link to documentation clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"link to documentation\" when I work with my team. I use \"cite a source\" when I work with my team. I use \"reference an issue\" when I work with my team. I tell my teammate: Today I use link to documentation, cite a source, and reference an issue. At the end, I say: I can use link to documentation clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“引用来源和文档”。先听英文，再尝试不看中文复述。link to documentation：链接到文档，提供官方说明页面的网址。示例：Our team uses \"link to documentation\" to keep the project clear.cite a source：引用来源，说明事实或说法来自哪里。示例：Our team uses \"cite a source\" to keep the project clear.reference an issue：引用问题单，在文字中关联另一问题单。示例：Our team uses \"reference an issue\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
@@ -144,8 +144,8 @@
   },
   {
    "id": "seg-06",
-   "en": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 引用来源和文档 with a teammate. I use link a commit to talk about 链接提交，提供某次代码提交的直接地址. I use permanent link to talk about 永久链接，固定指向特定版本内容的地址. I use documentation page to talk about 文档页面，解释项目功能和用法的页面. I tell my teammate: Today I use link a commit, permanent link, and documentation page. At the end, I say: I can use link a commit clearly today.",
-   "tts": "Today I practise github 项目英语 in a real work conversation. The situation is simple: I need to talk about 引用来源和文档 with a teammate. I use link a commit to talk about 链接提交，提供某次代码提交的直接地址. I use permanent link to talk about 永久链接，固定指向特定版本内容的地址. I use documentation page to talk about 文档页面，解释项目功能和用法的页面. I tell my teammate: Today I use link a commit, permanent link, and documentation page. At the end, I say: I can use link a commit clearly today.",
+   "en": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"link a commit\" when I work with my team. I use \"permanent link\" when I work with my team. I use \"documentation page\" when I work with my team. I tell my teammate: Today I use link a commit, permanent link, and documentation page. At the end, I say: I can use link a commit clearly today.",
+   "tts": "Today I practise GitHub English in a real conversation. I need to explain a small task clearly to another person. I use \"link a commit\" when I work with my team. I use \"permanent link\" when I work with my team. I use \"documentation page\" when I work with my team. I tell my teammate: Today I use link a commit, permanent link, and documentation page. At the end, I say: I can use link a commit clearly today.",
    "zh": "今天口语练习围绕“GitHub 项目英语”，场景是“引用来源和文档”。先听英文，再尝试不看中文复述。link a commit：链接提交，提供某次代码提交的直接地址。示例：Our team uses \"link a commit\" to keep the project clear.permanent link：永久链接，固定指向特定版本内容的地址。示例：Our team uses \"permanent link\" to keep the project clear.documentation page：文档页面，解释项目功能和用法的页面。示例：Our team uses \"documentation page\" to keep the project clear.最后用自己的经历替换示例中的内容，再说一遍。",
    "hard": [
     {
