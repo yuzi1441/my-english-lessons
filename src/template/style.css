@@ -90,6 +90,14 @@ button { font: inherit; color: inherit; }
 .vocab-bridge-word { margin:0 5px 6px 0; padding:5px 9px; border:1px solid #cfe1d8; border-radius:999px; background:#fff; color:#214e3d; font:inherit; font-size:12px; cursor:pointer; }
 .vocab-bridge-word:hover { border-color:#2d8a65; background:#edf8f1; }
 .vocab-bridge-word.added { border-color:#2d8a65; background:#dff3e7; color:#176b4c; }
+.vocab-speaking-practice { margin-top:16px; padding-top:14px; border-top:1px dashed #cfe1d8; }
+.vocab-speaking-practice h3 { margin:0 0 5px; color:#214e3d; font-size:16px; }
+.vocab-speaking-note { margin:0 0 8px; color:#60736b; font-size:13px; }
+.vocab-speaking-practice ol { margin:0; padding-left:22px; }
+.vocab-speaking-practice li { margin:8px 0; color:#214e3d; }
+.vocab-speaking-practice li b { display:block; font-size:14px; font-weight:650; }
+.vocab-speaking-practice li span { display:block; margin-top:2px; color:#70837a; font-size:12px; }
+.vocab-speaking-output { margin:12px 0 0; padding:9px 11px; border-radius:9px; background:#eaf6ef; color:#315c4b; font-size:13px; }
 @media (max-width: 640px) { .vocab-bridge { padding:15px; } .vocab-bridge-groups { grid-template-columns:1fr; gap:8px; } .vocab-bridge-head { align-items:flex-start; flex-direction:column; gap:5px; } }
 
 /* ---------- topbar (floating glass island) ---------- */

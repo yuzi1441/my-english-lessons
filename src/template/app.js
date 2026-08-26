@@ -224,10 +224,25 @@
           ${(group.items || []).map(item => `<button class="vocab-bridge-word" type="button" data-word="${esc(item.term)}" title="点击加入生词本">${esc(item.term)}</button>`).join("")}
         </div>
       `).join("");
+      const allItems = (lesson.groups || []).flatMap(group => group.items || []);
+      const tech = allItems.find(item => item.part && /技术|GitHub/.test(item.part)) || allItems[0];
+      const daily = allItems.find(item => item.part && /日常/.test(item.part)) || allItems[6] || allItems[0];
+      const collab = allItems.find(item => item.part && /GitHub/.test(item.part)) || allItems[12] || allItems[0];
+      const sentence = (item, fallback) => item ? `I use ${item.term} today. ${item.example || fallback}` : fallback;
       panel.innerHTML = `
         <div class="vocab-bridge-head"><span class="study-kicker">词汇先行 · Day ${day}</span><a href="../vocabulary-month/?day=${day}">打开当天词汇课 →</a></div>
         <p class="vocab-bridge-sub">先快速回忆下面的词，再在本课口语场景中听见、读出并使用它们。点击单词可加入生词本。</p>
         <div class="vocab-bridge-groups">${groups}</div>
+        <div class="vocab-speaking-practice">
+          <h3>把词汇说出来 · 今日口语场景</h3>
+          <p class="vocab-speaking-note">先遮住中文，大声说 2 遍；再回到上面的口语课正文，找出相似表达。</p>
+          <ol>
+            <li><b>${esc(sentence(tech, "I am working on a small task today."))}</b><span>${esc(tech?.meaning || "先说清楚今天的技术任务")}</span></li>
+            <li><b>${esc(sentence(daily, "Could you help me with this task?"))}</b><span>${esc(daily?.meaning || "用当天表达提出请求")}</span></li>
+            <li><b>${esc(sentence(collab, "I will share the update with the team."))}</b><span>${esc(collab?.meaning || "用协作词汇汇报进展")}</span></li>
+          </ol>
+          <p class="vocab-speaking-output"><strong>30 秒输出：</strong>用当天任意 3 个词，说出“我今天做了什么、遇到什么问题、下一步做什么”。</p>
+        </div>
       `;
       $$(".vocab-bridge-word", panel).forEach(button => button.addEventListener("click", () => addBridgeWord(button, lesson)));
     } catch {
