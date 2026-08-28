@@ -1,38 +1,39 @@
 {
  "meta": {
-  "title": "Day 22: Alex's Professional Workflow",
-  "title_zh": "第 22 天：Alex 的专业场景",
+  "title": "Day 22: Reproduce the Problem",
+  "title_zh": "第 22 天：复现那个问题",
   "source": "Vocabulary Month · Day 22",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 286,
+   "word_count": 234,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
+   "main_practice": "听专业表达 · 提炼观点 · 做一次英文汇报",
    "value_points": [
-    "当天 18 个词汇都进入 Alex 的故事",
+    "当天 18 个词汇全部进入故事正文",
     "异常与堆栈信息 × 客服电话 × 复现 Issue",
-    "30 秒口语输出"
+    "专业场景 · 语速与句长随天数递增"
    ],
-   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
+   "suggested_pace": "先听更新要点 · 记下风险词 · 模拟汇报"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-8%",
-  "speed": 0.92
+  "rate": "-5%",
+  "speed": 0.95
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"exception\" and \"stack trace\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I'm calling about ...\" and \"My order hasn't arrived.\" to clarify the goal, timing, and next step. Finally, Alex documents \"issue template\" and \"steps to reproduce\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
-   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"exception\" and \"stack trace\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I'm calling about ...\" and \"My order hasn't arrived.\" to clarify the goal, timing, and next step. Finally, Alex documents \"issue template\" and \"steps to reproduce\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
-   "audio_file": "audio/seg-01.m4a",
-   "zh": "接近月底时，Alex 处理一项更专业的任务。随着项目变得更专业，Alex 做出清楚的更新并检查风险。Alex 在做决定前检查异常、堆栈跟踪，并解释可能的风险。讨论中，Alex 使用我打电话是想咨询……、我的订单还没有到来说明目标、时间和下一步。最后，Alex 记录问题单模板、复现步骤，让另一位队友之后可以检查工作。工作并不完美，但这次更新清楚、谨慎而且有用。",
+   "spk": "Alex",
+   "en": "Week four. A user reports a strange problem. We discuss the risk around the exception. I document the stack trace so the team can review it later. If the issue template fails, we need a clear plan. I suggest that we check the steps to reproduce first. I build a full answer around the pattern: I'm calling about ... Before we move on, Maria says, \"My order hasn't arrived.\" The team agrees on the plan, and I record the decision.",
+   "tts": "Week four. A user reports a strange problem. We discuss the risk around the exception. I document the stack trace so the team can review it later. If the issue template fails, we need a clear plan. I suggest that we check the steps to reproduce first. I build a full answer around the pattern: I'm calling about  Before we move on, Maria says, \"My order hasn't arrived.\" The team agrees on the plan, and I record the decision.",
+   "audio_file": "audio/seg-01.mp3",
+   "zh": "第四周。一位用户报告了一个奇怪的问题。我们讨论了异常相关的风险。我把堆栈跟踪写成文档，方便团队之后查看。如果问题单模板失败，我们需要一个清晰的方案。我建议我们先检查复现步骤。我围绕这个句型组织了一个完整的回答：我打电话是想咨询……继续之前，Maria说：\"我的订单还没有到。\"团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "exception",
@@ -41,105 +42,107 @@
     },
     {
      "w": "stack trace",
-     "type": "idiom",
+     "type": "term",
      "def": "堆栈跟踪，显示错误经过哪些函数调用的记录"
     },
     {
      "w": "I'm calling about ...",
-     "type": "idiom",
+     "type": "term",
      "def": "我打电话是想咨询……"
     },
     {
      "w": "My order hasn't arrived.",
-     "type": "idiom",
+     "type": "term",
      "def": "我的订单还没有到。"
     },
     {
      "w": "issue template",
-     "type": "idiom",
+     "type": "term",
      "def": "问题单模板，指导用户提供必要信息的格式"
     },
     {
      "w": "steps to reproduce",
-     "type": "idiom",
+     "type": "term",
      "def": "复现步骤，能够再次触发问题的操作顺序"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"error type\" and \"line number\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Could you check the status?\" and \"The problem started yesterday.\" to clarify the goal, timing, and next step. Finally, Alex documents \"expected behavior\" and \"actual behavior\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
-   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"error type\" and \"line number\" before making a decision and explains the possible risk. In the discussion, Alex uses \"Could you check the status?\" and \"The problem started yesterday.\" to clarify the goal, timing, and next step. Finally, Alex documents \"expected behavior\" and \"actual behavior\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
-   "audio_file": "audio/seg-02.m4a",
-   "zh": "接近月底时，Alex 处理一项更专业的任务。随着项目变得更专业，Alex 做出清楚的更新并检查风险。Alex 在做决定前检查错误类型、行号，并解释可能的风险。讨论中，Alex 使用你可以查询一下状态吗、问题从昨天开始来说明目标、时间和下一步。最后，Alex 记录预期行为、实际行为，让另一位队友之后可以检查工作。工作并不完美，但这次更新清楚、谨慎而且有用。",
+   "spk": "Alex",
+   "en": "My package is late. I call customer service. Priya checks with me, \"Could you check the status?\" I answer clearly, \"The problem started yesterday.\" If the error type fails, we need a clear plan. I suggest that we check the line number first. The result depends on the expected behavior, so I check it twice. I explain the actual behavior to a new teammate. The day ends with a clear plan for tomorrow.",
+   "tts": "My package is late. I call customer service. Priya checks with me, \"Could you check the status?\" I answer clearly, \"The problem started yesterday.\" If the error type fails, we need a clear plan. I suggest that we check the line number first. The result depends on the expected behavior, so I check it twice. I explain the actual behavior to a new teammate. The day ends with a clear plan for tomorrow.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "我的包裹迟到了。我打了客服电话。Priya向我确认：\"你可以查询一下状态吗？\"我清楚地回答：\"问题从昨天开始。\"如果错误类型失败，我们需要一个清晰的方案。我建议我们先检查行号。结果取决于预期行为，所以我检查了两遍。我向一位新队友解释了实际行为。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "error type",
-     "type": "idiom",
+     "type": "term",
      "def": "错误类型，用来区分不同错误类别的名称"
     },
     {
      "w": "line number",
-     "type": "idiom",
+     "type": "term",
      "def": "行号，表示错误所在代码位置的数字"
     },
     {
      "w": "Could you check the status?",
-     "type": "idiom",
+     "type": "term",
      "def": "你可以查询一下状态吗？"
     },
     {
      "w": "The problem started yesterday.",
-     "type": "idiom",
+     "type": "term",
      "def": "问题从昨天开始。"
     },
     {
      "w": "expected behavior",
-     "type": "idiom",
+     "type": "term",
      "def": "预期行为，软件本来应该出现的结果"
     },
     {
      "w": "actual behavior",
-     "type": "idiom",
+     "type": "term",
      "def": "实际行为，软件真正出现的结果"
     }
    ]
   },
   {
    "id": "seg-03",
-   "en": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"catch an exception\" and \"handle an error\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I've already tried that.\" and \"What should I do next?\" to clarify the goal, timing, and next step. Finally, Alex documents \"minimal example\" and \"environment details\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
-   "tts": "Near the end of the month, Alex handles a more professional task. As the project becomes more professional, Alex gives a clear update and checks the risks. Alex checks \"catch an exception\" and \"handle an error\" before making a decision and explains the possible risk. In the discussion, Alex uses \"I've already tried that.\" and \"What should I do next?\" to clarify the goal, timing, and next step. Finally, Alex documents \"minimal example\" and \"environment details\" so another teammate can review the work later. The work is not perfect, but the update is clear, careful, and useful.",
-   "audio_file": "audio/seg-03.m4a",
-   "zh": "接近月底时，Alex 处理一项更专业的任务。随着项目变得更专业，Alex 做出清楚的更新并检查风险。Alex 在做决定前检查捕获异常、处理错误，并解释可能的风险。讨论中，Alex 使用我已经试过那个方法了、我下一步应该怎么做来说明目标、时间和下一步。最后，Alex 记录最小示例、环境详情，让另一位队友之后可以检查工作。工作并不完美，但这次更新清楚、谨慎而且有用。",
+   "spk": "Alex",
+   "en": "Before I leave, I write a short summary for the team. We discuss the risk around the minimal example. I document the environment details so the team can review it later. I catch an exception and then explain the risk. We decide to handle an error after the review. At the end of the day, Maria says, \"I've already tried that.\" I reply, \"What should I do next?\" I write the steps to reproduce. Now the team can see the bug.",
+   "tts": "Before I leave, I write a short summary for the team. We discuss the risk around the minimal example. I document the environment details so the team can review it later. I catch an exception and then explain the risk. We decide to handle an error after the review. At the end of the day, Maria says, \"I've already tried that.\" I reply, \"What should I do next?\" I write the steps to reproduce. Now the team can see the bug.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "离开前，我给团队写了一份简短的总结。我们讨论了最小示例相关的风险。我把环境详情写成文档，方便团队之后查看。我捕获异常，然后解释了风险。评审之后，我们决定处理错误。一天结束时，Maria说：\"我已经试过那个方法了。\"我回答：\"我下一步应该怎么做？\"我写下了复现步骤。现在团队能看到这个缺陷了。",
    "hard": [
     {
      "w": "catch an exception",
-     "type": "idiom",
+     "type": "term",
      "def": "捕获异常，让程序有机会处理错误"
     },
     {
      "w": "handle an error",
-     "type": "idiom",
+     "type": "term",
      "def": "处理错误，用可控方式响应失败情况"
     },
     {
      "w": "I've already tried that.",
-     "type": "idiom",
+     "type": "term",
      "def": "我已经试过那个方法了。"
     },
     {
      "w": "What should I do next?",
-     "type": "idiom",
+     "type": "term",
      "def": "我下一步应该怎么做？"
     },
     {
      "w": "minimal example",
-     "type": "idiom",
+     "type": "term",
      "def": "最小示例，只保留触发问题所需内容的示例"
     },
     {
      "w": "environment details",
-     "type": "idiom",
+     "type": "term",
      "def": "环境详情，系统、版本等运行条件信息"
     }
    ]
@@ -148,63 +151,909 @@
  "chunks": [
   {
    "t": "exception",
-   "cn": "异常，程序运行时发生的特殊错误情况",
+   "cn": "异常",
    "eg": "I learned how to use \"exception\" in a computer task."
   },
   {
-   "t": "stack trace",
-   "cn": "堆栈跟踪，显示错误经过哪些函数调用的记录",
-   "eg": "I learned how to use \"stack trace\" in a computer task."
-  },
-  {
-   "t": "error type",
-   "cn": "错误类型，用来区分不同错误类别的名称",
-   "eg": "I learned how to use \"error type\" in a computer task."
-  },
-  {
    "t": "line number",
-   "cn": "行号，表示错误所在代码位置的数字",
+   "cn": "行号",
    "eg": "I learned how to use \"line number\" in a computer task."
   },
   {
-   "t": "catch an exception",
-   "cn": "捕获异常，让程序有机会处理错误",
-   "eg": "I learned how to use \"catch an exception\" in a computer task."
+   "t": "I'm calling about ...",
+   "cn": "我打电话是想咨询……",
+   "eg": "I'm calling about ..."
   },
   {
-   "t": "handle an error",
-   "cn": "处理错误，用可控方式响应失败情况",
-   "eg": "I learned how to use \"handle an error\" in a computer task."
+   "t": "The problem started yesterday.",
+   "cn": "问题从昨天开始。",
+   "eg": "The problem started yesterday."
+  },
+  {
+   "t": "issue template",
+   "cn": "问题单模板",
+   "eg": "Our team uses \"issue template\" to keep the project clear."
+  },
+  {
+   "t": "actual behavior",
+   "cn": "实际行为",
+   "eg": "Our team uses \"actual behavior\" to keep the project clear."
   }
  ],
  "patterns": [
   {
-   "t": "First, I X.",
-   "cn": "首先，我 X。"
+   "t": "If X fails, we need Y.",
+   "cn": "如果 X 失败，我们需要 Y。"
   },
   {
-   "t": "Then I X.",
-   "cn": "然后，我 X。"
+   "t": "I suggest that we X first.",
+   "cn": "我建议我们先 X。"
   },
   {
-   "t": "I can explain X from start to finish.",
-   "cn": "我能从头到尾解释 X。"
+   "t": "X is done, but Y still needs Z.",
+   "cn": "X 完成了，但 Y 还需要 Z。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "standup_update",
-   "task": "Use any three Day 22 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
+   "genre": "slack_message",
+   "task": "Use any three Day 22 vocabulary items. Retell Alex's story in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "exception",
-    "stack trace",
-    "error type"
+    "line number",
+    "I'm calling about ..."
    ]
   }
  ],
  "lexicon": {
   "exception": {
    "def": "异常，程序运行时发生的特殊错误情况"
+  },
+  "team": {
+   "def": "团队，一起工作的一群人"
+  },
+  "meeting": {
+   "def": "会议"
+  },
+  "morning": {
+   "def": "早上"
+  },
+  "afternoon": {
+   "def": "下午"
+  },
+  "evening": {
+   "def": "晚上"
+  },
+  "today": {
+   "def": "今天"
+  },
+  "tomorrow": {
+   "def": "明天"
+  },
+  "yesterday": {
+   "def": "昨天"
+  },
+  "lunch": {
+   "def": "午餐"
+  },
+  "dinner": {
+   "def": "晚餐"
+  },
+  "break": {
+   "def": "休息"
+  },
+  "week": {
+   "def": "周；星期"
+  },
+  "month": {
+   "def": "月"
+  },
+  "day": {
+   "def": "天；日子"
+  },
+  "time": {
+   "def": "时间"
+  },
+  "job": {
+   "def": "工作；职位"
+  },
+  "work": {
+   "def": "工作"
+  },
+  "task": {
+   "def": "任务"
+  },
+  "plan": {
+   "def": "计划"
+  },
+  "step": {
+   "def": "步骤"
+  },
+  "help": {
+   "def": "帮助"
+  },
+  "question": {
+   "def": "问题"
+  },
+  "answer": {
+   "def": "回答"
+  },
+  "advice": {
+   "def": "建议"
+  },
+  "note": {
+   "def": "笔记"
+  },
+  "history": {
+   "def": "历史；记录"
+  },
+  "change": {
+   "def": "改动；变化"
+  },
+  "result": {
+   "def": "结果"
+  },
+  "reason": {
+   "def": "原因"
+  },
+  "risk": {
+   "def": "风险"
+  },
+  "decision": {
+   "def": "决定"
+  },
+  "guide": {
+   "def": "指南"
+  },
+  "error": {
+   "def": "错误"
+  },
+  "bug": {
+   "def": "缺陷"
+  },
+  "fix": {
+   "def": "修复"
+  },
+  "check": {
+   "def": "检查"
+  },
+  "test": {
+   "def": "测试"
+  },
+  "review": {
+   "def": "评审；回顾"
+  },
+  "update": {
+   "def": "更新"
+  },
+  "release": {
+   "def": "发布；版本"
+  },
+  "server": {
+   "def": "服务器"
+  },
+  "user": {
+   "def": "用户"
+  },
+  "code": {
+   "def": "代码"
+  },
+  "project": {
+   "def": "项目"
+  },
+  "computer": {
+   "def": "电脑"
+  },
+  "screen": {
+   "def": "屏幕"
+  },
+  "desk": {
+   "def": "桌子"
+  },
+  "office": {
+   "def": "办公室"
+  },
+  "friend": {
+   "def": "朋友"
+  },
+  "teammate": {
+   "def": "队友"
+  },
+  "mentor": {
+   "def": "导师"
+  },
+  "leader": {
+   "def": "组长"
+  },
+  "happy": {
+   "def": "开心的"
+  },
+  "tired": {
+   "def": "累的"
+  },
+  "nervous": {
+   "def": "紧张的"
+  },
+  "ready": {
+   "def": "准备好的"
+  },
+  "kind": {
+   "def": "友善的"
+  },
+  "clear": {
+   "def": "清楚的"
+  },
+  "careful": {
+   "def": "仔细的"
+  },
+  "safe": {
+   "def": "安全的"
+  },
+  "new": {
+   "def": "新的"
+  },
+  "first": {
+   "def": "第一"
+  },
+  "last": {
+   "def": "最后的"
+  },
+  "next": {
+   "def": "下一个"
+  },
+  "small": {
+   "def": "小的"
+  },
+  "big": {
+   "def": "大的"
+  },
+  "short": {
+   "def": "短的"
+  },
+  "long": {
+   "def": "长的"
+  },
+  "learn": {
+   "def": "学习"
+  },
+  "teach": {
+   "def": "教"
+  },
+  "practice": {
+   "def": "练习"
+  },
+  "repeat": {
+   "def": "重复"
+  },
+  "listen": {
+   "def": "听"
+  },
+  "smile": {
+   "def": "微笑"
+  },
+  "ask": {
+   "def": "问；请求"
+  },
+  "say": {
+   "def": "说"
+  },
+  "show": {
+   "def": "展示"
+  },
+  "explain": {
+   "def": "解释"
+  },
+  "record": {
+   "def": "记录"
+  },
+  "finish": {
+   "def": "完成"
+  },
+  "start": {
+   "def": "开始"
+  },
+  "leave": {
+   "def": "离开"
+  },
+  "arrive": {
+   "def": "到达"
+  },
+  "join": {
+   "def": "加入"
+  },
+  "merge": {
+   "def": "合并"
+  },
+  "push": {
+   "def": "推送"
+  },
+  "pull": {
+   "def": "拉取"
+  },
+  "commit": {
+   "def": "提交"
+  },
+  "branch": {
+   "def": "分支"
+  },
+  "deploy": {
+   "def": "部署"
+  },
+  "rollback": {
+   "def": "回滚"
+  },
+  "pipeline": {
+   "def": "流水线"
+  },
+  "maria": {
+   "def": "Maria，Alex 的导师"
+  },
+  "leo": {
+   "def": "Leo，Alex 的队友"
+  },
+  "priya": {
+   "def": "Priya，Alex 的队友"
+  },
+  "alex": {
+   "def": "Alex，本课主角"
+  },
+  "one": {
+   "def": "一；一个"
+  },
+  "two": {
+   "def": "两；二"
+  },
+  "write": {
+   "def": "写"
+  },
+  "now": {
+   "def": "现在"
+  },
+  "look": {
+   "def": "看"
+  },
+  "twice": {
+   "def": "两次"
+  },
+  "reply": {
+   "def": "回答"
+  },
+  "lot": {
+   "def": "许多"
+  },
+  "pattern": {
+   "def": "句型；模式"
+  },
+  "good": {
+   "def": "好的"
+  },
+  "later": {
+   "def": "稍后"
+  },
+  "point": {
+   "def": "指；要点"
+  },
+  "see": {
+   "def": "看见"
+  },
+  "need": {
+   "def": "需要"
+  },
+  "understand": {
+   "def": "理解"
+  },
+  "use": {
+   "def": "使用"
+  },
+  "depends": {
+   "def": "取决于"
+  },
+  "fails": {
+   "def": "失败"
+  },
+  "summary": {
+   "def": "总结"
+  },
+  "around": {
+   "def": "围绕；大约"
+  },
+  "discuss": {
+   "def": "讨论"
+  },
+  "document": {
+   "def": "记录成文档"
+  },
+  "suggest": {
+   "def": "建议"
+  },
+  "thing": {
+   "def": "事情"
+  },
+  "talk": {
+   "def": "交谈"
+  },
+  "compare": {
+   "def": "比较"
+  },
+  "detail": {
+   "def": "细节"
+  },
+  "agrees": {
+   "def": "同意"
+  },
+  "chat": {
+   "def": "聊天"
+  },
+  "try": {
+   "def": "尝试"
+  },
+  "learned": {
+   "def": "学到的"
+  },
+  "becomes": {
+   "def": "变得"
+  },
+  "standup": {
+   "def": "站会"
+  },
+  "ends": {
+   "def": "结束"
+  },
+  "confirm": {
+   "def": "确认"
+  },
+  "feel": {
+   "def": "感觉"
+  },
+  "gives": {
+   "def": "给"
+  },
+  "read": {
+   "def": "读"
+  },
+  "meet": {
+   "def": "见面"
+  },
+  "busy": {
+   "def": "忙碌的"
+  },
+  "little": {
+   "def": "一点；小的"
+  },
+  "story": {
+   "def": "故事"
+  },
+  "tells": {
+   "def": "告诉"
+  },
+  "useful": {
+   "def": "有用的"
+  },
+  "smaller": {
+   "def": "更小的"
+  },
+  "build": {
+   "def": "构建"
+  },
+  "clearly": {
+   "def": "清楚地"
+  },
+  "end": {
+   "def": "结尾"
+  },
+  "full": {
+   "def": "完整的"
+  },
+  "hear": {
+   "def": "听到"
+  },
+  "carefully": {
+   "def": "认真地"
+  },
+  "watch": {
+   "def": "观察"
+  },
+  "problem": {
+   "def": "问题"
+  },
+  "continue": {
+   "def": "继续"
+  },
+  "easy": {
+   "def": "容易的"
+  },
+  "going": {
+   "def": "going to 表将要"
+  },
+  "keep": {
+   "def": "保持"
+  },
+  "part": {
+   "def": "部分"
+  },
+  "slowly": {
+   "def": "慢慢地"
+  },
+  "make": {
+   "def": "制作"
+  },
+  "together": {
+   "def": "一起"
+  },
+  "home": {
+   "def": "家"
+  },
+  "friday": {
+   "def": "周五"
+  },
+  "table": {
+   "def": "桌子；表格"
+  },
+  "think": {
+   "def": "想"
+  },
+  "decide": {
+   "def": "决定"
+  },
+  "move": {
+   "def": "前进；移动"
+  },
+  "calm": {
+   "def": "从容的"
+  },
+  "sound": {
+   "def": "听起来"
+  },
+  "program": {
+   "def": "程序"
+  },
+  "late": {
+   "def": "迟的"
+  },
+  "included": {
+   "def": "包含在内"
+  },
+  "take": {
+   "def": "拿；采取"
+  },
+  "know": {
+   "def": "知道"
+  },
+  "back": {
+   "def": "回来；向后"
+  },
+  "monday": {
+   "def": "周一"
+  },
+  "road": {
+   "def": "路"
+  },
+  "chat program": {
+   "def": "聊天程序"
+  },
+  "dashboard": {
+   "def": "仪表盘"
+  },
+  "fire drill": {
+   "def": "消防演习"
+  },
+  "pharmacy": {
+   "def": "药店"
+  },
+  "medicine": {
+   "def": "药"
+  },
+  "bank": {
+   "def": "银行"
+  },
+  "charge": {
+   "def": "扣款"
+  },
+  "package": {
+   "def": "包裹"
+  },
+  "customer service": {
+   "def": "客服"
+  },
+  "deadline": {
+   "def": "截止时间"
+  },
+  "extension": {
+   "def": "延期"
+  },
+  "trade-offs": {
+   "def": "取舍"
+  },
+  "option": {
+   "def": "选项"
+  },
+  "presenter": {
+   "def": "介绍人"
+  },
+  "presentation": {
+   "def": "介绍；演示"
+  },
+  "menu": {
+   "def": "菜单"
+  },
+  "price": {
+   "def": "价格"
+  },
+  "notebook": {
+   "def": "笔记本"
+  },
+  "airport": {
+   "def": "机场"
+  },
+  "flight": {
+   "def": "航班"
+  },
+  "hotel": {
+   "def": "酒店"
+  },
+  "restaurant": {
+   "def": "餐厅"
+  },
+  "bus": {
+   "def": "公交车"
+  },
+  "way": {
+   "def": "路；方式"
+  },
+  "weather": {
+   "def": "天气"
+  },
+  "window": {
+   "def": "窗户"
+  },
+  "news": {
+   "def": "新闻"
+  },
+  "opinion": {
+   "def": "看法"
+  },
+  "version": {
+   "def": "版本"
+  },
+  "feature": {
+   "def": "功能"
+  },
+  "rule": {
+   "def": "规则"
+  },
+  "security": {
+   "def": "安全"
+  },
+  "alert": {
+   "def": "警报"
+  },
+  "dependency": {
+   "def": "依赖"
+  },
+  "contributor": {
+   "def": "贡献者"
+  },
+  "respect": {
+   "def": "尊重"
+  },
+  "claim": {
+   "def": "说法"
+  },
+  "source": {
+   "def": "来源"
+  },
+  "link": {
+   "def": "链接"
+  },
+  "discussion": {
+   "def": "讨论"
+  },
+  "idea": {
+   "def": "想法"
+  },
+  "says": {
+   "lemma": "say"
+  },
+  "asks": {
+   "lemma": "ask"
+  },
+  "answers": {
+   "lemma": "answer"
+  },
+  "helps": {
+   "lemma": "help"
+  },
+  "checks": {
+   "lemma": "check"
+  },
+  "fixes": {
+   "lemma": "fix"
+  },
+  "learns": {
+   "lemma": "learn"
+  },
+  "shows": {
+   "lemma": "show"
+  },
+  "smiles": {
+   "lemma": "smile"
+  },
+  "explains": {
+   "lemma": "explain"
+  },
+  "records": {
+   "lemma": "record"
+  },
+  "finishes": {
+   "lemma": "finish"
+  },
+  "starts": {
+   "lemma": "start"
+  },
+  "leaves": {
+   "lemma": "leave"
+  },
+  "joins": {
+   "lemma": "join"
+  },
+  "merges": {
+   "lemma": "merge"
+  },
+  "pushes": {
+   "lemma": "push"
+  },
+  "pulls": {
+   "lemma": "pull"
+  },
+  "reviews": {
+   "lemma": "review"
+  },
+  "tests": {
+   "lemma": "test"
+  },
+  "plans": {
+   "lemma": "plan"
+  },
+  "notes": {
+   "lemma": "note"
+  },
+  "tasks": {
+   "lemma": "task"
+  },
+  "steps": {
+   "lemma": "step"
+  },
+  "changes": {
+   "lemma": "change"
+  },
+  "results": {
+   "lemma": "result"
+  },
+  "users": {
+   "lemma": "user"
+  },
+  "days": {
+   "lemma": "day"
+  },
+  "weeks": {
+   "lemma": "week"
+  },
+  "meetings": {
+   "lemma": "meeting"
+  },
+  "questions": {
+   "lemma": "question"
+  },
+  "errors": {
+   "lemma": "error"
+  },
+  "writes": {
+   "lemma": "write"
+  },
+  "looks": {
+   "lemma": "look"
+  },
+  "points": {
+   "lemma": "point"
+  },
+  "sees": {
+   "lemma": "see"
+  },
+  "needs": {
+   "lemma": "need"
+  },
+  "understands": {
+   "lemma": "understand"
+  },
+  "uses": {
+   "lemma": "use"
+  },
+  "suggests": {
+   "lemma": "suggest"
+  },
+  "compares": {
+   "lemma": "compare"
+  },
+  "talks": {
+   "lemma": "talk"
+  },
+  "tries": {
+   "lemma": "try"
+  },
+  "reads": {
+   "lemma": "read"
+  },
+  "hears": {
+   "lemma": "hear"
+  },
+  "watches": {
+   "lemma": "watch"
+  },
+  "thinks": {
+   "lemma": "think"
+  },
+  "makes": {
+   "lemma": "make"
+  },
+  "feels": {
+   "lemma": "feel"
+  },
+  "meets": {
+   "lemma": "meet"
+  },
+  "keeps": {
+   "lemma": "keep"
+  },
+  "moves": {
+   "lemma": "move"
+  },
+  "decides": {
+   "lemma": "decide"
+  },
+  "confirms": {
+   "lemma": "confirm"
+  },
+  "discusses": {
+   "lemma": "discuss"
+  },
+  "documents": {
+   "lemma": "document"
+  },
+  "repeats": {
+   "lemma": "repeat"
+  },
+  "practises": {
+   "lemma": "practice"
+  },
+  "thanks": {
+   "lemma": "thank"
+  },
+  "orders": {
+   "lemma": "order"
+  },
+  "works": {
+   "lemma": "work"
+  },
+  "runs": {
+   "lemma": "run"
+  },
+  "hands": {
+   "lemma": "hand"
+  },
+  "minutes": {
+   "lemma": "minute"
+  },
+  "commits": {
+   "lemma": "commit"
+  },
+  "branches": {
+   "lemma": "branch"
+  },
+  "issues": {
+   "lemma": "issue"
+  },
+  "labels": {
+   "lemma": "label"
   }
  }
 }

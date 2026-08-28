@@ -1,27 +1,28 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Use python3 where present (Cloudflare/Linux/macOS), fall back to python (Windows).
+PY="$(command -v python3 || command -v python)"
+
 # pyproject.toml is intentionally dependency-only (no setuptools backend).
 # Install the small build-time runtime directly so Cloudflare/local builds work.
-python3 -m pip install -q 'jsonschema>=4.0.0' 'edge-tts>=7.0.0'
+"$PY" -m pip install -q 'jsonschema>=4.0.0' 'edge-tts>=7.0.0'
 npm ci --silent
-python3 scripts/make_week.py
-python3 scripts/make_month.py
-python3 scripts/make_vocabulary_month.py
-python3 scripts/make_speaking_month.py
+"$PY" scripts/make_week.py
+"$PY" scripts/make_month.py
+"$PY" scripts/make_vocabulary_month.py
+"$PY" scripts/make_speaking_month.py
 
-# Speaking text is always rebuilt. Audio can be generated separately when the
-# Edge TTS service is reachable; missing files use the browser voice fallback.
+# Speaking text is always rebuilt. Speaking audio uses Edge TTS (cross-platform);
+# if the service is unreachable the pages keep the browser voice fallback.
 for day_num in $(seq -w 1 30); do
   find "lessons/week/day-${day_num}/audio" -maxdepth 1 -type f -name 'seg-*.mp3' -delete 2>/dev/null || true
   find "lessons/week/day-${day_num}/audio" -maxdepth 1 -type f -name 'seg-*.words.json' -delete 2>/dev/null || true
 done
-if command -v say >/dev/null 2>&1 && command -v afconvert >/dev/null 2>&1; then
-  python3 scripts/generate_speaking_audio.py
-else
-  echo "macOS voice tools unavailable; speaking pages will use browser speech fallback"
+if ! "$PY" scripts/generate_speaking_audio.py; then
+  echo "warning: Edge TTS unreachable; speaking pages will use browser speech fallback"
 fi
-python3 scripts/generate_vocabulary_audio.py
+"$PY" scripts/generate_vocabulary_audio.py
 cp src/template/vocab.html lessons/week/vocab.html
 cp src/template/vocab.js lessons/week/vocab.js
 cp src/template/adaptive-review.js lessons/week/adaptive-review.js
@@ -46,7 +47,7 @@ for day_num in $(seq -w 1 30); do
   fi
 
   (
-    python3 src/build_page.py "examples/custom/week/$day/segments.json" \
+    "$PY" src/build_page.py "examples/custom/week/$day/segments.json" \
       --out "lessons/week/$day" --prev "$prev" --next "$next" --home "../index.html"
   ) &
   jobs=$((jobs + 1))

@@ -1,38 +1,39 @@
 {
  "meta": {
-  "title": "Day 12: Alex's Small Tasks",
-  "title_zh": "第 12 天：Alex 的基础工作",
+  "title": "Day 12: Labels and Milestones",
+  "title_zh": "第 12 天：标签与里程碑",
   "source": "Vocabulary Month · Day 12",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 276,
+   "word_count": 181,
    "segment_count": 3,
-   "difficulty": "基础工作 · 词汇主线",
+   "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
+   "main_practice": "听完整段 · 跟读 · 用连接词复述",
    "value_points": [
-    "当天 18 个词汇都进入 Alex 的故事",
+    "当天 18 个词汇全部进入故事正文",
     "DNS、域名与 URL × 酒店与旅行 × 标签与里程碑",
-    "30 秒口语输出"
+    "基础表达 · 语速与句长随天数递增"
    ],
-   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
+   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-8%",
-  "speed": 0.92
+  "rate": "-16%",
+  "speed": 0.86
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"DNS\" and \"domain name\" and writes one clear note about the work. During a short chat, Maria uses \"I'd like to check in.\" and \"I have a reservation.\". Alex answers politely and asks one question. Then Alex records the progress with \"label\" and \"milestone\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
-   "tts": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"DNS\" and \"domain name\" and writes one clear note about the work. During a short chat, Maria uses \"I'd like to check in.\" and \"I have a reservation.\". Alex answers politely and asks one question. Then Alex records the progress with \"label\" and \"milestone\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
-   "audio_file": "audio/seg-01.m4a",
-   "zh": "第 12 天，Alex 接到一个小任务。Alex 已经练习过基础内容，所以团队给了 Alex 一个小任务。首先，Alex 检查域名系统、域名，并写下一条清楚的工作笔记。短聊时，Maria 使用了我想办理入住、我有预订。Alex 礼貌地回答，并提出一个问题。然后 Alex 用标签、里程碑记录进展，让团队可以跟进这次变化。任务不大，但 Alex 已经能从头到尾解释清楚。",
+   "spk": "Alex",
+   "en": "The team plans the next version. We organize the work. Maria explains the DNS to me. I learn about the domain name because it is useful. Now I understand the label. I write a short note about the milestone. First Priya says, \"I'd like to check in.\" then I reply, \"I have a reservation.\" I understand a little more than yesterday.",
+   "tts": "The team plans the next version. We organize the work. Maria explains the D N S to me. I learn about the domain name because it is useful. Now I understand the label. I write a short note about the milestone. First Priya says, \"I'd like to check in.\" then I reply, \"I have a reservation.\" I understand a little more than yesterday.",
+   "audio_file": "audio/seg-01.mp3",
+   "zh": "团队在规划下一个版本。我们把工作整理归类。Maria 给我讲解域名系统。我学习域名，因为它很有用。现在我理解了标签。我给里程碑写了一条简短的笔记。先是Priya说：\"我想办理入住。\"然后我回答：\"我有预订。\"我比昨天多懂了一点。",
    "hard": [
     {
      "w": "DNS",
@@ -41,17 +42,17 @@
     },
     {
      "w": "domain name",
-     "type": "idiom",
+     "type": "term",
      "def": "域名，网站便于记忆的名称"
     },
     {
      "w": "I'd like to check in.",
-     "type": "idiom",
+     "type": "term",
      "def": "我想办理入住。"
     },
     {
      "w": "I have a reservation.",
-     "type": "idiom",
+     "type": "term",
      "def": "我有预订。"
     },
     {
@@ -68,14 +69,15 @@
   },
   {
    "id": "seg-02",
-   "en": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"web address\" and \"URL\" and writes one clear note about the work. During a short chat, Maria uses \"Is breakfast included?\" and \"What time is checkout?\". Alex answers politely and asks one question. Then Alex records the progress with \"add a label\" and \"remove a label\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
-   "tts": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"web address\" and \"URL\" and writes one clear note about the work. During a short chat, Maria uses \"Is breakfast included?\" and \"What time is checkout?\". Alex answers politely and asks one question. Then Alex records the progress with \"add a label\" and \"remove a label\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
-   "audio_file": "audio/seg-02.m4a",
-   "zh": "第 12 天，Alex 接到一个小任务。Alex 已经练习过基础内容，所以团队给了 Alex 一个小任务。首先，Alex 检查网页地址、统一资源定位符，并写下一条清楚的工作笔记。短聊时，Maria 使用了包含早餐吗、几点退房。Alex 礼貌地回答，并提出一个问题。然后 Alex 用添加标签、移除标签记录进展，让团队可以跟进这次变化。任务不大，但 Alex 已经能从头到尾解释清楚。",
+   "spk": "Alex",
+   "en": "Maria travels next week. She talks about her hotel. Leo says, \"Is breakfast included?\" so I answer, \"What time is checkout?\" Now I understand the web address. I write a short note about the URL. Leo shows me how to add a label. I remove a label one small step at a time. The team gives me good advice.",
+   "tts": "Maria travels next week. She talks about her hotel. Leo says, \"Is breakfast included?\" so I answer, \"What time is checkout?\" Now I understand the web address. I write a short note about the U R L. Leo shows me how to add a label. I remove a label one small step at a time. The team gives me good advice.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "Maria 下周要出差。她聊起了她的酒店。Leo说：\"包含早餐吗？\"于是我回答：\"几点退房？\"现在我理解了网页地址。我给统一资源定位符写了一条简短的笔记。Leo 教我怎样添加标签。我一步一步地移除标签。团队给了我很好的建议。",
    "hard": [
     {
      "w": "web address",
-     "type": "idiom",
+     "type": "term",
      "def": "网页地址，用来定位网络页面的地址"
     },
     {
@@ -85,32 +87,33 @@
     },
     {
      "w": "Is breakfast included?",
-     "type": "idiom",
+     "type": "term",
      "def": "包含早餐吗？"
     },
     {
      "w": "What time is checkout?",
-     "type": "idiom",
+     "type": "term",
      "def": "几点退房？"
     },
     {
      "w": "add a label",
-     "type": "idiom",
+     "type": "term",
      "def": "添加标签，为事项增加分类"
     },
     {
      "w": "remove a label",
-     "type": "idiom",
+     "type": "term",
      "def": "移除标签，取消已有分类"
     }
    ]
   },
   {
    "id": "seg-03",
-   "en": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"subdomain\" and \"resolve a domain\" and writes one clear note about the work. During a short chat, Maria uses \"Could I get another towel?\" and \"Can you store my luggage?\". Alex answers politely and asks one question. Then Alex records the progress with \"due date\" and \"project board\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
-   "tts": "On day 12, Alex has a small task. Alex has practised the basics, so the team gives Alex a small task. First, Alex checks \"subdomain\" and \"resolve a domain\" and writes one clear note about the work. During a short chat, Maria uses \"Could I get another towel?\" and \"Can you store my luggage?\". Alex answers politely and asks one question. Then Alex records the progress with \"due date\" and \"project board\" so the team can follow the change. The task is not big, but Alex can now explain it from start to finish.",
-   "audio_file": "audio/seg-03.m4a",
-   "zh": "第 12 天，Alex 接到一个小任务。Alex 已经练习过基础内容，所以团队给了 Alex 一个小任务。首先，Alex 检查子域名、解析域名，并写下一条清楚的工作笔记。短聊时，Maria 使用了可以再给我一条毛巾吗、你们能寄存我的行李吗。Alex 礼貌地回答，并提出一个问题。然后 Alex 用截止日期、项目看板记录进展，让团队可以跟进这次变化。任务不大，但 Alex 已经能从头到尾解释清楚。",
+   "spk": "Alex",
+   "en": "Before I leave, I finish one last task. Maria explains the due date to me. I learn about the project board because it is useful. Now I understand the subdomain. I resolve a domain carefully. First Priya says, \"Could I get another towel?\" then I reply, \"Can you store my luggage?\" Every issue now has a label and a due date.",
+   "tts": "Before I leave, I finish one last task. Maria explains the due date to me. I learn about the project board because it is useful. Now I understand the subdomain. I resolve a domain carefully. First Priya says, \"Could I get another towel?\" then I reply, \"Can you store my luggage?\" Every issue now has a label and a due date.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "离开前，我完成最后一项任务。Maria 给我讲解截止日期。我学习项目看板，因为它很有用。现在我理解了子域名。我认真地解析域名。先是Priya说：\"可以再给我一条毛巾吗？\"然后我回答：\"你们能寄存我的行李吗？\"现在每个问题单都有了标签和截止日期。",
    "hard": [
     {
      "w": "subdomain",
@@ -119,27 +122,27 @@
     },
     {
      "w": "resolve a domain",
-     "type": "idiom",
+     "type": "term",
      "def": "解析域名，把域名转换为 IP 地址"
     },
     {
      "w": "Could I get another towel?",
-     "type": "idiom",
+     "type": "term",
      "def": "可以再给我一条毛巾吗？"
     },
     {
      "w": "Can you store my luggage?",
-     "type": "idiom",
+     "type": "term",
      "def": "你们能寄存我的行李吗？"
     },
     {
      "w": "due date",
-     "type": "idiom",
+     "type": "term",
      "def": "截止日期，计划完成事项的日期"
     },
     {
      "w": "project board",
-     "type": "idiom",
+     "type": "term",
      "def": "项目看板，用卡片追踪工作状态的页面"
     }
    ]
@@ -148,57 +151,57 @@
  "chunks": [
   {
    "t": "DNS",
-   "cn": "域名系统，把容易记的域名转换成网络地址",
-   "eg": "I learned how to use \"D N S\" in a computer task."
-  },
-  {
-   "t": "domain name",
-   "cn": "域名，网站便于记忆的名称",
-   "eg": "I learned how to use \"domain name\" in a computer task."
-  },
-  {
-   "t": "web address",
-   "cn": "网页地址，用来定位网络页面的地址",
-   "eg": "I learned how to use \"web address\" in a computer task."
+   "cn": "域名系统",
+   "eg": "I learned how to use \"DNS\" in a computer task."
   },
   {
    "t": "URL",
-   "cn": "统一资源定位符，网络资源的完整地址",
-   "eg": "I learned how to use \"U R L\" in a computer task."
+   "cn": "统一资源定位符",
+   "eg": "I learned how to use \"URL\" in a computer task."
   },
   {
-   "t": "subdomain",
-   "cn": "子域名，位于主域名前的分级名称",
-   "eg": "I learned how to use \"subdomain\" in a computer task."
+   "t": "I'd like to check in.",
+   "cn": "我想办理入住。",
+   "eg": "I'd like to check in."
   },
   {
-   "t": "resolve a domain",
-   "cn": "解析域名，把域名转换为 IP 地址",
-   "eg": "I learned how to use \"resolve a domain\" in a computer task."
+   "t": "What time is checkout?",
+   "cn": "几点退房？",
+   "eg": "What time is checkout?"
+  },
+  {
+   "t": "label",
+   "cn": "标签",
+   "eg": "Our team uses \"label\" to keep the project clear."
+  },
+  {
+   "t": "remove a label",
+   "cn": "移除标签",
+   "eg": "Our team uses \"remove a label\" to keep the project clear."
   }
  ],
  "patterns": [
   {
-   "t": "First, I X.",
-   "cn": "首先，我 X。"
+   "t": "First I X, then I Y.",
+   "cn": "我先 X，然后 Y。"
   },
   {
-   "t": "Then I X.",
-   "cn": "然后，我 X。"
+   "t": "I X because Y.",
+   "cn": "我 X，因为 Y。"
   },
   {
-   "t": "I can explain X from start to finish.",
-   "cn": "我能从头到尾解释 X。"
+   "t": "Today I X for the first time.",
+   "cn": "今天我第一次 X。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "standup_update",
-   "task": "Use any three Day 12 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
+   "genre": "slack_message",
+   "task": "Use any three Day 12 vocabulary items. Retell Alex's story in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "DNS",
-    "domain name",
-    "web address"
+    "URL",
+    "I'd like to check in."
    ]
   }
  ],
@@ -217,6 +220,852 @@
   },
   "milestone": {
    "def": "里程碑，把一组事项归入同一个阶段目标"
+  },
+  "team": {
+   "def": "团队，一起工作的一群人"
+  },
+  "meeting": {
+   "def": "会议"
+  },
+  "morning": {
+   "def": "早上"
+  },
+  "afternoon": {
+   "def": "下午"
+  },
+  "evening": {
+   "def": "晚上"
+  },
+  "today": {
+   "def": "今天"
+  },
+  "tomorrow": {
+   "def": "明天"
+  },
+  "yesterday": {
+   "def": "昨天"
+  },
+  "lunch": {
+   "def": "午餐"
+  },
+  "dinner": {
+   "def": "晚餐"
+  },
+  "break": {
+   "def": "休息"
+  },
+  "week": {
+   "def": "周；星期"
+  },
+  "month": {
+   "def": "月"
+  },
+  "day": {
+   "def": "天；日子"
+  },
+  "time": {
+   "def": "时间"
+  },
+  "job": {
+   "def": "工作；职位"
+  },
+  "work": {
+   "def": "工作"
+  },
+  "task": {
+   "def": "任务"
+  },
+  "plan": {
+   "def": "计划"
+  },
+  "step": {
+   "def": "步骤"
+  },
+  "help": {
+   "def": "帮助"
+  },
+  "question": {
+   "def": "问题"
+  },
+  "answer": {
+   "def": "回答"
+  },
+  "advice": {
+   "def": "建议"
+  },
+  "note": {
+   "def": "笔记"
+  },
+  "history": {
+   "def": "历史；记录"
+  },
+  "change": {
+   "def": "改动；变化"
+  },
+  "result": {
+   "def": "结果"
+  },
+  "reason": {
+   "def": "原因"
+  },
+  "risk": {
+   "def": "风险"
+  },
+  "decision": {
+   "def": "决定"
+  },
+  "guide": {
+   "def": "指南"
+  },
+  "error": {
+   "def": "错误"
+  },
+  "bug": {
+   "def": "缺陷"
+  },
+  "fix": {
+   "def": "修复"
+  },
+  "check": {
+   "def": "检查"
+  },
+  "test": {
+   "def": "测试"
+  },
+  "review": {
+   "def": "评审；回顾"
+  },
+  "update": {
+   "def": "更新"
+  },
+  "release": {
+   "def": "发布；版本"
+  },
+  "server": {
+   "def": "服务器"
+  },
+  "user": {
+   "def": "用户"
+  },
+  "code": {
+   "def": "代码"
+  },
+  "project": {
+   "def": "项目"
+  },
+  "computer": {
+   "def": "电脑"
+  },
+  "screen": {
+   "def": "屏幕"
+  },
+  "desk": {
+   "def": "桌子"
+  },
+  "office": {
+   "def": "办公室"
+  },
+  "friend": {
+   "def": "朋友"
+  },
+  "teammate": {
+   "def": "队友"
+  },
+  "mentor": {
+   "def": "导师"
+  },
+  "leader": {
+   "def": "组长"
+  },
+  "happy": {
+   "def": "开心的"
+  },
+  "tired": {
+   "def": "累的"
+  },
+  "nervous": {
+   "def": "紧张的"
+  },
+  "ready": {
+   "def": "准备好的"
+  },
+  "kind": {
+   "def": "友善的"
+  },
+  "clear": {
+   "def": "清楚的"
+  },
+  "careful": {
+   "def": "仔细的"
+  },
+  "safe": {
+   "def": "安全的"
+  },
+  "new": {
+   "def": "新的"
+  },
+  "first": {
+   "def": "第一"
+  },
+  "last": {
+   "def": "最后的"
+  },
+  "next": {
+   "def": "下一个"
+  },
+  "small": {
+   "def": "小的"
+  },
+  "big": {
+   "def": "大的"
+  },
+  "short": {
+   "def": "短的"
+  },
+  "long": {
+   "def": "长的"
+  },
+  "learn": {
+   "def": "学习"
+  },
+  "teach": {
+   "def": "教"
+  },
+  "practice": {
+   "def": "练习"
+  },
+  "repeat": {
+   "def": "重复"
+  },
+  "listen": {
+   "def": "听"
+  },
+  "smile": {
+   "def": "微笑"
+  },
+  "ask": {
+   "def": "问；请求"
+  },
+  "say": {
+   "def": "说"
+  },
+  "show": {
+   "def": "展示"
+  },
+  "explain": {
+   "def": "解释"
+  },
+  "record": {
+   "def": "记录"
+  },
+  "finish": {
+   "def": "完成"
+  },
+  "start": {
+   "def": "开始"
+  },
+  "leave": {
+   "def": "离开"
+  },
+  "arrive": {
+   "def": "到达"
+  },
+  "join": {
+   "def": "加入"
+  },
+  "merge": {
+   "def": "合并"
+  },
+  "push": {
+   "def": "推送"
+  },
+  "pull": {
+   "def": "拉取"
+  },
+  "commit": {
+   "def": "提交"
+  },
+  "branch": {
+   "def": "分支"
+  },
+  "deploy": {
+   "def": "部署"
+  },
+  "rollback": {
+   "def": "回滚"
+  },
+  "pipeline": {
+   "def": "流水线"
+  },
+  "maria": {
+   "def": "Maria，Alex 的导师"
+  },
+  "leo": {
+   "def": "Leo，Alex 的队友"
+  },
+  "priya": {
+   "def": "Priya，Alex 的队友"
+  },
+  "alex": {
+   "def": "Alex，本课主角"
+  },
+  "one": {
+   "def": "一；一个"
+  },
+  "two": {
+   "def": "两；二"
+  },
+  "write": {
+   "def": "写"
+  },
+  "now": {
+   "def": "现在"
+  },
+  "look": {
+   "def": "看"
+  },
+  "twice": {
+   "def": "两次"
+  },
+  "reply": {
+   "def": "回答"
+  },
+  "lot": {
+   "def": "许多"
+  },
+  "pattern": {
+   "def": "句型；模式"
+  },
+  "good": {
+   "def": "好的"
+  },
+  "later": {
+   "def": "稍后"
+  },
+  "point": {
+   "def": "指；要点"
+  },
+  "see": {
+   "def": "看见"
+  },
+  "need": {
+   "def": "需要"
+  },
+  "understand": {
+   "def": "理解"
+  },
+  "use": {
+   "def": "使用"
+  },
+  "depends": {
+   "def": "取决于"
+  },
+  "fails": {
+   "def": "失败"
+  },
+  "summary": {
+   "def": "总结"
+  },
+  "around": {
+   "def": "围绕；大约"
+  },
+  "discuss": {
+   "def": "讨论"
+  },
+  "document": {
+   "def": "记录成文档"
+  },
+  "suggest": {
+   "def": "建议"
+  },
+  "thing": {
+   "def": "事情"
+  },
+  "talk": {
+   "def": "交谈"
+  },
+  "compare": {
+   "def": "比较"
+  },
+  "detail": {
+   "def": "细节"
+  },
+  "agrees": {
+   "def": "同意"
+  },
+  "chat": {
+   "def": "聊天"
+  },
+  "try": {
+   "def": "尝试"
+  },
+  "learned": {
+   "def": "学到的"
+  },
+  "becomes": {
+   "def": "变得"
+  },
+  "standup": {
+   "def": "站会"
+  },
+  "ends": {
+   "def": "结束"
+  },
+  "confirm": {
+   "def": "确认"
+  },
+  "feel": {
+   "def": "感觉"
+  },
+  "gives": {
+   "def": "给"
+  },
+  "read": {
+   "def": "读"
+  },
+  "meet": {
+   "def": "见面"
+  },
+  "busy": {
+   "def": "忙碌的"
+  },
+  "little": {
+   "def": "一点；小的"
+  },
+  "story": {
+   "def": "故事"
+  },
+  "tells": {
+   "def": "告诉"
+  },
+  "useful": {
+   "def": "有用的"
+  },
+  "smaller": {
+   "def": "更小的"
+  },
+  "build": {
+   "def": "构建"
+  },
+  "clearly": {
+   "def": "清楚地"
+  },
+  "end": {
+   "def": "结尾"
+  },
+  "full": {
+   "def": "完整的"
+  },
+  "hear": {
+   "def": "听到"
+  },
+  "carefully": {
+   "def": "认真地"
+  },
+  "watch": {
+   "def": "观察"
+  },
+  "problem": {
+   "def": "问题"
+  },
+  "continue": {
+   "def": "继续"
+  },
+  "easy": {
+   "def": "容易的"
+  },
+  "going": {
+   "def": "going to 表将要"
+  },
+  "keep": {
+   "def": "保持"
+  },
+  "part": {
+   "def": "部分"
+  },
+  "slowly": {
+   "def": "慢慢地"
+  },
+  "make": {
+   "def": "制作"
+  },
+  "together": {
+   "def": "一起"
+  },
+  "home": {
+   "def": "家"
+  },
+  "friday": {
+   "def": "周五"
+  },
+  "table": {
+   "def": "桌子；表格"
+  },
+  "think": {
+   "def": "想"
+  },
+  "decide": {
+   "def": "决定"
+  },
+  "move": {
+   "def": "前进；移动"
+  },
+  "calm": {
+   "def": "从容的"
+  },
+  "sound": {
+   "def": "听起来"
+  },
+  "program": {
+   "def": "程序"
+  },
+  "late": {
+   "def": "迟的"
+  },
+  "included": {
+   "def": "包含在内"
+  },
+  "take": {
+   "def": "拿；采取"
+  },
+  "know": {
+   "def": "知道"
+  },
+  "back": {
+   "def": "回来；向后"
+  },
+  "monday": {
+   "def": "周一"
+  },
+  "road": {
+   "def": "路"
+  },
+  "chat program": {
+   "def": "聊天程序"
+  },
+  "dashboard": {
+   "def": "仪表盘"
+  },
+  "fire drill": {
+   "def": "消防演习"
+  },
+  "pharmacy": {
+   "def": "药店"
+  },
+  "medicine": {
+   "def": "药"
+  },
+  "bank": {
+   "def": "银行"
+  },
+  "charge": {
+   "def": "扣款"
+  },
+  "package": {
+   "def": "包裹"
+  },
+  "customer service": {
+   "def": "客服"
+  },
+  "deadline": {
+   "def": "截止时间"
+  },
+  "extension": {
+   "def": "延期"
+  },
+  "trade-offs": {
+   "def": "取舍"
+  },
+  "option": {
+   "def": "选项"
+  },
+  "presenter": {
+   "def": "介绍人"
+  },
+  "presentation": {
+   "def": "介绍；演示"
+  },
+  "menu": {
+   "def": "菜单"
+  },
+  "price": {
+   "def": "价格"
+  },
+  "notebook": {
+   "def": "笔记本"
+  },
+  "airport": {
+   "def": "机场"
+  },
+  "flight": {
+   "def": "航班"
+  },
+  "hotel": {
+   "def": "酒店"
+  },
+  "restaurant": {
+   "def": "餐厅"
+  },
+  "bus": {
+   "def": "公交车"
+  },
+  "way": {
+   "def": "路；方式"
+  },
+  "weather": {
+   "def": "天气"
+  },
+  "window": {
+   "def": "窗户"
+  },
+  "news": {
+   "def": "新闻"
+  },
+  "opinion": {
+   "def": "看法"
+  },
+  "version": {
+   "def": "版本"
+  },
+  "feature": {
+   "def": "功能"
+  },
+  "rule": {
+   "def": "规则"
+  },
+  "security": {
+   "def": "安全"
+  },
+  "alert": {
+   "def": "警报"
+  },
+  "dependency": {
+   "def": "依赖"
+  },
+  "contributor": {
+   "def": "贡献者"
+  },
+  "respect": {
+   "def": "尊重"
+  },
+  "claim": {
+   "def": "说法"
+  },
+  "source": {
+   "def": "来源"
+  },
+  "link": {
+   "def": "链接"
+  },
+  "discussion": {
+   "def": "讨论"
+  },
+  "idea": {
+   "def": "想法"
+  },
+  "says": {
+   "lemma": "say"
+  },
+  "asks": {
+   "lemma": "ask"
+  },
+  "answers": {
+   "lemma": "answer"
+  },
+  "helps": {
+   "lemma": "help"
+  },
+  "checks": {
+   "lemma": "check"
+  },
+  "fixes": {
+   "lemma": "fix"
+  },
+  "learns": {
+   "lemma": "learn"
+  },
+  "shows": {
+   "lemma": "show"
+  },
+  "smiles": {
+   "lemma": "smile"
+  },
+  "explains": {
+   "lemma": "explain"
+  },
+  "records": {
+   "lemma": "record"
+  },
+  "finishes": {
+   "lemma": "finish"
+  },
+  "starts": {
+   "lemma": "start"
+  },
+  "leaves": {
+   "lemma": "leave"
+  },
+  "joins": {
+   "lemma": "join"
+  },
+  "merges": {
+   "lemma": "merge"
+  },
+  "pushes": {
+   "lemma": "push"
+  },
+  "pulls": {
+   "lemma": "pull"
+  },
+  "reviews": {
+   "lemma": "review"
+  },
+  "tests": {
+   "lemma": "test"
+  },
+  "plans": {
+   "lemma": "plan"
+  },
+  "notes": {
+   "lemma": "note"
+  },
+  "tasks": {
+   "lemma": "task"
+  },
+  "steps": {
+   "lemma": "step"
+  },
+  "changes": {
+   "lemma": "change"
+  },
+  "results": {
+   "lemma": "result"
+  },
+  "users": {
+   "lemma": "user"
+  },
+  "days": {
+   "lemma": "day"
+  },
+  "weeks": {
+   "lemma": "week"
+  },
+  "meetings": {
+   "lemma": "meeting"
+  },
+  "questions": {
+   "lemma": "question"
+  },
+  "errors": {
+   "lemma": "error"
+  },
+  "writes": {
+   "lemma": "write"
+  },
+  "looks": {
+   "lemma": "look"
+  },
+  "points": {
+   "lemma": "point"
+  },
+  "sees": {
+   "lemma": "see"
+  },
+  "needs": {
+   "lemma": "need"
+  },
+  "understands": {
+   "lemma": "understand"
+  },
+  "uses": {
+   "lemma": "use"
+  },
+  "suggests": {
+   "lemma": "suggest"
+  },
+  "compares": {
+   "lemma": "compare"
+  },
+  "talks": {
+   "lemma": "talk"
+  },
+  "tries": {
+   "lemma": "try"
+  },
+  "reads": {
+   "lemma": "read"
+  },
+  "hears": {
+   "lemma": "hear"
+  },
+  "watches": {
+   "lemma": "watch"
+  },
+  "thinks": {
+   "lemma": "think"
+  },
+  "makes": {
+   "lemma": "make"
+  },
+  "feels": {
+   "lemma": "feel"
+  },
+  "meets": {
+   "lemma": "meet"
+  },
+  "keeps": {
+   "lemma": "keep"
+  },
+  "moves": {
+   "lemma": "move"
+  },
+  "decides": {
+   "lemma": "decide"
+  },
+  "confirms": {
+   "lemma": "confirm"
+  },
+  "discusses": {
+   "lemma": "discuss"
+  },
+  "documents": {
+   "lemma": "document"
+  },
+  "repeats": {
+   "lemma": "repeat"
+  },
+  "practises": {
+   "lemma": "practice"
+  },
+  "thanks": {
+   "lemma": "thank"
+  },
+  "orders": {
+   "lemma": "order"
+  },
+  "works": {
+   "lemma": "work"
+  },
+  "runs": {
+   "lemma": "run"
+  },
+  "hands": {
+   "lemma": "hand"
+  },
+  "minutes": {
+   "lemma": "minute"
+  },
+  "commits": {
+   "lemma": "commit"
+  },
+  "branches": {
+   "lemma": "branch"
+  },
+  "issues": {
+   "lemma": "issue"
+  },
+  "labels": {
+   "lemma": "label"
   }
  }
 }

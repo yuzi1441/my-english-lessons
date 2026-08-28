@@ -1,38 +1,39 @@
 {
  "meta": {
-  "title": "Day 5: Alex's My First Week",
-  "title_zh": "第 5 天：Alex 的入门故事",
+  "title": "Day 5: Push and Pull",
+  "title_zh": "第 5 天：推送与拉取",
   "source": "Vocabulary Month · Day 5",
   "url": "",
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 259,
+   "word_count": 151,
    "segment_count": 3,
-   "difficulty": "入门故事 · 词汇主线",
+   "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
-   "main_practice": "先听故事 · 再跟读 · 最后替换成自己的经历",
+   "main_practice": "听短句 · 跟读 · 替换成自己的话",
    "value_points": [
-    "当天 18 个词汇都进入 Alex 的故事",
+    "当天 18 个词汇全部进入故事正文",
     "输入、处理与输出 × 点餐 × 远程同步",
-    "30 秒口语输出"
+    "入门短句 · 语速与句长随天数递增"
    ],
-   "suggested_pace": "先猜大意 · 听读 2 遍 · 遮住中文复述 · 完成输出任务"
+   "suggested_pace": "先盲听 · 逐句跟读 · 看着中文说出英文"
   }
  },
  "voice": {
   "engine": "edge",
   "voice": "en-US-AndrewNeural",
-  "rate": "-8%",
-  "speed": 0.92
+  "rate": "-22%",
+  "speed": 0.82
  },
  "segments": [
   {
    "id": "seg-01",
-   "en": "It is day 5. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"input\" and \"process data\" for a small task. During our chat, she says \"I'd like to order ...\" and \"Could I have ...?\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"push changes\" and \"pull changes\". The task is small, but I understand a little more than yesterday.",
-   "tts": "It is day 5. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"input\" and \"process data\" for a small task. During our chat, she says \"I'd like to order ...\" and \"Could I have ...?\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"push changes\" and \"pull changes\". The task is small, but I understand a little more than yesterday.",
-   "audio_file": "audio/seg-01.m4a",
-   "zh": "第 5 天，Alex 仍是团队新人。因为 Alex 是新人，所以团队使用短句。早上，Maria 帮我在一个小任务中使用输入、处理数据。聊天时，她说：“我想点……、我可以要……吗。”我清楚回答，并问了一个简短的问题。午饭后，我和团队在 GitHub 上工作，练习推送更改、拉取更改。任务很小，但我比昨天多理解了一点。",
+   "spk": "Alex",
+   "en": "My branch is ready. Today I push it to the team's server. I point to the input. I process data. I push changes slowly. Now I can pull changes. I say the new pattern twice: I'd like to order ... Leo asks, \"Could I have ...?\" I feel good today.",
+   "tts": "My branch is ready. Today I push it to the team's server. I point to the input. I process data. I push changes slowly. Now I can pull changes. I say the new pattern twice: I'd like to order  Leo asks, \"Could I have ?\" I feel good today.",
+   "audio_file": "audio/seg-01.mp3",
+   "zh": "我的分支准备好了。今天我把它推送到团队的服务器上。我指着输入。我处理数据。我慢慢推送更改。现在我会拉取更改了。我把新句型读了两遍：我想点……Leo问：\"我可以要……吗？\"我今天感觉很好。",
    "hard": [
     {
      "w": "input",
@@ -41,41 +42,42 @@
     },
     {
      "w": "process data",
-     "type": "idiom",
+     "type": "term",
      "def": "处理数据，按照规则改变或分析数据"
     },
     {
      "w": "I'd like to order ...",
-     "type": "idiom",
+     "type": "term",
      "def": "我想点……"
     },
     {
      "w": "Could I have ...?",
-     "type": "idiom",
+     "type": "term",
      "def": "我可以要……吗？"
     },
     {
      "w": "push changes",
-     "type": "idiom",
+     "type": "term",
      "def": "推送更改，把本地提交发送到远程仓库"
     },
     {
      "w": "pull changes",
-     "type": "idiom",
+     "type": "term",
      "def": "拉取更改，取得并合并远程的新提交"
     }
    ]
   },
   {
    "id": "seg-02",
-   "en": "It is day 5. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"output value\" and \"function\" for a small task. During our chat, she says \"What do you recommend?\" and \"No ice, please.\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"fetch updates\" and \"origin remote\". The task is small, but I understand a little more than yesterday.",
-   "tts": "It is day 5. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"output value\" and \"function\" for a small task. During our chat, she says \"What do you recommend?\" and \"No ice, please.\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"fetch updates\" and \"origin remote\". The task is small, but I understand a little more than yesterday.",
-   "audio_file": "audio/seg-02.m4a",
-   "zh": "第 5 天，Alex 仍是团队新人。因为 Alex 是新人，所以团队使用短句。早上，Maria 帮我在一个小任务中使用输出值、函数。聊天时，她说：“你推荐什么、请不要加冰。”我清楚回答，并问了一个简短的问题。午饭后，我和团队在 GitHub 上工作，练习获取更新、origin 远程。任务很小，但我比昨天多理解了一点。",
+   "spk": "Alex",
+   "en": "The team orders lunch together, and I order too. Maria smiles and says, \"What do you recommend?\" I answer, \"No ice, please.\" This is the output value. I see the function. I try to fetch updates. Maria shows me the origin remote. I learn one new thing.",
+   "tts": "The team orders lunch together, and I order too. Maria smiles and says, \"What do you recommend?\" I answer, \"No ice, please.\" This is the output value. I see the function. I try to fetch updates. Maria shows me the origin remote. I learn one new thing.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "团队一起点午餐，我也点了。Maria微笑着说：\"你推荐什么？\"我回答：\"请不要加冰。\"这是输出值。我看到了函数。我试着获取更新。Maria 给我看了origin 远程。我学到了一件新东西。",
    "hard": [
     {
      "w": "output value",
-     "type": "idiom",
+     "type": "term",
      "def": "输出值，程序处理后返回的结果"
     },
     {
@@ -85,32 +87,33 @@
     },
     {
      "w": "What do you recommend?",
-     "type": "idiom",
+     "type": "term",
      "def": "你推荐什么？"
     },
     {
      "w": "No ice, please.",
-     "type": "idiom",
+     "type": "term",
      "def": "请不要加冰。"
     },
     {
      "w": "fetch updates",
-     "type": "idiom",
+     "type": "term",
      "def": "获取更新，只下载远程信息而暂不合并"
     },
     {
      "w": "origin remote",
-     "type": "idiom",
+     "type": "term",
      "def": "origin 远程，克隆仓库时默认的远程名称"
     }
    ]
   },
   {
    "id": "seg-03",
-   "en": "It is day 5. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"parameter\" and \"return value\" for a small task. During our chat, she says \"Could we have the bill?\" and \"Is service included?\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"upstream remote\" and \"sync with remote\". The task is small, but I understand a little more than yesterday.",
-   "tts": "It is day 5. Alex is still new on the team. Alex is new, so the team uses short sentences. In the morning, Maria helps me use the \"parameter\" and \"return value\" for a small task. During our chat, she says \"Could we have the bill?\" and \"Is service included?\". I answer clearly and ask one short question. After lunch, I work with the team on GitHub and practise \"upstream remote\" and \"sync with remote\". The task is small, but I understand a little more than yesterday.",
-   "audio_file": "audio/seg-03.m4a",
-   "zh": "第 5 天，Alex 仍是团队新人。因为 Alex 是新人，所以团队使用短句。早上，Maria 帮我在一个小任务中使用参数、返回值。聊天时，她说：“可以给我们账单吗、包含服务费吗。”我清楚回答，并问了一个简短的问题。午饭后，我和团队在 GitHub 上工作，练习upstream 远程、与远程同步。任务很小，但我比昨天多理解了一点。",
+   "spk": "Alex",
+   "en": "Before I leave, I do one last thing. I point to the upstream remote. I sync with remote. This is the parameter. I see the return value. Leo says, \"Could we have the bill?\" and I say, \"Is service included?\" I pull the team's new code before I leave. We are in sync now.",
+   "tts": "Before I leave, I do one last thing. I point to the upstream remote. I sync with remote. This is the parameter. I see the return value. Leo says, \"Could we have the bill?\" and I say, \"Is service included?\" I pull the team's new code before I leave. We are in sync now.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "离开前，我做最后一件事。我指着upstream 远程。我与远程同步。这是参数。我看到了返回值。Leo说：\"可以给我们账单吗？\"我说：\"包含服务费吗？\"离开前，我拉取了团队的新代码。我们同步了。",
    "hard": [
     {
      "w": "parameter",
@@ -119,27 +122,27 @@
     },
     {
      "w": "return value",
-     "type": "idiom",
+     "type": "term",
      "def": "返回值，函数完成后交回的结果"
     },
     {
      "w": "Could we have the bill?",
-     "type": "idiom",
+     "type": "term",
      "def": "可以给我们账单吗？"
     },
     {
      "w": "Is service included?",
-     "type": "idiom",
+     "type": "term",
      "def": "包含服务费吗？"
     },
     {
      "w": "upstream remote",
-     "type": "idiom",
+     "type": "term",
      "def": "upstream 远程，通常指原始项目的远程仓库"
     },
     {
      "w": "sync with remote",
-     "type": "idiom",
+     "type": "term",
      "def": "与远程同步，让本地和远程进度保持一致"
     }
    ]
@@ -148,57 +151,57 @@
  "chunks": [
   {
    "t": "input",
-   "cn": "输入，程序接收到的数据",
+   "cn": "输入",
    "eg": "I learned how to use \"input\" in a computer task."
   },
   {
-   "t": "process data",
-   "cn": "处理数据，按照规则改变或分析数据",
-   "eg": "I learned how to use \"process data\" in a computer task."
-  },
-  {
-   "t": "output value",
-   "cn": "输出值，程序处理后返回的结果",
-   "eg": "I learned how to use \"output value\" in a computer task."
-  },
-  {
    "t": "function",
-   "cn": "函数，可以重复调用的一组指令",
+   "cn": "函数",
    "eg": "I learned how to use \"function\" in a computer task."
   },
   {
-   "t": "parameter",
-   "cn": "参数，函数定义中接收输入的名字",
-   "eg": "I learned how to use \"parameter\" in a computer task."
+   "t": "I'd like to order ...",
+   "cn": "我想点……",
+   "eg": "I'd like to order ..."
   },
   {
-   "t": "return value",
-   "cn": "返回值，函数完成后交回的结果",
-   "eg": "I learned how to use \"return value\" in a computer task."
+   "t": "No ice, please.",
+   "cn": "请不要加冰。",
+   "eg": "No ice, please."
+  },
+  {
+   "t": "push changes",
+   "cn": "推送更改",
+   "eg": "Our team uses \"push changes\" to keep the project clear."
+  },
+  {
+   "t": "origin remote",
+   "cn": "origin 远程",
+   "eg": "Our team uses \"origin remote\" to keep the project clear."
   }
  ],
  "patterns": [
   {
-   "t": "I am new on the team.",
-   "cn": "我是团队里的新人。"
+   "t": "I see the X.",
+   "cn": "我看到了 X。"
   },
   {
-   "t": "I need to X.",
-   "cn": "我需要做 X。"
+   "t": "This is X.",
+   "cn": "这是 X。"
   },
   {
-   "t": "I feel ready for the next step.",
-   "cn": "我准备好进行下一步了。"
+   "t": "Now I can X.",
+   "cn": "现在我会 X 了。"
   }
  ],
  "transfer_tasks": [
   {
-   "genre": "standup_update",
-   "task": "Use any three Day 5 vocabulary items. Retell Alex's situation in your own words, then say what you did, what was difficult, and what you will do next.",
+   "genre": "pr_description",
+   "task": "Use any three Day 5 vocabulary items. Retell Alex's story in your own words, then say what you did, what was difficult, and what you will do next.",
    "hint_chunks": [
     "input",
-    "process data",
-    "output value"
+    "function",
+    "I'd like to order ..."
    ]
   }
  ],
@@ -211,6 +214,852 @@
   },
   "parameter": {
    "def": "参数，函数定义中接收输入的名字"
+  },
+  "team": {
+   "def": "团队，一起工作的一群人"
+  },
+  "meeting": {
+   "def": "会议"
+  },
+  "morning": {
+   "def": "早上"
+  },
+  "afternoon": {
+   "def": "下午"
+  },
+  "evening": {
+   "def": "晚上"
+  },
+  "today": {
+   "def": "今天"
+  },
+  "tomorrow": {
+   "def": "明天"
+  },
+  "yesterday": {
+   "def": "昨天"
+  },
+  "lunch": {
+   "def": "午餐"
+  },
+  "dinner": {
+   "def": "晚餐"
+  },
+  "break": {
+   "def": "休息"
+  },
+  "week": {
+   "def": "周；星期"
+  },
+  "month": {
+   "def": "月"
+  },
+  "day": {
+   "def": "天；日子"
+  },
+  "time": {
+   "def": "时间"
+  },
+  "job": {
+   "def": "工作；职位"
+  },
+  "work": {
+   "def": "工作"
+  },
+  "task": {
+   "def": "任务"
+  },
+  "plan": {
+   "def": "计划"
+  },
+  "step": {
+   "def": "步骤"
+  },
+  "help": {
+   "def": "帮助"
+  },
+  "question": {
+   "def": "问题"
+  },
+  "answer": {
+   "def": "回答"
+  },
+  "advice": {
+   "def": "建议"
+  },
+  "note": {
+   "def": "笔记"
+  },
+  "history": {
+   "def": "历史；记录"
+  },
+  "change": {
+   "def": "改动；变化"
+  },
+  "result": {
+   "def": "结果"
+  },
+  "reason": {
+   "def": "原因"
+  },
+  "risk": {
+   "def": "风险"
+  },
+  "decision": {
+   "def": "决定"
+  },
+  "guide": {
+   "def": "指南"
+  },
+  "error": {
+   "def": "错误"
+  },
+  "bug": {
+   "def": "缺陷"
+  },
+  "fix": {
+   "def": "修复"
+  },
+  "check": {
+   "def": "检查"
+  },
+  "test": {
+   "def": "测试"
+  },
+  "review": {
+   "def": "评审；回顾"
+  },
+  "update": {
+   "def": "更新"
+  },
+  "release": {
+   "def": "发布；版本"
+  },
+  "server": {
+   "def": "服务器"
+  },
+  "user": {
+   "def": "用户"
+  },
+  "code": {
+   "def": "代码"
+  },
+  "project": {
+   "def": "项目"
+  },
+  "computer": {
+   "def": "电脑"
+  },
+  "screen": {
+   "def": "屏幕"
+  },
+  "desk": {
+   "def": "桌子"
+  },
+  "office": {
+   "def": "办公室"
+  },
+  "friend": {
+   "def": "朋友"
+  },
+  "teammate": {
+   "def": "队友"
+  },
+  "mentor": {
+   "def": "导师"
+  },
+  "leader": {
+   "def": "组长"
+  },
+  "happy": {
+   "def": "开心的"
+  },
+  "tired": {
+   "def": "累的"
+  },
+  "nervous": {
+   "def": "紧张的"
+  },
+  "ready": {
+   "def": "准备好的"
+  },
+  "kind": {
+   "def": "友善的"
+  },
+  "clear": {
+   "def": "清楚的"
+  },
+  "careful": {
+   "def": "仔细的"
+  },
+  "safe": {
+   "def": "安全的"
+  },
+  "new": {
+   "def": "新的"
+  },
+  "first": {
+   "def": "第一"
+  },
+  "last": {
+   "def": "最后的"
+  },
+  "next": {
+   "def": "下一个"
+  },
+  "small": {
+   "def": "小的"
+  },
+  "big": {
+   "def": "大的"
+  },
+  "short": {
+   "def": "短的"
+  },
+  "long": {
+   "def": "长的"
+  },
+  "learn": {
+   "def": "学习"
+  },
+  "teach": {
+   "def": "教"
+  },
+  "practice": {
+   "def": "练习"
+  },
+  "repeat": {
+   "def": "重复"
+  },
+  "listen": {
+   "def": "听"
+  },
+  "smile": {
+   "def": "微笑"
+  },
+  "ask": {
+   "def": "问；请求"
+  },
+  "say": {
+   "def": "说"
+  },
+  "show": {
+   "def": "展示"
+  },
+  "explain": {
+   "def": "解释"
+  },
+  "record": {
+   "def": "记录"
+  },
+  "finish": {
+   "def": "完成"
+  },
+  "start": {
+   "def": "开始"
+  },
+  "leave": {
+   "def": "离开"
+  },
+  "arrive": {
+   "def": "到达"
+  },
+  "join": {
+   "def": "加入"
+  },
+  "merge": {
+   "def": "合并"
+  },
+  "push": {
+   "def": "推送"
+  },
+  "pull": {
+   "def": "拉取"
+  },
+  "commit": {
+   "def": "提交"
+  },
+  "branch": {
+   "def": "分支"
+  },
+  "deploy": {
+   "def": "部署"
+  },
+  "rollback": {
+   "def": "回滚"
+  },
+  "pipeline": {
+   "def": "流水线"
+  },
+  "maria": {
+   "def": "Maria，Alex 的导师"
+  },
+  "leo": {
+   "def": "Leo，Alex 的队友"
+  },
+  "priya": {
+   "def": "Priya，Alex 的队友"
+  },
+  "alex": {
+   "def": "Alex，本课主角"
+  },
+  "one": {
+   "def": "一；一个"
+  },
+  "two": {
+   "def": "两；二"
+  },
+  "write": {
+   "def": "写"
+  },
+  "now": {
+   "def": "现在"
+  },
+  "look": {
+   "def": "看"
+  },
+  "twice": {
+   "def": "两次"
+  },
+  "reply": {
+   "def": "回答"
+  },
+  "lot": {
+   "def": "许多"
+  },
+  "pattern": {
+   "def": "句型；模式"
+  },
+  "good": {
+   "def": "好的"
+  },
+  "later": {
+   "def": "稍后"
+  },
+  "point": {
+   "def": "指；要点"
+  },
+  "see": {
+   "def": "看见"
+  },
+  "need": {
+   "def": "需要"
+  },
+  "understand": {
+   "def": "理解"
+  },
+  "use": {
+   "def": "使用"
+  },
+  "depends": {
+   "def": "取决于"
+  },
+  "fails": {
+   "def": "失败"
+  },
+  "summary": {
+   "def": "总结"
+  },
+  "around": {
+   "def": "围绕；大约"
+  },
+  "discuss": {
+   "def": "讨论"
+  },
+  "document": {
+   "def": "记录成文档"
+  },
+  "suggest": {
+   "def": "建议"
+  },
+  "thing": {
+   "def": "事情"
+  },
+  "talk": {
+   "def": "交谈"
+  },
+  "compare": {
+   "def": "比较"
+  },
+  "detail": {
+   "def": "细节"
+  },
+  "agrees": {
+   "def": "同意"
+  },
+  "chat": {
+   "def": "聊天"
+  },
+  "try": {
+   "def": "尝试"
+  },
+  "learned": {
+   "def": "学到的"
+  },
+  "becomes": {
+   "def": "变得"
+  },
+  "standup": {
+   "def": "站会"
+  },
+  "ends": {
+   "def": "结束"
+  },
+  "confirm": {
+   "def": "确认"
+  },
+  "feel": {
+   "def": "感觉"
+  },
+  "gives": {
+   "def": "给"
+  },
+  "read": {
+   "def": "读"
+  },
+  "meet": {
+   "def": "见面"
+  },
+  "busy": {
+   "def": "忙碌的"
+  },
+  "little": {
+   "def": "一点；小的"
+  },
+  "story": {
+   "def": "故事"
+  },
+  "tells": {
+   "def": "告诉"
+  },
+  "useful": {
+   "def": "有用的"
+  },
+  "smaller": {
+   "def": "更小的"
+  },
+  "build": {
+   "def": "构建"
+  },
+  "clearly": {
+   "def": "清楚地"
+  },
+  "end": {
+   "def": "结尾"
+  },
+  "full": {
+   "def": "完整的"
+  },
+  "hear": {
+   "def": "听到"
+  },
+  "carefully": {
+   "def": "认真地"
+  },
+  "watch": {
+   "def": "观察"
+  },
+  "problem": {
+   "def": "问题"
+  },
+  "continue": {
+   "def": "继续"
+  },
+  "easy": {
+   "def": "容易的"
+  },
+  "going": {
+   "def": "going to 表将要"
+  },
+  "keep": {
+   "def": "保持"
+  },
+  "part": {
+   "def": "部分"
+  },
+  "slowly": {
+   "def": "慢慢地"
+  },
+  "make": {
+   "def": "制作"
+  },
+  "together": {
+   "def": "一起"
+  },
+  "home": {
+   "def": "家"
+  },
+  "friday": {
+   "def": "周五"
+  },
+  "table": {
+   "def": "桌子；表格"
+  },
+  "think": {
+   "def": "想"
+  },
+  "decide": {
+   "def": "决定"
+  },
+  "move": {
+   "def": "前进；移动"
+  },
+  "calm": {
+   "def": "从容的"
+  },
+  "sound": {
+   "def": "听起来"
+  },
+  "program": {
+   "def": "程序"
+  },
+  "late": {
+   "def": "迟的"
+  },
+  "included": {
+   "def": "包含在内"
+  },
+  "take": {
+   "def": "拿；采取"
+  },
+  "know": {
+   "def": "知道"
+  },
+  "back": {
+   "def": "回来；向后"
+  },
+  "monday": {
+   "def": "周一"
+  },
+  "road": {
+   "def": "路"
+  },
+  "chat program": {
+   "def": "聊天程序"
+  },
+  "dashboard": {
+   "def": "仪表盘"
+  },
+  "fire drill": {
+   "def": "消防演习"
+  },
+  "pharmacy": {
+   "def": "药店"
+  },
+  "medicine": {
+   "def": "药"
+  },
+  "bank": {
+   "def": "银行"
+  },
+  "charge": {
+   "def": "扣款"
+  },
+  "package": {
+   "def": "包裹"
+  },
+  "customer service": {
+   "def": "客服"
+  },
+  "deadline": {
+   "def": "截止时间"
+  },
+  "extension": {
+   "def": "延期"
+  },
+  "trade-offs": {
+   "def": "取舍"
+  },
+  "option": {
+   "def": "选项"
+  },
+  "presenter": {
+   "def": "介绍人"
+  },
+  "presentation": {
+   "def": "介绍；演示"
+  },
+  "menu": {
+   "def": "菜单"
+  },
+  "price": {
+   "def": "价格"
+  },
+  "notebook": {
+   "def": "笔记本"
+  },
+  "airport": {
+   "def": "机场"
+  },
+  "flight": {
+   "def": "航班"
+  },
+  "hotel": {
+   "def": "酒店"
+  },
+  "restaurant": {
+   "def": "餐厅"
+  },
+  "bus": {
+   "def": "公交车"
+  },
+  "way": {
+   "def": "路；方式"
+  },
+  "weather": {
+   "def": "天气"
+  },
+  "window": {
+   "def": "窗户"
+  },
+  "news": {
+   "def": "新闻"
+  },
+  "opinion": {
+   "def": "看法"
+  },
+  "version": {
+   "def": "版本"
+  },
+  "feature": {
+   "def": "功能"
+  },
+  "rule": {
+   "def": "规则"
+  },
+  "security": {
+   "def": "安全"
+  },
+  "alert": {
+   "def": "警报"
+  },
+  "dependency": {
+   "def": "依赖"
+  },
+  "contributor": {
+   "def": "贡献者"
+  },
+  "respect": {
+   "def": "尊重"
+  },
+  "claim": {
+   "def": "说法"
+  },
+  "source": {
+   "def": "来源"
+  },
+  "link": {
+   "def": "链接"
+  },
+  "discussion": {
+   "def": "讨论"
+  },
+  "idea": {
+   "def": "想法"
+  },
+  "says": {
+   "lemma": "say"
+  },
+  "asks": {
+   "lemma": "ask"
+  },
+  "answers": {
+   "lemma": "answer"
+  },
+  "helps": {
+   "lemma": "help"
+  },
+  "checks": {
+   "lemma": "check"
+  },
+  "fixes": {
+   "lemma": "fix"
+  },
+  "learns": {
+   "lemma": "learn"
+  },
+  "shows": {
+   "lemma": "show"
+  },
+  "smiles": {
+   "lemma": "smile"
+  },
+  "explains": {
+   "lemma": "explain"
+  },
+  "records": {
+   "lemma": "record"
+  },
+  "finishes": {
+   "lemma": "finish"
+  },
+  "starts": {
+   "lemma": "start"
+  },
+  "leaves": {
+   "lemma": "leave"
+  },
+  "joins": {
+   "lemma": "join"
+  },
+  "merges": {
+   "lemma": "merge"
+  },
+  "pushes": {
+   "lemma": "push"
+  },
+  "pulls": {
+   "lemma": "pull"
+  },
+  "reviews": {
+   "lemma": "review"
+  },
+  "tests": {
+   "lemma": "test"
+  },
+  "plans": {
+   "lemma": "plan"
+  },
+  "notes": {
+   "lemma": "note"
+  },
+  "tasks": {
+   "lemma": "task"
+  },
+  "steps": {
+   "lemma": "step"
+  },
+  "changes": {
+   "lemma": "change"
+  },
+  "results": {
+   "lemma": "result"
+  },
+  "users": {
+   "lemma": "user"
+  },
+  "days": {
+   "lemma": "day"
+  },
+  "weeks": {
+   "lemma": "week"
+  },
+  "meetings": {
+   "lemma": "meeting"
+  },
+  "questions": {
+   "lemma": "question"
+  },
+  "errors": {
+   "lemma": "error"
+  },
+  "writes": {
+   "lemma": "write"
+  },
+  "looks": {
+   "lemma": "look"
+  },
+  "points": {
+   "lemma": "point"
+  },
+  "sees": {
+   "lemma": "see"
+  },
+  "needs": {
+   "lemma": "need"
+  },
+  "understands": {
+   "lemma": "understand"
+  },
+  "uses": {
+   "lemma": "use"
+  },
+  "suggests": {
+   "lemma": "suggest"
+  },
+  "compares": {
+   "lemma": "compare"
+  },
+  "talks": {
+   "lemma": "talk"
+  },
+  "tries": {
+   "lemma": "try"
+  },
+  "reads": {
+   "lemma": "read"
+  },
+  "hears": {
+   "lemma": "hear"
+  },
+  "watches": {
+   "lemma": "watch"
+  },
+  "thinks": {
+   "lemma": "think"
+  },
+  "makes": {
+   "lemma": "make"
+  },
+  "feels": {
+   "lemma": "feel"
+  },
+  "meets": {
+   "lemma": "meet"
+  },
+  "keeps": {
+   "lemma": "keep"
+  },
+  "moves": {
+   "lemma": "move"
+  },
+  "decides": {
+   "lemma": "decide"
+  },
+  "confirms": {
+   "lemma": "confirm"
+  },
+  "discusses": {
+   "lemma": "discuss"
+  },
+  "documents": {
+   "lemma": "document"
+  },
+  "repeats": {
+   "lemma": "repeat"
+  },
+  "practises": {
+   "lemma": "practice"
+  },
+  "thanks": {
+   "lemma": "thank"
+  },
+  "orders": {
+   "lemma": "order"
+  },
+  "works": {
+   "lemma": "work"
+  },
+  "runs": {
+   "lemma": "run"
+  },
+  "hands": {
+   "lemma": "hand"
+  },
+  "minutes": {
+   "lemma": "minute"
+  },
+  "commits": {
+   "lemma": "commit"
+  },
+  "branches": {
+   "lemma": "branch"
+  },
+  "issues": {
+   "lemma": "issue"
+  },
+  "labels": {
+   "lemma": "label"
   }
  }
 }
