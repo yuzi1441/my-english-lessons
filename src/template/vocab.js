@@ -10,6 +10,50 @@
   const now = () => Date.now();
   let view = "due";
   let sourceFilter = "all";
+  let leechOnly = false;
+  const LEECH_LAPSES = 5; // Anki 默认 8 次挂起；我们词量小、词都必学，5 次即标记并引导换学法
+
+  function lapseCount(item) {
+    return Review.lapseCount ? Review.lapseCount(item) : (item?.reviewLog || []).filter(e => e && e.rating === "again").length;
+  }
+
+  function isLeech(item) {
+    return lapseCount(item) >= LEECH_LAPSES;
+  }
+
+  // review cards link back to the day page where the word appeared in the story
+  function originalContextLink(item) {
+    const lesson = (item?.lessons || []).map(l => /Day\s+(\d+)/.exec(String(l))).find(Boolean);
+    if (!lesson) return "";
+    const day = Number(lesson[1]);
+    if (!day || day < 1) return "";
+    return `<a class="review-context-link" href="day-${String(day).padStart(3, "0")}/index.html">回原文 · Day ${day} ↗</a>`;
+  }
+
+  function exportNotebook() {
+    const blob = new Blob([JSON.stringify(entries, null, 1)], { type: "application/json" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `vocab-backup-${new Date().toISOString().slice(0, 10)}.json`;
+    a.click();
+    URL.revokeObjectURL(a.href);
+    toast(`已导出 ${entries.length} 个词（含记忆状态）`);
+  }
+
+  async function importNotebook(file) {
+    try {
+      const data = JSON.parse(await file.text());
+      if (!Array.isArray(data)) throw new Error("格式应为 JSON 数组");
+      const before = entries.length;
+      entries = mergeItems(entries, data);
+      save(entries);
+      render();
+      syncCloud();
+      toast(`已合并导入 ${data.length} 条，生词本 ${before} → ${entries.length} 个词`);
+    } catch (err) {
+      toast(`导入失败：${err.message || "文件无法解析"}`);
+    }
+  }
   let account = null;
   let authMode = "login";
   let syncPromise = Promise.resolve();
@@ -319,7 +363,8 @@
     const source = sourceLabel(Review.sourceKey(item));
     const audio = prompt.mode === "audio" ? `<button class="review-audio" data-vocab-speak="${esc(item.speech || item.word)}" data-vocab-audio="${esc(item.audioTerm || "")}">🔊 播放发音</button>` : "";
     return `<article class="vocab-item recall-card is-due" data-review-card="${esc(item.word)}">
-      <div class="recall-card-head"><span class="recall-mode">${prompt.label}</span><span class="recall-source">${source}</span><span class="vocab-due due">${timeLabel(item.nextReview)}</span></div>
+      <div class="recall-card-head"><span class="recall-mode">${prompt.label}</span><span class="recall-source">${source}</span>${isLeech(item) ? '<span class="leech-tag">顽固</span>' : ""}<span class="vocab-due due">${timeLabel(item.nextReview)}</span></div>
+      <div class="recall-context">${originalContextLink(item) || '<span class="review-context-link" style="color:#999">无原文记录</span>'}${isLeech(item) ? '<span class="review-context-link" style="color:#b3261e">顽固词：回原文重读当天段落，或手抄例句换个记法</span>' : ""}</div>
       <p class="recall-instruction">${prompt.instruction}</p>
       ${audio || `<div class="recall-prompt">${esc(prompt.prompt)}</div>`}
       <label class="recall-input"><span>我的答案（可选）</span><input type="text" autocomplete="off" spellcheck="false" placeholder="先说出来或写下来，再揭晓"></label>
@@ -343,7 +388,7 @@
     return `<article class="vocab-item${item.status === "known" ? " known" : ""}${due ? " is-due" : ""}">
       <div class="vocab-item-head">
         <div>
-          <div class="vocab-title-row"><span class="vocab-word">${esc(item.word)}</span><button class="vocab-speak" data-vocab-speak="${esc(item.speech || item.word)}" data-vocab-audio="${esc(item.audioTerm || "")}" aria-label="播放 ${esc(item.word)} 的发音">🔊 发音</button><span class="pop-type ${esc(item.type || "word")}">${type}</span></div>
+          <div class="vocab-title-row"><span class="vocab-word">${esc(item.word)}</span><button class="vocab-speak" data-vocab-speak="${esc(item.speech || item.word)}" data-vocab-audio="${esc(item.audioTerm || "")}" aria-label="播放 ${esc(item.word)} 的发音">🔊 发音</button><span class="pop-type ${esc(item.type || "word")}">${type}</span>${isLeech(item) ? '<span class="leech-tag">顽固</span>' : ""}</div>
           ${item.ipa ? `<div class="vocab-ipa">${esc(item.ipa)}</div>` : ""}
         </div>
         <div class="vocab-card-state"><span class="vocab-due ${due ? "due" : ""}">${timeLabel(item.nextReview)}</span><small>${knownLabel}</small></div>
@@ -369,6 +414,7 @@
       const haystack = [item.word, item.def, item.note, item.lessons?.join(" "), item.examples?.join(" "), item.related?.join(" ")].join(" ").toLowerCase();
       if (query && !haystack.includes(query)) return false;
       if (sourceFilter !== "all" && Review.sourceKey(item) !== sourceFilter) return false;
+      if (leechOnly && !isLeech(item)) return false;
       if (view === "due") return isDue(item);
       if (view === "learning") return item.status !== "known";
       if (view === "known") return item.status === "known";
@@ -452,6 +498,18 @@
   $("#vocabSearch").addEventListener("input", render);
   $("#vocabSort").addEventListener("change", render);
   $("#vocabSource").addEventListener("change", event => { sourceFilter = event.target.value; render(); });
+  $("#leechOnly").addEventListener("click", event => {
+    leechOnly = !leechOnly;
+    event.target.classList.toggle("on", leechOnly);
+    render();
+  });
+  $("#vocabExport").addEventListener("click", exportNotebook);
+  $("#vocabImportBtn").addEventListener("click", () => $("#vocabImportFile").click());
+  $("#vocabImportFile").addEventListener("change", event => {
+    const file = event.target.files && event.target.files[0];
+    if (file) importNotebook(file);
+    event.target.value = "";
+  });
   $("#accountOpen").addEventListener("click", () => openAuth(account ? "login" : "login"));
   $("#accountLogout").addEventListener("click", async () => {
     try { await api("/api/auth/logout", { method: "POST", body: "{}" }); } catch { /* local mode remains usable */ }

@@ -51,6 +51,15 @@ test("legacy fixed-step records migrate without losing history", () => {
   assert.equal(item.reviewHistory.length, 1);
 });
 
+test("lapseCount sums forgot ratings for leech detection", () => {
+  const item = freshWord({ reviewLog: [
+    { at: NOW, rating: "again" },
+    { at: NOW + 600000, rating: "good" },
+    { at: NOW + 1200000, rating: "again" },
+  ] });
+  assert.equal(Review.lapseCount(item), 2);
+});
+
 test("today completion counts a word once even with multiple reviews", () => {
   const item = freshWord({ reviewLog: [
     { at: NOW, rating: "again" },

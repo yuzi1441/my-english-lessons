@@ -210,6 +210,11 @@
     return { mode, ...prompts[mode], answer: item.word, definition: item.def || "待补充释义" };
   }
 
+  // count of "again" (忘记) ratings across the review log; leech detection input
+  function lapseCount(item) {
+    return (item?.reviewLog || []).filter(entry => entry && entry.rating === "again").length;
+  }
+
   window.AdaptiveReview = {
     VERSION,
     TARGET_RETENTION,
@@ -224,5 +229,6 @@
     reviewMode,
     prompt,
     intervalLabel,
+    lapseCount,
   };
 })();

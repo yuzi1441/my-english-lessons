@@ -226,15 +226,26 @@
     toast(added ? `已将 ${item.term} 加入生词本` : `${item.term} 已在生词本中`);
   }
 
+  // reviews-first (Anki 共识)：积压越多，本次收的新词越少；单词卡添加不受限
+  function dueBacklog() {
+    return vocab.filter(item => Number(item.nextReview) <= Date.now()).length;
+  }
+
   function addDay(day) {
     const now = Date.now();
+    const backlog = dueBacklog();
+    const limit = backlog >= 80 ? 8 : backlog >= 40 ? 12 : Infinity;
+    const missing = allItems(day).filter(item => !vocabEntryFor(item.term));
     let added = 0;
-    allItems(day).forEach(item => {
+    missing.slice(0, limit).forEach(item => {
       if (upsertWord(item, day, now)) added += 1;
     });
     saveVocab();
     render();
-    toast(added ? `已加入 ${added} 个新词，今天开始记忆` : "今天的 18 个词已在生词本中");
+    if (backlog >= 80) toast(`复习积压 ${backlog} 个，本次只收 ${added} 个新词——建议先清复习`);
+    else if (backlog >= 40) toast(`复习积压 ${backlog} 个，本次只收 ${added} 个新词`);
+    else if (added) toast(`已加入 ${added} 个新词，今天开始记忆`);
+    else toast(missing.length ? "今天的 18 个词已在生词本中" : "今天的 18 个词已在生词本中");
   }
 
   function rateWord(word, rating) {
@@ -254,6 +265,11 @@
     if (completed.has(dayNumber)) completed.delete(dayNumber); else completed.add(dayNumber);
     progress.completed = Array.from(completed).sort((a, b) => a - b);
     writeJSON(PROGRESS_KEY, progress);
+    if (completed.has(dayNumber)) {
+      const dayData = course.days[dayNumber - 1];
+      const missing = allItems(dayData).filter(item => !vocabEntryFor(item.term)).length;
+      if (missing > 0) toast(`已标记完成 · 本日还有 ${missing} 个词未入生词本`);
+    }
     render();
   }
 
@@ -272,7 +288,7 @@
     const visible = due.slice(0, REVIEW_LIMIT);
     return `<section class="review-panel">
       <div class="review-head">
-        <div><h2>本课程今日到期 · ${due.length} 个</h2><p>先主动回忆再揭晓；FSRS 优先安排遗忘、困难和逾期词，每次最多 24 个。</p></div>
+        <div><h2>本课程今日到期 · ${due.length} 个</h2><p>先主动回忆再揭晓；FSRS 优先安排遗忘、困难和逾期词，每次最多 24 个。${due.length >= 40 ? '<b style="color:#b3261e">积压较多：建议先清复习，再收新词。</b>' : ''}</p></div>
         <button class="review-toggle" data-toggle-review>${reviewOpen ? "收起复习" : due.length ? `开始复习前 ${visible.length} 个` : "今天已完成"}</button>
       </div>
       <div class="review-list ${reviewOpen ? "" : "hidden"}">
@@ -285,8 +301,11 @@
     const prompt = Review.prompt(item);
     const preview = Review.preview(item);
     const audio = prompt.mode === "audio" ? `<button class="review-audio" data-speak="${esc(item.speech || item.word)}" data-audio="${esc(item.audioTerm || "")}">🔊 播放发音</button>` : `<strong class="review-prompt">${esc(prompt.prompt)}</strong>`;
+    const lesson = (item.lessons || []).map(l => /Day\s+(\d+)/.exec(String(l))).find(Boolean);
+    const contextLink = lesson ? `<a class="review-context-link" href="../day-${String(Number(lesson[1])).padStart(3, "0")}/index.html">回原文 · Day ${Number(lesson[1])} ↗</a>` : "";
+    const leechBadge = Review.lapseCount && Review.lapseCount(item) >= 5 ? '<span class="leech-tag">顽固</span>' : "";
     return `<article class="review-card recall-card" data-review-card="${esc(item.word)}">
-      <div class="review-mode">${prompt.label}</div>
+      <div class="review-mode">${prompt.label}${leechBadge}${contextLink}</div>
       <p>${esc(prompt.instruction)}</p>
       ${audio}
       <input class="review-input" type="text" autocomplete="off" spellcheck="false" placeholder="先说出来或写下来">
