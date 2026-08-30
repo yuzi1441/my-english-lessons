@@ -4,22 +4,72 @@
   const $ = (sel, root = document) => root.querySelector(sel);
   const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
 
+  // Course context is injected at build time; every course gets its own
+  // localStorage namespace and every day its own practice-state keys.
+  const COURSE = window.__COURSE__ || { id: "legacy", day: 0 };
+  const DAY_TAG = String(COURSE.day || 0).padStart(3, "0");
+  const courseKey = name => `ir:${COURSE.id}:${name}`;
+  const dayKey = name => `ir:${COURSE.id}:d${DAY_TAG}:${name}`;
+
   const KEYS = {
-    counts: "ir_counts",
-    out: "ir_out",
-    transfer: "ir_transfer",
-    week: "ir_week",
-    last: "ir_last",
-    basket: "ir_basket",
-    vocab: "ir_vocab_v1",
-    seen: "ir_seen_terms",
-    plays: "ir_plays",
-    rate: "ir_rate",
+    counts: dayKey("counts"),
+    out: dayKey("out"),
+    transfer: dayKey("transfer"),
+    week: courseKey("week"),
+    last: dayKey("last"),
+    basket: dayKey("basket"),
+    vocab: "ir_vocab_v1", // shared notebook across courses (deduped by word)
+    seen: courseKey("seen"),
+    plays: dayKey("plays"),
+    progress: courseKey("progress"),
+    rate: "ir_rate", // device-level prefs stay global
     // v2 resets the stale hidden-by-default preference from the first release.
     zh: "ir_zh_v3",
     fs: "ir_fs",
     voice: "ir_voice"
   };
+
+  // One-time migration: the pre-course build stored everything in global
+  // ir_* keys. Snapshot them for recovery, then carry what still makes sense
+  // (seen marks, weekly check-ins, the continue marker, last retell text)
+  // into this course's namespace.
+  function migrateLegacyState() {
+    if (localStorage.getItem("ir:migrated_v2")) return;
+    try {
+      const legacyNames = ["ir_counts", "ir_out", "ir_transfer", "ir_week", "ir_last", "ir_basket", "ir_seen_terms", "ir_plays"];
+      const backup = {};
+      legacyNames.forEach(name => {
+        const value = localStorage.getItem(name);
+        if (value !== null) backup[name] = value;
+      });
+      if (Object.keys(backup).length) {
+        localStorage.setItem("ir:legacy_backup_v2", JSON.stringify(backup));
+      }
+      const legacy = name => {
+        try { return backup[name] !== undefined ? JSON.parse(backup[name]) : null; } catch { return null; }
+      };
+      if (backup.ir_seen_terms && !localStorage.getItem(KEYS.seen)) localStorage.setItem(KEYS.seen, backup.ir_seen_terms);
+      if (backup.ir_week && !localStorage.getItem(KEYS.week)) localStorage.setItem(KEYS.week, backup.ir_week);
+      if (backup.ir_last && !localStorage.getItem(KEYS.last)) localStorage.setItem(KEYS.last, backup.ir_last);
+      if (backup.ir_out && !localStorage.getItem(KEYS.out)) localStorage.setItem(KEYS.out, backup.ir_out);
+      if (backup.ir_transfer && !localStorage.getItem(KEYS.transfer)) localStorage.setItem(KEYS.transfer, backup.ir_transfer);
+    } finally {
+      localStorage.setItem("ir:migrated_v2", String(Date.now()));
+    }
+  }
+  migrateLegacyState();
+
+  // Tell the course catalog that this day was opened.
+  function recordProgress() {
+    if (!COURSE.day) return;
+    const progress = readJSON(KEYS.progress, { visited: {}, lastDay: 0, lastTs: 0 });
+    progress.visited = progress.visited || {};
+    progress.visited[COURSE.day] = Date.now();
+    progress.lastDay = COURSE.day;
+    progress.lastTs = Date.now();
+    writeJSON(KEYS.progress, progress);
+  }
+  recordProgress();
 
   const TYPE_CN = { term: "术语", word: "生词", idiom: "搭配", chunk: "词块" };
 
@@ -204,6 +254,7 @@
   }
 
   function vocabDayNumber() {
+    if (COURSE.day) return Number(COURSE.day);
     const match = String(data?.meta?.source || "").match(/Day\s+(\d+)/i);
     return match ? Number(match[1]) : 0;
   }
@@ -258,7 +309,7 @@
       word: term,
       meaning: item.meaning,
       source: "vocabulary-month",
-      course: "30 天词汇课",
+      course: COURSE.id,
       domain: item.part,
       example: item.example,
       collocation: item.collocation,
@@ -1558,8 +1609,8 @@
   /* ---------- reset / navigation ---------- */
 
   function resetLesson() {
-    // ir_ui (旧图标发现性标记) 一并清掉, 兼容老页面残留
-    [KEYS.counts, KEYS.out, KEYS.transfer, KEYS.week, KEYS.last, KEYS.basket, KEYS.seen, KEYS.plays, "ir_ui"].forEach(key => localStorage.removeItem(key));
+    // per-day keys only: other days and the shared seen-marks stay untouched
+    [KEYS.counts, KEYS.out, KEYS.transfer, KEYS.last, KEYS.basket, KEYS.plays, "ir_ui"].forEach(key => localStorage.removeItem(key));
     location.reload();
   }
 

@@ -1,0 +1,1055 @@
+{
+ "month": 11,
+ "days": [
+  {
+   "computer": {
+    "topic": "架构评审入门",
+    "terms": [
+     "architecture review board|架构评审会，大改动的关口",
+     "design doc template|设计文档模板，想清楚再动手",
+     "trade off table|取舍对照表，优点缺点并排看",
+     "load bearing decision|承重决策，牵一发动全身",
+     "reversibility rating|可逆性评级，错了好不好退",
+     "architectural runway|架构跑道，支撑未来几步的地基"
+    ]
+   },
+   "daily": {
+    "topic": "老屋改造的功课",
+    "terms": [
+     "We check which walls carry load.|我们查哪些墙承重。",
+     "The old wiring gets a plan.|老旧线路有了改造计划。",
+     "Renovation budget has surprises.|装修预算总有惊喜。",
+     "We renovate one room at a time.|一次只翻新一间房。",
+     "The blueprint beats enthusiasm.|图纸胜过一时热情。",
+     "Old houses reward patience.|老房子回报耐心。"
+    ]
+   },
+   "github": {
+    "topic": "设计文档文化",
+    "terms": [
+     "design doc review ritual|设计文档评审仪式，动工前的集体思考",
+     "alternatives considered honestly|诚实考虑过的备选，落选也留名",
+     "consequences section first|后果段落前置，坏处先说",
+     "decision record discipline|决策记录纪律，散会即成文",
+     "architectureGuild office hours|架构公会答疑时间，大问题有人接",
+     "adr index by domain|按领域索引的决策记录，历史可查"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "单体与微服务抉择",
+    "terms": [
+     "monolith first strategy|单体优先策略，先跑起来再拆分",
+     "modular monolith|模块化单体，一屋多间的秩序",
+     "service extraction criteria|服务拆分标准，什么时候真该切",
+     "distributed system tax|分布式税，拆开后的新账单",
+     "data ownership boundary|数据归属边界，库也是领土",
+     "team cognitive load|团队认知负荷，架构要配人脑"
+    ]
+   },
+   "daily": {
+    "topic": "合租与独居的经济学",
+    "terms": [
+     "Flatmates split the rent but share the mess.|合租分摊房租也共享混乱。",
+     "House rules replace good intentions.|家规取代善意假设。",
+     "Solo living doubles the chores.|独居让家务翻倍。",
+     "The shared kitchen needed a scheduler.|共用厨房需要一个排班表。",
+     "Moving out has hidden moving costs.|搬出去有隐藏的搬家成本。",
+     "We chose rooms by noise, not size.|我们按噪音选房间不看面积。"
+    ]
+   },
+   "github": {
+    "topic": "拆分迁移实践",
+    "terms": [
+     "strangler fig migration plan|绞杀者迁移计划，新旧共存渐进替",
+     "branch by abstraction technique|抽象分支技法，并行实现稳切换",
+     "parallel run verification|并行运行验证，新旧结果对比",
+     "cutover checklist|切换检查清单，搬家的最后一查",
+     "rollback to monolith plan|回滚单体预案，拆错了能回家",
+     "service contract test suite|服务契约测试套件，拆开也要守约"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "事件驱动架构",
+    "terms": [
+     "event driven architecture|事件驱动架构，发生了就广播",
+     "eventual consistency mindset|最终一致心态，晚一点但一定到",
+     "idempotent consumer design|幂等消费者设计，重收不出乱",
+     "dead letter handling policy|死信处理策略，送不到的信怎么存",
+     "event schema registry|事件结构注册处，事件的户口本",
+     "outbox integration pattern|发件箱集成模式，先记账再寄信"
+    ]
+   },
+   "daily": {
+    "topic": "小区公告栏的学问",
+    "terms": [
+     "The notice board posts events, not commands.|公告栏播发事件不发号施令。",
+     "Interested residents subscribe themselves.|感兴趣的住户自己订阅。",
+     "Old flyers expire politely.|旧传单礼貌地过期。",
+     "Missed notices get re posted weekly.|错过的公告每周重贴。",
+     "The board never knocks on doors.|公告栏从不挨家敲门。",
+     "Everyone reads at their own pace.|大家按自己的节奏看。"
+    ]
+   },
+   "github": {
+    "topic": "事件治理",
+    "terms": [
+     "event naming registry|事件命名登记处，动词过去式统一",
+     "consumer lag monitoring|消费延迟监控，谁掉队看得见",
+     "schema evolution rules|事件结构演进规则，只加不改",
+     "replay safety checklist|回放安全清单，重放不重复扣款",
+     "event volume forecast doc|事件量预估文档，流量心中有数",
+     "poison message quarantine flow|毒消息隔离流程，坏信也有病房"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "API 契约治理",
+    "terms": [
+     "api contract first design|契约优先设计，先谈妥接口再写码",
+     "breaking change review board|破坏性变更评审会，断compat要过堂",
+     "version deprecation calendar|版本弃用日历，旧版退休有日期",
+     "consumer driven contract test|消费方驱动的契约测试，调用方说了算",
+     "api guideline enforcement lint|接口规范检查，风格自动把关",
+     "sdk generation pipeline|SDK 生成流水线，接口变客户端跟"
+    ]
+   },
+   "daily": {
+    "topic": "共享厨房的约定",
+    "terms": [
+     "The kitchen rules are contracts too.|厨房守则也是契约。",
+     "Label your food, claim your shelf.|贴上标签占有架子。",
+     "Expired unlabeled food is fair game.|过期无主食物大家处置。",
+     "New flatmates get the rules day one.|新室友第一天拿到守则。",
+     "Broken agreements get one conversation.|违约只谈一次。",
+     "Contracts make cohabitation boring, wonderfully.|契约让合住无聊得很美好。"
+    ]
+   },
+   "github": {
+    "topic": "接口演进工程",
+    "terms": [
+     "contract diff in ci|CI 里的契约差异检查，变更一目了然",
+     "mock server from spec|从规格生成模拟服务，前端不用等",
+     "api changelog automation|接口变更日志自动化，差异变公告",
+     "deprecation header rollout|弃用响应头推广，温和提醒调用方",
+     "breaking change escape hatch|破坏性变更特批流程，紧急也有门",
+     "consumer notification list|调用方通知清单，改接口先喊人"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "可扩展性设计",
+    "terms": [
+     "horizontal scaling readiness|水平扩展就绪度，加机器就能加容量",
+     "stateless request handling|无状态请求处理，谁接都一样",
+     "hot partition avoidance|热点分区规避，别让一个格挨打",
+     "back of envelope capacity math|信封背面的容量算术，粗算定方向",
+     "graceful overload behavior|优雅过载行为，挤爆也要体面",
+     "elastic limit definition|弹性上限定义，自动扩缩的天花板"
+    ]
+   },
+   "daily": {
+    "topic": "宴席桌数的算法",
+    "terms": [
+     "Guest list math beats gut feeling.|客数算术胜过拍脑袋。",
+     "The buffet scales better than plated dinners.|自助餐比桌餐好扩展。",
+     "One more table needs one more waiter.|加一桌就要加一个服务员。",
+     "The kitchen has a hard output limit.|厨房产能有硬上限。",
+     "Standing parties absorb surprises.|站立式酒会吸收意外。",
+     "Overflow plans live next door.|溢出方案就在隔壁。"
+    ]
+   },
+   "github": {
+    "topic": "扩容演练",
+    "terms": [
+     "scale up drill schedule|扩容演练排期，真加一次机器",
+     "load test at double peak|双倍峰值负载测试，提前演大会",
+     "auto scaling policy review|自动扩缩策略评审，扩几台何时扩",
+     "capacity headroom dashboard|容量余量看板，剩多少格点火",
+     "cost scaling curve doc|扩容成本曲线文档，容量与账单的关系",
+     "bottleneck of the month report|月度瓶颈报告，下一个顶住别处"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "数据架构决策",
+    "terms": [
+     "polyglot persistence tradeoff|多语言持久化取舍，合适的库干合适的活",
+     "read model vs write model|读模型与写模型，查询和事务分家",
+     "event sourcing basics|事件溯源入门，存过程不存结果",
+     "materialized view strategy|物化视图策略，算好的答案放门口",
+     "data retention architecture|数据保留架构，冷热分层设计",
+     "migration rollback symmetry|迁移回滚对称性，能升就要能降"
+    ]
+   },
+   "daily": {
+    "topic": "家庭档案室设计",
+    "terms": [
+     "Birth certificates live in the safe.|出生证住保险柜。",
+     "Old school reports go to boxes.|旧成绩单装箱入柜。",
+     "The photo archive has its own shelf.|照片档案有专属架。",
+     "We archive by year, retrieve by person.|按年归档按人查找。",
+     "Frequently asked documents get copies.|常查的文件备副本。",
+     "One inventory list guards it all.|一张清单守住全局。"
+    ]
+   },
+   "github": {
+    "topic": "数据迁移演练",
+    "terms": [
+     "dry run migration rehearsal|迁移干跑彩排，正式前全流程走一遍",
+     "data diff verification tool|数据差异校验工具，新旧逐行对比",
+     "rollback time objective test|回滚时限测试，退路也要计时",
+     "cutover communication plan|切换沟通计划，停机通知层层到",
+     "post migration validation suite|迁移后验证套件，搬家后数一遍家当",
+     "legacy read only window|旧库只读窗口，搬家期间只许看"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "技术选型方法论",
+    "terms": [
+     "build vs buy framework|自建与采购决策框架，造轮子前先问价",
+     "vendor lock in assessment|供应商锁定评估，退出的成本算清",
+     "technology radar exercise|技术雷达演练，采用试验回避观望",
+     "pilot before platform commitment|平台承诺前先试点，小船试水",
+     "team skill gap analysis|团队技能缺口分析，新技术谁来接",
+     "total cost of ownership math|总拥有成本算术，买入价只是首付"
+    ]
+   },
+   "daily": {
+    "topic": "家电选择的功课",
+    "terms": [
+     "We compare total costs, not stickers.|我们比总账不看标价。",
+     "Repairability beats features this year.|今年可修性压过功能。",
+     "The cheap dryer cost more in repairs.|便宜烘干机修出高价。",
+     "Brand loyalty needs annual review.|品牌忠诚需要年审。",
+     "Energy labels changed our choices.|能效标签改变了选择。",
+     "One appliance, one research weekend.|一件家电，一个调研周末。"
+    ]
+   },
+   "github": {
+    "topic": "选型决策记录",
+    "terms": [
+     "decision matrix with weights|带权重的决策矩阵，打分定乾坤",
+     "spike timebox for unknowns|未知项的时间盒探针，两天探明",
+     "po c disposal plan|原型处置计划，试完的代码去哪",
+     "reversibility as selection criteria|可逆性作为选型标准，好退的优先",
+     "vendor health monitoring|供应商健康监控，别托付给将死之人",
+     "annual stack review ritual|年度技术栈复盘仪式，旧工具重新面试"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "性能与成本平衡",
+    "terms": [
+     "cost aware architecture review|成本意识架构评审，设计带价签",
+     "performance per dollar metric|每美元性能指标，性价比量化",
+     "lazy resource provisioning|资源惰性供给，用到了再开",
+     "right sizing ritual|规格定期校准仪式，季度量体裁衣",
+     "spot capacity for batch jobs|批任务的竞价容量，便宜但可被赶",
+     "budget alert escalation path|预算告警升级路径，超支谁来拍板"
+    ]
+   },
+   "daily": {
+    "topic": "水电费的架构课",
+    "terms": [
+     "The power bill shows our architecture.|电费单反映我们的生活架构。",
+     "Peak hour laundry costs double.|高峰洗衣双倍电费。",
+     "Smart meter, honest feedback.|智能电表给诚实的反馈。",
+     "We shift loads to off peak.|我们把负载挪到低谷。",
+     "Solar panels changed our peak curve.|光伏板改变了峰值曲线。",
+     "Small leaks show on month three.|小漏在水费第三个月现形。"
+    ]
+   },
+   "github": {
+    "topic": "成本治理工程",
+    "terms": [
+     "cost anomaly detection rules|成本异动检测规则，账单跳变就报警",
+     "per team cost allocation tags|分团队成本分摊标签，谁的账单谁认",
+     "unused resource reaper|闲置资源收割机，没人认领的下线",
+     "reserved capacity strategy doc|预留容量策略文档，买断还是按量",
+     "cost review in design docs|设计文档里的成本评审，方案带月租",
+     "efficiency wins ledger|效率战果台账，省下的都记账"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全与合规入架构",
+    "terms": [
+     "security architecture review|安全架构评审，威胁建模进设计",
+     "compliance driven design constraints|合规驱动的设计约束，法条变架构",
+     "audit trail by design|审计留痕始于设计，日志是架构不是补丁",
+     "data boundary in diagrams|数据边界入图，流向画在架构图上",
+     "least privilege network zones|最小权限网络分区，区域之间验门票",
+     "secret rotation friendly design|密钥轮换友好设计，换钥匙不停业"
+    ]
+   },
+   "daily": {
+    "topic": "装修里的安全规范",
+    "terms": [
+     "The electrician quotes code compliance.|电工报价含合规。",
+     "Smoke alarms wired, not optional.|烟感是布线的不选装。",
+     "Child proofing passed inspection first.|儿童防护先过验收。",
+     "Emergency exits stay furniture free.|消防通道不堆家具。",
+     "The safe is anchored to concrete.|保险柜锚进混凝土。",
+     "Code compliance is quiet comfort.|合规是安静的安心。"
+    ]
+   },
+   "github": {
+    "topic": "合规架构落地",
+    "terms": [
+     "security controls as code|安全控制即代码，检查随部署走",
+     "compliance test suite in ci|CI 合规测试套件，违规构建不过门",
+     "data residency routing design|数据驻留路由设计，地区数据不出区",
+     "audit evidence auto export|审计证据自动导出，检查前就备齐",
+     "privacy review gate in pipeline|流水线隐私评审门，涉数据先过审",
+     "regulation watch backlog|法规监视积压单，新规变任务"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "架构债务管理",
+    "terms": [
+     "architecture debt register|架构债登记簿，技术债的地基版",
+     "refactor vs rewrite decision|重构还是重写决策，一半一半最危险",
+     "modernization wave plan|现代化浪潮计划，一浪一浪换",
+     "compatibility shim strategy|兼容垫片策略，旧接口踩着新地基",
+     "debt interest visualization|债务利息可视化，拖着不还的代价",
+     "big rewrite risk checklist|大重写风险清单，第二系统综合症自查"
+    ]
+   },
+   "daily": {
+    "topic": "老屋维护的哲学",
+    "terms": [
+     "We patch the roof before the rainy season.|雨季前修屋顶。",
+     "Cosmetic upgrades wait for structure.|结构没好不谈颜值。",
+     "The foundation inspection is yearly.|地基年检雷打不动。",
+     "Old houses teach incrementalism.|老房子教增量主义。",
+     "Every repair gets documented.|每次维修都记录在案。",
+     "Demolition is the last resort.|推倒是最后手段。"
+    ]
+   },
+   "github": {
+    "topic": "架构债治理",
+    "terms": [
+     "debt review quarterly ritual|季度架构债复盘仪式，挑两笔还",
+     "debt interest estimation guide|债务利息估算指南，拖着值多少钱",
+     "refactor window scheduling|重构窗口排期，还债也要排班",
+     "architecture decision archaeology|架构决策考古，查清当年为什么",
+     "legacy module quarantine plan|遗留模块隔离计划，围起来逐步换",
+     "debt burn down chart|债务燃尽图，还债看得见"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "平台工程思维",
+    "terms": [
+     "platform as product mindset|平台即产品思维，内部客户也是客户",
+     "golden path paved routes|黄金路径铺路，顺着走就合规",
+     "self service infrastructure|自助式基础设施，开发自己开门",
+     "paved road vs freedom tradeoff|铺路与自由取舍，方便与灵活平衡",
+     "internal developer portal|内部开发者门户，服务目录一屏",
+     "platform team as enabler|平台团队即赋能者，不是看门人"
+    ]
+   },
+   "daily": {
+    "topic": "小区物业的服务思维",
+    "terms": [
+     "The property office acts like a service desk.|物业办得像服务台。",
+     "Fix requests get tracking numbers.|报修有跟踪号。",
+     "Common areas maintained on schedule.|公共区域按期养护。",
+     "Residents vote on improvements.|住户投票决定改造。",
+     "The gym got safer treadmills by request.|按需求换了更安全的跑步机。",
+     "A good platform feels invisible.|好的平台感觉不到存在。"
+    ]
+   },
+   "github": {
+    "topic": "平台工程建设",
+    "terms": [
+     "service template repository|服务模板仓库，新服务三分钟起",
+     "shared library governance board|共享库治理委员会，版本统一管",
+     "developer experience survey|开发者体验调研，平台的服务评分",
+     "golden path adoption metric|黄金路径采纳率，铺的路有人走",
+     "platform sla commitments|平台 SLA 承诺，内部也有服务标准",
+     "migration assistant tooling|迁移助手工具，老服务搬新家"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "故障复盘入架构",
+    "terms": [
+     "blameless review to design loop|无责复盘回设计环，事故反哺架构",
+     "failure mode elimination backlog|失效模式消除积压单，每单对应一险",
+     "chaos finding integration|混沌演练发现整合，炸出来的进排期",
+     "resilience pattern library|韧性模式库，被打过的都有疫苗",
+     "postmortem action tracking|复盘行动追踪，表过态的要兑现",
+     "architectural lessons catalog|架构教训目录，同一个坑不进两次"
+    ]
+   },
+   "daily": {
+    "topic": "水患之后的改造",
+    "terms": [
+     "The flooded garage got a drainage plan.|被淹的车库有了排水方案。",
+     "We elevate sockets after one storm.|一场暴雨后插座全部上墙。",
+     "The sump pump gets tested monthly.|集水泵每月试一次。",
+     "Insurance now covers known risks.|保险如今覆盖已知风险。",
+     "Every flood drill feels calmer.|每次演练都比上次镇定。",
+     "The house remembers its floods.|房子记得每一场水患。"
+    ]
+   },
+   "github": {
+    "topic": "韧性工程治理",
+    "terms": [
+     "resilience requirements in design docs|设计文档中的韧性需求，故障想在前",
+     "chaos experiment schedule|混沌实验排期，定期找弱点",
+     "degradation drill days|降级演练日，坏一块还能跑",
+     "recovery time regression check|恢复时间回归检查，修复速度不退化",
+     "architect risk review signoff|架构师风险评审签字，高风险过双检",
+     "resilience wins showcase|韧性成果展示，稳了的也庆祝"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "跨团队架构协同",
+    "terms": [
+     "cross team architecture sync|跨团队架构同步会，接线图对齐",
+     "interface owner pairing|接口负责人结对，两边一起改",
+     "shared service council|共享服务理事会，公共组件共治",
+     "dependency upgrade coalition|依赖升级联盟，一起搬家少内耗",
+     "architecture decision feed|架构决策信息流，他团队的 ADR 也读",
+     "federated design review|联邦式设计评审，边界处双人签"
+    ]
+   },
+   "daily": {
+    "topic": "两栋楼之间的修路",
+    "terms": [
+     "Two buildings share one driveway.|两栋楼共用一条车道。",
+     "Repairs need both committees' signatures.|维修需要两边业委会签字。",
+     "The shared gate got one remote, then two.|共用大门的遥控器从一把变两把。",
+     "Shared costs split by traffic count.|费用按车流次数分摊。",
+     "Joint maintenance beats ping pong fixes.|共同养护胜过踢皮球式修补。",
+     "The driveway charter is one page.|车道章程只有一页。"
+    ]
+   },
+   "github": {
+    "topic": "架构协同实践",
+    "terms": [
+     "shared adr reading group|共享 ADR 读书会，互相的决策都读",
+     "boundary owner registry|边界负责人登记处，每条界有人守",
+     "cross team spike days|跨团队探针日，一起啃硬骨头",
+     "integration freeze calendar|集成冻结日历，两边都别乱动",
+     "joint postmortem sessions|联合复盘会，边界事故一起复盘",
+     "architecture newsletter cross post|架构通讯互转，我的教训你预习"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "架构叙事",
+    "terms": [
+     "architecture story for newcomers|讲给新人的架构故事，演进史导览",
+     "why we chose narrative|我们为何这样选的叙事，当时的约束重放",
+     "constraint archaeology sessions|约束考古会谈，旧决定的条件复原",
+     "system evolution timeline|系统演进时间线，版本与事故同框",
+     "simplification wins story|化繁为简的故事，删掉的模块也立功",
+     "future read architecture briefing|面向未来的架构简报，下一个五年"
+    ]
+   },
+   "daily": {
+    "topic": "老宅的历史课",
+    "terms": [
+     "The house tour includes its scars.|老宅导览包括伤疤。",
+     "Why the kitchen moved twice.|厨房为什么搬过两次家。",
+     "Every renovation has a backstory.|每次翻新都有前情。",
+     "New family members learn the why.|新成员要学为什么。",
+     "The blueprints live with the stories.|图纸和故事放在一起。",
+     "Houses speak through their changes.|房子靠变迁开口说话。"
+    ]
+   },
+   "github": {
+    "topic": "架构叙事工程",
+    "terms": [
+     "architecture decision timeline page|架构决策时间线页，大事记一条线",
+     "system tour video series|系统导览视频系列，边画边讲",
+     "design doc template with story slot|设计文档模板留故事栏，约束先重放",
+     "newcomer architecture quiz|新人架构问答，通关才算看完地图",
+     "lessons catalog cross linked|教训目录交叉链接，事故连着决策",
+     "architecture faq maintenance|架构 FAQ 维护，高频问题自动收"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "三百三十天架构盘点",
+    "terms": [
+     "year one architecture review|首年架构回顾，哪些决定站住了",
+     "load bearing wins list|承重决策战绩清单，撑住大促的几个",
+     "reversibility report card|可逆性成绩单，退了几步赢了几步",
+     "cognitive load audit result|认知负荷审计结果，新人上手时长",
+     "architecture debt balance|架构债余额，总账与利息",
+     "the blueprint for year two|第二年的蓝图，三笔大修"
+    ]
+   },
+   "daily": {
+    "topic": "三百三十天的房子",
+    "terms": [
+     "Day three hundred thirty, house inspection passed.|第三百三十天，房屋年检通过。",
+     "The load bearing walls held.|承重墙都扛住了。",
+     "We renovated without moving out.|我们没搬家就完成了翻新。",
+     "Blueprints and stories match now.|图纸和故事终于对上了。",
+     "The house is ready for guests.|房子准备好迎客了。",
+     "Foundations first, always.|永远地基优先。"
+    ]
+   },
+   "github": {
+    "topic": "架构年志",
+    "terms": [
+     "adr yearbook publication|决策记录年册发布，一年的取舍成书",
+     "architecture retro facilitation|架构年度复盘引导，自导自演",
+     "debt paydown celebration|还债庆祝，利息省下的蛋糕",
+     "tech radar movement review|技术雷达移动复盘，环形图的变化",
+     "mentor rotation for reviewers|评审人轮值带教，新考官上岗",
+     "the north star kept|未忘的北极星，初版文档还成立"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "存储选型",
+    "terms": [
+     "object storage basics|对象存储入门，无限大的仓库",
+     "block storage vs file storage|块存储与文件存储，两种搬砖法",
+     "storage class tiers|存储分级策略，热冷数据分居",
+     "durability numbers|持久性数字，几个九不丢",
+     "retrieval cost awareness|取回成本意识，便宜的存取回贵",
+     "lifecycle transition rules|生命周期流转规则，数据自动搬家"
+    ]
+   },
+   "daily": {
+    "topic": "家庭储物间分级",
+    "terms": [
+     "Attic for once a year items.|一年一用的放阁楼。",
+     "The hall closet is hot storage.|门厅柜是热存储。",
+     "Deep storage costs patience.|深冷存储考验耐心。",
+     "We label every holiday box.|每个节日箱都贴标。",
+     "Retrieval trips are logged informally.|取件记录随手记。",
+     "Storage needs an annual audit.|储物需要年度审计。"
+    ]
+   },
+   "github": {
+    "topic": "存储架构治理",
+    "terms": [
+     "storage decision record|存储决策记录，为什么选它",
+     "access pattern doc per store|每个库的访问模式文档",
+     "storage cost per feature|功能级存储成本，谁的孩子谁养",
+     "backup coverage per class|每级存储的备份覆盖",
+     "encryption at every tier|每一层都加密，冷热一样",
+     "storage migration runbook|存储迁移手册，搬家不丢箱"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "缓存架构设计",
+    "terms": [
+     "cache aside pattern|旁路缓存模式，应用自己管缓存",
+     "read through cache|读穿透缓存，缓存替你查库",
+     "multi layer cache strategy|多层缓存策略，接力赛式的加速",
+     "cache coherence protocol|缓存一致性协议，几份副本一个真相",
+     "hot key mitigation|热点键缓解，明星商品的专属通道",
+     "cache warm up automation|缓存预热自动化，开门前把货摆好"
+    ]
+   },
+   "daily": {
+    "topic": "超市货架的秘密",
+    "terms": [
+     "Eye level shelves move fastest.|视线高度的货架最好卖。",
+     "The stockroom is the database.|仓库就是数据库。",
+     "Popular items live up front.|畅销品放在门口。",
+     "Restock happens before rush.|补货赶在高峰前。",
+     "Stale bread gets discounted fast.|隔夜面包快速打折。",
+     "Shelf space is allocation policy.|货架就是分配策略。"
+    ]
+   },
+   "github": {
+    "topic": "缓存治理进阶",
+    "terms": [
+     "cache hit rate slos|缓存命中率目标，低于线要查",
+     "invalidation ownership map|失效责任地图，谁改谁清",
+     "cache size per tenant budget|按租户的缓存配额，别互相挤占",
+     "cold start mitigation plan|冷缓存缓解计划，重启不慌",
+     "cache behavior test suite|缓存行为测试套件，过期一致性都测",
+     "cache strategy documentation page|缓存策略说明页，一张图讲完"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "搜索架构",
+    "terms": [
+     "search index architecture|搜索索引架构，查得快的秘密",
+     "index freshness lag|索引新鲜度延迟，新内容多久可搜",
+     "relevance tuning process|相关性调优流程，排序规则的打磨",
+     "typo tolerance strategy|拼写容错策略，打错也能搜到",
+     "search analytics feedback|搜索分析反馈，没搜到的都是需求",
+     "query understanding basics|查询理解入门，懂用户想找什么"
+    ]
+   },
+   "daily": {
+    "topic": "图书管理员的智慧",
+    "terms": [
+     "The librarian guesses what you mean.|图书管理员猜得到你想找什么。",
+     "Misspelled titles still found.|拼错的书名也找得到。",
+     "Popular books have copies upfront.|畅销书备了复本。",
+     "The returns cart is a cache too.|还书车也是一个缓存。",
+     "Search logs buy new books.|搜索记录决定进什么书。",
+     "Ask once, get three suggestions.|问一次得三个推荐。"
+    ]
+   },
+   "github": {
+    "topic": "搜索治理",
+    "terms": [
+     "zero result report review|零结果报告评审，搜不到的补内容",
+     "index rebuild runbook|索引重建手册，翻新不熄店",
+     "relevance experiment protocol|相关性实验规程，改排序要对照",
+     "synonym list curation|同义词表维护，口语进词典",
+     "search quality scorecard|搜索质量记分卡，月度体检",
+     "faceted navigation review|分面导航评审，筛选不迷路"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "消息系统架构",
+    "terms": [
+     "log based message broker|日志型消息中间件，流水账式的传递",
+     "partition and consumer group|分区与消费组，分工要讲武德",
+     "message ordering guarantee|消息顺序保证，同键不插队",
+     "delivery semantics choice|投递语义选择，至多至少刚好一次",
+     "retention policy for topics|主题保留策略，流水账存多久",
+     "backpressure aware consumers|背压感知消费者，吃不下要说"
+    ]
+   },
+   "daily": {
+    "topic": "家庭留言板协议",
+    "terms": [
+     "The fridge board never lies twice.|冰箱贴从不说两次谎。",
+     "Messages have timestamps.|留言都带时间戳。",
+     "Urgent notes get magnets.|紧急便条上磁铁。",
+     "Read receipts by initial.|看过的签上首字母。",
+     "Old notes retire weekly.|旧留言每周退役。",
+     "One topic per note.|一张便条一件事。"
+    ]
+   },
+   "github": {
+    "topic": "消息治理",
+    "terms": [
+     "topic naming convention|主题命名规范，一看就懂谁发的",
+     "consumer lag alert thresholds|消费延迟告警阈值，掉队就喊",
+     "schema registry discipline|结构注册纪律，事件不裸奔",
+     "replay drill for corrections|纠错回放演练，重放历史修数据",
+     "message size guardrail|消息体量护栏，别寄钢琴",
+     "poison message triage flow|毒消息分诊流程，坏信人工检"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "多租户架构",
+    "terms": [
+     "tenant isolation model|租户隔离模型，一户一世界",
+     "noisy neighbor mitigation|吵闹邻居治理，一户超载不殃邻",
+     "tenant aware caching|租户感知缓存，别串了客人的菜",
+     "per tenant encryption keys|按租户加密密钥，各家用各锁",
+     "tenant data migration|租户数据迁移，单户搬家不扰邻",
+     "tier based resource caps|按套餐资源上限，付费决定带宽"
+    ]
+   },
+   "daily": {
+    "topic": "合租公寓的边界学",
+    "terms": [
+     "Labeled shelves end most disputes.|贴标的架子终结大部分纠纷。",
+     "The wifi has guest and family lanes.|Wi-Fi 分访客和家庭道。",
+     "Rent split by room, not appetite.|房租按房间分不看饭量。",
+     "One fridge, three zones.|一台冰箱三个分区。",
+     "Noise after eleven is a breach.|十一点后是违约。",
+     "Boundaries keep friendships warm.|边界让友谊保温。"
+    ]
+   },
+   "github": {
+    "topic": "租户治理",
+    "terms": [
+     "tenant onboarding automation|租户开通自动化，新户自助入住",
+     "noisy tenant detection rules|吵闹租户检测规则，超载先提醒",
+     "isolation regression tests|隔离回归测试，串门就是事故",
+     "per tenant sla tracking|按租户 SLA 跟踪，大客户小客户都算数",
+     "tenant offboarding data policy|租户退租数据策略，走要走得干净",
+     "fair share scheduler review|公平共享调度评审，雨露均沾"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "全球部署架构",
+    "terms": [
+     "region selection criteria|区域选点标准，跟着用户走",
+     "latency based routing|延迟路由，就近接待",
+     "data residency routing|数据驻留路由，各国数据不出境",
+     "active active vs active passive|双活还是主备，两地都要睡得着",
+     "global config distribution|全球配置分发，改一个处处听",
+     "follow the sun support model|日不落支持模式，太阳不落服务不停"
+    ]
+   },
+   "daily": {
+    "topic": "连锁早餐店的扩张",
+    "terms": [
+     "The second branch copies the first.|第二家分店复制第一家。",
+     "Local taste adjusts the menu.|本地口味微调菜单。",
+     "Central kitchen ships the hard parts.|中央厨房配送难做的部分。",
+     "Each store counts its own eggs.|各家店数各家的蛋。",
+     "Standards travel, flavors adapt.|标准在流动口味在适应。",
+     "The handbook fits in an apron.|手册小得能塞围裙。"
+    ]
+   },
+   "github": {
+    "topic": "全球部署治理",
+    "terms": [
+     "region parity check|区域一致性检查，各地版本对齐",
+     "failover game between regions|区域间故障转移演习，东家倒西家接",
+     "geo data residency tests|地理数据驻留测试，出境就是违规",
+     "global rollback coordination|全球回滚协调，统一喊停",
+     "edge location health board|边缘节点健康榜，谁在掉线",
+     "cross region latency budget|跨区延迟预算，握手别绕地球"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "容器编排架构",
+    "terms": [
+     "container orchestration basics|容器编排入门，谁来指挥千军万马",
+     "deployment replica management|部署副本管理，几个实例谁来定",
+     "service discovery health|服务发现健康，点名要到人",
+     "resource requests and limits|资源申请与上限，要多少给多少封顶",
+     "rolling update strategy|滚动更新策略，一批一批换岗",
+     "node pool segregation|节点池隔离，重活轻活不同宿舍"
+    ]
+   },
+   "daily": {
+    "topic": "家务排班表的智慧",
+    "terms": [
+     "Chores rotate so nobody burns out.|家务轮换没人累垮。",
+     "The dish fairy works nightly.|洗碗精灵每晚值班。",
+     "Heavy lifting needs two names.|重活需要两个人名。",
+     "Substitutes exist for sick days.|病假有替补。",
+     "The schedule lives on the fridge.|排班表住在冰箱上。",
+     "Fairness prevents strikes.|公平预防罢工。"
+    ]
+   },
+   "github": {
+    "topic": "编排治理",
+    "terms": [
+     "manifest review checklist|编排清单评审，改配置先过目",
+     "resource limit lint|资源上限检查，裸奔容器不让跑",
+     "autoscaling policy test|自动扩缩策略测试，缩放都要演习",
+     "namespace hygiene review|命名空间卫生评审，杂物归位",
+     "rollout badging convention|发布标记约定，哪个版本在岗",
+     "drift correction job|配置漂移纠正任务，手动改的自动修"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "可观测性标准",
+    "terms": [
+     "open telemetry standards|OpenTelemetry 标准，仪器统一接口",
+     "trace context propagation|追踪上下文传播，一次请求一条线",
+     "semantic convention adoption|语义约定采纳，字段名全家桶",
+     "span sampling strategy|跨度采样策略，全线记录的取舍",
+     "correlation id discipline|关联标识纪律，跨队排障的暗号",
+     "observability contract for teams|团队可观测契约，上线自带仪表"
+    ]
+   },
+   "daily": {
+    "topic": "旅行行程的共享",
+    "terms": [
+     "The shared itinerary updates live.|共享行程实时更新。",
+     "Everyone follows the same thread.|大家看同一个群。",
+     "Delays annotated with reasons.|延误备注原因。",
+     "Photos tagged by stop.|照片按站点打标。",
+     "Lost travelers ping the thread.|走散的在群里喊。",
+     "One trip, one timeline.|一次旅行一条时间线。"
+    ]
+   },
+   "github": {
+    "topic": "遥测治理",
+    "terms": [
+     "instrumentation review gate|埋点评审门，新服务必须带仪表",
+     "trace completeness check|追踪完整性检查，链路不许断点",
+     "metric naming registry|指标命名登记处，专名不冲突",
+     "telemetry cost review|遥测成本评审，观测也要过日子",
+     "oncall runbook link check|值班手册链接检查，告警都带说明书",
+     "observability onboarding path|可观测上手路径，新人两天接告警"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "边缘计算架构",
+    "terms": [
+     "edge node placement strategy|边缘节点布点策略，把计算搬到街角",
+     "edge origin data sync|边缘与源站数据同步，分店的进货",
+     "offline first edge design|边缘离线优先设计，断网照常营业",
+     "edge cache purge coordination|边缘缓存清理协同，全网换海报",
+     "latency sensitive workload placement|延迟敏感任务摆放，谁急谁靠前",
+     "edge security boundary|边缘安全边界，分店也要防盗门"
+    ]
+   },
+   "daily": {
+    "topic": "连锁便利店的启示",
+    "terms": [
+     "The corner store stocks the essentials.|街角便利店只放必需品。",
+     "Daily deliveries replace big warehouses.|每日配送取代大仓库。",
+     "Store managers decide local snacks.|店长决定本地零食。",
+     "Out of order signs appear fast.|故障牌子挂得快。",
+     "The hub restocks before dawn.|总仓在黎明前补货。",
+     "Closest shelf wins the sale.|最近的货架赢得生意。"
+    ]
+   },
+   "github": {
+    "topic": "边缘治理",
+    "terms": [
+     "edge deployment pipeline|边缘部署流水线，千店一令",
+     "edge config drift detection|边缘配置漂移检测，分店私改要报备",
+     "local feature flag sync|本地功能开关同步，分店权限分明",
+     "edge monitoring coverage map|边缘监控覆盖地图，看不见的分店最危险",
+     "rollback at the edge runbook|边缘回滚手册，新海报秒撤",
+     "edge cost per location review|单点边缘成本评审，布点也要算账"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "FinOps 实践",
+    "terms": [
+     "finops culture basics|FinOps 文化基础，工程师看账单",
+     "showback vs chargeback models|展示分摊与实扣模式，先看清再分钱",
+     "commitment utilization tracking|承诺用量追踪，买断的用满了吗",
+     "cost per customer metric|单客户成本指标，服务谁都要算钱",
+     "savings opportunity review|节省机会评审，低垂的果子",
+     "unit economics dashboard|单位经济看板，一单赚不赚"
+    ]
+   },
+   "daily": {
+    "topic": "家庭水电的 FinOps",
+    "terms": [
+     "We review the utility bill together.|全家一起看账单。",
+     "Usage spikes get investigations.|用量尖峰要查原因。",
+     "The pool pump runs off peak.|水泵错峰运行。",
+     "Fixed plans cover eighty percent.|八成开销用包月锁定。",
+     "Savings fund a visible jar.|省下的钱进可见的罐子。",
+     "Costs discussed calmly, monthly.|账单每月平静地讨论。"
+    ]
+   },
+   "github": {
+    "topic": "成本治理流程",
+    "terms": [
+     "monthly cost review ritual|月度成本复盘仪式，一页纸过账",
+     "tagging enforcement policy|打标强制策略，没标签的资源要补票",
+     "commitment purchase checklist|承诺购买检查单，包年之前算三遍",
+     "budget owner per service|每服务预算负责人，谁开发谁认账",
+     "efficiency regression alert|效率回归告警，单位成本变贵就查",
+     "savings backlog grooming|节省机会梳理，按金额排期"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "C4 模型与图表",
+    "terms": [
+     "c4 model levels|C4 模型层级，从全景到代码的四层镜",
+     "context diagram discipline|系统上下文图纪律，先画邻居",
+     "container and component views|容器与组件视图，屋内房间布局",
+     "diagram as code repos|图表即代码仓库，图随代码走",
+     "diagram review in design docs|设计文档里的图表评审，看图说话",
+     "stale diagram detection|过期图表检测，图说谎比没图糟"
+    ]
+   },
+   "daily": {
+    "topic": "家庭逃生示意图",
+    "terms": [
+     "The fire escape map on the fridge.|冰箱上的逃生图。",
+     "Two exits marked, always.|永远标出两个出口。",
+     "The map matches the furniture.|图和家具对得上。",
+     "Kids can read it at five.|五岁孩子看得懂。",
+     "It updates when rooms change.|房间变了图也变。",
+     "One glance, whole picture.|一眼看懂全局。"
+    ]
+   },
+   "github": {
+    "topic": "图表治理",
+    "terms": [
+     "diagram source in repo|图表源文件入库，和代码一起评审",
+     "auto generated dependency graphs|自动生成依赖图，脚本画图不手绘",
+     "legend and notation standards|图例与符号标准，全队一套画法",
+     "diagram lint for labels|图表标注检查，箭头不许裸奔",
+     "picture freshness badge|图片新鲜度徽章，半年没更就提醒",
+     "onboarding map pack|新人地图包，一天看懂全貌"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "演进式架构",
+    "terms": [
+     "evolutionary architecture principles|演进式架构原则，变化是常驻客",
+     "fitness function tests|适应度函数测试，架构也有体检指标",
+     "incremental change over rewrites|增量变化优于重写，小步不摔跤",
+     "architectural decision fatigue guard|决策疲劳防护，大事化小",
+     "protected slots for refactor|重构保护档期，还债写进日历",
+     "last responsible moment principle|最后负责时刻原则，晚点决定留余地"
+    ]
+   },
+   "daily": {
+    "topic": "花园的四季轮作",
+    "terms": [
+     "Crops rotate, soil stays rich.|轮作让土壤常肥。",
+     "The garden never gets a full rewrite.|花园从不推倒重来。",
+     "Small transplants beat moving trees.|移苗胜过挪树。",
+     "Each season reviews the layout.|每季都重新审视布局。",
+     "Compost turns waste into future.|堆肥把废变未来。",
+     "Growth is guided, not forced.|生长被引导不被强求。"
+    ]
+   },
+   "github": {
+    "topic": "演进治理",
+    "terms": [
+     "fitness function in ci|CI 里的适应度函数，架构回归自动测",
+     "architecture change radar|架构变更雷达，漂移自动发现",
+     "incremental migration checklists|增量迁移检查单，一浪一清单",
+     "evolutionary hold points|演进停点，跑三步一回头",
+     "protected refactor budget|受保护的重构预算，时间专款专用",
+     "simplification kudos system|简化点赞体系，删代码也受表彰"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "康威定律与团队",
+    "terms": [
+     "conway law awareness|康威定律意识，组织结构长进系统",
+     "team topology alignment|团队拓扑对齐，流水线式协作",
+     "cognitive load based team design|按认知负荷设计团队，脑子不是流水线",
+     "platform team charter|平台团队章程，服务型定位",
+     "reinforcing learning loops|强化学习回路，复盘要回喂架构",
+     "reverse conway maneuver|逆向康威操作，想要啥架构先摆啥组织"
+    ]
+   },
+   "daily": {
+    "topic": "家务分工背后的组织学",
+    "terms": [
+     "The chore chart mirrors our friendships.|家务表照出我们的友谊结构。",
+     "Whoever cooks skips the dishes.|做饭的人不洗碗。",
+     "Handoffs happen at the door.|交接在门口完成。",
+     "Teams of two finish faster.|两人小队完成更快。",
+     "The dog owns the hallway.|狗负责走廊。",
+     "Structure follows stomachs.|结构跟着胃走。"
+    ]
+   },
+   "github": {
+    "topic": "组织协同工程",
+    "terms": [
+     "team interaction modes doc|团队交互模式文档，合作方式说清",
+     "service ownership transfer flow|服务归属转移流程，交接有清单",
+     "cross onboarding rotations|交叉入职轮换，互相的岗都坐坐",
+     "meeting reduction after merge|合并后会议削减，组织顺了会就少",
+     "ownership clarity audit|归属清晰度审计，每个服务都答得出主人",
+     "team health vs architecture map|团队健康与架构对照图，痛处重合分析"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "遗留系统评估",
+    "terms": [
+     "legacy system assessment matrix|遗留系统评估矩阵，价值与风险双轴",
+     "code archaeology techniques|代码考古技法，读出当年的心思",
+     "institutional knowledge extraction|组织知识萃取，老师傅的脑内文档",
+     "rewrite risk assessment|重写风险评估，悬崖边的估计",
+     "encapsulation first strategy|封装优先策略，先包起来再动刀",
+     "sunset vs invest decision|日落还是投入决策，老系统的去留"
+    ]
+   },
+   "daily": {
+    "topic": "老家电的去留",
+    "terms": [
+     "The twenty year washing machine audit.|二十年洗衣机年审。",
+     "Repair quote versus new price math.|维修报价与新品价格对比。",
+     "Sentimental value gets a quota.|情感价值也有配额。",
+     "The sewing machine earned its shelf.|缝纫机挣得了它的位置。",
+     "Parts availability decides lifespan.|配件供给决定寿命。",
+     "Old friends need usage tests.|老朋友也要通过使用测试。"
+    ]
+   },
+   "github": {
+    "topic": "遗留改造工程",
+    "terms": [
+     "characterization test blanket|特征测试毯子，旧行为先盖住",
+     "strangler route table|绞杀者路由表，流量一点一点挪",
+     "legacy domain glossary|遗留领域术语表，黑话翻译成白话",
+     "original author interview notes|原作者访谈笔记，设计意图口述史",
+     "parallel modern stack pilot|新栈并行试点，新单位先练兵",
+     "retirement celebration checklist|退役庆祝清单，老功臣体面谢幕"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "架构评审反模式",
+    "terms": [
+     "hippo decision trap|最高薪水者拍板陷阱，职级不是论证",
+     "resume driven development warning|简历驱动开发警示，为跳槽而选型",
+     "analysis paralysis timeout|分析瘫痪计时器，两周必须出结论",
+     "ivory tower architecture warning|象牙塔架构警示，画图的要陪 coding",
+     "bikeshed filter rule|自行车棚过滤器，鸡毛小事限时讨论",
+     "surprise review anti pattern|突袭评审反模式，评审不是揭晓大会"
+    ]
+   },
+   "daily": {
+    "topic": "家庭会议的反面教材",
+    "terms": [
+     "The loudest voice won once, never again.|嗓门最大者赢过一次，下不为例。",
+     "We banned kitchen sink debates.|我们禁了连裤衩都聊的长会。",
+     "Decisions by ambush feel like coups.|偷袭式决定像政变。",
+     "Homework before big votes.|大投票前先做功课。",
+     "The timer saved Thanksgiving.|计时器拯救了感恩节。",
+     "Disagreements end with experiments.|分歧以实验收场。"
+    ]
+   },
+   "github": {
+    "topic": "健康评审实践",
+    "terms": [
+     "pre read mandatory rule|会前必读规则，评审不是朗读会",
+     "timeboxed agenda enforcement|限时议程执行，超时议题自动顺延",
+     "decision owner pre assigned|决策负责人预指定，谁拍板提前说",
+     "silent start protocol|静默开场协议，先读十分钟再讨论",
+     "minority report recorded|少数意见入档，反对也留声",
+     "review outcome survey|评审效果问卷，会开得值不值"
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,383 @@
+{
+ "month": 10,
+ "vp": [
+  "ship the smallest thing",
+  "charge real money",
+  "write the launch post",
+  "answer every email",
+  "rehearse the demo alone",
+  "prune the roadmap",
+  "raise the price",
+  "call the churned user",
+  "close the laptop at nine",
+  "thank the first buyers"
+ ],
+ "np_always": [
+  "minimum viable product",
+  "must have list",
+  "zero result rescue",
+  "scope fence note",
+  "rule based alert ranking"
+ ],
+ "plural": [
+  "release notes"
+ ],
+ "artless": [
+  "seo for everyone"
+ ],
+ "lexicon": {
+  "market stall": "市集摊位",
+  "awning": "遮阳篷",
+  "handwritten sign": "手写招牌",
+  "coin jar": "硬币罐",
+  "punch card": "打卡卡",
+  "loyalty stamp": "集点章",
+  "opening bell": "开市铃",
+  "closing sweep": "收摊扫除",
+  "price board": "价格牌",
+  "sample tray": "试吃盘",
+  "vendor badge": "摊主证",
+  "raing cover": "防雨布",
+  "tarp": "油布",
+  "bungee cord": "弹力绳",
+  "folding table": "折叠桌",
+  "camping chair": "折叠椅",
+  "cooler box": "保温箱",
+  "ice pack": "冰袋",
+  "paper bag": "纸袋",
+  "twine": "麻绳",
+  "marker pen": "记号笔",
+  "receipt book": "收据本",
+  "cash box": "钱箱",
+  "float money": "备用零钱",
+  "card reader": "刷卡机",
+  "phone stand": "手机支架",
+  "qrcode stand": "二维码立牌",
+  "traffic cone": "雪糕筒",
+  "bunting": "彩旗",
+  "flyer": "传单",
+  "mailing list clipboard": "通讯录夹板",
+  "feedback jar": "意见罐",
+  "smile budget": "微笑预算"
+ },
+ "lemmas": {
+  "sketches": "sketch",
+  "sketched": "sketch",
+  "stalls": "stall",
+  "stalled": "stall",
+  "haggles": "haggle",
+  "haggled": "haggle",
+  "bundles": "bundle",
+  "bundled": "bundle",
+  "packs": "pack",
+  "packed": "pack",
+  "weighs": "weigh",
+  "weighed": "weigh",
+  "tapes": "tape",
+  "taped": "tape",
+  "wraps": "wrap",
+  "wrapped": "wrap"
+ },
+ "plots": [
+  {
+   "title_en": "The Napkin Business Plan",
+   "title_zh": "餐巾纸上的商业计划",
+   "open_en": "Month ten opens with a napkin sketch my partner refuses to throw away.",
+   "open_zh": "第十个月的开场：一张我伴侣舍不得扔的餐巾纸草图。",
+   "life_en": "\"Build it,\" she says, \"but build the smallest version.\"",
+   "life_zh": "她说：“做出来，但做最小的那版。”",
+   "close_en": "The smallest version still needs a name and a Saturday.",
+   "close_zh": "最小的版本也需要一个名字，和一个周六。"
+  },
+  {
+   "title_en": "Interviews Before Code",
+   "title_zh": "代码之前的访谈",
+   "open_en": "I interview five potential users before writing any code.",
+   "open_zh": "写代码之前，我访谈了五位潜在用户。",
+   "life_en": "Four describe the same annoyance using the same word.",
+   "life_zh": "四个人用同一个词形容同一种烦恼。",
+   "close_en": "When strangers repeat your pitch, it is real.",
+   "close_zh": "当陌生人复述你的卖点，它就是真的。"
+  },
+  {
+   "title_en": "The Weekend Scaffold",
+   "title_zh": "周末脚手架",
+   "open_en": "One weekend builds the skeleton: login, list, and one save.",
+   "open_zh": "一个周末搭起骨架：登录、列表，和一次保存。",
+   "life_en": "The template repo does the boring parts while I sleep.",
+   "life_zh": "模板仓库干了无聊的部分，我去睡了。",
+   "close_en": "Monday morning, something exists that did not on Friday.",
+   "close_zh": "周一早晨，世上多了一个周五没有的东西。"
+  },
+  {
+   "title_en": "Scope Fence First Week",
+   "title_zh": "第一周的范围栅栏",
+   "open_en": "A brilliant idea arrives on day four; I write it down and fence it off.",
+   "open_zh": "第四天来了个绝妙点子；我把它写下，然后隔在栅栏外。",
+   "life_en": "The must have list stays seven lines, stubbornly.",
+   "life_zh": "必须清单顽固地保持在七行。",
+   "close_en": "The fence protects the launch more than any code.",
+   "close_zh": "这道栅栏对发布的保护胜过任何代码。"
+  },
+  {
+   "title_en": "Naming Night",
+   "title_zh": "起名之夜",
+   "open_en": "Naming night: forty candidates, three finalists, zero agreement.",
+   "open_zh": "起名之夜：四十个候选，三个入围，零票通过。",
+   "life_en": "We test finalists by saying them over the phone, badly.",
+   "life_zh": "我们用电话里含糊念出来的方式测试入围名。",
+   "close_en": "The winner survives a mumbled coffee order.",
+   "close_zh": "获胜的名字在嘈杂的咖啡订单中幸存。"
+  },
+  {
+   "title_en": "The Landing Page Lives First",
+   "title_zh": "落地页先住进来",
+   "open_en": "The landing page ships before the product does.",
+   "open_zh": "落地页比产品先上线。",
+   "life_en": "One promise, one screenshot, one button, forty signups in a week.",
+   "life_zh": "一句承诺、一张截图、一个按钮，一周四十个登记。",
+   "close_en": "Strangers voting with emails beat any survey.",
+   "close_zh": "陌生人的邮件投票胜过任何问卷。"
+  },
+  {
+   "title_en": "Ugly Draft, Real Users",
+   "title_zh": "丑陋草稿见真人",
+   "open_en": "Five waitlist users try the ugly draft.",
+   "open_zh": "五位候补用户试用了丑陋的草稿版。",
+   "life_en": "They click where I hoped and stumble where I prayed.",
+   "life_zh": "他们点了我期望的地方，也在我祈祷的地方绊倒。",
+   "close_en": "Watching users is worth ten feature debates.",
+   "close_zh": "看用户用十分钟，胜过十场功能辩论。"
+  },
+  {
+   "title_en": "The Pricing Table Dilemma",
+   "title_zh": "定价表的纠结",
+   "open_en": "Pricing night: free, small, and a scary professional tier.",
+   "open_zh": "定价之夜：免费档、小档，和一个吓人的专业档。",
+   "life_en": "The middle tier exists to make the third look brave.",
+   "life_zh": "中间档的存在，是为了让第三档显得勇敢。",
+   "close_en": "I charge real money and apologize zero times.",
+   "close_zh": "我收了真钱，一次也没道歉。"
+  },
+  {
+   "title_en": "Payments, Politely",
+   "title_zh": "礼貌的支付接入",
+   "open_en": "The payment provider asks harder questions than my bank.",
+   "open_zh": "支付服务商的问卷比银行还严。",
+   "life_en": "Test payments buy my own product eleven times.",
+   "life_zh": "测试支付让我买了自家产品十一次。",
+   "close_en": "The first real order chimes like a doorbell.",
+   "close_zh": "第一笔真实订单的门铃声像报喜。"
+  },
+  {
+   "title_en": "Emails That Feel Human",
+   "title_zh": "像人写的邮件",
+   "open_en": "The onboarding emails get rewritten until they sound like me.",
+   "open_zh": "引导邮件被改写到听起来像我在说话。",
+   "life_en": "No golden crowns, no countdown timers, just one helpful sentence each.",
+   "life_zh": "没有皇冠图，没有倒计时，每封只有一句有用的话。",
+   "close_en": "Reply rates rise when the robot quits.",
+   "close_zh": "机器人退场后，回复率涨了。"
+  },
+  {
+   "title_en": "The Support Inbox Marathon",
+   "title_zh": "支持邮箱马拉松",
+   "open_en": "Launch minus five days: I answer every single email.",
+   "open_zh": "发布前五天：我回复了每一封邮件。",
+   "life_en": "Twenty three replies teach me the ten sentences users actually need.",
+   "life_zh": "二十三封回信教会我用户真正需要的十句话。",
+   "close_en": "Support before launch is user research in disguise.",
+   "close_zh": "发布前的支持，是伪装成客服的用户调研。"
+  },
+  {
+   "title_en": "Launch Day Runbook",
+   "title_zh": "发布日手册",
+   "open_en": "I write the launch runbook like a recipe.",
+   "open_zh": "我像写菜谱一样写发布手册。",
+   "life_en": "Nine o'clock post, ten o'clock replies, noon nap, mandatory.",
+   "life_zh": "九点发帖，十点回评，中午小睡，强制执行。",
+   "close_en": "The runbook has one line in bold: eat lunch.",
+   "close_zh": "手册里有一行加粗：记得吃午饭。"
+  },
+  {
+   "title_en": "The Quiet Loud Launch",
+   "title_zh": "安静的隆重发布",
+   "open_en": "Launch day arrives without fireworks, on purpose.",
+   "open_zh": "发布日到来了，刻意没有烟花。",
+   "life_en": "One honest post, two forums, three replies per thread, all day.",
+   "life_zh": "一篇诚实的帖子，两个论坛，每个帖子回复三次，一整天。",
+   "close_en": "By midnight: sixty users, zero crashes, one very tired founder.",
+   "close_zh": "午夜：六十位用户，零崩溃，一位非常累的创始人。"
+  },
+  {
+   "title_en": "The Watchful Neighbor",
+   "title_zh": "热心的邻居",
+   "open_en": "A neighbor who bought early starts vouching for the product in her building.",
+   "open_zh": "一位早期购买的邻居开始在她的楼里为产品作保。",
+   "life_en": "She reports a bug faster than my monitoring, with cookies.",
+   "life_zh": "她带着饼干报告了一个比监控更快的缺陷。",
+   "close_en": "Word of mouth has a home address.",
+   "close_zh": "口碑是有家庭住址的。"
+  },
+  {
+   "title_en": "The First Refund",
+   "title_zh": "第一笔退款",
+   "open_en": "Day three brings the first refund request.",
+   "open_zh": "第三天来了第一笔退款请求。",
+   "life_en": "I refund in one click and ask what went missing.",
+   "life_zh": "我一键退款，然后问少了什么。",
+   "close_en": "The answer becomes next week's fix and a loyal ex customer.",
+   "close_zh": "那个答案变成下周的修复，和一位忠诚的前用户。"
+  },
+  {
+   "title_en": "Crash Report Mornings",
+   "title_zh": "崩溃报告的清晨",
+   "open_en": "Every morning starts with crash reports before coffee.",
+   "open_zh": "每个清晨从崩溃报告开始，在咖啡之前。",
+   "life_en": "One crash owns sixty percent of reports; the stack trace confesses immediately.",
+   "life_zh": "一个崩溃占六成报告；堆栈当场招供。",
+   "close_en": "Fix the big rock, watch the pond calm.",
+   "close_zh": "搬走大石头，池塘自己安静。"
+  },
+  {
+   "title_en": "The Churned User Calls",
+   "title_zh": "打给流失用户",
+   "open_en": "I call three users who cancelled, with curiosity not defense.",
+   "open_zh": "我带着好奇而非防备，打给三位取消订阅的用户。",
+   "life_en": "Two reasons are price, one reason is loneliness of the tool.",
+   "life_zh": "两个理由是价格，一个理由是工具太孤独。",
+   "close_en": "The loneliness reason becomes a community tab.",
+   "close_zh": "孤独那条理由，变成了一个社区标签页。"
+  },
+  {
+   "title_en": "Feature Icebox Ceremony",
+   "title_zh": "功能冰柜仪式",
+   "open_en": "Every requested feature gets an icebox label, not a promise.",
+   "open_zh": "每个功能请求都贴上冰柜标签，而不是承诺。",
+   "life_en": "Users vote, the top three thaw each quarter.",
+   "life_zh": "用户投票，每季度解冻前三名。",
+   "close_en": "Frozen ideas stay fresh without freezing me.",
+   "close_zh": "冰冻的点子保持新鲜，也不冻住我。"
+  },
+  {
+   "title_en": "The Uptime Scare",
+   "title_zh": "在线率的惊魂",
+   "open_en": "My monitoring pings me during a dentist appointment.",
+   "open_zh": "看牙医时监控来报：网站挂了。",
+   "life_en": "A provider hiccup, ten minutes down, and a very honest status note.",
+   "life_zh": "服务商抽风，十分钟下线，和一页非常坦诚的状态说明。",
+   "close_en": "Honesty converted an outage into trust.",
+   "close_zh": "坦诚把一次宕机换成了信任。"
+  },
+  {
+   "title_en": "Backups for the Business",
+   "title_zh": "给生意做备份",
+   "open_en": "I realize the database has no offline copy.",
+   "open_zh": "我意识到数据库没有离线副本。",
+   "life_en": "Sunday: encrypted backups to two places, one restore rehearsal.",
+   "life_zh": "周日：加密备份存两处，外加一次恢复演练。",
+   "close_en": "The safety net gets its own calendar reminder.",
+   "close_zh": "安全网有了自己的日历提醒。"
+  },
+  {
+   "title_en": "Tax Receipt Sunday",
+   "title_zh": "税务收据周日",
+   "open_en": "A quarter ends; receipts get photographed and filed.",
+   "open_zh": "季度结束；收据拍照归档。",
+   "life_en": "One envelope per category, one hour of my life per month.",
+   "life_zh": "每类一个信封，每月占用我一个小时。",
+   "close_en": "Boring paperwork is the tax on freedom.",
+   "close_zh": "无聊的文书是自由的税。"
+  },
+  {
+   "title_en": "The Copycat Appears",
+   "title_zh": "山寨出现了",
+   "open_en": "A copycat site appears with my screenshots and worse fonts.",
+   "open_zh": "一个山寨网站出现了，用着我的截图和更丑的字体。",
+   "life_en": "Panic drafts a takedown; patience drafts a better feature.",
+   "life_zh": "惊慌想发律师函；耐心想发更好的功能。",
+   "close_en": "We compete on trust, which cannot be screenshotted.",
+   "close_zh": "我们比的是信任——那个截不了图。"
+  },
+  {
+   "title_en": "Pricing Experiments Revisited",
+   "title_zh": "重访定价实验",
+   "open_en": "Three months of data argue for a braver price.",
+   "open_zh": "三个月的数据支持一个更勇敢的价格。",
+   "life_en": "I raise prices for new users only and email old users a thank you lock in.",
+   "life_zh": "只对新用户涨价，并给老用户发信锁定原价。",
+   "close_en": "Nobody churns; two people congratulate me.",
+   "close_zh": "没人流失；有两人向我道贺。"
+  },
+  {
+   "title_en": "The Community Takes Root",
+   "title_zh": "社区生根",
+   "open_en": "Users start answering each other's questions.",
+   "open_zh": "用户开始互相回答问题。",
+   "life_en": "I promote three helpers with early access and a badge.",
+   "life_zh": "我给三位帮手开通早鸟权限，和一枚徽章。",
+   "close_en": "The product outgrew its founder, gloriously.",
+   "close_zh": "产品超越了创始人，可喜可贺。"
+  },
+  {
+   "title_en": "Automation of the Boring Third",
+   "title_zh": "无聊三分之一的自动化",
+   "open_en": "I list my week and automate the dullest third.",
+   "open_zh": "我列出一周工作，把最无聊的三分之一自动化。",
+   "life_en": "Invoices, backups, and changelogs now run while I walk.",
+   "life_zh": "账单、备份、更新日志在我散步时自己运行。",
+   "close_en": "The bot works nights; I do not.",
+   "close_zh": "机器人上夜班；我不用。"
+  },
+  {
+   "title_en": "The Founder's Bottleneck",
+   "title_zh": "创始人的瓶颈",
+   "open_en": "A profiling week on my own habits finds the bottleneck: me.",
+   "open_zh": "对自己习惯做了一周画像，瓶颈找到了：我自己。",
+   "life_en": "Delegation, not optimization, is the next performance win.",
+   "life_zh": "下一个性能优化是委派，不是调参。",
+   "close_en": "I hire a part time helper for support.",
+   "close_zh": "我雇了一位兼职支持助手。"
+  },
+  {
+   "title_en": "Onboarding the Helper",
+   "title_zh": "帮手入职",
+   "open_en": "The helper's first week uses my own docs and runbooks.",
+   "open_zh": "帮手的第一周全靠我写的文档和手册。",
+   "life_en": "One gap found: the refund policy lived only in my head.",
+   "life_zh": "发现一个缺口：退款政策只存在于我的脑子里。",
+   "close_en": "If it is not written, it is not delegated.",
+   "close_zh": "没写下来的，就没委托出去。"
+  },
+  {
+   "title_en": "Three Hundred Users Party",
+   "title_zh": "三百用户派对",
+   "open_en": "Three hundred users: we celebrate with cheap pizza again.",
+   "open_zh": "三百位用户：我们再次用便宜的披萨庆祝。",
+   "life_en": "The partner gives a toast that mentions the napkin.",
+   "life_zh": "伴侣举杯祝酒时提到了那张餐巾纸。",
+   "close_en": "From napkin to three hundred, one Saturday at a time.",
+   "close_zh": "从餐巾纸到三百人，一个周六一个周六走过来。"
+  },
+  {
+   "title_en": "The Roadmap Meets Reality",
+   "title_zh": "路线图遇见现实",
+   "open_en": "Quarter end: I grade my roadmap guesses against usage.",
+   "open_zh": "季度末：我拿使用数据给路线图打分。",
+   "life_en": "Half the bets were right; the wrong half taught the pricing and the focus.",
+   "life_zh": "一半押对；错的一半教会了定价和专注。",
+   "close_en": "Graded guesses compound into judgment.",
+   "close_zh": "被打分的猜测会复利成判断力。"
+  },
+  {
+   "title_en": "Two Hundred Ninety Five",
+   "title_zh": "第二百九十五天",
+   "open_en": "Day two hundred ninety five: the side project pays for its own server, its own support, and our Sunday brunch.",
+   "open_zh": "第二百九十五天：副业付得起自己的服务器、自己的客服，和周日的早午餐。",
+   "life_en": "Maria, still my mentor, asks the real question: \"Does it still bring you calm?\"",
+   "life_zh": "我的导师 Maria 问了真正的问题：“它还让你平静吗？”",
+   "close_en": "It does — on Sundays I still code just for the joy of it.",
+   "close_zh": "是的——周日我仍会纯粹为快乐写代码。"
+  }
+ ]
+}

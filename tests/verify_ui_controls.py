@@ -1,6 +1,6 @@
 """Mobile layout verification at a 390px viewport (iPhone-class width).
 
-Prerequisites: bash build_month.sh (or at least the lesson build step) has run.
+Prerequisites: scripts/build_course.py (or at least the lesson build step) has run.
 Run: python -m pytest tests/verify_ui_controls.py -q
 """
 import http.server
@@ -22,7 +22,7 @@ VIEWPORT = {"width": 390, "height": 844}
 @pytest.fixture(scope="module")
 def server():
     if not (SITE / "index.html").exists():
-        pytest.skip("lessons/week is not built yet; run build_month.sh first")
+        pytest.skip("lessons/week is not built yet; run scripts/build_course.py first")
     handler = lambda *args, **kwargs: http.server.SimpleHTTPRequestHandler(*args, directory=str(SITE), **kwargs)
     with socketserver.TCPServer(("127.0.0.1", 0), handler) as httpd:
         thread = threading.Thread(target=httpd.serve_forever, daemon=True)
@@ -62,7 +62,7 @@ def overflow_report(page):
 
 def test_day_page_has_no_horizontal_overflow_at_390(mobile_page):
     page = mobile_page
-    page.goto(f"{page.base_url}/day-01/index.html")
+    page.goto(f"{page.base_url}/courses/speaking-vocab/day-001/index.html")
     page.wait_for_selector(".seg")
     report = overflow_report(page)
     assert report["offenders"] == [], f"elements overflow 390px: {report['offenders']}"
@@ -70,7 +70,7 @@ def test_day_page_has_no_horizontal_overflow_at_390(mobile_page):
 
 def test_vocabulary_page_has_no_horizontal_overflow_at_390(mobile_page):
     page = mobile_page
-    page.goto(f"{page.base_url}/vocabulary-month/index.html?day=1")
+    page.goto(f"{page.base_url}/courses/speaking-vocab/vocabulary-month/index.html?day=1")
     page.wait_for_selector(".word-card")
     report = overflow_report(page)
     assert report["offenders"] == [], f"elements overflow 390px: {report['offenders']}"
@@ -86,7 +86,7 @@ def test_index_page_has_no_horizontal_overflow_at_390(mobile_page):
 
 def test_player_controls_are_reachable_on_mobile(mobile_page):
     page = mobile_page
-    page.goto(f"{page.base_url}/day-01/index.html")
+    page.goto(f"{page.base_url}/courses/speaking-vocab/day-001/index.html")
     page.wait_for_selector(".seg")
     assert page.locator("#playBtn").is_visible()
     assert page.locator('[data-play="0"]').is_visible()
@@ -97,7 +97,7 @@ def test_player_controls_are_reachable_on_mobile(mobile_page):
 
 def test_translation_and_audio_note_present_on_mobile(mobile_page):
     page = mobile_page
-    page.goto(f"{page.base_url}/day-01/index.html")
+    page.goto(f"{page.base_url}/courses/speaking-vocab/day-001/index.html")
     page.wait_for_selector(".seg")
     translations = page.locator(".seg .zh").all_inner_texts()
     assert len(translations) == 3 and all(text.strip() for text in translations)

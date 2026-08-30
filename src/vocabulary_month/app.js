@@ -2,13 +2,17 @@
   "use strict";
 
   const VOCAB_KEY = "ir_vocab_v1";
-  const PROGRESS_KEY = "ir_vocab_month_progress_v1";
+  // Course-scoped progress key; resolved from month.json meta.course on load.
+  const LEGACY_PROGRESS_KEY = "ir_vocab_month_progress_v1";
+  let PROGRESS_KEY = "ir:vocab:progress";
   const REVIEW_LIMIT = 24;
   const Review = window.AdaptiveReview;
   const app = document.querySelector("#app");
   const toastEl = document.querySelector("#toast");
   let course = null;
+  let courseId = "";
   let selectedDay = 1;
+  let selectedMonth = 1;
   let vocab = readJSON(VOCAB_KEY, []).map(normalizeVocab).filter(item => item.word);
   let progress = readJSON(PROGRESS_KEY, { completed: [] });
   let reviewOpen = false;
@@ -156,7 +160,8 @@
 
   function currentDayFromURL() {
     const day = Number(new URLSearchParams(location.search).get("day"));
-    return Number.isInteger(day) && day >= 1 && day <= 30 ? day : 1;
+    const maxDay = course ? course.meta.days : 1;
+    return Number.isInteger(day) && day >= 1 && day <= maxDay ? day : 1;
   }
 
   function allItems(day) {
@@ -169,8 +174,8 @@
 
   function savedAudioPath(path) {
     if (!path) return "";
-    if (/^(?:https?:)?\//.test(path)) return path;
-    return `/vocabulary-month/${String(path).replace(/^\.\//, "")}`;
+    if (/^(?:https?:)?\/\//.test(path) || path.startsWith("/")) return path;
+    return new URL(String(path).replace(/^\.\//, ""), location.href).href;
   }
 
   function upsertWord(item, day, now = Date.now()) {
@@ -183,7 +188,7 @@
       examples: Array.from(new Set([item.example, ...(previous?.examples || [])])).slice(0, 5),
       lessons: Array.from(new Set([`词汇强化 Day ${day.day}`, ...(previous?.lessons || [])])).slice(0, 10),
       domain: item.domain,
-      course: "vocabulary-month",
+      course: courseId,
       speech: item.speech,
       audioTerm: savedAudioPath(item.audio_term),
       exampleSpeech: item.example_speech,
@@ -253,7 +258,8 @@
   }
 
   function selectDay(dayNumber, scroll = true) {
-    selectedDay = Math.max(1, Math.min(30, dayNumber));
+    selectedDay = Math.max(1, Math.min(course ? course.meta.days : 1, dayNumber));
+    selectedMonth = Math.ceil(selectedDay / 30);
     const url = new URL(location.href);
     url.searchParams.set("day", selectedDay);
     history.pushState({}, "", url);
@@ -262,7 +268,7 @@
   }
 
   function reviewHTML() {
-    const due = dueItems("vocabulary-month");
+    const due = dueItems(courseId || "all");
     const visible = due.slice(0, REVIEW_LIMIT);
     return `<section class="review-panel">
       <div class="review-head">
@@ -329,37 +335,60 @@
     </section>`;
   }
 
+  function monthCount() {
+    return course ? Math.ceil(course.days.length / 30) : 1;
+  }
+
+  function dayGridHTML(completed) {
+    const start = (selectedMonth - 1) * 30;
+    const end = Math.min(course.days.length, selectedMonth * 30);
+    const monthButtons = Array.from({ length: monthCount() }, (_, index) => {
+      const month = index + 1;
+      return `<button class="month-chip ${month === selectedMonth ? "active" : ""}" data-month="${month}">第 ${month} 月</button>`;
+    }).join("");
+    const dayButtons = course.days.slice(start, end).map(item =>
+      `<button class="day-link ${item.day === selectedDay ? "active" : ""} ${completed.has(item.day) ? "done" : ""}" data-day="${item.day}"><b>${completed.has(item.day) ? "✓ " : ""}Day ${item.day}</b><span>${esc(item.groups[0].topic)}<br>${esc(item.groups[2].topic)}</span></button>`
+    ).join("");
+    return `<div class="month-chips">${monthButtons}</div><div class="day-grid">${dayButtons}</div>`;
+  }
+
   function render() {
     if (!course) return;
     const day = course.days[selectedDay - 1];
+    const totalDays = course.meta.days;
     const completed = new Set(progress.completed || []);
     const due = dueItems();
-    const monthDue = dueItems("vocabulary-month");
+    const monthDue = dueItems(courseId);
     app.innerHTML = `<section class="hero">
-      <p class="eyebrow">30-Day Professional Vocabulary</p>
+      <p class="eyebrow">${totalDays}-Day Professional Vocabulary</p>
       <h1>${course.meta.title}</h1>
       <p class="hero-copy">${course.meta.subtitle}。口语主课练听说，这里专门扩充词汇和专业表达。先猜、再理解、最后主动说或写一次。</p>
       <div class="hero-stats">
-        <div class="hero-stat"><strong>${completed.size}/30</strong><span>已完成课程</span></div>
-        <div class="hero-stat"><strong>${course.meta.new_terms}</strong><span>整月新词与表达</span></div>
-        <div class="hero-stat"><strong>${vocab.filter(item => item.course === "vocabulary-month").length}</strong><span>已加入生词本</span></div>
+        <div class="hero-stat"><strong>${completed.size}/${totalDays}</strong><span>已完成课程</span></div>
+        <div class="hero-stat"><strong>${course.meta.new_terms}</strong><span>已构建新词与表达</span></div>
+        <div class="hero-stat"><strong>${vocab.filter(item => item.course === courseId).length}</strong><span>已加入生词本</span></div>
         <div class="hero-stat"><strong>${monthDue.length}/${due.length}</strong><span>本课到期 / 全部到期</span></div>
       </div>
     </section>
     ${reviewHTML()}
     <section class="month-section">
-      <div class="section-title"><div><p class="eyebrow">MONTH MAP</p><h2>Day 1–30 学习地图</h2></div><p>漏学可以顺延，不受日期限制。</p></div>
-      <div class="day-grid">${course.days.map(item => `<button class="day-link ${item.day === selectedDay ? "active" : ""} ${completed.has(item.day) ? "done" : ""}" data-day="${item.day}"><b>${completed.has(item.day) ? "✓ " : ""}Day ${item.day}</b><span>${esc(item.groups[0].topic)}<br>${esc(item.groups[2].topic)}</span></button>`).join("")}</div>
+      <div class="section-title"><div><p class="eyebrow">MONTH MAP</p><h2>Day 1–${totalDays} 学习地图</h2></div><p>漏学可以顺延，不受日期限制；按月切换查看。</p></div>
+      ${dayGridHTML(completed)}
     </section>
     <section class="lesson" id="lesson">
       <div class="lesson-head"><div><p class="eyebrow">TODAY'S LESSON</p><h2>${esc(day.title)}</h2><p>三个场景 · 18 个新词 · 6 道练习 · ${day.duration}</p></div>
       <div class="lesson-actions"><button class="secondary" data-reveal-all>揭晓全部释义</button><button class="primary" data-add-day>加入今天 18 词</button><button class="primary ${completed.has(day.day) ? "done" : ""}" data-complete>${completed.has(day.day) ? "✓ 今日已完成" : "标记今日完成"}</button></div></div>
       ${day.groups.map(groupHTML).join("")}
-      <div class="lesson-nav"><button data-prev ${day.day === 1 ? "disabled" : ""}>← 上一天</button><button data-next ${day.day === 30 ? "disabled" : ""}>下一天 →</button></div>
+      <div class="lesson-nav"><button data-prev ${day.day === 1 ? "disabled" : ""}>← 上一天</button><button data-next ${day.day === totalDays ? "disabled" : ""}>下一天 →</button></div>
     </section>`;
   }
 
   document.addEventListener("click", event => {
+    const monthChip = event.target.closest("[data-month]");
+    if (monthChip) {
+      selectedMonth = Math.max(1, Math.min(monthCount(), Number(monthChip.dataset.month)));
+      return render();
+    }
     const dayButton = event.target.closest("[data-day]");
     if (dayButton) return selectDay(Number(dayButton.dataset.day));
     const reveal = event.target.closest("[data-reveal]");
@@ -398,18 +427,31 @@
     if (event.target.closest("[data-next]")) return selectDay(selectedDay + 1);
   });
 
-  window.addEventListener("popstate", () => { selectedDay = currentDayFromURL(); render(); });
+  window.addEventListener("popstate", () => { selectedDay = currentDayFromURL(); selectedMonth = Math.ceil(selectedDay / 30); render(); });
+
+  function adoptCourse(data) {
+    course = data;
+    courseId = String(data.meta?.course || "speaking-vocab");
+    // Per-course progress key; migrate the single-course legacy key once.
+    PROGRESS_KEY = `ir:${courseId}:vocab_progress`;
+    const legacy = readJSON(LEGACY_PROGRESS_KEY, null);
+    if (legacy && !localStorage.getItem(PROGRESS_KEY)) {
+      progress = legacy;
+      writeJSON(PROGRESS_KEY, progress);
+    } else {
+      progress = readJSON(PROGRESS_KEY, { completed: [] });
+    }
+    selectedDay = currentDayFromURL();
+    selectedMonth = Math.ceil(selectedDay / 30);
+    render();
+    loadCloud();
+  }
 
   fetch("month.json")
     .then(response => {
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       return response.json();
     })
-    .then(data => {
-      course = data;
-      selectedDay = currentDayFromURL();
-      render();
-      loadCloud();
-    })
+    .then(adoptCourse)
     .catch(error => { app.innerHTML = `<section class="error-card">课程加载失败：${esc(error.message)}</section>`; });
 })();

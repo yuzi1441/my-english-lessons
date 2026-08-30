@@ -157,9 +157,20 @@
     return next;
   }
 
+  // Legacy stamps (pre multi-course) all belong to the main course.
+  const LEGACY_COURSE_ALIASES = {
+    "vocabulary-month": "speaking-vocab",
+    "speaking-course": "speaking-vocab",
+    "30 天词汇课": "speaking-vocab"
+  };
+
   function sourceKey(item) {
-    if (item?.course === "vocabulary-month" || (item?.lessons || []).some(value => String(value).includes("词汇强化"))) return "vocabulary-month";
-    if ((item?.lessons || []).length) return "speaking-course";
+    if (item?.course) {
+      const course = String(item.course);
+      return LEGACY_COURSE_ALIASES[course] || course;
+    }
+    if ((item?.lessons || []).some(value => String(value).includes("词汇强化"))) return "speaking-vocab";
+    if ((item?.lessons || []).length) return "speaking-vocab";
     return "other";
   }
 

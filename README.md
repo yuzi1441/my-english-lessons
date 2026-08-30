@@ -57,18 +57,32 @@ Then open `http://localhost:8770/index.html`.
 
 Generated lessons belong in `lessons/`, which is ignored by git. Do not commit user-captured transcripts, private articles, or generated lesson audio unless you own the rights.
 
-## 30-day vocabulary course
+## 365-day vocabulary & speaking course
 
-Build the independent computer, daily-conversation, and GitHub vocabulary course alongside the existing speaking lessons:
+A full year of lessons: every day introduces 18 hand-authored vocabulary items (computer, daily conversation, GitHub) and weaves all of them into one continuous story about Alex — a developer who joins a team on day 1 and grows into a tech lead by day 365. Sentence length and speech rate climb through 8 difficulty tiers; every English segment ships with an exact Chinese translation, per-segment Edge TTS audio, karaoke word timings, and per-term audio.
+
+Build everything (data, pages, audio — audio is incremental, so re-runs are cheap):
 
 ```bash
-python3 scripts/make_vocabulary_month.py
-python3 scripts/make_speaking_month.py
-python3 scripts/generate_speaking_audio.py
-python3 scripts/generate_vocabulary_audio.py
+python3 scripts/build_course.py --course speaking-vocab            # full build
+python3 scripts/build_course.py --course speaking-vocab --days 1-30  # a range only
+python3 scripts/build_course.py --course speaking-vocab --skip-generators --no-audio  # pages only
 ```
 
-The source data is written to `examples/vocabulary-month/month.json`; the interactive site is built at `lessons/week/vocabulary-month/`. Each day contains 18 new items and six exercises. All 18 items also drive the day's speaking lesson: `make_speaking_month.py` weaves them into a continuous Alex-onboarding story whose sentences grow from beginner short lines (Day 1) to professional scenarios (Day 30), with an exact Chinese translation for every English segment. `generate_speaking_audio.py` renders one independent Edge mp3 per story segment (plus karaoke word timings and per-term audio) on macOS, Linux, and Windows; `generate_vocabulary_audio.py` does the same for every term and example. Browser speech is kept only as a fallback for unreachable TTS. Review state is shared with the existing vocabulary book.
+### Multi-course layout
+
+- `examples/courses/<id>/course.json` — course registry (days, titles, tier bands)
+- `examples/courses/<id>/content/month-NN.vocab.json` + `month-NN.story.json` — hand-authored content, 30 days per file
+- `examples/courses/<id>/days/day-NNN/segments.json` — generated lesson data
+- `lessons/week/index.html` — course catalog (lists every course under `examples/courses/`)
+- `lessons/week/courses/<id>/` — the deployed course: day pages, interactive vocabulary site, runtime
+- Legacy URLs (`/day-01/`, `/vocabulary-month/`) redirect into the main course
+
+Learning state is namespaced per course (`ir:<course>:...`) with per-day practice keys; the vocabulary notebook (`ir_vocab_v1`) stays shared across courses and stamps each entry with an explicit `course` id. Adding a new course later (e.g. CET-4/6) only needs a new `examples/courses/<id>/` directory — the catalog picks it up automatically.
+
+### Deploying
+
+The built `lessons/week/` folder is fully static — any static file server works (nginx, Caddy, `python3 -m http.server`). The bundled `_worker.js` adds optional cloud sync of the vocabulary notebook on Cloudflare Pages; without it the site silently runs in local-only mode.
 
 The vocabulary notebook uses the official `ts-fsrs` scheduler with 90% target retention, four review ratings, short-term relearning steps, and per-card difficulty/stability state. `npm ci` installs the pinned browser scheduler before the static build copies its UMD bundle into `lessons/week/vendor/`.
 

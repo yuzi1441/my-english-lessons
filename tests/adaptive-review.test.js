@@ -66,8 +66,10 @@ test("review modes rotate through active recall formats", () => {
   assert.equal(Review.prompt(freshWord({ reviews: 3 })).mode, "cloze");
 });
 
-test("source labels distinguish vocabulary and speaking courses", () => {
-  assert.equal(Review.sourceKey(freshWord()), "vocabulary-month");
-  assert.equal(Review.sourceKey(freshWord({ course: undefined, lessons: ["Lesson 3"] })), "speaking-course");
+test("source labels distinguish courses and map legacy stamps onto the main course", () => {
+  assert.equal(Review.sourceKey(freshWord({ course: "speaking-vocab" })), "speaking-vocab");
+  assert.equal(Review.sourceKey(freshWord()), "speaking-vocab");
+  assert.equal(Review.sourceKey(freshWord({ course: "exam-cet4" })), "exam-cet4");
+  assert.equal(Review.sourceKey(freshWord({ course: undefined, lessons: ["Lesson 3"] })), "speaking-vocab");
   assert.equal(Review.sourceKey(freshWord({ course: undefined, lessons: [] })), "other");
 });

@@ -3,47 +3,63 @@ from pathlib import Path
 
 import jsonschema
 
-from scripts.make_vocabulary_month import build_course, normalize_key, validate_course
+from scripts.make_vocabulary_course import (
+    build_course,
+    load_course_config,
+    normalize_key,
+    validate_course,
+)
 
 
 ROOT = Path(__file__).resolve().parents[1]
+COURSE_ID = "speaking-vocab"
+CONFIG = load_course_config(COURSE_ID)
 
 
-def test_month_contract_and_schema():
-    course = build_course()
-    validate_course(course)
+def course():
+    return build_course(COURSE_ID)
+
+
+def test_course_contract_and_schema():
+    built = course()
+    validate_course(built, CONFIG)
     schema = json.loads((ROOT / "src" / "vocabulary-month.schema.json").read_text(encoding="utf-8"))
-    jsonschema.validate(course, schema)
+    jsonschema.validate(built, schema)
+    assert built["meta"]["course"] == COURSE_ID
+    assert built["meta"]["days"] == len(built["days"])
+    assert built["meta"]["days"] <= CONFIG["days"]
+    # months are authored in 30-day blocks; the final month may add the last 5 days to 365
+    assert built["meta"]["days"] % 30 in (0, 5)
 
 
-def test_exact_counts_and_domains():
-    course = build_course()
-    assert len(course["days"]) == 30
-    assert [day["day"] for day in course["days"]] == list(range(1, 31))
-    assert all([group["domain"] for group in day["groups"]] == ["computer", "daily", "github"] for day in course["days"])
-    assert all(len(group["items"]) == 6 for day in course["days"] for group in day["groups"])
-    assert sum(len(group["items"]) for day in course["days"] for group in day["groups"]) == 540
+def test_days_are_contiguous_and_structured():
+    built = course()
+    assert [day["day"] for day in built["days"]] == list(range(1, len(built["days"]) + 1))
+    assert all([group["domain"] for group in day["groups"]] == CONFIG["groups"] for day in built["days"])
+    assert all(len(group["items"]) == CONFIG["terms_per_group"] for day in built["days"] for group in day["groups"])
+    total = sum(len(group["items"]) for day in built["days"] for group in day["groups"])
+    assert total == built["meta"]["new_terms"]
 
 
 def test_vocabulary_is_unique_after_normalization():
-    course = build_course()
-    keys = [normalize_key(item["term"]) for day in course["days"] for group in day["groups"] for item in group["items"]]
-    assert len(keys) == len(set(keys)) == 540
+    built = course()
+    keys = [normalize_key(item["term"]) for day in built["days"] for group in day["groups"] for item in group["items"]]
+    assert len(keys) == len(set(keys)) == built["meta"]["new_terms"]
 
 
 def test_each_group_has_recognition_and_recall():
-    course = build_course()
-    for day in course["days"]:
+    built = course()
+    for day in built["days"]:
         for group in day["groups"]:
             assert [exercise["type"] for exercise in group["exercises"]] == ["choice", "fill"]
             assert all(exercise["answer"] for exercise in group["exercises"])
 
 
 def test_audio_contract_and_technical_pronunciation():
-    course = build_course()
-    items = [item for day in course["days"] for group in day["groups"] for item in group["items"]]
-    assert len({item["audio_term"] for item in items}) == 540
-    assert len({item["audio_example"] for item in items}) == 540
+    built = course()
+    items = [item for day in built["days"] for group in day["groups"] for item in group["items"]]
+    assert len({item["audio_term"] for item in items}) == built["meta"]["new_terms"]
+    assert len({item["audio_example"] for item in items}) == built["meta"]["new_terms"]
     by_term = {item["term"]: item for item in items}
     assert by_term["API"]["speech"] == "A P I"
     assert by_term["README file"]["speech"] == "read me file"

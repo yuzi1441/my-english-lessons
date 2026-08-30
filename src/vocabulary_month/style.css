@@ -108,6 +108,10 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .section-title { display: flex; justify-content: space-between; align-items: end; gap: 16px; margin-bottom: 14px; }
 .section-title h2 { margin: 0; font-size: 25px; letter-spacing: -.025em; }
 .section-title p { margin: 0; color: var(--muted); font-size: 13px; }
+.month-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+.month-chip { padding: 7px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--paper); color: var(--ink); font-size: 13px; cursor: pointer; }
+.month-chip:hover { border-color: var(--green); }
+.month-chip.active { background: var(--green); border-color: var(--green); color: #fff; }
 .day-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 10px; }
 .day-link { min-height: 78px; padding: 12px; text-align: left; border: 1px solid var(--line); border-radius: 14px; background: var(--paper); cursor: pointer; color: var(--ink); }
 .day-link:hover, .day-link.active { border-color: var(--green); box-shadow: 0 8px 24px rgba(31,107,80,.1); }

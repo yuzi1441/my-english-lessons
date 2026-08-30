@@ -1,0 +1,1230 @@
+{
+ "month": 12,
+ "days": [
+  {
+   "computer": {
+    "topic": "成为技术负责人",
+    "terms": [
+     "tech lead role definition|技术负责人角色定义，写代码少了但价值更大",
+     "delegation muscle|委派肌肉，把活派出去的练习",
+     "first team meeting design|第一次团队会设计，定调子的一小时",
+     "lead of one checklist|领导自己清单，先管好自己的日历",
+     "code review as teaching|评审即教学，意见写成问题",
+     "ic to lead transition map|骨干转负责人路线图，角色的换轨"
+    ]
+   },
+   "daily": {
+    "topic": "家里换班的第一个月",
+    "terms": [
+     "I hand over the TV remote politics.|我把遥控器政治交出去了。",
+     "Cooking duty means planning duty.|掌勺意味着负责计划。",
+     "Asking for help at home, practiced.|在家练习开口求助。",
+     "The family noticed I listen more.|家人说我听得更认真了。",
+     "Leading means serving dinner first.|带头就是先端菜。",
+     "My new job is making everyone shine.|我的新工作是让大家都发光。"
+    ]
+   },
+   "github": {
+    "topic": "负责人的一天",
+    "terms": [
+     "lead daily triage hour|负责人每日分诊时段，先看人再看码",
+     "one on one agenda template|一对一议程模板，一周一聊",
+     "unblocking first policy|先清障碍原则，卡住的人优先",
+     "delegate or do decision tree|委派还是亲办决策树，两分钟判定",
+     "visible work queue|可见的工作队列，谁来都能认领",
+     "lead calendar audit|负责人日历审计，会议别吃掉思考"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "一对一的艺术",
+    "terms": [
+     "one on one cadence|一对一节奏，固定不被挪",
+     "listening first agenda|先听后说议程，前半程闭嘴",
+     "career growth questions|成长问题清单，问未来的问题",
+     "feedback that sticks|记得住的反馈，一个具体场景",
+     "private vs public praise|公开表扬私下纠正的场景题",
+     "follow up on old asks|旧托付的跟进，说过就要回音"
+    ]
+   },
+   "daily": {
+    "topic": "和爸妈的一对一",
+    "terms": [
+     "Monthly walk with dad, no phones.|和爸爸每月散步不带手机。",
+     "Mom talks more on walks.|妈妈走路时话更多。",
+     "Ask about their dreams, not tasks.|问他们的梦想不是任务。",
+     "Old stories on the third ask.|第三次追问才有老故事。",
+     "Silence is part of listening.|沉默是倾听的一部分。",
+     "The walk matters more than the agenda.|散步本身比议程重要。"
+    ]
+   },
+   "github": {
+    "topic": "团队会议改革",
+    "terms": [
+     "standup redesign for leads|负责人版站会重设计，三问变一问",
+     "meeting cost calculator|会议成本计算器，人时换算成钱",
+     "decision meeting note template|决策会议纪要模板，结论即行动",
+     "skip level listening tour|越层倾听之旅，每季八次",
+     "meeting free core hours|核心无会时段，上午三小时",
+     "agenda veto right|议程否决权，没有议题不开会"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "委派与放手",
+    "terms": [
+     "delegation level framework|委派层级框架，从执行到拍板",
+     "outcome over method briefing|讲结果不讲方法，目标交给方法",
+     "context transfer doc|上下文转移文档，为什么也一起交",
+     "trust but verify checkpoints|信任但设检查点，放手不放眼",
+     "boring task automation first|无聊任务先自动化，能派给机器的别派人",
+     "growth stretch assignment|拉伸式任务分配，跳一跳够得着"
+    ]
+   },
+   "daily": {
+    "topic": "教侄女做饭",
+    "terms": [
+     "She cracks eggs her own way.|她有自己的打蛋方式。",
+     "I bite back the corrections.|我忍住了纠正的冲动。",
+     "The kitchen survives the experiment.|厨房挺过了实验。",
+     "Her pasta has a secret now.|她的意面有了秘密配方。",
+     "Mess is the tuition of learning.|混乱是学习的学费。",
+     "Proud chef, proud aunt.|骄傲的厨师，骄傲的姑姑。"
+    ]
+   },
+   "github": {
+    "topic": "委派工程化",
+    "terms": [
+     "ownership transfer checklist|所有权转移清单，交接有回执",
+     "code ownership by interest|按兴趣分代码归属，热爱最持久",
+     "review load rebalancing|评审负载再平衡，别让老实人淹没",
+     "first release ownership|第一次发布所有权，完整的荣誉",
+     "mentored pr flow|带教式 PR 流程，边评边教",
+     "delegation retro questions|委派复盘问题，哪些该早放手"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "技术决策带领",
+    "terms": [
+     "facilitating tech debates|主持技术辩论，观点交锋不伤人",
+     "disagree and commit culture|反对而投入的文化，决定后全力干",
+     "decision speed vs accuracy|决策速度与准确性，七成把握就动",
+     "pre mortem facilitation|事前验尸主持，先假设翻车",
+     "opinionated vs neutral chair|有立场与中立的主持者切换",
+     "post decision storytelling|决定后的叙事统一，对外一个声音"
+    ]
+   },
+   "daily": {
+    "topic": "家庭旅行的拍板",
+    "terms": [
+     "Five destinations, one decision night.|五个目的地一个决策夜。",
+     "We vote with weighted stickers.|我们用加权贴纸投票。",
+     "Grandpa gets the final call on pace.|节奏由爷爷最终拍板。",
+     "Kids own the snack itinerary.|零食行程归孩子们。",
+     "The undecided trip waits a week.|悬而未决的旅行等一周。",
+     "Once decided, complaints pause.|定了之后抱怨暂停。"
+    ]
+   },
+   "github": {
+    "topic": "决策落地工程",
+    "terms": [
+     "decision log public mirror|决策日志公开镜像，团队都能看",
+     "revisit date enforcement|重审日期强制执行，到期自动上会",
+     "dissent recording norm|异议记录规范，反对留档不受罚",
+     "decision owner escalation map|决策人升级地图，悬空知道找谁",
+     "fast path for reversible calls|可逆决策快速通道，两句话就拍",
+     "decision debt backlog review|决策欠账盘点，悬而不决清单"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "团队健康度量",
+    "terms": [
+     "team health pulse survey|团队健康脉搏调研，五题一分钟",
+     "sustainable pace indicators|可持续节奏指标，加班热点图",
+     "oncall pain index|值班痛苦指数， pager 频率统计",
+     "growth conversation coverage|成长对话覆盖率，人人被聊过",
+     "candor temperature check|坦率温度计，敢说真话吗",
+     "silence pattern detection|沉默模式检测，会上最安静的人"
+    ]
+   },
+   "daily": {
+    "topic": "家庭氛围的温度计",
+    "terms": [
+     "Dinner laughter is our metric.|晚餐笑声是我们的指标。",
+     "Quiet kids get gentle check ins.|安静的孩子得到温柔问候。",
+     "We ask the quiet one first.|我们先问最安静的人。",
+     "Mood shares at Sunday dinner.|周日晚餐分享心情。",
+     "Grudges get aired and retired.|怨气晒一晒就退休。",
+     "The vibe check is a skill.|氛围感知是门手艺。"
+    ]
+   },
+   "github": {
+    "topic": "健康改进闭环",
+    "terms": [
+     "pulse to action flow|调研到行动流程，结果必须回应用",
+     "team working agreement refresh|团队公约刷新，季度更新一次",
+     "workload rebalancing ritual|工作量再平衡仪式，忙闲肉眼可见",
+     "toil budget for the team|团队琐事预算，占比如超即减",
+     "psych safety practices list|心理安全感实践清单，提问不受伤",
+     "meeting free core hours audit|核心无会时段审计，三小时神圣"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "招聘与面试带领",
+    "terms": [
+     "interview loop design|面试流程设计，四场各司其职",
+     "work sample exercise design|工作样本题设计，像真的工作",
+     "structured interview rubric|结构化面试评分表，同一把尺",
+     "bias check in debrief|讨论环节偏见检查，谁被贴标签了",
+     "candidate experience audit|候选人体验审计，落选也留好印象",
+     "hiring bar calibration|录用标准校准，老带新评一致"
+    ]
+   },
+   "daily": {
+    "topic": "帮亲戚面试保姆",
+    "terms": [
+     "We designed questions before meeting.|见面之前先设计问题。",
+     "Same questions, comparable answers.|同样的问题才有可比的答案。",
+     "A trial afternoon beats ten talks.|试工半天胜过十次面谈。",
+     "References called, twice.|推荐人打了两遍。",
+     "The kid had veto power.|孩子有一票否决。",
+     "Kind rejection letters matter.|温和的拒信也重要。"
+    ]
+   },
+   "github": {
+    "topic": "面试官培养",
+    "terms": [
+     "shadow then reverse shadow interview|影子面试到反影子，先看后主评",
+     "interview feedback quality lint|面试反馈质量检查，理由必须具体",
+     "panel debrief facilitation|面评讨论主持，证据对齐不站队",
+     "no hire courtesy standard|拒信礼貌标准，行业口碑是长期资产",
+     "interviewer calibration sessions|面试官校准会，同一道题对齐打分",
+     "candidate follow up survey|候选人跟踪问卷，体验改进闭环"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "带领跨时区团队",
+    "terms": [
+     "async first documentation|异步优先文档，先写后说",
+     "overlap hour design|重叠时段设计，两小时核心协作",
+     "handoff quality checklist|交接质量清单，像值班交班",
+     "fair night call rota|深夜会议公平轮值，轮流扛",
+     "recorded demo culture|录屏演示文化，异地的首映礼",
+     "written decision default|书面决策默认，能写字不开会"
+    ]
+   },
+   "daily": {
+    "topic": "和留学家人的时差",
+    "terms": [
+     "We share photos on their morning.|按他们的早晨分享照片。",
+     "Voice notes bridge the gap.|语音留言跨越时差。",
+     "The family calendar shows two timezones.|家庭日历显示两个时区。",
+     "Holidays get celebrated twice.|节日可以过两次。",
+     "Async stories keep bonds warm.|异步的故事保温亲情。",
+     "Missing someone needs scheduling.|想念也是要排期的。"
+    ]
+   },
+   "github": {
+    "topic": "跨时区工程治理",
+    "terms": [
+     "follow the sun handoff note|日不落交接笔记，太阳替你值班",
+     "written standup quality bar|书面站会质量标准，三行也要有信息量",
+     "overlap hour protection policy|重叠时段保护政策，不排例会",
+     "async review turnaround targets|异步评审时限目标，日落前有答复",
+     "timezone pain audit|时区痛点审计，谁的深夜太多了",
+     "global social ritual design|全球团建仪式设计，线上也干杯"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "危机中的带队",
+    "terms": [
+     "incident command for leads|负责人的事件指挥，稳住阵脚第一步",
+     "communication cadence in crisis|危机中的沟通节奏，固定间隔发进展",
+     "team triage under pressure|高压下的团队分诊，人先于任务",
+     "post crisis recovery plan|危机后恢复计划，缓一周再冲刺",
+     "blameless debrief facilitation|无责复盘主持，把怕变成改进",
+     "customer empathy in outages|故障中的客户同理心，道歉要有温度"
+    ]
+   },
+   "daily": {
+    "topic": "台风夜的家庭指挥",
+    "terms": [
+     "Candles, radio, and one calm voice.|蜡烛、收音机，和一颗冷静的声音。",
+     "We assign roles before panic does.|我们比慌乱先分配角色。",
+     "The checklist taped inside the door.|清单贴在门内侧。",
+     "Kids get real jobs in storms.|风暴中孩子也有真任务。",
+     "After the storm, we thank the team.|风暴过后感谢每个人。",
+     "The review happens over hot soup.|复盘在热汤里进行。"
+    ]
+   },
+   "github": {
+    "topic": "危机带队实践",
+    "terms": [
+     "role card for incident leads|事件负责人角色卡，职责写在卡上",
+     "recovery sprint design|恢复冲刺设计，节奏先稳再快",
+     "fatigue watch during crisis|危机中的疲劳监视，连续十六小时强制换班",
+     "thank you notes after incidents|事件后致谢名单，辛苦要说出口",
+     "crisis learnings into playbooks|危机教训进手册，剧本加一页",
+     "family of users communication|面向用户家庭的沟通，把用户当邻居"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "导师的导师",
+    "terms": [
+     "mentoring other mentors|辅导其他导师，传灯人的传灯人",
+     "coaching vs doing boundary|辅导与代做的边界，手不伸太长",
+     "feedback on feedback giving|对给反馈的反馈，元层面的成长",
+     "mentee graduation planning|学员毕业规划，独立之日要设计",
+     "sponsorship beyond mentorship|超越辅导的举荐，机会才是大礼",
+     "reverse mentoring value|反向导师价值，新人教我们新世界"
+    ]
+   },
+   "daily": {
+    "topic": "教爸爸用智能手机",
+    "terms": [
+     "Dad teaches mom what I taught him.|爸爸把教的转教给妈妈。",
+     "My tutorial became his tutorial.|我的教程变成了他的教程。",
+     "He found shortcuts I never knew.|他发现了我不知道的捷径。",
+     "Patience inherited patiently.|耐心被耐心地继承。",
+     "Teaching twice deepens it once.|教两遍自己更深一遍。",
+     "The student outgrew the syllabus.|学生超出了大纲。"
+    ]
+   },
+   "github": {
+    "topic": "导师网络运营",
+    "terms": [
+     "mentor matching refresh|导师配对刷新，半年重排一次",
+     "mentor office hour rotation|导师答疑轮值，固定时段守楼",
+     "mentoring playbook wiki|辅导手册 Wiki，案例沉淀成册",
+     "mentor feedback loop|导师反馈回路，被辅导者评分",
+     "graduation to mentor pipeline|毕业转导师管道，出师即带新",
+     "mentorship kudos channel|导师致谢频道，好人好事上榜"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "团队规模变化",
+    "terms": [
+     "scaling team rituals|团队仪式的扩容，十人到三十人",
+     "sub team formation criteria|小组拆分标准，什么时候分桌",
+     "communication bus factor|沟通总线瓶颈，全员会还能撑多久",
+     "onboarding cohort system|新人成批入职体系，同批同行",
+     "culture carrier selection|文化传递者选择，谁来讲过去",
+     "knowledge dilution guard|知识稀释防护，老故事定期讲"
+    ]
+   },
+   "daily": {
+    "topic": "从三人饭到两桌席",
+    "terms": [
+     "Dinner moved from one table to two.|晚餐从一张桌变两桌。",
+     "The soup recipe doubled with care.|汤的配方被小心翻倍。",
+     "Grandkids get their own corner table.|孙辈有了自己的角落桌。",
+     "Old stories told between tables.|老故事在桌与桌之间流传。",
+     "Chaos managed by an emcee.|有个主持人就管住了热闹。",
+     "Bigger family, same warmth.|家庭变大，温度不变。"
+    ]
+   },
+   "github": {
+    "topic": "团队扩张工程",
+    "terms": [
+     "team split migration plan|团队拆分迁移计划，仓库与值班一起分",
+     "interview capacity expansion|面试产能扩充，老面试官翻倍",
+     "ritual deprecation for scale|仪式的规模性废止，不再适用的停办",
+     "onboarding buddy ratio policy|伙伴比例政策，一个带俩封顶",
+     "documentation depth per team|各团队文档深度，越新的越厚",
+     "culture interview for leads|负责人的文化面试，也会招人"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "战略传达",
+    "terms": [
+     "strategy narrative writing|战略叙事写作，一页讲清为什么",
+     "goal cascade without distortion|目标逐层传导不失真，传话游戏防御",
+     "saying no with alternatives|带替代方案的拒绝，说不也给路",
+     "priority protection from above|自上而下的优先级护持，别让杂音插队",
+     "quarterly narrative refresh|季度叙事刷新，故事也要换季",
+     "all hands design|全员会设计，信息与情绪并重"
+    ]
+   },
+   "daily": {
+    "topic": "家庭大会的演讲",
+    "terms": [
+     "Grandpa presents the travel strategy.|爷爷发布旅行战略。",
+     "One page, three dreams, one budget.|一页纸三个梦想一份预算。",
+     "Kids translate strategy into snacks.|孩子把战略翻译成零食。",
+     "Objections recorded in the minutes.|反对意见记进会议纪要。",
+     "The plan survives contact with school.|计划经受了开学的考验。",
+     "Strategy is a story we agree on.|战略是我们都认同的故事。"
+    ]
+   },
+   "github": {
+    "topic": "战略对齐工程",
+    "terms": [
+     "strategy to backlog trace|战略到需求池追溯，每任务挂目标",
+     "quarterly goal linter|季度目标检查器，KR 必须可度量",
+     "team goal dependency graph|团队目标依赖图，谁等谁先清楚",
+     "strategy question office hour|战略答疑时间，不懂就问不算傻",
+     "goal change changelog|目标变更日志，改目标也要公示",
+     "misalignment early signal|失准早期信号，方向偏了有人喊"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "绩效与成长对话",
+    "terms": [
+     "growth focused review design|成长导向的绩效设计，评的是轨迹",
+     "evidence based feedback file|基于证据的反馈档案，平时就记",
+     "calibration fairness for juniors|初级员工校准公平，声音小不等于贡献小",
+     "promotion packet mentorship|晋升材料辅导，把功劳写成故事",
+     "stretch feedback delivery|高难反馈的传达方式，硬话软说",
+     "career pivot support|职业转向支持，转岗也是成长"
+    ]
+   },
+   "daily": {
+    "topic": "侄女的成长档案",
+    "terms": [
+     "The growth portfolio, not just grades.|成长作品集不只是分数。",
+     "We compare her to her past self.|只和过去的自己比。",
+     "Struggles get narrated kindly.|困难被温柔地讲述。",
+     "Talents get challenging stages.|天赋得到有挑战的舞台。",
+     "Certificates are mile markers.|证书是里程碑不是终点。",
+     "The bar rises with a hand.|标准上移时有人扶。"
+    ]
+   },
+   "github": {
+    "topic": "成长档案工程",
+    "terms": [
+     "growth log tooling|成长记录工具化，亮点自动入册",
+     "promotion case peer review|晋升案例同行预审，材料先过三双眼睛",
+     "feedback frequency audit|反馈频率审计，别等年度才谈",
+     "strengths deployed check|长处是否被用上检查，放对位置了吗",
+     "learning budget spending review|学习预算使用复查，报了课去上课",
+     "career ladders plain talk|职级阶梯白话版，晋升规则说人话"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "团队可持续节奏",
+    "terms": [
+     "sustainable sprint design|可持续迭代设计，容量按八成排",
+     "recovery as planning unit|恢复作为计划单元，冲刺后排假",
+     "meeting load by role audit|按角色审计会议负载，负责人最危险",
+     "vacation coverage rehearsal|休假覆盖演练，人人敢请假",
+     "energy check in retros|复盘里的能量检查，累不累也算状态",
+     "overtime debt visibility|加班债可视化，欠的休息要还"
+    ]
+   },
+   "daily": {
+    "topic": "全家的充电日",
+    "terms": [
+     "Sunday is officially boring.|周日官方宣布无聊。",
+     "The family do not disturb sign.|家庭免打扰牌。",
+     "Naps are scheduled like meetings.|午睡像会议一样排期。",
+     "Guilt free rest took practice.|不带愧疚的休息需要练习。",
+     "We protect each other's naps.|我们互相守护午睡。",
+     "Recharge is a shared value.|充电是全家共识。"
+    ]
+   },
+   "github": {
+    "topic": "节奏保护工程",
+    "terms": [
+     "oncall load rebalancing|值班负载再平衡，谁响太多换谁",
+     "release pace sanity check|发布节奏体检，连发三周要喊停",
+     "meeting audit automation|会议负载自动审计，日历数据说话",
+     "vacation coverage doc template|休假覆盖文档模板，走前写好交接",
+     "overtime alert threshold|加班告警阈值，连续熬夜就上报",
+     "rest retrospective question|复盘必问休息，睡够了吗也上议程"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "负责人自我管理",
+    "terms": [
+     "lead self review ritual|负责人自我复盘仪式，问自己三个问题",
+     "delegation exit audit|委派退出审计，还抓着什么不放",
+     "learning log for leaders|负责人学习日志，自己的成长别停",
+     "peer lead support group|同级负责人互助小组，互吐苦水互支招",
+     "executive time for thinking|留给思考的高层时间，日历上的空白",
+     "feedback seeking as habit|主动求反馈的习惯，每月问一次下属"
+    ]
+   },
+   "daily": {
+    "topic": "给自己的一对一",
+    "terms": [
+     "I schedule me time like a meeting.|我给自己的时间也写进日历。",
+     "The morning walk is my standup.|晨间散步是我的站会。",
+     "Journal asks what I avoided.|日记问我今天逃避了什么。",
+     "My hobby gets protected hours.|爱好有受保护时段。",
+     "Saying no to myself sometimes.|有时也要对自己说不。",
+     "The leader needs leading too.|领队也需要被领导。"
+    ]
+   },
+   "github": {
+    "topic": "负责人工具箱",
+    "terms": [
+     "personal retro template|个人复盘模板，对自己也用流程",
+     "decision journal app config|决策日记应用配置，当日记当日结",
+     "leadership reading list|领导力书单，少而精的十本",
+     "peer mentor standing call|同级导师固定通话，每月一次吐槽加充电",
+     "delegation dashboard for self|自我委派看板，我手里还剩几件事",
+     "energy audit reminder|精力审计提醒，季度自查一次"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "交接与继任",
+    "terms": [
+     "succession planning basics|继任规划基础，谁来接我的班",
+     "successor shadowing program|继任者影子计划，跟岗三个月",
+     "runbook completeness for handover|交接手册完整性，脱离本人可运转",
+     "relationship map handover|关系图谱交接，人脉也是资产",
+     "decision authority transfer|决策权移交，哪些章要交",
+     "legacy message to team|给团队的告别信，价值观的最后一次强调"
+    ]
+   },
+   "daily": {
+    "topic": "爷爷的传家教学",
+    "terms": [
+     "Grandpa teaches the dumpling fold.|爷爷教包饺子的手法。",
+     "Family recipes get written finally.|家传菜谱终于落笔。",
+     "The story behind each tradition.|每个传统背后的故事。",
+     "He watches, then lets us lead.|他先看着，然后让我们带。",
+     "The title passes, the love stays.|头衔交出去，爱留下来。",
+     "Succession is a gift, not a loss.|继任是馈赠不是失去。"
+    ]
+   },
+   "github": {
+    "topic": "交接工程",
+    "terms": [
+     "handover document generation|交接文档生成，一键导出我的职责",
+     "shadow oncall rotation|继任者影子值班，同岗双人",
+     "decision authority timeline|决策权移交时间线，逐步放权",
+     "introduction email cascade|介绍邮件瀑布，人脉逐个交接",
+     "post handoff availability policy|交接后可用性约定，顾问不保姆",
+     "handover retro with successor|与继任者的交接复盘，哪里没写清"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "毕业与新的地平线",
+    "terms": [
+     "graduation criteria self check|毕业标准自查，我准备好了吗",
+     "handover readiness review|交接就绪评审，文档与人心",
+     "the next learner mindset|下一个学习者心态，毕业不是完成",
+     "alumni contribution channels|校友贡献渠道，走了也能帮",
+     "mentor for the next chapter|下一章的导师，山外有山要问路",
+     "rest before the next summit|下座山前的休息，允许自己停一停"
+    ]
+   },
+   "daily": {
+    "topic": "毕业典礼的清晨",
+    "terms": [
+     "Day three hundred sixty five breakfast.|第三百六十五天的早餐。",
+     "The same congee, a different person eating it.|同样的粥，吃粥的人不同了。",
+     "Certificates matter less than calluses.|证书不如手上的茧。",
+     "The notebook is full, start a new one.|笔记本写满了，该开新本了。",
+     "Thank the ordinary mornings.|感谢那些平凡的清晨。",
+     "Graduation is a door, not a wall.|毕业是门不是墙。"
+    ]
+   },
+   "github": {
+    "topic": "毕业交付",
+    "terms": [
+     "final commit message ritual|最后一次提交的仪式感，一行致谢",
+     "the repo I leave behind|留下的仓库，文档齐全提交干净",
+     "successor first week plan|继任者第一周计划，已写好待用",
+     "lessons for the next cohort|给下一期的课程，三十六条教训",
+     "open source farewell gifts|开源告别礼物，内部工具外放",
+     "the invitation to come back|回来的邀请，门永远开着"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全交接季",
+    "terms": [
+     "privilege handover audit|权限交接审计，每一项都有去向",
+     "secret rotation at exit|离岗密钥轮换，把钥匙还给守门人",
+     "oncall shadow completion check|值班影子完成核验，能独立顶岗",
+     "escalation path transfer|升级路径移交，认识的人一起转交",
+     "knowledge debt clearance|知识债清偿，最后再还一笔",
+     "farewell retro facilitation|告别复盘主持，笑着把坑数完"
+    ]
+   },
+   "daily": {
+    "topic": "搬家前的最后一夜",
+    "terms": [
+     "The last night in the old flat.|老公寓的最后一夜。",
+     "We walk every room once more.|每个房间再走一遍。",
+     "The wall where photos hung.|挂过照片的那面墙。",
+     "Keys on the counter, labeled.|钥匙放在台面上贴好标签。",
+     "Gratitude for the leaky faucet.|感谢那只漏水的龙头。",
+     "Doors close, homes continue.|门关上了，家还在继续。"
+    ]
+   },
+   "github": {
+    "topic": "交接周工程",
+    "terms": [
+     "handover doc final pass|交接文档最终通读，新人视角再走一遍",
+     "shadow day for successor|继任者跟岗日，一人主一人辅",
+     "access revocation schedule|权限撤销时刻表，逐步收口",
+     "introduction meetings batch|引荐会议批量安排，关键人逐个见",
+     "open threads inventory|未决事项盘点，每条有说明",
+     "farewell commit signature|告别提交署名，最后一次签名"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "带团队的一年复盘",
+    "terms": [
+     "team growth year review|团队成长年度回顾，谁升级了什么",
+     "retention and regret analysis|留存与惋惜分析，走了的谁最可惜",
+     "rituals that survived audit|活下来的仪式审计，有效的保留",
+     "conflict patterns annual look|冲突模式年度观察，吵架的规律",
+     "delegation comfort progress|委派舒适度进步，放手的旅程",
+     "the team without me test|没有我的团队测试，缺席一周的观察"
+    ]
+   },
+   "daily": {
+    "topic": "家庭年会的议程",
+    "terms": [
+     "The annual family meeting agenda.|年度家庭大会议程。",
+     "Wins, misses, wishes, and one apology.|收获遗憾愿望和一句道歉。",
+     "Everyone gets uninterrupted minutes.|人人有不被打断的三分钟。",
+     "The year book page we vote on.|我们投票选年度一页。",
+     "Next year theme chosen together.|来年主题共同选定。",
+     "Meeting ends with group photo.|会议以合影收尾。"
+    ]
+   },
+   "github": {
+    "topic": "年度复盘工程",
+    "terms": [
+     "annual retro doc structure|年度复盘文档结构，四部分一页一题",
+     "anonymous input collection|匿名输入收集，敢言频道关闭前采集",
+     "metrics year over year comparison|指标同比对照，数字讲故事",
+     "individual growth summaries|个人成长摘要，一人一段感谢",
+     "next year proposal draft|来年提案草稿，方向先画铅笔稿",
+     "celebration event planning|年度庆祝活动规划，先把谢说够"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "第365天词汇总结",
+    "terms": [
+     "compound habit proof|习惯复利的证据，三百六十五天可见",
+     "vocabulary of a year|一年的词汇量，六千五百次的相遇",
+     "confidence inventory final|最终信心盘点，从怕到敢的清单",
+     "the story I can now tell|现在能讲出的故事，全英文的三分钟",
+     "next language steps|下一阶段语言计划， immersion 继续",
+     "gratitude to mentors final|对导师的最终致谢，一路的灯"
+    ]
+   },
+   "daily": {
+    "topic": "第三百六十五天的家宴",
+    "terms": [
+     "Day three hundred sixty five feast.|第三百六十五天的家宴。",
+     "Everyone shares one English sentence.|每人说一句英文。",
+     "Grandma toast in two languages.|奶奶用两种语言祝酒。",
+     "The year book on the table.|年册摆在桌上。",
+     "Gratitude circle before dessert.|甜点前围圈致谢。",
+     "The next book opens tomorrow.|明天翻开新的一本。"
+    ]
+   },
+   "github": {
+    "topic": "365 天项目志",
+    "terms": [
+     "project completion report|项目完成报告，一年一条时间线",
+     "lessons that outlive the course|比课程更长久的教训，写给明年的我",
+     "the community that formed|长出来的社区，从学员到伙伴",
+     "open source of the course tools|课程工具的开源，回馈给同路人",
+     "the next 365 invitation|下一个 365 的邀请，学无止境",
+     "day one beginner mind kept|保留下来的第一天初心，永远的新手"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "毕业周致谢",
+    "terms": [
+     "mentor thank you letters|导师感谢信，一封一封手写",
+     "the librarian of our project|项目图书管理员，知识守夜人",
+     "support team farewell gifts|支持团队告别礼，最熟悉的陌生人",
+     "the users who taught us|教会我们的用户，工单是教材",
+     "the barista downstairs|楼下咖啡师，两百次拿铁",
+     "family who ate late dinners|等晚饭的家人，最长的耐心"
+    ]
+   },
+   "daily": {
+    "topic": "谢师宴的厨房",
+    "terms": [
+     "We cook the mentors favorite dishes.|我们做导师最爱的菜。",
+     "The recipe came full circle.|菜谱完成了一次轮回。",
+     "Leo claims the dumpling prize.|Leo 认领了包饺子奖。",
+     "Priya brings her own hot sauce.|Priya 带来了自己的辣酱。",
+     "Maria brings the first standup notes.|Maria 带来最初的站会笔记。",
+     "One table holds a whole year.|一张桌子坐得下一整年。"
+    ]
+   },
+   "github": {
+    "topic": "最后一周的仓库",
+    "terms": [
+     "final sprint burndown clean|最后一次冲刺燃尽清零",
+     "documentation final pass|文档最后一遍通读，错别字也爱",
+     "the tag v1 0 ceremony|v1.0 标签仪式，历史定格",
+     "license file generosity|许可证的慷慨，MIT 送出",
+     "credits file complete|致谢文件完整，一百个名字",
+     "the first issue of next year|明年第一个问题单，留给继任者的开门礼"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "下一程的选择",
+    "terms": [
+     "next year learning tracks|来年学习赛道，三个候选方向",
+     "deep specialist vs broad lead|深专家或宽负责人，岔路口的对话",
+     "open source contribution plan|开源贡献计划，把回报变成日常",
+     "teaching as next challenge|教学作为下一挑战，把一年讲给别人",
+     "the startup question honestly|创业问题的诚实自答，答案还在发酵",
+     "sabbath quarter possibility|休整季的可能性，停一步看全景"
+    ]
+   },
+   "daily": {
+    "topic": "新日历的第一页",
+    "terms": [
+     "The new calendar stays unmarked.|新日历还没有字。",
+     "Three options, no rush.|三个选项，不着急。",
+     "The garden will decide by spring.|花园等到春天再决定。",
+     "Some pages should stay blank.|有些页就该留白。",
+     "The pen is full of ink.|笔里满是墨水。",
+     "Year two begins whenever I do.|第二年，从我出发那天开始。"
+    ]
+   },
+   "github": {
+    "topic": "开源感恩发布",
+    "terms": [
+     "course tools open sourced|课程工具开源发布，回馈社区",
+     "first external issue welcomed|第一个外部问题单欢迎仪式",
+     "good first issue batch prepared|新手任务批次准备，三十个上车点",
+     "contributor guide polished|贡献者指南打磨，语言友好",
+     "the community repo created|社区仓库创建，问答有家",
+     "maintainer hat tried on|维护者帽子试戴，新的责任"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "回到学习者身份",
+    "terms": [
+     "beginner mind renewed|初心更新，空杯的勇气",
+     "next domain shortlist|下一个领域候选清单，云、数据或安全",
+     "learning in public commitment|公开学习承诺，博客周更",
+     "the pleasure of not knowing|不知道的乐趣，提问的自由",
+     "study group as student|作为学员的学习小组，换到被带的一侧",
+     "first week humility plan|第一周谦逊计划，多问少断言"
+    ]
+   },
+   "daily": {
+    "topic": "新一册第一课",
+    "terms": [
+     "New notebook, first page blank.|新笔记本第一页空白。",
+     "I sign up as a student again.|我再次以学生身份报名。",
+     "The teacher is younger than me.|老师比我年轻。",
+     "Wonderful, a whole new alphabet.|太好了，一套全新的字母。",
+     "Questions listed before class.|上课前列好问题。",
+     "The ladder continues upward.|梯子继续向上。"
+    ]
+   },
+   "github": {
+    "topic": "新手仓库重建",
+    "terms": [
+     "fresh repo for the new track|新赛道的新仓库，干净的 git init",
+     "readme written as a student|以学生身份写 README，想学会什么",
+     "first issue assigned to self|把第一个问题单派给自己",
+     "learning branch naming|学习分支命名，learn 前缀的新鲜感",
+     "the mentor inbox open|导师的收件箱敞开，提问不过夜",
+     "commit to curiosity|向好奇心提交，每日一次"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "传承的仪式",
+    "terms": [
+     "graduation keynote notes|毕业演讲笔记，要讲的三件事",
+     "the torch pass checklist|火炬传递清单，一件一件交接",
+     "mentees becoming mentors batch|学员转导师批次，火炬成排",
+     "the alumni network value|校友网络的价值，毕业不散场",
+     "tradition documentation for successors|给继任者的传统文档，仪式的说明书",
+     "the gift of being replaced|被取代的礼物，系统不再需要我"
+    ]
+   },
+   "daily": {
+    "topic": "老屋的新主人",
+    "terms": [
+     "The new family moves into our old flat.|新家庭搬进我们的旧公寓。",
+     "We leave the wall map behind.|我们把墙上的地图留下了。",
+     "The warm floor spot explained.|地板暖和的那块有了说明。",
+     "Introductions over dumplings.|饺子桌上的介绍会。",
+     "Houses collect goodbyes and hellos.|房子收藏着再见与你好。",
+     "The light stays on for them.|灯为他们留着。"
+    ]
+   },
+   "github": {
+    "topic": "毕业周致谢发布",
+    "terms": [
+     "yearbook release v1 0|年册发布 v1.0，三百六十五页",
+     "thanks to a hundred reviewers|致谢一百位评审，字字有回音",
+     "the mentors hall of fame|导师名人堂，十一位点灯人",
+     "stats of the year page|年度数据页，次数与小时",
+     "the last retro facilitated|主持的最后一次复盘，把话筒给出",
+     "handover complete banner|交接完成横幅，仓库欢迎新人"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "明年的承诺",
+    "terms": [
+     "three promises to myself|对自己的三个承诺，写在扉页",
+     "the craft continues promise|手艺继续的承诺，代码不退休",
+     "health before deadlines pledge|健康优先于截止的誓言，先睡再交",
+     "family time as non negotiable|家庭时间不可谈判，日历划硬线",
+     "curiosity as career strategy|好奇心作为职业策略，兴趣领路",
+     "begin again permission|随时重新开始的许可，归零不丢人"
+    ]
+   },
+   "daily": {
+    "topic": "新年第一缕光",
+    "terms": [
+     "First sunrise of year two.|第二年的第一个日出。",
+     "Same bench, new notebook.|同一张长椅，新的笔记本。",
+     "Tea steams differently today.|今天的茶气不一样。",
+     "The dog expects nothing changed.|狗什么都不期待改变。",
+     "I expect everything to change.|我期待一切改变。",
+     "Day one, again, gladly.|重新开始的第一天，甘之如饴。"
+    ]
+   },
+   "github": {
+    "topic": "下一年的第一次提交",
+    "terms": [
+     "first commit of year two|第二年的首次提交，一行注释与感谢",
+     "the ongoing branch named hope|名为希望的常驻分支，永不合并",
+     "issues as invitations|问题单当作邀请，每个都是门铃",
+     "the roadmap is a garden|路线图是花园，不是高楼",
+     "labels ready for new lessons|为新课准备好的标签，learn 前缀再点亮",
+     "star the journey repo|给旅程仓库点星，纪念第一天"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "毕业前的最后叮嘱",
+    "terms": [
+     "last lecture key messages|最后一课要点，三条必须带走",
+     "open door standing offer|敞开的门常设承诺，随时回来问",
+     "feedback habit final push|反馈习惯最后推动，每月一次坚持住",
+     "the reading list for year two|第二年的书单，五本慢慢读",
+     "contact beyond the course|课程之外的联系方式，师徒不过期",
+     "the one thing to remember|只记住一件事的话：先测量"
+    ]
+   },
+   "daily": {
+    "topic": "临行前的行李",
+    "terms": [
+     "Packing is choosing who you will be.|打包就是在选择成为谁。",
+     "The notebook goes in carry on.|笔记本放进随身行李。",
+     "One warm coat, one bold plan.|一件大衣一个大胆的计划。",
+     "Gifts that fit in pockets.|塞进口袋的礼物。",
+     "The door test: can you lock it yourself?|门把测试：你会自己锁门吗。",
+     "Home redefines as wifi plus love.|家重新定义为爱加上网络。"
+    ]
+   },
+   "github": {
+    "topic": "毕业周清单",
+    "terms": [
+     "final burndown zero|最后一次燃尽归零",
+     "docs year end review|文档年末复查，过时的全部更新",
+     "successor shadow week complete|继任者影子周完成，可以放手了",
+     "open issues triaged and labeled|未决问题全部分诊贴标",
+     "the celebration issue pinned|庆祝问题单置顶，谢谢每一位",
+     "repo transfer rehearsal|仓库转移彩排，权限交接演练"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "一对一聆听年",
+    "terms": [
+     "listening hours ledger|倾听时长台账，一年聊了谁",
+     "the silent teammate heard|最安静的队友被听见",
+     "question bank that opened doors|打开心门的提问库",
+     "one insight per conversation|每次对话一条洞察",
+     "follow through on small asks|小事的兑现记录",
+     "listening as leadership proof|倾听即领导力的证明"
+    ]
+   },
+   "daily": {
+    "topic": "听懂家里的未说",
+    "terms": [
+     "Dad asks for directions to feelings.|爸爸试探着问情感的路。",
+     "Mom says fine and means more.|妈妈说挺好意思不止。",
+     "The kid drew what he could not say.|孩子画出说不出口的话。",
+     "We answer the unsaid gently.|我们温柔地回应未说出口的。",
+     "Silence at dinner was a question.|晚餐的沉默是个问题。",
+     "Home learned to hear pauses.|家里学会了听停顿。"
+    ]
+   },
+   "github": {
+    "topic": "倾听治理",
+    "terms": [
+     "pulse survey follow through|脉搏调研跟进闭环",
+     "open door hours ledger|开门时间台账",
+     "suggestion to shipped list|建议到上线清单",
+     "anonymous input handled well|匿名意见妥善处理",
+     "listening retro question|复盘里的倾听问题",
+     "leaders who talk less archive|少说多听的负责人档案"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "拒绝的技艺",
+    "terms": [
+     "saying no with a path|拒绝给路径，不行但可以这样",
+     "capacity honesty on requests|请求面前的容量诚实",
+     "nice no templates|温柔的拒绝模板",
+     "decision to decline review|婉拒决策复盘，拒对了吗",
+     "opportunity cost table for yes|答应的机会成本表",
+     "guilt vs duty separation|愧疚与职责分离"
+    ]
+   },
+   "daily": {
+    "topic": "学会说不的一年",
+    "terms": [
+     "I declined three good things.|我拒绝了三件好事。",
+     "No protected our yeses.|说不保护了我们的能。",
+     "The guilt faded by February.|愧疚二月就淡了。",
+     "We teach kids to decline kindly.|我们教孩子温柔拒绝。",
+     "A no with a reason respects.|有理由的拒绝是尊重。",
+     "Calendar got quiet, life got loud.|日历安静生活喧闹。"
+    ]
+   },
+   "github": {
+    "topic": "拒绝工程",
+    "terms": [
+     "decline with alternative notice|拒绝附替代方案通知",
+     "request intake scoring gate|请求受理评分门",
+     "auto defer for out of scope|越界请求自动延后",
+     "decline stats transparency|拒绝统计透明，说不的记录",
+     "nice no phrase library|温柔拒绝短语库",
+     "escalation when no is overridden|被驳回的拒绝升级路径"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "庆祝工程",
+    "terms": [
+     "win celebration cadence|胜利庆祝节奏，小胜也要敲钟",
+     "milestone ritual design|里程碑仪式设计，仪式要有归属感",
+     "kudos to story pipeline|称赞到故事的管道，表扬变成叙事",
+     "surprise appreciation day|惊喜感谢日，被感谢的人不知道",
+     "anniversary of first user|首位用户纪念日，一年一蛋糕",
+     "celebration budget ledger|庆祝预算台账，快乐也要记账"
+    ]
+   },
+   "daily": {
+    "topic": "冰箱上的胜利贴",
+    "terms": [
+     "The fridge door is our trophy wall.|冰箱门是我们的奖杯墙。",
+     "Small wins get bigger magnets.|小胜利用更大的磁铁。",
+     "Celebration before the next sprint.|下一场冲刺前先庆祝。",
+     "The dog gets a stake in every win.|每次胜利狗都有股份。",
+     "Cake for shipped, fruit for tried.|上线吃蛋糕尝试吃水果。",
+     "Joy booked in the calendar.|快乐写进日历。"
+    ]
+   },
+   "github": {
+    "topic": "庆祝治理",
+    "terms": [
+     "wins wall auto post|胜利墙自动发帖",
+     "celebration idea backlog|庆祝点子积压单",
+     "release party minimum kit|发布派对最小装备",
+     "remote toast coordination|远程举杯协调，时区干杯表",
+     "thank you note generator|感谢卡生成器，姓名别写错",
+     "joy metrics alongside velocity|快乐指标与速度并列"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "答辩与晋升季",
+    "terms": [
+     "promotion packet assembly|晋升材料组装，证据链清晰",
+     "impact storytelling with numbers|带数字的影响力叙事",
+     "panel question anticipation|评委问题预判，十个必问",
+     "peer evidence collection|同事证据收集，一封封请求",
+     "calibration day preparation|校准日准备，为他人陈述",
+     "post decision mentoring|结果后的辅导，过了怎么飞没过怎么长"
+    ]
+   },
+   "daily": {
+    "topic": "姑姑的转正答辩",
+    "terms": [
+     "Niece rehearsed her case at dinner.|侄女在晚餐排练陈述。",
+     "Grandpa played the tough judge.|爷爷扮演严格的评委。",
+     "We trimmed five slides to two.|我们把五页裁到两页。",
+     "The nervous laugh got a fix.|紧张的笑容被修正。",
+     "Evidence beats adjectives.|证据胜过形容词。",
+     "She passed; dessert doubled.|她通过了；甜点加倍。"
+    ]
+   },
+   "github": {
+    "topic": "晋升季支持",
+    "terms": [
+     "mock panel scheduling|模拟评审排期",
+     "promotion buddy pairing|晋升伙伴配对",
+     "case study library of passes|成功案例库，范本可查",
+     "failed case kindness review|未过案例的善意复盘",
+     "leveling fairness watch|评级公平观察，倾斜要喊",
+     "celebration and support split|庆祝与支持的分工"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "远期愿景绘制",
+    "terms": [
+     "five year personal map|五年个人地图，三个山顶",
+     "skill horizon scanning|技能视野扫描，下一波是什么",
+     "role model interview list|榜样访谈清单，约五位聊聊",
+     "legacy question drafting|遗产问题草稿，想留下什么",
+     "annual theme selection|年度主题选择，一个词定基调",
+     "vision review with partner|与伴侣的愿景互审，同步航线"
+    ]
+   },
+   "daily": {
+    "topic": "阳台上的五年规划",
+    "terms": [
+     "We sketched five years on the balcony.|我们在阳台画了五年。",
+     "Mountains: one code, one home, one self.|三座山：代码、家、自己。",
+     "The valleys get planned too.|低谷也纳入规划。",
+     "Kids drew their own peaks.|孩子们画了自己的山峰。",
+     "The map has empty spaces on purpose.|地图故意留白。",
+     "Vision reviewed each solstice.|愿景每至冬至复审。"
+    ]
+   },
+   "github": {
+    "topic": "愿景文档实践",
+    "terms": [
+     "personal vision doc template|个人愿景文档模板",
+     "yearly theme name badge|年度主题徽章，一词一年",
+     "vision to quarterly bridge|愿景到季度的桥，远与近接驳",
+     "off track alarm criteria|偏航警报标准，多久没进展",
+     "mentee vision reviews|学员愿景互审",
+     "the unread vision reminder|未读愿景提醒，别写完就锁"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "第一百次一加一",
+    "terms": [
+     "hundredth one on one reflection|第一百次一对一回顾",
+     "questions that evolved over months|几个月里进化的问题集",
+     "the hardest conversation revisited|最难的那次对话重访",
+     "timebox wins and failures|限时之得失总结",
+     "notes to future lead me|写给未来负责人自己的笔记",
+     "listening streak statistic|倾听连续统计，一年未断"
+    ]
+   },
+   "daily": {
+    "topic": "三百五十七次晚饭",
+    "terms": [
+     "Three hundred fifty seven dinners cooked.|三百五十七顿晚饭。",
+     "The picky eater asked for seconds.|挑食的孩子添了饭。",
+     "Recipes now have memories attached.|菜谱附着回忆。",
+     "The round table earned its dents.|圆桌的凹痕名副其实。",
+     "Gratitude sauteed with garlic.|感激和蒜一起下锅。",
+     "Tomorrow we cook for one hundred.|明天我们做一百人的菜。"
+    ]
+   },
+   "github": {
+    "topic": "最后冲刺清单",
+    "terms": [
+     "docs sprint final zero|文档冲刺最后清零",
+     "the unfinished ideas handover|未竟点子交接，标注熟度",
+     "test suite green year end|测试套件年末全绿",
+     "release notes for v1 0 draft|v1.0 发布说明草稿",
+     "open source dry run complete|开源演练完成",
+     "graduation deployment freeze|毕业部署冻结，稳定压倒一切"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "里程碑巡礼",
+    "terms": [
+     "twelve month milestone walk|十二个月里程碑巡礼",
+     "the migration that worked|那次成功的迁移",
+     "hardest ticket hall of fame|最难工单名人堂",
+     "first everything list|所有第一次的清单",
+     "mentee graduation milestone|学员毕业里程碑",
+     "the quiet hero deploys|无名英雄部署集"
+    ]
+   },
+   "daily": {
+    "topic": "照片墙的十二格",
+    "terms": [
+     "Twelve frames for twelve months.|十二个月十二格相框。",
+     "January looks so uncertain.|一月看起来那么不安。",
+     "The June frame has fireworks.|六月那格有烟花。",
+     "Frames speak without captions.|相框不需要说明文字。",
+     "We add frame thirty seven in advance.|我们提前挂了第三十七格。",
+     "The wall smiles back now.|照片墙会笑了。"
+    ]
+   },
+   "github": {
+    "topic": "里程碑数据页",
+    "terms": [
+     "milestone stats table|里程碑数据表",
+     "before after metric pairs|前后指标配对",
+     "key pr link list|关键 PR 链接清单",
+     "incident lessons summary|事故教训摘要",
+     "timeline graphic generation|时间线图形生成",
+     "printable year poster|可打印的年度海报"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "谢师月",
+    "terms": [
+     "mentor letter writing week|导师信写作周",
+     "the precise thank you standard|精确致谢标准，引用原话",
+     "gifts with stories attached|带故事的礼物",
+     "credit line in docs|文档中的致谢署名",
+     "alumni mentor network invite|校友导师网络邀请",
+     "paying it forward pledge|传递善意的承诺"
+    ]
+   },
+   "daily": {
+    "topic": "谢师的十二封信",
+    "terms": [
+     "Twelve stamps for twelve teachers.|十二位老师十二枚邮票。",
+     "Handwriting slows the thanks down.|手写让感谢变慢变真。",
+     "Each letter quotes one moment.|每封信引用一个瞬间。",
+     "The ink dries, the bond dries too.|墨水干了，情谊也定了。",
+     "Some letters made me cry again.|有几封让我又哭了。",
+     "Mailbox still feels ceremonial.|邮箱依然很有仪式感。"
+    ]
+   },
+   "github": {
+    "topic": "致谢工程",
+    "terms": [
+     "credits automation script|致谢自动化脚本，贡献者全收录",
+     "thanks page generation|感谢页生成",
+     "mentorship stats export|带教数据导出",
+     "gratitude issue template|致谢问题单模板",
+     "the credit where due lint|该谢没谢的检查",
+     "year end thanks release|年末致谢发布"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "薪火转交仪式",
+    "terms": [
+     "torch passing ceremony plan|火炬传递仪式方案",
+     "successor first commit rite|继任者首次提交礼",
+     "the legacy branch sealed|遗留分支封存仪式",
+     "keys and contacts handover|钥匙与人脉的移交",
+     "blessing message from mentors|导师的祝福寄语",
+     "tradition keeper appointment|传统守护者任命"
+    ]
+   },
+   "daily": {
+    "topic": "传家的仪式感",
+    "terms": [
+     "The recipe box changed hands formally.|菜谱盒正式交接。",
+     "Grandpa signed the ladle.|爷爷在汤勺上签了名。",
+     "New keeper, same soup taste.|新掌勺，老味道。",
+     "The apron fits the next chef.|围裙合身于下一位大厨。",
+     "Tradition survives by invitation.|传统靠邀请存活。",
+     "Ceremonies turn endings into starts.|仪式把终点变成起点。"
+    ]
+   },
+   "github": {
+    "topic": "传承治理",
+    "terms": [
+     "successor full access day one|继任者首日全权限",
+     "ceremony in the changelog|变更日志里的仪式感",
+     "the alumni badge granted|校友徽章颁发",
+     "traditions documented page|传统说明页",
+     "steward rotation calendar|守护者轮值日历",
+     "the welcome back commit style|欢迎回来的提交风格"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "终章·第365天",
+    "terms": [
+     "year one completion report|第一年完成报告",
+     "the 6570 encounters tally|6570 次相遇的计数",
+     "confidence then versus now|信心今昔对照",
+     "the map of everything learned|所学一切的知识地图",
+     "graduation speech final text|毕业演讲终稿",
+     "the open door of year two|第二年的开门礼"
+    ]
+   },
+   "daily": {
+    "topic": "最后一份早餐",
+    "terms": [
+     "The congee tastes like victory.|粥喝出了胜利的味道。",
+     "365 marks complete on the calendar.|日历上365个记号齐了。",
+     "The family toasts to day one too.|家人也为第一天举杯。",
+     "Breakfast students graduate slow.|早餐学徒慢慢毕业。",
+     "The bowl is empty, the hunger is back.|碗空了，求知欲回来了。",
+     "Year two starts at sunrise.|第二年在日出开始。"
+    ]
+   },
+   "github": {
+    "topic": "365 项目收官",
+    "terms": [
+     "final stats release notes|最终数据发布说明",
+     "the v1 0 tag pushed|v1.0 标签推送完成",
+     "credits completed roll|致谢名单完整滚动",
+     "the repo handed to community|仓库移交社区",
+     "graduation issue closed with confetti|毕业问题单撒花关闭",
+     "year two repo initialized|第二年仓库初始化完成"
+    ]
+   }
+  }
+ ]
+}

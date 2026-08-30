@@ -1,0 +1,1055 @@
+{
+ "month": 5,
+ "days": [
+  {
+   "computer": {
+    "topic": "协作工具箱",
+    "terms": [
+     "shared inbox|共享收件箱，团队共用的邮件入口",
+     "team inbox rules|收件箱规则，自动分流的邮件规则",
+     "working agreement|工作约定，团队共守的行为准则",
+     "team wiki page|团队 Wiki 页，沉淀团队知识的地方",
+     "decision thread|决策帖，把讨论收敛成结论的帖",
+     "async by default|默认异步，先写文档再约会议"
+    ]
+   },
+   "daily": {
+    "topic": "傍晚的菜场",
+    "terms": [
+     "The tomatoes smell like summer.|番茄闻起来是夏天的味道。",
+     "Half a kilo, please.|麻烦来半公斤。",
+     "The vendor picks the best one.|摊主会挑最好的那个。",
+     "Cash or card?|现金还是刷卡？",
+     "A recipe swap with the vendor.|和摊主交换了一个食谱。",
+     "Market closes at seven.|市场七点关门。"
+    ]
+   },
+   "github": {
+    "topic": "协作流程升级",
+    "terms": [
+     "contributor ladder|贡献者阶梯，从新手到核心的路径",
+     "working group|工作组，围绕主题的小分队",
+     "effort owner|事务负责人，每件事都有人管",
+     "team ritual doc|团队仪式文档，说明例会的意义",
+     "agenda before meeting|会前议程，没有议程就不开会",
+     "decisions in writing|决策落文字，散会前写清结论"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "结对与 Mob",
+    "terms": [
+     "pair programming|结对编程，两人一机一起写代码",
+     "driver and navigator|司机与领航，操作者与指路者",
+     "mob programming|群体编程，全组共上一台机器",
+     "keyboard handoff|键盘交接，定时互换操作权",
+     "pair rotation|结对轮换，定期更换搭档",
+     "solo deep work|独处深工，留给自己专注的时段"
+    ]
+   },
+   "daily": {
+    "topic": "谈论同事的近况",
+    "terms": [
+     "How's the new role treating you?|新岗位感觉如何？",
+     "He seems happier lately.|他最近看起来开心多了。",
+     "She's learning to say no.|她在学着拒绝。",
+     "Everyone's juggling something.|每个人都有自己在转的盘子。",
+     "We should celebrate small wins.|我们该为小胜利庆祝。",
+     "Coffee soon, my treat.|改天喝咖啡，我请。"
+    ]
+   },
+   "github": {
+    "topic": "知识传承",
+    "terms": [
+     "onboarding buddy|入职伙伴，新人第一周的人肉导航",
+     "shadowing session|影子学习，跟着看一遍的操作",
+     "runbook review|手册评审，照着手册真的跑一遍",
+     "knowledge gap list|知识缺口清单，只有一个人懂的事",
+     "bus factor|巴士因子，多少人请假就停摆",
+     "rotate the on-call knowledge|轮转值班知识，让 secrets 不再是秘密"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "代码评审的艺术",
+    "terms": [
+     "review checklist|评审清单，常错点的备忘",
+     "context link|上下文链接，相关 issue 与文档",
+     "review guide for authors|作者侧指南，教你让人好评审",
+     "diff hygiene|差异卫生，小而清晰的改动",
+     "commit story|提交叙事，提交序列讲得通",
+     "review debt|评审债，积压太久的待评审"
+    ]
+   },
+   "daily": {
+    "topic": "谈论导师",
+    "terms": [
+     "A good mentor asks, not tells.|好导师提问，而不是灌输。",
+     "My mentor listens more than talks.|我的导师听得多说得少。",
+     "Advice with a story sticks.|带故事的忠告记得住。",
+     "I collect questions, not answers.|我收集问题，而不是答案。",
+     "Mentorship is two-way.|导师关系是双向的。",
+     "Someday I'll mentor too.|将来我也要带人。"
+    ]
+   },
+   "github": {
+    "topic": "仓库协作礼仪",
+    "terms": [
+     "issue search first|先搜问题单，提问前先检索",
+     "self-assign etiquette|自领礼仪，认领前知会一声",
+     "stay in one thread|讨论归一处，一个话题一个帖",
+     "quote the line|引用到行，评论精确到代码行",
+     "emoji reactions|表情回应，无话可赞也点个赞",
+     "welcome wagon|欢迎小队，新贡献者有人接"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "会议工程",
+    "terms": [
+     "meeting purpose|会议目的，为什么非开会不可",
+     "decision meeting|决策会，开完要有结论",
+     "standup agenda|站会议程，三个固定问题",
+     "timekeeper role|计时员角色，让会不拖堂",
+     "note taker rotation|记录轮换，人人轮流做纪要",
+     "action items in ticket|行动项进工单，纪要落在系统里"
+    ]
+   },
+   "daily": {
+    "topic": "公园长椅观察",
+    "terms": [
+     "The chess players never rush.|下棋的人从不着急。",
+     "Pigeons run the morning shift.|鸽子掌管早班。",
+     "A violinist warms up at nine.|九点有小提琴手练琴。",
+     "Joggers wave at regulars.|跑者向熟面孔挥手。",
+     "The fountain is the metronome.|喷泉是节拍器。",
+     "Bench life is slow TV.|长椅生活是慢速电视。"
+    ]
+   },
+   "github": {
+    "topic": "跨团队协作",
+    "terms": [
+     "shared service catalog|共享服务目录，各团队提供什么一目了然",
+     "collab channel|协作频道，两个团队的接口讨论区",
+     "guest reviewer|客座评审，外团队专家来把关",
+     "cross-link the docs|互链文档，两边都放入口",
+     " joint design session|联合设计会，两个团队一起画图",
+     "integration owner|集成负责人，对接两边的人"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "远程协作",
+    "terms": [
+     "async standup bot|异步站会机器人，文字接龙的开场",
+     "recorded walkthrough|录屏走讲，五分钟讲清一件事",
+     "time zone fairness|时区公平，轮流承担深夜会议",
+     "camera optional norm|摄像头自选规范，不强制开摄像头",
+     "handoff document|交接文档，下班前写清楚",
+     "follow the sun review|接力评审，一个时区睡了另一个接手"
+    ]
+   },
+   "daily": {
+    "topic": "谈论宠物医院",
+    "terms": [
+     "The vet speaks softly to her.|兽医对她说话很温柔。",
+     "Vaccination due next month.|下个月该打疫苗了。",
+     "The waiting room drama.|候诊室的小剧场。",
+     "A brave cat, mostly.|一只勇敢的猫，大体上。",
+     "The bill and the peace of mind.|账单和安心一起结账。",
+     "Treats bribe everyone.|零食贿赂所有生命。"
+    ]
+   },
+   "github": {
+    "topic": "仓库健康度",
+    "terms": [
+     "repo health check|仓库体检，定期查看协作指标",
+     "orphaned branch report|孤儿分支报告，没人管的分支清点",
+     "open pr age|PR 存龄，开了多久没合的统计",
+     "first contribution time|首次贡献时间，新人多久合入第一个 PR",
+     "response coverage|响应覆盖，每条讨论都有回应",
+     "archival candidates|归档候选，很久没动的仓库清单"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "排期与优先级",
+    "terms": [
+     "priority call|优先级裁决，什么先做什么后做",
+     "wsjf score|加权最短优先分数，先做最划算的",
+     "ice score|ICE 评分，影响力信心容易度三要素",
+     "roadmap line item|路线图条目，能落到周的计划",
+     "capacity buffer|容量缓冲，留白应对突发",
+     "stretch pick|弹性挑选，有余力才加的任务"
+    ]
+   },
+   "daily": {
+    "topic": "谈论 rainy day 基金",
+    "terms": [
+     "Rainy day fund, topped up.|应急金，又存了一笔。",
+     "Three months of calm.|三个月的安心。",
+     "Auto transfer on payday.|发薪日自动转账。",
+     "Emergencies love the unprepared.|意外专挑没准备的人。",
+     "Peace of mind has a number.|安心是有数字的。",
+     "Future me says thanks.|未来的我说谢谢。"
+    ]
+   },
+   "github": {
+    "topic": "issue 卫生",
+    "terms": [
+     "issue linking|问题互链，related 与 blocked 关系",
+     "acceptance criteria in issue|问题单里的验收标准，做什么算完",
+     "reproduction checklist|复现检查清单，报告必填项",
+     "stale bot etiquette|闲置机器人礼仪，提醒而不是关单",
+     "issue template tuning|问题单模板调优，问得刚刚好",
+     "label once, label right|标签一次贴对，少而准"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "代码共享文化",
+    "terms": [
+     "inner source|内部开源，像开源一样跨组协作",
+     "contributing guide for teams|团队贡献指南，跨组怎么参与",
+     "component ownership|组件归属，谁的孩子谁抱",
+     "review reciprocity|评审互惠，我帮你我帮回",
+     "shared library governance|共享库治理，版本与升级的约定",
+     "credit in the changelog|变更日志署名，贡献被看见"
+    ]
+   },
+   "daily": {
+    "topic": "谈论搬家经验传授",
+    "terms": [
+     "Label every box twice.|每个箱子写两遍标签。",
+     "The essentials bag survives.|随行包永远在你身边。",
+     "Photos before disassembly.|拆之前先拍照。",
+     "Cables go in one box.|数据线装同一个箱子。",
+     "Tape is cheaper than regret.|胶带比后悔便宜。",
+     "The sofa fits, barely.|沙发进来了，堪堪。"
+    ]
+   },
+   "github": {
+    "topic": "代码搜索与复用",
+    "terms": [
+     "code reuse first|先找轮子，写之前搜一圈",
+     "shared snippets repo|共享代码片段库，大家的工具箱",
+     "template picker|模板选择器，新建项目选骨架",
+     "style consistency check|风格一致性检查，跨仓库统一",
+     "reuse review question|复用评审之问，有现成的吗",
+     "documentation of intents|意图文档，为什么这样设计"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "发布协作日历",
+    "terms": [
+     "release calendar|发布日历，各服务何时发车",
+     "change traffic light|变更红绿灯，当天能不能发",
+     "freeze notice board|冻结公告板，谁在冻结一目了然",
+     "release train ticket|发布列车票，搭上哪班车",
+     "late change policy|迟来变更政策，截止后还能改吗",
+     "announcement draft review|公告草稿评审，对外文案先过目"
+    ]
+   },
+   "daily": {
+    "topic": "谈论咖啡师日常",
+    "terms": [
+     "Latte art practice continues.|拉花练习还在继续。",
+     "The regulars' orders by heart.|熟客的订单都背下来了。",
+     "A bad day fixed by foam.|奶泡治愈糟糕的一天。",
+     "New beans, brighter notes.|新豆子，更亮的风味。",
+     "Closing shift stories.|晚班收店的故事。",
+     "Tips in the community jar.|小费进了社区罐子。"
+    ]
+   },
+   "github": {
+    "topic": "发布协作角色",
+    "terms": [
+     "release announcer|发布播音员，把进展说给大家听",
+     "test pilot|试飞员，第一批尝鲜的用户",
+     "notes scribe|发布书记，全程记录决定",
+     "timeline keeper|时间线管理员，谁几点做了什么",
+     "go signal holder|放行信号员，最后一个绿灯",
+     "post release scribe|发布后记录员，写总结的人"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "文档协作",
+    "terms": [
+     "doc sprint day|文档冲刺日，集体改善文档的一天",
+     "review before merge for docs|文档合并前评审，改文档也要过审",
+     "RFC comments etiquette|RFC 评论礼仪，先复述再反驳",
+     "doc deprecation banner|文档弃用横幅，老页面明确提示",
+     "translate as you go|随手补翻译，顺手不积压",
+     "screenshot refresh day|截图翻新日，过时的图统一更新"
+    ]
+   },
+   "daily": {
+    "topic": "谈论城市骑行",
+    "terms": [
+     "New bike lanes, new joy.|新自行车道，新的快乐。",
+     "Helmet hair, worth it.|头盔压的发型，值得。",
+     "The river route has no red lights.|沿河路线一路绿灯。",
+     "Bell is a kindness.|车铃是种善意。",
+     "Locks matter at night.|夜里锁很重要。",
+     "Winter riding needs gloves.|冬天骑行要手套。"
+    ]
+   },
+   "github": {
+    "topic": "协作度量",
+    "terms": [
+     "collaboration graph|协作图，谁和谁常有往来",
+     "review diversity|评审多样性，别总那几个人",
+     "cross team pr rate|跨团队 PR 比例，墙有没有变矮",
+     "onboarding time metric|入职上手时长，新人第一周跑通几天",
+     "doc freshness score|文档新鲜度，多久没更新的评分",
+     "meeting hours per week|每周会议小时数，团队的时间去哪了"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "反馈文化",
+    "terms": [
+     "feedback sandwich debate|三明治反馈之辩，先夸后批的模式",
+     "sbi feedback|情境行为影响，反馈的三段式",
+     "ask for feedback early|早要反馈，别等验收才听",
+     "feedback log|反馈日志，收到的建议记下来",
+     "upward feedback|向上反馈，也给上级提建议",
+     "thanks in the open|公开道谢，感谢不留私"
+    ]
+   },
+   "daily": {
+    "topic": "谈论换季收纳",
+    "terms": [
+     "Summer clothes hibernate.|夏装进入冬眠。",
+     "Vacuum bags shrink time.|真空袋压缩了空间。",
+     "Mothballs or cedar?|樟脑丸还是雪松块？",
+     "The swap reveals surprises.|换季总有惊喜发现。",
+     "Donate the never-worn.|从不穿的捐掉。",
+     "Seasonal reset, calm mind.|换季重置，心情清爽。"
+    ]
+   },
+   "github": {
+    "topic": "新人成长路径",
+    "terms": [
+     "good first issue board|新手任务板，专门留给起步者",
+     "mentor matching|导师配对，按兴趣分配",
+     "starter task list|起步任务清单，一两天能完成的",
+     "first pr celebration|首个 PR 庆祝，小仪式大意义",
+     "growth plan doc|成长计划文档，季度对齐目标",
+     "graduation path|出师路径，从搭档到独立"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "知识分享形式",
+    "terms": [
+     "brown bag talk|午餐分享会，自带午餐的讲座",
+     "screencast|录屏教程，跟着鼠标学",
+     "interactive demo|互动演示，观众也能动手",
+     "lightning talk|闪电演讲，五分钟说清一点",
+     "reading group|读书会，共读一章再讨论",
+     "conference recap|大会回顾，把外出所学带回来"
+    ]
+   },
+   "daily": {
+    "topic": "谈论家庭群聊",
+    "terms": [
+     "The family group at 7 a.m.|家族群早上七点准时热闹。",
+     "Stickers do the talking.|表情包替大家说话。",
+     "Dad discovered voice messages.|爸发现了语音消息。",
+     "We coordinate holidays there.|假期安排都在群里定。",
+     "Mute during meetings, always.|开会必静音。",
+     "Grandma sends sunset photos.|奶奶发日落照片。"
+    ]
+   },
+   "github": {
+    "topic": "里程碑管理进阶",
+    "terms": [
+     "milestone burn chart|里程碑燃尽图，进度一眼看清",
+     "scope cut ritual|砍范围仪式，临期先砍什么",
+     "date confidence poll|日期信心投票，团队对工期的判断",
+     "dependency tracker|依赖跟踪表，谁等谁",
+     "release candidate checklist|候选版本清单， RC 的验收项",
+     "milestone retro|里程碑复盘，每个大节点回顾"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "协作冲突化解",
+    "terms": [
+     "design disagreement doc|设计分歧文档，各自写方案再对比",
+     "conflict cooling rule|冲突冷却规则，激动时先停十分钟",
+     "steelman first|先立最强反方，理解再反驳",
+     "decision after dissent|异议后决策，说完就算，执行一致",
+     "disagree and commit|反对而投入， debates 结束就全力干",
+     "conflict early signal|冲突早期信号，语气变了就当面聊"
+    ]
+   },
+   "daily": {
+    "topic": "谈论邻里互助",
+    "terms": [
+     "The neighbor waters my plants.|邻居帮我浇花。",
+     "I fix their wifi router.|我帮他们修路由器。",
+     "Borrowed sugar, returned cake.|借了糖，还了蛋糕。",
+     "A shared tool shelf.|一个共用的工具架。",
+     "Kids play in the hallway.|孩子们在走廊玩。",
+     "Good fences, better friends.|篱笆扎好，朋友更好。"
+    ]
+   },
+   "github": {
+    "topic": "协作工具链",
+    "terms": [
+     "project automation rules|项目自动化规则，移动卡片自动通知",
+     "saved replies|保存的回复，常用评语一键发送",
+     "code owner ping|负责人提醒，改动自动圈人",
+     "pr merge dependency|PR 合并依赖，声明先后关系",
+     "issue subscribe etiquette|订阅礼仪，只关注相关的",
+     "status rollup|状态汇总，多个任务合成一行"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "代码一致性活动",
+    "terms": [
+     "code style survey|代码风格调查，团队偏好的摸底",
+     "convention doc|约定文档，一条一条讲清为什么",
+     "consistency week|一致性问题周，集中清理风格债",
+     "auto formatter rollout|格式化工具推广，一次到位的统一",
+     "naming workshop|命名工作坊，一起打磨用词",
+     "convention deprecation|约定弃用，旧约定明确下线"
+    ]
+   },
+   "daily": {
+    "topic": "谈论天气与心情关联",
+    "terms": [
+     "Sunny days are for errands.|晴天用来办事。",
+     "Rainy days are for reading.|雨天用来读书。",
+     "Windy days clear my head.|大风天头脑清醒。",
+     "Grey skies, warm soup.|灰色的天，热热的汤。",
+     "First snow, first silence.|初雪，第一份安静。",
+     "Weather sets my tempo.|天气定我的节拍。"
+    ]
+   },
+   "github": {
+    "topic": "仓库间协作",
+    "terms": [
+     "shared workflow file|共享工作流文件，CI 配置一处维护",
+     "org template repo|组织模板仓库，新仓库的起点",
+     "shared bot account|共享机器人账号，自动化的统一身份",
+     "cross repo changelog|跨仓库变更日志，一页看全部",
+     "sync labels script|标签同步脚本，多仓库统一标签",
+     "federated docs index|联邦文档索引，各仓文档一页汇总"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "能力互补",
+    "terms": [
+     "skill matrix|技能矩阵，大家都会什么",
+     "t-shaped engineer|T 型工程师，一专多能",
+     "pair by strength|按强项配对，互补组队",
+     "learning goal in sprint|迭代里的学习目标，成长也是任务",
+     "shadow a role|影子岗位，体验别人的日常",
+     "capability map review|能力地图回顾，季度更新一遍"
+    ]
+   },
+   "daily": {
+    "topic": "谈论修理vs换新",
+    "terms": [
+     "Repair estimate first.|先问维修报价。",
+     "Planned obsolescence, resisted.|对抗计划性报废。",
+     "The fan lives another year.|风扇又活了一年。",
+     "Spare parts matter when buying.|买之前看配件。",
+     "Right to repair, cheered.|为维修权欢呼。",
+     "Old things have souls.|旧物有灵魂。"
+    ]
+   },
+   "github": {
+    "topic": "组织级流程",
+    "terms": [
+     "org wide announcement|组织级公告，全员知会的消息",
+     "process council|流程委员会，跨团队定流程",
+     "process deprecation|流程废止，太重的流程也要退休",
+     "tooling budget|工具预算，给效率花的钱",
+     "on call fairness review|值班公平性回顾，负担是否均衡",
+     "internal conference|内部技术大会，一天的学习节"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "远程仪式感",
+    "terms": [
+     "virtual coffee roulette|线上咖啡轮盘，随机匹配闲聊",
+     "demo day playlist|演示日歌单，开场的小仪式",
+     "remote retro board|线上复盘看板，便签墙的数字版",
+     "focus hours agreement|专注时段约定，全队静音工作",
+     "team photo day|团队合影日，一年一张",
+     "birthday bot|生日机器人，别忘了人味"
+    ]
+   },
+   "daily": {
+    "topic": "谈论深夜食堂",
+    "terms": [
+     "The 24h noodle place.|二十四小时的面馆。",
+     "Late shift regulars nod.|晚班常客互相点头。",
+     "Broth at midnight heals.|午夜的热汤治愈人。",
+     "The owner remembers your order.|老板记得你的口味。",
+     "Quiet TV, louder warmth.|电视很静，人情很浓。",
+     "Walk home under streetlights.|路灯下走回家。"
+    ]
+   },
+   "github": {
+    "topic": "协作回顾月",
+    "terms": [
+     "process retro|流程复盘，本月流程哪里绊脚",
+     "tooling wishlist|工具愿望单，大家想要什么",
+     "collab wins thread|协作亮点帖，本月最赞的配合",
+     "friction log|摩擦日志，记下每次不顺畅",
+     "process experiment|流程实验，试一个月再定",
+     "adopt or drop|采纳或放弃，实验的两种结局"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "质量协作",
+    "terms": [
+     "quality buddy system|质量搭档制，互为质量把关人",
+     "bug hunt hour|找虫一小时，每周固定狩猎时间",
+     "test pairing day|测试配对日，开发配测试",
+     "review swarming|评审蜂拥，大 PR 集中清",
+     "docs pairing hour|文档结对时，写的人与改的人同屏",
+     "quality standup|质量站会，三句话同步风险"
+    ]
+   },
+   "daily": {
+    "topic": "谈论整理房间哲学",
+    "terms": [
+     "A place for everything.|万物有归处。",
+     "Clean desk, calm code.|桌面净，代码静。",
+     "The one-minute rule.|一分钟法则。",
+     "Weekend reset ritual.|周末重置仪式。",
+     "Clutter tax is real.|杂物税真实存在。",
+     "Empty shelf is a feature.|空架子是一种功能。"
+    ]
+   },
+   "github": {
+    "topic": "任务拆分艺术",
+    "terms": [
+     "vertical slice|垂直切片，一条走通端到端的薄功能",
+     "task granularity check|任务颗粒度检查，两天内能完成吗",
+     "definition of ready|就绪定义，开工前该有的样子",
+     "blocked column review|阻塞列回顾，卡住的为什么卡",
+     "wip limit|在制品上限，同时进行的数量限制",
+     "small pr challenge|小 PR 挑战，团队练习拆小"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "跨文化协作",
+    "terms": [
+     "plain english rule|平实英语规则，少成语少俚语",
+     "context heavy messages|重上下文消息，假设对方缺背景",
+     "holiday map|假日地图，各国假期一表",
+     "async demo videos|异步演示视频，不同时区看录播",
+     "cultural bridge buddy|文化桥梁伙伴，帮忙翻译语境",
+     "meeting language check|会议语言检查，语速与用词照顾彼此"
+    ]
+   },
+   "daily": {
+    "topic": "谈论学外语的尴尬",
+    "terms": [
+     "I ordered 40 coffees once.|我一次点了四十杯咖啡。",
+     "Numbers saved me at the pharmacy.|数字在药店救了我。",
+     "Accents are bridges, not walls.|口音是桥，不是墙。",
+     "Gesture is a universal dictionary.|手势是通用词典。",
+     "Laughter fixes wrong words.|笑声能修复错词。",
+     "Practice in tiny shops.|在小店里练习。"
+    ]
+   },
+   "github": {
+    "topic": "团队节奏恢复",
+    "terms": [
+     "recovery week|恢复周，大版本后的缓冲期",
+     "post launch survey|发布后调查，团队累不累",
+     "sustainable pace check|可持续节奏检查，加班统计",
+     "comp day policy|补休政策，忙过的要还",
+     "energy retro|能量复盘，大家的状态图",
+     "quiet launch option|静默发布选项，有的版本不大张旗鼓"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "交付节律",
+    "terms": [
+     "delivery cadence|交付节律，固定的发布心跳",
+     "weekly cut|每周剪版，固定时间出候选",
+     "batch size control|批量大小控制，一次少带点",
+     "flow efficiency|流动效率，等待与加工之比",
+     "kanban board hygiene|看板卫生，卡片要有头有尾",
+     "cycle time trend|周期时间趋势，从开工到上线"
+    ]
+   },
+   "daily": {
+    "topic": "谈论黄昏散步",
+    "terms": [
+     "Golden hour is nature's filter.|黄金时刻是大自然的滤镜。",
+     "The same route, new details.|同一条路，新细节。",
+     "Dogs choose their humans.|狗选中它的人类。",
+     "Bakery countdown begins.|面包店倒计时开始。",
+     "Streetlights flicker on like ideas.|路灯像灵感一样亮起。",
+     "Evenings end softly.|黄昏总是温柔收尾。"
+    ]
+   },
+   "github": {
+    "topic": "流程文档化",
+    "terms": [
+     "process map page|流程地图页，一图看懂全流程",
+     "responsibility legend|职责图例，每步谁干什么",
+     "process change log|流程变更日志，流程也有版本",
+     "on call runbook index|值班手册索引，一页跳全部",
+     "process faq|流程 FAQ，常见问题的答案",
+     "single source of truth|唯一事实源，一处定义处处引用"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "编辑器效率",
+    "terms": [
+     "multi cursor|多光标，同时编辑多处的能力",
+     "snippet|代码片段，可复用的小模板",
+     "keyboard macro|键盘宏，录制的按键序列",
+     "editor profile|编辑器配置，一套顺手的环境",
+     "workspace layout|工作区布局，多项目的窗口安排",
+     "command palette|命令面板，用记忆代替点击"
+    ]
+   },
+   "daily": {
+    "topic": "周末赶集",
+    "terms": [
+     "Farmers market at eight.|八点的农贸市场。",
+     "The honey man remembers me.|蜂蜜大叔记得我。",
+     "Seasonal fruit is cheaper.|应季水果更便宜。",
+     "Reusable bags always.|自备袋子是铁律。",
+     "A flower stall treat.|给自己买花的仪式。",
+     "Home by ten, heavy bags.|十点到家，袋沉心满。"
+    ]
+   },
+   "github": {
+    "topic": "PR 协作进阶",
+    "terms": [
+     "reviewer guide link|评审指南链接，仓库首页的入口",
+     "pr size bot|PR 体积机器人，超标自动提醒",
+     "merge conflict clinic|冲突门诊，集体帮解冲突",
+     "pr titles matter|PR 标题很要紧，一行看清改动",
+     "atomic pr series|原子 PR 序列，一串小改动",
+     "changelog draft in pr|PR 里写日志草稿，合并即收录"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "评审节奏",
+    "terms": [
+     "small batch review|小批评审，改动小才看得细",
+     "two-pass review|两遍评审，先架构后细节",
+     "silent reading time|静读时段，评审先独自读完",
+     "author narration|作者旁白，PR 描述像导览",
+     "review pause protocol|评审暂停协议，争议时改天再看",
+     "reviewer handoff|评审接力，一人开头一人收尾"
+    ]
+   },
+   "daily": {
+    "topic": "早餐排队",
+    "terms": [
+     "The baozi line at seven.|七点的小笼包队。",
+     "Steam writes calligraphy.|蒸汽写字画符。",
+     "Regulars have shorthand.|熟客都用语速点单。",
+     "Counting change in coins.|硬币在掌心数得清。",
+     "First bite, hot warning.|第一口，烫的警告。",
+     "Breakfast philosophy is free.|早餐哲学免费附送。"
+    ]
+   },
+   "github": {
+    "topic": "评审清单进阶",
+    "terms": [
+     "api change checklist|接口变更清单，破坏性改动专查",
+     "migration review points|迁移评审要点，数据脚本四查",
+     "perf sensitive paths|性能敏感路径，改动前先问",
+     "security quick pass|安全快速过一遍，输入输出与权限",
+     "license header check|许可头检查，新文件别忘",
+     "rollback note in pr|PR 里的回滚说明，怎么退一句话"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "文件组织",
+    "terms": [
+     "module boundaries|模块边界，谁归谁的目录约定",
+     "feature folder structure|功能目录结构，按功能而不是类型分层",
+     "circular import check|循环导入检查，谁也不该绕圈",
+     "index file discipline|索引文件纪律，出口要克制",
+     "dead file sweep|死文件清扫，定期删无用文件",
+     "naming consistency scan|命名一致性扫描，同一事物同一叫法"
+    ]
+   },
+   "daily": {
+    "topic": "收纳术",
+    "terms": [
+     "Vertical folding wins.|竖式折叠赢麻了。",
+     "Clear bins beat opaque ones.|透明收纳盒胜过黑箱。",
+     "One in, one out.|进一件，出一件。",
+     "The junk drawer audit.|杂物抽屉审计。",
+     "Labels save marriages.|标签拯救婚姻。",
+     "Storage is a habit.|收纳是习惯不是周末。"
+    ]
+   },
+   "github": {
+    "topic": "变更标注",
+    "terms": [
+     "rename without edits|纯重命名提交，改名不混改动",
+     "move separately|移动单独提，改动分开看",
+     "generated files flagged|生成文件标注，别让人审机器",
+     "lock file updates isolated|锁文件单独更新，别混业务",
+     "binary diff note|二进制变更说明，图与模型改动标注",
+     "big diff warning protocol|大差异预警流程，超限先拆"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "注释哲学",
+    "terms": [
+     "why comment|意图注释，写为什么而不是复述",
+     "todo etiquette|TODO 礼仪，要留日期和问题单",
+     "commented out code|注释掉的代码，坟场不是仓库",
+     "docstring convention|文档字符串约定，公共接口必写",
+     "noisy comment cleanup|噪音注释清理，删掉废话注释",
+     "self-explanatory refactor|自解释重构，能改名的别写注释"
+    ]
+   },
+   "daily": {
+    "topic": "晨雾",
+    "terms": [
+     "Fog swallows the skyline.|晨雾吞掉了天际线。",
+     "The city whispers today.|城市今天轻声细语。",
+     "Streetlights at noon.|中午的路灯还亮着。",
+     "Carrying an umbrella is optimism.|带伞是乐观主义。",
+     "Fog burns off by ten.|雾十点前会散。",
+     "The harbor bell guides.|海港钟声指路。"
+    ]
+   },
+   "github": {
+    "topic": "仓库导航",
+    "terms": [
+     "readme first screen|README 首屏原则，五分钟跑起来",
+     "contributing doc on top|贡献文档置顶，人人第一眼看到",
+     "pinned code of conduct|置顶行为准则，先讲文明",
+     "architecture diagram link|架构图链接，进来先看全貌",
+     "quickstart freshness|快速上手新鲜度，命令都能跑",
+     "repo faq section|仓库 FAQ 区，高频问题先答"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "配置管理",
+    "terms": [
+     "environment variable hygiene|环境变量卫生，命名与默认值",
+     "config validation on boot|启动配置校验，起不来比错着跑好",
+     "secrets separation|机密分离，配置与密码分家",
+     "config doc table|配置文档表，每个键都有说明",
+     "safe defaults|默认值安全，出厂设置要保守",
+     "config change log|配置变更日志，改了什么何时改"
+    ]
+   },
+   "daily": {
+    "topic": "邮寄包裹",
+    "terms": [
+     "The parcel locker life.|智能快递柜的生活。",
+     "Pickup code saved twice.|取件码存两遍。",
+     "The fragile sticker works.|易碎贴纸有用。",
+     "Return label ready.|退货单提前备好。",
+     "The courier knows my door.|快递员认识我家门。",
+     "Unboxing tiny joys.|拆快递的小确幸。"
+    ]
+   },
+   "github": {
+    "topic": "CI 通知治理",
+    "terms": [
+     "ci notification tuning|CI 通知调优，只叫该叫的人",
+     "failure ownership auto assign|失败自动认领，谁的提交谁修",
+     "red main channel|主干变红频道，一红全组知",
+     "flaky report digest|抖动报告摘要，每周一封",
+     "ci cost report|CI 成本报告，分钟数也是钱",
+     "build badge hygiene|构建徽章卫生，状态保持真实"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "错误设计",
+    "terms": [
+     "error message design|错误信息设计，说人话给出路",
+     "error code catalog|错误码目录，全网可查的编号",
+     "actionable error|可行动错误，告诉用户下一步",
+     "silent failure ban|静默失败禁令，出错必须留痕",
+     "retryable marker|可重试标记，错误分能等的和不能等的",
+     "user facing error wording|用户态错误措辞，与内部日志分开"
+    ]
+   },
+   "daily": {
+    "topic": "公园的猫",
+    "terms": [
+     "The park cat inspects me.|公园的猫检阅我。",
+     "Approval requires chin rubs.|批准需要摸下巴。",
+     "Cats own the benches.|长椅的主人是猫。",
+     "Morning patrol route is fixed.|清晨巡逻路线固定。",
+     "It ignores my deadlines.|它无视我的截止日期。",
+     "We coexist politely.|我们礼貌地共存。"
+    ]
+   },
+   "github": {
+    "topic": "发布说明写作",
+    "terms": [
+     "user perspective notes|用户视角说明，写用户关心什么",
+     "before after example|前后对比示例，一眼看懂变化",
+     "screenshots in notes|说明里配截图，视觉先行",
+     "breaking change on top|破坏性变更置顶，别藏在中间",
+     "contributor thanks section|感谢贡献者区块，发布也致谢",
+     "upgrade guide link|升级指南链接，说明里必备"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "时间管理工程",
+    "terms": [
+     "calendar blocking discipline|日历分块纪律，专注块神圣不可侵",
+     "context switching cost|切换成本，被打断后要爬坡",
+     "deep work accounting|深工记账，一天几小时真专注",
+     "monthly meeting audit|月度会议审计，哪些该砍",
+     "ops pomodoro|运维番茄钟，告警间隙也要块",
+     "friday afternoon rule|周五下午规则，不上线大改动"
+    ]
+   },
+   "daily": {
+    "topic": "旧照修复",
+    "terms": [
+     "Grandma's photo, restored.|奶奶的照片修复了。",
+     "Scratches fade, smiles stay.|划痕淡了，笑容还在。",
+     "The colorization debate.|给老照上色的争论。",
+     "The original stays sacred.|原版依然神圣。",
+     "Copies for the cousins.|表亲们一人一张。",
+     "Memory deserves maintenance.|记忆也值得维护。"
+    ]
+   },
+   "github": {
+    "topic": "发布锁与队列",
+    "terms": [
+     "deployment lock|部署锁，同一时刻只发一个",
+     "queue priority settings|队列优先级设置，急修怎么插队",
+     "lock timeout policy|锁超时策略，卡死自动释放",
+     "concurrent deploy ban|并发部署禁令，撞车是大忌",
+     "release slot booking|发布档期预约，像订会议室",
+     "post deploy verify gate|部署后验证关卡，过了才算完成"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "接口版本实践",
+    "terms": [
+     "url versioning|URL 版本化，路径里带版本号",
+     "header versioning|头版本化，请求头里协商版本",
+     "deprecation window|弃用窗口，旧版至少留两季",
+     "sunset header|日落响应头，明确告知退役日",
+     "version negotiation|版本协商，客户端说用什么",
+     "compat test matrix|兼容测试矩阵，新旧组合都测"
+    ]
+   },
+   "daily": {
+    "topic": "阳台夜景",
+    "terms": [
+     "The city glitters politely.|城市礼貌地闪烁着。",
+     "Distant trains sound homely.|远处的火车声很家常。",
+     "One window is always awake.|总有一扇窗亮着。",
+     "The moon does overtime.|月亮在加班。",
+     "Night breeze carries jasmine.|晚风带来茉莉香。",
+     "Stars above the office towers.|写字楼顶上有星星。"
+    ]
+   },
+   "github": {
+    "topic": "组织治理",
+    "terms": [
+     "search before build|先搜后建，别重复造仓库",
+     "repo template sync|仓库模板同步，升级自动通知",
+     "shared package registry|共享包仓库，内部也发版",
+     "internal open source day|内部开源日，跨组贡献活动",
+     "org security policy|组织安全政策，全员共同遵守",
+     "deprecation registry|弃用登记处，退场先备案"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "数据质量基础",
+    "terms": [
+     "data contract|数据契约，表与下游的约定",
+     "nullability check|空值检查，字段能空吗",
+     "referential integrity|引用完整性，外键别指空",
+     "freshness sla|新鲜度承诺，几点前必须更新",
+     "duplicate detection job|重复检测任务，找出一物多记",
+     "schema evolution rule|结构演进规则，只加不删的约定"
+    ]
+   },
+   "daily": {
+    "topic": "菜场经济学",
+    "terms": [
+     "Tomatoes teach economics.|番茄教会我经济学。",
+     "Morning prices, evening discounts.|早上的价，晚上的折。",
+     "The scale never lies.|秤从不说谎。",
+     "Bargaining is small talk.|讨价还价是寒暄。",
+     "Cash keeps it simple.|现金让一切简单。",
+     "The last apple discount.|最后一个苹果的缘分。"
+    ]
+   },
+   "github": {
+    "topic": "质量报告自动化",
+    "terms": [
+     "weekly quality digest|每周质量摘要，自动汇总一封",
+     "trend chart bot|趋势图机器人，自动贴图",
+     "escaped bug auto tag|逃逸缺陷自动打标，上线后自动标",
+     "flaky top ten|抖动排行榜，每周更新",
+     "test time report|测试耗时报告，慢测试无处藏",
+     "goals reminder bot|目标提醒机器人，月底自动对表"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "灾备演练进阶",
+    "terms": [
+     "failover drill|故障转移演练，真的切一次",
+     "restore race|恢复比赛，看谁恢复得又快又对",
+     "chaos hour|混沌一小时，可控的故障注入",
+     "regional evacuation plan|区域撤离计划，整区挂了怎么办",
+     "rto target|恢复时间目标，多久要恢复",
+     "rpo target|恢复点目标，能接受丢多少数据"
+    ]
+   },
+   "daily": {
+    "topic": "停电之夜",
+    "terms": [
+     "The power went, candles came.|停电了，蜡烛登场。",
+     "Phones down, voices up.|手机放下，人声上来。",
+     "Board games by lantern.|灯笼下玩桌游。",
+     "The fridge holds its breath.|冰箱屏住呼吸。",
+     "Stars over an unlit town.|小镇熄灯后满天星。",
+     "Power back, lesson kept.|来电了，课留下了。"
+    ]
+   },
+   "github": {
+    "topic": "发布演练文化",
+    "terms": [
+     "release rehearsal|发布彩排，正式前的干跑",
+     "rollback race|回滚比赛，团队计时练习",
+     "comms template drill|沟通模板演练，照着填就能发",
+     "commander shadowing|指挥官带教，新指挥跟一次",
+     "fair drill schedule|演练排班公平，人人都要练",
+     "lessons into runbook|教训写回手册，练完必更新"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "五个月里程碑",
+    "terms": [
+     "personal growth review|个人成长回顾，五个月对照入职那天",
+     "skill delta map|技能增量地图，会了什么新的",
+     "feedback themes|反馈主题，大家对我的共同印象",
+     "stretch moments|拉伸时刻，最不舒服的几次成长",
+     "confidence inventory|信心盘点，哪些事敢拍板了",
+     "next skill to learn|下一个要学的技能，写进计划"
+    ]
+   },
+   "daily": {
+    "topic": "第一百五十天早餐",
+    "terms": [
+     "Day one hundred fifty breakfast.|第一百五十天的早餐。",
+     "Same congee, new gratitude.|同样的粥，新的感恩。",
+     "The chopsticks feel like old friends.|筷子已经像老朋友。",
+     "Steam on the window writes 150.|窗上蒸汽写着150。",
+     "Rituals measure time softly.|仪式温柔地丈量时间。",
+     "Onward, unhurried.|继续走，不赶路。"
+    ]
+   },
+   "github": {
+    "topic": "协作勋章",
+    "terms": [
+     "first mentoring badge|首次带教徽章，带过新人了",
+     "reviewer of the month|月度评审之星，帮大家最多次",
+     "documentation hero|文档英雄，写最多被称赞的页",
+     "cross team bridge|跨团队之桥，连接最多的组",
+     "calm in incident award|事故中的定海针，最冷静的人",
+     "community heart award|社区之心，最温暖的存在"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "团队学习系统",
+    "terms": [
+     "learning backlog|学习积压单，想学的都排上队",
+     "study group roster|学习小组名单，固定成员与节奏",
+     "book club chapter|读书会章节，一次读一章",
+     "talk proposal template|分享提案模板，想讲就填",
+     "recording library|录像库，往期分享都在",
+     "learning budget tracker|学习预算追踪，额度用在哪"
+    ]
+   },
+   "daily": {
+    "topic": "厨房里的双人舞",
+    "terms": [
+     "You chop, I stir.|你切菜，我搅拌。",
+     "The kitchen has traffic rules.|厨房有交通规则。",
+     "Taste from the same spoon twice.|同一把勺子尝两次。",
+     "Timer is the referee.|计时器是裁判。",
+     "We plate like artists.|我们摆盘像艺术家。",
+     "Dishwashing is the encore.|洗碗是返场演出。"
+    ]
+   },
+   "github": {
+    "topic": "协作公告板",
+    "terms": [
+     "welcome banner update|欢迎横幅更新，新成员上榜",
+     "pinned milestone|置顶里程碑，当前焦点在哪",
+     "shoutout section|表扬区块，谁被感谢了",
+     "contributing quickstart|贡献快速上手，三步开始",
+     "good first issue count|新手任务计数，留够了没有",
+     "community goals board|社区目标板，一起想去哪"
+    ]
+   }
+  }
+ ]
+}

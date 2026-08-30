@@ -24,10 +24,15 @@ sys.path.insert(0, str(ROOT / "src"))
 
 from lesson_quality import required_word_audio_terms, word_audio_slug  # noqa: E402
 
-DATA = ROOT / "examples" / "custom" / "week"
-OUT = ROOT / "lessons" / "week"
 PROXY_KEYS = ("HTTP_PROXY", "HTTPS_PROXY", "http_proxy", "https_proxy", "ALL_PROXY", "all_proxy")
 MIN_AUDIO_BYTES = 500
+
+
+def course_paths(course: str) -> tuple[Path, Path, int]:
+    config = json.loads((ROOT / "examples" / "courses" / course / "course.json").read_text(encoding="utf-8"))
+    data = ROOT / "examples" / "courses" / course / "days"
+    out = ROOT / "lessons" / "week" / "courses" / course
+    return data, out, int(config.get("days", 365))
 
 
 @dataclass(frozen=True)
@@ -44,15 +49,17 @@ def valid_audio(path: Path) -> bool:
     return path.is_file() and path.stat().st_size > MIN_AUDIO_BYTES
 
 
-def collect_jobs(days: list[int], force: bool) -> list[AudioJob]:
+def collect_jobs(data_dir: Path, out_dir: Path, days: list[int], force: bool) -> list[AudioJob]:
     jobs: list[AudioJob] = []
     for day in days:
-        source = DATA / f"day-{day:02d}" / "segments.json"
+        source = data_dir / f"day-{day:03d}" / "segments.json"
+        if not source.exists():
+            continue
         data = json.loads(source.read_text(encoding="utf-8"))
         voice_cfg = data.get("voice", {})
         voice = str(voice_cfg.get("voice", "en-US-AndrewNeural"))
         rate = str(voice_cfg.get("rate", "-8%"))
-        audio_dir = OUT / f"day-{day:02d}" / "audio"
+        audio_dir = out_dir / f"day-{day:03d}" / "audio"
         for segment in data["segments"]:
             output = audio_dir / f"{segment['id']}.mp3"
             words = audio_dir / f"{segment['id']}.words.json"
@@ -116,7 +123,7 @@ async def stream_with_word_boundaries(communicate, partial: Path, words_output: 
     words_output.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
 
 
-def parse_days(raw: str) -> list[int]:
+def parse_days(raw: str, max_day: int) -> list[int]:
     days: list[int] = []
     for part in raw.split(","):
         part = part.strip()
@@ -127,13 +134,13 @@ def parse_days(raw: str) -> list[int]:
             days.extend(range(int(low), int(high) + 1))
         else:
             days.append(int(part))
-    return sorted({day for day in days if 1 <= day <= 30}) or list(range(1, 31))
+    return sorted({day for day in days if 1 <= day <= max_day})
 
 
-async def run(days: list[int], concurrency: int, force: bool) -> int:
+async def run(data_dir: Path, out_dir: Path, days: list[int], concurrency: int, force: bool) -> int:
     for key in PROXY_KEYS:
         os.environ.pop(key, None)
-    jobs = collect_jobs(days, force)
+    jobs = collect_jobs(data_dir, out_dir, days, force)
     if not jobs:
         print("speaking audio already complete; nothing to do")
         return 0
@@ -155,12 +162,14 @@ async def run(days: list[int], concurrency: int, force: bool) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--days", default="1-30", help="Day selection, e.g. 1-30 or 1,5,9")
+    parser.add_argument("--course", default="speaking-vocab")
+    parser.add_argument("--days", default="", help="Day selection, e.g. 1-30 or 1,5,9; default all built days")
     parser.add_argument("--concurrency", type=int, default=6)
     parser.add_argument("--force", action="store_true", help="Regenerate even when audio exists")
     args = parser.parse_args()
-    days = parse_days(args.days)
-    return asyncio.run(run(days, max(1, min(args.concurrency, 10)), args.force))
+    data_dir, out_dir, max_day = course_paths(args.course)
+    days = parse_days(args.days, max_day) if args.days.strip() else list(range(1, max_day + 1))
+    return asyncio.run(run(data_dir, out_dir, days, max(1, min(args.concurrency, 10)), args.force))
 
 
 if __name__ == "__main__":

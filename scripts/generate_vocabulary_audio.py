@@ -12,11 +12,15 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent.parent
-DEFAULT_DATA = ROOT / "examples" / "vocabulary-month" / "month.json"
-DEFAULT_OUT = ROOT / "lessons" / "week" / "vocabulary-month"
 VOICE = "en-US-AndrewNeural"
 RATE = "-8%"
 PROXY_KEYS = ("HTTP_PROXY", "HTTPS_PROXY", "http_proxy", "https_proxy", "ALL_PROXY", "all_proxy")
+
+
+def default_paths(course: str) -> tuple[Path, Path]:
+    data = ROOT / "examples" / "courses" / course / "vocabulary-month" / "month.json"
+    out = ROOT / "lessons" / "week" / "courses" / course / "vocabulary-month"
+    return data, out
 
 
 @dataclass(frozen=True)
@@ -89,14 +93,19 @@ async def generate(jobs: list[AudioJob], concurrency: int, force: bool) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--data", type=Path, default=DEFAULT_DATA)
-    parser.add_argument("--out", type=Path, default=DEFAULT_OUT)
+    parser.add_argument("--course", default="speaking-vocab")
+    parser.add_argument("--data", type=Path, default=None)
+    parser.add_argument("--out", type=Path, default=None)
     parser.add_argument("--concurrency", type=int, default=6)
     parser.add_argument("--force", action="store_true")
     args = parser.parse_args()
+    if args.data is None or args.out is None:
+        default_data, default_out = default_paths(args.course)
+        args.data = args.data or default_data
+        args.out = args.out or default_out
     jobs = load_jobs(args.data, args.out)
-    if len(jobs) != 1080:
-        raise SystemExit(f"expected 1080 audio jobs, got {len(jobs)}")
+    if not jobs:
+        raise SystemExit(f"no audio jobs found in {args.data}")
     return asyncio.run(generate(jobs, max(1, min(args.concurrency, 10)), args.force))
 
 

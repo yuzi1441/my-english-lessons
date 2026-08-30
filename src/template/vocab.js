@@ -235,13 +235,33 @@
     return { due, learning, known, done, doneItems };
   }
 
+  const COURSE_LABELS = {
+    "speaking-vocab": "词汇口语课",
+    "vocabulary-month": "词汇口语课",
+    "speaking-course": "口语主课",
+    other: "其他来源"
+  };
+  const sourceLabel = key => COURSE_LABELS[key] || key;
+
   function sourceCounts() {
-    const counts = { "vocabulary-month": 0, "speaking-course": 0, other: 0, computer: 0, daily: 0, github: 0 };
+    const counts = {};
     entries.forEach(item => {
-      counts[Review.sourceKey(item)] += 1;
-      if (counts[item.domain] !== undefined) counts[item.domain] += 1;
+      const key = Review.sourceKey(item);
+      counts[key] = (counts[key] || 0) + 1;
     });
     return counts;
+  }
+
+  function refreshSourceFilter() {
+    const select = $("#vocabSource");
+    if (!select) return;
+    const current = sourceFilter;
+    const counts = sourceCounts();
+    select.innerHTML = `<option value="all">全部来源</option>` + Object.keys(counts).sort().map(key =>
+      `<option value="${esc(key)}">${esc(sourceLabel(key))}</option>`
+    ).join("");
+    select.value = counts[current] || current === "all" ? current : "all";
+    if (select.value !== current) sourceFilter = select.value;
   }
 
   function renderStats() {
@@ -268,7 +288,12 @@
     $("#tabLearning").textContent = learning.length;
     $("#tabKnown").textContent = known.length;
     const counts = sourceCounts();
-    $("#vocabSourceSummary").innerHTML = `<span>30天词汇强化 <b>${counts["vocabulary-month"]}</b></span><span>口语主课 <b>${counts["speaking-course"]}</b></span><span>其他来源 <b>${counts.other}</b></span><span>计算机 <b>${counts.computer}</b></span><span>日常交流 <b>${counts.daily}</b></span><span>GitHub <b>${counts.github}</b></span>`;
+    refreshSourceFilter();
+    $("#vocabSourceSummary").innerHTML = Object.keys(counts).sort().map(key =>
+      `<span>${esc(sourceLabel(key))} <b>${counts[key]}</b></span>`
+    ).join("") + ["computer", "daily", "github"].filter(domain => entries.some(item => item.domain === domain)).map(domain =>
+      `<span>${{ computer: "计算机", daily: "日常交流", github: "GitHub" }[domain]} <b>${entries.filter(item => item.domain === domain).length}</b></span>`
+    ).join("");
   }
 
   function progressHTML(item) {
@@ -291,7 +316,7 @@
 
   function reviewItemHTML(item) {
     const prompt = Review.prompt(item);
-    const source = Review.sourceKey(item) === "vocabulary-month" ? "30天词汇强化" : Review.sourceKey(item) === "speaking-course" ? "口语主课" : "其他来源";
+    const source = sourceLabel(Review.sourceKey(item));
     const audio = prompt.mode === "audio" ? `<button class="review-audio" data-vocab-speak="${esc(item.speech || item.word)}" data-vocab-audio="${esc(item.audioTerm || "")}">🔊 播放发音</button>` : "";
     return `<article class="vocab-item recall-card is-due" data-review-card="${esc(item.word)}">
       <div class="recall-card-head"><span class="recall-mode">${prompt.label}</span><span class="recall-source">${source}</span><span class="vocab-due due">${timeLabel(item.nextReview)}</span></div>

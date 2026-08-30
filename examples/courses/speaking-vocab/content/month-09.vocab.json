@@ -1,0 +1,1055 @@
+{
+ "month": 9,
+ "days": [
+  {
+   "computer": {
+    "topic": "攻击面与威胁建模",
+    "terms": [
+     "attack surface map|攻击面地图，能被攻击的入口清单",
+     "threat model|威胁建模，假设谁会怎么攻击",
+     "trust boundary|信任边界，信任止步的地方",
+     "entry point inventory|入口点清单，每个入口都有主人",
+     "abuse case|滥用案例，功能被用坏的样子",
+     "risk rating matrix|风险评级矩阵，概率乘影响"
+    ]
+   },
+   "daily": {
+    "topic": "家门安全学",
+    "terms": [
+     "I lock the door without being told.|不用提醒我就会锁门。",
+     "The spare key hides badly, so it moved.|备用钥匙藏得太差，搬家了。",
+     "Peephole before opening.|开门之前先看猫眼。",
+     "The neighbor collects packages.|邻居帮忙收快递。",
+     "Lights on a timer when away.|出门时灯用定时器。",
+     "Locks checked twice at night.|夜里检查两遍门锁。"
+    ]
+   },
+   "github": {
+    "topic": "安全开发流程",
+    "terms": [
+     "security requirements doc|安全需求文档，动手前先列威胁",
+     "abuse case review|滥用案例评审，怎么被用坏",
+     "threat model update rule|威胁模型更新规则，改架构就更新",
+     "security signoff lane|安全签核通道，敏感改动过安检",
+     "attack surface changelog|攻击面变更记录，入口增减留痕",
+     "risk acceptance form|风险接受表，带着风险上线要签字"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "身份与联邦",
+    "terms": [
+     "identity provider|身份提供方，统一发身份的地方",
+     "federated login|联邦登录，一次认证多处通行",
+     "passkey|通行密钥，用生物特征代替密码",
+     "hardware key|硬件密钥，插上才放行的钥匙",
+     "device trust score|设备信任分，这台电脑可信吗",
+     "session revoke|会话吊销，立刻踢下线"
+    ]
+   },
+   "daily": {
+    "topic": "证件与复印安全",
+    "terms": [
+     "I cover the camera on paper forms.|纸质表单我遮着填。",
+     "Copies get watermark notes.|复印件都加水印。",
+     "The ID photo rule.|证件复印件要写用途。",
+     "Shred before you bin.|先碎纸再扔垃圾桶。",
+     "Two factor, not two headaches.|两步验证不是两份麻烦。",
+     "Wallet inventory twice a year.|钱包清单半年一查。"
+    ]
+   },
+   "github": {
+    "topic": "仓库权限收紧",
+    "terms": [
+     "least privilege audit|最小权限审计，权限只少不多",
+     "privilege creep review|权限蔓延检查，老员工的隐性权力",
+     "onboarding access bundle|入职权限包，按角色一键开",
+     "offboarding checklist|离职权限清单，人走权限停",
+     "service account list|服务账号清单，机器人也要有户口",
+     "emergency access check|紧急权限复核，多开的账"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "注入与净化",
+    "terms": [
+     "sql injection|SQL 注入，输入变成命令的攻击",
+     "input sanitization|输入净化，进门的客人搜身",
+     "output encoding|输出编码，出门的话术检查",
+     "cross site scripting|跨站脚本攻击，页面里藏私货",
+     "csrf token|CSRF 令牌，确认请求真是你发的",
+     "parameterized query|参数化查询，占位符代替拼接"
+    ]
+   },
+   "daily": {
+    "topic": "防骗全家桶",
+    "terms": [
+     "If it is urgent, it is suspicious.|越催你越要怀疑。",
+     "I call back on the official number.|我回拨官方号码核实。",
+     "Prize notices go straight to trash.|中奖通知直接进垃圾桶。",
+     "Family code word for emergencies.|家里有紧急暗号。",
+     "The bank never asks for codes.|银行不会要你的验证码。",
+     "Scams update, skepticism updates faster.|骗局在更新，怀疑更新更快。"
+    ]
+   },
+   "github": {
+    "topic": "注入防御落地",
+    "terms": [
+     "sanitization test suite|净化测试套件，恶意输入全过一遍",
+     "csp header check|CSP 响应头检查，页面自设门禁",
+     "csrf coverage report|CSRF 覆盖报告，表单都有令牌吗",
+     "injection finding template|注入发现模板，报得规范修得快",
+     "escaper usage lint|转义函数检查，该转义的不许裸奔",
+     "parameterized only policy|只许参数化，字符串拼接下岗"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "网络防御",
+    "terms": [
+     "web application firewall|Web 应用防火墙，门口的安检仪",
+     "ddos mitigation|DDoS 缓解，人海战术的解药",
+     "rate limit by identity|按身份限流，惯犯重点盯防",
+     "ip allowlist for admin|管理后台白名单，后台不对外",
+     "mutual tls|双向 TLS，互相验明正身",
+     "network segmentation|网络分段，客厅不直通金库"
+    ]
+   },
+   "daily": {
+    "topic": "社区与门禁",
+    "terms": [
+     "The building gate closes politely.|单元门礼貌地关上。",
+     "Strangers get friendly directions, not entry.|陌生人得到指路不放行。",
+     "The intercom list is current.|门禁名单是最新的。",
+     "Package lockers beat door drops.|快递柜胜过门口放。",
+     "We report broken lights fast.|坏路灯很快有人修。",
+     "Neighbors know each other's faces.|邻居们认得彼此的脸。"
+    ]
+   },
+   "github": {
+    "topic": "边界防护治理",
+    "terms": [
+     "waf rule review|WAF 规则评审，拦得准不误伤",
+     "firewall change record|防火墙变更记录，开口都有原因",
+     "segmentation diagram|网络分段图，谁和谁能通信",
+     "exposed port audit|暴露端口审计，开门清单对一遍",
+     "ddos runbook|DDoS 应对手册，被淹时的操作",
+     "ingress inventory|入口流量清单，每一扇门都有登记"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "密钥与机密",
+    "terms": [
+     "secret scanning in ci|CI 机密扫描，提交前最后一道闸",
+     "code secret scan|代码机密扫描，历史也要翻一翻",
+     "key ceremony|密钥仪式，重要密钥的郑重交接",
+     "seal and rotate policy|封存与轮换策略，定期换锁",
+     "vault break glass|保管库应急开启，动用要留痕",
+     "entropy check for keys|密钥熵检查，随机性要够野"
+    ]
+   },
+   "daily": {
+    "topic": "钥匙与密码的物理课",
+    "terms": [
+     "House keys never leave with labels.|钥匙上不挂地址牌。",
+     "The key bowl by the door.|门口的钥匙碗。",
+     "Car keys sleep away from house keys.|车钥匙和家门钥匙分房睡。",
+     "Old locks get rekeyed, not trusted.|换锁芯而不是换心态。",
+     "Spare keys live with people, not mats.|备用钥匙在朋友家不在门垫下。",
+     "Lost key means new lock, no debate.|钥匙丢了就换锁，不抬杠。"
+    ]
+   },
+   "github": {
+    "topic": "机密泄露响应",
+    "terms": [
+     "exposed secret runbook|机密泄露手册，几步内换掉",
+     "rotation drill schedule|轮换演练排期，换锁也要练",
+     "secret incident severity|机密事件分级，泄露多久最要命",
+     "history purge procedure|历史清除流程，git 也会记得",
+     "revocation checklist|吊销检查清单，一处泄露全链条换",
+     "leak postmortem|泄露复盘，怎么进去的怎么说清"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "零信任实践",
+    "terms": [
+     "zero trust architecture|零信任架构，谁来了都要验票",
+     "verify explicitly rule|显式验证原则，内网也不白信",
+     "least standing access|最小常驻权限，默认没权限",
+     "just in time access|即时访问权限，要用才开门",
+     "short lived credential|短时凭证，票根会自动过期",
+     "device posture check|设备状态检查，体检合格才放行"
+    ]
+   },
+   "daily": {
+    "topic": "访客与信任",
+    "terms": [
+     "Verified guests get wifi, not keys.|访客有 Wi-Fi 没有钥匙。",
+     "Trust is verified, not assumed.|信任是验证出来的。",
+     "The delivery door rule.|快递只到门口。",
+     "Repairs need appointment plus id.|维修要预约加证件。",
+     "Strangers in the lobby get help, not access.|大堂里的陌生人得到帮助而非通行。",
+     "Everyone badges in, even family.|进楼人人刷卡，家人也一样。"
+    ]
+   },
+   "github": {
+    "topic": "零信任落地",
+    "terms": [
+     "jit approval flow|即时授权流程，用时申请用完收回",
+     "standing access report|常驻权限报告，长期开着的门",
+     "posture check integration|设备状态检查集成，体检进流程",
+     "step up auth for prod|生产环境二次验证，动核心再验一次",
+     "session length policy|会话时长策略，多久重新验一次",
+     "trust level label|信任等级标签，不同等级不同门"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "社会工程与演练",
+    "terms": [
+     "social engineering drill|社工演练，专门有人来骗你",
+     "phishing simulation program|钓鱼模拟计划，公司发的假钓鱼",
+     "report phishing button|举报钓鱼按钮，一键上报",
+     "urgency red flag|紧迫感红旗，催你是种攻击",
+     "authority spoofing check|冒充上级核查，领导不会发邮件要密码",
+     "reward scam pattern|中奖骗局模式，好运来的太快"
+    ]
+   },
+   "daily": {
+    "topic": "家里的反诈课堂",
+    "terms": [
+     "Grandma learned the code word.|奶奶学会了暗号。",
+     "Kids know callers verify first.|孩子们知道来电要核实。",
+     "The family shares scam samples.|全家共享诈骗样本。",
+     "Suspicious link, one phone away.|可疑链接先问一句。",
+     "Emotional messages get a delay.|情绪化消息先放一放。",
+     "Reporting feels heroic now.|现在举报像做英雄。"
+    ]
+   },
+   "github": {
+    "topic": "演练成果治理",
+    "terms": [
+     "drill result metrics|演练结果指标，谁中招谁上报",
+     "click rate trend report|点击率趋势报告，进步看得见",
+     "repeat clicker coaching|重复点击辅导，温和的再培训",
+     "phish report leaderboard|举报龙虎榜，上榜的是火眼金睛",
+     "simulation calendar|模拟排期表，不定期才真实",
+     "lessons into training|演练教训进培训，中招的点变成课"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "漏洞管理",
+    "terms": [
+     "vulnerability scanning cadence|漏洞扫描节奏，定期体检",
+     "penetration test|渗透测试，请专业的人来攻",
+     "bug bounty program|漏洞赏金计划，民间高手来帮忙",
+     "responsible disclosure policy|负责任披露政策，欢迎报告不吓人",
+     "patch priority matrix|补丁优先级矩阵，先补会疼的",
+     "exploitability rating|可利用性评级，能打几分"
+    ]
+   },
+   "daily": {
+    "topic": "家里的漏洞清单",
+    "terms": [
+     "The wobbly railing got fixed first.|摇晃的栏杆最先修。",
+     "We fix hazards, not cosmetics.|先修隐患再谈美观。",
+     "Smoke alarm batteries quarterly.|烟感电池每季换。",
+     "The loose step got a note.|松动的台阶先贴条警示。",
+     "Insurance photos updated yearly.|家庭财产照片年更。",
+     "Repair budget beats repair regret.|维修预算胜过维修后悔。"
+    ]
+   },
+   "github": {
+    "topic": "漏洞工单流",
+    "terms": [
+     "security report intake|安全报告受理通道，一条单独的路",
+     "triage sla for security|安全工单时限，报了多久必须回",
+     "reproduction in staging|预发布环境复现，真实但不伤人",
+     "fix and verify loop|修复验证回路，补丁要证明自己",
+     "disclosure timeline doc|披露时间线文档，何时修何时说",
+     "credit the reporter|致谢报告者，江湖道义"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "应急与遏制",
+    "terms": [
+     "containment playbook|遏制手册，先止血再查因",
+     "break glass account|应急账户，起 Break Glass 也要留名",
+     "incident bridge policy|应急会议政策，拉会要有纪律",
+     "isolation procedure|隔离流程，病号先单独住",
+     "forensics basics|取证基础，先保全再动现场",
+     "indicator of compromise|失陷指标，已知坏人的长相"
+    ]
+   },
+   "daily": {
+    "topic": "家庭应急预案",
+    "terms": [
+     "The emergency bag lives by the door.|应急包住在门口。",
+     "Meeting point agreed twice a year.|集合点一年确认两次。",
+     "Water for three days, checked.|三天的水，定期检查。",
+     "Copies of documents in the cloud.|证件扫描件在云端。",
+     "The plan fits on one card.|预案只有一张卡。",
+     "Drills make calm possible.|演练让冷静成为可能。"
+    ]
+   },
+   "github": {
+    "topic": "安全应急实践",
+    "terms": [
+     "security incident channel|安全事件频道，安静的专用房",
+     "evidence collection checklist|证据收集清单，按单保全",
+     "containment action log|遏制动作日志，每步有时间戳",
+     "escalation tree for security|安全升级树，找不到人也找得到路径",
+     "forensic handoff guide|取证交接指南，交给专家什么",
+     "recovery verification plan|恢复验证计划，回来要验身"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "供应链安全",
+    "terms": [
+     "dependency provenance check|依赖来源核查，谁生的谁签的",
+     "signed commit verification|签名提交核验，作者可验证",
+     "build reproducibility check|构建可复现检查，同源同果",
+     "vendor risk review|供应商风险评审，外面的也要面审",
+     "third party data list|第三方数据清单，他们碰什么数据",
+     "open source usage policy|开源使用政策，拿来主义有规矩"
+    ]
+   },
+   "daily": {
+    "topic": "采购的供应链课",
+    "terms": [
+     "I check where food comes from.|我看食品的产地。",
+     "Repairability affects my buying.|可修性影响我的购买。",
+     "The brand recall list, subscribed.|召回名单订着推送。",
+     "Cheap chargers, no thanks.|杂牌充电器，不要。",
+     "Reviews from verified buyers only.|只看实名买家的评价。",
+     "Fewer suppliers, deeper trust.|更少的供应商，更深的信任。"
+    ]
+   },
+   "github": {
+    "topic": "构建安全",
+    "terms": [
+     "build provenance attestation|构建来源证明，产物带出生证",
+     "pinned dependency audit|固定依赖审计，锁死的才放心",
+     "release artifact signing|发布产物签名，成品盖章",
+     "ci runner isolation review|CI 运行器隔离评审，车间的墙",
+     "upstream change watch|上游变更监视，供货商换配方要通知",
+     "software bill of materials|软件物料清单，成分表齐全"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "合规与审计",
+    "terms": [
+     "control mapping|控制项映射，条文与实现对照",
+     "compliance calendar|合规日历，检查节点全年排",
+     "audit prep sprint|审计准备冲刺，证据提前归档",
+     "evidence automation pipeline|证据自动化管道，材料自己生成",
+     "policy exceptions register|例外登记簿，破例也要登记",
+     "attestation workflow|签署证明流程，人人签字背书"
+    ]
+   },
+   "daily": {
+    "topic": "家庭档案合规",
+    "terms": [
+     "Insurance papers reviewed yearly.|保单每年过一遍。",
+     "The family document binder.|家庭档案夹。",
+     "Expiry dates on one calendar.|到期日都在一个日历。",
+     "Rules for the kids are written too.|给孩子的规矩也写成文。",
+     "Warranties in one folder.|保修卡一个文件夹。",
+     "Prepared beats scrambling every time.|提前准备永远胜过临时翻找。"
+    ]
+   },
+   "github": {
+    "topic": "合规工程化",
+    "terms": [
+     "compliance as code checks|合规即代码检查，条文变测试",
+     "audit trail completeness test|审计留痕完整性测试，日志不许缺页",
+     "access review automation|权限审查自动化，季度自动发单",
+     "data inventory refresh|数据清单更新，家底定期盘",
+     "evidence retention schedule|证据保留排期，材料存多久",
+     "readiness scorecard|就绪记分卡，审计前的心里数"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "隐私工程",
+    "terms": [
+     "privacy by design|隐私始于设计，先想再建",
+     "data flow notes|数据流标注，去向画图上",
+     "purpose limit check|目的限定检查，超范围不行",
+     "anonymization check|匿名化验证，洗得干净吗",
+     "data export flow|用户数据导出，自己的自己带",
+     "deletion verifier|删除验证任务，说删就真删"
+    ]
+   },
+   "daily": {
+    "topic": "家庭隐私边界",
+    "terms": [
+     "Kids photos have sharing rules.|孩子照片有分享规则。",
+     "The family location share, opt in.|家人位置共享，自愿开。",
+     "Old accounts get deleted yearly.|旧账号每年清理。",
+     "Loyalty cards, curated.|会员卡，精选几家。",
+     "We ask before posting others.|发别人照片先问一句。",
+     "Privacy is a family value.|隐私是家训。"
+    ]
+   },
+   "github": {
+    "topic": "隐私落地检查",
+    "terms": [
+     "privacy review checklist|隐私评审清单，涉数据必过",
+     "consent flow test|同意流程测试，点头要有记录",
+     "data retention enforcement|数据保留执行，到期自动清",
+     "third party sharing audit|第三方共享审计，给出去的算清楚",
+     "privacy policy diff review|隐私政策变更评审，改了要解释",
+     "user request sla tracker|用户请求时限跟踪，行使权利不拖延"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "移动与端侧安全",
+    "terms": [
+     "app hardening checklist|应用加固清单，端侧的盔甲",
+     "secure storage api|安全存储接口，敏感数据住保险箱",
+     "root detection policy|越狱检测策略，特殊环境降权",
+     "code obfuscation tradeoff|代码混淆取舍，防君子也防小人",
+     "screen capture guard|截屏防护，证件页不许拍",
+     "deep link validation|深链校验，跳转链接要验票"
+    ]
+   },
+   "daily": {
+    "topic": "手机安全习惯",
+    "terms": [
+     "Auto lock at thirty seconds.|三十秒自动锁屏。",
+     "App permissions audited monthly.|应用权限每月查。",
+     "Unknown links open nowhere.|可疑链接哪都不打开。",
+     "Find my phone, tested.|查找手机功能，测过了。",
+     "Sim pin enabled quietly.|SIM 卡密码悄悄开了。",
+     "Public chargers, data only.|公共充电桩只传数据不认信任。"
+    ]
+   },
+   "github": {
+    "topic": "端侧发布安检",
+    "terms": [
+     "release hardening gate|发布加固门禁，不带盔甲不上线",
+     "secret in app check|应用内机密检查，包里不许藏钥匙",
+     "deep link test suite|深链测试套件，每条跳转都验证",
+     "secure storage usage lint|安全存储使用检查，明文不让过",
+     "tamper response drill|篡改响应演习，被改了怎么办",
+     "mobile incident runbook|移动端事件手册，丢号丢机怎么办"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全度量",
+    "terms": [
+     "mean time to patch|平均修复时长，补丁的速度",
+     "vulnerability aging report|漏洞老化报告，欠账越久越疼",
+     "coverage of scanning|扫描覆盖率，别有体检盲区",
+     "security training completion|安全培训完成率，人人上过课",
+     "false positive rate for alerts|告警误报率，狼来了指数",
+     "security kpi review|安全 KPI 评审，数字要会说话"
+    ]
+   },
+   "daily": {
+    "topic": "家庭安全复盘",
+    "terms": [
+     "We review close calls too.|虚惊也要复盘。",
+     "The near miss notebook.|未遂事件小本子。",
+     "Locks and alarms tested twice a year.|锁和警报半年一测。",
+     "Kids teach us scam trends.|孩子们教我们新骗局。",
+     "Prevention wins get celebrated.|预防的胜利也要庆祝。",
+     "Safety is a quiet KPI.|安全是安静的指标。"
+    ]
+   },
+   "github": {
+    "topic": "安全看板",
+    "terms": [
+     "security posture dashboard|安全态势看板，一屏知家底",
+     "patch compliance view|补丁合规视图，谁没打疫苗",
+     "top risks list|Top 风险清单，最重要的十件事",
+     "security trend briefing|安全趋势简报，月度一页纸",
+     "exceptions aging view|例外老化视图，破例不能永久",
+     "board ready summary|给管理层的摘要，人话讲风险"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全文化与伙伴",
+    "terms": [
+     "security champion network|安全大使网络，每个团队一个眼睛",
+     "blameless security reporting|无责安全上报，报了不挨骂",
+     "security guild sessions|安全公会例会，经验互通",
+     "developer security training|开发者安全培训，写码先懂攻",
+     "rule of two for risky changes|双人规则，危险操作结伴",
+     "thanks for reporting wall|致谢上报墙，好人有名"
+    ]
+   },
+   "daily": {
+    "topic": "全家的安全文化",
+    "terms": [
+     "No blame for honest mistakes.|诚实报告不挨骂。",
+     "Kids quiz adults on scams.|孩子考大人骗局题。",
+     "The family safety captain rotates.|家庭安全队长轮值。",
+     "Good catches get ice cream.|抓到骗局有冰淇淋。",
+     "Checklists for everyone.|人人都有那张卡。",
+     "Watchfulness is inherited.|警惕是会遗传的。"
+    ]
+   },
+   "github": {
+    "topic": "安全里程碑",
+    "terms": [
+     "zero critical findings month|零严重漏洞月，干净的一个月",
+     "drill completion certificate|演练完成认证，全员毕业",
+     "champion office hours|大使答疑时间，安全就在身边",
+     "security wins retro|安全成果复盘，做对的也要说",
+     "cross team drill exchange|跨团队演练交流，互相出题",
+     "year one security retro|第一年安全复盘，从怕到会"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "云安全责任",
+    "terms": [
+     "shared responsibility model|共担责任模型，云上谁管哪一段",
+     "iam policy review|IAM 策略评审，云上的门禁卡",
+     "public exposure check|公网暴露检查，别裸奔上互联网",
+     "security group hygiene|安全组卫生，端口最小开口",
+     "cloud config baseline|云配置基线，出厂就合规",
+     "admin account guard|管理员账号防线，万能不能常开"
+    ]
+   },
+   "daily": {
+    "topic": "智能门锁的哲学",
+    "terms": [
+     "The smart lock gets firmware updates.|智能锁也升固件。",
+     "Physical keys stay as backup.|物理钥匙留作备份。",
+     "Battery check for the lock monthly.|门锁电池每月查。",
+     "Guest codes expire automatically.|访客密码自动过期。",
+     "The lock log answers questions.|开锁记录解答疑团。",
+     "Convenience needs a seatbelt.|便利也要系安全带。"
+    ]
+   },
+   "github": {
+    "topic": "云配置治理",
+    "terms": [
+     "misconfig finding triage|错误配置分诊，开错的门关掉",
+     "iam least privilege lint|IAM 最小权限检查，万能不能常驻",
+     "public bucket alert|公开存储桶告警，网盘别对全网开",
+     "tag based access rules|按标签访问规则，环境隔离自动化",
+     "security baseline repo|安全基线仓库，标准一处维护",
+     "baseline drift alert|偏离基线告警，悄悄改配置就报"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "日志与监控安全",
+    "terms": [
+     "tamper proof logging|防篡改日志，记了就改不了",
+     "log integrity verification|日志完整性校验，账本没被涂改",
+     "anomalous access pattern|异常访问模式，半夜的查询很可疑",
+     "dormant account alert|休眠账号告警，太久没人用要查",
+     "failed login analysis|失败登录分析，敲门声的统计",
+     "privileged session recording|特权会话录屏，管理员操作留影"
+    ]
+   },
+   "daily": {
+    "topic": "家里的访客记录",
+    "terms": [
+     "The guest book survived generations.|访客簿传了几代人。",
+     "Repair visits get logged too.|维修来访也记录。",
+     "We notice patterns politely.|我们礼貌地留意规律。",
+     "Odd hours get a phone call.|怪时间来访先打电话。",
+     "The dog is our anomaly detector.|狗是我们家的异常检测器。",
+     "Logs without blame, just facts.|只记事实不追责。"
+    ]
+   },
+   "github": {
+    "topic": "监控安全治理",
+    "terms": [
+     "impossible travel alert|异地登录告警，瞬移要报警",
+     "service account review|服务账号活动复核，机器人也有日程",
+     "log retention balance|日志保留与隐私平衡，存多久要讲理",
+     "on call access logging|值班访问留痕，动库必留名",
+     "security metrics pipeline|安全指标管道，数字自动出炉",
+     "false alarm tuning session|误报调优会，警报要可信"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "加密基础实践",
+    "terms": [
+     "key derivation function|密钥派生函数，从口令到钥匙",
+     "salt for passwords|口令加盐，同一密码不同密文",
+     "key hierarchy|密钥层级体系，主钥不发一线",
+     "digital signature use|数字签名用途，盖章的现代版",
+     "certificate rotation automation|证书轮换自动化，到期不再救火",
+     "crypto agility principle|加密敏捷原则，算法也要能换"
+    ]
+   },
+   "daily": {
+    "topic": "家里的暗语体系",
+    "terms": [
+     "Our family has code phrases.|家里有专属暗语。",
+     "The recipe secret stays verbal.|传家秘方只口传。",
+     "Diaries got locks as kids.|小时候日记本都带锁。",
+     "Passwords with meanings, not dates.|密码有含义不写生日。",
+     "The safe box for originals.|原件住在保险盒。",
+     "Secrets age well when rotated.|常换的密码保新鲜。"
+    ]
+   },
+   "github": {
+    "topic": "加密治理",
+    "terms": [
+     "crypto usage inventory|加密使用清单，哪里用了什么算法",
+     "weak algorithm detection|弱算法检测，过时的要标红",
+     "key ownership registry|密钥归属登记，每把钥匙有人管",
+     "rotation due report|轮换到期报告，该换钥匙的名单",
+     "transit encryption check|传输加密核查，路上一律上锁",
+     "test data encryption review|测试数据加密评审，测试也要讲究"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "备份与勒索防护",
+    "terms": [
+     "immutable backup|不可变备份，写完就改不了",
+     "backup isolation|备份隔离，和主网物理分居",
+     "ransomware playbook|勒索软件手册，被锁家产的预案",
+     "restore priority list|恢复优先级清单，先救最要命的",
+     "backup credential separation|备份凭证分离，小偷拿不走备用钥匙",
+     "recovery drill cadence|恢复演练节奏，备胎也要年检"
+    ]
+   },
+   "daily": {
+    "topic": "家里的灾难备份",
+    "terms": [
+     "Passport copies in two places.|护照复印件存两处。",
+     "The emergency cash stash.|应急现金的小金库。",
+     "Family photos in three homes.|全家福存在三个屋。",
+     "The recipe box survives floods.|菜谱盒防过洪水。",
+     "Insurance contact card offline.|保险联系方式有纸版。",
+     "Backups you can reach offline.|断网也拿得到的备份。"
+    ]
+   },
+   "github": {
+    "topic": "勒索防御治理",
+    "terms": [
+     "immutable storage check|不可变存储检查，改不了才放心",
+     "restore game results|恢复比赛成绩，比谁救得快",
+     "isolation network drill|隔离网络演练，断联也能活",
+     "backup coverage matrix|备份覆盖矩阵，每一份数据都有主",
+     "ransomware tabletop notes|勒索桌演笔记，决策先于慌乱",
+     "recovery runbook versions|恢复手册版本化，剧本也要迭代"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "办公与远程安全",
+    "terms": [
+     "travel laptop policy|出差电脑策略，轻装不裸奔",
+     "home network hardening guide|家庭网络安全指南，客厅也是办公区",
+     "privacy screen filter|屏幕防窥片，机舱里的安静",
+     "public wifi risk rules|公共 Wi-Fi 风险守则，咖啡店不谈机密",
+     "visitor network access|访客网络接入，客人走专属通道",
+     "lost device procedure|设备丢失流程，第一时间三步走"
+    ]
+   },
+   "daily": {
+    "topic": "咖啡店办公守则",
+    "terms": [
+     "I face the wall for calls.|打电话我面向墙。",
+     "Privacy filter on trains.|火车上贴防窥片。",
+     "No client names on screens.|屏幕上不出现客户名。",
+     "The headphone rule for calls.|通话必戴耳机。",
+     "Hotspot beats cafe wifi.|手机热点胜过咖啡店 Wi-Fi。",
+     "Two factor for everything now.|现在什么都是两步验证。"
+    ]
+   },
+   "github": {
+    "topic": "远程办公安全治理",
+    "terms": [
+     "vpn split tunnel review|VPN 分流策略评审，哪些流量走公司",
+     "device compliance check|设备合规检查，不健康的设备不接客",
+     "remote wipe verification|远程擦除验证，丢了真能清掉",
+     "meeting room tech security|会议室设备安全，屏幕也会泄密",
+     "contractor access template|外包人员权限模板，来去都有型",
+     "tailgating drill|尾随进入演练，帮开门前先看证"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全与法律",
+    "terms": [
+     "data processing agreement|数据处理协议，把责任写明白",
+     "breach notification duty|泄露通知义务，多久内必须说",
+     "regulatory deadline tracker|监管时限追踪，法定的日子不放假",
+     "legal hold process|法律保全流程，涉诉数据冻结",
+     "privacy impact assessment|隐私影响评估，新功能先过法务眼",
+     "consent record keeping|用户同意记录，点头也要有证据"
+    ]
+   },
+   "daily": {
+    "topic": "家庭里的契约精神",
+    "terms": [
+     "The lending handshake rule.|借钱要握手为证。",
+     "House rules get written down.|家规也落在纸上。",
+     "We read contracts before signing.|签字之前读合同。",
+     "The kids understand consent too.|孩子也懂同意这回事。",
+     "Verbal promises get a text.|口头约定事后补个短信。",
+     "Fair rules get fewer arguments.|公平的规矩少吵架。"
+    ]
+   },
+   "github": {
+    "topic": "法务协作工程",
+    "terms": [
+     "legal review intake form|法务评审受理单，问题一次问全",
+     "regulation change watch|法规变更监视，新规来了自动通知",
+     "contract expiry calendar|合同到期日历，续签不踩空",
+     "policy translation for engineers|政策给工程师的翻译，法言法语变人话",
+     "legal escalation path|法务升级路径，什么时候必须叫律师",
+     "compliance question archive|合规问答归档，问过的不再问"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全的人因",
+    "terms": [
+     "security fatigue awareness|安全疲劳意识，别把人逼成摆设",
+     "nudge based compliance|助推式合规，好走的路才是对的",
+     "secure default configuration|默认安全配置，出厂即安心",
+     "friction budget for security|安全摩擦预算，别拦到大家绕路",
+     "champion feedback loop|大使反馈回路，一线的声音通天",
+     "just culture balance|公正文化平衡，追责与学习并存"
+    ]
+   },
+   "daily": {
+    "topic": "让好事容易做",
+    "terms": [
+     "Fruit on the counter, candy up high.|水果放台面糖果放高处。",
+     "The recycling bin by the door.|回收桶就放门口。",
+     "Workout clothes laid out nightly.|运动服前一晚摆好。",
+     "Good defaults beat lectures.|好的默认胜过说教。",
+     "We make the safe path easy.|让安全的路好走。",
+     "Habits follow the easiest path.|习惯总走最省力的路。"
+    ]
+   },
+   "github": {
+    "topic": "可用安全",
+    "terms": [
+     "security friction audit|安全摩擦审计，哪一步最想被绕过",
+     "secure template adoption|安全模板采纳率，好用的才有人用",
+     "exception request analysis|例外申请分析，破例的原因是信号",
+     "policy usability test|策略可用性测试，找真人走一遍",
+     "secure default rollout|安全默认值推广，切换要体面",
+     "feedback from the floor|一线反馈通道，保安也懂开发"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "无线与物理安全",
+    "terms": [
+     "wifi security standard|Wi-Fi 安全标准，家里别用老协议",
+     "rogue access point detection|伪热点检测，假 Wi-Fi 会钓鱼",
+     "physical access log|物理进出记录，门禁也是日志",
+     "server room access policy|机房进出政策，重地不闲逛",
+     "device inventory audit|设备台账审计，每一台都挂号",
+     "badge cloning awareness|门禁卡克隆意识，卡片也是密码"
+    ]
+   },
+   "daily": {
+    "topic": "出门在外的物品安全",
+    "terms": [
+     "Bag in front, always.|背包永远在前。",
+     "Hotel safe for passports.|护照住酒店保险柜。",
+     "Two wallets trick for travel.|旅行双钱包小技巧。",
+     "The phone strap after one scare.|惊魂一次后上了手机绳。",
+     "Room number never spoken aloud.|房号不出口。",
+     "Luggage tags hide addresses.|行李牌不写家庭住址。"
+    ]
+   },
+   "github": {
+    "topic": "物理数字融合治理",
+    "terms": [
+     "badge and log correlation|门禁与日志关联，物理事件进系统",
+     "clean desk policy check|桌面清空检查，下班不留纸",
+     "printer security review|打印机安全评审，纸和内存都敏感",
+     "guest wifi isolation test|访客网络隔离测试，客网碰不到内网",
+     "asset disposal procedure|资产处置流程，旧设备先净身",
+     "physical entry audit|物理进入审计，谁进过机房"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全遥测与威胁情报",
+    "terms": [
+     "threat intelligence feed|威胁情报源，坏人的通缉令",
+     "ioc sharing community|失陷指标共享圈，同行不是敌人",
+     "attack trend analysis|攻击趋势分析，风向往哪吹",
+     "reputation list usage|信誉名单使用，黑白名单的正确姿势",
+     "attack pattern library|攻击手法库，见招才有招",
+     "intel to rule pipeline|情报转规则管道，通缉令变成卡口"
+    ]
+   },
+   "daily": {
+    "topic": "社区情报网",
+    "terms": [
+     "The neighborhood group warns fast.|小区群里预警很快。",
+     "Scam calls get shared numbers.|诈骗号码全群共享。",
+     "The courier scam memo.|快递骗局的备忘。",
+     "We verify before forwarding.|转发之前先核实。",
+     "Patterns from different streets.|不同街区的规律汇总。",
+     "Shared vigilance, lighter load.|共享的警惕，分摊的负担。"
+    ]
+   },
+   "github": {
+    "topic": "情报运营",
+    "terms": [
+     "intel relevance filter|情报相关性过滤，不是通缉令都要贴",
+     "rule false positive budget|规则误报预算，别让卡口罢工",
+     "threat briefing cadence|威胁简报节奏，月度讲给团队",
+     "intel based attack drill|基于情报的攻击模拟，照着通缉令演习",
+     "intel source review|情报源评审，消息灵通也要靠谱",
+     "actionable intel standard|可行动情报标准，不能落地的不算"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全自动化",
+    "terms": [
+     "auto containment for known bad|已知威胁自动遏制，熟脸直接拦",
+     "automated ticket enrichment|工单自动增能，告警自带背景",
+     "orchestration playbook engine|编排手册引擎，剧本自动演",
+     "risk based alert ranking|按风险排警，最疼的先看",
+     "self service access review|自助权限审查，一键说明还用不用",
+     "auto evidence collection|证据自动归集，事件自动建档案"
+    ]
+   },
+   "daily": {
+    "topic": "家居自动化里的安全",
+    "terms": [
+     "Auto locks at ten, exceptions logged.|十点自动锁门，例外也记录。",
+     "Leak sensor shuts the valve.|漏水传感器关水阀。",
+     "Smoke alarm calls the family.|烟警报警先打家里电话。",
+     "Automations have manual overrides.|自动化都留手动开关。",
+     "The camera respects guest hours.|摄像头尊重访客时段。",
+     "Convenience with an audit trail.|有留痕的便利。"
+    ]
+   },
+   "github": {
+    "topic": "自动化边界治理",
+    "terms": [
+     "automation blast radius review|自动化影响半径评审，脚本权限圈起来",
+     "human approval gates|人工审批关卡，关键步骤留人",
+     "runaway automation kill switch|失控自动化开关，随时喊停",
+     "automation audit log|自动化审计日志，机器人也留名",
+     "safe demo mode for playbooks|手册安全演示模式，排练不伤真",
+     "automation test environment|自动化测试环境，新剧本先彩排"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全接入新员工",
+    "terms": [
+     "security onboarding day one|安全入职第一课，上班先懂规矩",
+     "role based training path|按角色培训路径，各学各的攻防",
+     "first month security goals|首月安全目标，小步养成习惯",
+     "mentor for secure habits|安全习惯导师，老人带新手",
+     "phish test exemption process|钓鱼测试豁免流程，特殊情况有通道",
+     "newbie report celebration|新人首报庆祝，第一举报值得表扬"
+    ]
+   },
+   "daily": {
+    "topic": "新住处的安全入门",
+    "terms": [
+     "New home, first night locks audit.|新家第一晚查锁。",
+     "Meet the neighbors early.|早点认识邻居。",
+     "Local emergency numbers saved.|本地急救号码存好。",
+     "The fuse box location, memorized.|电闸位置背下来。",
+     "Water valve found before leak.|水阀在漏水前找到。",
+     "New city, same skepticism.|新城新套路，一样多留心。"
+    ]
+   },
+   "github": {
+    "topic": "安全融入开发",
+    "terms": [
+     "secure coding dojo|安全编码道场，练功房式学习",
+     "threat model codebase tour|代码库威胁模型导览，新人看地图",
+     "first security ticket buddy|第一个安全工单带教，跟着修一次",
+     "secure done definition|安全完成定义，什么算写完",
+     "security questions channel|安全提问频道，问傻问题很安全",
+     "basics graduation day|基础课毕业礼，能独立评审"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全季末盘点",
+    "terms": [
+     "security posture trend|安全态势趋势，比上季度好多少",
+     "top risks movement|重点风险位移表，谁升谁降",
+     "control effectiveness review|控制有效性回顾，规矩真的有用吗",
+     "incident frequency analysis|事件频率分析，坏事在变多还是少",
+     "budget ask with evidence|带证据的预算申请，数字说话",
+     "next quarter security bets|下季安全押注，最重要三件事"
+    ]
+   },
+   "daily": {
+    "topic": "两百七十天的安心",
+    "terms": [
+     "Day two hundred seventy, locks checked.|第二百七十天，锁都查了。",
+     "The quiet confidence of routines.|日常带来的安心。",
+     "We fixed the fence before the storm.|暴风雨前修好了篱笆。",
+     "Sleep comes easier prepared.|有准备的人睡得香。",
+     "Gratitude for the boring months.|感谢这些平静的月份。",
+     "Next season, same vigilance.|下一季，同样留心。"
+    ]
+   },
+   "github": {
+    "topic": "安全季报",
+    "terms": [
+     "quarterly security report|季度安全报告，给全员的一页纸",
+     "wins and gaps summary|成绩与缺口摘要，两面都讲",
+     "risk heatmap refresh|风险热力图刷新，重灾区变化",
+     "audit findings closed list|审计发现关闭清单，欠账都还了",
+     "team drill scores|团队演练成绩单，谁在进步",
+     "next year security roadmap|来年安全路线图，更远的规划"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全工具选型",
+    "terms": [
+     "tool overlap audit|工具重叠审计，三把同款锁",
+     "detection coverage map|检测覆盖地图，哪类攻击没盯",
+     "alert noise benchmark|告警噪音基准，一天几条算吵",
+     "tool integration surface|工具集成面，打通还是孤岛",
+     "license and data terms check|许可与数据条款检查，工具也要政审",
+     "sunset criteria for security tools|安全工具退役标准，什么时候放手"
+    ]
+   },
+   "daily": {
+    "topic": "家里的工具箱哲学",
+    "terms": [
+     "The right screwdriver beats five wrong ones.|一把对的螺丝刀胜过五把错的。",
+     "Tools we never use get donated.|从不用的工具捐出去。",
+     "The ladder is checked before climbing.|爬梯子前先检查。",
+     "Quality tools age slowly.|好工具老得慢。",
+     "Every tool has a shadow hook.|每件工具都有影子钩。",
+     "Borrowed tools come home fast.|借的工具快还。"
+    ]
+   },
+   "github": {
+    "topic": "安全工具链运营",
+    "terms": [
+     "tool roi review|工具投入产出评审，花钱要有回响",
+     "integration health check|集成健康检查，管道都在通气",
+     "coverage gap backlog|覆盖缺口积压单，没盯的攻击面排队",
+     "tooling oncall guide|工具值班指南，谁家仪表谁看",
+     "pilot before purchase|买前先试点，小范围验货",
+     "tool owner matrix|工具负责人矩阵，每件家伙有主"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全事件沟通",
+    "terms": [
+     "status update template|事件状态模板，同一骨架反复填",
+     "executive brief format|高管简报格式，三句话讲清楚",
+     "customer facing tone guide|面向客户的语气指南，抱歉也要专业",
+     "internal rumor control|内部谣言管控，官方渠道及时说",
+     "media inquiry protocol|媒体问询处理，统一出口不乱答",
+     "post incident faq|事后 FAQ 汇编，问过的问题成册"
+    ]
+   },
+   "daily": {
+    "topic": "家庭通报的艺术",
+    "terms": [
+     "Bad news travels first class.|坏消息要第一时间说。",
+     "One spokesperson per crisis.|一次危机一个发言人。",
+     "Facts first, feelings second.|先讲事实再讲感受。",
+     "We correct our own rumors fast.|自家的谣言自家快澄清。",
+     "The group chat stays calm.|家庭群保持冷静。",
+     "Silence breeds imaginative cousins.|沉默会生出想象的表亲。"
+    ]
+   },
+   "github": {
+    "topic": "事件沟通演练",
+    "terms": [
+     "comms drill with legal|与法务的沟通演练，措辞预先过堂",
+     "update cadence tracker|更新节奏跟踪表，说到做到",
+     "stakeholder map for incidents|事件干系人地图，该通知的一个不漏",
+     "plain language rewrite pass|平实语言改写关，术语挡客",
+     "timezone aware notifications|跨时区通知安排，别吵醒 asleep 的同事",
+     "message archive for review|通稿归档备查，事后可复盘"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全与可用的平衡",
+    "terms": [
+     "friction telemetry|摩擦遥测，哪一步用户在骂",
+     "risk based step up|按风险加验，小事不折腾",
+     "session comfort windows|会话舒适窗口，多久重验不烦躁",
+     "recovery path dignity|恢复路径尊严，忘密码不羞辱",
+     "security ux review|安全体验评审，门禁也讲待客",
+     "escape hatch documentation|逃生通道说明，卡住了怎么办"
+    ]
+   },
+   "daily": {
+    "topic": "门锁与温度",
+    "terms": [
+     "The door that locks itself politely.|门会礼貌地自己锁。",
+     "Guests never feel suspected.|客人从不觉得被怀疑。",
+     "The alarm respects movie nights.|警报尊重电影之夜。",
+     "Safe but never hostile.|安全但不敌对。",
+     "Rules with reasons attached.|规矩都带说明书。",
+     "Home security feels like hospitality.|家用安全像待客之道。"
+    ]
+   },
+   "github": {
+    "topic": "安全体验度量",
+    "terms": [
+     "security ux metrics|安全体验指标，安全感和流畅度",
+     "abandonment rate at login|登录放弃率，门槛别太高",
+     "support tickets about access|权限类工单分析，绕路的地图",
+     "recovery success rate|恢复成功率，忘记密码能自救",
+     "user trust pulse survey|用户信任度脉搏调研，季度一问",
+     "secure path wait time|安全路径等待时间，审批多久算温柔"
+    ]
+   }
+  }
+ ]
+}

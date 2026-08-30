@@ -1,0 +1,1055 @@
+{
+ "month": 1,
+ "days": [
+  {
+   "computer": {
+    "topic": "电脑硬件与设备",
+    "terms": [
+     "hardware|硬件，电脑中可以实际触摸到的部件",
+     "device|设备，用来完成某项工作的电子工具",
+     "monitor|显示器，用来显示电脑画面",
+     "keyboard|键盘，用来输入文字和命令",
+     "mouse|鼠标，用来移动光标和点击",
+     "power button|电源按钮，用来开机或关机"
+    ]
+   },
+   "daily": {
+    "topic": "问候和自我介绍",
+    "terms": [
+     "Nice to meet you.|很高兴认识你。",
+     "How are you doing?|你最近怎么样？",
+     "My name is ...|我的名字是……",
+     "I'm new here.|我是新来的。",
+     "Where are you from?|你来自哪里？",
+     "See you later.|回头见。"
+    ]
+   },
+   "github": {
+    "topic": "仓库与 README",
+    "terms": [
+     "repository|仓库，集中存放项目代码和历史记录的地方",
+     "README file|README 文件，介绍项目用途和使用方法的说明文件",
+     "source code|源代码，程序员编写的程序文本",
+     "project folder|项目文件夹，保存一个项目相关文件的目录",
+     "code hosting|代码托管，把代码保存在可协作的网络平台上",
+     "public repository|公开仓库，任何人都能查看的仓库"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "文件、文件夹与路径",
+    "terms": [
+     "file|文件，保存文字、图片或程序等内容的单位",
+     "folder|文件夹，用来分类存放文件",
+     "file path|文件路径，表示文件所在位置的文字地址",
+     "absolute path|绝对路径，从系统根位置开始的完整地址",
+     "relative path|相对路径，从当前位置出发的地址",
+     "file extension|文件扩展名，表示文件类型的结尾部分"
+    ]
+   },
+   "daily": {
+    "topic": "请求帮助",
+    "terms": [
+     "Could you help me?|你能帮帮我吗？",
+     "I need some help.|我需要一些帮助。",
+     "Could you show me how?|你能示范一下怎么做吗？",
+     "I don't understand yet.|我还没有理解。",
+     "Please say that again.|请再说一遍。",
+     "Thank you for your help.|谢谢你的帮助。"
+    ]
+   },
+   "github": {
+    "topic": "复制远程项目",
+    "terms": [
+     "clone a repository|克隆仓库，把远程仓库完整复制到本地",
+     "local copy|本地副本，保存在自己电脑上的项目版本",
+     "download the code|下载代码，把代码文件保存到本地",
+     "remote repository|远程仓库，保存在 GitHub 等服务器上的仓库",
+     "clone URL|克隆地址，用于定位远程仓库的网址",
+     "default directory|默认目录，命令未另行指定时使用的文件夹"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "程序、代码与运行",
+    "terms": [
+     "program|程序，让电脑执行任务的一组指令",
+     "command|命令，告诉电脑立即执行某个操作的文字",
+     "run a program|运行程序，让电脑开始执行程序指令",
+     "execute code|执行代码，让代码真正产生结果",
+     "output|输出，程序处理后给出的结果",
+     "stop a process|停止进程，让正在运行的任务结束"
+    ]
+   },
+   "daily": {
+    "topic": "时间和日程",
+    "terms": [
+     "What time is it?|现在几点？",
+     "What time works for you?|什么时间对你方便？",
+     "I'm available at ...|我在……有时间。",
+     "Let's meet at ...|我们……见吧。",
+     "I'm running late.|我要迟到了。",
+     "See you tomorrow.|明天见。"
+    ]
+   },
+   "github": {
+    "topic": "提交代码",
+    "terms": [
+     "commit|提交，保存一组有意义的代码变化",
+     "commit message|提交说明，解释本次提交修改了什么",
+     "save a snapshot|保存快照，记录项目在某一时刻的状态",
+     "commit history|提交历史，按时间保存的历次代码变化",
+     "commit hash|提交哈希，用来唯一识别某次提交的字符串",
+     "make a commit|创建提交，把当前选中的变化记入历史"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "变量与数据类型",
+    "terms": [
+     "variable|变量，用名字保存一个可以使用或改变的值",
+     "value|值，变量实际保存的内容",
+     "string|字符串，由文字或字符组成的数据",
+     "integer|整数，不带小数部分的数字",
+     "boolean|布尔值，只有真或假两种状态",
+     "data type|数据类型，说明一项数据属于哪种类别"
+    ]
+   },
+   "daily": {
+    "topic": "购物和价格",
+    "terms": [
+     "How much is this?|这个多少钱？",
+     "That's too expensive.|那太贵了。",
+     "Do you have a smaller size?|你们有小一点的尺码吗？",
+     "Can I pay by card?|我可以刷卡吗？",
+     "I'd like this one.|我想要这个。",
+     "Could I get a receipt?|可以给我收据吗？"
+    ]
+   },
+   "github": {
+    "topic": "分支",
+    "terms": [
+     "branch|分支，从主代码线分出来的独立工作线",
+     "main branch|主分支，项目默认和最重要的代码线",
+     "feature branch|功能分支，专门开发某项功能的分支",
+     "create a branch|创建分支，建立新的独立工作线",
+     "switch branches|切换分支，从一条工作线转到另一条",
+     "branch name|分支名称，用来说明分支用途的名字"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "输入、处理与输出",
+    "terms": [
+     "input|输入，程序接收到的数据",
+     "process data|处理数据，按照规则改变或分析数据",
+     "output value|输出值，程序处理后返回的结果",
+     "function|函数，可以重复调用的一组指令",
+     "parameter|参数，函数定义中接收输入的名字",
+     "return value|返回值，函数完成后交回的结果"
+    ]
+   },
+   "daily": {
+    "topic": "点餐",
+    "terms": [
+     "I'd like to order ...|我想点……",
+     "Could I have ...?|我可以要……吗？",
+     "What do you recommend?|你推荐什么？",
+     "No ice, please.|请不要加冰。",
+     "Could we have the bill?|可以给我们账单吗？",
+     "Is service included?|包含服务费吗？"
+    ]
+   },
+   "github": {
+    "topic": "远程同步",
+    "terms": [
+     "push changes|推送更改，把本地提交发送到远程仓库",
+     "pull changes|拉取更改，取得并合并远程的新提交",
+     "fetch updates|获取更新，只下载远程信息而暂不合并",
+     "origin remote|origin 远程，克隆仓库时默认的远程名称",
+     "upstream remote|upstream 远程，通常指原始项目的远程仓库",
+     "sync with remote|与远程同步，让本地和远程进度保持一致"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "错误与调试",
+    "terms": [
+     "bug|程序缺陷，使程序出现错误行为的问题",
+     "error message|错误信息，说明程序为何失败的提示",
+     "debugging|调试，寻找并修复程序问题的过程",
+     "reproduce an error|复现错误，重复触发同一个问题",
+     "root cause|根本原因，真正导致问题发生的原因",
+     "fix a bug|修复缺陷，改正导致程序出错的代码"
+    ]
+   },
+   "daily": {
+    "topic": "问路和交通",
+    "terms": [
+     "How do I get to ...?|我怎么去……？",
+     "Is it far from here?|离这里远吗？",
+     "Turn left.|向左转。",
+     "Go straight.|一直向前走。",
+     "Which line should I take?|我应该坐哪条线路？",
+     "Where should I get off?|我应该在哪里下车？"
+    ]
+   },
+   "github": {
+    "topic": "Issue 问题单",
+    "terms": [
+     "issue|问题单，用来记录缺陷、需求或讨论事项",
+     "open an issue|创建问题单，开始记录一个待处理事项",
+     "issue title|问题单标题，用一句话概括问题",
+     "issue description|问题单描述，提供背景、现象和目标",
+     "bug report|缺陷报告，详细记录软件错误",
+     "close an issue|关闭问题单，表示事项已经解决或不再处理"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "操作系统与应用程序",
+    "terms": [
+     "operating system|操作系统，管理硬件并运行应用的基础软件",
+     "application|应用程序，帮助用户完成具体任务的软件",
+     "install software|安装软件，把软件配置到电脑上",
+     "uninstall a program|卸载程序，从电脑中移除软件",
+     "system settings|系统设置，调整操作系统行为的选项",
+     "restart the computer|重新启动电脑，关闭后再次启动系统"
+    ]
+   },
+   "daily": {
+    "topic": "邀请和安排",
+    "terms": [
+     "Are you free tonight?|你今晚有空吗？",
+     "Would you like to join us?|你愿意加入我们吗？",
+     "That sounds great.|听起来很不错。",
+     "Maybe another time.|也许下次吧。",
+     "What time shall we meet?|我们几点见面？",
+     "I'll let you know.|我会告诉你的。"
+    ]
+   },
+   "github": {
+    "topic": "Pull Request",
+    "terms": [
+     "pull request|拉取请求，请团队检查并合并一组代码变化",
+     "open a pull request|创建拉取请求，发起代码评审",
+     "PR description|PR 描述，说明改动、原因和验证方法",
+     "request a review|请求评审，邀请他人检查代码",
+     "draft changes|草稿改动，尚未准备好正式评审的变化",
+     "merge request|合并请求，GitLab 对类似流程的称呼"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "内存与存储空间",
+    "terms": [
+     "memory|内存，程序运行时临时使用的快速空间",
+     "RAM|随机存取存储器，电脑主要的运行内存",
+     "storage|存储空间，长期保存文件和数据的空间",
+     "disk space|磁盘空间，硬盘或固态硬盘的可用容量",
+     "save to disk|保存到磁盘，把数据长期写入存储设备",
+     "free up space|释放空间，删除或移动文件以增加可用容量"
+    ]
+   },
+   "daily": {
+    "topic": "电话和视频通话",
+    "terms": [
+     "Can you hear me?|你能听见我吗？",
+     "Your voice is breaking up.|你的声音断断续续。",
+     "The connection is unstable.|连接不稳定。",
+     "Could you turn on your camera?|你可以打开摄像头吗？",
+     "You're on mute.|你静音了。",
+     "I'll call you back.|我会给你回电话。"
+    ]
+   },
+   "github": {
+    "topic": "代码评审",
+    "terms": [
+     "code review|代码评审，由他人检查代码质量和风险",
+     "review comment|评审评论，针对代码提出的意见",
+     "approve changes|批准改动，表示评审者同意合并",
+     "request changes|要求修改，表示合并前仍需调整",
+     "leave a comment|留下评论，对代码或讨论发表意见",
+     "resolve a conversation|解决对话，标记某条评审讨论已处理"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "CPU、进程与线程",
+    "terms": [
+     "CPU|中央处理器，负责执行计算和指令的核心部件",
+     "processor|处理器，执行程序指令的硬件",
+     "process|进程，正在运行的程序实例",
+     "thread|线程，进程内部的一条执行路径",
+     "background task|后台任务，不占用当前界面但仍在运行的任务",
+     "system resource|系统资源，CPU、内存等可供程序使用的能力"
+    ]
+   },
+   "daily": {
+    "topic": "家务和生活安排",
+    "terms": [
+     "take out the trash|把垃圾拿出去",
+     "do the laundry|洗衣服",
+     "wash the dishes|洗碗",
+     "clean the room|打扫房间",
+     "pick up groceries|顺路买生活用品",
+     "finish the chores|做完家务"
+    ]
+   },
+   "github": {
+    "topic": "合并与冲突",
+    "terms": [
+     "merge branches|合并分支，把两条代码线组合起来",
+     "merge conflict|合并冲突，两边修改无法自动组合的情况",
+     "resolve a conflict|解决冲突，人工决定保留哪些内容",
+     "conflicting change|冲突改动，与另一项修改互不兼容的变化",
+     "accept incoming change|接受传入改动，选择另一分支的内容",
+     "complete the merge|完成合并，解决冲突后创建合并结果"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "命令行和终端",
+    "terms": [
+     "terminal|终端，用文字命令操作电脑的窗口",
+     "command line|命令行，输入和执行文本命令的环境",
+     "shell|命令解释器，读取并执行用户输入的命令",
+     "command prompt|命令提示符，表示终端正在等待输入的位置",
+     "current directory|当前目录，命令此刻所在的文件夹",
+     "command option|命令选项，用来改变命令行为的附加参数"
+    ]
+   },
+   "daily": {
+    "topic": "预约与改期",
+    "terms": [
+     "make an appointment|进行预约",
+     "reschedule the meeting|重新安排会议时间",
+     "cancel an appointment|取消预约",
+     "confirm the time|确认时间",
+     "Does Tuesday work?|星期二方便吗？",
+     "I'm not available then.|我那时没有空。"
+    ]
+   },
+   "github": {
+    "topic": "自动检查状态",
+    "terms": [
+     "status check|状态检查，自动判断提交是否满足要求",
+     "required check|必需检查，合并前必须通过的检查",
+     "pending check|等待中的检查，尚未产生结果",
+     "passing check|通过的检查，自动验证成功",
+     "failed check|失败的检查，自动验证没有通过",
+     "check details|检查详情，显示自动任务的日志和结果"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "IP、localhost 与端口",
+    "terms": [
+     "IP address|IP 地址，用来定位网络中设备的数字地址",
+     "localhost|本地主机，表示当前这台电脑",
+     "port number|端口号，用来区分同一设备上的不同网络服务",
+     "network interface|网络接口，设备连接网络的入口",
+     "private address|私有地址，只在内部网络中使用的地址",
+     "public address|公网地址，可以在互联网中路由的地址"
+    ]
+   },
+   "daily": {
+    "topic": "天气和闲聊",
+    "terms": [
+     "It's sunny today.|今天阳光很好。",
+     "It looks like rain.|看起来要下雨。",
+     "It's getting colder.|天气正在变冷。",
+     "The weather is nice.|天气不错。",
+     "How was your weekend?|你周末过得怎么样？",
+     "What have you been up to?|你最近在忙什么？"
+    ]
+   },
+   "github": {
+    "topic": "关注开源项目",
+    "terms": [
+     "fork a repository|复刻仓库，在自己账号下创建项目副本",
+     "star a project|给项目加星，表示收藏或支持",
+     "watch a repository|关注仓库，接收仓库活动通知",
+     "follower|关注者，订阅某个用户动态的人",
+     "activity feed|活动信息流，集中显示项目动态",
+     "notification setting|通知设置，控制接收哪些项目消息"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "DNS、域名与 URL",
+    "terms": [
+     "DNS|域名系统，把容易记的域名转换成网络地址",
+     "domain name|域名，网站便于记忆的名称",
+     "web address|网页地址，用来定位网络页面的地址",
+     "URL|统一资源定位符，网络资源的完整地址",
+     "subdomain|子域名，位于主域名前的分级名称",
+     "resolve a domain|解析域名，把域名转换为 IP 地址"
+    ]
+   },
+   "daily": {
+    "topic": "酒店与旅行",
+    "terms": [
+     "I'd like to check in.|我想办理入住。",
+     "I have a reservation.|我有预订。",
+     "Is breakfast included?|包含早餐吗？",
+     "What time is checkout?|几点退房？",
+     "Could I get another towel?|可以再给我一条毛巾吗？",
+     "Can you store my luggage?|你们能寄存我的行李吗？"
+    ]
+   },
+   "github": {
+    "topic": "标签与里程碑",
+    "terms": [
+     "label|标签，用来分类问题单和拉取请求",
+     "milestone|里程碑，把一组事项归入同一个阶段目标",
+     "add a label|添加标签，为事项增加分类",
+     "remove a label|移除标签，取消已有分类",
+     "due date|截止日期，计划完成事项的日期",
+     "project board|项目看板，用卡片追踪工作状态的页面"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "HTTP 请求与响应",
+    "terms": [
+     "HTTP request|HTTP 请求，客户端发给服务器的网络消息",
+     "HTTP response|HTTP 响应，服务器返回给客户端的结果",
+     "status code|状态码，用数字表示请求处理结果",
+     "request header|请求头，随请求发送的附加信息",
+     "response body|响应体，服务器返回的主要数据内容",
+     "GET request|GET 请求，通常用于读取服务器数据"
+    ]
+   },
+   "daily": {
+    "topic": "机场场景",
+    "terms": [
+     "Where is the check-in counter?|值机柜台在哪里？",
+     "I'd like an aisle seat.|我想要靠过道的座位。",
+     "Where is the security check?|安检在哪里？",
+     "What gate is it?|是哪个登机口？",
+     "The flight is delayed.|航班延误了。",
+     "Where can I collect my luggage?|我在哪里取行李？"
+    ]
+   },
+   "github": {
+    "topic": "负责人和提醒",
+    "terms": [
+     "assignee|负责人，被指定处理事项的人",
+     "assign an issue|分配问题单，把事项交给某个人处理",
+     "mention a teammate|提及队友，用 @ 提醒某位成员",
+     "team mention|团队提及，用 @ 一次通知整个团队",
+     "subscribe to an issue|订阅问题单，接收后续更新",
+     "unsubscribe from updates|取消订阅更新，不再接收相关通知"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "客户端、服务器与 API",
+    "terms": [
+     "client|客户端，主动向服务器请求服务的程序",
+     "server|服务器，接收请求并提供数据或功能的程序",
+     "API|应用程序接口，让不同程序按约定互相通信",
+     "endpoint|接口端点，API 中提供某项功能的具体地址",
+     "send a request|发送请求，向服务器提出操作或数据需求",
+     "receive a response|接收响应，取得服务器返回的结果"
+    ]
+   },
+   "daily": {
+    "topic": "餐厅沟通",
+    "terms": [
+     "Do you have a table for two?|有两个人的桌位吗？",
+     "Could we see the menu?|可以给我们看菜单吗？",
+     "I'm allergic to peanuts.|我对花生过敏。",
+     "Is this dish spicy?|这道菜辣吗？",
+     "Could you pack this to go?|可以把这个打包吗？",
+     "Everything was delicious.|所有菜都很好吃。"
+    ]
+   },
+   "github": {
+    "topic": "草稿 PR",
+    "terms": [
+     "draft pull request|草稿拉取请求，尚未准备好合并的 PR",
+     "mark as ready|标记为可评审，表示草稿已经准备完成",
+     "convert to draft|转换为草稿，把正式 PR 退回准备状态",
+     "review status|评审状态，显示 PR 当前是否获得批准",
+     "base branch|基础分支，PR 最终准备合入的目标分支",
+     "compare branch|比较分支，PR 中包含新改动的来源分支"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "数据库、表与查询",
+    "terms": [
+     "database|数据库，按照结构长期保存和查询数据的系统",
+     "table|数据表，以行和列组织数据的结构",
+     "row|行，表中一条完整的数据记录",
+     "column|列，表中同一种属性的数据字段",
+     "query|查询，向数据库提出读取或修改数据的要求",
+     "database record|数据库记录，代表一个对象的一组字段"
+    ]
+   },
+   "daily": {
+    "topic": "工作进度沟通",
+    "terms": [
+     "What are you working on?|你正在做什么？",
+     "I'm working on ...|我正在处理……",
+     "I've finished ...|我已经完成……",
+     "I'm blocked by ...|我被……阻碍了。",
+     "My next step is ...|我的下一步是……",
+     "I need more time.|我需要更多时间。"
+    ]
+   },
+   "github": {
+    "topic": "持续集成",
+    "terms": [
+     "continuous integration|持续集成，频繁合并并自动验证代码的做法",
+     "GitHub Actions|GitHub 自动化服务，可运行测试和部署任务",
+     "workflow file|工作流文件，用 YAML 定义自动化步骤",
+     "workflow run|工作流运行，某次自动化任务的执行记录",
+     "automated test|自动化测试，由程序自动检查代码行为",
+     "build pipeline|构建流水线，依次完成检查、构建和发布的流程"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "JSON、CSV 与日志",
+    "terms": [
+     "JSON|JSON 格式，用键和值表达结构化数据的文本格式",
+     "CSV|逗号分隔值，用行列保存表格数据的文本格式",
+     "log file|日志文件，记录程序运行事件和错误的文件",
+     "parse data|解析数据，把文本转换成程序可使用的结构",
+     "structured data|结构化数据，按照固定字段组织的数据",
+     "log entry|日志条目，日志中记录的一次事件"
+    ]
+   },
+   "daily": {
+    "topic": "投诉、退换与解决问题",
+    "terms": [
+     "I'd like to return this.|我想退掉这个。",
+     "This item is damaged.|这个商品损坏了。",
+     "I received the wrong order.|我收到了错误的订单。",
+     "Could I get a refund?|我可以退款吗？",
+     "Could you replace it?|你可以更换它吗？",
+     "Thank you for resolving this.|谢谢你解决这个问题。"
+    ]
+   },
+   "github": {
+    "topic": "测试、构建与部署",
+    "terms": [
+     "test suite|测试套件，一组一起运行的测试",
+     "build job|构建任务，把源代码转换成可运行产物的任务",
+     "deployment job|部署任务，把构建产物发布到环境的任务",
+     "test failure|测试失败，测试结果与预期不一致",
+     "build artifact|构建产物，构建流程生成的文件",
+     "deployment environment|部署环境，运行应用的目标位置"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "身份验证与权限",
+    "terms": [
+     "authentication|身份验证，确认用户是谁的过程",
+     "authorization|授权，确认用户可以做什么的过程",
+     "user account|用户账号，用来识别和保存个人信息的身份",
+     "login session|登录会话，用户登录后持续一段时间的访问状态",
+     "access permission|访问权限，允许用户读取或修改某项资源的规则",
+     "sign out|退出登录，结束当前登录会话"
+    ]
+   },
+   "daily": {
+    "topic": "看病和药店",
+    "terms": [
+     "I don't feel well.|我感觉不舒服。",
+     "I have a headache.|我头痛。",
+     "How often should I take this?|这个药多久吃一次？",
+     "Are there any side effects?|有副作用吗？",
+     "I'm allergic to this medicine.|我对这种药过敏。",
+     "I need to see a doctor.|我需要看医生。"
+    ]
+   },
+   "github": {
+    "topic": "Token、Secret 与权限",
+    "terms": [
+     "access token|访问令牌，代替密码授权程序访问服务的字符串",
+     "personal access token|个人访问令牌，代表个人账号调用 GitHub 的令牌",
+     "repository secret|仓库机密，供自动化任务安全使用的敏感值",
+     "workflow permission|工作流权限，限制自动化可以执行的操作",
+     "secret scanning|机密扫描，自动发现意外提交的密钥",
+     "revoke a token|撤销令牌，让已有令牌立即失效"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "加密、隐私与备份",
+    "terms": [
+     "encryption|加密，把数据转换成未经授权无法读取的形式",
+     "encrypted connection|加密连接，传输内容受到保护的网络连接",
+     "privacy setting|隐私设置，控制个人信息如何被使用和展示",
+     "data backup|数据备份，为重要数据保存额外副本",
+     "restore data|恢复数据，从备份中取回丢失或损坏的内容",
+     "recovery key|恢复密钥，用于重新获得加密数据访问权的密钥"
+    ]
+   },
+   "daily": {
+    "topic": "紧急情况表达",
+    "terms": [
+     "Call an ambulance.|叫救护车。",
+     "I need help immediately.|我立刻需要帮助。",
+     "Where is the nearest hospital?|最近的医院在哪里？",
+     "I've lost my phone.|我的手机丢了。",
+     "Please contact the police.|请联系警察。",
+     "Is everyone safe?|所有人都安全吗？"
+    ]
+   },
+   "github": {
+    "topic": "受保护分支",
+    "terms": [
+     "protected branch|受保护分支，限制直接修改的重要分支",
+     "branch protection rule|分支保护规则，规定合并前必须满足的条件",
+     "required approval|必需批准，合并前必须获得的评审同意",
+     "restrict pushes|限制推送，只允许特定人员直接推送",
+     "signed commit|签名提交，带有可验证作者签名的提交",
+     "security policy|安全政策，说明如何报告和处理安全问题"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "云服务器与容器",
+    "terms": [
+     "cloud service|云服务，通过互联网提供的计算或存储能力",
+     "virtual server|虚拟服务器，在物理机器中模拟出的独立服务器",
+     "container|容器，把应用和依赖封装在一起的运行环境",
+     "container image|容器镜像，用来创建容器的只读模板",
+     "host machine|宿主机，实际运行虚拟机或容器的机器",
+     "start a container|启动容器，根据镜像创建并运行容器"
+    ]
+   },
+   "daily": {
+    "topic": "礼貌表达不同意见",
+    "terms": [
+     "I see your point.|我明白你的观点。",
+     "I have a different view.|我有不同的看法。",
+     "Could we look at another option?|我们可以看看另一个方案吗？",
+     "I'm not sure I agree.|我不确定我是否同意。",
+     "Let's compare the evidence.|我们比较一下证据吧。",
+     "That sounds reasonable.|听起来有道理。"
+    ]
+   },
+   "github": {
+    "topic": "发布与版本",
+    "terms": [
+     "release|发布，把一个可用版本正式提供给用户",
+     "release note|发布说明，介绍新版本的变化",
+     "version tag|版本标签，为某次提交添加版本标记",
+     "semantic versioning|语义化版本，用主版本、次版本和修订号表达变化",
+     "pre-release|预发布版本，在正式发布前供测试的版本",
+     "publish a release|发布版本，在 GitHub 上创建正式发布页面"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "库、依赖与框架",
+    "terms": [
+     "library|库，可被程序调用的一组现成功能",
+     "dependency|依赖，项目正常运行需要的外部软件",
+     "framework|框架，为应用提供整体结构和规则的工具",
+     "package|软件包，可安装和分发的代码集合",
+     "package manager|包管理器，安装和管理软件包的工具",
+     "dependency version|依赖版本，项目指定使用的依赖发布编号"
+    ]
+   },
+   "daily": {
+    "topic": "表达偏好和选择",
+    "terms": [
+     "I prefer the first option.|我更喜欢第一个方案。",
+     "I'd rather wait.|我宁愿等一等。",
+     "This works better for me.|这个对我更合适。",
+     "The main reason is ...|主要原因是……",
+     "It depends on the situation.|这取决于具体情况。",
+     "Let's choose this one.|我们选这个吧。"
+    ]
+   },
+   "github": {
+    "topic": "变更日志",
+    "terms": [
+     "changelog|变更日志，按版本记录项目变化的文件",
+     "breaking change|破坏性变更，会让旧用法不再兼容的变化",
+     "new feature|新功能，新版本增加的能力",
+     "bug fix entry|缺陷修复条目，记录某项错误修复的说明",
+     "deprecation notice|弃用通知，说明某项功能将来会被移除",
+     "release summary|发布摘要，用简短文字概括版本变化"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "Git 工作区状态",
+    "terms": [
+     "working tree|工作树，当前检出的项目文件状态",
+     "staged change|已暂存改动，准备进入下一次提交的变化",
+     "unstaged change|未暂存改动，尚未加入提交区的变化",
+     "tracked file|已跟踪文件，Git 已经纳入版本管理的文件",
+     "untracked file|未跟踪文件，Git 尚未纳入版本管理的新文件",
+     "clean state|干净状态，工作区没有未提交变化的状态"
+    ]
+   },
+   "daily": {
+    "topic": "租房和维修",
+    "terms": [
+     "The sink is leaking.|水槽漏水了。",
+     "The light isn't working.|灯不亮了。",
+     "Could someone repair it?|可以派人来修吗？",
+     "When can the technician come?|维修人员什么时候能来？",
+     "The problem is getting worse.|问题越来越严重。",
+     "It's working again now.|现在又能用了。"
+    ]
+   },
+   "github": {
+    "topic": "修改或撤销提交",
+    "terms": [
+     "amend a commit|修改最近提交，补充或更正最后一次提交",
+     "revert a commit|还原提交，用新提交抵消旧提交的改动",
+     "reset a branch|重置分支，把分支指针移到另一提交",
+     "discard changes|丢弃改动，放弃尚未保存的文件变化",
+     "restore a file|恢复文件，把文件恢复到指定状态",
+     "force push|强制推送，用本地历史覆盖远程分支历史"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "异常与堆栈信息",
+    "terms": [
+     "exception|异常，程序运行时发生的特殊错误情况",
+     "stack trace|堆栈跟踪，显示错误经过哪些函数调用的记录",
+     "error type|错误类型，用来区分不同错误类别的名称",
+     "line number|行号，表示错误所在代码位置的数字",
+     "catch an exception|捕获异常，让程序有机会处理错误",
+     "handle an error|处理错误，用可控方式响应失败情况"
+    ]
+   },
+   "daily": {
+    "topic": "客服电话",
+    "terms": [
+     "I'm calling about ...|我打电话是想咨询……",
+     "My order hasn't arrived.|我的订单还没有到。",
+     "Could you check the status?|你可以查询一下状态吗？",
+     "The problem started yesterday.|问题从昨天开始。",
+     "I've already tried that.|我已经试过那个方法了。",
+     "What should I do next?|我下一步应该怎么做？"
+    ]
+   },
+   "github": {
+    "topic": "复现 Issue",
+    "terms": [
+     "issue template|问题单模板，指导用户提供必要信息的格式",
+     "steps to reproduce|复现步骤，能够再次触发问题的操作顺序",
+     "expected behavior|预期行为，软件本来应该出现的结果",
+     "actual behavior|实际行为，软件真正出现的结果",
+     "minimal example|最小示例，只保留触发问题所需内容的示例",
+     "environment details|环境详情，系统、版本等运行条件信息"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "性能、延迟与缓存",
+    "terms": [
+     "performance|性能，系统完成工作的速度和效率",
+     "latency|延迟，从发出请求到收到响应的等待时间",
+     "cache|缓存，为快速读取而暂时保存的数据",
+     "cache hit|缓存命中，需要的数据直接在缓存中找到",
+     "cache miss|缓存未命中，需要的数据不在缓存中",
+     "response time|响应时间，系统完成一次请求所花的时间"
+    ]
+   },
+   "daily": {
+    "topic": "比较并作出决定",
+    "terms": [
+     "What are the main differences?|主要区别是什么？",
+     "This one is more reliable.|这个更可靠。",
+     "The other option is cheaper.|另一个方案更便宜。",
+     "What are the trade-offs?|有哪些取舍？",
+     "I need time to decide.|我需要时间决定。",
+     "Let's review the facts.|我们回顾一下事实吧。"
+    ]
+   },
+   "github": {
+    "topic": "专业代码评审用语",
+    "terms": [
+     "Looks good to me.|我看起来没问题。",
+     "Could you clarify this part?|你可以说明这一部分吗？",
+     "Please add a test.|请增加一个测试。",
+     "This may cause an error.|这可能导致错误。",
+     "Consider renaming this variable.|可以考虑重命名这个变量。",
+     "Thanks for the update.|谢谢你的更新。"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "超时、重试与连接失败",
+    "terms": [
+     "timeout|超时，操作在规定时间内没有完成",
+     "retry|重试，在失败后再次执行同一操作",
+     "connection failure|连接失败，客户端无法与服务建立通信",
+     "retry limit|重试上限，允许再次尝试的最大次数",
+     "backoff delay|退避延迟，每次重试前逐渐增加的等待时间",
+     "network interruption|网络中断，已有网络连接意外停止"
+    ]
+   },
+   "daily": {
+    "topic": "截止时间和延期",
+    "terms": [
+     "The deadline is Friday.|截止时间是星期五。",
+     "We're behind schedule.|我们的进度落后了。",
+     "I need an extension.|我需要延期。",
+     "The task is taking longer than expected.|任务花的时间比预期更长。",
+     "I'll update you tomorrow.|我明天会更新进展。",
+     "Thank you for your patience.|谢谢你的耐心。"
+    ]
+   },
+   "github": {
+    "topic": "合并策略",
+    "terms": [
+     "squash and merge|压缩并合并，把多个提交合成一个后合入",
+     "rebase and merge|变基并合并，把提交移到目标分支之后再合入",
+     "merge commit|合并提交，专门记录两条历史合并的提交",
+     "squash commits|压缩提交，把多个小提交组合成一个",
+     "rebase a branch|变基分支，把分支提交重新放到新基础上",
+     "linear history|线性历史，不包含分叉合并节点的提交历史"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "AI 模型、Prompt 与 Context",
+    "terms": [
+     "AI model|AI 模型，从数据中学习规律并生成结果的程序",
+     "prompt|提示词，用户交给 AI 的任务和背景说明",
+     "context window|上下文窗口，模型一次能够处理的信息范围",
+     "system instruction|系统指令，规定模型角色和总体行为的指令",
+     "user message|用户消息，用户向模型提出的具体内容",
+     "model response|模型响应，AI 根据输入生成的回答"
+    ]
+   },
+   "daily": {
+    "topic": "表达不确定性",
+    "terms": [
+     "I'm not completely sure.|我不是完全确定。",
+     "As far as I know ...|据我所知……",
+     "It seems likely that ...|看起来很可能……",
+     "I may be mistaken.|我可能弄错了。",
+     "Let me check first.|让我先确认一下。",
+     "The evidence is limited.|证据有限。"
+    ]
+   },
+   "github": {
+    "topic": "Discussion 与 RFC",
+    "terms": [
+     "GitHub Discussion|GitHub 讨论区，用于开放问题和社区交流",
+     "request for comments|征求意见稿，请他人评议某个设计方案",
+     "design proposal|设计提案，说明准备如何解决问题的文档",
+     "open question|开放问题，尚未得到确定答案的问题",
+     "decision record|决策记录，保存选择、理由和取舍的文档",
+     "technical discussion|技术讨论，围绕实现方案进行的专业交流"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "训练、推理与幻觉",
+    "terms": [
+     "training data|训练数据，用来让模型学习规律的数据",
+     "model training|模型训练，用数据调整模型参数的过程",
+     "inference|推理，模型根据新输入生成结果的过程",
+     "hallucination|幻觉，模型生成看似合理但并不真实的内容",
+     "confidence level|置信程度，表示对结果把握大小的程度",
+     "verify the answer|核验答案，用可靠来源检查回答是否正确"
+    ]
+   },
+   "daily": {
+    "topic": "新闻和观点交流",
+    "terms": [
+     "I read that ...|我读到……",
+     "According to the report ...|根据这份报告……",
+     "What's your opinion?|你的看法是什么？",
+     "I agree with that point.|我同意那个观点。",
+     "I see it differently.|我的看法不同。",
+     "We need more information.|我们需要更多信息。"
+    ]
+   },
+   "github": {
+    "topic": "引用来源和文档",
+    "terms": [
+     "link to documentation|链接到文档，提供官方说明页面的网址",
+     "cite a source|引用来源，说明事实或说法来自哪里",
+     "reference an issue|引用问题单，在文字中关联另一问题单",
+     "link a commit|链接提交，提供某次代码提交的直接地址",
+     "permanent link|永久链接，固定指向特定版本内容的地址",
+     "documentation page|文档页面，解释项目功能和用法的页面"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "钓鱼、恶意软件与安全更新",
+    "terms": [
+     "phishing|网络钓鱼，用假消息诱骗用户交出敏感信息",
+     "malware|恶意软件，故意破坏或窃取数据的软件",
+     "security patch|安全补丁，修复软件安全漏洞的更新",
+     "suspicious link|可疑链接，可能引向欺诈或恶意页面的网址",
+     "antivirus software|杀毒软件，用来发现和阻止恶意程序的软件",
+     "update immediately|立即更新，尽快安装重要的安全修复"
+    ]
+   },
+   "daily": {
+    "topic": "银行和支付",
+    "terms": [
+     "I'd like to transfer money.|我想转账。",
+     "Has the payment gone through?|付款成功了吗？",
+     "I don't recognize this charge.|我不认识这笔扣款。",
+     "My card was declined.|我的卡被拒绝了。",
+     "Could you freeze the card?|你能冻结这张卡吗？",
+     "Please send me a confirmation.|请给我发送确认信息。"
+    ]
+   },
+   "github": {
+    "topic": "安全公告与 Dependabot",
+    "terms": [
+     "security advisory|安全公告，披露漏洞影响和修复方法的通知",
+     "Dependabot alert|Dependabot 警报，GitHub 对依赖漏洞的自动提醒",
+     "vulnerable dependency|易受攻击的依赖，包含已知漏洞的软件包",
+     "security update|安全更新，修复安全问题的新版本",
+     "private vulnerability report|私密漏洞报告，非公开提交安全问题的渠道",
+     "patched version|已修复版本，已经包含漏洞补丁的软件版本"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "开源软件与许可证",
+    "terms": [
+     "open source|开源，允许他人查看并按许可证使用源代码",
+     "software license|软件许可证，规定软件可以如何使用和分发",
+     "contributor|贡献者，为项目提供代码或其他帮助的人",
+     "contribution|贡献，提交给项目的代码、文档或建议",
+     "maintainership|维护职责，长期管理项目方向和质量的责任",
+     "community guideline|社区准则，规定参与者应遵守的行为方式"
+    ]
+   },
+   "daily": {
+    "topic": "社区礼仪",
+    "terms": [
+     "Thanks for sharing.|谢谢你的分享。",
+     "Could you explain your idea?|你可以解释一下你的想法吗？",
+     "Please be respectful.|请保持尊重。",
+     "I appreciate your feedback.|感谢你的反馈。",
+     "Let's keep the discussion focused.|让我们让讨论保持聚焦。",
+     "Everyone is welcome here.|这里欢迎每个人。"
+    ]
+   },
+   "github": {
+    "topic": "开源贡献规范",
+    "terms": [
+     "CONTRIBUTING guide|贡献指南，说明如何参与项目的文件",
+     "CODEOWNERS file|代码所有者文件，指定目录或文件的评审负责人",
+     "contribution guideline|贡献规则，项目接受贡献的具体要求",
+     "pull request template|拉取请求模板，提示贡献者填写必要信息",
+     "code of conduct|行为准则，规定社区成员应遵守的行为标准",
+     "maintainer review|维护者评审，由项目维护者进行的最终检查"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "部署、监控与回滚",
+    "terms": [
+     "deployment|部署，把应用发布到可运行环境的过程",
+     "monitoring|监控，持续观察系统状态和关键指标",
+     "health check|健康检查，自动判断服务是否正常运行",
+     "rollback|回滚，把系统恢复到之前稳定版本",
+     "production environment|生产环境，真实用户使用的正式运行环境",
+     "service outage|服务中断，用户暂时无法使用服务的情况"
+    ]
+   },
+   "daily": {
+    "topic": "项目介绍",
+    "terms": [
+     "Today I'd like to present ...|今天我想介绍……",
+     "The goal of this project is ...|这个项目的目标是……",
+     "Here is the main result.|这是主要结果。",
+     "This chart shows ...|这张图显示……",
+     "One limitation is ...|一个局限是……",
+     "My recommendation is ...|我的建议是……"
+    ]
+   },
+   "github": {
+    "topic": "发布工作流",
+    "terms": [
+     "release branch|发布分支，为准备新版本建立的分支",
+     "deployment approval|部署批准，发布生产环境前的人工确认",
+     "production deploy|生产部署，把版本发布给真实用户",
+     "rollback plan|回滚计划，发布失败时恢复旧版本的方案",
+     "release checklist|发布检查表，上线前逐项确认的事项列表",
+     "post-release check|发布后检查，上线后确认系统正常的验证"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "系统结构、数据流与接口",
+    "terms": [
+     "system architecture|系统架构，描述系统各部分如何组合的整体设计",
+     "data flow|数据流，数据在系统各部分之间移动的过程",
+     "interface|接口，两个组件之间交换信息的约定",
+     "component|组件，系统中承担一项明确职责的部分",
+     "dependency graph|依赖图，显示组件之间依赖关系的图",
+     "design boundary|设计边界，划分组件职责和影响范围的界线"
+    ]
+   },
+   "daily": {
+    "topic": "月度复盘和未来计划",
+    "terms": [
+     "This month I learned ...|这个月我学会了……",
+     "The hardest part was ...|最难的部分是……",
+     "I'm proud that ...|我为……感到自豪。",
+     "I still need to improve ...|我仍然需要改进……",
+     "Next month I will ...|下个月我会……",
+     "My next small step is ...|我的下一个小步骤是……"
+    ]
+   },
+   "github": {
+    "topic": "项目更新与复盘",
+    "terms": [
+     "project update|项目更新，向团队说明当前进展的简短报告",
+     "completed work|已完成工作，已经交付或验证的事项",
+     "current blocker|当前阻碍，使工作暂时无法继续的问题",
+     "next action|下一行动，接下来要执行的具体步骤",
+     "lessons learned|经验总结，从本轮项目中得到的认识",
+     "follow-up issue|后续问题单，为下一步工作创建的事项"
+    ]
+   }
+  }
+ ]
+}

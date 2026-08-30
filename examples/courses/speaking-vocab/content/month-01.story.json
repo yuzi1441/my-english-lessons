@@ -1,0 +1,307 @@
+{
+ "month": 1,
+ "lexicon": {},
+ "lemmas": {},
+ "plots": [
+  {
+   "title_en": "The First Morning",
+   "title_zh": "第一个早晨",
+   "open_en": "Today is Monday. It is my first day at a new job. My team makes a chat program.",
+   "open_zh": "今天是周一，是我新工作的第一天。我的团队在做一个聊天程序。",
+   "life_en": "At noon, Maria sits with me. She introduces the team.",
+   "life_zh": "中午，Maria 和我坐在一起。她把我介绍给团队。",
+   "close_en": "I am tired, but happy. Tomorrow I will learn more.",
+   "close_zh": "我有点累，但很开心。明天我会学到更多。"
+  },
+  {
+   "title_en": "Copy the First Code",
+   "title_zh": "复制第一份代码",
+   "open_en": "Yesterday I met the team. Today Maria gives me my first job: copy the project code to my computer.",
+   "open_zh": "昨天我认识了团队。今天 Maria 给了我第一个任务：把项目代码复制到我的电脑上。",
+   "life_en": "I need help, and I learn to ask for it.",
+   "life_zh": "我需要帮助，也学会了开口求助。",
+   "close_en": "The code is on my computer now. I feel ready for tomorrow.",
+   "close_zh": "代码现在在我的电脑上了。我为明天做好了准备。"
+  },
+  {
+   "title_en": "The First Commit",
+   "title_zh": "第一次提交",
+   "open_en": "Today I run a small program, and it works.",
+   "open_zh": "今天我运行了一个小程序，它成功了。",
+   "life_en": "At lunch, we talk about the time for a short meeting.",
+   "life_zh": "午饭时，我们讨论了一个短会的时间。",
+   "close_en": "Before I leave, I save my first commit. My name is in the history now.",
+   "close_zh": "离开前，我保存了第一次提交。我的名字现在进入了历史记录。"
+  },
+  {
+   "title_en": "My Own Branch",
+   "title_zh": "我的分支",
+   "open_en": "Maria says my code is fine. Today I learn to make my own branch.",
+   "open_zh": "Maria 说我的代码没问题。今天我学习建立自己的分支。",
+   "life_en": "After work, I buy a new notebook. I ask about the price.",
+   "life_zh": "下班后，我买了一个新笔记本。我询问了价格。",
+   "close_en": "My branch is small, but it is mine.",
+   "close_zh": "我的分支很小，但它是我自己的。"
+  },
+  {
+   "title_en": "Push and Pull",
+   "title_zh": "推送与拉取",
+   "open_en": "My branch is ready. Today I push it to the team's server.",
+   "open_zh": "我的分支准备好了。今天我把它推送到团队的服务器上。",
+   "life_en": "The team orders lunch together, and I order too.",
+   "life_zh": "团队一起点午餐，我也点了。",
+   "close_en": "I pull the team's new code before I leave. We are in sync now.",
+   "close_zh": "离开前，我拉取了团队的新代码。我们同步了。"
+  },
+  {
+   "title_en": "An Issue for the Bug",
+   "title_zh": "给缺陷开个单子",
+   "open_en": "This morning, my program stops with an error.",
+   "open_zh": "今天早上，我的程序报错停了。",
+   "life_en": "After work, I take the bus home and ask about the way.",
+   "life_zh": "下班后，我坐公交回家，问了路。",
+   "close_en": "I open an issue for the bug. The team can see it now.",
+   "close_zh": "我为这个缺陷开了一个问题单。团队现在能看到了。"
+  },
+  {
+   "title_en": "My First Pull Request",
+   "title_zh": "第一个拉取请求",
+   "open_en": "The bug is fixed. Today I ask the team to review my work.",
+   "open_zh": "缺陷修好了。今天我请团队评审我的工作。",
+   "life_en": "Leo invites me to coffee on Friday. I say yes.",
+   "life_zh": "Leo 邀请我周五去喝咖啡。我答应了。",
+   "close_en": "My first pull request is open. This week, I learned a lot.",
+   "close_zh": "我的第一个拉取请求打开了。这一周，我学到了很多。"
+  },
+  {
+   "title_en": "Reading the Review",
+   "title_zh": "读懂评审意见",
+   "open_en": "Week two starts. My pull request has comments.",
+   "open_zh": "第二周开始了。我的拉取请求收到了评论。",
+   "life_en": "I call a teammate on video. The connection is bad, but we talk.",
+   "life_zh": "我和一位队友视频通话。连接不好，但我们聊了很久。",
+   "close_en": "The comments are kind. I know what to fix.",
+   "close_zh": "评论很友善。我知道该改什么了。"
+  },
+  {
+   "title_en": "The Merge Conflict",
+   "title_zh": "合并冲突",
+   "open_en": "I fix the code and try to merge. But two changes fight.",
+   "open_zh": "我改好代码，尝试合并。但两处改动冲突了。",
+   "life_en": "At home, I do the laundry and wash the dishes.",
+   "life_zh": "在家里，我洗衣服、洗碗。",
+   "close_en": "Maria helps me resolve the conflict. The merge is complete.",
+   "close_zh": "Maria 帮我解决了冲突。合并完成了。"
+  },
+  {
+   "title_en": "Waiting for the Checks",
+   "title_zh": "等待检查通过",
+   "open_en": "Before we merge, the automatic checks must pass.",
+   "open_zh": "合并之前，自动检查必须通过。",
+   "life_en": "I reschedule a short meeting, because the time does not work.",
+   "life_zh": "我重新安排了一个短会，因为那个时间不方便。",
+   "close_en": "All checks are green. We merge tomorrow.",
+   "close_zh": "所有检查都是绿色的。我们明天合并。"
+  },
+  {
+   "title_en": "Looking at Open Source",
+   "title_zh": "看看开源世界",
+   "open_en": "The merge is done. Today we look at a famous open source project.",
+   "open_zh": "合并完成了。今天我们研究一个著名的开源项目。",
+   "life_en": "The weather is nice, and we chat at the window.",
+   "life_zh": "天气不错，我们在窗边聊天。",
+   "close_en": "I star the project and follow its updates.",
+   "close_zh": "我给项目点了星，并关注它的动态。"
+  },
+  {
+   "title_en": "Labels and Milestones",
+   "title_zh": "标签与里程碑",
+   "open_en": "The team plans the next version. We organize the work.",
+   "open_zh": "团队在规划下一个版本。我们把工作整理归类。",
+   "life_en": "Maria travels next week. She talks about her hotel.",
+   "life_zh": "Maria 下周要出差。她聊起了她的酒店。",
+   "close_en": "Every issue now has a label and a due date.",
+   "close_zh": "现在每个问题单都有了标签和截止日期。"
+  },
+  {
+   "title_en": "Who Takes the Issue",
+   "title_zh": "谁来负责",
+   "open_en": "A new issue comes in. The team asks who can take it.",
+   "open_zh": "一个新的问题单进来了。团队问谁能负责。",
+   "life_en": "Leo goes to the airport. His flight is delayed.",
+   "life_zh": "Leo 去机场。他的航班延误了。",
+   "close_en": "I take the issue. The team mentions me, and I see it.",
+   "close_zh": "我接下了这个问题单。团队提到了我，我看到了提醒。"
+  },
+  {
+   "title_en": "The Draft Lesson",
+   "title_zh": "草稿的学问",
+   "open_en": "I start the new work, but it is not ready for review.",
+   "open_zh": "我开始做新工作，但还不到评审的时候。",
+   "life_en": "We eat at a new restaurant. I ask about the menu.",
+   "life_zh": "我们去了一家新餐厅。我询问了菜单。",
+   "close_en": "I open a draft pull request. The team can watch it grow.",
+   "close_zh": "我开了一个草稿拉取请求。团队可以看着它慢慢成形。"
+  },
+  {
+   "title_en": "The Pipeline",
+   "title_zh": "自动化的流水线",
+   "open_en": "Week three. My draft is ready, and the pipeline runs.",
+   "open_zh": "第三周。我的草稿准备好了，流水线开始运行。",
+   "life_en": "At standup, I say what I finished and what is next.",
+   "life_zh": "站会上，我说了已完成的内容和下一步。",
+   "close_en": "The automated tests pass. The team trusts the pipeline.",
+   "close_zh": "自动化测试通过了。团队信任这条流水线。"
+  },
+  {
+   "title_en": "Test, Build, Deploy",
+   "title_zh": "测试、构建、部署",
+   "open_en": "Today the team deploys a small change to the real users.",
+   "open_zh": "今天团队向真实用户部署一个小改动。",
+   "life_en": "My order is wrong at the shop, and I ask to change it.",
+   "life_zh": "我在商店拿错了订单，我请求更换。",
+   "close_en": "The deployment works. We watch the logs together.",
+   "close_zh": "部署成功了。我们一起观察日志。"
+  },
+  {
+   "title_en": "Keep the Secret Safe",
+   "title_zh": "密钥不能泄露",
+   "open_en": "I feel sick today, but an important task waits.",
+   "open_zh": "我今天不太舒服，但一个重要任务在等着我。",
+   "life_en": "I visit the pharmacy and ask about the medicine.",
+   "life_zh": "我去了药店，询问了这种药。",
+   "close_en": "The token is safe, and the secret stays outside the code.",
+   "close_zh": "令牌是安全的，机密留在代码之外。"
+  },
+  {
+   "title_en": "The Protected Branch",
+   "title_zh": "受保护的主分支",
+   "open_en": "I try to push to the main branch, but it is protected.",
+   "open_zh": "我想直接推送到主分支，但它是受保护的。",
+   "life_en": "In the afternoon, there is a fire drill. Everyone is safe.",
+   "life_zh": "下午，大楼有消防演习。所有人都安全。",
+   "close_en": "Now I understand the rule: reviews protect the main branch.",
+   "close_zh": "现在我理解了规则：评审保护主分支。"
+  },
+  {
+   "title_en": "Our First Release",
+   "title_zh": "第一次发布",
+   "open_en": "The version is ready. Today we publish a release.",
+   "open_zh": "版本准备好了。今天我们发布一个正式版本。",
+   "life_en": "I have a different view, and I say it politely.",
+   "life_zh": "我有不同的看法，我礼貌地说了出来。",
+   "close_en": "The release is out. Users can see the new feature.",
+   "close_zh": "版本发布了。用户能看到新功能了。"
+  },
+  {
+   "title_en": "The Changelog",
+   "title_zh": "变更日志",
+   "open_en": "After the release, we write down what changed.",
+   "open_zh": "发布之后，我们记录有哪些变化。",
+   "life_en": "We compare two plans and choose one.",
+   "life_zh": "我们比较了两个方案，选择了一个。",
+   "close_en": "The changelog is clear. New users can understand it.",
+   "close_zh": "变更日志很清楚。新用户能看懂。"
+  },
+  {
+   "title_en": "Fixing a Wrong Commit",
+   "title_zh": "改错了怎么办",
+   "open_en": "I find a mistake in my last commit.",
+   "open_zh": "我发现上次提交里有个错误。",
+   "life_en": "The sink at home is leaking. I call for help.",
+   "life_zh": "家里的水槽漏水了。我打电话求助。",
+   "close_en": "I revert the commit and make a clean one. The history is safe.",
+   "close_zh": "我还原了那次提交，重新做了一个干净的提交。历史是安全的。"
+  },
+  {
+   "title_en": "Reproduce the Problem",
+   "title_zh": "复现那个问题",
+   "open_en": "Week four. A user reports a strange problem.",
+   "open_zh": "第四周。一位用户报告了一个奇怪的问题。",
+   "life_en": "My package is late. I call customer service.",
+   "life_zh": "我的包裹迟到了。我打了客服电话。",
+   "close_en": "I write the steps to reproduce. Now the team can see the bug.",
+   "close_zh": "我写下了复现步骤。现在团队能看到这个缺陷了。"
+  },
+  {
+   "title_en": "Words for Review",
+   "title_zh": "评审用语",
+   "open_en": "I review a teammate's code today.",
+   "open_zh": "今天我评审队友的代码。",
+   "life_en": "The deadline is close, and I ask for one more day.",
+   "life_zh": "截止时间快到了，我请求多一天。",
+   "close_en": "My comments are kind and clear. The team thanks me.",
+   "close_zh": "我的评论友善而清楚。团队向我道谢。"
+  },
+  {
+   "title_en": "Choosing How to Merge",
+   "title_zh": "合并的策略",
+   "open_en": "The team must choose how to merge our work.",
+   "open_zh": "团队必须选择合并工作的方式。",
+   "life_en": "We compare two options and make a decision.",
+   "life_zh": "我们比较了两个选项，做出了决定。",
+   "close_en": "We squash the small commits. The history is clean.",
+   "close_zh": "我们压缩了小提交。历史变得干净了。"
+  },
+  {
+   "title_en": "Discuss Before We Build",
+   "title_zh": "先讨论，再动手",
+   "open_en": "A big idea comes up. We open a discussion first.",
+   "open_zh": "一个大想法出现了。我们先开了一个讨论。",
+   "life_en": "I am not completely sure, and I say so.",
+   "life_zh": "我不是完全确定，我如实说了。",
+   "close_en": "The discussion becomes a decision record. We build next week.",
+   "close_zh": "讨论变成了一份决策记录。下周开始实现。"
+  },
+  {
+   "title_en": "Cite Your Sources",
+   "title_zh": "注明来源",
+   "open_en": "I use an AI tool to check an answer.",
+   "open_zh": "我用一个 AI 工具核对答案。",
+   "life_en": "We talk about a piece of news at lunch.",
+   "life_zh": "午饭时，我们讨论了一条新闻。",
+   "close_en": "Every claim now links to a source. The note is strong.",
+   "close_zh": "每个说法现在都有来源链接。这份笔记很扎实。"
+  },
+  {
+   "title_en": "The Security Alert",
+   "title_zh": "安全警报",
+   "open_en": "This morning, a security alert arrives.",
+   "open_zh": "今天早上，一个安全警报来了。",
+   "life_en": "I check a strange charge at the bank.",
+   "life_zh": "我在银行核查了一笔可疑的扣款。",
+   "close_en": "We update the dependency. The alert is resolved.",
+   "close_zh": "我们更新了依赖。警报解除了。"
+  },
+  {
+   "title_en": "Welcoming Contributors",
+   "title_zh": "欢迎贡献者",
+   "open_en": "A new contributor joins our project.",
+   "open_zh": "一位新贡献者加入了我们的项目。",
+   "life_en": "Everyone is welcome here, and we keep the talk respectful.",
+   "life_zh": "这里欢迎每个人，我们让讨论保持尊重。",
+   "close_en": "The guide is clear. The first outside contribution is merged.",
+   "close_zh": "指南很清楚。第一个外部贡献合并了。"
+  },
+  {
+   "title_en": "The Release Checklist",
+   "title_zh": "上线清单",
+   "open_en": "Tomorrow we ship a big version. Today we check the plan.",
+   "open_zh": "明天我们要上线一个大版本。今天我们检查计划。",
+   "life_en": "I practice my short presentation for the team.",
+   "life_zh": "我为团队演练了我的简短介绍。",
+   "close_en": "The checklist is done. The rollback plan is ready too.",
+   "close_zh": "检查表完成了。回滚方案也准备好了。"
+  },
+  {
+   "title_en": "The Month Review",
+   "title_zh": "一个月的路",
+   "open_en": "It is my last day of this month. I look back at the road.",
+   "open_zh": "这是这个月的最后一天。我回望走过的路。",
+   "life_en": "I say what I learned and what I will improve.",
+   "life_zh": "我说了自己学到的，还要改进的。",
+   "close_en": "The project update is clear. Next month, I am ready for more.",
+   "close_zh": "项目更新很清楚。下个月，我准备好了更多。"
+  }
+ ]
+}

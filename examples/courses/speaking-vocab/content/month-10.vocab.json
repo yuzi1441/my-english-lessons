@@ -1,0 +1,1055 @@
+{
+ "month": 10,
+ "days": [
+  {
+   "computer": {
+    "topic": "点子与验证",
+    "terms": [
+     "problem interview|问题访谈，先聊痛点再做产品",
+     "idea validation|点子验证，需求真伪的检验",
+     "landing page test|落地页测试，先有门面再盖楼",
+     "waitlist signup|候补名单，愿者先排队",
+     "smoke test for ideas|点子试烟测试，最小信号先收",
+     "early adopter pitch|尝鲜者说辞，第一批人的语言"
+    ]
+   },
+   "daily": {
+    "topic": "车库创业的餐桌",
+    "terms": [
+     "The napkin sketch looks promising.|餐巾纸上的草图有点意思。",
+     "Dinner talk turned into a plan.|晚饭聊天聊出了计划。",
+     "My partner asks hard questions.|伴侣的问题都很刁钻。",
+     "We bet one weekend on it.|我们押了一个周末。",
+     "The side project jar has coins.|副业罐子里有硬币了。",
+     "Dreams need dinner too.|梦想也要吃饭。"
+    ]
+   },
+   "github": {
+    "topic": "副业项目启动",
+    "terms": [
+     "side project repo|副业仓库，下班后的游乐场",
+     "project charter for one|一人章程，写给自己看的边界",
+     "build in public log|公开构建日志，过程也是内容",
+     "weekend milestone plan|周末里程碑计划，两天一关",
+     "scope fence note|范围栅栏备注，只做三件事",
+     "launch date pencil mark|launch 日期铅笔印，先写后擦"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "MVP 取舍",
+    "terms": [
+     "minimum viable product|最小可行产品，够用就见人",
+     "core loop definition|核心循环定义，产品的心跳",
+     "feature freeze for mvp|MVP 功能冻结，多好的点子都排队",
+     "ugly but working draft|丑但能跑的草稿",
+     "timebox for v1|第一版的限时盒",
+     "must have list|必须有的清单，一共七行"
+    ]
+   },
+   "daily": {
+    "topic": "极简搬家实验",
+    "terms": [
+     "We lived from one bag for a week.|我们用一只包过了一周。",
+     "The list of really-needed things.|真正需要的东西清单。",
+     "Seven items covered ninety percent.|七件东西覆盖九成。",
+     "The rest was sentimental weight.|剩下的是感情重量。",
+     "Simpler felt strangely rich.|简单反而莫名富足。",
+     "Needs are smaller than carts.|需要比购物车小。"
+    ]
+   },
+   "github": {
+    "topic": "一人军团工程",
+    "terms": [
+     "solo developer workflow|单人开发工作流，一个人像一支队",
+     "template driven setup|模板驱动搭建，脚手架先行",
+     "zero meeting cadence|零会议节奏，文档对自己说",
+     "defer everything list|全部推迟清单，专注的护城河",
+     "one person oncall rota|单人值班轮换表，就是你自己",
+     "automation first policy|自动化优先政策，重复的事交给机器人"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "落地页工程",
+    "terms": [
+     "hero copy formula|首屏文案公式，一句话讲明白",
+     "call to action button|行动号召按钮，别让访客猜",
+     "social proof strip|社会证明横条，信任的小徽章",
+     "above the fold rule|首屏折叠规则，第一眼定生死",
+     "a b headline test|标题 A/B 测试，两句话比武",
+     "mobile first layout|移动优先排版，手机就是主角"
+    ]
+   },
+   "daily": {
+    "topic": "摆摊的艺术",
+    "terms": [
+     "The stall sign says one thing.|摊位招牌只说一件事。",
+     "First three seconds decide.|前三秒决定停留。",
+     "Samples do the selling.|试吃替你叫卖。",
+     "The queue is a magnet.|排队本身就是磁铁。",
+     "Small talk, big trust.|小寒暄，大信任。",
+     "Change ready, smile ready.|备好零钱也备好微笑。"
+    ]
+   },
+   "github": {
+    "topic": "页面实验管理",
+    "terms": [
+     "variant tracking sheet|变体追踪表，谁赢了记下来",
+     "conversion baseline record|转化基线记录，改版前先存档",
+     "screenshot diff for pages|页面截图对比，视觉回归一眼见",
+     "copy review checklist|文案评审清单，动词开头短句结尾",
+     "analytics event wiring|分析事件接线，埋点先于上线",
+     "rollback for landing page|落地页回滚方案，改坏了三步回退"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "注册与激活",
+    "terms": [
+     "signup friction audit|注册摩擦审计，少填一格是一格",
+     "activation moment design|激活时刻设计，第一次成功体验",
+     "empty state onboarding|空状态引导，没有数据也懂操作",
+     "first value timer|首个价值计时器，多久尝到甜头",
+     "progressive profiling|渐进式画像，信息分次再问",
+     "guest mode trial|访客模式试用，先玩再注册"
+    ]
+   },
+   "daily": {
+    "topic": "健身房的第一节课",
+    "terms": [
+     "The first session decides renewal.|第一节课决定续卡。",
+     "A coach who learns your name.|记得你名字的教练。",
+     "Small wins on day one.|第一天就有小胜利。",
+     "The soreness is a follow up email.|酸痛是肌肉的跟进邮件。",
+     "Everyone remembers the welcome.|人们记得的是欢迎。",
+     "Show up once, then twice.|来一次，再来一次。"
+    ]
+   },
+   "github": {
+    "topic": "激活漏斗优化",
+    "terms": [
+     "signup funnel metrics|注册漏斗指标，每一站都量化",
+     "drop off interview notes|流失访谈笔记，走掉的人最诚实",
+     "activation experiment log|激活实验日志，一次改一处",
+     "time to first success|首次成功耗时，快就是礼数",
+     "onboarding email sequence|引导邮件序列，五封刚好",
+     "reactivation nudge draft|召回提醒草稿，回来的理由"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "定价与支付",
+    "terms": [
+     "pricing page psychology|定价页心理学，锚点的魔法",
+     "three tier pricing|三档定价，中间那档最香",
+     "payment provider setup|支付服务接入，收钱的管道",
+     "trial to paid conversion|试用转付费，甜头到钞票的路",
+     "invoice and tax basics|发票与税务基础，副业也是生意",
+     "refund policy clarity|退款政策清晰度，大方是最好的广告"
+    ]
+   },
+   "daily": {
+    "topic": "二手市场的定价课",
+    "terms": [
+     "Priced too high, no calls.|标价太高没人问。",
+     "The anchor was the shop price.|锚点是商店原价。",
+     "Bundling sold the old lamps.|捆绑卖掉了旧台灯。",
+     "Free delivery closed the deal.|包邮促成了成交。",
+     "Haggle with a smile, always.|讨价还价保持微笑。",
+     "The quick sale beat the perfect price.|快卖胜过卖到完美价。"
+    ]
+   },
+   "github": {
+    "topic": "支付工程实践",
+    "terms": [
+     "payment webhook reliability|支付回调可靠性，掉单是大事故",
+     "idempotent charge handling|幂等扣款处理，重复付款要拦截",
+     "pricing config as data|定价配置数据化，改价不改代码",
+     "test payment sandbox flow|测试支付沙箱流程，先买自己十次",
+     "failed payment recovery note|支付失败恢复说明，礼貌催单",
+     "revenue dashboard wiring|收入看板接线，每一单都可见"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "产品数据分析",
+    "terms": [
+     "north star for products|产品北极星指标，一个数字定方向",
+     "activation rate tracking|激活率追踪，多少人开了头",
+     "retention curve reading|留存曲线解读，曲线平了才算站住",
+     "feature usage heatmap|功能使用热力图，谁在吃灰",
+     "funnel drop off alerts|漏斗流失告警，哪一站突然漏了",
+     "qualitative feedback tagging|定性反馈打标，意见也要分类"
+    ]
+   },
+   "daily": {
+    "topic": "菜谱应用的订阅数据",
+    "terms": [
+     "My recipe app knows my habits.|菜谱应用懂我的习惯。",
+     "Sunday brunch spikes weekly.|周日早午餐有峰。",
+     "The fish recipes never got clicks.|鱼类菜谱从没人点。",
+     "Suggestions got eerily better.|推荐越来越懂我。",
+     "I opt out, then opt back in.|我退订了又订阅。",
+     "Data with a gentle touch.|温柔使用的数据。"
+    ]
+   },
+   "github": {
+    "topic": "数据驱动产品周",
+    "terms": [
+     "weekly product metrics review|每周产品指标例会，一个人的站会",
+     "metric definition notebook|指标定义笔记，口径写给自己",
+     "experiment result archive|实验结果归档，赢的输的都留着",
+     "user session replay review|用户会话回放看查，看着真人用产品",
+     "feedback triage notebook|反馈分诊笔记，三条路：修、答、婉拒",
+     "insight to backlog flow|洞察进需求池流程，发现变成任务"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "用户反馈运营",
+    "terms": [
+     "in app feedback widget|应用内反馈组件，触手可及的话筒",
+     "nps survey basics|NPS 调查基础，推荐度的温度计",
+     "user interview script|用户访谈提纲，五个问题的深挖",
+     "support email SLA|支持邮件时限，二十四小时回音",
+     "churn exit interview|流失退出访谈，走的时候多问一句",
+     "community forum seeding|社区论坛播种，第一批帖子自己发"
+    ]
+   },
+   "daily": {
+    "topic": "小区团购群观察",
+    "terms": [
+     "The group chat is a focus group.|团购群就是焦点小组。",
+     "Complaints arrive with screenshots.|投诉自带截图。",
+     "The organizer answers fast.|组织者回复飞快。",
+     "Refunds keep the peace.|退款维护了和平。",
+     "Regulars defend the group.|老顾客自发护群。",
+     "Trust compounds in threads.|信任在楼里复利。"
+    ]
+   },
+   "github": {
+    "topic": "反馈到路线图",
+    "terms": [
+     "feedback to roadmap flow|反馈进路线图流程，声音变计划",
+     "vote weighted backlog|投票加权需求池，呼声排序",
+     "roadmap transparency page|路线图透明页，大家都看得到",
+     "changelog as conversation|更新日志当对话，每条都回应用户",
+     "closing the loop post|闭环说明帖，你说的我们做了",
+     "angry user playbook|愤怒用户应对手册，先共情再解结"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "性能与可靠 for 产品",
+    "terms": [
+     "uptime promise for users|面向用户的在线承诺，敢写几个九",
+     "page speed for conversion|页面速度与转化，慢一秒少一单",
+     "error budget for features|功能级错误预算，坏多少算多",
+     "graceful degradation UX|优雅降级体验，坏也坏得体面",
+     "status page for a side project|副业的状态页，一个人也要专业",
+     "backup and restore for product|产品备份恢复，数据是承诺"
+    ]
+   },
+   "daily": {
+    "topic": "小区面包房的信誉",
+    "terms": [
+     "The bakery opens at six sharp.|面包房六点整开门。",
+     "Sourdough sold out by eight.|酸面包八点售罄。",
+     "A bad batch gets free replace.|烤坏的一炉免费换。",
+     "The oven never misses a morning.|烤箱从不错过清晨。",
+     "Trust rises like dough here.|信任像面团一样发起来。",
+     "Reliability is the secret recipe.|可靠才是秘方。"
+    ]
+   },
+   "github": {
+    "topic": "单人 SRE 实践",
+    "terms": [
+     "solo oncall playbook|单人值班手册，睡觉也要安心",
+     "health check for money paths|收款路径健康检查，钱路不堵",
+     "incident note for users|面向用户的事件说明，出事也专业",
+     "uptime monitoring service|在线率监控服务，免费档也够用",
+     "graceful maintenance windows|优雅的维护窗口，半夜也要礼貌",
+     "small scale cost control|小规模成本控制，账单比用户先醒"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "增长与内容",
+    "terms": [
+     "content marketing basics|内容营销基础，文章是最好的销售",
+     "seo keyword research|SEO 关键词研究，搜什么就写什么",
+     "launch checklist for directories|目录站发布清单，一处一处提交",
+     "referral program design|推荐计划设计，老客带新客",
+     "email newsletter rhythm|邮件通讯节奏，每周一封不烦人",
+     "social proof collection|社会证明收集，好评主动要"
+    ]
+   },
+   "daily": {
+    "topic": "小区口碑经济学",
+    "terms": [
+     "The bakery never advertises.|面包房从不打广告。",
+     "Word of mouth rises like steam.|口碑像蒸汽一样升。",
+     "One free sample, three customers.|一块试吃，三位客人。",
+     "The regulars do the marketing.|熟客就是营销部。",
+     "Bad reviews get phone calls.|差评主人会接到电话。",
+     "Reputation compounds weekly.|口碑每周复利。"
+    ]
+   },
+   "github": {
+    "topic": "增长实验管理",
+    "terms": [
+     "growth experiment backlog|增长实验积压单，点子排队做",
+     "channel test matrix|渠道测试矩阵，一个个试水",
+     "attribution basics doc|归因基础知识文档，功劳算给谁",
+     "referral link tracking|推荐链接追踪，谁带来了谁",
+     "landing page per channel|每个渠道一个落地页，话术对口",
+     "growth review cadence|增长复盘节奏，周一十分钟"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "产品发布日",
+    "terms": [
+     "launch day runbook|发布日手册，几点做什么写清楚",
+     "product hunt prep|Product Hunt 准备，素材提前备",
+     "early access codes|早鸟激活码，第一批的特权",
+     "press kit folder|媒体资料包，截图简介随时发",
+     "support shift on launch day|发布日值班排班，答疑不断线",
+     "launch retro same week|发布当周复盘，趁热写下来"
+    ]
+   },
+   "daily": {
+    "topic": "家庭生日会执行",
+    "terms": [
+     "The birthday prep checklist.|生日筹备清单。",
+     "Cake pickup timed to the hour.|取蛋糕掐着点。",
+     "Guest list with plus ones.|带家属的宾客名单。",
+     "The backup plan for rain.|下雨的备用方案。",
+     "Photos delegated to a cousin.|拍照外包给表弟。",
+     "Cleanup crew signed up early.|清扫小组提前报名。"
+    ]
+   },
+   "github": {
+    "topic": "发布日工程",
+    "terms": [
+     "feature freeze before launch|发布前功能冻结，新点子先忍住",
+     "hotfix window after launch|发布后热修窗口，前四十八小时",
+     "load check before announcement|官宣前负载检查，别被自己的流量冲垮",
+     "announcement thread structure|官宣帖结构，一篇讲清五件事",
+     "launch status dashboard|发布日状态看板，一个人也知道全线",
+     "thank you rollout|致谢滚动发布，帮忙的人都有名"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "用户增长的服务化",
+    "terms": [
+     "self serve onboarding flow|自助引导流程，没人教也能上手",
+     "knowledge base for users|用户知识库，问题先撞文档",
+     "in app help search|应用内帮助搜索，答案就在手边",
+     "churn prevention triggers|流失预防触发器，久未登录轻轻问",
+     "upgrade path clarity|升级路径清晰度，下一步去哪写明白",
+     "data portability promise|数据可携承诺，随时带走数据"
+    ]
+   },
+   "daily": {
+    "topic": "会员体系的温度",
+    "terms": [
+     "The gym app knows my rest days.|健身应用懂我的休息日。",
+     "Upgrade offers after wins.|有了进步才推升级。",
+     "Pause membership, no guilt.|暂停会籍，不问原因。",
+     "Cancel flow without tricks.|取消流程不设迷宫。",
+     "Comeback emails feel human.|回归邮件有人味。",
+     "Loyalty is earned monthly.|忠诚按月挣得。"
+    ]
+   },
+   "github": {
+    "topic": "自助化改造",
+    "terms": [
+     "self serve coverage audit|自助覆盖审计，哪些还要人工",
+     "docs search relevance tune|文档搜索相关性调优，第一条就命中",
+     "onboarding video script|引导视频脚本，三分钟讲完",
+     "automation of common asks|常见请求自动化，重复问题退休",
+     "user journey friction map|用户旅程摩擦地图，卡点可视化",
+     "self service success metric|自助成功率指标，自己搞定才算数"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "小团队的自动化",
+    "terms": [
+     "ci cd for solo project|单人项目 CI/CD，机器人搭档",
+     "scheduled social posts|定时社交发帖，内容排队上岗",
+     "automated invoice reminders|自动催款提醒，礼貌的坚持",
+     "website uptime pinger|网站在线拨测器，免费的小 watchdog",
+     "auto generated changelog|自动生成更新日志，提交变公告",
+     "email drip automation|邮件滴灌自动化，序列替你跟进"
+    ]
+   },
+   "daily": {
+    "topic": "懒人花园的自动化",
+    "terms": [
+     "Drip irrigation waters on schedule.|滴灌按点浇水。",
+     "The timer frees my mornings.|定时器解放了早晨。",
+     "Plants thrive on boring routines.|植物喜欢无聊的规律。",
+     "Rain sensor skips a watering.|雨水传感器跳过一次浇灌。",
+     "Automation with weekly checks.|自动化配每周巡检。",
+     "Lazy hands, green garden.|手懒，园子绿。"
+    ]
+   },
+   "github": {
+    "topic": "副业工作流自动化",
+    "terms": [
+     "auto deploy on merge|合并即部署， pushes 上岗",
+     "dependency update bot config|依赖更新机器人配置， renovate 排班",
+     "auto reply for support hours|支持时段自动回复，等待也有温度",
+     "backup verification cron|备份验证定时任务，cron 查作业",
+     "expense tracking automation|开销记录自动化，账单自己归档",
+     "weekly metrics digest bot|每周指标摘要机器人，一封自我汇报"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "定价实验与调整",
+    "terms": [
+     "annual plan discount test|年付折扣实验，锁一年的魔力",
+     "usage based pricing trial|按量计费试用，用多少付多少",
+     "grandfathered pricing promise|老价格保护承诺，不背刺早期用户",
+     "price change announcement|调价公告写法，坦白加补偿",
+     "payment failure dunning flow|扣款失败追讨流程，温柔催卡",
+     "currency and regional pricing|多币种区域定价，全世界的门槛"
+    ]
+   },
+   "daily": {
+    "topic": "理发店的会员卡",
+    "terms": [
+     "The punch card after ten cuts.|剪十次送一次的打卡卡。",
+     "Grandfather rates for old regulars.|老熟客永远老价格。",
+     "Price raise with three months notice.|涨价提前三个月通知。",
+     "The loyalty discount negotiation.|忠诚折扣的谈判。",
+     "Card lost, still honored.|卡丢了照样认账。",
+     "Fair pricing keeps chairs full.|公道价格让椅子常满。"
+    ]
+   },
+   "github": {
+    "topic": "定价工程实现",
+    "terms": [
+     "pricing tier flag system|定价档位开关系统，谁的账单谁的价格",
+     "proration calculation test|按比例计费测试，升级降级算得清",
+     "price display consistency check|价格展示一致性检查，页面与账单一致",
+     "billing webhook test coverage|账单回调测试覆盖，掉单全拦截",
+     "regional tax config review|区域税务配置评审，各国各规矩",
+     "discount code analytics|折扣码分析，谁在用优惠"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "副业的法务与账务",
+    "terms": [
+     "terms of service draft|服务条款草稿，丑话说在前面",
+     "privacy policy for small products|小产品隐私政策，三页讲清楚",
+     "business bank account setup|对公账户开设，公私分明",
+     "expense receipt capture|开销票据归集，拍一张存一张",
+     "quarterly tax reminder system|季度税务提醒系统，日历替你记",
+     "refund abuse protection|退款滥用防护，大方也要设防"
+    ]
+   },
+   "daily": {
+    "topic": "摆摊的证照课",
+    "terms": [
+     "The market stall permit.|市集摊位的许可证。",
+     "Food handling certificate framed.|食品操作证书装了框。",
+     "Insurance for the pop up shop.|快闪店的保险。",
+     "Receipts book for the stall.|摊位上的收据本。",
+     "Tax set aside in an envelope.|税金先放进信封。",
+     "Paperwork first, creative later.|先文书后创作。"
+    ]
+   },
+   "github": {
+    "topic": "合规自动化副业版",
+    "terms": [
+     "tos update notification flow|条款更新通知流程，改了要喊人",
+     "privacy policy versioning|隐私政策版本化，历史可查",
+     "data deletion automation|数据删除自动化，用户要求七天内",
+     "gdpr style request handling|欧盟式请求处理，导出删除都顺手",
+     "cookie consent implementation|Cookie 同意实现，弹窗也要好看",
+     "annual compliance checklist|年度合规清单，一天勾完"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "单人产品续航",
+    "terms": [
+     "burnout prevention boundaries|倦怠预防边界，下班真的下班",
+     "scope diet after launch|上线后的范围节食，新点子先进冰柜",
+     "maintenance day schedule|维护日日程，每周五半天",
+     "automation debt list|自动化欠账清单，该交给机器的",
+     "community helper onboarding|社区帮手招募，让别人也照顾它",
+     "sustainable pace for one|单人可持续节奏，马拉松配速"
+    ]
+   },
+   "daily": {
+    "topic": "副业与睡眠的边界",
+    "terms": [
+     "Laptop closes at nine, always.|笔记本九点必合。",
+     "The side project gets mornings.|副业只拥有早晨。",
+     "Sleep is not negotiable.|睡眠没有谈判余地。",
+     "Weekends belong to the family.|周末属于家人。",
+     "Ideas wait well in notebooks.|点子在笔记本里等得起。",
+     "Rested builders ship longer.|休息好的工匠走得远。"
+    ]
+   },
+   "github": {
+    "topic": "可持续运营",
+    "terms": [
+     "feature icebox process|功能冰柜流程，点子冷冻保存",
+     "maintenance windows respect|维护窗口守时，说到就到",
+     "community moderator recruitment|社区版主招募，权力也要分散",
+     "runbook for someone else|给别人也能跑的手册，可交接性",
+     "income diversification note|收入多元化备注，别押一个渠道",
+     "the why refresh ritual|初心刷新仪式，每季重读第一页"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "三百天里程碑",
+    "terms": [
+     "first hundred users review|首批百名用户回顾，他们是谁",
+     "first revenue moment|第一笔收入的时刻，截图留念",
+     "product market fit signals|产品市场契合信号，呼声与复购",
+     "the tech that held up|撑住的那些技术，没有重写",
+     "surprises of building alone|单人创业的意外，全是剧本外",
+     "next stage decision|下一阶段决策，继续养大还是转手"
+    ]
+   },
+   "daily": {
+    "topic": "三百天的早餐",
+    "terms": [
+     "Day three hundred toast, slightly burnt.|第三百天的吐司，微焦。",
+     "The side project paid for brunch.|副业请了这顿早午餐。",
+     "Partner says proud without irony.|伴侣说骄傲时没带讽刺。",
+     "The jar has real savings now.|罐子里是实打实的存款。",
+     "Ideas feel like colleagues now.|点子像同事一样熟了。",
+     "Mornings still belong to building.|早晨仍属于建造。"
+    ]
+   },
+   "github": {
+    "topic": "三百天仓库小结",
+    "terms": [
+     "commit graph of a year|一年的提交图谱，绿格子的故事",
+     "issues closed celebration|关闭问题单庆祝，四位数了",
+     "docs that wrote themselves|自己长出来的文档， automatons 留下的",
+     "the tests that saved sundays|救过周日的测试们，无声的功臣",
+     "open source extracted pieces|开源出去的组件，回馈的小礼物",
+     "year two roadmap sketch|第二年路线图草稿，铅笔依旧"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "移动端体验打磨",
+    "terms": [
+     "mobile app polish pass|移动端打磨轮，细节的马拉松",
+     "touch feedback moments|触控反馈时刻，按下去有回应",
+     "offline forgiving sync|宽容的离线同步，断网不丢数据",
+     "app store listing seo|应用商店优化，名字截图关键字",
+     "review prompt etiquette|好评弹窗礼仪，时机对了才开口",
+     "crash free sessions metric|无崩溃会话指标，稳字当头"
+    ]
+   },
+   "daily": {
+    "topic": "手机相册的断舍离",
+    "terms": [
+     "Screenshots get weekly sweeps.|截图每周大扫除。",
+     "Favorites album is honest.|收藏相册很诚实。",
+     "Blurry photos die young.|模糊照片早入土。",
+     "The memes folder brings joy.|表情包文件夹带来快乐。",
+     "Cloud full, but memories safe.|云满了回忆还在。",
+     "Three years of photos, one hour.|三年照片一小时理完。"
+    ]
+   },
+   "github": {
+    "topic": "移动发布流水",
+    "terms": [
+     "app store review notes|应用商店审核备注，给审核员铺路",
+     "beta testing group management|Beta 测试组管理，内外圈分明",
+     "staged rollout percentage|分阶段放量百分比，一天一档",
+     "crash report triage ritual|崩溃报告分诊仪式，每天早晨十分",
+     "release notes that humans read|人类读得懂的更新说明",
+     "force update threshold policy|强制升级阈值政策，老版本有底线"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "客服自动化与人味",
+    "terms": [
+     "helpdesk ticket triage rules|工单分诊规则，先急后缓",
+     "canned reply personalization|模板回复个性化，末尾一句人话",
+     "refund decision tree|退款决策树，规则清楚不纠结",
+     "vip customer handling|重点客户应对，付费多也讲理",
+     "sentiment escalation trigger|情绪升级触发器，骂三次就转人",
+     "support knowledge base sync|支持知识库同步，答案处处一致"
+    ]
+   },
+   "daily": {
+    "topic": "物业客服的观察",
+    "terms": [
+     "The property hotline knows me now.|物业热线认识我了。",
+     "Repeats get escalations politely.|重复问题礼貌升级。",
+     "The good agents get praise mails.|好客服收到表扬邮件。",
+     "Bad news with a timeline hurts less.|带时间线的坏消息不那么疼。",
+     "They closed the loop twice.|他们两次闭环回复。",
+     "Service is theater and sincerity.|服务既是表演也是真心。"
+    ]
+   },
+   "github": {
+    "topic": "支持工程化",
+    "terms": [
+     "ticket to issue sync|工单转问题单同步，支持与开发互通",
+     "top asks automation review|高频请求自动化评审，重复十次就该做",
+     "response time dashboard|响应时长看板，承诺要兑现",
+     "customer health scoring|客户健康评分，流失早知道",
+     "refund pattern analysis|退款模式分析，哪里让人失望",
+     "support dr root cause feed|支持问题根因回流，修一个少十张单"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "增长渠道深耕",
+    "terms": [
+     "seo content cluster plan|SEO 内容集群计划，一篇带一串",
+     "guest post pipeline|客座文章管道，借别人的舞台",
+     "newsletter swap network|通讯互推网络，交换读者不交换灵魂",
+     "community value first rule|社区价值优先规则，先帮忙再发链接",
+     "referral reward tuning|推荐奖励调优，双向都甜",
+     "churned user reactivation channel|流失用户召回渠道，旧爱也有回头路"
+    ]
+   },
+   "daily": {
+    "topic": "小区跳蚤市场的复购",
+    "terms": [
+     "Buyers follow me between markets.|买家跟着我换场地。",
+     "The regulars text before market day.|熟客开市前就发消息。",
+     "A free fix builds a fan.|免费修一次收获粉丝。",
+     "New items get announced first to regulars.|新品先通知熟客。",
+     "Honest flaws sell more.|坦诚的瑕疵反而好卖。",
+     "Reputation is the real stall.|口碑才是真正的摊位。"
+    ]
+   },
+   "github": {
+    "topic": "渠道实验工程",
+    "terms": [
+     "channel attribution spreadsheet|渠道归因表格，来源都登记",
+     "utm discipline guide|UTM 纪律指南，链接带名牌",
+     "cohort comparison for channels|渠道同期群对比，谁留得住人",
+     "content calendar repo|内容日历仓库，选题进看板",
+     "growth spend guardrail|增长花费护栏，广告失控要拦截",
+     "organic vs paid ratio chart|自然与付费比例图，健康度一眼见"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "合作与外包",
+    "terms": [
+     "contractor onboarding kit|外包上手包，三天能干活",
+     "code contribution from freelancers|自由职业者代码贡献，评审加引导",
+     "nda and ip assignment basics|保密与知识产权转让基础，先小人后君子",
+     "design partner agreement|设计合作伙伴协议，换资源不换灵魂",
+     "agency communication rhythm|外包沟通节奏，每周固定十五分钟",
+     "exit clause clarity|退出条款清晰度，好聚好散写在前"
+    ]
+   },
+   "daily": {
+    "topic": "请人修屋顶的谈判",
+    "terms": [
+     "Three quotes for one roof.|一个屋顶三份报价。",
+     "The middle quote had the best story.|中间那份报价故事最好。",
+     "Payment tied to milestones.|付款绑着里程碑。",
+     "Materials receipt transparency.|材料费票据透明。",
+     "The neighbor's referral was gold.|邻居的推荐是真金。",
+     "Written scope ended the debates.|书面范围终结了扯皮。"
+    ]
+   },
+   "github": {
+    "topic": "外包协作工程",
+    "terms": [
+     "freelancer access template|外部人员权限模板，最小而完整",
+     "review SLA for external prs|外部 PR 评审时限，别让帮手等凉",
+     "style onboarding for contributors|贡献者风格上手包，照着写就合群",
+     "milestone based invoicing check|里程碑账单核对，验收再付款",
+     "knowledge transfer checklist|知识转移清单，人走事留",
+     "contractor offboarding sweep|外包收尾清单，权限归零"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "产品国际化副业版",
+    "terms": [
+     "translation workflow for indie|独立开发翻译流程，机器初译人润色",
+     "locale pricing tiers|区域定价档位，购买力对齐",
+     "date and currency formatting|日期货币格式化，别让用户换算",
+     "rtl layout support plan|从右到左布局支持计划，阿拉伯语的镜子",
+     "legal pages per region|分地区法务页面，各国各一套话",
+     "localized onboarding emails|本地化引导邮件，母语的第一封信"
+    ]
+   },
+   "daily": {
+    "topic": "家宴的国际化",
+    "terms": [
+     "Menus get English subtitles now.|家宴菜单有了英文副标。",
+     "Grandma's dishes have official names.|奶奶的菜有了官方译名。",
+     "Chopstick lessons for guests.|给客人开筷子速成班。",
+     "Spice levels negotiated politely.|辣度礼貌协商。",
+     "The tour includes food stories.|导览包括食物的故事。",
+     "Hospitality translates itself.|好客自带翻译。"
+    ]
+   },
+   "github": {
+    "topic": "国际化工程清单",
+    "terms": [
+     "string externalization pass|文案外置清理，硬编码下岗",
+     "pseudo localization testing|伪本地化测试，假翻译找漏",
+     "currency display test matrix|货币展示测试矩阵，小数点千分位",
+     "rtl screenshot review|RTL 截图评审，镜像里找错位",
+     "locale fallback behavior test|语言回退行为测试，缺翻译不掉链",
+     "regional legal text slots|区域法务文案插槽，一国一版"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "安全与信任展示",
+    "terms": [
+     "trust page essentials|信任页要素，安全证书亮出来",
+     "transparent uptime history|透明的在线历史，断网也公示",
+     "security contact page|安全联系页面，白帽找得到门",
+     "privacy dashboard for users|用户隐私面板，数据去哪自己看",
+     "public incident archive|公开事件档案，黑历史也敢挂",
+     "open source some parts strategy|开源部分组件策略，示弱也是一种强"
+    ]
+   },
+   "daily": {
+    "topic": "透明账本的菜摊",
+    "terms": [
+     "The veggie stall posts its sources.|菜摊挂出了进货来源。",
+     "Price boards updated in ink.|价格牌用墨水更新。",
+     "Mistakes get chalked publicly.|失误用粉笔写给大家看。",
+     "The scale gets certified yearly.|秤每年送检一次。",
+     "Trust built in plain sight.|信任在大庭广众下生长。",
+     "Nothing to hide, everything to show.|无可隐藏，处处可看。"
+    ]
+   },
+   "github": {
+    "topic": "信任工程实践",
+    "terms": [
+     "public status and history|公开状态与历史，坦白从宽",
+     "security txt file setup|security.txt 配置，白帽的指路牌",
+     "dependency disclosure page|依赖披露页面，用了什么敢承认",
+     "user data map publication|用户数据地图公示，去向画给你看",
+     "incident communication examples|事件沟通范例，模板提前晒",
+     "open roadmap with honest statuses|开放路线图与诚实状态，拖延也写明"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "收费与合规升级",
+    "terms": [
+     "vat id registration|增值税号注册，跨境开票前置",
+     "sales tax automation tool|销售税自动化工具，各国算税交给它",
+     "annual security self audit|年度安全自查，一天的体检",
+     "insurance for software business|软件业务保险，责任险一门课",
+     "business continuity one pager|业务连续性一页纸，我倒了服务不倒",
+     "succession note for the product|产品交接备忘，万一就交得出去"
+    ]
+   },
+   "daily": {
+    "topic": "小生意的账本年检",
+    "terms": [
+     "The shoebox of receipts got digital.|装收据的鞋盒数字化了。",
+     "Tax categories finally sorted.|税务分类终于理清。",
+     "The accountant speaks human now.|会计现在说人话了。",
+     "Quarterly reviews take one hour.|季度盘点只要一小时。",
+     "Receipts photographed at source.|票据源头拍照。",
+     "Deadlines in three calendars.|截止日在三个日历里。"
+    ]
+   },
+   "github": {
+    "topic": "合规升级工程",
+    "terms": [
+     "tax config region test|税务配置区域测试，各区分账",
+     "invoice data completeness check|发票数据完整性检查，字段齐全",
+     "annual audit evidence prep|年度审计证据准备，材料一晚齐",
+     "legal page diff alerts|法务页面变更提醒，改一条都知道",
+     "data residency option doc|数据驻留选项文档，合规的落点",
+     "account separation verification|公私账户分离核验，一单一账"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "用户社群运营",
+    "terms": [
+     "community guideline rewrite|社区守则重写，温和而明确",
+     "welcome thread ritual|欢迎帖仪式，新人必有回响",
+     "power user early access|高频用户早鸟权限，贡献换抢先",
+     "community challenge idea|社区挑战点子，月度小比赛",
+     "moderator handbook draft|版主手册草稿，判例式管理",
+     "offline meetup starter kit|线下聚会启动包，一城一聚会"
+    ]
+   },
+   "daily": {
+    "topic": "小区读书会的运营",
+    "terms": [
+     "The book club survived year three.|读书会活过了第三年。",
+     "Rotating hosts keep it fresh.|轮值主持保持新鲜。",
+     "Snacks matter more than classics.|零食比经典重要。",
+     "Shy members get easy questions.|腼腆成员收到简单问题。",
+     "The group survived one troll.|群里赶走过一个杠精。",
+     "Rules short, culture long.|规矩很短，文化很长。"
+    ]
+   },
+   "github": {
+    "topic": "社区工程支持",
+    "terms": [
+     "forum search improvement|论坛搜索改进，旧帖可寻",
+     "badge system for helpers|帮手徽章体系，贡献可见",
+     "spam filter tuning log|垃圾过滤调优日志，误杀要复查",
+     "community stats dashboard|社区数据看板，活跃与温度",
+     "archived wisdom index|归档智慧索引，精华帖有目录",
+     "meetup sponsoring budget|聚会赞助预算，一点奶茶钱"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "产品叙事",
+    "terms": [
+     "origin story page|起源故事页，为什么做这个",
+     "customer story collection|客户故事收集，成功案例成集",
+     "before after narrative|前后对比叙事，痛点到Solution",
+     "value metric explanation|价值指标说明，省了多少钱时间",
+     "anti feature list|反功能清单，我们拒绝做的事",
+     "manifesto writing exercise|宣言写作练习，三条信仰"
+    ]
+   },
+   "daily": {
+    "topic": "家传手艺的故事",
+    "terms": [
+     "Grandpa's recipe has a story page.|爷爷的菜谱有故事页。",
+     "The failures made it to the book.|失败也写进了书里。",
+     "Origin beats marketing copy.|出身故事胜过营销文案。",
+     "Customers retell our story better.|顾客转述得更动人。",
+     "The why survives feature lists.|为什么比功能活得久。",
+     "Stories season the soup.|故事给汤提鲜。"
+    ]
+   },
+   "github": {
+    "topic": "叙事素材库",
+    "terms": [
+     "story asset repo|故事素材仓库，截图语录待用",
+     "customer quote collection flow|客户语录收集流程，好话即时存",
+     "launch narrative template|发布叙事模板，起承转合",
+     "honest changelog voice|诚实的更新日志口吻，认错的语气",
+     "founder diary cadence|创始人日记节奏，每周三行",
+     "anti hype style guide|反夸张文风指南，形容词减半"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "产品决策日志",
+    "terms": [
+     "decision log for products|产品决策日志，为什么不做也记",
+     "feature retirement ceremony|功能退役仪式，说再见要正式",
+     "data informed not driven rule|数据参考不绑架原则，数字不拍板",
+     "gut check journal|直觉日志，当时的预感记下来",
+     "postmortem for product bets|产品押注复盘，猜错也光荣",
+     "quarterly strategy offsite solo|单人季度战略会，一天只想大事"
+    ]
+   },
+   "daily": {
+    "topic": "家庭大事记",
+    "terms": [
+     "The family decision notebook.|家庭大事记本子。",
+     "We record why not just what.|记为什么不只记做了什么。",
+     "Old decisions get grace periods.|旧决定有宽限期。",
+     "Kids vote on holidays.|孩子们投票选假期。",
+     "Revisiting beats regretting.|重议胜过后悔。",
+     "The notebook forgives everyone.|本子原谅每个人。"
+    ]
+   },
+   "github": {
+    "topic": "决策工程实践",
+    "terms": [
+     "adr for product choices|产品决策的 ADR，轻量版",
+     "revisit date automation|重审日期自动化，到期自动翻案",
+     "decision outcome scoring|决策结果评分，当初怎么想",
+     "stakeholder even if solo|干系人登记哪怕一个人，未来的你",
+     "no decision backlog review|无决定事项盘点，悬而未决清单",
+     "decision digest newsletter|决策摘要通讯，每月寄给未来的自己"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "副业与主业的边界",
+    "terms": [
+     "moonlighting policy check|兼职合规检查，合同条款先读",
+     "conflict of interest guard|利益冲突防线，东家的事不带回家",
+     "time tracking honesty|时间记录诚实法，两份工作都算数",
+     "energy budget across jobs|精力预算分配，主场优先",
+     "intellectual property boundaries|知识产权边界，下班后的点子归谁",
+     "burnout early warning list|倦怠早期警报清单，十个信号"
+    ]
+   },
+   "daily": {
+    "topic": "双职家庭的排班表",
+    "terms": [
+     "The fridge calendar holds two careers.|冰箱日历装下两份事业。",
+     "Protected evenings actually protected.|被守护的夜晚真的没被打扰。",
+     "We trade energy, not just chores.|我们交换精力不只是家务。",
+     "One weekend a month is sacred.|每月一个周末神圣不可侵犯。",
+     "Tired but not resentful.|累但不怨。",
+     "The boundary is a kindness.|边界是种温柔。"
+    ]
+   },
+   "github": {
+    "topic": "边界工程化",
+    "terms": [
+     "separate identity setup|独立身份配置，邮箱与署名分家",
+     "work hours commit lint|工作时间提交检查，深夜提交要自省",
+     "focus hours calendar blocks|专注时段日历块，代码替你拒会",
+     "project energy review|项目精力复盘，回报与消耗对比",
+     "the stop doing list review|停止事项清单回顾，每月划掉一件",
+     "rest as release gate|休息作为发布门禁，累了就不发版"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "第二年的战略",
+    "terms": [
+     "year two strategy one pager|第二年战略一页纸，三件大事",
+     "double down decision list|加注决定清单，哪里加倍投入",
+     "sunset candidates review|日落候选评审，哪些该放手",
+     "pricing power signals|定价权信号，敢不敢涨价",
+     "hiring vs automation matrix|招人还是自动化矩阵，先买时间",
+     "platform dependency risk review|平台依赖风险评审，别把家盖在租的地上"
+    ]
+   },
+   "daily": {
+    "topic": "家庭第二年的规划",
+    "terms": [
+     "Family strategy over dumplings.|饺子桌上的家庭战略。",
+     "Fewer goals, deeper roots.|更少的目标，更深的根。",
+     "We budget for adventures too.|我们也为冒险做预算。",
+     "Health goes on the roadmap.|健康写进路线图。",
+     "The kids' dreams got slots.|孩子们的梦想有了档期。",
+     "Year two feels calmer already.|第二年已经开始从容。"
+    ]
+   },
+   "github": {
+    "topic": "战略落地仓库",
+    "terms": [
+     "okr for one|一个人的 OKR，三个 O 三个 KR",
+     "strategy review cadence|战略复盘节奏，月度半小时",
+     "bets board with confidence|押注看板带信心值，高中低",
+     "capacity plan for goals|目标容量规划，时间先排给大事",
+     "annual retro facilitation|年度复盘引导，自问自答也要流程",
+     "next year reading list|来年书单，战略先喂大脑"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "三百天感恩清单",
+    "terms": [
+     "first paying user story|首位付费用户的故事，那杯咖啡的由来",
+     "the reviewer who stayed|留下来的评审者，从质疑到伙伴",
+     "open source contributors thanks|开源贡献者致谢，星星是别人的灯",
+     "family patience credit|家人耐心的记功簿，迟到晚饭的宽容",
+     "the tools that never failed|从没掉链子的工具，静默的功臣",
+     "body and mind invoice|身心账单，健康付的隐形账"
+    ]
+   },
+   "daily": {
+    "topic": "三百天的晚饭",
+    "terms": [
+     "Day three hundred dumplings.|第三百天包了饺子。",
+     "Everyone shares one win at the table.|饭桌上人人说一个收获。",
+     "The failed launch story got laughs.|失败发布的故事逗笑了全家。",
+     "Grandma asked for a demo.|奶奶要求演示一遍。",
+     "Toast raised with tea.|用茶举杯。",
+     "Gratitude logged, belly full.|感恩记下，肚子填满。"
+    ]
+   },
+   "github": {
+    "topic": "三百天致谢发布",
+    "terms": [
+     "thank you release notes|致谢版更新日志，用户名字写进去",
+     "contributor hall of fame|贡献者名人堂，头像墙",
+     "the issue that changed everything|改变一切的那张问题单，编号留念",
+     "retrospective published publicly|复盘公开出版，丢脸换来掌声",
+     "next hundred days pledge|下一百天承诺，三句话",
+     "the same excitement check|初心还在吗，自检通过"
+    ]
+   }
+  },
+  {
+   "computer": {
+    "topic": "独立开发的工具箱",
+    "terms": [
+     "note taking for ideas|点子速记系统，灵感不过夜",
+     "focus playlist science|专注歌单科学，同一张专辑",
+     "reading queue for builders|建造者书单，少读多造",
+     "boilerplate starter choice|脚手架起步选型，攒自己的",
+     "hardware that lasts|耐用的硬件，键盘十年",
+     "the single dashboard|唯一的看板，一切一屏"
+    ]
+   },
+   "daily": {
+    "topic": "一人公司的午餐",
+    "terms": [
+     "Lunch away from the desk, daily.|每天离开书桌吃午饭。",
+     "The same bowl of noodles thinks.|同一碗面想不同的事。",
+     "Walk before the afternoon slump.|午后倦怠前先走走。",
+     "Market lunch supports the stall.|市场午餐支持小摊。",
+     "Eating slow is debugging.|慢慢吃就是调试。",
+     "Cooking one dish keeps hands humble.|烧一道菜让手保持谦逊。"
+    ]
+   },
+   "github": {
+    "topic": "仓库的年检",
+    "terms": [
+     "repo annual health check|仓库年度体检，依赖与债务",
+     "secrets rotation year task|年度密钥轮换任务，换锁日",
+     "old branch burial day|旧分支下葬日，一并清理",
+     "readme refresh hour|README 刷新一小时，重新自我介绍",
+     "license and credits review|许可与致谢复查，该谢的重谢",
+     "the archive decision|归档决定，哪些仓库入博物馆"
+    ]
+   }
+  }
+ ]
+}

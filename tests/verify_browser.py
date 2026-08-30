@@ -1,6 +1,6 @@
 """Browser smoke test: lessons build, segments render, and every audio file plays.
 
-Prerequisites: bash build_month.sh (or at least the lesson + audio steps) has run.
+Prerequisites: scripts/build_course.py (or at least the lesson + audio steps) has run.
 Run: python -m pytest tests/verify_browser.py -q
 """
 import http.server
@@ -20,7 +20,7 @@ playwright = pytest.importorskip("playwright.sync_api")
 @pytest.fixture(scope="module")
 def server():
     if not (SITE / "index.html").exists():
-        pytest.skip("lessons/week is not built yet; run build_month.sh first")
+        pytest.skip("lessons/week is not built yet; run scripts/build_course.py first")
     handler = lambda *args, **kwargs: http.server.SimpleHTTPRequestHandler(*args, directory=str(SITE), **kwargs)
     with socketserver.TCPServer(("127.0.0.1", 0), handler) as httpd:
         thread = threading.Thread(target=httpd.serve_forever, daemon=True)
@@ -44,7 +44,7 @@ def browser_page(server):
 
 def test_day_page_renders_three_story_scenes(browser_page):
     page = browser_page
-    page.goto(f"{page.base_url}/day-01/index.html")
+    page.goto(f"{page.base_url}/courses/speaking-vocab/day-001/index.html")
     page.wait_for_selector(".seg")
     assert page.locator(".seg").count() == 3
     assert page.locator("#vocabBridge .vocab-bridge-word").count() == 18
@@ -54,13 +54,13 @@ def test_day_page_renders_three_story_scenes(browser_page):
 
 def test_all_segment_audio_files_exist_and_play(browser_page):
     page = browser_page
-    page.goto(f"{page.base_url}/day-01/index.html")
+    page.goto(f"{page.base_url}/courses/speaking-vocab/day-001/index.html")
     page.wait_for_selector(".seg")
     status = page.evaluate("window.__AUDIO_STATUS__")
     assert status["missing"] == [], f"segments without audio: {status['missing']}"
 
     for seg_id in ("seg-01", "seg-02", "seg-03"):
-        response = page.request.get(f"{page.base_url}/day-01/audio/{seg_id}.mp3")
+        response = page.request.get(f"{page.base_url}/courses/speaking-vocab/day-001/audio/{seg_id}.mp3")
         assert response.ok
         assert len(response.body()) > 20000, f"{seg_id}.mp3 is too small to be real narration"
 
@@ -77,16 +77,16 @@ def test_all_segment_audio_files_exist_and_play(browser_page):
 
 def test_vocabulary_month_page_loads_all_18_cards(browser_page):
     page = browser_page
-    page.goto(f"{page.base_url}/vocabulary-month/index.html?day=1")
+    page.goto(f"{page.base_url}/courses/speaking-vocab/vocabulary-month/index.html?day=1")
     page.wait_for_selector(".word-card")
     assert page.locator(".word-card").count() == 18
-    response = page.request.get(f"{page.base_url}/vocabulary-month/month.json")
+    response = page.request.get(f"{page.base_url}/courses/speaking-vocab/vocabulary-month/month.json")
     assert response.ok
     assert len(response.body()) > 100000
 
 
 def test_word_audio_is_independent_for_vocabulary_cards(browser_page):
     page = browser_page
-    response = page.request.get(f"{page.base_url}/vocabulary-month/audio/d01-computer-01-term.mp3")
+    response = page.request.get(f"{page.base_url}/courses/speaking-vocab/vocabulary-month/audio/d01-computer-01-term.mp3")
     assert response.ok, "vocabulary term audio missing — run scripts/generate_vocabulary_audio.py"
     assert len(response.body()) > 2000

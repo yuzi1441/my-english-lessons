@@ -113,21 +113,23 @@ def word_timings(out_dir: Path, segments: list[dict], mismatched: list[str] | No
     return timings
 
 
-def render_index(data: dict, out_dir: Path, nav: str = "") -> None:
+def render_index(data: dict, out_dir: Path, nav: str = "", course_ctx: dict | None = None) -> None:
     template = (TEMPLATE_DIR / "index.html").read_text(encoding="utf-8")
     # escape every "<" as \u003c inside JSON strings: blocks script-tag breakout and comment-open parsing tricks
     lesson_json = json.dumps(data, ensure_ascii=False).replace("<", "\\u003c")
     status_json = json.dumps(audio_status(out_dir, data["segments"], required_word_audio_terms(data)), ensure_ascii=False)
     timings_json = json.dumps(word_timings(out_dir, data["segments"]), ensure_ascii=False)
+    course_json = json.dumps(course_ctx or {"id": "legacy", "day": 0}, ensure_ascii=False)
     if nav:
         template = template.replace('<main id="app"', f'{nav}<main id="app"')
-    template = template.replace("</head>", '<meta name="build-ver" content="nav-v1">\n</head>')
+    template = template.replace("</head>", '<meta name="build-ver" content="nav-v2">\n</head>')
     html = (
         template
         .replace("{{TITLE}}", html_escape.escape(data["meta"]["title"]))
         .replace("{{LESSON_JSON}}", lesson_json)
         .replace("{{AUDIO_STATUS_JSON}}", status_json)
         .replace("{{WORD_TIMINGS_JSON}}", timings_json)
+        .replace("{{COURSE_JSON}}", course_json)
     )
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / "index.html").write_text(html, encoding="utf-8")
@@ -164,7 +166,13 @@ def closeout(data: dict, out_dir: Path) -> str:
         lines.append(
             f"⚠ 词音频缺失 {len(status['word_missing'])}/{status['word_count']} 个, 卡片将用浏览器朗读兜底; 重跑: python src/tts_generate.py <segments.json> --out <lesson>/audio"
         )
-    overlong = overlong_segments(data)
+    # advanced tiers speak at near native speed with longer sentences; allow a wider cap
+    try:
+        rate_pct = int(str(data.get("voice", {}).get("rate", "0%")).rstrip("%"))
+    except ValueError:
+        rate_pct = 0
+    seg_limit = SEGMENT_WORDS_LIMIT if rate_pct <= -10 else 130
+    overlong = overlong_segments(data, seg_limit)
     if overlong:
         sample = " ".join(f"§{sid.split('-')[1].lstrip('0') or '0'}({words}词)" for sid, words in overlong[:6])
         lines.append(
@@ -184,6 +192,8 @@ def main() -> int:
     parser.add_argument("--prev", default="", help="relative href for previous lesson")
     parser.add_argument("--next", default="", help="relative href for next lesson")
     parser.add_argument("--home", default="", help="relative href for the lesson index page")
+    parser.add_argument("--course-id", default="", help="course id for localStorage namespacing")
+    parser.add_argument("--day", type=int, default=0, help="day number within the course")
     args = parser.parse_args()
 
     try:
@@ -194,7 +204,8 @@ def main() -> int:
         return 2
 
     nav = build_nav(args.prev, args.next, args.home)
-    render_index(data, args.out, nav)
+    course_ctx = {"id": args.course_id, "day": args.day} if args.course_id else {"id": "legacy", "day": args.day}
+    render_index(data, args.out, nav, course_ctx)
     print(closeout(data, args.out))
     return 0
 
