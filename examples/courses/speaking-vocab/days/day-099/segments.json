@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 288,
+   "word_count": 290,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Sunday night, the nightly report shows three red builds. The test container shows up in our sprint notes more often than before. I double-check the transaction rollback test before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the dual approval rule so clearly. I keep a growing list of the risk tier label on my desk for later. During the afternoon break, Priya says, \"The librarian knows my taste.\" I reply, \"Overdue by accident.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Sunday night, the nightly report shows three red builds. The test container shows up in our sprint notes more often than before. I double-check the transaction rollback test before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the dual approval rule so clearly. I keep a growing list of the risk tier label on my desk for later. During the afternoon break, Priya says, \"The librarian knows my taste.\" I reply, \"Overdue by accident.\" I end the day with fewer unknowns than I started with.",
+   "en": "Sunday night, the nightly report shows three red builds. I ask one good question about the test container in the meeting. My notes about the transaction rollback test look clearer this week. I spend ten quiet minutes on the dual approval rule after the standup. Sam asks me about the risk tier label, and I explain the basics. Warm-up round: Priya offers, \"The librarian knows my taste.\" I answer, \"Overdue by accident.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "Sunday night, the nightly report shows three red builds. I ask one good question about the test container in the meeting. My notes about the transaction rollback test look clearer this week. I spend ten quiet minutes on the dual approval rule after the standup. Sam asks me about the risk tier label, and I explain the basics. Warm-up round: Priya offers, \"The librarian knows my taste.\" I answer, \"Overdue by accident.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "周日晚上，每夜报告显示三个红色构建。测试容器出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍事务回滚测试，因为答错要付出双倍代价。一位队友拦住我，感谢我把双批准规则解释得这么清楚。我把一份越来越长的风险分级标签清单放在桌上，留着以后用。下午休息时，Priya说：\"图书管理员懂我的口味。\"我回答：\"不小心逾期了。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "周日晚上，每夜报告显示三个红色构建。会上关于测试容器，我问了一个好问题。这周我关于事务回滚测试的笔记清楚多了。站会之后，我安安静静花了十分钟在双批准规则上。Sam 问起风险分级标签，我讲了讲基础。热身一轮：Priya给出：\"图书管理员懂我的口味。\"我回答：\"不小心逾期了。\"Priya收尾道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "test container",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A shared test environment was reseeded mid-run; a booking calendar ends the turf war. Leo stops by my desk, asks, \"The quiet room is gold.\" and I answer, \"I borrow what I'd never buy.\" A teammate stopped me to say thanks for explaining the migration test so clearly. I keep a growing list of the seed data test on my desk for later. My notes about the feature review are getting sharper every single week. I asked Leo how he handles the security review when the week gets heavy. Small progress today prepares the bigger step tomorrow.",
-   "tts": "A shared test environment was reseeded mid-run; a booking calendar ends the turf war. Leo stops by my desk, asks, \"The quiet room is gold.\" and I answer, \"I borrow what I'd never buy.\" A teammate stopped me to say thanks for explaining the migration test so clearly. I keep a growing list of the seed data test on my desk for later. My notes about the feature review are getting sharper every single week. I asked Leo how he handles the security review when the week gets heavy. Small progress today prepares the bigger step tomorrow.",
+   "en": "A shared test environment was reseeded mid-run; a booking calendar ends the turf war. We practise the dialogue: Priya opens, \"The quiet room is gold.\" I answer, \"I borrow what I'd never buy.\" and Priya nods, \"Good — try it in today’s task.\" My notes about the migration test look clearer this week. I spend ten quiet minutes on the seed data test after the standup. Sam asks me about the feature review, and I explain the basics. I keep one real example of the security review in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "tts": "A shared test environment was reseeded mid-run; a booking calendar ends the turf war. We practise the dialogue: Priya opens, \"The quiet room is gold.\" I answer, \"I borrow what I'd never buy.\" and Priya nods, \"Good — try it in today’s task.\" My notes about the migration test look clearer this week. I spend ten quiet minutes on the seed data test after the standup. Sam asks me about the feature review, and I explain the basics. I keep one real example of the security review in my notebook. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "共享测试环境在跑批中途被重置；一张预约日历终结了地盘之争。Leo走到我桌边问：\"静音阅览室是宝藏。\"我回答：\"我借那些不会买的书。\"一位队友拦住我，感谢我把迁移测试解释得这么清楚。我把一份越来越长的种子数据测试清单放在桌上，留着以后用。我关于功能评审的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理安全评审的。今天的小进步为明天更大的跨越做准备。",
+   "zh": "共享测试环境在跑批中途被重置；一张预约日历终结了地盘之争。我们练习这段对话：Priya开场：\"静音阅览室是宝藏。\"我回答：\"我借那些不会买的书。\"Priya点头说：\"好——今天的任务里就用上。\"这周我关于迁移测试的笔记清楚多了。站会之后，我安安静静花了十分钟在种子数据测试上。Sam 问起功能评审，我讲了讲基础。我在笔记本里留了一个安全评审的真实例子。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "migration test",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. The performance review shows up in our sprint notes more often than before. I double-check the final go meeting before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the slow query budget test so clearly. I keep a growing list of the data integrity check on my desk for later. During the afternoon break, Priya says, \"Return on time, karma points.\" I reply, \"Libraries level the field.\" Flakiness has a cause, and causes have addresses.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. The performance review shows up in our sprint notes more often than before. I double-check the final go meeting before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the slow query budget test so clearly. I keep a growing list of the data integrity check on my desk for later. During the afternoon break, Priya says, \"Return on time, karma points.\" I reply, \"Libraries level the field.\" Flakiness has a cause, and causes have addresses.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the performance review in the guide. I ask one good question about the final go meeting in the meeting. My notes about the slow query budget test look clearer this week. I spend ten quiet minutes on the data integrity check after the standup. Role play with feedback: Maria says, \"Return on time, karma points.\" I try, \"Libraries level the field.\" and Maria adds, \"That is the one we need today.\" Flakiness has a cause, and causes have addresses.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the performance review in the guide. I ask one good question about the final go meeting in the meeting. My notes about the slow query budget test look clearer this week. I spend ten quiet minutes on the data integrity check after the standup. Role play with feedback: Maria says, \"Return on time, karma points.\" I try, \"Libraries level the field.\" and Maria adds, \"That is the one we need today.\" Flakiness has a cause, and causes have addresses.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。性能评审出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍最终放行会，因为答错要付出双倍代价。一位队友拦住我，感谢我把慢查询预算测试解释得这么清楚。我把一份越来越长的数据完整性检查清单放在桌上，留着以后用。下午休息时，Priya说：\"按时归还\"我回答：\"图书馆拉平了起跑线。\"抖动有原因，原因有住址。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于性能评审的介绍。会上关于最终放行会，我问了一个好问题。这周我关于慢查询预算测试的笔记清楚多了。站会之后，我安安静静花了十分钟在数据完整性检查上。角色扮演加反馈：Maria说：\"按时归还\"我试着说：\"图书馆拉平了起跑线。\"Maria补充道：\"今天要的就是这句。\"抖动有原因，原因有住址。",
    "hard": [
     {
      "w": "slow query budget test",

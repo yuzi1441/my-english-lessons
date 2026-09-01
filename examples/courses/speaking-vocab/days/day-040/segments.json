@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 226,
+   "word_count": 229,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I estimate my work in story points, honestly and out loud. Priya checks with me, \"Rent is a bit high.\" I answer clearly, \"It's close to the office.\" If the fuzzy match fails, we need a clear plan. I suggest that we check the search filter first. The result depends on the backlog grooming, so I check it twice. I explain capacity planning to a new teammate. The day ends with a clear plan for tomorrow.",
-   "tts": "I estimate my work in story points, honestly and out loud. Priya checks with me, \"Rent is a bit high.\" I answer clearly, \"It's close to the office.\" If the fuzzy match fails, we need a clear plan. I suggest that we check the search filter first. The result depends on the backlog grooming, so I check it twice. I explain capacity planning to a new teammate. The day ends with a clear plan for tomorrow.",
+   "en": "I estimate my work in story points, honestly and out loud. At the end of the day, Maria says, \"Rent is a bit high.\" I reply, \"It's close to the office.\" I explain the fuzzy match to a new teammate. We discuss the risk around the search filter. I document the backlog grooming so the team can review it later. If capacity planning fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
+   "tts": "I estimate my work in story points, honestly and out loud. At the end of the day, Maria says, \"Rent is a bit high.\" I reply, \"It's close to the office.\" I explain the fuzzy match to a new teammate. We discuss the risk around the search filter. I document the backlog grooming so the team can review it later. If capacity planning fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我诚实地把自己的工作估算成了故事点，并大声说了出来。Priya向我确认：\"房租有点贵。\"我清楚地回答：\"离办公室很近。\"如果模糊匹配失败，我们需要一个清晰的方案。我建议我们先检查搜索筛选。结果取决于需求梳理，所以我检查了两遍。我向一位新队友解释了容量规划。这一天以一份清晰的明日计划结束。",
+   "zh": "我诚实地把自己的工作估算成了故事点，并大声说了出来。一天结束时，Maria说：\"房租有点贵。\"我回答：\"离办公室很近。\"我向一位新队友解释了模糊匹配。我们讨论了搜索筛选相关的风险。我把需求梳理写成文档，方便团队之后查看。如果容量规划失败，我们需要一个清晰的方案。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "fuzzy match",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. We discuss the risk around the stretch goal. I document the carryover item so the team can review it later. If the relevance ranking fails, we need a clear plan. I suggest that we check the search history first. At the end of the day, Maria says, \"I'm still unpacking boxes.\" I reply, \"Come over sometime.\" My guess is close. Honest estimates build trust.",
-   "tts": "Before I leave, I write a short summary for the team. We discuss the risk around the stretch goal. I document the carryover item so the team can review it later. If the relevance ranking fails, we need a clear plan. I suggest that we check the search history first. At the end of the day, Maria says, \"I'm still unpacking boxes.\" I reply, \"Come over sometime.\" My guess is close. Honest estimates build trust.",
+   "en": "Before I leave, I write a short summary for the team. I document the stretch goal so the team can review it later. If the carryover item fails, we need a clear plan. I suggest that we check the relevance ranking first. The result depends on the search history, so I check it twice. Before we part, Leo says, \"I'm still unpacking boxes.\" I answer, \"Come over sometime.\" My guess is close. Honest estimates build trust.",
+   "tts": "Before I leave, I write a short summary for the team. I document the stretch goal so the team can review it later. If the carryover item fails, we need a clear plan. I suggest that we check the relevance ranking first. The result depends on the search history, so I check it twice. Before we part, Leo says, \"I'm still unpacking boxes.\" I answer, \"Come over sometime.\" My guess is close. Honest estimates build trust.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我们讨论了弹性目标相关的风险。我把顺延事项写成文档，方便团队之后查看。如果相关度排序失败，我们需要一个清晰的方案。我建议我们先检查搜索历史。一天结束时，Maria说：\"我还在拆行李箱。\"我回答：\"改天来坐坐。\"我的猜测很接近。诚实的估算能建立信任。",
+   "zh": "离开前，我给团队写了一份简短的总结。我把弹性目标写成文档，方便团队之后查看。如果顺延事项失败，我们需要一个清晰的方案。我建议我们先检查相关度排序。结果取决于搜索历史，所以我检查了两遍。分开前，Leo说：\"我还在拆行李箱。\"我回答：\"改天来坐坐。\"我的猜测很接近。诚实的估算能建立信任。",
    "hard": [
     {
      "w": "relevance ranking",

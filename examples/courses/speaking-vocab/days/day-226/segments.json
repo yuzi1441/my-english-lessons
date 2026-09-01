@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 319,
+   "word_count": 309,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The gallery page carries eight megabytes of photographs. The team sets a clear owner for the cold start optimization, plus a deadline and review date. I compare two approaches to the frame pacing, note the trade-offs, share both honestly. In review, I raise a careful question about the cold start time report and its failure modes. Our mentor walks me through the frame drop regression gate's history, including two painful lessons. Maria raises, \"Dark mode after sunset.\" and I respond calmly, \"Location only while using.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "The gallery page carries eight megabytes of photographs. The team sets a clear owner for the cold start optimization, plus a deadline and review date. I compare two approaches to the frame pacing, note the trade-offs, share both honestly. In review, I raise a careful question about the cold start time report and its failure modes. Our mentor walks me through the frame drop regression gate's history, including two painful lessons. Maria raises, \"Dark mode after sunset.\" and I respond calmly, \"Location only while using.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "The gallery page carries eight megabytes of photographs. Before deciding, I reread my notes about the cold start optimization twice. I prepare a one-page brief about the frame pacing so meetings start from facts. The team names one clear owner for the cold start time report. I compare two views on the frame drop regression gate and write both down honestly. Practice debate: Maria argues, \"Dark mode after sunset.\" I respond calmly, \"Location only while using.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "The gallery page carries eight megabytes of photographs. Before deciding, I reread my notes about the cold start optimization twice. I prepare a one-page brief about the frame pacing so meetings start from facts. The team names one clear owner for the cold start time report. I compare two views on the frame drop regression gate and write both down honestly. Practice debate: Maria argues, \"Dark mode after sunset.\" I respond calmly, \"Location only while using.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "相册页面背着八兆的照片。团队为冷启动优化定了明确的负责人，加上截止和复审日期。我比较了处理帧率节奏的两种方式，记下取舍，诚实分享。评审中，我就冷启动耗时报告及其失效模式提出了一个审慎的问题。导师带我梳理了掉帧回归门禁的历史，包括两次惨痛的教训。Maria提出：\"日落之后开深色模式。\"我从容地回应：\"定位只在用时开。\"因为慌张从来没用。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "相册页面背着八兆的照片。做决定之前，我把关于冷启动优化的笔记重读了两遍。我准备了一页关于帧率节奏的简报，好让会议从事实出发。团队为冷启动耗时报告指定了明确的负责人。我比较了关于掉帧回归门禁的两种观点，诚实地都记了下来。练习辩论：Maria主张：\"日落之后开深色模式。\"我平静地回应：\"定位只在用时开。\"Maria承认道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "cold start optimization",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Modern formats, responsive sizes, and lazy decode cut it to one. When the design review starts each week, Priya asks, \"Background refresh, curated.\" and I answer, \"The battery chart tells stories.\" with numbers. In review, I raise a careful question about the memory footprint cap and its failure modes. Our mentor walks me through the thermal throttling's history, including two painful lessons. We weigh the cost of changing the battery drain test profile against leaving it alone. I prepare a one-page brief about the startup trace artifact so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Modern formats, responsive sizes, and lazy decode cut it to one. When the design review starts each week, Priya asks, \"Background refresh, curated.\" and I answer, \"The battery chart tells stories.\" with numbers. In review, I raise a careful question about the memory footprint cap and its failure modes. Our mentor walks me through the thermal throttling's history, including two painful lessons. We weigh the cost of changing the battery drain test profile against leaving it alone. I prepare a one-page brief about the startup trace artifact so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Modern formats, responsive sizes, and lazy decode cut it to one. Mock review: Maria probes, \"Background refresh, curated.\" I answer from memory, \"The battery chart tells stories.\" and Maria confirms, \"Agreed, note it in the ticket.\" I prepare a one-page brief about the memory footprint cap so meetings start from facts. The team names one clear owner for the thermal throttling. I compare two views on the battery drain test profile and write both down honestly. I add the startup trace artifact to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Modern formats, responsive sizes, and lazy decode cut it to one. Mock review: Maria probes, \"Background refresh, curated.\" I answer from memory, \"The battery chart tells stories.\" and Maria confirms, \"Agreed, note it in the ticket.\" I prepare a one-page brief about the memory footprint cap so meetings start from facts. The team names one clear owner for the thermal throttling. I compare two views on the battery drain test profile and write both down honestly. I add the startup trace artifact to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "现代格式、响应式尺寸、懒解码，把它减到一兆。评审开始时，Priya问：\"后台刷新\"我带着数字回答：\"电池图表会讲故事。\"评审中，我就内存占用上限及其失效模式提出了一个审慎的问题。导师带我梳理了过热降频的历史，包括两次惨痛的教训。我们权衡了改动耗电测试画像的代价与放着不管的风险。我准备了一页关于启动追踪产物的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "现代格式、响应式尺寸、懒解码，把它减到一兆。模拟评审：Maria追问：\"后台刷新\"我凭记忆回答：\"电池图表会讲故事。\"Maria确认：\"同意，把这条记到工单里。\"我准备了一页关于内存占用上限的简报，好让会议从事实出发。团队为过热降频指定了明确的负责人。我比较了关于耗电测试画像的两种观点，诚实地都记了下来。我把启动追踪产物连同三条支撑事实加进了议程。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "memory footprint cap",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team sets a clear owner for the memory ceiling alert, plus a deadline and review date. I compare two approaches to the device matrix lab, note the trade-offs, share both honestly. In review, I raise a careful question about the background work quota and its failure modes. Our mentor walks me through the app startup tracing's history, including two painful lessons. Maria raises, \"Silent hours save electrons.\" and I respond calmly, \"Charge before it panics.\" because panic never helped anyone. Photography stays beautiful; bandwidth stays calm.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team sets a clear owner for the memory ceiling alert, plus a deadline and review date. I compare two approaches to the device matrix lab, note the trade-offs, share both honestly. In review, I raise a careful question about the background work quota and its failure modes. Our mentor walks me through the app startup tracing's history, including two painful lessons. Maria raises, \"Silent hours save electrons.\" and I respond calmly, \"Charge before it panics.\" because panic never helped anyone. Photography stays beautiful; bandwidth stays calm.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the memory ceiling alert evolved on this team. Before deciding, I reread my notes about the device matrix lab twice. I prepare a one-page brief about the background work quota so meetings start from facts. The team names one clear owner for the app startup tracing. Dry run: Leo opens, \"Silent hours save electrons.\" I follow, \"Charge before it panics.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Photography stays beautiful; bandwidth stays calm.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the memory ceiling alert evolved on this team. Before deciding, I reread my notes about the device matrix lab twice. I prepare a one-page brief about the background work quota so meetings start from facts. The team names one clear owner for the app startup tracing. Dry run: Leo opens, \"Silent hours save electrons.\" I follow, \"Charge before it panics.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Photography stays beautiful; bandwidth stays calm.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为内存上限告警定了明确的负责人，加上截止和复审日期。我比较了处理设备矩阵实验室的两种方式，记下取舍，诚实分享。评审中，我就后台工作配额及其失效模式提出了一个审慎的问题。导师带我梳理了启动链路追踪的历史，包括两次惨痛的教训。Maria提出：\"静音时段省电又省心。\"我从容地回应：\"别等它慌了再充。\"因为慌张从来没用。照片依然美丽，带宽保持冷静。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了内存上限告警在这个团队里的演变。做决定之前，我把关于设备矩阵实验室的笔记重读了两遍。我准备了一页关于后台工作配额的简报，好让会议从事实出发。团队为启动链路追踪指定了明确的负责人。干跑演练：Leo开场：\"静音时段省电又省心。\"我接上：\"别等它慌了再充。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"照片依然美丽，带宽保持冷静。",
    "hard": [
     {
      "w": "background work quota",

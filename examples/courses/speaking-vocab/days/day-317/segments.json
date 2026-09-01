@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 342,
+   "word_count": 329,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We design team boundaries around human memory limits. I close the loop on the cache aside pattern and share the outcome, including what surprised us. I present the read through cache to the team with data, a timeline, and one clear ask. We align on the cache hit rate slos before the deadline so execution never has to guess. My report explains the invalidation ownership map, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"Eye level shelves move fastest.\" and I present, \"The stockroom is the database.\" with the numbers ready. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "We design team boundaries around human memory limits. I close the loop on the cache aside pattern and share the outcome, including what surprised us. I present the read through cache to the team with data, a timeline, and one clear ask. We align on the cache hit rate slos before the deadline so execution never has to guess. My report explains the invalidation ownership map, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"Eye level shelves move fastest.\" and I present, \"The stockroom is the database.\" with the numbers ready. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "We design team boundaries around human memory limits. I close the discussion on the cache aside pattern with a short summary. The final deck includes the read through cache and what we learned from it. I put the cache hit rate slos on the record so the reasoning stays visible. I present the invalidation ownership map with a timeline, the data, and one clear ask. Final dry run: Leo summarises, \"Eye level shelves move fastest.\" I confirm, \"The stockroom is the database.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "We design team boundaries around human memory limits. I close the discussion on the cache aside pattern with a short summary. The final deck includes the read through cache and what we learned from it. I put the cache hit rate slos on the record so the reasoning stays visible. I present the invalidation ownership map with a timeline, the data, and one clear ask. Final dry run: Leo summarises, \"Eye level shelves move fastest.\" I confirm, \"The stockroom is the database.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们围绕人类记忆极限设计团队边界。我跟进完旁路缓存模式并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了读穿透缓存。我们在截止日期前就缓存命中率目标达成共识，让执行永远不必靠猜。我的报告解释了失效责任地图、背后的风险，以及等待的代价。演示会上，Leo问：\"视线高度的货架最好卖。\"我带着准备好的数字汇报：\"仓库就是数据库。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "我们围绕人类记忆极限设计团队边界。我用一段简短的总结为旁路缓存模式的讨论收尾。最终的材料里有读穿透缓存，以及我们从中学到的东西。我把缓存命中率目标记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报失效责任地图。最终干跑：Leo总结：\"视线高度的货架最好卖。\"我郑重确认：\"仓库就是数据库。\"Leo收尾道：\"确认无误，可以上线了。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "cache aside pattern",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One team owned too many rooms; we drew a gentler map. Before the launch, Maria says, \"Popular items live up front.\" and I commit, \"Restock happens before rush.\" on behalf of the whole team. We align on the multi layer cache strategy before the deadline so execution never has to guess. My report explains the cache coherence protocol, the risks behind it, and the cost of waiting. I propose a measurable goal for the cache size per tenant budget this quarter, with a number we can defend. We review the cold start mitigation plan against the requirements one final time, line by line, together. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "One team owned too many rooms; we drew a gentler map. Before the launch, Maria says, \"Popular items live up front.\" and I commit, \"Restock happens before rush.\" on behalf of the whole team. We align on the multi layer cache strategy before the deadline so execution never has to guess. My report explains the cache coherence protocol, the risks behind it, and the cost of waiting. I propose a measurable goal for the cache size per tenant budget this quarter, with a number we can defend. We review the cold start mitigation plan against the requirements one final time, line by line, together. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "One team owned too many rooms; we drew a gentler map. Board practice: Leo probes, \"Popular items live up front.\" I respond without a pause, \"Restock happens before rush.\" and Leo nods, \"Confirmed. This is launch ready.\" The final deck includes the multi layer cache strategy and what we learned from it. I put the cache coherence protocol on the record so the reasoning stays visible. I present the cache size per tenant budget with a timeline, the data, and one clear ask. We align on the cold start mitigation plan early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "One team owned too many rooms; we drew a gentler map. Board practice: Leo probes, \"Popular items live up front.\" I respond without a pause, \"Restock happens before rush.\" and Leo nods, \"Confirmed. This is launch ready.\" The final deck includes the multi layer cache strategy and what we learned from it. I put the cache coherence protocol on the record so the reasoning stays visible. I present the cache size per tenant budget with a timeline, the data, and one clear ask. We align on the cold start mitigation plan early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个团队管了太多房间；我们画了一张更温柔的地图。上线前，Maria说：\"畅销品放在门口。\"我代表整个团队承诺：\"补货赶在高峰前。\"我们在截止日期前就多层缓存策略达成共识，让执行永远不必靠猜。我的报告解释了缓存一致性协议、背后的风险，以及等待的代价。我为按租户的缓存配额提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了冷缓存缓解计划，一起完成的。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "一个团队管了太多房间；我们画了一张更温柔的地图。董事会练习：Leo追问：\"畅销品放在门口。\"我毫不迟疑地回应：\"补货赶在高峰前。\"Leo点头道：\"确认无误，可以上线了。\"最终的材料里有多层缓存策略，以及我们从中学到的东西。我把缓存一致性协议记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报按租户的缓存配额。我们尽早就冷缓存缓解计划对齐，让执行无需猜测。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "multi layer cache strategy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the loop on the cache behavior test suite and share the outcome, including what surprised us. I present the cache strategy documentation page to the team with data, a timeline, and one clear ask. We align on the hot key mitigation before the deadline so execution never has to guess. My report explains the cache warm up automation, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"Stale bread gets discounted fast.\" and I present, \"Shelf space is allocation policy.\" with the numbers ready. Architecture is organizational chart made of code.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the loop on the cache behavior test suite and share the outcome, including what surprised us. I present the cache strategy documentation page to the team with data, a timeline, and one clear ask. We align on the hot key mitigation before the deadline so execution never has to guess. My report explains the cache warm up automation, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"Stale bread gets discounted fast.\" and I present, \"Shelf space is allocation policy.\" with the numbers ready. Architecture is organizational chart made of code.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the cache behavior test suite against the requirements, line by line. I close the discussion on the cache strategy documentation page with a short summary. The final deck includes the hot key mitigation and what we learned from it. I put the cache warm up automation on the record so the reasoning stays visible. Launch rehearsal: Priya asks, \"Stale bread gets discounted fast.\" I present, \"Shelf space is allocation policy.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" Architecture is organizational chart made of code.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the cache behavior test suite against the requirements, line by line. I close the discussion on the cache strategy documentation page with a short summary. The final deck includes the hot key mitigation and what we learned from it. I put the cache warm up automation on the record so the reasoning stays visible. Launch rehearsal: Priya asks, \"Stale bread gets discounted fast.\" I present, \"Shelf space is allocation policy.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" Architecture is organizational chart made of code.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我跟进完缓存行为测试套件并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了缓存策略说明页。我们在截止日期前就热点键缓解达成共识，让执行永远不必靠猜。我的报告解释了缓存预热自动化、背后的风险，以及等待的代价。演示会上，Leo问：\"隔夜面包快速打折。\"我带着准备好的数字汇报：\"货架就是分配策略。\"架构是用代码画成的组织架构图。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了缓存行为测试套件。我用一段简短的总结为缓存策略说明页的讨论收尾。最终的材料里有热点键缓解，以及我们从中学到的东西。我把缓存预热自动化记录在案，让推理过程保持可见。上线彩排：Priya问：\"隔夜面包快速打折。\"我带着准备好的数字汇报：\"货架就是分配策略。\"Priya签字道：\"通过——带到上线评审上。\"架构是用代码画成的组织架构图。",
    "hard": [
     {
      "w": "hot key mitigation",

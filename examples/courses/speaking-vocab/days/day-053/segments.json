@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 269,
+   "word_count": 275,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "First paint feels slow on old phones. A teammate stopped me to say thanks for explaining the bundle size so clearly. I keep a growing list of the minify on my desk for later. My notes about the push protection are getting sharper every single week. I asked Leo how he handles the dependency review when the week gets heavy. Leo stops by my desk, asks, \"I started running again.\" and I answer, \"I do stretches every morning.\" The task moves forward, and so does my confidence.",
-   "tts": "First paint feels slow on old phones. A teammate stopped me to say thanks for explaining the bundle size so clearly. I keep a growing list of the minify on my desk for later. My notes about the push protection are getting sharper every single week. I asked Leo how he handles the dependency review when the week gets heavy. Leo stops by my desk, asks, \"I started running again.\" and I answer, \"I do stretches every morning.\" The task moves forward, and so does my confidence.",
+   "en": "First paint feels slow on old phones. I spend ten quiet minutes on the bundle size after the standup. Sam asks me about the minify, and I explain the basics. I keep one real example of the push protection in my notebook. I add the dependency review to my study notes before I forget it. We drill it twice: Leo starts, \"I started running again.\" I reply, \"I do stretches every morning.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "First paint feels slow on old phones. I spend ten quiet minutes on the bundle size after the standup. Sam asks me about the minify, and I explain the basics. I keep one real example of the push protection in my notebook. I add the dependency review to my study notes before I forget it. We drill it twice: Leo starts, \"I started running again.\" I reply, \"I do stretches every morning.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "旧手机上的首次绘制感觉很慢。一位队友拦住我，感谢我把包体积解释得这么清楚。我把一份越来越长的压缩混淆清单放在桌上，留着以后用。我关于推送保护的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理依赖审查的。Leo走到我桌边问：\"我又开始跑步了。\"我回答：\"我每天早上拉伸。\"任务在推进，我的信心也在成长。",
+   "zh": "旧手机上的首次绘制感觉很慢。站会之后，我安安静静花了十分钟在包体积上。Sam 问起压缩混淆，我讲了讲基础。我在笔记本里留了一个推送保护的真实例子。我趁还没忘，把依赖审查记进了学习笔记。我们练了两遍：Leo起头：\"我又开始跑步了。\"我回答：\"我每天早上拉伸。\"然后Leo笑着说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "bundle size",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Code splitting and lazy load cut the bundle size in half. Maria greets me warmly with, \"The gym is packed after work.\" and I answer, \"I prefer swimming.\" My notes about tree shaking are getting sharper every single week. I asked Leo how he handles the source map when the week gets heavy. The license scan shows up in our sprint notes more often than before. I double-check the vulnerable version before I reply, because a wrong answer costs double. I end the day with fewer unknowns than I started with.",
-   "tts": "Code splitting and lazy load cut the bundle size in half. Maria greets me warmly with, \"The gym is packed after work.\" and I answer, \"I prefer swimming.\" My notes about tree shaking are getting sharper every single week. I asked Leo how he handles the source map when the week gets heavy. The license scan shows up in our sprint notes more often than before. I double-check the vulnerable version before I reply, because a wrong answer costs double. I end the day with fewer unknowns than I started with.",
+   "en": "Code splitting and lazy load cut the bundle size in half. Role play with feedback: Leo says, \"The gym is packed after work.\" I try, \"I prefer swimming.\" and Leo adds, \"Nice, keep that one handy.\" Sam asks me about tree shaking, and I explain the basics. I keep one real example of the source map in my notebook. I add the license scan to my study notes before I forget it. I go over the vulnerable version one more time before lunch. I end the day with fewer unknowns than I started with.",
+   "tts": "Code splitting and lazy load cut the bundle size in half. Role play with feedback: Leo says, \"The gym is packed after work.\" I try, \"I prefer swimming.\" and Leo adds, \"Nice, keep that one handy.\" Sam asks me about tree shaking, and I explain the basics. I keep one real example of the source map in my notebook. I add the license scan to my study notes before I forget it. I go over the vulnerable version one more time before lunch. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "代码分割和懒加载把包体积砍掉了一半。Maria热情地用\"下班后健身房人很多。\"和我打招呼，我回答：\"我更喜欢游泳。\"我关于摇树优化的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理源码映射的。许可证扫描出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍含漏洞版本，因为答错要付出双倍代价。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "代码分割和懒加载把包体积砍掉了一半。角色扮演加反馈：Leo说：\"下班后健身房人很多。\"我试着说：\"我更喜欢游泳。\"Leo补充道：\"不错，把这句记在手边。\"Sam 问起摇树优化，我讲了讲基础。我在笔记本里留了一个源码映射的真实例子。我趁还没忘，把许可证扫描记进了学习笔记。午饭前我又过了一遍含漏洞版本。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "tree shaking",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. A teammate stopped me to say thanks for explaining the patch level so clearly. I keep a growing list of the security policy file on my desk for later. My notes about code splitting are getting sharper every single week. I asked Leo how he handles the gzip compression when the week gets heavy. Leo stops by my desk, asks, \"My step count is up.\" and I answer, \"Rest days matter too.\" Every kilobyte is a user waiting.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. A teammate stopped me to say thanks for explaining the patch level so clearly. I keep a growing list of the security policy file on my desk for later. My notes about code splitting are getting sharper every single week. I asked Leo how he handles the gzip compression when the week gets heavy. Leo stops by my desk, asks, \"My step count is up.\" and I answer, \"Rest days matter too.\" Every kilobyte is a user waiting.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the patch level look clearer this week. I spend ten quiet minutes on the security policy file after the standup. Sam asks me about code splitting, and I explain the basics. I keep one real example of the gzip compression in my notebook. We practise the dialogue: Priya opens, \"My step count is up.\" I answer, \"Rest days matter too.\" and Priya nods, \"Good — try it in today’s task.\" Every kilobyte is a user waiting.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the patch level look clearer this week. I spend ten quiet minutes on the security policy file after the standup. Sam asks me about code splitting, and I explain the basics. I keep one real example of the gzip compression in my notebook. We practise the dialogue: Priya opens, \"My step count is up.\" I answer, \"Rest days matter too.\" and Priya nods, \"Good — try it in today’s task.\" Every kilobyte is a user waiting.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。一位队友拦住我，感谢我把补丁级别解释得这么清楚。我把一份越来越长的安全政策文件清单放在桌上，留着以后用。我关于代码分割的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理gzip 压缩的。Leo走到我桌边问：\"我的步数涨了。\"我回答：\"休息日同样重要。\"每一千字节都是一位等待中的用户。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于补丁级别的笔记清楚多了。站会之后，我安安静静花了十分钟在安全政策文件上。Sam 问起代码分割，我讲了讲基础。我在笔记本里留了一个gzip 压缩的真实例子。我们练习这段对话：Priya开场：\"我的步数涨了。\"我回答：\"休息日同样重要。\"Priya点头说：\"好——今天的任务里就用上。\"每一千字节都是一位等待中的用户。",
    "hard": [
     {
      "w": "code splitting",

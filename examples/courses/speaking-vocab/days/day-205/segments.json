@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 310,
+   "word_count": 282,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Leo, our resident skeptic, ships his first AI assisted PR. We agree that the anomaly threat detection needs one more careful look before we commit. I link the secret pattern scanner to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the push protection tuning, and I write it down. I summarize what we decided about the risky file review routing while the details are still fresh. Over coffee, Maria mentions, \"The password manager conversion.\" and I add, \"One master phrase, memorized.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Leo, our resident skeptic, ships his first A I assisted P R. We agree that the anomaly threat detection needs one more careful look before we commit. I link the secret pattern scanner to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the push protection tuning, and I write it down. I summarize what we decided about the risky file review routing while the details are still fresh. Over coffee, Maria mentions, \"The password manager conversion.\" and I add, \"One master phrase, memorized.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Leo, our resident skeptic, ships his first AI assisted PR. The guide now has a short section on the anomaly threat detection. I compare my notes about the secret pattern scanner with Priya's. At the review, we spend ten minutes on the push protection tuning. In today's standup, I mention the risky file review routing and what comes next. Whiteboard practice: Maria offers, \"The password manager conversion.\" I add, \"One master phrase, memorized.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Leo, our resident skeptic, ships his first A I assisted P R. The guide now has a short section on the anomaly threat detection. I compare my notes about the secret pattern scanner with Priya's. At the review, we spend ten minutes on the push protection tuning. In today's standup, I mention the risky file review routing and what comes next. Whiteboard practice: Maria offers, \"The password manager conversion.\" I add, \"One master phrase, memorized.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "团队首席怀疑派 Leo 发布了他第一个 AI 协助的 PR。我们一致认为，在动手之前异常威胁检测还需要再仔细看一次。我把机密模式扫描器关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的推送保护调优处理办法，我把它记了下来。趁细节还新鲜，我总结了关于高危文件评审路由的决定。喝咖啡时，Maria提到：\"密码管理器皈依记。\"我补充了\"一句主口诀\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "团队首席怀疑派 Leo 发布了他第一个 AI 协助的 PR。指南里现在有关于异常威胁检测的简短章节。我把关于机密模式扫描器的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在推送保护调优上。今天的站会上，我提到高危文件评审路由和接下来的安排。白板练习：Maria给出：\"密码管理器皈依记。\"我补充：\"一句主口诀\"然后Maria总结：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "anomaly threat detection",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "He documents three hallucinations in the description, per the checklist. Priya checks in with, \"Old sticky notes, shredded.\" so I explain, \"Two factor everywhere, finally.\" without rushing. Priya suggests a simpler way to handle the dependency risk scorer, and I write it down. I summarize what we decided about the phishing simulation insight while the details are still fresh. The guide now includes a section on the auto update trust levels, with examples and pitfalls. In today's standup, I give a quick update on the security label automation and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "He documents three hallucinations in the description, per the checklist. Priya checks in with, \"Old sticky notes, shredded.\" so I explain, \"Two factor everywhere, finally.\" without rushing. Priya suggests a simpler way to handle the dependency risk scorer, and I write it down. I summarize what we decided about the phishing simulation insight while the details are still fresh. The guide now includes a section on the auto update trust levels, with examples and pitfalls. In today's standup, I give a quick update on the security label automation and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "He documents three hallucinations in the description, per the checklist. Drill without notes: Maria asks, \"Old sticky notes, shredded.\" I answer, \"Two factor everywhere, finally.\" and Maria closes, \"Exactly, and it saves time too.\" I compare my notes about the dependency risk scorer with Priya's. At the review, we spend ten minutes on the phishing simulation insight. In today's standup, I mention the auto update trust levels and what comes next. We agree to give the security label automation one more careful look this week. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "He documents three hallucinations in the description, per the checklist. Drill without notes: Maria asks, \"Old sticky notes, shredded.\" I answer, \"Two factor everywhere, finally.\" and Maria closes, \"Exactly, and it saves time too.\" I compare my notes about the dependency risk scorer with Priya's. At the review, we spend ten minutes on the phishing simulation insight. In today's standup, I mention the auto update trust levels and what comes next. We agree to give the security label automation one more careful look this week. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "按照检查单，他在描述里记录了三次幻觉。Priya关心地问：\"旧便利贴\"于是我不慌不忙地解释：\"两步验证终于全覆盖。\"Priya 提出了一个更简单的依赖风险评分处理办法，我把它记了下来。趁细节还新鲜，我总结了关于钓鱼演练洞察的决定。指南里现在有关于自动更新信任分级的章节，附有示例和坑点。在今天的站会上，我快速汇报了安全标签自动化的进展和卡住我的地方。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "按照检查单，他在描述里记录了三次幻觉。脱稿演练：Maria问：\"旧便利贴\"我回答：\"两步验证终于全覆盖。\"Maria收束：\"正是，而且还省时间。\"我把关于依赖风险评分的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在钓鱼演练洞察上。今天的站会上，我提到自动更新信任分级和接下来的安排。我们说好这周再把安全标签自动化仔细看一次。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "dependency risk scorer",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the drill scheduler needs one more careful look before we commit. I link the compliance evidence collector to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the vulnerability explanation assist, and I write it down. I summarize what we decided about the patch prioritization engine while the details are still fresh. Over coffee, Maria mentions, \"Family sharing setup.\" and I add, \"Password anxiety, cured.\" with an example. His skepticism is now a feature of the process.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the drill scheduler needs one more careful look before we commit. I link the compliance evidence collector to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the vulnerability explanation assist, and I write it down. I summarize what we decided about the patch prioritization engine while the details are still fresh. Over coffee, Maria mentions, \"Family sharing setup.\" and I add, \"Password anxiety, cured.\" with an example. His skepticism is now a feature of the process.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the drill scheduler. The guide now has a short section on the compliance evidence collector. I compare my notes about the vulnerability explanation assist with Priya's. At the review, we spend ten minutes on the patch prioritization engine. Meeting rehearsal: Leo opens, \"Family sharing setup.\" I respond, \"Password anxiety, cured.\" and Leo confirms, \"Keep practising, it is working.\" His skepticism is now a feature of the process.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the drill scheduler. The guide now has a short section on the compliance evidence collector. I compare my notes about the vulnerability explanation assist with Priya's. At the review, we spend ten minutes on the patch prioritization engine. Meeting rehearsal: Leo opens, \"Family sharing setup.\" I respond, \"Password anxiety, cured.\" and Leo confirms, \"Keep practising, it is working.\" His skepticism is now a feature of the process.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们一致认为，在动手之前安全演练排期器还需要再仔细看一次。我把合规证据收集器关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的漏洞解释辅助处理办法，我把它记了下来。趁细节还新鲜，我总结了关于补丁优先级引擎的决定。喝咖啡时，Maria提到：\"家庭共享设置。\"我补充了\"密码焦虑\"，还带了个例子。他的怀疑现在成了流程的一部分。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把安全演练排期器写了下来。指南里现在有关于合规证据收集器的简短章节。我把关于漏洞解释辅助的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在补丁优先级引擎上。会议彩排：Leo开场：\"家庭共享设置。\"我回应：\"密码焦虑\"Leo确认道：\"继续练，有效果了。\"他的怀疑现在成了流程的一部分。",
    "hard": [
     {
      "w": "vulnerability explanation assist",

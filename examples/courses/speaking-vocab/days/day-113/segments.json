@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 283,
+   "word_count": 285,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We invite imaginary crowds to a Friday load test. A teammate stopped me to say thanks for explaining the availability number so clearly. I keep a growing list of the planned maintenance on my desk for later. My notes about the release readiness are getting sharper every single week. I asked Leo how he handles the sign-off checklist when the week gets heavy. Leo stops by my desk, asks, \"I take stairs to floor three.\" and I answer, \"Elevator small talk is an art.\" The task moves forward, and so does my confidence.",
-   "tts": "We invite imaginary crowds to a Friday load test. A teammate stopped me to say thanks for explaining the availability number so clearly. I keep a growing list of the planned maintenance on my desk for later. My notes about the release readiness are getting sharper every single week. I asked Leo how he handles the sign-off checklist when the week gets heavy. Leo stops by my desk, asks, \"I take stairs to floor three.\" and I answer, \"Elevator small talk is an art.\" The task moves forward, and so does my confidence.",
+   "en": "We invite imaginary crowds to a Friday load test. I go over the availability number one more time before lunch. There is a short paragraph about the planned maintenance in the guide. I ask one good question about the release readiness in the meeting. My notes about the sign-off checklist look clearer this week. We drill it twice: Leo starts, \"I take stairs to floor three.\" I reply, \"Elevator small talk is an art.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "We invite imaginary crowds to a Friday load test. I go over the availability number one more time before lunch. There is a short paragraph about the planned maintenance in the guide. I ask one good question about the release readiness in the meeting. My notes about the sign-off checklist look clearer this week. We drill it twice: Leo starts, \"I take stairs to floor three.\" I reply, \"Elevator small talk is an art.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "周五的负载测试请来了想象中的人山人海。一位队友拦住我，感谢我把可用性数字解释得这么清楚。我把一份越来越长的计划维护清单放在桌上，留着以后用。我关于发布就绪的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理签字清单的。Leo走到我桌边问：\"到三楼我走楼梯。\"我回答：\"电梯寒暄是门艺术。\"任务在推进，我的信心也在成长。",
+   "zh": "周五的负载测试请来了想象中的人山人海。午饭前我又过了一遍可用性数字。指南里有一小段关于计划维护的介绍。会上关于发布就绪，我问了一个好问题。这周我关于签字清单的笔记清楚多了。我们练了两遍：Leo起头：\"到三楼我走楼梯。\"我回答：\"电梯寒暄是门艺术。\"然后Leo笑着说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "availability number",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Ramp up slowly, watch the latency target, and stop before the neighbors complain. Maria greets me warmly with, \"Stairwell workouts count.\" and I answer, \"The slow elevator lesson.\" My notes about the degradation notice are getting sharper every single week. I asked Leo how he handles the regional failover when the week gets heavy. The go/no-go criteria shows up in our sprint notes more often than before. I double-check the launch commander before I reply, because a wrong answer costs double. I end the day with fewer unknowns than I started with.",
-   "tts": "Ramp up slowly, watch the latency target, and stop before the neighbors complain. Maria greets me warmly with, \"Stairwell workouts count.\" and I answer, \"The slow elevator lesson.\" My notes about the degradation notice are getting sharper every single week. I asked Leo how he handles the regional failover when the week gets heavy. The go/no-go criteria shows up in our sprint notes more often than before. I double-check the launch commander before I reply, because a wrong answer costs double. I end the day with fewer unknowns than I started with.",
+   "en": "Ramp up slowly, watch the latency target, and stop before the neighbors complain. Role play with feedback: Leo says, \"Stairwell workouts count.\" I try, \"The slow elevator lesson.\" and Leo adds, \"Nice, keep that one handy.\" There is a short paragraph about the degradation notice in the guide. I ask one good question about the regional failover in the meeting. My notes about the go/no-go criteria look clearer this week. I spend ten quiet minutes on the launch commander after the standup. I end the day with fewer unknowns than I started with.",
+   "tts": "Ramp up slowly, watch the latency target, and stop before the neighbors complain. Role play with feedback: Leo says, \"Stairwell workouts count.\" I try, \"The slow elevator lesson.\" and Leo adds, \"Nice, keep that one handy.\" There is a short paragraph about the degradation notice in the guide. I ask one good question about the regional failover in the meeting. My notes about the go/no-go criteria look clearer this week. I spend ten quiet minutes on the launch commander after the standup. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "逐步加压，盯住延迟目标，在邻居投诉前收手。Maria热情地用\"爬楼梯也算锻炼。\"和我打招呼，我回答：\"慢电梯教你耐心。\"我关于降级公告的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理区域切换的。放行标准出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍发布指挥，因为答错要付出双倍代价。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "逐步加压，盯住延迟目标，在邻居投诉前收手。角色扮演加反馈：Leo说：\"爬楼梯也算锻炼。\"我试着说：\"慢电梯教你耐心。\"Leo补充道：\"不错，把这句记在手边。\"指南里有一小段关于降级公告的介绍。会上关于区域切换，我问了一个好问题。这周我关于放行标准的笔记清楚多了。站会之后，我安安静静花了十分钟在发布指挥上。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "degradation notice",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. A teammate stopped me to say thanks for explaining the comms owner so clearly. I keep a growing list of the rollback owner on my desk for later. My notes about the balancer health check are getting sharper every single week. I asked Leo how he handles the duplicate detection when the week gets heavy. Leo stops by my desk, asks, \"Mirror checks in the lift.\" and I answer, \"The ground floor smells like coffee.\" The capacity report is a promise with numbers in it.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. A teammate stopped me to say thanks for explaining the comms owner so clearly. I keep a growing list of the rollback owner on my desk for later. My notes about the balancer health check are getting sharper every single week. I asked Leo how he handles the duplicate detection when the week gets heavy. Leo stops by my desk, asks, \"Mirror checks in the lift.\" and I answer, \"The ground floor smells like coffee.\" The capacity report is a promise with numbers in it.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the comms owner to my study notes before I forget it. I go over the rollback owner one more time before lunch. There is a short paragraph about the balancer health check in the guide. I ask one good question about the duplicate detection in the meeting. We practise the dialogue: Priya opens, \"Mirror checks in the lift.\" I answer, \"The ground floor smells like coffee.\" and Priya nods, \"Good — try it in today’s task.\" The capacity report is a promise with numbers in it.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the comms owner to my study notes before I forget it. I go over the rollback owner one more time before lunch. There is a short paragraph about the balancer health check in the guide. I ask one good question about the duplicate detection in the meeting. We practise the dialogue: Priya opens, \"Mirror checks in the lift.\" I answer, \"The ground floor smells like coffee.\" and Priya nods, \"Good — try it in today’s task.\" The capacity report is a promise with numbers in it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。一位队友拦住我，感谢我把沟通负责人解释得这么清楚。我把一份越来越长的回滚负责人清单放在桌上，留着以后用。我关于均衡健康检查的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理重复检测的。Leo走到我桌边问：\"电梯里整理衣领。\"我回答：\"一楼有咖啡香。\"容量报告是一份写着数字的承诺。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把沟通负责人记进了学习笔记。午饭前我又过了一遍回滚负责人。指南里有一小段关于均衡健康检查的介绍。会上关于重复检测，我问了一个好问题。我们练习这段对话：Priya开场：\"电梯里整理衣领。\"我回答：\"一楼有咖啡香。\"Priya点头说：\"好——今天的任务里就用上。\"容量报告是一份写着数字的承诺。",
    "hard": [
     {
      "w": "balancer health check",

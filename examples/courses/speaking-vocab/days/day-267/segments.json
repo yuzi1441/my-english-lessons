@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 341,
+   "word_count": 323,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I present security to the leadership in three sentences. I prepare a one-page brief about the security posture trend so meetings start from facts. The team sets a clear owner for the top risks movement, plus a deadline and review date. I compare two approaches to the quarterly security report, note the trade-offs, share both honestly. In review, I raise a careful question about the wins and gaps summary and its failure modes. When the design review starts each week, Priya asks, \"Day two hundred seventy, locks checked.\" and I answer, \"The quiet confidence of routines.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "I present security to the leadership in three sentences. I prepare a one-page brief about the security posture trend so meetings start from facts. The team sets a clear owner for the top risks movement, plus a deadline and review date. I compare two approaches to the quarterly security report, note the trade-offs, share both honestly. In review, I raise a careful question about the wins and gaps summary and its failure modes. When the design review starts each week, Priya asks, \"Day two hundred seventy, locks checked.\" and I answer, \"The quiet confidence of routines.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "I present security to the leadership in three sentences. I prepare a one-page brief about the security posture trend so meetings start from facts. The team names one clear owner for the top risks movement. I compare two views on the quarterly security report and write both down honestly. I add the wins and gaps summary to the meeting agenda with three supporting facts. Mock review: Priya probes, \"Day two hundred seventy, locks checked.\" I answer from memory, \"The quiet confidence of routines.\" and Priya confirms, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "I present security to the leadership in three sentences. I prepare a one-page brief about the security posture trend so meetings start from facts. The team names one clear owner for the top risks movement. I compare two views on the quarterly security report and write both down honestly. I add the wins and gaps summary to the meeting agenda with three supporting facts. Mock review: Priya probes, \"Day two hundred seventy, locks checked.\" I answer from memory, \"The quiet confidence of routines.\" and Priya confirms, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我用三句话向管理层汇报安全。我准备了一页关于安全态势趋势的简报，好让会议从事实出发。团队为重点风险位移表定了明确的负责人，加上截止和复审日期。我比较了处理季度安全报告的两种方式，记下取舍，诚实分享。评审中，我就成绩与缺口摘要及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"第二百七十天\"我带着数字回答：\"日常带来的安心。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我用三句话向管理层汇报安全。我准备了一页关于安全态势趋势的简报，好让会议从事实出发。团队为重点风险位移表指定了明确的负责人。我比较了关于季度安全报告的两种观点，诚实地都记了下来。我把成绩与缺口摘要连同三条支撑事实加进了议程。模拟评审：Priya追问：\"第二百七十天\"我凭记忆回答：\"日常带来的安心。\"Priya确认：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "security posture trend",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "What we protect, what scares us, what we need — one page, no jargon. Leo opens the talk with, \"We fixed the fence before the storm.\" and I follow up with, \"Sleep comes easier prepared.\" and a proposal. I compare two approaches to the control effectiveness review, note the trade-offs, share both honestly. In review, I raise a careful question about the incident frequency analysis and its failure modes. Our mentor walks me through the risk heatmap refresh's history, including two painful lessons. We weigh the cost of changing the audit findings closed list against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "What we protect, what scares us, what we need — one page, no jargon. Leo opens the talk with, \"We fixed the fence before the storm.\" and I follow up with, \"Sleep comes easier prepared.\" and a proposal. I compare two approaches to the control effectiveness review, note the trade-offs, share both honestly. In review, I raise a careful question about the incident frequency analysis and its failure modes. Our mentor walks me through the risk heatmap refresh's history, including two painful lessons. We weigh the cost of changing the audit findings closed list against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "What we protect, what scares us, what we need — one page, no jargon. Review warm-up: Priya raises, \"We fixed the fence before the storm.\" I answer, \"Sleep comes easier prepared.\" and Priya grades it, \"Strong answer — keep that precision.\" The team names one clear owner for the control effectiveness review. I compare two views on the incident frequency analysis and write both down honestly. I add the risk heatmap refresh to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the audit findings closed list. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "What we protect, what scares us, what we need — one page, no jargon. Review warm-up: Priya raises, \"We fixed the fence before the storm.\" I answer, \"Sleep comes easier prepared.\" and Priya grades it, \"Strong answer — keep that precision.\" The team names one clear owner for the control effectiveness review. I compare two views on the incident frequency analysis and write both down honestly. I add the risk heatmap refresh to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the audit findings closed list. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们护什么、怕什么、缺什么——一页纸，零术语。Leo以\"暴风雨前修好了篱笆。\"开启话题，我接着说了\"有准备的人睡得香。\"还附了个提案。我比较了处理控制有效性回顾的两种方式，记下取舍，诚实分享。评审中，我就事件频率分析及其失效模式提出了一个审慎的问题。导师带我梳理了风险热力图刷新的历史，包括两次惨痛的教训。我们权衡了改动审计发现关闭清单的代价与放着不管的风险。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们护什么、怕什么、缺什么——一页纸，零术语。评审热身：Priya抛出：\"暴风雨前修好了篱笆。\"我带着数字回答：\"有准备的人睡得香。\"Priya点评道：\"回答有力——保持这种精确。\"团队为控制有效性回顾指定了明确的负责人。我比较了关于事件频率分析的两种观点，诚实地都记了下来。我把风险热力图刷新连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了审计发现关闭清单上。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "control effectiveness review",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the team drill scores so meetings start from facts. The team sets a clear owner for the next year security roadmap, plus a deadline and review date. I compare two approaches to the budget ask with evidence, note the trade-offs, share both honestly. In review, I raise a careful question about the next quarter security bets and its failure modes. When the design review starts each week, Priya asks, \"Gratitude for the boring months.\" and I answer, \"Next season, same vigilance.\" with numbers. An untrusted map beats none.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the team drill scores so meetings start from facts. The team sets a clear owner for the next year security roadmap, plus a deadline and review date. I compare two approaches to the budget ask with evidence, note the trade-offs, share both honestly. In review, I raise a careful question about the next quarter security bets and its failure modes. When the design review starts each week, Priya asks, \"Gratitude for the boring months.\" and I answer, \"Next season, same vigilance.\" with numbers. An untrusted map beats none.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the team drill scores twice. I prepare a one-page brief about the next year security roadmap so meetings start from facts. The team names one clear owner for the budget ask with evidence. I compare two views on the next quarter security bets and write both down honestly. Practice debate: Maria argues, \"Gratitude for the boring months.\" I respond calmly, \"Next season, same vigilance.\" and Maria concedes, \"Agreed, note it in the ticket.\" An untrusted map beats none.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the team drill scores twice. I prepare a one-page brief about the next year security roadmap so meetings start from facts. The team names one clear owner for the budget ask with evidence. I compare two views on the next quarter security bets and write both down honestly. Practice debate: Maria argues, \"Gratitude for the boring months.\" I respond calmly, \"Next season, same vigilance.\" and Maria concedes, \"Agreed, note it in the ticket.\" An untrusted map beats none.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于团队演练成绩单的简报，好让会议从事实出发。团队为来年安全路线图定了明确的负责人，加上截止和复审日期。我比较了处理带证据的预算申请的两种方式，记下取舍，诚实分享。评审中，我就下季安全押注及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"感谢这些平静的月份。\"我带着数字回答：\"下一季\"没人信的地图不如没有。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于团队演练成绩单的笔记重读了两遍。我准备了一页关于来年安全路线图的简报，好让会议从事实出发。团队为带证据的预算申请指定了明确的负责人。我比较了关于下季安全押注的两种观点，诚实地都记了下来。练习辩论：Maria主张：\"感谢这些平静的月份。\"我平静地回应：\"下一季\"Maria承认道：\"同意，把这条记到工单里。\"没人信的地图不如没有。",
    "hard": [
     {
      "w": "budget ask with evidence",

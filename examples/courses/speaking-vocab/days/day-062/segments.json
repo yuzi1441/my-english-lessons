@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 281,
+   "word_count": 285,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The team triages the backlog and decides what goes in. I asked Leo how he handles the gauge when the week gets heavy. The counter shows up in our sprint notes more often than before. I double-check the release workflow before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the changelog generator so clearly. Leo stops by my desk, asks, \"I'd like to take Friday off.\" and I answer, \"I have some days to use up.\" The task moves forward, and so does my confidence.",
-   "tts": "The team triages the backlog and decides what goes in. I asked Leo how he handles the gauge when the week gets heavy. The counter shows up in our sprint notes more often than before. I double-check the release workflow before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the changelog generator so clearly. Leo stops by my desk, asks, \"I'd like to take Friday off.\" and I answer, \"I have some days to use up.\" The task moves forward, and so does my confidence.",
+   "en": "The team triages the backlog and decides what goes in. Sam asks me about the gauge, and I explain the basics. I keep one real example of the counter in my notebook. I add the release workflow to my study notes before I forget it. I go over the changelog generator one more time before lunch. Role play with feedback: Leo says, \"I'd like to take Friday off.\" I try, \"I have some days to use up.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "The team triages the backlog and decides what goes in. Sam asks me about the gauge, and I explain the basics. I keep one real example of the counter in my notebook. I add the release workflow to my study notes before I forget it. I go over the changelog generator one more time before lunch. Role play with feedback: Leo says, \"I'd like to take Friday off.\" I try, \"I have some days to use up.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "团队梳理需求清单，决定哪些内容上车。我问 Leo，当一周变得繁重时他是怎么处理仪表量的。计数器出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍发布工作流，因为答错要付出双倍代价。一位队友拦住我，感谢我把变更日志生成器解释得这么清楚。Leo走到我桌边问：\"我想周五请个假。\"我回答：\"我有一些假期要休掉。\"任务在推进，我的信心也在成长。",
+   "zh": "团队梳理需求清单，决定哪些内容上车。Sam 问起仪表量，我讲了讲基础。我在笔记本里留了一个计数器的真实例子。我趁还没忘，把发布工作流记进了学习笔记。午饭前我又过了一遍变更日志生成器。角色扮演加反馈：Leo说：\"我想周五请个假。\"我试着说：\"我有一些假期要休掉。\"Leo补充道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "gauge",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Priya defends a small fix; Leo gives up a nice-to-have without drama. Maria greets me warmly with, \"Who covers for me?\" and I answer, \"I'll hand over my tasks.\" I double-check the histogram before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the percentile so clearly. I keep a growing list of the version bump PR on my desk for later. My notes about the build from tag are getting sharper every single week. I end the day with fewer unknowns than I started with.",
-   "tts": "Priya defends a small fix; Leo gives up a nice-to-have without drama. Maria greets me warmly with, \"Who covers for me?\" and I answer, \"I'll hand over my tasks.\" I double-check the histogram before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the percentile so clearly. I keep a growing list of the version bump P R on my desk for later. My notes about the build from tag are getting sharper every single week. I end the day with fewer unknowns than I started with.",
+   "en": "Priya defends a small fix; Leo gives up a nice-to-have without drama. Warm-up round: Leo offers, \"Who covers for me?\" I answer, \"I'll hand over my tasks.\" and Leo wraps up, \"Nice, keep that one handy.\" I keep one real example of the histogram in my notebook. I add the percentile to my study notes before I forget it. I go over the version bump PR one more time before lunch. There is a short paragraph about the build from tag in the guide. I end the day with fewer unknowns than I started with.",
+   "tts": "Priya defends a small fix; Leo gives up a nice-to-have without drama. Warm-up round: Leo offers, \"Who covers for me?\" I answer, \"I'll hand over my tasks.\" and Leo wraps up, \"Nice, keep that one handy.\" I keep one real example of the histogram in my notebook. I add the percentile to my study notes before I forget it. I go over the version bump P R one more time before lunch. There is a short paragraph about the build from tag in the guide. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Priya 为一个小修复据理力争；Leo 毫不纠结地放弃了锦上添花的功能。Maria热情地用\"谁来替我？\"和我打招呼，我回答：\"我会交接好任务。\"回复之前我再核对一遍直方图，因为答错要付出双倍代价。一位队友拦住我，感谢我把百分位数解释得这么清楚。我把一份越来越长的版本升级 PR清单放在桌上，留着以后用。我关于按标签构建的笔记每周都变得更敏锐。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "Priya 为一个小修复据理力争；Leo 毫不纠结地放弃了锦上添花的功能。热身一轮：Leo给出：\"谁来替我？\"我回答：\"我会交接好任务。\"Leo收尾道：\"不错，把这句记在手边。\"我在笔记本里留了一个直方图的真实例子。我趁还没忘，把百分位数记进了学习笔记。午饭前我又过了一遍版本升级 PR。指南里有一小段关于按标签构建的介绍。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "histogram",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I asked Leo how he handles the signed artifact when the week gets heavy. The provenance shows up in our sprint notes more often than before. I double-check the alert rule before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the noise floor so clearly. Leo stops by my desk, asks, \"Rest well!\" and I answer, \"Being away feels strange.\" Saying no out loud is a skill I want to copy.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I asked Leo how he handles the signed artifact when the week gets heavy. The provenance shows up in our sprint notes more often than before. I double-check the alert rule before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the noise floor so clearly. Leo stops by my desk, asks, \"Rest well!\" and I answer, \"Being away feels strange.\" Saying no out loud is a skill I want to copy.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the signed artifact after the standup. Sam asks me about the provenance, and I explain the basics. I keep one real example of the alert rule in my notebook. I add the noise floor to my study notes before I forget it. We drill it twice: Priya starts, \"Rest well!\" I reply, \"Being away feels strange.\" then Priya smiles, \"Good — try it in today’s task.\" Saying no out loud is a skill I want to copy.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the signed artifact after the standup. Sam asks me about the provenance, and I explain the basics. I keep one real example of the alert rule in my notebook. I add the noise floor to my study notes before I forget it. We drill it twice: Priya starts, \"Rest well!\" I reply, \"Being away feels strange.\" then Priya smiles, \"Good — try it in today’s task.\" Saying no out loud is a skill I want to copy.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我问 Leo，当一周变得繁重时他是怎么处理签名产物的。来源证明出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍告警规则，因为答错要付出双倍代价。一位队友拦住我，感谢我把本底噪声解释得这么清楚。Leo走到我桌边问：\"好好休息！\"我回答：\"离开几天还真有点不习惯。\"把拒绝说出口，是我想学会的技能。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在签名产物上。Sam 问起来源证明，我讲了讲基础。我在笔记本里留了一个告警规则的真实例子。我趁还没忘，把本底噪声记进了学习笔记。我们练了两遍：Priya起头：\"好好休息！\"我回答：\"离开几天还真有点不习惯。\"然后Priya笑着说：\"好——今天的任务里就用上。\"把拒绝说出口，是我想学会的技能。",
    "hard": [
     {
      "w": "alert rule",

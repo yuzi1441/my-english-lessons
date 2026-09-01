@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 280,
+   "word_count": 284,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Thursdays, QA partner Dan and I test side by side. The consumer contract shows up in our sprint notes more often than before. I double-check the provider verification before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the time to first review so clearly. I keep a growing list of the review depth on my desk for later. During the afternoon break, Priya says, \"Basil on the balcony.\" I reply, \"Water in the morning.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Thursdays, Q A partner Dan and I test side by side. The consumer contract shows up in our sprint notes more often than before. I double-check the provider verification before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the time to first review so clearly. I keep a growing list of the review depth on my desk for later. During the afternoon break, Priya says, \"Basil on the balcony.\" I reply, \"Water in the morning.\" I end the day with fewer unknowns than I started with.",
+   "en": "Thursdays, QA partner Dan and I test side by side. I go over the consumer contract one more time before lunch. There is a short paragraph about the provider verification in the guide. I ask one good question about the time to first review in the meeting. My notes about the review depth look clearer this week. We drill it twice: Priya starts, \"Basil on the balcony.\" I reply, \"Water in the morning.\" then Priya smiles, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "Thursdays, Q A partner Dan and I test side by side. I go over the consumer contract one more time before lunch. There is a short paragraph about the provider verification in the guide. I ask one good question about the time to first review in the meeting. My notes about the review depth look clearer this week. We drill it twice: Priya starts, \"Basil on the balcony.\" I reply, \"Water in the morning.\" then Priya smiles, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "每周四，测试搭档 Dan 和我并肩测试。消费方契约出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍提供方验证，因为答错要付出双倍代价。一位队友拦住我，感谢我把首次评审时间解释得这么清楚。我把一份越来越长的评审深度清单放在桌上，留着以后用。下午休息时，Priya说：\"阳台上的罗勒。\"我回答：\"清晨浇水。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "每周四，测试搭档 Dan 和我并肩测试。午饭前我又过了一遍消费方契约。指南里有一小段关于提供方验证的介绍。会上关于首次评审时间，我问了一个好问题。这周我关于评审深度的笔记清楚多了。我们练了两遍：Priya起头：\"阳台上的罗勒。\"我回答：\"清晨浇水。\"然后Priya笑着说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "consumer contract",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "He breaks my feature in eight minutes; I buy him coffee and gratitude. Leo stops by my desk, asks, \"Too much love drowns herbs.\" and I answer, \"First tomato victory.\" A teammate stopped me to say thanks for explaining the contract file so clearly. I keep a growing list of the versioned contract on my desk for later. My notes about the comment quality are getting sharper every single week. I asked Leo how he handles the ping-pong size when the week gets heavy. Small progress today prepares the bigger step tomorrow.",
-   "tts": "He breaks my feature in eight minutes; I buy him coffee and gratitude. Leo stops by my desk, asks, \"Too much love drowns herbs.\" and I answer, \"First tomato victory.\" A teammate stopped me to say thanks for explaining the contract file so clearly. I keep a growing list of the versioned contract on my desk for later. My notes about the comment quality are getting sharper every single week. I asked Leo how he handles the ping-pong size when the week gets heavy. Small progress today prepares the bigger step tomorrow.",
+   "en": "He breaks my feature in eight minutes; I buy him coffee and gratitude. Role play with feedback: Priya says, \"Too much love drowns herbs.\" I try, \"First tomato victory.\" and Priya adds, \"Good — try it in today’s task.\" There is a short paragraph about the contract file in the guide. I ask one good question about the versioned contract in the meeting. My notes about the comment quality look clearer this week. I spend ten quiet minutes on the ping-pong size after the standup. Small progress today prepares the bigger step tomorrow.",
+   "tts": "He breaks my feature in eight minutes; I buy him coffee and gratitude. Role play with feedback: Priya says, \"Too much love drowns herbs.\" I try, \"First tomato victory.\" and Priya adds, \"Good — try it in today’s task.\" There is a short paragraph about the contract file in the guide. I ask one good question about the versioned contract in the meeting. My notes about the comment quality look clearer this week. I spend ten quiet minutes on the ping-pong size after the standup. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "他八分钟就弄坏了我写的功能；我请他喝咖啡并道谢。Leo走到我桌边问：\"爱太多会淹死香草。\"我回答：\"第一颗番茄的胜利。\"一位队友拦住我，感谢我把契约文件解释得这么清楚。我把一份越来越长的版本化契约清单放在桌上，留着以后用。我关于评论质量的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理乒乓大小的。今天的小进步为明天更大的跨越做准备。",
+   "zh": "他八分钟就弄坏了我写的功能；我请他喝咖啡并道谢。角色扮演加反馈：Priya说：\"爱太多会淹死香草。\"我试着说：\"第一颗番茄的胜利。\"Priya补充道：\"好——今天的任务里就用上。\"指南里有一小段关于契约文件的介绍。会上关于版本化契约，我问了一个好问题。这周我关于评论质量的笔记清楚多了。站会之后，我安安静静花了十分钟在乒乓大小上。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "contract file",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. The approval rate trend shows up in our sprint notes more often than before. I double-check the reviewer fatigue before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the contract test in ci so clearly. I keep a growing list of the breaking change alarm on my desk for later. During the afternoon break, Priya says, \"Bugs happen, share leaves.\" I reply, \"Homegrown tastes louder.\" Two keyboards find what one keyboard hides.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. The approval rate trend shows up in our sprint notes more often than before. I double-check the reviewer fatigue before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the contract test in ci so clearly. I keep a growing list of the breaking change alarm on my desk for later. During the afternoon break, Priya says, \"Bugs happen, share leaves.\" I reply, \"Homegrown tastes louder.\" Two keyboards find what one keyboard hides.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the approval rate trend to my study notes before I forget it. I go over the reviewer fatigue one more time before lunch. There is a short paragraph about the contract test in ci in the guide. I ask one good question about the breaking change alarm in the meeting. We practise the dialogue: Maria opens, \"Bugs happen, share leaves.\" I answer, \"Homegrown tastes louder.\" and Maria nods, \"That is the one we need today.\" Two keyboards find what one keyboard hides.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the approval rate trend to my study notes before I forget it. I go over the reviewer fatigue one more time before lunch. There is a short paragraph about the contract test in ci in the guide. I ask one good question about the breaking change alarm in the meeting. We practise the dialogue: Maria opens, \"Bugs happen, share leaves.\" I answer, \"Homegrown tastes louder.\" and Maria nods, \"That is the one we need today.\" Two keyboards find what one keyboard hides.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。批准率趋势出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍评审疲劳，因为答错要付出双倍代价。一位队友拦住我，感谢我把CI 契约测试解释得这么清楚。我把一份越来越长的破坏性变更警报清单放在桌上，留着以后用。下午休息时，Priya说：\"虫子也会来\"我回答：\"自己种的更响亮。\"两副键盘能找到一副键盘藏起来的问题。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把批准率趋势记进了学习笔记。午饭前我又过了一遍评审疲劳。指南里有一小段关于CI 契约测试的介绍。会上关于破坏性变更警报，我问了一个好问题。我们练习这段对话：Maria开场：\"虫子也会来\"我回答：\"自己种的更响亮。\"Maria点头说：\"今天要的就是这句。\"两副键盘能找到一副键盘藏起来的问题。",
    "hard": [
     {
      "w": "contract test in ci",

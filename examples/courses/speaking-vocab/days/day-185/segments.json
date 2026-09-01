@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 315,
+   "word_count": 297,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "An AI generated chart looks flawless in the review deck. The guide now includes a section on the meeting transcription, with examples and pitfalls. In today's standup, I give a quick update on the action item extraction and what blocked me. We agree that the auto triage draft needs one more careful look before we commit. I link the duplicate detection assist to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"The too perfect photo.\" and I respond, \"Six fingers, the classic tell.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "An A I generated chart looks flawless in the review deck. The guide now includes a section on the meeting transcription, with examples and pitfalls. In today's standup, I give a quick update on the action item extraction and what blocked me. We agree that the auto triage draft needs one more careful look before we commit. I link the duplicate detection assist to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"The too perfect photo.\" and I respond, \"Six fingers, the classic tell.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "An AI generated chart looks flawless in the review deck. We agree to give the meeting transcription one more careful look this week. I connect the action item extraction to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the auto triage draft. While the details are fresh, I write down the duplicate detection assist. Whiteboard practice: Leo offers, \"The too perfect photo.\" I add, \"Six fingers, the classic tell.\" then Leo sums up, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "An A I generated chart looks flawless in the review deck. We agree to give the meeting transcription one more careful look this week. I connect the action item extraction to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the auto triage draft. While the details are fresh, I write down the duplicate detection assist. Whiteboard practice: Leo offers, \"The too perfect photo.\" I add, \"Six fingers, the classic tell.\" then Leo sums up, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一张 AI 生成的图表在评审稿里完美无瑕。指南里现在有关于会议转写的章节，附有示例和坑点。在今天的站会上，我快速汇报了行动项提取的进展和卡住我的地方。我们一致认为，在动手之前自动分诊草稿还需要再仔细看一次。我把重复检测辅助关联到工单上，这样重要的事情不会再被遗漏。晨会上，Leo说：\"完美得可疑的照片。\"我回应：\"六根手指\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "一张 AI 生成的图表在评审稿里完美无瑕。我们说好这周再把会议转写仔细看一次。我把行动项提取关联到工单上，免得遗漏。Priya 提出了一个更清晰的自动分诊草稿思考方式。趁细节还新鲜，我把重复检测辅助写了下来。白板练习：Leo给出：\"完美得可疑的照片。\"我补充：\"六根手指\"然后Leo总结：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "meeting transcription",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The axis labels are gibberish; nobody had looked below the headline. Over coffee, Maria mentions, \"Reverse image search habit.\" and I add, \"The emotional headline pause.\" with an example. We agree that the summary etiquette needs one more careful look before we commit. I link the speaker attribution errors to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the severity suggestion review, and I write it down. I summarize what we decided about the label suggestion acceptance while the details are still fresh. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "The axis labels are gibberish; nobody had looked below the headline. Over coffee, Maria mentions, \"Reverse image search habit.\" and I add, \"The emotional headline pause.\" with an example. We agree that the summary etiquette needs one more careful look before we commit. I link the speaker attribution errors to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the severity suggestion review, and I write it down. I summarize what we decided about the label suggestion acceptance while the details are still fresh. I close the ticket with a clear result and one lesson for next time.",
+   "en": "The axis labels are gibberish; nobody had looked below the headline. Drill without notes: Leo asks, \"Reverse image search habit.\" I answer, \"The emotional headline pause.\" and Leo closes, \"Keep practising, it is working.\" I connect the summary etiquette to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the speaker attribution errors. While the details are fresh, I write down the severity suggestion review. The guide now has a short section on the label suggestion acceptance. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The axis labels are gibberish; nobody had looked below the headline. Drill without notes: Leo asks, \"Reverse image search habit.\" I answer, \"The emotional headline pause.\" and Leo closes, \"Keep practising, it is working.\" I connect the summary etiquette to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the speaker attribution errors. While the details are fresh, I write down the severity suggestion review. The guide now has a short section on the label suggestion acceptance. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "坐标轴标签是乱码；没人看过标题以下的部分。喝咖啡时，Maria提到：\"反向搜图的习惯。\"我补充了\"情绪化标题先停一秒。\"，还带了个例子。我们一致认为，在动手之前摘要礼仪还需要再仔细看一次。我把说话人标注错误关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的严重级别建议复核处理办法，我把它记了下来。趁细节还新鲜，我总结了关于标签建议采纳率的决定。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "坐标轴标签是乱码；没人看过标题以下的部分。脱稿演练：Leo问：\"反向搜图的习惯。\"我回答：\"情绪化标题先停一秒。\"Leo收束：\"继续练，有效果了。\"我把摘要礼仪关联到工单上，免得遗漏。Priya 提出了一个更清晰的说话人标注错误思考方式。趁细节还新鲜，我把严重级别建议复核写了下来。指南里现在有关于标签建议采纳率的简短章节。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "summary etiquette",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now includes a section on the escalation false positives, with examples and pitfalls. In today's standup, I give a quick update on the triage bot fallback and what blocked me. We agree that the sensitive meeting opt out needs one more careful look before we commit. I link the searchable meeting archive to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"Share slower than bots.\" and I respond, \"Media literacy at dinner.\" We add one rule: AI drafts, humans fact-check the confident parts.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now includes a section on the escalation false positives, with examples and pitfalls. In today's standup, I give a quick update on the triage bot fallback and what blocked me. We agree that the sensitive meeting opt out needs one more careful look before we commit. I link the searchable meeting archive to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"Share slower than bots.\" and I respond, \"Media literacy at dinner.\" We add one rule: A I drafts, humans fact-check the confident parts.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the escalation false positives and what comes next. We agree to give the triage bot fallback one more careful look this week. I connect the sensitive meeting opt out to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the searchable meeting archive. Meeting rehearsal: Priya opens, \"Share slower than bots.\" I respond, \"Media literacy at dinner.\" and Priya confirms, \"Good point — use it in the standup.\" We add one rule: AI drafts, humans fact-check the confident parts.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the escalation false positives and what comes next. We agree to give the triage bot fallback one more careful look this week. I connect the sensitive meeting opt out to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the searchable meeting archive. Meeting rehearsal: Priya opens, \"Share slower than bots.\" I respond, \"Media literacy at dinner.\" and Priya confirms, \"Good point — use it in the standup.\" We add one rule: A I drafts, humans fact-check the confident parts.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于升级误报治理的章节，附有示例和坑点。在今天的站会上，我快速汇报了分诊机器人兜底的进展和卡住我的地方。我们一致认为，在动手之前敏感会议退出机制还需要再仔细看一次。我把可检索会议存档关联到工单上，这样重要的事情不会再被遗漏。晨会上，Leo说：\"比机器人慢一点转发。\"我回应：\"饭桌上的媒介素养。\"我们加了一条规则：AI 起草，人来核实那些自信的部分。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到升级误报治理和接下来的安排。我们说好这周再把分诊机器人兜底仔细看一次。我把敏感会议退出机制关联到工单上，免得遗漏。Priya 提出了一个更清晰的可检索会议存档思考方式。会议彩排：Priya开场：\"比机器人慢一点转发。\"我回应：\"饭桌上的媒介素养。\"Priya确认道：\"说得好——站会上就用它。\"我们加了一条规则：AI 起草，人来核实那些自信的部分。",
    "hard": [
     {
      "w": "sensitive meeting opt out",

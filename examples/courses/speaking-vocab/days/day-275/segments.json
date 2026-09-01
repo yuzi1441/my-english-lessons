@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 324,
+   "word_count": 317,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Naming night: forty candidates, three finalists, zero agreement. I compare two approaches to the pricing page psychology, note the trade-offs, share both honestly. In review, I raise a careful question about the three tier pricing and its failure modes. Our mentor walks me through the payment webhook reliability's history, including two painful lessons. We weigh the cost of changing the idempotent charge handling against leaving it alone. Leo opens the talk with, \"Priced too high, no calls.\" and I follow up with, \"The anchor was the shop price.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Naming night: forty candidates, three finalists, zero agreement. I compare two approaches to the pricing page psychology, note the trade-offs, share both honestly. In review, I raise a careful question about the three tier pricing and its failure modes. Our mentor walks me through the payment webhook reliability's history, including two painful lessons. We weigh the cost of changing the idempotent charge handling against leaving it alone. Leo opens the talk with, \"Priced too high, no calls.\" and I follow up with, \"The anchor was the shop price.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Naming night: forty candidates, three finalists, zero agreement. I prepare a one-page brief about the pricing page psychology so meetings start from facts. The team names one clear owner for the three tier pricing. I compare two views on the payment webhook reliability and write both down honestly. I add the idempotent charge handling to the meeting agenda with three supporting facts. Mock review: Leo probes, \"Priced too high, no calls.\" I answer from memory, \"The anchor was the shop price.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Naming night: forty candidates, three finalists, zero agreement. I prepare a one-page brief about the pricing page psychology so meetings start from facts. The team names one clear owner for the three tier pricing. I compare two views on the payment webhook reliability and write both down honestly. I add the idempotent charge handling to the meeting agenda with three supporting facts. Mock review: Leo probes, \"Priced too high, no calls.\" I answer from memory, \"The anchor was the shop price.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "起名之夜：四十个候选，三个入围，零票通过。我比较了处理定价页心理学的两种方式，记下取舍，诚实分享。评审中，我就三档定价及其失效模式提出了一个审慎的问题。导师带我梳理了支付回调可靠性的历史，包括两次惨痛的教训。我们权衡了改动幂等扣款处理的代价与放着不管的风险。Leo以\"标价太高没人问。\"开启话题，我接着说了\"锚点是商店原价。\"还附了个提案。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "起名之夜：四十个候选，三个入围，零票通过。我准备了一页关于定价页心理学的简报，好让会议从事实出发。团队为三档定价指定了明确的负责人。我比较了关于支付回调可靠性的两种观点，诚实地都记了下来。我把幂等扣款处理连同三条支撑事实加进了议程。模拟评审：Leo追问：\"标价太高没人问。\"我凭记忆回答：\"锚点是商店原价。\"Leo确认：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "pricing page psychology",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We test finalists by saying them over the phone, badly. Maria raises, \"Bundling sold the old lamps.\" and I respond calmly, \"Free delivery closed the deal.\" because panic never helped anyone. Our mentor walks me through the payment provider setup's history, including two painful lessons. We weigh the cost of changing the trial to paid conversion against leaving it alone. I prepare a one-page brief about the pricing config as data so meetings start from facts. The team sets a clear owner for the test payment sandbox flow, plus a deadline and review date. We end the week with something shipped and something properly learned this time.",
-   "tts": "We test finalists by saying them over the phone, badly. Maria raises, \"Bundling sold the old lamps.\" and I respond calmly, \"Free delivery closed the deal.\" because panic never helped anyone. Our mentor walks me through the payment provider setup's history, including two painful lessons. We weigh the cost of changing the trial to paid conversion against leaving it alone. I prepare a one-page brief about the pricing config as data so meetings start from facts. The team sets a clear owner for the test payment sandbox flow, plus a deadline and review date. We end the week with something shipped and something properly learned this time.",
+   "en": "We test finalists by saying them over the phone, badly. Review warm-up: Leo raises, \"Bundling sold the old lamps.\" I answer, \"Free delivery closed the deal.\" and Leo grades it, \"That is the level we need.\" The team names one clear owner for the payment provider setup. I compare two views on the trial to paid conversion and write both down honestly. I add the pricing config as data to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the test payment sandbox flow. We end the week with something shipped and something properly learned this time.",
+   "tts": "We test finalists by saying them over the phone, badly. Review warm-up: Leo raises, \"Bundling sold the old lamps.\" I answer, \"Free delivery closed the deal.\" and Leo grades it, \"That is the level we need.\" The team names one clear owner for the payment provider setup. I compare two views on the trial to paid conversion and write both down honestly. I add the pricing config as data to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the test payment sandbox flow. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们用电话里含糊念出来的方式测试入围名。Maria提出：\"捆绑卖掉了旧台灯。\"我从容地回应：\"包邮促成了成交。\"因为慌张从来没用。导师带我梳理了支付服务接入的历史，包括两次惨痛的教训。我们权衡了改动试用转付费的代价与放着不管的风险。我准备了一页关于定价配置数据化的简报，好让会议从事实出发。团队为测试支付沙箱流程定了明确的负责人，加上截止和复审日期。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们用电话里含糊念出来的方式测试入围名。评审热身：Leo抛出：\"捆绑卖掉了旧台灯。\"我带着数字回答：\"包邮促成了成交。\"Leo点评道：\"我们要的就是这个水平。\"团队为支付服务接入指定了明确的负责人。我比较了关于试用转付费的两种观点，诚实地都记了下来。我把定价配置数据化连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了测试支付沙箱流程上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "payment provider setup",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two approaches to the failed payment recovery note, note the trade-offs, share both honestly. In review, I raise a careful question about the revenue dashboard wiring and its failure modes. Our mentor walks me through the invoice and tax basics's history, including two painful lessons. We weigh the cost of changing the refund policy clarity against leaving it alone. Leo opens the talk with, \"Haggle with a smile, always.\" and I follow up with, \"The quick sale beat the perfect price.\" and a proposal. The winner survives a mumbled coffee order.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two approaches to the failed payment recovery note, note the trade-offs, share both honestly. In review, I raise a careful question about the revenue dashboard wiring and its failure modes. Our mentor walks me through the invoice and tax basics's history, including two painful lessons. We weigh the cost of changing the refund policy clarity against leaving it alone. Leo opens the talk with, \"Haggle with a smile, always.\" and I follow up with, \"The quick sale beat the perfect price.\" and a proposal. The winner survives a mumbled coffee order.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the failed payment recovery note twice. I prepare a one-page brief about the revenue dashboard wiring so meetings start from facts. The team names one clear owner for the invoice and tax basics. I compare two views on the refund policy clarity and write both down honestly. Practice debate: Priya argues, \"Haggle with a smile, always.\" I respond calmly, \"The quick sale beat the perfect price.\" and Priya concedes, \"Strong answer — keep that precision.\" The winner survives a mumbled coffee order.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the failed payment recovery note twice. I prepare a one-page brief about the revenue dashboard wiring so meetings start from facts. The team names one clear owner for the invoice and tax basics. I compare two views on the refund policy clarity and write both down honestly. Practice debate: Priya argues, \"Haggle with a smile, always.\" I respond calmly, \"The quick sale beat the perfect price.\" and Priya concedes, \"Strong answer — keep that precision.\" The winner survives a mumbled coffee order.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了处理支付失败恢复说明的两种方式，记下取舍，诚实分享。评审中，我就收入看板接线及其失效模式提出了一个审慎的问题。导师带我梳理了发票与税务基础的历史，包括两次惨痛的教训。我们权衡了改动退款政策清晰度的代价与放着不管的风险。Leo以\"讨价还价保持微笑。\"开启话题，我接着说了\"快卖胜过卖到完美价。\"还附了个提案。获胜的名字在嘈杂的咖啡订单中幸存。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于支付失败恢复说明的笔记重读了两遍。我准备了一页关于收入看板接线的简报，好让会议从事实出发。团队为发票与税务基础指定了明确的负责人。我比较了关于退款政策清晰度的两种观点，诚实地都记了下来。练习辩论：Priya主张：\"讨价还价保持微笑。\"我平静地回应：\"快卖胜过卖到完美价。\"Priya承认道：\"回答有力——保持这种精确。\"获胜的名字在嘈杂的咖啡订单中幸存。",
    "hard": [
     {
      "w": "invoice and tax basics",

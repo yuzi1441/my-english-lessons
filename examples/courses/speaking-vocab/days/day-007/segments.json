@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 164,
+   "word_count": 161,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Leo invites me to coffee on Friday. I say yes. I hear, \"That sounds great.\" then I answer, \"Maybe another time.\" I try to install software. Maria asks me to uninstall a program. I point to the PR description. I request a review. I feel good today.",
-   "tts": "Leo invites me to coffee on Friday. I say yes. I hear, \"That sounds great.\" then I answer, \"Maybe another time.\" I try to install software. Maria asks me to uninstall a program. I point to the P R description. I request a review. I feel good today.",
+   "en": "Leo invites me to coffee on Friday. I say yes. Maria smiles and says, \"That sounds great.\" I answer, \"Maybe another time.\" I install software. I uninstall a program slowly. I see the PR description. I try to request a review. I feel good today.",
+   "tts": "Leo invites me to coffee on Friday. I say yes. Maria smiles and says, \"That sounds great.\" I answer, \"Maybe another time.\" I install software. I uninstall a program slowly. I see the P R description. I try to request a review. I feel good today.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Leo 邀请我周五去喝咖啡。我答应了。我听到：\"听起来很不错。\"然后我回答：\"也许下次吧。\"我试着安装软件。Maria 让我卸载程序。我指着PR 描述。我请求评审。我今天感觉很好。",
+   "zh": "Leo 邀请我周五去喝咖啡。我答应了。Maria微笑着说：\"听起来很不错。\"我回答：\"也许下次吧。\"我安装软件。我慢慢卸载程序。我看到了PR 描述。我试着请求评审。我今天感觉很好。",
    "hard": [
     {
      "w": "install software",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I do one last thing. These are the draft changes. I see the merge request. The system settings are new to me. Maria asks me to restart the computer. Maria smiles and says, \"What time shall we meet?\" I answer, \"I'll let you know.\" My first pull request is open. This week, I learned a lot.",
-   "tts": "Before I leave, I do one last thing. These are the draft changes. I see the merge request. The system settings are new to me. Maria asks me to restart the computer. Maria smiles and says, \"What time shall we meet?\" I answer, \"I'll let you know.\" My first pull request is open. This week, I learned a lot.",
+   "en": "Before I leave, I do one last thing. I see the draft changes. The merge request is new to me. Maria shows me the system settings. I restart the computer with Maria. Leo says, \"What time shall we meet?\" and I say, \"I'll let you know.\" My first pull request is open. This week, I learned a lot.",
+   "tts": "Before I leave, I do one last thing. I see the draft changes. The merge request is new to me. Maria shows me the system settings. I restart the computer with Maria. Leo says, \"What time shall we meet?\" and I say, \"I'll let you know.\" My first pull request is open. This week, I learned a lot.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。这些是草稿改动。我看到了合并请求。系统设置对我来说很新。Maria 让我重新启动电脑。Maria微笑着说：\"我们几点见面？\"我回答：\"我会告诉你的。\"我的第一个拉取请求打开了。这一周，我学到了很多。",
+   "zh": "离开前，我做最后一件事。我看到了草稿改动。合并请求对我来说很新。Maria 给我看了系统设置。我和 Maria 一起重新启动电脑。Leo说：\"我们几点见面？\"我说：\"我会告诉你的。\"我的第一个拉取请求打开了。这一周，我学到了很多。",
    "hard": [
     {
      "w": "system settings",

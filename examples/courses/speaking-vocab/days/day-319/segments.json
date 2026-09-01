@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 334,
+   "word_count": 325,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Architecture rules become automated tests. We align on the log based message broker before the deadline so execution never has to guess. My report explains the partition and consumer group, the risks behind it, and the cost of waiting. I propose a measurable goal for the topic naming convention this quarter, with a number we can defend. We review the consumer lag alert thresholds against the requirements one final time, line by line, together. Before the launch, Maria says, \"The fridge board never lies twice.\" and I commit, \"Messages have timestamps.\" on behalf of the whole team. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "Architecture rules become automated tests. We align on the log based message broker before the deadline so execution never has to guess. My report explains the partition and consumer group, the risks behind it, and the cost of waiting. I propose a measurable goal for the topic naming convention this quarter, with a number we can defend. We review the consumer lag alert thresholds against the requirements one final time, line by line, together. Before the launch, Maria says, \"The fridge board never lies twice.\" and I commit, \"Messages have timestamps.\" on behalf of the whole team. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "Architecture rules become automated tests. I put the log based message broker on the record so the reasoning stays visible. I present the partition and consumer group with a timeline, the data, and one clear ask. We align on the topic naming convention early, so execution never has to guess. My report covers the consumer lag alert thresholds, the risks behind it, and the cost of waiting. Last rehearsal: Maria checks, \"The fridge board never lies twice.\" I commit word for word, \"Messages have timestamps.\" and Maria smiles, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Architecture rules become automated tests. I put the log based message broker on the record so the reasoning stays visible. I present the partition and consumer group with a timeline, the data, and one clear ask. We align on the topic naming convention early, so execution never has to guess. My report covers the consumer lag alert thresholds, the risks behind it, and the cost of waiting. Last rehearsal: Maria checks, \"The fridge board never lies twice.\" I commit word for word, \"Messages have timestamps.\" and Maria smiles, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "架构规则变成自动化测试。我们在截止日期前就日志型消息中间件达成共识，让执行永远不必靠猜。我的报告解释了分区与消费组、背后的风险，以及等待的代价。我为主题命名规范提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了消费延迟告警阈值，一起完成的。上线前，Maria说：\"冰箱贴从不说两次谎。\"我代表整个团队承诺：\"留言都带时间戳。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "架构规则变成自动化测试。我把日志型消息中间件记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报分区与消费组。我们尽早就主题命名规范对齐，让执行无需猜测。我的报告涵盖消费延迟告警阈值、背后的风险，以及等待的代价。最后一次彩排：Maria核对：\"冰箱贴从不说两次谎。\"我逐字承诺：\"留言都带时间戳。\"Maria笑道：\"说得好，这句留在材料里。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "log based message broker",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A dependency sneaks across a boundary; the fitness function barks. Priya summarises the meeting with, \"Urgent notes get magnets.\" and I confirm, \"Read receipts by initial.\" for the record. I propose a measurable goal for the message ordering guarantee this quarter, with a number we can defend. We review the delivery semantics choice against the requirements one final time, line by line, together. I close the loop on the schema registry discipline and share the outcome, including what surprised us. I present the replay drill for corrections to the team with data, a timeline, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "A dependency sneaks across a boundary; the fitness function barks. Priya summarises the meeting with, \"Urgent notes get magnets.\" and I confirm, \"Read receipts by initial.\" for the record. I propose a measurable goal for the message ordering guarantee this quarter, with a number we can defend. We review the delivery semantics choice against the requirements one final time, line by line, together. I close the loop on the schema registry discipline and share the outcome, including what surprised us. I present the replay drill for corrections to the team with data, a timeline, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "A dependency sneaks across a boundary; the fitness function barks. Launch rehearsal: Maria asks, \"Urgent notes get magnets.\" I present, \"Read receipts by initial.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" I present the message ordering guarantee with a timeline, the data, and one clear ask. We align on the delivery semantics choice early, so execution never has to guess. My report covers the schema registry discipline, the risks behind it, and the cost of waiting. I propose a measurable target for the replay drill for corrections this quarter. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "A dependency sneaks across a boundary; the fitness function barks. Launch rehearsal: Maria asks, \"Urgent notes get magnets.\" I present, \"Read receipts by initial.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" I present the message ordering guarantee with a timeline, the data, and one clear ask. We align on the delivery semantics choice early, so execution never has to guess. My report covers the schema registry discipline, the risks behind it, and the cost of waiting. I propose a measurable target for the replay drill for corrections this quarter. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一条依赖偷偷越界；适应度函数叫了起来。Priya用\"紧急便条上磁铁。\"为会议收尾，我郑重确认：\"看过的签上首字母。\"我为消息顺序保证提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了投递语义选择，一起完成的。我跟进完结构注册纪律并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了纠错回放演练。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "一条依赖偷偷越界；适应度函数叫了起来。上线彩排：Maria问：\"紧急便条上磁铁。\"我带着准备好的数字汇报：\"看过的签上首字母。\"Maria签字道：\"说得好，这句留在材料里。\"我用时间线、数据和一条明确的诉求来汇报消息顺序保证。我们尽早就投递语义选择对齐，让执行无需猜测。我的报告涵盖结构注册纪律、背后的风险，以及等待的代价。我为纠错回放演练提出了本季度一个可衡量的目标。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "message ordering guarantee",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the message size guardrail before the deadline so execution never has to guess. My report explains the poison message triage flow, the risks behind it, and the cost of waiting. I propose a measurable goal for the retention policy for topics this quarter, with a number we can defend. We review the backpressure aware consumers against the requirements one final time, line by line, together. Before the launch, Maria says, \"Old notes retire weekly.\" and I commit, \"One topic per note.\" on behalf of the whole team. The map now defends itself.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the message size guardrail before the deadline so execution never has to guess. My report explains the poison message triage flow, the risks behind it, and the cost of waiting. I propose a measurable goal for the retention policy for topics this quarter, with a number we can defend. We review the backpressure aware consumers against the requirements one final time, line by line, together. Before the launch, Maria says, \"Old notes retire weekly.\" and I commit, \"One topic per note.\" on behalf of the whole team. The map now defends itself.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the message size guardrail and what we learned from it. I put the poison message triage flow on the record so the reasoning stays visible. I present the retention policy for topics with a timeline, the data, and one clear ask. We align on the backpressure aware consumers early, so execution never has to guess. Board practice: Leo probes, \"Old notes retire weekly.\" I respond without a pause, \"One topic per note.\" and Leo nods, \"Confirmed. This is launch ready.\" The map now defends itself.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the message size guardrail and what we learned from it. I put the poison message triage flow on the record so the reasoning stays visible. I present the retention policy for topics with a timeline, the data, and one clear ask. We align on the backpressure aware consumers early, so execution never has to guess. Board practice: Leo probes, \"Old notes retire weekly.\" I respond without a pause, \"One topic per note.\" and Leo nods, \"Confirmed. This is launch ready.\" The map now defends itself.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们在截止日期前就消息体量护栏达成共识，让执行永远不必靠猜。我的报告解释了毒消息分诊流程、背后的风险，以及等待的代价。我为主题保留策略提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了背压感知消费者，一起完成的。上线前，Maria说：\"旧留言每周退役。\"我代表整个团队承诺：\"一张便条一件事。\"地图学会了自卫。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。最终的材料里有消息体量护栏，以及我们从中学到的东西。我把毒消息分诊流程记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报主题保留策略。我们尽早就背压感知消费者对齐，让执行无需猜测。董事会练习：Leo追问：\"旧留言每周退役。\"我毫不迟疑地回应：\"一张便条一件事。\"Leo点头道：\"确认无误，可以上线了。\"地图学会了自卫。",
    "hard": [
     {
      "w": "retention policy for topics",

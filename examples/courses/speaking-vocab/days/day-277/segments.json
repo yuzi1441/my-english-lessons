@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 323,
+   "word_count": 319,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Five waitlist users try the ugly draft. Our mentor walks me through the in app feedback widget's history, including two painful lessons. We weigh the cost of changing the nps survey basics against leaving it alone. I prepare a one-page brief about the feedback to roadmap flow so meetings start from facts. The team sets a clear owner for the vote weighted backlog, plus a deadline and review date. Maria raises, \"The group chat is a focus group.\" and I respond calmly, \"Complaints arrive with screenshots.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Five waitlist users try the ugly draft. Our mentor walks me through the in app feedback widget's history, including two painful lessons. We weigh the cost of changing the nps survey basics against leaving it alone. I prepare a one-page brief about the feedback to roadmap flow so meetings start from facts. The team sets a clear owner for the vote weighted backlog, plus a deadline and review date. Maria raises, \"The group chat is a focus group.\" and I respond calmly, \"Complaints arrive with screenshots.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Five waitlist users try the ugly draft. I compare two views on the in app feedback widget and write both down honestly. I add the nps survey basics to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the feedback to roadmap flow. During the design review, I raise one careful question about the vote weighted backlog. Dry run: Maria opens, \"The group chat is a focus group.\" I follow, \"Complaints arrive with screenshots.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Five waitlist users try the ugly draft. I compare two views on the in app feedback widget and write both down honestly. I add the nps survey basics to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the feedback to roadmap flow. During the design review, I raise one careful question about the vote weighted backlog. Dry run: Maria opens, \"The group chat is a focus group.\" I follow, \"Complaints arrive with screenshots.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "五位候补用户试用了丑陋的草稿版。导师带我梳理了应用内反馈组件的历史，包括两次惨痛的教训。我们权衡了改动NPS 调查基础的代价与放着不管的风险。我准备了一页关于反馈进路线图流程的简报，好让会议从事实出发。团队为投票加权需求池定了明确的负责人，加上截止和复审日期。Maria提出：\"团购群就是焦点小组。\"我从容地回应：\"投诉自带截图。\"因为慌张从来没用。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "五位候补用户试用了丑陋的草稿版。我比较了关于应用内反馈组件的两种观点，诚实地都记了下来。我把NPS 调查基础连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了反馈进路线图流程上。设计评审中，我就投票加权需求池提出了一个审慎的问题。干跑演练：Maria开场：\"团购群就是焦点小组。\"我接上：\"投诉自带截图。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "in app feedback widget",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "They click where I hoped and stumble where I prayed. When the design review starts each week, Priya asks, \"The organizer answers fast.\" and I answer, \"Refunds keep the peace.\" with numbers. I prepare a one-page brief about the user interview script so meetings start from facts. The team sets a clear owner for the support email SLA, plus a deadline and review date. I compare two approaches to the roadmap transparency page, note the trade-offs, share both honestly. In review, I raise a careful question about the changelog as conversation and its failure modes. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "They click where I hoped and stumble where I prayed. When the design review starts each week, Priya asks, \"The organizer answers fast.\" and I answer, \"Refunds keep the peace.\" with numbers. I prepare a one-page brief about the user interview script so meetings start from facts. The team sets a clear owner for the support email S L A, plus a deadline and review date. I compare two approaches to the roadmap transparency page, note the trade-offs, share both honestly. In review, I raise a careful question about the changelog as conversation and its failure modes. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "They click where I hoped and stumble where I prayed. Practice debate: Maria argues, \"The organizer answers fast.\" I respond calmly, \"Refunds keep the peace.\" and Maria concedes, \"Agreed, note it in the ticket.\" I add the user interview script to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the support email SLA. During the design review, I raise one careful question about the roadmap transparency page. Our mentor walks me through how the changelog as conversation evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "They click where I hoped and stumble where I prayed. Practice debate: Maria argues, \"The organizer answers fast.\" I respond calmly, \"Refunds keep the peace.\" and Maria concedes, \"Agreed, note it in the ticket.\" I add the user interview script to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the support email S L A. During the design review, I raise one careful question about the roadmap transparency page. Our mentor walks me through how the changelog as conversation evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "他们点了我期望的地方，也在我祈祷的地方绊倒。评审开始时，Priya问：\"组织者回复飞快。\"我带着数字回答：\"退款维护了和平。\"我准备了一页关于用户访谈提纲的简报，好让会议从事实出发。团队为支持邮件时限定了明确的负责人，加上截止和复审日期。我比较了处理路线图透明页的两种方式，记下取舍，诚实分享。评审中，我就更新日志当对话及其失效模式提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "他们点了我期望的地方，也在我祈祷的地方绊倒。练习辩论：Maria主张：\"组织者回复飞快。\"我平静地回应：\"退款维护了和平。\"Maria承认道：\"同意，把这条记到工单里。\"我把用户访谈提纲连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了支持邮件时限上。设计评审中，我就路线图透明页提出了一个审慎的问题。导师带我梳理了更新日志当对话在这个团队里的演变。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "user interview script",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through the closing the loop post's history, including two painful lessons. We weigh the cost of changing the angry user playbook against leaving it alone. I prepare a one-page brief about the churn exit interview so meetings start from facts. The team sets a clear owner for the community forum seeding, plus a deadline and review date. Maria raises, \"Regulars defend the group.\" and I respond calmly, \"Trust compounds in threads.\" because panic never helped anyone. Watching users is worth ten feature debates.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through the closing the loop post's history, including two painful lessons. We weigh the cost of changing the angry user playbook against leaving it alone. I prepare a one-page brief about the churn exit interview so meetings start from facts. The team sets a clear owner for the community forum seeding, plus a deadline and review date. Maria raises, \"Regulars defend the group.\" and I respond calmly, \"Trust compounds in threads.\" because panic never helped anyone. Watching users is worth ten feature debates.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the closing the loop post. I compare two views on the angry user playbook and write both down honestly. I add the churn exit interview to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the community forum seeding. Review warm-up: Leo raises, \"Regulars defend the group.\" I answer, \"Trust compounds in threads.\" and Leo grades it, \"That is the level we need.\" Watching users is worth ten feature debates.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the closing the loop post. I compare two views on the angry user playbook and write both down honestly. I add the churn exit interview to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the community forum seeding. Review warm-up: Leo raises, \"Regulars defend the group.\" I answer, \"Trust compounds in threads.\" and Leo grades it, \"That is the level we need.\" Watching users is worth ten feature debates.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了闭环说明帖的历史，包括两次惨痛的教训。我们权衡了改动愤怒用户应对手册的代价与放着不管的风险。我准备了一页关于流失退出访谈的简报，好让会议从事实出发。团队为社区论坛播种定了明确的负责人，加上截止和复审日期。Maria提出：\"老顾客自发护群。\"我从容地回应：\"信任在楼里复利。\"因为慌张从来没用。看用户用十分钟，胜过十场功能辩论。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为闭环说明帖指定了明确的负责人。我比较了关于愤怒用户应对手册的两种观点，诚实地都记了下来。我把流失退出访谈连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了社区论坛播种上。评审热身：Leo抛出：\"老顾客自发护群。\"我带着数字回答：\"信任在楼里复利。\"Leo点评道：\"我们要的就是这个水平。\"看用户用十分钟，胜过十场功能辩论。",
    "hard": [
     {
      "w": "churn exit interview",

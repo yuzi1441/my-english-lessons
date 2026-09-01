@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 230,
+   "word_count": 232,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Each piece is one small pull request, easy to review. Before we part, Leo says, \"Let's grab a coffee.\" I answer, \"My treat this time.\" I document the save a draft so the team can review it later. If the auto-save fails, we need a clear plan. I suggest that we check the small pull request first. The result depends on the atomic commit, so I check it twice. The team agrees on the plan, and I record the decision.",
-   "tts": "Each piece is one small pull request, easy to review. Before we part, Leo says, \"Let's grab a coffee.\" I answer, \"My treat this time.\" I document the save a draft so the team can review it later. If the auto-save fails, we need a clear plan. I suggest that we check the small pull request first. The result depends on the atomic commit, so I check it twice. The team agrees on the plan, and I record the decision.",
+   "en": "Each piece is one small pull request, easy to review. Priya checks with me, \"Let's grab a coffee.\" I answer clearly, \"My treat this time.\" The result depends on the save a draft, so I check it twice. I explain the auto-save to a new teammate. We discuss the risk around the small pull request. I document the atomic commit so the team can review it later. The team agrees on the plan, and I record the decision.",
+   "tts": "Each piece is one small pull request, easy to review. Priya checks with me, \"Let's grab a coffee.\" I answer clearly, \"My treat this time.\" The result depends on the save a draft, so I check it twice. I explain the auto-save to a new teammate. We discuss the risk around the small pull request. I document the atomic commit so the team can review it later. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每一块都是一个小拉取请求，方便评审。分开前，Leo说：\"我们去喝杯咖啡吧。\"我回答：\"这次我请客。\"我把保存草稿写成文档，方便团队之后查看。如果自动保存失败，我们需要一个清晰的方案。我建议我们先检查小拉取请求。结果取决于原子提交，所以我检查了两遍。团队就计划达成一致，我记录了决定。",
+   "zh": "每一块都是一个小拉取请求，方便评审。Priya向我确认：\"我们去喝杯咖啡吧。\"我清楚地回答：\"这次我请客。\"结果取决于保存草稿，所以我检查了两遍。我向一位新队友解释了自动保存。我们讨论了小拉取请求相关的风险。我把原子提交写成文档，方便团队之后查看。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "save a draft",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I describe the change, and I record the reason. We discuss the risk around the before and after. I document the restore session so the team can review it later. If the cache key fails, we need a clear plan. Priya checks with me, \"This café is cozy.\" I answer clearly, \"I needed this break.\" My plan fits on one page. Maria likes it.",
-   "tts": "Before I leave, I write a short summary for the team. I describe the change, and I record the reason. We discuss the risk around the before and after. I document the restore session so the team can review it later. If the cache key fails, we need a clear plan. Priya checks with me, \"This café is cozy.\" I answer clearly, \"I needed this break.\" My plan fits on one page. Maria likes it.",
+   "en": "Before I leave, I write a short summary for the team. The team agrees to describe the change before Friday. I document the before and after so the team can review it later. If the restore session fails, we need a clear plan. I suggest that we check the cache key first. At the end of the day, Maria says, \"This café is cozy.\" I reply, \"I needed this break.\" My plan fits on one page. Maria likes it.",
+   "tts": "Before I leave, I write a short summary for the team. The team agrees to describe the change before Friday. I document the before and after so the team can review it later. If the restore session fails, we need a clear plan. I suggest that we check the cache key first. At the end of the day, Maria says, \"This café is cozy.\" I reply, \"I needed this break.\" My plan fits on one page. Maria likes it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我描述改动，并记录了原因。我们讨论了修改前后相关的风险。我把恢复会话写成文档，方便团队之后查看。如果缓存键失败，我们需要一个清晰的方案。Priya向我确认：\"这家咖啡馆很温馨。\"我清楚地回答：\"我正需要这个休息。\"我的计划只有一页纸。Maria 很满意。",
+   "zh": "离开前，我给团队写了一份简短的总结。团队同意在周五之前描述改动。我把修改前后写成文档，方便团队之后查看。如果恢复会话失败，我们需要一个清晰的方案。我建议我们先检查缓存键。一天结束时，Maria说：\"这家咖啡馆很温馨。\"我回答：\"我正需要这个休息。\"我的计划只有一页纸。Maria 很满意。",
    "hard": [
     {
      "w": "restore session",

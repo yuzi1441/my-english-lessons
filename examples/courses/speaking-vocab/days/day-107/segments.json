@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The fix ships in the morning. A teammate stopped me to say thanks for explaining the headless browser so clearly. I keep a growing list of the page object on my desk for later. My notes about the freeze window are getting sharper every single week. I asked Leo how he handles the warmup plan when the week gets heavy. Leo stops by my desk, asks, \"Chain squeaks, oil it.\" and I answer, \"Tire pressure weekly.\" The task moves forward, and so does my confidence.",
-   "tts": "The fix ships in the morning. A teammate stopped me to say thanks for explaining the headless browser so clearly. I keep a growing list of the page object on my desk for later. My notes about the freeze window are getting sharper every single week. I asked Leo how he handles the warmup plan when the week gets heavy. Leo stops by my desk, asks, \"Chain squeaks, oil it.\" and I answer, \"Tire pressure weekly.\" The task moves forward, and so does my confidence.",
+   "en": "The fix ships in the morning. I ask one good question about the headless browser in the meeting. My notes about the page object look clearer this week. I spend ten quiet minutes on the freeze window after the standup. Sam asks me about the warmup plan, and I explain the basics. Warm-up round: Leo offers, \"Chain squeaks, oil it.\" I answer, \"Tire pressure weekly.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "The fix ships in the morning. I ask one good question about the headless browser in the meeting. My notes about the page object look clearer this week. I spend ten quiet minutes on the freeze window after the standup. Sam asks me about the warmup plan, and I explain the basics. Warm-up round: Leo offers, \"Chain squeaks, oil it.\" I answer, \"Tire pressure weekly.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "修复在上午就发出了。一位队友拦住我，感谢我把无头浏览器解释得这么清楚。我把一份越来越长的页面对象清单放在桌上，留着以后用。我关于冻结窗口的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理预热计划的。Leo走到我桌边问：\"链条吱嘎\"我回答：\"每周查胎压。\"任务在推进，我的信心也在成长。",
+   "zh": "修复在上午就发出了。会上关于无头浏览器，我问了一个好问题。这周我关于页面对象的笔记清楚多了。站会之后，我安安静静花了十分钟在冻结窗口上。Sam 问起预热计划，我讲了讲基础。热身一轮：Leo给出：\"链条吱嘎\"我回答：\"每周查胎压。\"Leo收尾道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "headless browser",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A regression test wearing the bug's name guards that exact door forever. Maria greets me warmly with, \"Brake pads wear quietly.\" and I answer, \"The bike computer lies about speed.\" My notes about the selector strategy are getting sharper every single week. I asked Leo how he handles the wait for network idle when the week gets heavy. The comms plan shows up in our sprint notes more often than before. I double-check the decision point before I reply, because a wrong answer costs double. I end the day with fewer unknowns than I started with.",
-   "tts": "A regression test wearing the bug's name guards that exact door forever. Maria greets me warmly with, \"Brake pads wear quietly.\" and I answer, \"The bike computer lies about speed.\" My notes about the selector strategy are getting sharper every single week. I asked Leo how he handles the wait for network idle when the week gets heavy. The comms plan shows up in our sprint notes more often than before. I double-check the decision point before I reply, because a wrong answer costs double. I end the day with fewer unknowns than I started with.",
+   "en": "A regression test wearing the bug's name guards that exact door forever. We practise the dialogue: Leo opens, \"Brake pads wear quietly.\" I answer, \"The bike computer lies about speed.\" and Leo nods, \"Nice, keep that one handy.\" My notes about the selector strategy look clearer this week. I spend ten quiet minutes on the wait for network idle after the standup. Sam asks me about the comms plan, and I explain the basics. I keep one real example of the decision point in my notebook. I end the day with fewer unknowns than I started with.",
+   "tts": "A regression test wearing the bug's name guards that exact door forever. We practise the dialogue: Leo opens, \"Brake pads wear quietly.\" I answer, \"The bike computer lies about speed.\" and Leo nods, \"Nice, keep that one handy.\" My notes about the selector strategy look clearer this week. I spend ten quiet minutes on the wait for network idle after the standup. Sam asks me about the comms plan, and I explain the basics. I keep one real example of the decision point in my notebook. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个以缺陷命名的回归测试，永远守住了那扇门。Maria热情地用\"刹车片悄悄磨损。\"和我打招呼，我回答：\"码表的速度是安慰剂。\"我关于选择器策略的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理等待网络空闲的。沟通计划出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍决策点，因为答错要付出双倍代价。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "一个以缺陷命名的回归测试，永远守住了那扇门。我们练习这段对话：Leo开场：\"刹车片悄悄磨损。\"我回答：\"码表的速度是安慰剂。\"Leo点头说：\"不错，把这句记在手边。\"这周我关于选择器策略的笔记清楚多了。站会之后，我安安静静花了十分钟在等待网络空闲上。Sam 问起沟通计划，我讲了讲基础。我在笔记本里留了一个决策点的真实例子。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "selector strategy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. A teammate stopped me to say thanks for explaining the rollout pause so clearly. I keep a growing list of the all-clear signal on my desk for later. My notes about the visual regression test are getting sharper every single week. I asked Leo how he handles the test id attribute when the week gets heavy. Leo stops by my desk, asks, \"Wind direction rules the ride.\" and I answer, \"Fix it yourself, proudly.\" Every escaped bug buys a fence.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. A teammate stopped me to say thanks for explaining the rollout pause so clearly. I keep a growing list of the all-clear signal on my desk for later. My notes about the visual regression test are getting sharper every single week. I asked Leo how he handles the test id attribute when the week gets heavy. Leo stops by my desk, asks, \"Wind direction rules the ride.\" and I answer, \"Fix it yourself, proudly.\" Every escaped bug buys a fence.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the rollout pause in the guide. I ask one good question about the all-clear signal in the meeting. My notes about the visual regression test look clearer this week. I spend ten quiet minutes on the test id attribute after the standup. Role play with feedback: Priya says, \"Wind direction rules the ride.\" I try, \"Fix it yourself, proudly.\" and Priya adds, \"Good — try it in today’s task.\" Every escaped bug buys a fence.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the rollout pause in the guide. I ask one good question about the all-clear signal in the meeting. My notes about the visual regression test look clearer this week. I spend ten quiet minutes on the test id attribute after the standup. Role play with feedback: Priya says, \"Wind direction rules the ride.\" I try, \"Fix it yourself, proudly.\" and Priya adds, \"Good — try it in today’s task.\" Every escaped bug buys a fence.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。一位队友拦住我，感谢我把放量暂停解释得这么清楚。我把一份越来越长的解除信号清单放在桌上，留着以后用。我关于视觉回归测试的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理测试专用属性的。Leo走到我桌边问：\"风向决定骑行体验。\"我回答：\"自己动手修\"每个逃走的缺陷都换来一道围栏。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于放量暂停的介绍。会上关于解除信号，我问了一个好问题。这周我关于视觉回归测试的笔记清楚多了。站会之后，我安安静静花了十分钟在测试专用属性上。角色扮演加反馈：Priya说：\"风向决定骑行体验。\"我试着说：\"自己动手修\"Priya补充道：\"好——今天的任务里就用上。\"每个逃走的缺陷都换来一道围栏。",
    "hard": [
     {
      "w": "visual regression test",

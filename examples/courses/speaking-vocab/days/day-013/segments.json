@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 205,
+   "word_count": 201,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Leo goes to the airport. His flight is delayed. First Priya says, \"Where is the security check?\" then I reply, \"What gate is it?\" I write a short note about the status code. I ask one question about the request header. I mention a teammate one small step at a time. Maria explains the team mention to me. The day is busy, but I learn a lot.",
-   "tts": "Leo goes to the airport. His flight is delayed. First Priya says, \"Where is the security check?\" then I reply, \"What gate is it?\" I write a short note about the status code. I ask one question about the request header. I mention a teammate one small step at a time. Maria explains the team mention to me. The day is busy, but I learn a lot.",
+   "en": "Leo goes to the airport. His flight is delayed. During our chat, Maria says, \"Where is the security check?\" I answer, \"What gate is it?\" Maria explains the status code to me. I learn about the request header because it is useful. I need to mention a teammate before lunch. I write a short note about the team mention. The day is busy, but I learn a lot.",
+   "tts": "Leo goes to the airport. His flight is delayed. During our chat, Maria says, \"Where is the security check?\" I answer, \"What gate is it?\" Maria explains the status code to me. I learn about the request header because it is useful. I need to mention a teammate before lunch. I write a short note about the team mention. The day is busy, but I learn a lot.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Leo 去机场。他的航班延误了。先是Priya说：\"安检在哪里？\"然后我回答：\"是哪个登机口？\"我给状态码写了一条简短的笔记。我问了一个关于请求头的问题。我一步一步地提及队友。Maria 给我讲解团队提及。这天很忙，但我学到了很多。",
+   "zh": "Leo 去机场。他的航班延误了。聊天时，Maria说：\"安检在哪里？\"我回答：\"是哪个登机口？\"Maria 给我讲解状态码。我学习请求头，因为它很有用。午饭前，我需要提及队友。我给团队提及写了一条简短的笔记。这天很忙，但我学到了很多。",
    "hard": [
     {
      "w": "status code",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. I subscribe to an issue, and Maria checks it. I need to unsubscribe from updates before lunch. I write a short note about the response body. I ask one question about the GET request. During our chat, Maria says, \"The flight is delayed.\" I answer, \"Where can I collect my luggage?\" I take the issue. The team mentions me, and I see it.",
-   "tts": "Before I leave, I finish one last task. I subscribe to an issue, and Maria checks it. I need to unsubscribe from updates before lunch. I write a short note about the response body. I ask one question about the GET request. During our chat, Maria says, \"The flight is delayed.\" I answer, \"Where can I collect my luggage?\" I take the issue. The team mentions me, and I see it.",
+   "en": "Before I leave, I finish one last task. I need to subscribe to an issue before lunch. I unsubscribe from updates carefully. I ask one question about the response body. Leo tells me a story about the GET request. Leo says, \"The flight is delayed.\" so I answer, \"Where can I collect my luggage?\" I take the issue. The team mentions me, and I see it.",
+   "tts": "Before I leave, I finish one last task. I need to subscribe to an issue before lunch. I unsubscribe from updates carefully. I ask one question about the response body. Leo tells me a story about the GET request. Leo says, \"The flight is delayed.\" so I answer, \"Where can I collect my luggage?\" I take the issue. The team mentions me, and I see it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。我订阅问题单，Maria 来检查。午饭前，我需要取消订阅更新。我给响应体写了一条简短的笔记。我问了一个关于GET 请求的问题。聊天时，Maria说：\"航班延误了。\"我回答：\"我在哪里取行李？\"我接下了这个问题单。团队提到了我，我看到了提醒。",
+   "zh": "离开前，我完成最后一项任务。午饭前，我需要订阅问题单。我认真地取消订阅更新。我问了一个关于响应体的问题。Leo 给我讲了一个关于GET 请求的小故事。Leo说：\"航班延误了。\"于是我回答：\"我在哪里取行李？\"我接下了这个问题单。团队提到了我，我看到了提醒。",
    "hard": [
     {
      "w": "response body",

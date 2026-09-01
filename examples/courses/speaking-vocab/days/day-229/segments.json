@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 326,
+   "word_count": 322,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We rehearse the quarter's peak with shadow traffic. Our mentor walks me through the microbenchmark's history, including two painful lessons. We weigh the cost of changing the benchmark harness against leaving it alone. I prepare a one-page brief about the benchmark regression gate so meetings start from facts. The team sets a clear owner for the benchmark result artifact, plus a deadline and review date. Maria raises, \"Same route, same watch, fair race.\" and I respond calmly, \"The first kilometer is warmup.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "We rehearse the quarter's peak with shadow traffic. Our mentor walks me through the microbenchmark's history, including two painful lessons. We weigh the cost of changing the benchmark harness against leaving it alone. I prepare a one-page brief about the benchmark regression gate so meetings start from facts. The team sets a clear owner for the benchmark result artifact, plus a deadline and review date. Maria raises, \"Same route, same watch, fair race.\" and I respond calmly, \"The first kilometer is warmup.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "We rehearse the quarter's peak with shadow traffic. I compare two views on the microbenchmark and write both down honestly. I add the benchmark harness to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the benchmark regression gate. During the design review, I raise one careful question about the benchmark result artifact. Dry run: Maria opens, \"Same route, same watch, fair race.\" I follow, \"The first kilometer is warmup.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We rehearse the quarter's peak with shadow traffic. I compare two views on the microbenchmark and write both down honestly. I add the benchmark harness to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the benchmark regression gate. During the design review, I raise one careful question about the benchmark result artifact. Dry run: Maria opens, \"Same route, same watch, fair race.\" I follow, \"The first kilometer is warmup.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们用影子流量彩排季度高峰。导师带我梳理了微基准的历史，包括两次惨痛的教训。我们权衡了改动基准测试框架的代价与放着不管的风险。我准备了一页关于基准回归门禁的简报，好让会议从事实出发。团队为基准结果产物定了明确的负责人，加上截止和复审日期。Maria提出：\"同路线同手表\"我从容地回应：\"第一公里是预热。\"因为慌张从来没用。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们用影子流量彩排季度高峰。我比较了关于微基准的两种观点，诚实地都记了下来。我把基准测试框架连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了基准回归门禁上。设计评审中，我就基准结果产物提出了一个审慎的问题。干跑演练：Maria开场：\"同路线同手表\"我接上：\"第一公里是预热。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "microbenchmark",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Breaking points surface on a Tuesday, not during the real show. When the design review starts each week, Priya asks, \"I compare months, not days.\" and I answer, \"Weather gets a footnote.\" with numbers. I prepare a one-page brief about the statistical rigor for benches so meetings start from facts. The team sets a clear owner for the warmup iterations, plus a deadline and review date. I compare two approaches to the dedicated bench machine, note the trade-offs, share both honestly. In review, I raise a careful question about the bench setup guide and its failure modes. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Breaking points surface on a Tuesday, not during the real show. When the design review starts each week, Priya asks, \"I compare months, not days.\" and I answer, \"Weather gets a footnote.\" with numbers. I prepare a one-page brief about the statistical rigor for benches so meetings start from facts. The team sets a clear owner for the warmup iterations, plus a deadline and review date. I compare two approaches to the dedicated bench machine, note the trade-offs, share both honestly. In review, I raise a careful question about the bench setup guide and its failure modes. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Breaking points surface on a Tuesday, not during the real show. Practice debate: Maria argues, \"I compare months, not days.\" I respond calmly, \"Weather gets a footnote.\" and Maria concedes, \"Agreed, note it in the ticket.\" I add the statistical rigor for benches to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the warmup iterations. During the design review, I raise one careful question about the dedicated bench machine. Our mentor walks me through how the bench setup guide evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Breaking points surface on a Tuesday, not during the real show. Practice debate: Maria argues, \"I compare months, not days.\" I respond calmly, \"Weather gets a footnote.\" and Maria concedes, \"Agreed, note it in the ticket.\" I add the statistical rigor for benches to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the warmup iterations. During the design review, I raise one careful question about the dedicated bench machine. Our mentor walks me through how the bench setup guide evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "崩溃点在周二现身，而不是正式演出时。评审开始时，Priya问：\"我比的是月不是天。\"我带着数字回答：\"天气会记在脚注里。\"我准备了一页关于基准的统计严谨性的简报，好让会议从事实出发。团队为预热迭代定了明确的负责人，加上截止和复审日期。我比较了处理专属基准机器的两种方式，记下取舍，诚实分享。评审中，我就基准环境指南及其失效模式提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "崩溃点在周二现身，而不是正式演出时。练习辩论：Maria主张：\"我比的是月不是天。\"我平静地回应：\"天气会记在脚注里。\"Maria承认道：\"同意，把这条记到工单里。\"我把基准的统计严谨性连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了预热迭代上。设计评审中，我就专属基准机器提出了一个审慎的问题。导师带我梳理了基准环境指南在这个团队里的演变。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "statistical rigor for benches",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through the statistical significance note's history, including two painful lessons. We weigh the cost of changing the flaky bench quarantine against leaving it alone. I prepare a one-page brief about the baseline comparison report so meetings start from facts. The team sets a clear owner for the noise floor measurement, plus a deadline and review date. Maria raises, \"Rest days make baselines honest.\" and I respond calmly, \"Progress is a slow trend line.\" because panic never helped anyone. Every surprise in rehearsal is one that missed the launch.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through the statistical significance note's history, including two painful lessons. We weigh the cost of changing the flaky bench quarantine against leaving it alone. I prepare a one-page brief about the baseline comparison report so meetings start from facts. The team sets a clear owner for the noise floor measurement, plus a deadline and review date. Maria raises, \"Rest days make baselines honest.\" and I respond calmly, \"Progress is a slow trend line.\" because panic never helped anyone. Every surprise in rehearsal is one that missed the launch.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the statistical significance note. I compare two views on the flaky bench quarantine and write both down honestly. I add the baseline comparison report to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the noise floor measurement. Review warm-up: Leo raises, \"Rest days make baselines honest.\" I answer, \"Progress is a slow trend line.\" and Leo grades it, \"That is the level we need.\" Every surprise in rehearsal is one that missed the launch.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the statistical significance note. I compare two views on the flaky bench quarantine and write both down honestly. I add the baseline comparison report to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the noise floor measurement. Review warm-up: Leo raises, \"Rest days make baselines honest.\" I answer, \"Progress is a slow trend line.\" and Leo grades it, \"That is the level we need.\" Every surprise in rehearsal is one that missed the launch.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了统计显著性说明的历史，包括两次惨痛的教训。我们权衡了改动抖动基准隔离的代价与放着不管的风险。我准备了一页关于基线对比报告的简报，好让会议从事实出发。团队为噪声底测量定了明确的负责人，加上截止和复审日期。Maria提出：\"休息日让基线诚实。\"我从容地回应：\"进步是缓慢的趋势线。\"因为慌张从来没用。彩排里的每个意外，都是没上直播的意外。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为统计显著性说明指定了明确的负责人。我比较了关于抖动基准隔离的两种观点，诚实地都记了下来。我把基线对比报告连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了噪声底测量上。评审热身：Leo抛出：\"休息日让基线诚实。\"我带着数字回答：\"进步是缓慢的趋势线。\"Leo点评道：\"我们要的就是这个水平。\"彩排里的每个意外，都是没上直播的意外。",
    "hard": [
     {
      "w": "baseline comparison report",

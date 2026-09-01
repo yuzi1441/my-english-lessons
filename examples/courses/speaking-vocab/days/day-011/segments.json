@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 186,
+   "word_count": 192,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The weather is nice, and we chat at the window. During our chat, Maria says, \"It's getting colder.\" I answer, \"The weather is nice.\" I learn about the port number because it is useful. Now I understand the network interface. I watch a repository carefully. I ask one question about the follower. I understand a little more than yesterday.",
-   "tts": "The weather is nice, and we chat at the window. During our chat, Maria says, \"It's getting colder.\" I answer, \"The weather is nice.\" I learn about the port number because it is useful. Now I understand the network interface. I watch a repository carefully. I ask one question about the follower. I understand a little more than yesterday.",
+   "en": "The weather is nice, and we chat at the window. Leo says, \"It's getting colder.\" so I answer, \"The weather is nice.\" I ask one question about the port number. Leo tells me a story about the network interface. Today I watch a repository for the first time. I learn about the follower because it is useful. I understand a little more than yesterday.",
+   "tts": "The weather is nice, and we chat at the window. Leo says, \"It's getting colder.\" so I answer, \"The weather is nice.\" I ask one question about the port number. Leo tells me a story about the network interface. Today I watch a repository for the first time. I learn about the follower because it is useful. I understand a little more than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "天气不错，我们在窗边聊天。聊天时，Maria说：\"天气正在变冷。\"我回答：\"天气不错。\"我学习端口号，因为它很有用。现在我理解了网络接口。我认真地关注仓库。我问了一个关于关注者的问题。我比昨天多懂了一点。",
+   "zh": "天气不错，我们在窗边聊天。Leo说：\"天气正在变冷。\"于是我回答：\"天气不错。\"我问了一个关于端口号的问题。Leo 给我讲了一个关于网络接口的小故事。今天我第一次关注仓库。我学习关注者，因为它很有用。我比昨天多懂了一点。",
    "hard": [
     {
      "w": "port number",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. Leo tells me a story about the activity feed. Maria explains the notification setting to me. I learn about the private address because it is useful. Now I understand the public address. Leo says, \"How was your weekend?\" so I answer, \"What have you been up to?\" I star the project and follow its updates.",
-   "tts": "Before I leave, I finish one last task. Leo tells me a story about the activity feed. Maria explains the notification setting to me. I learn about the private address because it is useful. Now I understand the public address. Leo says, \"How was your weekend?\" so I answer, \"What have you been up to?\" I star the project and follow its updates.",
+   "en": "Before I leave, I finish one last task. Maria explains the activity feed to me. I learn about the notification setting because it is useful. Now I understand the private address. I write a short note about the public address. First Priya says, \"How was your weekend?\" then I reply, \"What have you been up to?\" I star the project and follow its updates.",
+   "tts": "Before I leave, I finish one last task. Maria explains the activity feed to me. I learn about the notification setting because it is useful. Now I understand the private address. I write a short note about the public address. First Priya says, \"How was your weekend?\" then I reply, \"What have you been up to?\" I star the project and follow its updates.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。Leo 给我讲了一个关于活动信息流的小故事。Maria 给我讲解通知设置。我学习私有地址，因为它很有用。现在我理解了公网地址。Leo说：\"你周末过得怎么样？\"于是我回答：\"你最近在忙什么？\"我给项目点了星，并关注它的动态。",
+   "zh": "离开前，我完成最后一项任务。Maria 给我讲解活动信息流。我学习通知设置，因为它很有用。现在我理解了私有地址。我给公网地址写了一条简短的笔记。先是Priya说：\"你周末过得怎么样？\"然后我回答：\"你最近在忙什么？\"我给项目点了星，并关注它的动态。",
    "hard": [
     {
      "w": "private address",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 280,
+   "word_count": 284,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "An accessibility audit walks through the app with a screen reader. I keep a growing list of the severity levels on my desk for later. My notes about the customer impact are getting sharper every single week. I asked Leo how he handles the contributing factors list when the week gets heavy. The detection gap shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"I misspoke, let me fix that.\" I reply, \"Apologize once, clearly.\" I end the day with fewer unknowns than I started with.",
-   "tts": "An accessibility audit walks through the app with a screen reader. I keep a growing list of the severity levels on my desk for later. My notes about the customer impact are getting sharper every single week. I asked Leo how he handles the contributing factors list when the week gets heavy. The detection gap shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"I misspoke, let me fix that.\" I reply, \"Apologize once, clearly.\" I end the day with fewer unknowns than I started with.",
+   "en": "An accessibility audit walks through the app with a screen reader. There is a short paragraph about the severity levels in the guide. I ask one good question about the customer impact in the meeting. My notes about the contributing factors list look clearer this week. I spend ten quiet minutes on the detection gap after the standup. Role play with feedback: Priya says, \"I misspoke, let me fix that.\" I try, \"Apologize once, clearly.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "An accessibility audit walks through the app with a screen reader. There is a short paragraph about the severity levels in the guide. I ask one good question about the customer impact in the meeting. My notes about the contributing factors list look clearer this week. I spend ten quiet minutes on the detection gap after the standup. Role play with feedback: Priya says, \"I misspoke, let me fix that.\" I try, \"Apologize once, clearly.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "无障碍审计带着屏幕阅读器走了一遍应用。我把一份越来越长的严重等级清单放在桌上，留着以后用。我关于客户影响的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理促成因素列表的。发现缺口出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"我说错了\"我回答：\"道歉一次\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "无障碍审计带着屏幕阅读器走了一遍应用。指南里有一小段关于严重等级的介绍。会上关于客户影响，我问了一个好问题。这周我关于促成因素列表的笔记清楚多了。站会之后，我安安静静花了十分钟在发现缺口上。角色扮演加反馈：Priya说：\"我说错了\"我试着说：\"道歉一次\"Priya补充道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "severity levels",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. Leo stops by my desk, asks, \"Over-apologizing exhausts everyone.\" and I answer, \"Actions after words.\" I asked Leo how he handles the data loss incident when the week gets heavy. The security incident shows up in our sprint notes more often than before. I double-check the mitigation review before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the action item deadline so clearly. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. Leo stops by my desk, asks, \"Over-apologizing exhausts everyone.\" and I answer, \"Actions after words.\" I asked Leo how he handles the data loss incident when the week gets heavy. The security incident shows up in our sprint notes more often than before. I double-check the mitigation review before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the action item deadline so clearly. Small progress today prepares the bigger step tomorrow.",
+   "en": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. Warm-up round: Priya offers, \"Over-apologizing exhausts everyone.\" I answer, \"Actions after words.\" and Priya wraps up, \"Good — try it in today’s task.\" I ask one good question about the data loss incident in the meeting. My notes about the security incident look clearer this week. I spend ten quiet minutes on the mitigation review after the standup. Sam asks me about the action item deadline, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. Warm-up round: Priya offers, \"Over-apologizing exhausts everyone.\" I answer, \"Actions after words.\" and Priya wraps up, \"Good — try it in today’s task.\" I ask one good question about the data loss incident in the meeting. My notes about the security incident look clearer this week. I spend ten quiet minutes on the mitigation review after the standup. Sam asks me about the action item deadline, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "替代文本、对比度、焦点框；改动很小，影响很宽。Leo走到我桌边问：\"过度道歉让大家都累。\"我回答：\"话之后要有行动。\"我问 Leo，当一周变得繁重时他是怎么处理数据丢失事故的。安全事件出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍缓解评审，因为答错要付出双倍代价。一位队友拦住我，感谢我把行动项期限解释得这么清楚。今天的小进步为明天更大的跨越做准备。",
+   "zh": "替代文本、对比度、焦点框；改动很小，影响很宽。热身一轮：Priya给出：\"过度道歉让大家都累。\"我回答：\"话之后要有行动。\"Priya收尾道：\"好——今天的任务里就用上。\"会上关于数据丢失事故，我问了一个好问题。这周我关于安全事件的笔记清楚多了。站会之后，我安安静静花了十分钟在缓解评审上。Sam 问起行动项期限，我讲了讲基础。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "data loss incident",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the thirty-day follow-up on my desk for later. My notes about the share the learning are getting sharper every single week. I asked Leo how he handles the timeline entry when the week gets heavy. The incident channel etiquette shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Forgive yourself too.\" I reply, \"It was a slip, not a style.\" The app got kinder in one afternoon.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the thirty-day follow-up on my desk for later. My notes about the share the learning are getting sharper every single week. I asked Leo how he handles the timeline entry when the week gets heavy. The incident channel etiquette shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Forgive yourself too.\" I reply, \"It was a slip, not a style.\" The app got kinder in one afternoon.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the thirty-day follow-up one more time before lunch. There is a short paragraph about the share the learning in the guide. I ask one good question about the timeline entry in the meeting. My notes about the incident channel etiquette look clearer this week. We drill it twice: Maria starts, \"Forgive yourself too.\" I reply, \"It was a slip, not a style.\" then Maria smiles, \"That is the one we need today.\" The app got kinder in one afternoon.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the thirty-day follow-up one more time before lunch. There is a short paragraph about the share the learning in the guide. I ask one good question about the timeline entry in the meeting. My notes about the incident channel etiquette look clearer this week. We drill it twice: Maria starts, \"Forgive yourself too.\" I reply, \"It was a slip, not a style.\" then Maria smiles, \"That is the one we need today.\" The app got kinder in one afternoon.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我把一份越来越长的三十天跟进清单放在桌上，留着以后用。我关于分享所学的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理时间线条目的。事故频道礼仪出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"也原谅自己。\"我回答：\"是口误\"一个下午，应用变得更温柔了。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍三十天跟进。指南里有一小段关于分享所学的介绍。会上关于时间线条目，我问了一个好问题。这周我关于事故频道礼仪的笔记清楚多了。我们练了两遍：Maria起头：\"也原谅自己。\"我回答：\"是口误\"然后Maria笑着说：\"今天要的就是这句。\"一个下午，应用变得更温柔了。",
    "hard": [
     {
      "w": "timeline entry",

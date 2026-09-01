@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 279,
+   "word_count": 285,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Users hate waiting, so we try an optimistic update. I keep a growing list of the application state on my desk for later. My notes about the state change are getting sharper every single week. I asked Leo how he handles the template repository when the week gets heavy. The duplicate issue shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Let's look at the data first.\" I reply, \"I respect your view.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Users hate waiting, so we try an optimistic update. I keep a growing list of the application state on my desk for later. My notes about the state change are getting sharper every single week. I asked Leo how he handles the template repository when the week gets heavy. The duplicate issue shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Let's look at the data first.\" I reply, \"I respect your view.\" I end the day with fewer unknowns than I started with.",
+   "en": "Users hate waiting, so we try an optimistic update. I add the application state to my study notes before I forget it. I go over the state change one more time before lunch. There is a short paragraph about the template repository in the guide. I ask one good question about the duplicate issue in the meeting. We practise the dialogue: Priya opens, \"Let's look at the data first.\" I answer, \"I respect your view.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "Users hate waiting, so we try an optimistic update. I add the application state to my study notes before I forget it. I go over the state change one more time before lunch. There is a short paragraph about the template repository in the guide. I ask one good question about the duplicate issue in the meeting. We practise the dialogue: Priya opens, \"Let's look at the data first.\" I answer, \"I respect your view.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "用户讨厌等待，所以我们试了乐观更新。我把一份越来越长的应用状态清单放在桌上，留着以后用。我关于状态变化的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理模板仓库的。重复问题单出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"我们先看数据再说。\"我回答：\"我尊重你的看法。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "用户讨厌等待，所以我们试了乐观更新。我趁还没忘，把应用状态记进了学习笔记。午饭前我又过了一遍状态变化。指南里有一小段关于模板仓库的介绍。会上关于重复问题单，我问了一个好问题。我们练习这段对话：Priya开场：\"我们先看数据再说。\"我回答：\"我尊重你的看法。\"Priya点头说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "application state",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The screen saves first and confirms after, with a rollback state if the network lies. Leo stops by my desk, asks, \"Can we find middle ground?\" and I answer, \"Let's park this for now.\" I asked Leo how he handles the event handler when the week gets heavy. The render loop shows up in our sprint notes more often than before. After the review, I scaffold a repo once more and note what changed. A teammate stopped me to say thanks for explaining the default branch setting so clearly. Small progress today prepares the bigger step tomorrow.",
-   "tts": "The screen saves first and confirms after, with a rollback state if the network lies. Leo stops by my desk, asks, \"Can we find middle ground?\" and I answer, \"Let's park this for now.\" I asked Leo how he handles the event handler when the week gets heavy. The render loop shows up in our sprint notes more often than before. After the review, I scaffold a repo once more and note what changed. A teammate stopped me to say thanks for explaining the default branch setting so clearly. Small progress today prepares the bigger step tomorrow.",
+   "en": "The screen saves first and confirms after, with a rollback state if the network lies. We drill it twice: Priya starts, \"Can we find middle ground?\" I reply, \"Let's park this for now.\" then Priya smiles, \"Good — try it in today’s task.\" I go over the event handler one more time before lunch. There is a short paragraph about the render loop in the guide. I scaffold a repo twice, just to be sure. My notes about the default branch setting look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The screen saves first and confirms after, with a rollback state if the network lies. We drill it twice: Priya starts, \"Can we find middle ground?\" I reply, \"Let's park this for now.\" then Priya smiles, \"Good — try it in today’s task.\" I go over the event handler one more time before lunch. There is a short paragraph about the render loop in the guide. I scaffold a repo twice, just to be sure. My notes about the default branch setting look clearer this week. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "界面先保存后确认，如果网络撒谎就回滚状态。Leo走到我桌边问：\"我们能找个折中方案吗？\"我回答：\"这个我们先放一放。\"我问 Leo，当一周变得繁重时他是怎么处理事件处理器的。渲染循环出现在我们迭代笔记里的次数比以前更多了。评审之后，我又初始化仓库了一次，并记下变化。一位队友拦住我，感谢我把默认分支设置解释得这么清楚。今天的小进步为明天更大的跨越做准备。",
+   "zh": "界面先保存后确认，如果网络撒谎就回滚状态。我们练了两遍：Priya起头：\"我们能找个折中方案吗？\"我回答：\"这个我们先放一放。\"然后Priya笑着说：\"好——今天的任务里就用上。\"午饭前我又过了一遍事件处理器。指南里有一小段关于渲染循环的介绍。我初始化仓库了两遍，只为确定。这周我关于默认分支设置的笔记清楚多了。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "event handler",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the repo description on my desk for later. My notes about the topic tags are getting sharper every single week. I asked Leo how he handles the optimistic update when the week gets heavy. The rollback state shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"I'll defer to your judgment.\" I reply, \"We want the same outcome.\" Fast feels honest when the fallback works.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the repo description on my desk for later. My notes about the topic tags are getting sharper every single week. I asked Leo how he handles the optimistic update when the week gets heavy. The rollback state shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"I'll defer to your judgment.\" I reply, \"We want the same outcome.\" Fast feels honest when the fallback works.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the repo description in my notebook. I add the topic tags to my study notes before I forget it. I go over the optimistic update one more time before lunch. There is a short paragraph about the rollback state in the guide. Warm-up round: Maria offers, \"I'll defer to your judgment.\" I answer, \"We want the same outcome.\" and Maria wraps up, \"That is the one we need today.\" Fast feels honest when the fallback works.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the repo description in my notebook. I add the topic tags to my study notes before I forget it. I go over the optimistic update one more time before lunch. There is a short paragraph about the rollback state in the guide. Warm-up round: Maria offers, \"I'll defer to your judgment.\" I answer, \"We want the same outcome.\" and Maria wraps up, \"That is the one we need today.\" Fast feels honest when the fallback works.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我把一份越来越长的仓库描述清单放在桌上，留着以后用。我关于主题标签的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理乐观更新的。回滚状态出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"我听你的判断。\"我回答：\"我们想要的结局是一样的。\"有兜底的时候，快才显得真诚。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个仓库描述的真实例子。我趁还没忘，把主题标签记进了学习笔记。午饭前我又过了一遍乐观更新。指南里有一小段关于回滚状态的介绍。热身一轮：Maria给出：\"我听你的判断。\"我回答：\"我们想要的结局是一样的。\"Maria收尾道：\"今天要的就是这句。\"有兜底的时候，快才显得真诚。",
    "hard": [
     {
      "w": "optimistic update",

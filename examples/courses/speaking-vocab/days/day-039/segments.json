@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 230,
+   "word_count": 231,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The code owner asks one sharp question about sync conflicts. Before we part, Leo says, \"Do you have a spare pen?\" I answer, \"Here you go.\" I document the push notification so the team can review it later. If the mute channel fails, we need a clear plan. I suggest that we check the auto-assign reviewer first. The result depends on the cross-team change, so I check it twice. The team agrees on the plan, and I record the decision.",
-   "tts": "The code owner asks one sharp question about sync conflicts. Before we part, Leo says, \"Do you have a spare pen?\" I answer, \"Here you go.\" I document the push notification so the team can review it later. If the mute channel fails, we need a clear plan. I suggest that we check the auto-assign reviewer first. The result depends on the cross-team change, so I check it twice. The team agrees on the plan, and I record the decision.",
+   "en": "The code owner asks one sharp question about sync conflicts. Priya checks with me, \"Do you have a spare pen?\" I answer clearly, \"Here you go.\" The result depends on the push notification, so I check it twice. I explain the mute channel to a new teammate. We discuss the risk around the auto-assign reviewer. I document the cross-team change so the team can review it later. The team agrees on the plan, and I record the decision.",
+   "tts": "The code owner asks one sharp question about sync conflicts. Priya checks with me, \"Do you have a spare pen?\" I answer clearly, \"Here you go.\" The result depends on the push notification, so I check it twice. I explain the mute channel to a new teammate. We discuss the risk around the auto-assign reviewer. I document the cross-team change so the team can review it later. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "代码所有者问了一个关于同步冲突的尖锐问题。分开前，Leo说：\"你有备用的笔吗？\"我回答：\"给你。\"我把推送通知写成文档，方便团队之后查看。如果静音频道失败，我们需要一个清晰的方案。我建议我们先检查自动分配评审。结果取决于跨团队改动，所以我检查了两遍。团队就计划达成一致，我记录了决定。",
+   "zh": "代码所有者问了一个关于同步冲突的尖锐问题。Priya向我确认：\"你有备用的笔吗？\"我清楚地回答：\"给你。\"结果取决于推送通知，所以我检查了两遍。我向一位新队友解释了静音频道。我们讨论了自动分配评审相关的风险。我把跨团队改动写成文档，方便团队之后查看。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "push notification",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I explain the notify the owner to a new teammate. We discuss the risk around the shared module. I document the read receipt so the team can review it later. If the notification center fails, we need a clear plan. Priya checks with me, \"Thanks for lending it to me.\" I answer clearly, \"Just return it whenever.\" I answer with a test, and the question becomes a check forever.",
-   "tts": "Before I leave, I write a short summary for the team. I explain the notify the owner to a new teammate. We discuss the risk around the shared module. I document the read receipt so the team can review it later. If the notification center fails, we need a clear plan. Priya checks with me, \"Thanks for lending it to me.\" I answer clearly, \"Just return it whenever.\" I answer with a test, and the question becomes a check forever.",
+   "en": "Before I leave, I write a short summary for the team. We discuss the risk around the notify the owner. I document the shared module so the team can review it later. If the read receipt fails, we need a clear plan. I suggest that we check the notification center first. At the end of the day, Maria says, \"Thanks for lending it to me.\" I reply, \"Just return it whenever.\" I answer with a test, and the question becomes a check forever.",
+   "tts": "Before I leave, I write a short summary for the team. We discuss the risk around the notify the owner. I document the shared module so the team can review it later. If the read receipt fails, we need a clear plan. I suggest that we check the notification center first. At the end of the day, Maria says, \"Thanks for lending it to me.\" I reply, \"Just return it whenever.\" I answer with a test, and the question becomes a check forever.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我向一位新队友解释了通知负责人。我们讨论了共享模块相关的风险。我把已读回执写成文档，方便团队之后查看。如果通知中心失败，我们需要一个清晰的方案。Priya向我确认：\"谢谢你借给我。\"我清楚地回答：\"什么时候还都行。\"我用一个测试回答了这个问题，它从此变成一道永久的检查。",
+   "zh": "离开前，我给团队写了一份简短的总结。我们讨论了通知负责人相关的风险。我把共享模块写成文档，方便团队之后查看。如果已读回执失败，我们需要一个清晰的方案。我建议我们先检查通知中心。一天结束时，Maria说：\"谢谢你借给我。\"我回答：\"什么时候还都行。\"我用一个测试回答了这个问题，它从此变成一道永久的检查。",
    "hard": [
     {
      "w": "read receipt",

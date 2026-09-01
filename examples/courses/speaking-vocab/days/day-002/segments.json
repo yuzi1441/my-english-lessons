@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 168,
+   "word_count": 169,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I need help, and I learn to ask for it. Maria smiles and says, \"Could you show me how?\" I answer, \"I don't understand yet.\" Maria shows me the file path. I point to the absolute path. I download the code. This is the remote repository. I learn one new thing.",
-   "tts": "I need help, and I learn to ask for it. Maria smiles and says, \"Could you show me how?\" I answer, \"I don't understand yet.\" Maria shows me the file path. I point to the absolute path. I download the code. This is the remote repository. I learn one new thing.",
+   "en": "I need help, and I learn to ask for it. Leo says, \"Could you show me how?\" and I say, \"I don't understand yet.\" This is the file path. I see the absolute path. I try to download the code. Maria shows me the remote repository. I learn one new thing.",
+   "tts": "I need help, and I learn to ask for it. Leo says, \"Could you show me how?\" and I say, \"I don't understand yet.\" This is the file path. I see the absolute path. I try to download the code. Maria shows me the remote repository. I learn one new thing.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我需要帮助，也学会了开口求助。Maria微笑着说：\"你能示范一下怎么做吗？\"我回答：\"我还没有理解。\"Maria 给我看了文件路径。我指着绝对路径。我下载代码。这是远程仓库。我学到了一件新东西。",
+   "zh": "我需要帮助，也学会了开口求助。Leo说：\"你能示范一下怎么做吗？\"我说：\"我还没有理解。\"这是文件路径。我看到了绝对路径。我试着下载代码。Maria 给我看了远程仓库。我学到了一件新东西。",
    "hard": [
     {
      "w": "file path",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I do one last thing. I see the clone URL. The default directory is new to me. Maria shows me the relative path. I point to the file extension. Leo says, \"Please say that again.\" and I say, \"Thank you for your help.\" The code is on my computer now. I feel ready for tomorrow.",
-   "tts": "Before I leave, I do one last thing. I see the clone U R L. The default directory is new to me. Maria shows me the relative path. I point to the file extension. Leo says, \"Please say that again.\" and I say, \"Thank you for your help.\" The code is on my computer now. I feel ready for tomorrow.",
+   "en": "Before I leave, I do one last thing. The clone URL is new to me. Maria shows me the default directory. I point to the relative path. I look at the file extension. I hear, \"Please say that again.\" then I answer, \"Thank you for your help.\" The code is on my computer now. I feel ready for tomorrow.",
+   "tts": "Before I leave, I do one last thing. The clone U R L is new to me. Maria shows me the default directory. I point to the relative path. I look at the file extension. I hear, \"Please say that again.\" then I answer, \"Thank you for your help.\" The code is on my computer now. I feel ready for tomorrow.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。我看到了克隆地址。默认目录对我来说很新。Maria 给我看了相对路径。我指着文件扩展名。Leo说：\"请再说一遍。\"我说：\"谢谢你的帮助。\"代码现在在我的电脑上了。我为明天做好了准备。",
+   "zh": "离开前，我做最后一件事。克隆地址对我来说很新。Maria 给我看了默认目录。我指着相对路径。我看着文件扩展名。我听到：\"请再说一遍。\"然后我回答：\"谢谢你的帮助。\"代码现在在我的电脑上了。我为明天做好了准备。",
    "hard": [
     {
      "w": "relative path",

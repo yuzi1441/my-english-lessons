@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 273,
+   "word_count": 281,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Wednesday is code freeze: only fixes for real bugs get in. The A/B test shows up in our sprint notes more often than before. I double-check the control group before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the change record so clearly. I keep a growing list of the approval trail on my desk for later. During the afternoon break, Priya says, \"I'm cutting back on caffeine.\" I reply, \"Green tea is gentler.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Wednesday is code freeze: only fixes for real bugs get in. The A/B test shows up in our sprint notes more often than before. I double-check the control group before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the change record so clearly. I keep a growing list of the approval trail on my desk for later. During the afternoon break, Priya says, \"I'm cutting back on caffeine.\" I reply, \"Green tea is gentler.\" I end the day with fewer unknowns than I started with.",
+   "en": "Wednesday is code freeze: only fixes for real bugs get in. I keep one real example of the A/B test in my notebook. I add the control group to my study notes before I forget it. I go over the change record one more time before lunch. There is a short paragraph about the approval trail in the guide. Warm-up round: Priya offers, \"I'm cutting back on caffeine.\" I answer, \"Green tea is gentler.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "Wednesday is code freeze: only fixes for real bugs get in. I keep one real example of the A/B test in my notebook. I add the control group to my study notes before I forget it. I go over the change record one more time before lunch. There is a short paragraph about the approval trail in the guide. Warm-up round: Priya offers, \"I'm cutting back on caffeine.\" I answer, \"Green tea is gentler.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "周三是代码冻结日：只有针对真实缺陷的修复才能进入。A/B 测试出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍对照组，因为答错要付出双倍代价。一位队友拦住我，感谢我把变更记录解释得这么清楚。我把一份越来越长的审批链清单放在桌上，留着以后用。下午休息时，Priya说：\"我在减少咖啡因。\"我回答：\"绿茶温和一些。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "周三是代码冻结日：只有针对真实缺陷的修复才能进入。我在笔记本里留了一个A/B 测试的真实例子。我趁还没忘，把对照组记进了学习笔记。午饭前我又过了一遍变更记录。指南里有一小段关于审批链的介绍。热身一轮：Priya给出：\"我在减少咖啡因。\"我回答：\"绿茶温和一些。\"Priya收尾道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "A/B test",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My focus shifts from writing code to protecting it. Leo stops by my desk, asks, \"I nap for fifteen minutes.\" and I answer, \"Water first, coffee later.\" A teammate stopped me to say thanks for explaining the variant so clearly. I keep a growing list of the sample size on my desk for later. My notes about the policy check are getting sharper every single week. I asked Leo how he handles the four-eyes rule when the week gets heavy. Small progress today prepares the bigger step tomorrow.",
-   "tts": "My focus shifts from writing code to protecting it. Leo stops by my desk, asks, \"I nap for fifteen minutes.\" and I answer, \"Water first, coffee later.\" A teammate stopped me to say thanks for explaining the variant so clearly. I keep a growing list of the sample size on my desk for later. My notes about the policy check are getting sharper every single week. I asked Leo how he handles the four-eyes rule when the week gets heavy. Small progress today prepares the bigger step tomorrow.",
+   "en": "My focus shifts from writing code to protecting it. We practise the dialogue: Priya opens, \"I nap for fifteen minutes.\" I answer, \"Water first, coffee later.\" and Priya nods, \"Good — try it in today’s task.\" I add the variant to my study notes before I forget it. I go over the sample size one more time before lunch. There is a short paragraph about the policy check in the guide. I ask one good question about the four-eyes rule in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "tts": "My focus shifts from writing code to protecting it. We practise the dialogue: Priya opens, \"I nap for fifteen minutes.\" I answer, \"Water first, coffee later.\" and Priya nods, \"Good — try it in today’s task.\" I add the variant to my study notes before I forget it. I go over the sample size one more time before lunch. There is a short paragraph about the policy check in the guide. I ask one good question about the four-eyes rule in the meeting. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我的重心从写代码转到了保护代码。Leo走到我桌边问：\"我午睡十五分钟。\"我回答：\"先喝水再喝咖啡。\"一位队友拦住我，感谢我把实验变体解释得这么清楚。我把一份越来越长的样本量清单放在桌上，留着以后用。我关于政策检查的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理双人工复核的。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我的重心从写代码转到了保护代码。我们练习这段对话：Priya开场：\"我午睡十五分钟。\"我回答：\"先喝水再喝咖啡。\"Priya点头说：\"好——今天的任务里就用上。\"我趁还没忘，把实验变体记进了学习笔记。午饭前我又过了一遍样本量。指南里有一小段关于政策检查的介绍。会上关于双人工复核，我问了一个好问题。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "variant",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. The emergency change shows up in our sprint notes more often than before. I double-check the audit review before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the guardrail metric so clearly. I keep a growing list of the experiment review on my desk for later. During the afternoon break, Priya says, \"My focus is back.\" I reply, \"Sleep is the real fix.\" Quiet code is not idle code.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. The emergency change shows up in our sprint notes more often than before. I double-check the audit review before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the guardrail metric so clearly. I keep a growing list of the experiment review on my desk for later. During the afternoon break, Priya says, \"My focus is back.\" I reply, \"Sleep is the real fix.\" Quiet code is not idle code.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the emergency change, and I explain the basics. I keep one real example of the audit review in my notebook. I add the guardrail metric to my study notes before I forget it. I go over the experiment review one more time before lunch. Role play with feedback: Maria says, \"My focus is back.\" I try, \"Sleep is the real fix.\" and Maria adds, \"That is the one we need today.\" Quiet code is not idle code.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the emergency change, and I explain the basics. I keep one real example of the audit review in my notebook. I add the guardrail metric to my study notes before I forget it. I go over the experiment review one more time before lunch. Role play with feedback: Maria says, \"My focus is back.\" I try, \"Sleep is the real fix.\" and Maria adds, \"That is the one we need today.\" Quiet code is not idle code.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。紧急变更出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍审阅审计，因为答错要付出双倍代价。一位队友拦住我，感谢我把护栏指标解释得这么清楚。我把一份越来越长的实验评审清单放在桌上，留着以后用。下午休息时，Priya说：\"我的专注力回来了。\"我回答：\"睡觉才是真正的解药。\"安静的代码并不是闲着的代码。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起紧急变更，我讲了讲基础。我在笔记本里留了一个审阅审计的真实例子。我趁还没忘，把护栏指标记进了学习笔记。午饭前我又过了一遍实验评审。角色扮演加反馈：Maria说：\"我的专注力回来了。\"我试着说：\"睡觉才是真正的解药。\"Maria补充道：\"今天要的就是这句。\"安静的代码并不是闲着的代码。",
    "hard": [
     {
      "w": "guardrail metric",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 340,
+   "word_count": 322,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A quarter ends; receipts get photographed and filed. I propose a measurable goal for the translation workflow for indie this quarter, with a number we can defend. We review the locale pricing tiers against the requirements one final time, line by line, together. I close the loop on the string externalization pass and share the outcome, including what surprised us. I present the pseudo localization testing to the team with data, a timeline, and one clear ask. Priya summarises the meeting with, \"Menus get English subtitles now.\" and I confirm, \"Grandma's dishes have official names.\" for the record. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "A quarter ends; receipts get photographed and filed. I propose a measurable goal for the translation workflow for indie this quarter, with a number we can defend. We review the locale pricing tiers against the requirements one final time, line by line, together. I close the loop on the string externalization pass and share the outcome, including what surprised us. I present the pseudo localization testing to the team with data, a timeline, and one clear ask. Priya summarises the meeting with, \"Menus get English subtitles now.\" and I confirm, \"Grandma's dishes have official names.\" for the record. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "A quarter ends; receipts get photographed and filed. I propose a measurable target for the translation workflow for indie this quarter. We review the locale pricing tiers against the requirements, line by line. I close the discussion on the string externalization pass with a short summary. The final deck includes the pseudo localization testing and what we learned from it. Last rehearsal: Priya checks, \"Menus get English subtitles now.\" I commit word for word, \"Grandma's dishes have official names.\" and Priya smiles, \"Approved — bring it to the launch review.\" I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "A quarter ends; receipts get photographed and filed. I propose a measurable target for the translation workflow for indie this quarter. We review the locale pricing tiers against the requirements, line by line. I close the discussion on the string externalization pass with a short summary. The final deck includes the pseudo localization testing and what we learned from it. Last rehearsal: Priya checks, \"Menus get English subtitles now.\" I commit word for word, \"Grandma's dishes have official names.\" and Priya smiles, \"Approved — bring it to the launch review.\" I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "季度结束；收据拍照归档。我为独立开发翻译流程提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了区域定价档位，一起完成的。我跟进完文案外置清理并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了伪本地化测试。Priya用\"家宴菜单有了英文副标。\"为会议收尾，我郑重确认：\"奶奶的菜有了官方译名。\"我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "季度结束；收据拍照归档。我为独立开发翻译流程提出了本季度一个可衡量的目标。我们逐行对照需求检查了区域定价档位。我用一段简短的总结为文案外置清理的讨论收尾。最终的材料里有伪本地化测试，以及我们从中学到的东西。最后一次彩排：Priya核对：\"家宴菜单有了英文副标。\"我逐字承诺：\"奶奶的菜有了官方译名。\"Priya笑道：\"通过——带到上线评审上。\"我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "translation workflow for indie",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One envelope per category, one hour of my life per month. At the demo, Leo asks, \"Chopstick lessons for guests.\" and I present, \"Spice levels negotiated politely.\" with the numbers ready. I close the loop on the date and currency formatting and share the outcome, including what surprised us. I present the rtl layout support plan to the team with data, a timeline, and one clear ask. We align on the currency display test matrix before the deadline so execution never has to guess. My report explains the rtl screenshot review, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "One envelope per category, one hour of my life per month. At the demo, Leo asks, \"Chopstick lessons for guests.\" and I present, \"Spice levels negotiated politely.\" with the numbers ready. I close the loop on the date and currency formatting and share the outcome, including what surprised us. I present the rtl layout support plan to the team with data, a timeline, and one clear ask. We align on the currency display test matrix before the deadline so execution never has to guess. My report explains the rtl screenshot review, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "One envelope per category, one hour of my life per month. Launch rehearsal: Priya asks, \"Chopstick lessons for guests.\" I present, \"Spice levels negotiated politely.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" We review the date and currency formatting against the requirements, line by line. I close the discussion on the rtl layout support plan with a short summary. The final deck includes the currency display test matrix and what we learned from it. I put the rtl screenshot review on the record so the reasoning stays visible. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "One envelope per category, one hour of my life per month. Launch rehearsal: Priya asks, \"Chopstick lessons for guests.\" I present, \"Spice levels negotiated politely.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" We review the date and currency formatting against the requirements, line by line. I close the discussion on the rtl layout support plan with a short summary. The final deck includes the currency display test matrix and what we learned from it. I put the rtl screenshot review on the record so the reasoning stays visible. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每类一个信封，每月占用我一个小时。演示会上，Leo问：\"给客人开筷子速成班。\"我带着准备好的数字汇报：\"辣度礼貌协商。\"我跟进完日期货币格式化并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了从右到左布局支持计划。我们在截止日期前就货币展示测试矩阵达成共识，让执行永远不必靠猜。我的报告解释了RTL 截图评审、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "每类一个信封，每月占用我一个小时。上线彩排：Priya问：\"给客人开筷子速成班。\"我带着准备好的数字汇报：\"辣度礼貌协商。\"Priya签字道：\"通过——带到上线评审上。\"我们逐行对照需求检查了日期货币格式化。我用一段简短的总结为从右到左布局支持计划的讨论收尾。最终的材料里有货币展示测试矩阵，以及我们从中学到的东西。我把RTL 截图评审记录在案，让推理过程保持可见。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "date and currency formatting",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable goal for the locale fallback behavior test this quarter, with a number we can defend. We review the regional legal text slots against the requirements one final time, line by line, together. I close the loop on the legal pages per region and share the outcome, including what surprised us. I present the localized onboarding emails to the team with data, a timeline, and one clear ask. Priya summarises the meeting with, \"The tour includes food stories.\" and I confirm, \"Hospitality translates itself.\" for the record. Boring paperwork is the tax on freedom.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable goal for the locale fallback behavior test this quarter, with a number we can defend. We review the regional legal text slots against the requirements one final time, line by line, together. I close the loop on the legal pages per region and share the outcome, including what surprised us. I present the localized onboarding emails to the team with data, a timeline, and one clear ask. Priya summarises the meeting with, \"The tour includes food stories.\" and I confirm, \"Hospitality translates itself.\" for the record. Boring paperwork is the tax on freedom.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the locale fallback behavior test, the risks behind it, and the cost of waiting. I propose a measurable target for the regional legal text slots this quarter. We review the legal pages per region against the requirements, line by line. I close the discussion on the localized onboarding emails with a short summary. Board practice: Maria probes, \"The tour includes food stories.\" I respond without a pause, \"Hospitality translates itself.\" and Maria nods, \"Well said, that stays in the deck.\" Boring paperwork is the tax on freedom.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the locale fallback behavior test, the risks behind it, and the cost of waiting. I propose a measurable target for the regional legal text slots this quarter. We review the legal pages per region against the requirements, line by line. I close the discussion on the localized onboarding emails with a short summary. Board practice: Maria probes, \"The tour includes food stories.\" I respond without a pause, \"Hospitality translates itself.\" and Maria nods, \"Well said, that stays in the deck.\" Boring paperwork is the tax on freedom.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为语言回退行为测试提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了区域法务文案插槽，一起完成的。我跟进完分地区法务页面并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了本地化引导邮件。Priya用\"导览包括食物的故事。\"为会议收尾，我郑重确认：\"好客自带翻译。\"无聊的文书是自由的税。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖语言回退行为测试、背后的风险，以及等待的代价。我为区域法务文案插槽提出了本季度一个可衡量的目标。我们逐行对照需求检查了分地区法务页面。我用一段简短的总结为本地化引导邮件的讨论收尾。董事会练习：Maria追问：\"导览包括食物的故事。\"我毫不迟疑地回应：\"好客自带翻译。\"Maria点头道：\"说得好，这句留在材料里。\"无聊的文书是自由的税。",
    "hard": [
     {
      "w": "legal pages per region",

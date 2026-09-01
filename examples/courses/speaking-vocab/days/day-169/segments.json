@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 315,
+   "word_count": 294,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We audit our own metrics for vanity. We agree that the row count anomaly alert needs one more careful look before we commit. I link the schema change alert to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the results in plain language, and I write it down. I summarize what we decided about the honest confidence statement while the details are still fresh. Over coffee, Maria mentions, \"The pothos forgives everything.\" and I add, \"Watering schedule on the fridge.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "We audit our own metrics for vanity. We agree that the row count anomaly alert needs one more careful look before we commit. I link the schema change alert to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the results in plain language, and I write it down. I summarize what we decided about the honest confidence statement while the details are still fresh. Over coffee, Maria mentions, \"The pothos forgives everything.\" and I add, \"Watering schedule on the fridge.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "We audit our own metrics for vanity. We agree to give the row count anomaly alert one more careful look this week. I connect the schema change alert to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the results in plain language. While the details are fresh, I write down the honest confidence statement. Whiteboard practice: Maria offers, \"The pothos forgives everything.\" I add, \"Watering schedule on the fridge.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "We audit our own metrics for vanity. We agree to give the row count anomaly alert one more careful look this week. I connect the schema change alert to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the results in plain language. While the details are fresh, I write down the honest confidence statement. Whiteboard practice: Maria offers, \"The pothos forgives everything.\" I add, \"Watering schedule on the fridge.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们审计自己的指标，抓虚荣。我们一致认为，在动手之前行数异动告警还需要再仔细看一次。我把结构变更告警关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的平实语言写结果处理办法，我把它记了下来。趁细节还新鲜，我总结了关于诚实表达信心的决定。喝咖啡时，Maria提到：\"绿萝原谅一切。\"我补充了\"浇水表贴在冰箱上。\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我们审计自己的指标，抓虚荣。我们说好这周再把行数异动告警仔细看一次。我把结构变更告警关联到工单上，免得遗漏。Priya 提出了一个更清晰的平实语言写结果思考方式。趁细节还新鲜，我把诚实表达信心写了下来。白板练习：Maria给出：\"绿萝原谅一切。\"我补充：\"浇水表贴在冰箱上。\"然后Maria总结：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "row count anomaly alert",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Total signups retires with honor; activated teams takes the throne. Priya checks in with, \"New leaf, tiny festival.\" so I explain, \"Yellow leaf says slow down.\" without rushing. Priya suggests a simpler way to handle the duplicate spike detector, and I write it down. I summarize what we decided about the null rate monitor while the details are still fresh. The guide now includes a section on the what we would do differently, with examples and pitfalls. In today's standup, I give a quick update on the decision announced widely and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Total signups retires with honor; activated teams takes the throne. Priya checks in with, \"New leaf, tiny festival.\" so I explain, \"Yellow leaf says slow down.\" without rushing. Priya suggests a simpler way to handle the duplicate spike detector, and I write it down. I summarize what we decided about the null rate monitor while the details are still fresh. The guide now includes a section on the what we would do differently, with examples and pitfalls. In today's standup, I give a quick update on the decision announced widely and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Total signups retires with honor; activated teams takes the throne. Drill without notes: Maria asks, \"New leaf, tiny festival.\" I answer, \"Yellow leaf says slow down.\" and Maria closes, \"Exactly, and it saves time too.\" I connect the duplicate spike detector to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the null rate monitor. While the details are fresh, I write down the what we would do differently. The guide now has a short section on the decision announced widely. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Total signups retires with honor; activated teams takes the throne. Drill without notes: Maria asks, \"New leaf, tiny festival.\" I answer, \"Yellow leaf says slow down.\" and Maria closes, \"Exactly, and it saves time too.\" I connect the duplicate spike detector to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the null rate monitor. While the details are fresh, I write down the what we would do differently. The guide now has a short section on the decision announced widely. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "累计注册光荣退役；激活团队登上王座。Priya关心地问：\"新叶子\"于是我不慌不忙地解释：\"黄叶说：慢一点。\"Priya 提出了一个更简单的重复激增检测器处理办法，我把它记了下来。趁细节还新鲜，我总结了关于空值率监控的决定。指南里现在有关于下次会怎么做的章节，附有示例和坑点。在今天的站会上，我快速汇报了决定广而告之的进展和卡住我的地方。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "累计注册光荣退役；激活团队登上王座。脱稿演练：Maria问：\"新叶子\"我回答：\"黄叶说：慢一点。\"Maria收束：\"正是，而且还省时间。\"我把重复激增检测器关联到工单上，免得遗漏。Priya 提出了一个更清晰的空值率监控思考方式。趁细节还新鲜，我把下次会怎么做写了下来。指南里现在有关于决定广而告之的简短章节。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "duplicate spike detector",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the thank the holdout group needs one more careful look before we commit. I link the archived thread link to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the pipeline runtime trend, and I write it down. I summarize what we decided about the freshness lag chart while the details are still fresh. Over coffee, Maria mentions, \"Plants judge overwatering.\" and I add, \"Green room, green mind.\" with an example. A metric should change your decisions or change its job.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the thank the holdout group needs one more careful look before we commit. I link the archived thread link to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the pipeline runtime trend, and I write it down. I summarize what we decided about the freshness lag chart while the details are still fresh. Over coffee, Maria mentions, \"Plants judge overwatering.\" and I add, \"Green room, green mind.\" with an example. A metric should change your decisions or change its job.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the thank the holdout group and what comes next. We agree to give the archived thread link one more careful look this week. I connect the pipeline runtime trend to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the freshness lag chart. Meeting rehearsal: Leo opens, \"Plants judge overwatering.\" I respond, \"Green room, green mind.\" and Leo confirms, \"Keep practising, it is working.\" A metric should change your decisions or change its job.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the thank the holdout group and what comes next. We agree to give the archived thread link one more careful look this week. I connect the pipeline runtime trend to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the freshness lag chart. Meeting rehearsal: Leo opens, \"Plants judge overwatering.\" I respond, \"Green room, green mind.\" and Leo confirms, \"Keep practising, it is working.\" A metric should change your decisions or change its job.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们一致认为，在动手之前感谢保留组还需要再仔细看一次。我把归档讨论链接关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的管道耗时趋势处理办法，我把它记了下来。趁细节还新鲜，我总结了关于新鲜度滞后图的决定。喝咖啡时，Maria提到：\"植物审判过度关心。\"我补充了\"满眼绿色\"，还带了个例子。一个指标要么改变你的决策，要么改行。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到感谢保留组和接下来的安排。我们说好这周再把归档讨论链接仔细看一次。我把管道耗时趋势关联到工单上，免得遗漏。Priya 提出了一个更清晰的新鲜度滞后图思考方式。会议彩排：Leo开场：\"植物审判过度关心。\"我回应：\"满眼绿色\"Leo确认道：\"继续练，有效果了。\"一个指标要么改变你的决策，要么改行。",
    "hard": [
     {
      "w": "pipeline runtime trend",

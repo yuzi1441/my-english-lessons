@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 281,
+   "word_count": 284,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A real incident hits: saves time out for twenty minutes. I double-check the query plan before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the explain output so clearly. I keep a growing list of the compliance requirement on my desk for later. My notes about the data residency are getting sharper every single week. Maria greets me warmly with, \"Rain writes grey on the window.\" and I answer, \"I light a small lamp.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "A real incident hits: saves time out for twenty minutes. I double-check the query plan before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the explain output so clearly. I keep a growing list of the compliance requirement on my desk for later. My notes about the data residency are getting sharper every single week. Maria greets me warmly with, \"Rain writes grey on the window.\" and I answer, \"I light a small lamp.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "A real incident hits: saves time out for twenty minutes. There is a short paragraph about the query plan in the guide. I ask one good question about the explain output in the meeting. My notes about the compliance requirement look clearer this week. I spend ten quiet minutes on the data residency after the standup. Role play with feedback: Maria says, \"Rain writes grey on the window.\" I try, \"I light a small lamp.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "A real incident hits: saves time out for twenty minutes. There is a short paragraph about the query plan in the guide. I ask one good question about the explain output in the meeting. My notes about the compliance requirement look clearer this week. I spend ten quiet minutes on the data residency after the standup. Role play with feedback: Maria says, \"Rain writes grey on the window.\" I try, \"I light a small lamp.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一场真实事故来了：保存功能超时了二十分钟。回复之前我再核对一遍查询计划，因为答错要付出双倍代价。一位队友拦住我，感谢我把执行计划输出解释得这么清楚。我把一份越来越长的合规要求清单放在桌上，留着以后用。我关于数据驻留的笔记每周都变得更敏锐。Maria热情地用\"雨水在窗上写着灰色。\"和我打招呼，我回答：\"我点亮一盏小灯。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "一场真实事故来了：保存功能超时了二十分钟。指南里有一小段关于查询计划的介绍。会上关于执行计划输出，我问了一个好问题。这周我关于合规要求的笔记清楚多了。站会之后，我安安静静花了十分钟在数据驻留上。角色扮演加反馈：Maria说：\"雨水在窗上写着灰色。\"我试着说：\"我点亮一盏小灯。\"Maria补充道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "query plan",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We escalate cleanly, mitigate with a flag, and keep users informed in plain words. During the afternoon break, Priya says, \"Rain sounds beat white noise.\" I reply, \"Warm drink, slow page.\" I keep a growing list of the n+1 query on my desk for later. My notes about the connection timeout are getting sharper every single week. I asked Leo how he handles the audit evidence when the week gets heavy. The access review shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
-   "tts": "We escalate cleanly, mitigate with a flag, and keep users informed in plain words. During the afternoon break, Priya says, \"Rain sounds beat white noise.\" I reply, \"Warm drink, slow page.\" I keep a growing list of the n+1 query on my desk for later. My notes about the connection timeout are getting sharper every single week. I asked Leo how he handles the audit evidence when the week gets heavy. The access review shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
+   "en": "We escalate cleanly, mitigate with a flag, and keep users informed in plain words. Warm-up round: Maria offers, \"Rain sounds beat white noise.\" I answer, \"Warm drink, slow page.\" and Maria wraps up, \"That is the one we need today.\" I ask one good question about the n+1 query in the meeting. My notes about the connection timeout look clearer this week. I spend ten quiet minutes on the audit evidence after the standup. Sam asks me about the access review, and I explain the basics. The task moves forward, and so does my confidence.",
+   "tts": "We escalate cleanly, mitigate with a flag, and keep users informed in plain words. Warm-up round: Maria offers, \"Rain sounds beat white noise.\" I answer, \"Warm drink, slow page.\" and Maria wraps up, \"That is the one we need today.\" I ask one good question about the n+1 query in the meeting. My notes about the connection timeout look clearer this week. I spend ten quiet minutes on the audit evidence after the standup. Sam asks me about the access review, and I explain the basics. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们有序升级，用开关缓解，并用平实的话告知用户。下午休息时，Priya说：\"雨声胜过白噪音。\"我回答：\"热饮配慢书。\"我把一份越来越长的N+1 查询清单放在桌上，留着以后用。我关于连接超时的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理审计证据的。权限审查出现在我们迭代笔记里的次数比以前更多了。任务在推进，我的信心也在成长。",
+   "zh": "我们有序升级，用开关缓解，并用平实的话告知用户。热身一轮：Maria给出：\"雨声胜过白噪音。\"我回答：\"热饮配慢书。\"Maria收尾道：\"今天要的就是这句。\"会上关于N+1 查询，我问了一个好问题。这周我关于连接超时的笔记清楚多了。站会之后，我安安静静花了十分钟在审计证据上。Sam 问起权限审查，我讲了讲基础。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "n+1 query",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I double-check the privacy notice before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the retention schedule so clearly. I keep a growing list of the slow query log on my desk for later. My notes about the read replica are getting sharper every single week. Maria greets me warmly with, \"The plants love this weather.\" and I answer, \"Clouds pass, literally.\" Twenty minutes felt like a week, and the timeline proves it took twenty.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I double-check the privacy notice before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the retention schedule so clearly. I keep a growing list of the slow query log on my desk for later. My notes about the read replica are getting sharper every single week. Maria greets me warmly with, \"The plants love this weather.\" and I answer, \"Clouds pass, literally.\" Twenty minutes felt like a week, and the timeline proves it took twenty.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the privacy notice one more time before lunch. There is a short paragraph about the retention schedule in the guide. I ask one good question about the slow query log in the meeting. My notes about the read replica look clearer this week. We drill it twice: Leo starts, \"The plants love this weather.\" I reply, \"Clouds pass, literally.\" then Leo smiles, \"Nice, keep that one handy.\" Twenty minutes felt like a week, and the timeline proves it took twenty.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the privacy notice one more time before lunch. There is a short paragraph about the retention schedule in the guide. I ask one good question about the slow query log in the meeting. My notes about the read replica look clearer this week. We drill it twice: Leo starts, \"The plants love this weather.\" I reply, \"Clouds pass, literally.\" then Leo smiles, \"Nice, keep that one handy.\" Twenty minutes felt like a week, and the timeline proves it took twenty.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。回复之前我再核对一遍隐私声明，因为答错要付出双倍代价。一位队友拦住我，感谢我把留存时间表解释得这么清楚。我把一份越来越长的慢查询日志清单放在桌上，留着以后用。我关于只读副本的笔记每周都变得更敏锐。Maria热情地用\"植物最爱这天气。\"和我打招呼，我回答：\"乌云会过去的\"那二十分钟像一周那么长，而时间线证明它确实只有二十分钟。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍隐私声明。指南里有一小段关于留存时间表的介绍。会上关于慢查询日志，我问了一个好问题。这周我关于只读副本的笔记清楚多了。我们练了两遍：Leo起头：\"植物最爱这天气。\"我回答：\"乌云会过去的\"然后Leo笑着说：\"不错，把这句记在手边。\"那二十分钟像一周那么长，而时间线证明它确实只有二十分钟。",
    "hard": [
     {
      "w": "slow query log",

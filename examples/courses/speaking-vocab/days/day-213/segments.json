@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 333,
+   "word_count": 322,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Six sequential API calls, each waiting for the last. I prepare a one-page brief about the memory leak so meetings start from facts. The team sets a clear owner for the gc tuning, plus a deadline and review date. I compare two approaches to the leak report template, note the trade-offs, share both honestly. In review, I raise a careful question about the heap snapshot diff and its failure modes. When the design review starts each week, Priya asks, \"First in, first out in the fridge.\" and I answer, \"Leftovers get labeled dates.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "Six sequential A P I calls, each waiting for the last. I prepare a one-page brief about the memory leak so meetings start from facts. The team sets a clear owner for the gc tuning, plus a deadline and review date. I compare two approaches to the leak report template, note the trade-offs, share both honestly. In review, I raise a careful question about the heap snapshot diff and its failure modes. When the design review starts each week, Priya asks, \"First in, first out in the fridge.\" and I answer, \"Leftovers get labeled dates.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "Six sequential API calls, each waiting for the last. I compare two views on the memory leak and write both down honestly. I add the gc tuning to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the leak report template. During the design review, I raise one careful question about the heap snapshot diff. Dry run: Priya opens, \"First in, first out in the fridge.\" I follow, \"Leftovers get labeled dates.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "Six sequential A P I calls, each waiting for the last. I compare two views on the memory leak and write both down honestly. I add the gc tuning to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the leak report template. During the design review, I raise one careful question about the heap snapshot diff. Dry run: Priya opens, \"First in, first out in the fridge.\" I follow, \"Leftovers get labeled dates.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "六个串行的接口调用，每个都在等上一个。我准备了一页关于内存泄漏的简报，好让会议从事实出发。团队为垃圾回收调优定了明确的负责人，加上截止和复审日期。我比较了处理泄漏报告模板的两种方式，记下取舍，诚实分享。评审中，我就堆快照对比及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"冰箱里先进先出。\"我带着数字回答：\"剩菜都贴日期。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "六个串行的接口调用，每个都在等上一个。我比较了关于内存泄漏的两种观点，诚实地都记了下来。我把垃圾回收调优连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了泄漏报告模板上。设计评审中，我就堆快照对比提出了一个审慎的问题。干跑演练：Priya开场：\"冰箱里先进先出。\"我接上：\"剩菜都贴日期。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "memory leak",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Four of them become parallel; the page drops to three seconds by lunch. Leo opens the talk with, \"The freezer is long term storage.\" and I follow up with, \"I evict expired jars weekly.\" and a proposal. I compare two approaches to the object pool, note the trade-offs, share both honestly. In review, I raise a careful question about the allocation rate and its failure modes. Our mentor walks me through the allocation tracking flag's history, including two painful lessons. We weigh the cost of changing the oom incident review against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Four of them become parallel; the page drops to three seconds by lunch. Leo opens the talk with, \"The freezer is long term storage.\" and I follow up with, \"I evict expired jars weekly.\" and a proposal. I compare two approaches to the object pool, note the trade-offs, share both honestly. In review, I raise a careful question about the allocation rate and its failure modes. Our mentor walks me through the allocation tracking flag's history, including two painful lessons. We weigh the cost of changing the oom incident review against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Four of them become parallel; the page drops to three seconds by lunch. Practice debate: Priya argues, \"The freezer is long term storage.\" I respond calmly, \"I evict expired jars weekly.\" and Priya concedes, \"Strong answer — keep that precision.\" I add the object pool to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the allocation rate. During the design review, I raise one careful question about the allocation tracking flag. Our mentor walks me through how the oom incident review evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Four of them become parallel; the page drops to three seconds by lunch. Practice debate: Priya argues, \"The freezer is long term storage.\" I respond calmly, \"I evict expired jars weekly.\" and Priya concedes, \"Strong answer — keep that precision.\" I add the object pool to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the allocation rate. During the design review, I raise one careful question about the allocation tracking flag. Our mentor walks me through how the oom incident review evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "其中四个改成并行；午饭前页面降到三秒。Leo以\"冷冻室是长期存储。\"开启话题，我接着说了\"每周清走过期罐子。\"还附了个提案。我比较了处理对象池的两种方式，记下取舍，诚实分享。评审中，我就分配速率及其失效模式提出了一个审慎的问题。导师带我梳理了分配追踪开关的历史，包括两次惨痛的教训。我们权衡了改动内存溢出事故复盘的代价与放着不管的风险。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "其中四个改成并行；午饭前页面降到三秒。练习辩论：Priya主张：\"冷冻室是长期存储。\"我平静地回应：\"每周清走过期罐子。\"Priya承认道：\"回答有力——保持这种精确。\"我把对象池连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了分配速率上。设计评审中，我就分配追踪开关提出了一个审慎的问题。导师带我梳理了内存溢出事故复盘在这个团队里的演变。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "object pool",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the service memory budget so meetings start from facts. The team sets a clear owner for the staging profiler, plus a deadline and review date. I compare two approaches to the heap dump review, note the trade-offs, share both honestly. In review, I raise a careful question about the eviction policy and its failure modes. When the design review starts each week, Priya asks, \"Glass containers are reusable objects.\" and I answer, \"The fridge audit saves money.\" with numbers. Fast code is code you never wait for.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the service memory budget so meetings start from facts. The team sets a clear owner for the staging profiler, plus a deadline and review date. I compare two approaches to the heap dump review, note the trade-offs, share both honestly. In review, I raise a careful question about the eviction policy and its failure modes. When the design review starts each week, Priya asks, \"Glass containers are reusable objects.\" and I answer, \"The fridge audit saves money.\" with numbers. Fast code is code you never wait for.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the service memory budget. I compare two views on the staging profiler and write both down honestly. I add the heap dump review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the eviction policy. Review warm-up: Maria raises, \"Glass containers are reusable objects.\" I answer, \"The fridge audit saves money.\" and Maria grades it, \"Agreed, note it in the ticket.\" Fast code is code you never wait for.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the service memory budget. I compare two views on the staging profiler and write both down honestly. I add the heap dump review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the eviction policy. Review warm-up: Maria raises, \"Glass containers are reusable objects.\" I answer, \"The fridge audit saves money.\" and Maria grades it, \"Agreed, note it in the ticket.\" Fast code is code you never wait for.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于服务内存预算的简报，好让会议从事实出发。团队为预发布分析器定了明确的负责人，加上截止和复审日期。我比较了处理堆转储分析的两种方式，记下取舍，诚实分享。评审中，我就缓存淘汰策略及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"玻璃盒是可复用对象。\"我带着数字回答：\"冰箱审计省钱。\"快的代码，是你从不用等代码。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为服务内存预算指定了明确的负责人。我比较了关于预发布分析器的两种观点，诚实地都记了下来。我把堆转储分析连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了缓存淘汰策略上。评审热身：Maria抛出：\"玻璃盒是可复用对象。\"我带着数字回答：\"冰箱审计省钱。\"Maria点评道：\"同意，把这条记到工单里。\"快的代码，是你从不用等代码。",
    "hard": [
     {
      "w": "heap dump review",

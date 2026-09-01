@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 228,
+   "word_count": 223,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My order is wrong at the shop, and I ask to change it. Priya starts with \"I received the wrong order.\" and I continue with \"Could I get a refund?\" Before the meeting, I review the log file one more time. I parse data so the team can see the change. When I use the deployment job, I ask Maria for advice. I compare the test failure with my notes. The work is not easy, but I keep going.",
-   "tts": "My order is wrong at the shop, and I ask to change it. Priya starts with \"I received the wrong order.\" and I continue with \"Could I get a refund?\" Before the meeting, I review the log file one more time. I parse data so the team can see the change. When I use the deployment job, I ask Maria for advice. I compare the test failure with my notes. The work is not easy, but I keep going.",
+   "en": "My order is wrong at the shop, and I ask to change it. At the table, Maria says, \"I received the wrong order.\" I think, then answer, \"Could I get a refund?\" I compare the log file with my notes. I parse data, and Priya watches the result. After lunch, I check the deployment job again. Before the meeting, I review the test failure one more time. The work is not easy, but I keep going.",
+   "tts": "My order is wrong at the shop, and I ask to change it. At the table, Maria says, \"I received the wrong order.\" I think, then answer, \"Could I get a refund?\" I compare the log file with my notes. I parse data, and Priya watches the result. After lunch, I check the deployment job again. Before the meeting, I review the test failure one more time. The work is not easy, but I keep going.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我在商店拿错了订单，我请求更换。Priya先说了\"我收到了错误的订单。\"我接着说：\"我可以退款吗？\"开会前，我又复习了一遍日志文件。我解析数据，好让团队看到变化。使用部署任务时，我向 Maria 请教。我把测试失败和我的笔记做了比较。工作不容易，但我继续前进。",
+   "zh": "我在商店拿错了订单，我请求更换。桌边，Maria说：\"我收到了错误的订单。\"我想了想，回答：\"我可以退款吗？\"我把日志文件和我的笔记做了比较。我解析数据，Priya 在旁边看结果。午饭后，我又检查了一遍部署任务。开会前，我又复习了一遍测试失败。工作不容易，但我继续前进。",
    "hard": [
     {
      "w": "log file",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. Priya and I look for a detail in the build artifact. After lunch, I check the deployment environment again. Before the meeting, I review structured data one more time. The team talks about the log entry at the standup. At the table, Maria says, \"Could you replace it?\" I think, then answer, \"Thank you for resolving this.\" The deployment works. We watch the logs together.",
-   "tts": "Before I leave, I review what I did today. Priya and I look for a detail in the build artifact. After lunch, I check the deployment environment again. Before the meeting, I review structured data one more time. The team talks about the log entry at the standup. At the table, Maria says, \"Could you replace it?\" I think, then answer, \"Thank you for resolving this.\" The deployment works. We watch the logs together.",
+   "en": "Before I leave, I review what I did today. After lunch, I check the build artifact again. Before the meeting, I review the deployment environment one more time. The team talks about structured data at the standup. When I use the log entry, I ask Maria for advice. When we meet, Leo says, \"Could you replace it?\" I reply, \"Thank you for resolving this.\" The deployment works. We watch the logs together.",
+   "tts": "Before I leave, I review what I did today. After lunch, I check the build artifact again. Before the meeting, I review the deployment environment one more time. The team talks about structured data at the standup. When I use the log entry, I ask Maria for advice. When we meet, Leo says, \"Could you replace it?\" I reply, \"Thank you for resolving this.\" The deployment works. We watch the logs together.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。Priya 和我在构建产物里找一个细节。午饭后，我又检查了一遍部署环境。开会前，我又复习了一遍结构化数据。团队在站会上讨论了日志条目。桌边，Maria说：\"你可以更换它吗？\"我想了想，回答：\"谢谢你解决这个问题。\"部署成功了。我们一起观察日志。",
+   "zh": "离开前，我回顾了今天做的事。午饭后，我又检查了一遍构建产物。开会前，我又复习了一遍部署环境。团队在站会上讨论了结构化数据。使用日志条目时，我向 Maria 请教。见面时，Leo说：\"你可以更换它吗？\"我回答：\"谢谢你解决这个问题。\"部署成功了。我们一起观察日志。",
    "hard": [
     {
      "w": "structured data",

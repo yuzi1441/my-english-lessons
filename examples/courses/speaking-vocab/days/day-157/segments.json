@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 307,
+   "word_count": 279,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I build a drafts dashboard with six charts. We agree that the cohort analysis needs one more careful look before we commit. I link the retention matrix to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the analytics engineer, and I write it down. I summarize what we decided about the metrics layer while the details are still fresh. Over coffee, Maria mentions, \"Data migration for humans.\" and I add, \"The cloud did the heavy lifting.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "I build a drafts dashboard with six charts. We agree that the cohort analysis needs one more careful look before we commit. I link the retention matrix to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the analytics engineer, and I write it down. I summarize what we decided about the metrics layer while the details are still fresh. Over coffee, Maria mentions, \"Data migration for humans.\" and I add, \"The cloud did the heavy lifting.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "I build a drafts dashboard with six charts. The guide now has a short section on the cohort analysis. I compare my notes about the retention matrix with Priya's. At the review, we spend ten minutes on the analytics engineer. In today's standup, I mention the metrics layer and what comes next. Whiteboard practice: Maria offers, \"Data migration for humans.\" I add, \"The cloud did the heavy lifting.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "I build a drafts dashboard with six charts. The guide now has a short section on the cohort analysis. I compare my notes about the retention matrix with Priya's. At the review, we spend ten minutes on the analytics engineer. In today's standup, I mention the metrics layer and what comes next. Whiteboard practice: Maria offers, \"Data migration for humans.\" I add, \"The cloud did the heavy lifting.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我做了一个草稿看板，六张图。我们一致认为，在动手之前同期群分析还需要再仔细看一次。我把留存矩阵关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的分析工程师处理办法，我把它记了下来。趁细节还新鲜，我总结了关于指标层的决定。喝咖啡时，Maria提到：\"普通人的数据搬家。\"我补充了\"云干了重活。\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我做了一个草稿看板，六张图。指南里现在有关于同期群分析的简短章节。我把关于留存矩阵的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在分析工程师上。今天的站会上，我提到指标层和接下来的安排。白板练习：Maria给出：\"普通人的数据搬家。\"我补充：\"云干了重活。\"然后Maria总结：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "cohort analysis",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The colorblind-safe palette takes longer and earns a thank you from Sam. Priya checks in with, \"Two factor, save the codes.\" so I explain, \"The contact list doubled.\" without rushing. Priya suggests a simpler way to handle the feature adoption rate, and I write it down. I summarize what we decided about the power user curve while the details are still fresh. The guide now includes a section on the semantic definitions file, with examples and pitfalls. In today's standup, I give a quick update on the dimensional modeling and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "The colorblind-safe palette takes longer and earns a thank you from Sam. Priya checks in with, \"Two factor, save the codes.\" so I explain, \"The contact list doubled.\" without rushing. Priya suggests a simpler way to handle the feature adoption rate, and I write it down. I summarize what we decided about the power user curve while the details are still fresh. The guide now includes a section on the semantic definitions file, with examples and pitfalls. In today's standup, I give a quick update on the dimensional modeling and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "The colorblind-safe palette takes longer and earns a thank you from Sam. Drill without notes: Maria asks, \"Two factor, save the codes.\" I answer, \"The contact list doubled.\" and Maria closes, \"Exactly, and it saves time too.\" I compare my notes about the feature adoption rate with Priya's. At the review, we spend ten minutes on the power user curve. In today's standup, I mention the semantic definitions file and what comes next. We agree to give the dimensional modeling one more careful look this week. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The colorblind-safe palette takes longer and earns a thank you from Sam. Drill without notes: Maria asks, \"Two factor, save the codes.\" I answer, \"The contact list doubled.\" and Maria closes, \"Exactly, and it saves time too.\" I compare my notes about the feature adoption rate with Priya's. At the review, we spend ten minutes on the power user curve. In today's standup, I mention the semantic definitions file and what comes next. We agree to give the dimensional modeling one more careful look this week. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "色盲友好配色多花了点时间，换来 Sam 的感谢。Priya关心地问：\"两步验证\"于是我不慌不忙地解释：\"通讯录翻倍了\"Priya 提出了一个更简单的功能采用率处理办法，我把它记了下来。趁细节还新鲜，我总结了关于高频用户曲线的决定。指南里现在有关于语义定义文件的章节，附有示例和坑点。在今天的站会上，我快速汇报了维度建模的进展和卡住我的地方。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "色盲友好配色多花了点时间，换来 Sam 的感谢。脱稿演练：Maria问：\"两步验证\"我回答：\"通讯录翻倍了\"Maria收束：\"正是，而且还省时间。\"我把关于功能采用率的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在高频用户曲线上。今天的站会上，我提到语义定义文件和接下来的安排。我们说好这周再把维度建模仔细看一次。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "feature adoption rate",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the snapshot table needs one more careful look before we commit. I link the transform test suite to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the session depth, and I write it down. I summarize what we decided about the activation funnel while the details are still fresh. Over coffee, Maria mentions, \"Photos, all forty thousand.\" and I add, \"Old phone becomes a camera.\" with an example. A dashboard is a room; tidy it like one.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the snapshot table needs one more careful look before we commit. I link the transform test suite to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the session depth, and I write it down. I summarize what we decided about the activation funnel while the details are still fresh. Over coffee, Maria mentions, \"Photos, all forty thousand.\" and I add, \"Old phone becomes a camera.\" with an example. A dashboard is a room; tidy it like one.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the snapshot table. The guide now has a short section on the transform test suite. I compare my notes about the session depth with Priya's. At the review, we spend ten minutes on the activation funnel. Meeting rehearsal: Leo opens, \"Photos, all forty thousand.\" I respond, \"Old phone becomes a camera.\" and Leo confirms, \"Keep practising, it is working.\" A dashboard is a room; tidy it like one.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the snapshot table. The guide now has a short section on the transform test suite. I compare my notes about the session depth with Priya's. At the review, we spend ten minutes on the activation funnel. Meeting rehearsal: Leo opens, \"Photos, all forty thousand.\" I respond, \"Old phone becomes a camera.\" and Leo confirms, \"Keep practising, it is working.\" A dashboard is a room; tidy it like one.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们一致认为，在动手之前快照表还需要再仔细看一次。我把转换测试套件关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的会话深度处理办法，我把它记了下来。趁细节还新鲜，我总结了关于激活漏斗的决定。喝咖啡时，Maria提到：\"照片\"我补充了\"旧手机改行当相机。\"，还带了个例子。看板是一个房间；要像收拾房间一样收拾它。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把快照表写了下来。指南里现在有关于转换测试套件的简短章节。我把关于会话深度的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在激活漏斗上。会议彩排：Leo开场：\"照片\"我回应：\"旧手机改行当相机。\"Leo确认道：\"继续练，有效果了。\"看板是一个房间；要像收拾房间一样收拾它。",
    "hard": [
     {
      "w": "session depth",

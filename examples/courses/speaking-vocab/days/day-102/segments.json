@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 279,
+   "word_count": 291,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A newcomer mocks everything, even the sun and the moon. I keep a growing list of the escape analysis on my desk for later. My notes about the bug clustering are getting sharper every single week. I asked Leo how he handles the escaped defect rate when the week gets heavy. The defect discovery time shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"The kitchen is my lab.\" I reply, \"A recipe is a suggestion.\" I end the day with fewer unknowns than I started with.",
-   "tts": "A newcomer mocks everything, even the sun and the moon. I keep a growing list of the escape analysis on my desk for later. My notes about the bug clustering are getting sharper every single week. I asked Leo how he handles the escaped defect rate when the week gets heavy. The defect discovery time shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"The kitchen is my lab.\" I reply, \"A recipe is a suggestion.\" I end the day with fewer unknowns than I started with.",
+   "en": "A newcomer mocks everything, even the sun and the moon. Sam asks me about the escape analysis, and I explain the basics. I keep one real example of the bug clustering in my notebook. I add the escaped defect rate to my study notes before I forget it. I go over the defect discovery time one more time before lunch. Role play with feedback: Priya says, \"The kitchen is my lab.\" I try, \"A recipe is a suggestion.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "A newcomer mocks everything, even the sun and the moon. Sam asks me about the escape analysis, and I explain the basics. I keep one real example of the bug clustering in my notebook. I add the escaped defect rate to my study notes before I forget it. I go over the defect discovery time one more time before lunch. Role play with feedback: Priya says, \"The kitchen is my lab.\" I try, \"A recipe is a suggestion.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位新人把一切都模拟了，连太阳和月亮也不放过。我把一份越来越长的逃逸分析清单放在桌上，留着以后用。我关于缺陷聚集的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理逃逸缺陷率的。缺陷发现时间出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"厨房是我的实验室。\"我回答：\"食谱只是建议。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "一位新人把一切都模拟了，连太阳和月亮也不放过。Sam 问起逃逸分析，我讲了讲基础。我在笔记本里留了一个缺陷聚集的真实例子。我趁还没忘，把逃逸缺陷率记进了学习笔记。午饭前我又过了一遍缺陷发现时间。角色扮演加反馈：Priya说：\"厨房是我的实验室。\"我试着说：\"食谱只是建议。\"Priya补充道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "escape analysis",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The debate ends with a rule: mock the edges, trust the middle. Leo stops by my desk, asks, \"Salt, taste, repeat.\" and I answer, \"Failed bread, great croutons.\" I asked Leo how he handles the defect density when the week gets heavy. The root cause tree shows up in our sprint notes more often than before. I double-check the fix lead time before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the reopened issues so clearly. Small progress today prepares the bigger step tomorrow.",
-   "tts": "The debate ends with a rule: mock the edges, trust the middle. Leo stops by my desk, asks, \"Salt, taste, repeat.\" and I answer, \"Failed bread, great croutons.\" I asked Leo how he handles the defect density when the week gets heavy. The root cause tree shows up in our sprint notes more often than before. I double-check the fix lead time before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the reopened issues so clearly. Small progress today prepares the bigger step tomorrow.",
+   "en": "The debate ends with a rule: mock the edges, trust the middle. Warm-up round: Priya offers, \"Salt, taste, repeat.\" I answer, \"Failed bread, great croutons.\" and Priya wraps up, \"Good — try it in today’s task.\" I keep one real example of the defect density in my notebook. I add the root cause tree to my study notes before I forget it. I go over the fix lead time one more time before lunch. There is a short paragraph about the reopened issues in the guide. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The debate ends with a rule: mock the edges, trust the middle. Warm-up round: Priya offers, \"Salt, taste, repeat.\" I answer, \"Failed bread, great croutons.\" and Priya wraps up, \"Good — try it in today’s task.\" I keep one real example of the defect density in my notebook. I add the root cause tree to my study notes before I forget it. I go over the fix lead time one more time before lunch. There is a short paragraph about the reopened issues in the guide. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "辩论以一条规则收场：模拟边缘，信任中间。Leo走到我桌边问：\"加盐、尝、重复。\"我回答：\"面包失败\"我问 Leo，当一周变得繁重时他是怎么处理缺陷密度的。根因树出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍修复周期，因为答错要付出双倍代价。一位队友拦住我，感谢我把重开问题解释得这么清楚。今天的小进步为明天更大的跨越做准备。",
+   "zh": "辩论以一条规则收场：模拟边缘，信任中间。热身一轮：Priya给出：\"加盐、尝、重复。\"我回答：\"面包失败\"Priya收尾道：\"好——今天的任务里就用上。\"我在笔记本里留了一个缺陷密度的真实例子。我趁还没忘，把根因树记进了学习笔记。午饭前我又过了一遍修复周期。指南里有一小段关于重开问题的介绍。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "defect density",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the defect origin on my desk for later. My notes about the quality trend are getting sharper every single week. I asked Leo how he handles the five whys when the week gets heavy. The corrective action shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Write down what worked.\" I reply, \"Fridge leftovers, next soup.\" Tests that mock the world only prove the mock works.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the defect origin on my desk for later. My notes about the quality trend are getting sharper every single week. I asked Leo how he handles the five whys when the week gets heavy. The corrective action shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Write down what worked.\" I reply, \"Fridge leftovers, next soup.\" Tests that mock the world only prove the mock works.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the defect origin after the standup. Sam asks me about the quality trend, and I explain the basics. I keep one real example of the five whys in my notebook. I add the corrective action to my study notes before I forget it. We drill it twice: Maria starts, \"Write down what worked.\" I reply, \"Fridge leftovers, next soup.\" then Maria smiles, \"That is the one we need today.\" Tests that mock the world only prove the mock works.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the defect origin after the standup. Sam asks me about the quality trend, and I explain the basics. I keep one real example of the five whys in my notebook. I add the corrective action to my study notes before I forget it. We drill it twice: Maria starts, \"Write down what worked.\" I reply, \"Fridge leftovers, next soup.\" then Maria smiles, \"That is the one we need today.\" Tests that mock the world only prove the mock works.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我把一份越来越长的缺陷来源清单放在桌上，留着以后用。我关于质量趋势的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理五个为什么的。纠正措施出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"成功的要记下来。\"我回答：\"冰箱剩菜\"把世界都模拟掉的测试，只能证明模拟本身没问题。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在缺陷来源上。Sam 问起质量趋势，我讲了讲基础。我在笔记本里留了一个五个为什么的真实例子。我趁还没忘，把纠正措施记进了学习笔记。我们练了两遍：Maria起头：\"成功的要记下来。\"我回答：\"冰箱剩菜\"然后Maria笑着说：\"今天要的就是这句。\"把世界都模拟掉的测试，只能证明模拟本身没问题。",
    "hard": [
     {
      "w": "five whys",

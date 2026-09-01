@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 216,
+   "word_count": 220,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "In the afternoon, there is a fire drill. Everyone is safe. When we meet, Leo says, \"Where is the nearest hospital?\" I reply, \"I've lost my phone.\" When I use the privacy setting, I ask Maria for advice. I compare the data backup with my notes. Priya and I look for a detail in the required approval. It takes me ten minutes to restrict pushes. With the team's help, the problem becomes smaller.",
-   "tts": "In the afternoon, there is a fire drill. Everyone is safe. When we meet, Leo says, \"Where is the nearest hospital?\" I reply, \"I've lost my phone.\" When I use the privacy setting, I ask Maria for advice. I compare the data backup with my notes. Priya and I look for a detail in the required approval. It takes me ten minutes to restrict pushes. With the team's help, the problem becomes smaller.",
+   "en": "In the afternoon, there is a fire drill. Everyone is safe. Priya starts with \"Where is the nearest hospital?\" and I continue with \"I've lost my phone.\" After lunch, I check the privacy setting again. Before the meeting, I review the data backup one more time. The team talks about the required approval at the standup. Before I restrict pushes, I read the note. With the team's help, the problem becomes smaller.",
+   "tts": "In the afternoon, there is a fire drill. Everyone is safe. Priya starts with \"Where is the nearest hospital?\" and I continue with \"I've lost my phone.\" After lunch, I check the privacy setting again. Before the meeting, I review the data backup one more time. The team talks about the required approval at the standup. Before I restrict pushes, I read the note. With the team's help, the problem becomes smaller.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "下午，大楼有消防演习。所有人都安全。见面时，Leo说：\"最近的医院在哪里？\"我回答：\"我的手机丢了。\"使用隐私设置时，我向 Maria 请教。我把数据备份和我的笔记做了比较。Priya 和我在必需批准里找一个细节。我花了十分钟限制推送。在团队的帮助下，问题变小了。",
+   "zh": "下午，大楼有消防演习。所有人都安全。Priya先说了\"最近的医院在哪里？\"我接着说：\"我的手机丢了。\"午饭后，我又检查了一遍隐私设置。开会前，我又复习了一遍数据备份。团队在站会上讨论了必需批准。在限制推送之前，我先看了说明。在团队的帮助下，问题变小了。",
    "hard": [
     {
      "w": "privacy setting",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. Before the meeting, I review the signed commit one more time. The team talks about the security policy at the standup. Before I restore data, I read the note. I compare the recovery key with my notes. Priya starts with \"Please contact the police.\" and I continue with \"Is everyone safe?\" Now I understand the rule: reviews protect the main branch.",
-   "tts": "Before I leave, I review what I did today. Before the meeting, I review the signed commit one more time. The team talks about the security policy at the standup. Before I restore data, I read the note. I compare the recovery key with my notes. Priya starts with \"Please contact the police.\" and I continue with \"Is everyone safe?\" Now I understand the rule: reviews protect the main branch.",
+   "en": "Before I leave, I review what I did today. The team talks about the signed commit at the standup. When I use the security policy, I ask Maria for advice. When I restore data, I follow the guide. Priya and I look for a detail in the recovery key. At the table, Maria says, \"Please contact the police.\" I think, then answer, \"Is everyone safe?\" Now I understand the rule: reviews protect the main branch.",
+   "tts": "Before I leave, I review what I did today. The team talks about the signed commit at the standup. When I use the security policy, I ask Maria for advice. When I restore data, I follow the guide. Priya and I look for a detail in the recovery key. At the table, Maria says, \"Please contact the police.\" I think, then answer, \"Is everyone safe?\" Now I understand the rule: reviews protect the main branch.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。开会前，我又复习了一遍签名提交。团队在站会上讨论了安全政策。在恢复数据之前，我先看了说明。我把恢复密钥和我的笔记做了比较。Priya先说了\"请联系警察。\"我接着说：\"所有人都安全吗？\"现在我理解了规则：评审保护主分支。",
+   "zh": "离开前，我回顾了今天做的事。团队在站会上讨论了签名提交。使用安全政策时，我向 Maria 请教。我恢复数据时，按照指南操作。Priya 和我在恢复密钥里找一个细节。桌边，Maria说：\"请联系警察。\"我想了想，回答：\"所有人都安全吗？\"现在我理解了规则：评审保护主分支。",
    "hard": [
     {
      "w": "restore data",

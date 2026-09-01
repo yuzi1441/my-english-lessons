@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 322,
+   "word_count": 318,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We audit what our build actually ingests. Our mentor walks me through the app hardening checklist's history, including two painful lessons. We weigh the cost of changing the secure storage api against leaving it alone. I prepare a one-page brief about the release hardening gate so meetings start from facts. The team sets a clear owner for the secret in app check, plus a deadline and review date. Maria raises, \"Auto lock at thirty seconds.\" and I respond calmly, \"App permissions audited monthly.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "We audit what our build actually ingests. Our mentor walks me through the app hardening checklist's history, including two painful lessons. We weigh the cost of changing the secure storage api against leaving it alone. I prepare a one-page brief about the release hardening gate so meetings start from facts. The team sets a clear owner for the secret in app check, plus a deadline and review date. Maria raises, \"Auto lock at thirty seconds.\" and I respond calmly, \"App permissions audited monthly.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "We audit what our build actually ingests. I compare two views on the app hardening checklist and write both down honestly. I add the secure storage api to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the release hardening gate. During the design review, I raise one careful question about the secret in app check. Dry run: Maria opens, \"Auto lock at thirty seconds.\" I follow, \"App permissions audited monthly.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We audit what our build actually ingests. I compare two views on the app hardening checklist and write both down honestly. I add the secure storage api to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the release hardening gate. During the design review, I raise one careful question about the secret in app check. Dry run: Maria opens, \"Auto lock at thirty seconds.\" I follow, \"App permissions audited monthly.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们审计构建流水线真正吃进去的东西。导师带我梳理了应用加固清单的历史，包括两次惨痛的教训。我们权衡了改动安全存储接口的代价与放着不管的风险。我准备了一页关于发布加固门禁的简报，好让会议从事实出发。团队为应用内机密检查定了明确的负责人，加上截止和复审日期。Maria提出：\"三十秒自动锁屏。\"我从容地回应：\"应用权限每月查。\"因为慌张从来没用。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们审计构建流水线真正吃进去的东西。我比较了关于应用加固清单的两种观点，诚实地都记了下来。我把安全存储接口连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了发布加固门禁上。设计评审中，我就应用内机密检查提出了一个审慎的问题。干跑演练：Maria开场：\"三十秒自动锁屏。\"我接上：\"应用权限每月查。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "app hardening checklist",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A pinned dependency and a signed artifact become our new handshake. When the design review starts each week, Priya asks, \"Unknown links open nowhere.\" and I answer, \"Find my phone, tested.\" with numbers. I prepare a one-page brief about the root detection policy so meetings start from facts. The team sets a clear owner for the code obfuscation tradeoff, plus a deadline and review date. I compare two approaches to the deep link test suite, note the trade-offs, share both honestly. In review, I raise a careful question about the secure storage usage lint and its failure modes. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "A pinned dependency and a signed artifact become our new handshake. When the design review starts each week, Priya asks, \"Unknown links open nowhere.\" and I answer, \"Find my phone, tested.\" with numbers. I prepare a one-page brief about the root detection policy so meetings start from facts. The team sets a clear owner for the code obfuscation tradeoff, plus a deadline and review date. I compare two approaches to the deep link test suite, note the trade-offs, share both honestly. In review, I raise a careful question about the secure storage usage lint and its failure modes. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "A pinned dependency and a signed artifact become our new handshake. Practice debate: Maria argues, \"Unknown links open nowhere.\" I respond calmly, \"Find my phone, tested.\" and Maria concedes, \"Agreed, note it in the ticket.\" I add the root detection policy to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the code obfuscation tradeoff. During the design review, I raise one careful question about the deep link test suite. Our mentor walks me through how the secure storage usage lint evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "A pinned dependency and a signed artifact become our new handshake. Practice debate: Maria argues, \"Unknown links open nowhere.\" I respond calmly, \"Find my phone, tested.\" and Maria concedes, \"Agreed, note it in the ticket.\" I add the root detection policy to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the code obfuscation tradeoff. During the design review, I raise one careful question about the deep link test suite. Our mentor walks me through how the secure storage usage lint evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "固定依赖加签名产物，成了新的握手礼。评审开始时，Priya问：\"可疑链接哪都不打开。\"我带着数字回答：\"查找手机功能\"我准备了一页关于越狱检测策略的简报，好让会议从事实出发。团队为代码混淆取舍定了明确的负责人，加上截止和复审日期。我比较了处理深链测试套件的两种方式，记下取舍，诚实分享。评审中，我就安全存储使用检查及其失效模式提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "固定依赖加签名产物，成了新的握手礼。练习辩论：Maria主张：\"可疑链接哪都不打开。\"我平静地回应：\"查找手机功能\"Maria承认道：\"同意，把这条记到工单里。\"我把越狱检测策略连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了代码混淆取舍上。设计评审中，我就深链测试套件提出了一个审慎的问题。导师带我梳理了安全存储使用检查在这个团队里的演变。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "root detection policy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through the tamper response drill's history, including two painful lessons. We weigh the cost of changing the mobile incident runbook against leaving it alone. I prepare a one-page brief about the screen capture guard so meetings start from facts. The team sets a clear owner for the deep link validation, plus a deadline and review date. Maria raises, \"Sim pin enabled quietly.\" and I respond calmly, \"Public chargers, data only.\" because panic never helped anyone. Trust every ingredient, but read the label.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through the tamper response drill's history, including two painful lessons. We weigh the cost of changing the mobile incident runbook against leaving it alone. I prepare a one-page brief about the screen capture guard so meetings start from facts. The team sets a clear owner for the deep link validation, plus a deadline and review date. Maria raises, \"Sim pin enabled quietly.\" and I respond calmly, \"Public chargers, data only.\" because panic never helped anyone. Trust every ingredient, but read the label.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the tamper response drill. I compare two views on the mobile incident runbook and write both down honestly. I add the screen capture guard to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the deep link validation. Review warm-up: Leo raises, \"Sim pin enabled quietly.\" I answer, \"Public chargers, data only.\" and Leo grades it, \"That is the level we need.\" Trust every ingredient, but read the label.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the tamper response drill. I compare two views on the mobile incident runbook and write both down honestly. I add the screen capture guard to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the deep link validation. Review warm-up: Leo raises, \"Sim pin enabled quietly.\" I answer, \"Public chargers, data only.\" and Leo grades it, \"That is the level we need.\" Trust every ingredient, but read the label.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了篡改响应演习的历史，包括两次惨痛的教训。我们权衡了改动移动端事件手册的代价与放着不管的风险。我准备了一页关于截屏防护的简报，好让会议从事实出发。团队为深链校验定了明确的负责人，加上截止和复审日期。Maria提出：\"SIM 卡密码悄悄开了。\"我从容地回应：\"公共充电桩只传数据不认信任。\"因为慌张从来没用。信任每种食材，但要读标签。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为篡改响应演习指定了明确的负责人。我比较了关于移动端事件手册的两种观点，诚实地都记了下来。我把截屏防护连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了深链校验上。评审热身：Leo抛出：\"SIM 卡密码悄悄开了。\"我带着数字回答：\"公共充电桩只传数据不认信任。\"Leo点评道：\"我们要的就是这个水平。\"信任每种食材，但要读标签。",
    "hard": [
     {
      "w": "screen capture guard",

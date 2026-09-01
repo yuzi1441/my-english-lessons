@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 217,
+   "word_count": 221,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We compare two options and make a decision. Before we part, Leo says, \"I need an extension.\" I answer, \"The task is taking longer than expected.\" The result depends on the connection failure, so I check it twice. I explain the retry limit to a new teammate. We discuss the risk around the merge commit. I squash commits while the others watch the dashboard. The team agrees on the plan, and I record the decision.",
-   "tts": "We compare two options and make a decision. Before we part, Leo says, \"I need an extension.\" I answer, \"The task is taking longer than expected.\" The result depends on the connection failure, so I check it twice. I explain the retry limit to a new teammate. We discuss the risk around the merge commit. I squash commits while the others watch the dashboard. The team agrees on the plan, and I record the decision.",
+   "en": "We compare two options and make a decision. Priya checks with me, \"I need an extension.\" I answer clearly, \"The task is taking longer than expected.\" I document the connection failure so the team can review it later. If the retry limit fails, we need a clear plan. I suggest that we check the merge commit first. If we squash commits, the result should be safe. The team agrees on the plan, and I record the decision.",
+   "tts": "We compare two options and make a decision. Priya checks with me, \"I need an extension.\" I answer clearly, \"The task is taking longer than expected.\" I document the connection failure so the team can review it later. If the retry limit fails, we need a clear plan. I suggest that we check the merge commit first. If we squash commits, the result should be safe. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们比较了两个选项，做出了决定。分开前，Leo说：\"我需要延期。\"我回答：\"任务花的时间比预期更长。\"结果取决于连接失败，所以我检查了两遍。我向一位新队友解释了重试上限。我们讨论了合并提交相关的风险。我压缩提交，其他队友盯着仪表盘。团队就计划达成一致，我记录了决定。",
+   "zh": "我们比较了两个选项，做出了决定。Priya向我确认：\"我需要延期。\"我清楚地回答：\"任务花的时间比预期更长。\"我把连接失败写成文档，方便团队之后查看。如果重试上限失败，我们需要一个清晰的方案。我建议我们先检查合并提交。如果我们压缩提交，结果应该是安全的。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "connection failure",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I rebase a branch and then explain the risk. I suggest that we check linear history first. The result depends on the backoff delay, so I check it twice. I explain the network interruption to a new teammate. Priya checks with me, \"I'll update you tomorrow.\" I answer clearly, \"Thank you for your patience.\" We squash the small commits. The history is clean.",
-   "tts": "Before I leave, I write a short summary for the team. I rebase a branch and then explain the risk. I suggest that we check linear history first. The result depends on the backoff delay, so I check it twice. I explain the network interruption to a new teammate. Priya checks with me, \"I'll update you tomorrow.\" I answer clearly, \"Thank you for your patience.\" We squash the small commits. The history is clean.",
+   "en": "Before I leave, I write a short summary for the team. We decide to rebase a branch after the review. The result depends on linear history, so I check it twice. I explain the backoff delay to a new teammate. We discuss the risk around the network interruption. At the end of the day, Maria says, \"I'll update you tomorrow.\" I reply, \"Thank you for your patience.\" We squash the small commits. The history is clean.",
+   "tts": "Before I leave, I write a short summary for the team. We decide to rebase a branch after the review. The result depends on linear history, so I check it twice. I explain the backoff delay to a new teammate. We discuss the risk around the network interruption. At the end of the day, Maria says, \"I'll update you tomorrow.\" I reply, \"Thank you for your patience.\" We squash the small commits. The history is clean.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我变基分支，然后解释了风险。我建议我们先检查线性历史。结果取决于退避延迟，所以我检查了两遍。我向一位新队友解释了网络中断。Priya向我确认：\"我明天会更新进展。\"我清楚地回答：\"谢谢你的耐心。\"我们压缩了小提交。历史变得干净了。",
+   "zh": "离开前，我给团队写了一份简短的总结。评审之后，我们决定变基分支。结果取决于线性历史，所以我检查了两遍。我向一位新队友解释了退避延迟。我们讨论了网络中断相关的风险。一天结束时，Maria说：\"我明天会更新进展。\"我回答：\"谢谢你的耐心。\"我们压缩了小提交。历史变得干净了。",
    "hard": [
     {
      "w": "backoff delay",

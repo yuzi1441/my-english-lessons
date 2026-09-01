@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 311,
+   "word_count": 290,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We turn good prompts into a shared library. I summarize what we decided about the evaluation dataset while the details are still fresh. The guide now includes a section on the golden answer set, with examples and pitfalls. We agree on when to review ai suggestions carefully so the schedule stops surprising us. I test generated code twice and track the outcome in the ticket until it is closed. Over coffee, Maria mentions, \"The menu translator triumph.\" and I add, \"Idioms die in translation.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "We turn good prompts into a shared library. I summarize what we decided about the evaluation dataset while the details are still fresh. The guide now includes a section on the golden answer set, with examples and pitfalls. We agree on when to review ai suggestions carefully so the schedule stops surprising us. I test generated code twice and track the outcome in the ticket until it is closed. Over coffee, Maria mentions, \"The menu translator triumph.\" and I add, \"Idioms die in translation.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "We turn good prompts into a shared library. In today's standup, I mention the evaluation dataset and what comes next. We agree to give the golden answer set one more careful look this week. We agree that I will review ai suggestions carefully this week. I test generated code twice while Leo checks the other half. Meeting rehearsal: Maria opens, \"The menu translator triumph.\" I respond, \"Idioms die in translation.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "We turn good prompts into a shared library. In today's standup, I mention the evaluation dataset and what comes next. We agree to give the golden answer set one more careful look this week. We agree that I will review ai suggestions carefully this week. I test generated code twice while Leo checks the other half. Meeting rehearsal: Maria opens, \"The menu translator triumph.\" I respond, \"Idioms die in translation.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们把好提示词变成共享图书馆。趁细节还新鲜，我总结了关于评测数据集的决定。指南里现在有关于黄金答案集的章节，附有示例和坑点。我们就何时仔细评审 AI 建议达成一致，这样日程就不会再让人意外。我AI 生成的代码多测一遍，并在工单里跟踪结果直到它关闭。喝咖啡时，Maria提到：\"菜单翻译的胜利时刻。\"我补充了\"习语在翻译中阵亡。\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我们把好提示词变成共享图书馆。今天的站会上，我提到评测数据集和接下来的安排。我们说好这周再把黄金答案集仔细看一次。我们说好这周由我来仔细评审 AI 建议。我AI 生成的代码多测一遍，Leo 检查另一半。会议彩排：Maria开场：\"菜单翻译的胜利时刻。\"我回应：\"习语在翻译中阵亡。\"Maria确认道：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "evaluation dataset",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Each prompt has an owner, a version, and a note about when it fails. Priya checks in with, \"The polite form problem.\" so I explain, \"Handwritten notes, unreadable.\" without rushing. In today's standup, I give a quick update on the human review loop and what blocked me. We agree that the regression eval on upgrade needs one more careful look before we commit. Before I hand the task to Priya, I security scan ai patches and leave short notes. The team decides to reject fluent nonsense this sprint, with a checkpoint on Wednesday. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Each prompt has an owner, a version, and a note about when it fails. Priya checks in with, \"The polite form problem.\" so I explain, \"Handwritten notes, unreadable.\" without rushing. In today's standup, I give a quick update on the human review loop and what blocked me. We agree that the regression eval on upgrade needs one more careful look before we commit. Before I hand the task to Priya, I security scan ai patches and leave short notes. The team decides to reject fluent nonsense this sprint, with a checkpoint on Wednesday. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Each prompt has an owner, a version, and a note about when it fails. Whiteboard practice: Maria offers, \"The polite form problem.\" I add, \"Handwritten notes, unreadable.\" then Maria sums up, \"Exactly, and it saves time too.\" We agree to give the human review loop one more careful look this week. I connect the regression eval on upgrade to the ticket so nothing gets lost. I security scan ai patches while Leo checks the other half. Before the review, I reject fluent nonsense and prepare two questions. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Each prompt has an owner, a version, and a note about when it fails. Whiteboard practice: Maria offers, \"The polite form problem.\" I add, \"Handwritten notes, unreadable.\" then Maria sums up, \"Exactly, and it saves time too.\" We agree to give the human review loop one more careful look this week. I connect the regression eval on upgrade to the ticket so nothing gets lost. I security scan ai patches while Leo checks the other half. Before the review, I reject fluent nonsense and prepare two questions. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每条提示词有主人、有版本，还有一行“什么时候会失灵”。Priya关心地问：\"敬语是个大难题。\"于是我不慌不忙地解释：\"手写便条\"在今天的站会上，我快速汇报了人工评审回路的进展和卡住我的地方。我们一致认为，在动手之前升级回归评测还需要再仔细看一次。把任务交给 Priya 之前，我先AI 补丁也要过安全扫描，并留下简短说明。团队决定在这个迭代拒绝流畅的胡说，周三设一个检查点。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "每条提示词有主人、有版本，还有一行“什么时候会失灵”。白板练习：Maria给出：\"敬语是个大难题。\"我补充：\"手写便条\"然后Maria总结：\"正是，而且还省时间。\"我们说好这周再把人工评审回路仔细看一次。我把升级回归评测关联到工单上，免得遗漏。我AI 补丁也要过安全扫描，Leo 检查另一半。评审之前，我拒绝流畅的胡说并准备了两个问题。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "human review loop",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I summarize what we decided about the attribution in commit while the details are still fresh. The guide now includes a section on the human in the loop rule, with examples and pitfalls. In today's standup, I give a quick update on the task specific benchmark and what blocked me. We agree that the hallucination rate check needs one more careful look before we commit. Over coffee, Maria mentions, \"Dialect saved by aunties.\" and I add, \"Human translators, still precious.\" with an example. Borrowed prompts now come with recipes, not just dishes.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I summarize what we decided about the attribution in commit while the details are still fresh. The guide now includes a section on the human in the loop rule, with examples and pitfalls. In today's standup, I give a quick update on the task specific benchmark and what blocked me. We agree that the hallucination rate check needs one more careful look before we commit. Over coffee, Maria mentions, \"Dialect saved by aunties.\" and I add, \"Human translators, still precious.\" with an example. Borrowed prompts now come with recipes, not just dishes.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the attribution in commit. In today's standup, I mention the human in the loop rule and what comes next. We agree to give the task specific benchmark one more careful look this week. I connect the hallucination rate check to the ticket so nothing gets lost. Pair run: Leo starts, \"Dialect saved by aunties.\" I follow, \"Human translators, still precious.\" and Leo replies, \"Keep practising, it is working.\" Borrowed prompts now come with recipes, not just dishes.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the attribution in commit. In today's standup, I mention the human in the loop rule and what comes next. We agree to give the task specific benchmark one more careful look this week. I connect the hallucination rate check to the ticket so nothing gets lost. Pair run: Leo starts, \"Dialect saved by aunties.\" I follow, \"Human translators, still precious.\" and Leo replies, \"Keep practising, it is working.\" Borrowed prompts now come with recipes, not just dishes.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我总结了关于提交里注明 AI 参与的决定。指南里现在有关于人始终在环上的章节，附有示例和坑点。在今天的站会上，我快速汇报了任务专属基准的进展和卡住我的地方。我们一致认为，在动手之前幻觉率检查还需要再仔细看一次。喝咖啡时，Maria提到：\"方言靠阿姨们抢救。\"我补充了\"人类译员\"，还带了个例子。借走的提示词现在带着菜谱，而不只是一盘菜。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在提交里注明 AI 参与上。今天的站会上，我提到人始终在环上和接下来的安排。我们说好这周再把任务专属基准仔细看一次。我把幻觉率检查关联到工单上，免得遗漏。结对演练：Leo起头：\"方言靠阿姨们抢救。\"我跟上：\"人类译员\"Leo回应：\"继续练，有效果了。\"借走的提示词现在带着菜谱，而不只是一盘菜。",
    "hard": [
     {
      "w": "task specific benchmark",

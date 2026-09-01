@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 308,
+   "word_count": 294,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I shadow the support desk for a day. Priya suggests a simpler way to handle the virtual coffee roulette, and I write it down. I summarize what we decided about the demo day playlist while the details are still fresh. The guide now includes a section on the process retro, with examples and pitfalls. In today's standup, I give a quick update on the tooling wishlist and what blocked me. Priya checks in with, \"The 24h noodle place.\" so I explain, \"Late shift regulars nod.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "I shadow the support desk for a day. Priya suggests a simpler way to handle the virtual coffee roulette, and I write it down. I summarize what we decided about the demo day playlist while the details are still fresh. The guide now includes a section on the process retro, with examples and pitfalls. In today's standup, I give a quick update on the tooling wishlist and what blocked me. Priya checks in with, \"The 24h noodle place.\" so I explain, \"Late shift regulars nod.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
+   "en": "I shadow the support desk for a day. At the review, we spend ten minutes on the virtual coffee roulette. In today's standup, I mention the demo day playlist and what comes next. We agree to give the process retro one more careful look this week. I connect the tooling wishlist to the ticket so nothing gets lost. Pair run: Priya starts, \"The 24h noodle place.\" I follow, \"Late shift regulars nod.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "I shadow the support desk for a day. At the review, we spend ten minutes on the virtual coffee roulette. In today's standup, I mention the demo day playlist and what comes next. We agree to give the process retro one more careful look this week. I connect the tooling wishlist to the ticket so nothing gets lost. Pair run: Priya starts, \"The 24h noodle place.\" I follow, \"Late shift regulars nod.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我去支持团队影子了一天。Priya 提出了一个更简单的线上咖啡轮盘处理办法，我把它记了下来。趁细节还新鲜，我总结了关于演示日歌单的决定。指南里现在有关于流程复盘的章节，附有示例和坑点。在今天的站会上，我快速汇报了工具愿望单的进展和卡住我的地方。Priya关心地问：\"二十四小时的面馆。\"于是我不慌不忙地解释：\"晚班常客互相点头。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我去支持团队影子了一天。评审时，我们花了十分钟在线上咖啡轮盘上。今天的站会上，我提到演示日歌单和接下来的安排。我们说好这周再把流程复盘仔细看一次。我把工具愿望单关联到工单上，免得遗漏。结对演练：Priya起头：\"二十四小时的面馆。\"我跟上：\"晚班常客互相点头。\"Priya回应：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "virtual coffee roulette",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Eight tickets, four frustrated voices, and every one of them about clarity. In the morning meeting, Leo says, \"Broth at midnight heals.\" and I respond, \"The owner remembers your order.\" The guide now includes a section on the remote retro board, with examples and pitfalls. In today's standup, I give a quick update on the focus hours agreement and what blocked me. We agree that the collab wins thread needs one more careful look before we commit. I link the friction log to the ticket so nothing important ever gets lost again. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Eight tickets, four frustrated voices, and every one of them about clarity. In the morning meeting, Leo says, \"Broth at midnight heals.\" and I respond, \"The owner remembers your order.\" The guide now includes a section on the remote retro board, with examples and pitfalls. In today's standup, I give a quick update on the focus hours agreement and what blocked me. We agree that the collab wins thread needs one more careful look before we commit. I link the friction log to the ticket so nothing important ever gets lost again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Eight tickets, four frustrated voices, and every one of them about clarity. Meeting rehearsal: Priya opens, \"Broth at midnight heals.\" I respond, \"The owner remembers your order.\" and Priya confirms, \"Good point — use it in the standup.\" In today's standup, I mention the remote retro board and what comes next. We agree to give the focus hours agreement one more careful look this week. I connect the collab wins thread to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the friction log. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Eight tickets, four frustrated voices, and every one of them about clarity. Meeting rehearsal: Priya opens, \"Broth at midnight heals.\" I respond, \"The owner remembers your order.\" and Priya confirms, \"Good point — use it in the standup.\" In today's standup, I mention the remote retro board and what comes next. We agree to give the focus hours agreement one more careful look this week. I connect the collab wins thread to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the friction log. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "八张工单，四个着急的声音，全都与“说清楚”有关。晨会上，Leo说：\"午夜的热汤治愈人。\"我回应：\"老板记得你的口味。\"指南里现在有关于线上复盘看板的章节，附有示例和坑点。在今天的站会上，我快速汇报了专注时段约定的进展和卡住我的地方。我们一致认为，在动手之前协作亮点帖还需要再仔细看一次。我把摩擦日志关联到工单上，这样重要的事情不会再被遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "八张工单，四个着急的声音，全都与“说清楚”有关。会议彩排：Priya开场：\"午夜的热汤治愈人。\"我回应：\"老板记得你的口味。\"Priya确认道：\"说得好——站会上就用它。\"今天的站会上，我提到线上复盘看板和接下来的安排。我们说好这周再把专注时段约定仔细看一次。我把协作亮点帖关联到工单上，免得遗漏。Priya 提出了一个更清晰的摩擦日志思考方式。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "remote retro board",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a simpler way to handle the process experiment, and I write it down. I summarize what we decided about the adopt or drop while the details are still fresh. The guide now includes a section on the team photo day, with examples and pitfalls. In today's standup, I give a quick update on the birthday bot and what blocked me. Priya checks in with, \"Quiet TV, louder warmth.\" so I explain, \"Walk home under streetlights.\" without rushing. The users read our error messages more than our changelogs.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a simpler way to handle the process experiment, and I write it down. I summarize what we decided about the adopt or drop while the details are still fresh. The guide now includes a section on the team photo day, with examples and pitfalls. In today's standup, I give a quick update on the birthday bot and what blocked me. Priya checks in with, \"Quiet TV, louder warmth.\" so I explain, \"Walk home under streetlights.\" without rushing. The users read our error messages more than our changelogs.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the process experiment with Priya's. At the review, we spend ten minutes on the adopt or drop. In today's standup, I mention the team photo day and what comes next. We agree to give the birthday bot one more careful look this week. Drill without notes: Maria asks, \"Quiet TV, louder warmth.\" I answer, \"Walk home under streetlights.\" and Maria closes, \"Exactly, and it saves time too.\" The users read our error messages more than our changelogs.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the process experiment with Priya's. At the review, we spend ten minutes on the adopt or drop. In today's standup, I mention the team photo day and what comes next. We agree to give the birthday bot one more careful look this week. Drill without notes: Maria asks, \"Quiet TV, louder warmth.\" I answer, \"Walk home under streetlights.\" and Maria closes, \"Exactly, and it saves time too.\" The users read our error messages more than our changelogs.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更简单的流程实验处理办法，我把它记了下来。趁细节还新鲜，我总结了关于采纳或放弃的决定。指南里现在有关于团队合影日的章节，附有示例和坑点。在今天的站会上，我快速汇报了生日机器人的进展和卡住我的地方。Priya关心地问：\"电视很静\"于是我不慌不忙地解释：\"路灯下走回家。\"用户读错误信息的次数，比读更新日志多得多。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于流程实验的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在采纳或放弃上。今天的站会上，我提到团队合影日和接下来的安排。我们说好这周再把生日机器人仔细看一次。脱稿演练：Maria问：\"电视很静\"我回答：\"路灯下走回家。\"Maria收束：\"正是，而且还省时间。\"用户读错误信息的次数，比读更新日志多得多。",
    "hard": [
     {
      "w": "team photo day",

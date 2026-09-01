@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 304,
+   "word_count": 284,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I give my first brown bag talk: what flaky tests taught me. I link the skill matrix to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the t-shaped engineer, and I write it down. I summarize what we decided about the org wide announcement while the details are still fresh. The guide now includes a section on the process council, with examples and pitfalls. In the morning meeting, Leo says, \"Repair estimate first.\" and I respond, \"Planned obsolescence, resisted.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "I give my first brown bag talk: what flaky tests taught me. I link the skill matrix to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the t-shaped engineer, and I write it down. I summarize what we decided about the org wide announcement while the details are still fresh. The guide now includes a section on the process council, with examples and pitfalls. In the morning meeting, Leo says, \"Repair estimate first.\" and I respond, \"Planned obsolescence, resisted.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "I give my first brown bag talk: what flaky tests taught me. I compare my notes about the skill matrix with Priya's. At the review, we spend ten minutes on the t-shaped engineer. In today's standup, I mention the org wide announcement and what comes next. We agree to give the process council one more careful look this week. Drill without notes: Leo asks, \"Repair estimate first.\" I answer, \"Planned obsolescence, resisted.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "I give my first brown bag talk: what flaky tests taught me. I compare my notes about the skill matrix with Priya's. At the review, we spend ten minutes on the t-shaped engineer. In today's standup, I mention the org wide announcement and what comes next. We agree to give the process council one more careful look this week. Drill without notes: Leo asks, \"Repair estimate first.\" I answer, \"Planned obsolescence, resisted.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我完成了第一次午餐分享：抖动测试教会我的事。我把技能矩阵关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的T 型工程师处理办法，我把它记了下来。趁细节还新鲜，我总结了关于组织级公告的决定。指南里现在有关于流程委员会的章节，附有示例和坑点。晨会上，Leo说：\"先问维修报价。\"我回应：\"对抗计划性报废。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我完成了第一次午餐分享：抖动测试教会我的事。我把关于技能矩阵的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在T 型工程师上。今天的站会上，我提到组织级公告和接下来的安排。我们说好这周再把流程委员会仔细看一次。脱稿演练：Leo问：\"先问维修报价。\"我回答：\"对抗计划性报废。\"Leo收束：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "skill matrix",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Twenty colleagues, one slide of cats, and zero falling asleep. Over coffee, Maria mentions, \"The fan lives another year.\" and I add, \"Spare parts matter when buying.\" with an example. I pair by strength, then I write two honest lines about what actually happened. The guide now includes a section on the learning goal in sprint, with examples and pitfalls. In today's standup, I give a quick update on the process deprecation and what blocked me. We agree that the tooling budget needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Twenty colleagues, one slide of cats, and zero falling asleep. Over coffee, Maria mentions, \"The fan lives another year.\" and I add, \"Spare parts matter when buying.\" with an example. I pair by strength, then I write two honest lines about what actually happened. The guide now includes a section on the learning goal in sprint, with examples and pitfalls. In today's standup, I give a quick update on the process deprecation and what blocked me. We agree that the tooling budget needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Twenty colleagues, one slide of cats, and zero falling asleep. Pair run: Leo starts, \"The fan lives another year.\" I follow, \"Spare parts matter when buying.\" and Leo replies, \"Keep practising, it is working.\" I pair by strength, and Leo writes down the numbers. In today's standup, I mention the learning goal in sprint and what comes next. We agree to give the process deprecation one more careful look this week. I connect the tooling budget to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Twenty colleagues, one slide of cats, and zero falling asleep. Pair run: Leo starts, \"The fan lives another year.\" I follow, \"Spare parts matter when buying.\" and Leo replies, \"Keep practising, it is working.\" I pair by strength, and Leo writes down the numbers. In today's standup, I mention the learning goal in sprint and what comes next. We agree to give the process deprecation one more careful look this week. I connect the tooling budget to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "二十位同事，一页猫猫幻灯片，零人睡着。喝咖啡时，Maria提到：\"风扇又活了一年。\"我补充了\"买之前看配件。\"，还带了个例子。我按强项配对，然后诚实地写下两行实际发生的事。指南里现在有关于迭代里的学习目标的章节，附有示例和坑点。在今天的站会上，我快速汇报了流程废止的进展和卡住我的地方。我们一致认为，在动手之前工具预算还需要再仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "二十位同事，一页猫猫幻灯片，零人睡着。结对演练：Leo起头：\"风扇又活了一年。\"我跟上：\"买之前看配件。\"Leo回应：\"继续练，有效果了。\"我按强项配对，Leo 把数字记了下来。今天的站会上，我提到迭代里的学习目标和接下来的安排。我们说好这周再把流程废止仔细看一次。我把工具预算关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "pair by strength",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the on call fairness review to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the internal conference, and I write it down. I shadow a role, then I write two honest lines about what actually happened. The guide now includes a section on the capability map review, with examples and pitfalls. In the morning meeting, Leo says, \"Right to repair, cheered.\" and I respond, \"Old things have souls.\" The questions afterward are the real talk.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the on call fairness review to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the internal conference, and I write it down. I shadow a role, then I write two honest lines about what actually happened. The guide now includes a section on the capability map review, with examples and pitfalls. In the morning meeting, Leo says, \"Right to repair, cheered.\" and I respond, \"Old things have souls.\" The questions afterward are the real talk.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the on call fairness review. I compare my notes about the internal conference with Priya's. I shadow a role, and Leo writes down the numbers. In today's standup, I mention the capability map review and what comes next. Whiteboard practice: Priya offers, \"Right to repair, cheered.\" I add, \"Old things have souls.\" then Priya sums up, \"Good point — use it in the standup.\" The questions afterward are the real talk.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the on call fairness review. I compare my notes about the internal conference with Priya's. I shadow a role, and Leo writes down the numbers. In today's standup, I mention the capability map review and what comes next. Whiteboard practice: Priya offers, \"Right to repair, cheered.\" I add, \"Old things have souls.\" then Priya sums up, \"Good point — use it in the standup.\" The questions afterward are the real talk.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把值班公平性回顾关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的内部技术大会处理办法，我把它记了下来。我影子岗位，然后诚实地写下两行实际发生的事。指南里现在有关于能力地图回顾的章节，附有示例和坑点。晨会上，Leo说：\"为维修权欢呼。\"我回应：\"旧物有灵魂。\"会后的提问才是真正的分享。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于值班公平性回顾的简短章节。我把关于内部技术大会的笔记和 Priya 的对照了一下。我影子岗位，Leo 把数字记了下来。今天的站会上，我提到能力地图回顾和接下来的安排。白板练习：Priya给出：\"为维修权欢呼。\"我补充：\"旧物有灵魂。\"然后Priya总结：\"说得好——站会上就用它。\"会后的提问才是真正的分享。",
    "hard": [
     {
      "w": "shadow a role",

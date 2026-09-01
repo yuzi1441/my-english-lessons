@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 330,
+   "word_count": 320,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A scan finds an old token buried in git history. The team sets a clear owner for the dependency provenance check, plus a deadline and review date. I compare two approaches to the signed commit verification, note the trade-offs, share both honestly. In review, I raise a careful question about the build provenance attestation and its failure modes. Our mentor walks me through the pinned dependency audit's history, including two painful lessons. Maria raises, \"I check where food comes from.\" and I respond calmly, \"Repairability affects my buying.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "A scan finds an old token buried in git history. The team sets a clear owner for the dependency provenance check, plus a deadline and review date. I compare two approaches to the signed commit verification, note the trade-offs, share both honestly. In review, I raise a careful question about the build provenance attestation and its failure modes. Our mentor walks me through the pinned dependency audit's history, including two painful lessons. Maria raises, \"I check where food comes from.\" and I respond calmly, \"Repairability affects my buying.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "A scan finds an old token buried in git history. Before deciding, I reread my notes about the dependency provenance check twice. I prepare a one-page brief about the signed commit verification so meetings start from facts. The team names one clear owner for the build provenance attestation. I compare two views on the pinned dependency audit and write both down honestly. Practice debate: Maria argues, \"I check where food comes from.\" I respond calmly, \"Repairability affects my buying.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "A scan finds an old token buried in git history. Before deciding, I reread my notes about the dependency provenance check twice. I prepare a one-page brief about the signed commit verification so meetings start from facts. The team names one clear owner for the build provenance attestation. I compare two views on the pinned dependency audit and write both down honestly. Practice debate: Maria argues, \"I check where food comes from.\" I respond calmly, \"Repairability affects my buying.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "扫描发现一枚埋在 git 历史里的旧令牌。团队为依赖来源核查定了明确的负责人，加上截止和复审日期。我比较了处理签名提交核验的两种方式，记下取舍，诚实分享。评审中，我就构建来源证明及其失效模式提出了一个审慎的问题。导师带我梳理了固定依赖审计的历史，包括两次惨痛的教训。Maria提出：\"我看食品的产地。\"我从容地回应：\"可修性影响我的购买。\"因为慌张从来没用。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "扫描发现一枚埋在 git 历史里的旧令牌。做决定之前，我把关于依赖来源核查的笔记重读了两遍。我准备了一页关于签名提交核验的简报，好让会议从事实出发。团队为构建来源证明指定了明确的负责人。我比较了关于固定依赖审计的两种观点，诚实地都记了下来。练习辩论：Maria主张：\"我看食品的产地。\"我平静地回应：\"可修性影响我的购买。\"Maria承认道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "dependency provenance check",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We rotate, purge, and write the postmortem without hunting for a villain. When the design review starts each week, Priya asks, \"The brand recall list, subscribed.\" and I answer, \"Cheap chargers, no thanks.\" with numbers. In review, I raise a careful question about the build reproducibility check and its failure modes. Our mentor walks me through the vendor risk review's history, including two painful lessons. We weigh the cost of changing the release artifact signing against leaving it alone. I prepare a one-page brief about the ci runner isolation review so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "We rotate, purge, and write the postmortem without hunting for a villain. When the design review starts each week, Priya asks, \"The brand recall list, subscribed.\" and I answer, \"Cheap chargers, no thanks.\" with numbers. In review, I raise a careful question about the build reproducibility check and its failure modes. Our mentor walks me through the vendor risk review's history, including two painful lessons. We weigh the cost of changing the release artifact signing against leaving it alone. I prepare a one-page brief about the ci runner isolation review so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "We rotate, purge, and write the postmortem without hunting for a villain. Mock review: Maria probes, \"The brand recall list, subscribed.\" I answer from memory, \"Cheap chargers, no thanks.\" and Maria confirms, \"Agreed, note it in the ticket.\" I prepare a one-page brief about the build reproducibility check so meetings start from facts. The team names one clear owner for the vendor risk review. I compare two views on the release artifact signing and write both down honestly. I add the ci runner isolation review to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We rotate, purge, and write the postmortem without hunting for a villain. Mock review: Maria probes, \"The brand recall list, subscribed.\" I answer from memory, \"Cheap chargers, no thanks.\" and Maria confirms, \"Agreed, note it in the ticket.\" I prepare a one-page brief about the build reproducibility check so meetings start from facts. The team names one clear owner for the vendor risk review. I compare two views on the release artifact signing and write both down honestly. I add the ci runner isolation review to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们轮换、清除、写复盘，全程没有追捕反派。评审开始时，Priya问：\"召回名单订着推送。\"我带着数字回答：\"杂牌充电器\"评审中，我就构建可复现检查及其失效模式提出了一个审慎的问题。导师带我梳理了供应商风险评审的历史，包括两次惨痛的教训。我们权衡了改动发布产物签名的代价与放着不管的风险。我准备了一页关于CI 运行器隔离评审的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我们轮换、清除、写复盘，全程没有追捕反派。模拟评审：Maria追问：\"召回名单订着推送。\"我凭记忆回答：\"杂牌充电器\"Maria确认：\"同意，把这条记到工单里。\"我准备了一页关于构建可复现检查的简报，好让会议从事实出发。团队为供应商风险评审指定了明确的负责人。我比较了关于发布产物签名的两种观点，诚实地都记了下来。我把CI 运行器隔离评审连同三条支撑事实加进了议程。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "build reproducibility check",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team sets a clear owner for the upstream change watch, plus a deadline and review date. I compare two approaches to the software bill of materials, note the trade-offs, share both honestly. In review, I raise a careful question about the third party data list and its failure modes. Our mentor walks me through the open source usage policy's history, including two painful lessons. Maria raises, \"Reviews from verified buyers only.\" and I respond calmly, \"Fewer suppliers, deeper trust.\" because panic never helped anyone. Git remembers everything; so should our runbooks.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team sets a clear owner for the upstream change watch, plus a deadline and review date. I compare two approaches to the software bill of materials, note the trade-offs, share both honestly. In review, I raise a careful question about the third party data list and its failure modes. Our mentor walks me through the open source usage policy's history, including two painful lessons. Maria raises, \"Reviews from verified buyers only.\" and I respond calmly, \"Fewer suppliers, deeper trust.\" because panic never helped anyone. Git remembers everything; so should our runbooks.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the upstream change watch evolved on this team. Before deciding, I reread my notes about the software bill of materials twice. I prepare a one-page brief about the third party data list so meetings start from facts. The team names one clear owner for the open source usage policy. Dry run: Leo opens, \"Reviews from verified buyers only.\" I follow, \"Fewer suppliers, deeper trust.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Git remembers everything; so should our runbooks.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the upstream change watch evolved on this team. Before deciding, I reread my notes about the software bill of materials twice. I prepare a one-page brief about the third party data list so meetings start from facts. The team names one clear owner for the open source usage policy. Dry run: Leo opens, \"Reviews from verified buyers only.\" I follow, \"Fewer suppliers, deeper trust.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Git remembers everything; so should our runbooks.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为上游变更监视定了明确的负责人，加上截止和复审日期。我比较了处理软件物料清单的两种方式，记下取舍，诚实分享。评审中，我就第三方数据清单及其失效模式提出了一个审慎的问题。导师带我梳理了开源使用政策的历史，包括两次惨痛的教训。Maria提出：\"只看实名买家的评价。\"我从容地回应：\"更少的供应商\"因为慌张从来没用。Git 记得一切；我们的手册也应该如此。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了上游变更监视在这个团队里的演变。做决定之前，我把关于软件物料清单的笔记重读了两遍。我准备了一页关于第三方数据清单的简报，好让会议从事实出发。团队为开源使用政策指定了明确的负责人。干跑演练：Leo开场：\"只看实名买家的评价。\"我接上：\"更少的供应商\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"Git 记得一切；我们的手册也应该如此。",
    "hard": [
     {
      "w": "third party data list",

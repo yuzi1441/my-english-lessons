@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 341,
+   "word_count": 338,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We want a clearer ownership line, so we rearrange teams first. I present the search index architecture to the team with data, a timeline, and one clear ask. We align on the index freshness lag before the deadline so execution never has to guess. My report explains the zero result report review, the risks behind it, and the cost of waiting. I propose a measurable goal for the index rebuild runbook this quarter, with a number we can defend. Priya summarises the meeting with, \"The librarian guesses what you mean.\" and I confirm, \"Misspelled titles still found.\" for the record. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "We want a clearer ownership line, so we rearrange teams first. I present the search index architecture to the team with data, a timeline, and one clear ask. We align on the index freshness lag before the deadline so execution never has to guess. My report explains the zero result report review, the risks behind it, and the cost of waiting. I propose a measurable goal for the index rebuild runbook this quarter, with a number we can defend. Priya summarises the meeting with, \"The librarian guesses what you mean.\" and I confirm, \"Misspelled titles still found.\" for the record. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "We want a clearer ownership line, so we rearrange teams first. The final deck includes the search index architecture and what we learned from it. I put the index freshness lag on the record so the reasoning stays visible. I present the zero result report review with a timeline, the data, and one clear ask. We align on the index rebuild runbook early, so execution never has to guess. Board practice: Priya probes, \"The librarian guesses what you mean.\" I respond without a pause, \"Misspelled titles still found.\" and Priya nods, \"Approved — bring it to the launch review.\" I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "We want a clearer ownership line, so we rearrange teams first. The final deck includes the search index architecture and what we learned from it. I put the index freshness lag on the record so the reasoning stays visible. I present the zero result report review with a timeline, the data, and one clear ask. We align on the index rebuild runbook early, so execution never has to guess. Board practice: Priya probes, \"The librarian guesses what you mean.\" I respond without a pause, \"Misspelled titles still found.\" and Priya nods, \"Approved — bring it to the launch review.\" I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们想要更清晰的所有权线，所以先调整团队。我用数据、时间线和一条明确的诉求，向团队汇报了搜索索引架构。我们在截止日期前就索引新鲜度延迟达成共识，让执行永远不必靠猜。我的报告解释了零结果报告评审、背后的风险，以及等待的代价。我为索引重建手册提出了一个本季度的可衡量目标，一个我们守得住的数字。Priya用\"图书管理员猜得到你想找什么。\"为会议收尾，我郑重确认：\"拼错的书名也找得到。\"我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "我们想要更清晰的所有权线，所以先调整团队。最终的材料里有搜索索引架构，以及我们从中学到的东西。我把索引新鲜度延迟记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报零结果报告评审。我们尽早就索引重建手册对齐，让执行无需猜测。董事会练习：Priya追问：\"图书管理员猜得到你想找什么。\"我毫不迟疑地回应：\"拼错的书名也找得到。\"Priya点头道：\"通过——带到上线评审上。\"我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "search index architecture",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The system boundary follows the team boundary, like water. At the demo, Leo asks, \"Popular books have copies upfront.\" and I present, \"The returns cart is a cache too.\" with the numbers ready. My report explains the relevance tuning process, the risks behind it, and the cost of waiting. I propose a measurable goal for the typo tolerance strategy this quarter, with a number we can defend. We review the relevance experiment protocol against the requirements one final time, line by line, together. I close the loop on the synonym list curation and share the outcome, including what surprised us. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "The system boundary follows the team boundary, like water. At the demo, Leo asks, \"Popular books have copies upfront.\" and I present, \"The returns cart is a cache too.\" with the numbers ready. My report explains the relevance tuning process, the risks behind it, and the cost of waiting. I propose a measurable goal for the typo tolerance strategy this quarter, with a number we can defend. We review the relevance experiment protocol against the requirements one final time, line by line, together. I close the loop on the synonym list curation and share the outcome, including what surprised us. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "The system boundary follows the team boundary, like water. Last rehearsal: Priya checks, \"Popular books have copies upfront.\" I commit word for word, \"The returns cart is a cache too.\" and Priya smiles, \"Approved — bring it to the launch review.\" I put the relevance tuning process on the record so the reasoning stays visible. I present the typo tolerance strategy with a timeline, the data, and one clear ask. We align on the relevance experiment protocol early, so execution never has to guess. My report covers the synonym list curation, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The system boundary follows the team boundary, like water. Last rehearsal: Priya checks, \"Popular books have copies upfront.\" I commit word for word, \"The returns cart is a cache too.\" and Priya smiles, \"Approved — bring it to the launch review.\" I put the relevance tuning process on the record so the reasoning stays visible. I present the typo tolerance strategy with a timeline, the data, and one clear ask. We align on the relevance experiment protocol early, so execution never has to guess. My report covers the synonym list curation, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "系统边界跟着团队边界流动，像水一样。演示会上，Leo问：\"畅销书备了复本。\"我带着准备好的数字汇报：\"还书车也是一个缓存。\"我的报告解释了相关性调优流程、背后的风险，以及等待的代价。我为拼写容错策略提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了相关性实验规程，一起完成的。我跟进完同义词表维护并分享了结果，包括让我们意外的那部分。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "系统边界跟着团队边界流动，像水一样。最后一次彩排：Priya核对：\"畅销书备了复本。\"我逐字承诺：\"还书车也是一个缓存。\"Priya笑道：\"通过——带到上线评审上。\"我把相关性调优流程记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报拼写容错策略。我们尽早就相关性实验规程对齐，让执行无需猜测。我的报告涵盖同义词表维护、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "relevance tuning process",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the search quality scorecard to the team with data, a timeline, and one clear ask. We align on the faceted navigation review before the deadline so execution never has to guess. My report explains the search analytics feedback, the risks behind it, and the cost of waiting. I propose a measurable goal for the query understanding basics this quarter, with a number we can defend. Priya summarises the meeting with, \"Search logs buy new books.\" and I confirm, \"Ask once, get three suggestions.\" for the record. Change the people map; the code map follows.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the search quality scorecard to the team with data, a timeline, and one clear ask. We align on the faceted navigation review before the deadline so execution never has to guess. My report explains the search analytics feedback, the risks behind it, and the cost of waiting. I propose a measurable goal for the query understanding basics this quarter, with a number we can defend. Priya summarises the meeting with, \"Search logs buy new books.\" and I confirm, \"Ask once, get three suggestions.\" for the record. Change the people map; the code map follows.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the search quality scorecard with a short summary. The final deck includes the faceted navigation review and what we learned from it. I put the search analytics feedback on the record so the reasoning stays visible. I present the query understanding basics with a timeline, the data, and one clear ask. Final dry run: Maria summarises, \"Search logs buy new books.\" I confirm, \"Ask once, get three suggestions.\" for the record, and Maria closes, \"Well said, that stays in the deck.\" Change the people map; the code map follows.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the search quality scorecard with a short summary. The final deck includes the faceted navigation review and what we learned from it. I put the search analytics feedback on the record so the reasoning stays visible. I present the query understanding basics with a timeline, the data, and one clear ask. Final dry run: Maria summarises, \"Search logs buy new books.\" I confirm, \"Ask once, get three suggestions.\" for the record, and Maria closes, \"Well said, that stays in the deck.\" Change the people map; the code map follows.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用数据、时间线和一条明确的诉求，向团队汇报了搜索质量记分卡。我们在截止日期前就分面导航评审达成共识，让执行永远不必靠猜。我的报告解释了搜索分析反馈、背后的风险，以及等待的代价。我为查询理解入门提出了一个本季度的可衡量目标，一个我们守得住的数字。Priya用\"搜索记录决定进什么书。\"为会议收尾，我郑重确认：\"问一次得三个推荐。\"改人的地图，代码的地图跟上。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为搜索质量记分卡的讨论收尾。最终的材料里有分面导航评审，以及我们从中学到的东西。我把搜索分析反馈记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报查询理解入门。最终干跑：Maria总结：\"搜索记录决定进什么书。\"我郑重确认：\"问一次得三个推荐。\"Maria收尾道：\"说得好，这句留在材料里。\"改人的地图，代码的地图跟上。",
    "hard": [
     {
      "w": "search analytics feedback",

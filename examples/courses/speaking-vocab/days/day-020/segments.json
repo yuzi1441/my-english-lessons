@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 214,
+   "word_count": 219,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We compare two plans and choose one. At that moment, Priya says, \"This works better for me.\" Leo corrects my use of the pattern: The main reason is ... Priya and I look for a detail in the framework. After lunch, I check the package again. Before the meeting, I review the new feature one more time. The team talks about the bug fix entry at the standup. I write down what I learned today.",
-   "tts": "We compare two plans and choose one. At that moment, Priya says, \"This works better for me.\" Leo corrects my use of the pattern: The main reason is  Priya and I look for a detail in the framework. After lunch, I check the package again. Before the meeting, I review the new feature one more time. The team talks about the bug fix entry at the standup. I write down what I learned today.",
+   "en": "We compare two plans and choose one. At that moment, Maria says, \"This works better for me.\" I use the pattern to ask a question: The main reason is ... After lunch, I check the framework again. Before the meeting, I review the package one more time. The team talks about the new feature at the standup. When I use the bug fix entry, I ask Maria for advice. I write down what I learned today.",
+   "tts": "We compare two plans and choose one. At that moment, Maria says, \"This works better for me.\" I use the pattern to ask a question: The main reason is  After lunch, I check the framework again. Before the meeting, I review the package one more time. The team talks about the new feature at the standup. When I use the bug fix entry, I ask Maria for advice. I write down what I learned today.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们比较了两个方案，选择了一个。这时，Priya说：\"这个对我更合适。\"Leo 纠正了我对这个句型的用法：主要原因是……Priya 和我在框架里找一个细节。午饭后，我又检查了一遍软件包。开会前，我又复习了一遍新功能。团队在站会上讨论了缺陷修复条目。我记下了今天学到的东西。",
+   "zh": "我们比较了两个方案，选择了一个。这时，Maria说：\"这个对我更合适。\"我用这个句型提了一个问题：主要原因是……午饭后，我又检查了一遍框架。开会前，我又复习了一遍软件包。团队在站会上讨论了新功能。使用缺陷修复条目时，我向 Maria 请教。我记下了今天学到的东西。",
    "hard": [
     {
      "w": "framework",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. When I use the deprecation notice, I ask Maria for advice. I compare the release summary with my notes. Priya and I look for a detail in the package manager. After lunch, I check the dependency version again. When we meet, Leo says, \"It depends on the situation.\" I reply, \"Let's choose this one.\" The changelog is clear. New users can understand it.",
-   "tts": "Before I leave, I review what I did today. When I use the deprecation notice, I ask Maria for advice. I compare the release summary with my notes. Priya and I look for a detail in the package manager. After lunch, I check the dependency version again. When we meet, Leo says, \"It depends on the situation.\" I reply, \"Let's choose this one.\" The changelog is clear. New users can understand it.",
+   "en": "Before I leave, I review what I did today. The team talks about the deprecation notice at the standup. When I use the release summary, I ask Maria for advice. I compare the package manager with my notes. Priya and I look for a detail in the dependency version. At the table, Maria says, \"It depends on the situation.\" I think, then answer, \"Let's choose this one.\" The changelog is clear. New users can understand it.",
+   "tts": "Before I leave, I review what I did today. The team talks about the deprecation notice at the standup. When I use the release summary, I ask Maria for advice. I compare the package manager with my notes. Priya and I look for a detail in the dependency version. At the table, Maria says, \"It depends on the situation.\" I think, then answer, \"Let's choose this one.\" The changelog is clear. New users can understand it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。使用弃用通知时，我向 Maria 请教。我把发布摘要和我的笔记做了比较。Priya 和我在包管理器里找一个细节。午饭后，我又检查了一遍依赖版本。见面时，Leo说：\"这取决于具体情况。\"我回答：\"我们选这个吧。\"变更日志很清楚。新用户能看懂。",
+   "zh": "离开前，我回顾了今天做的事。团队在站会上讨论了弃用通知。使用发布摘要时，我向 Maria 请教。我把包管理器和我的笔记做了比较。Priya 和我在依赖版本里找一个细节。桌边，Maria说：\"这取决于具体情况。\"我想了想，回答：\"我们选这个吧。\"变更日志很清楚。新用户能看懂。",
    "hard": [
     {
      "w": "package manager",

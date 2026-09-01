@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 276,
+   "word_count": 285,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Month three opens with a big date on the calendar: the next release train. My notes about the metric are getting sharper every single week. I asked Leo how he handles the time series when the week gets heavy. The release captain shows up in our sprint notes more often than before. I double-check the release window before I reply, because a wrong answer costs double. Maria greets me warmly with, \"I feel the deadline pressure.\" and I answer, \"I take five to breathe.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "Month three opens with a big date on the calendar: the next release train. My notes about the metric are getting sharper every single week. I asked Leo how he handles the time series when the week gets heavy. The release captain shows up in our sprint notes more often than before. I double-check the release window before I reply, because a wrong answer costs double. Maria greets me warmly with, \"I feel the deadline pressure.\" and I answer, \"I take five to breathe.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "Month three opens with a big date on the calendar: the next release train. I spend ten quiet minutes on the metric after the standup. Sam asks me about the time series, and I explain the basics. I keep one real example of the release captain in my notebook. I add the release window to my study notes before I forget it. We drill it twice: Maria starts, \"I feel the deadline pressure.\" I reply, \"I take five to breathe.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "Month three opens with a big date on the calendar: the next release train. I spend ten quiet minutes on the metric after the standup. Sam asks me about the time series, and I explain the basics. I keep one real example of the release captain in my notebook. I add the release window to my study notes before I forget it. We drill it twice: Maria starts, \"I feel the deadline pressure.\" I reply, \"I take five to breathe.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第三个月以一种庄重的方式开始：日历上写着一个大日子，下一班发布列车。我关于指标的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理时间序列的。发布负责人出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍发布窗口，因为答错要付出双倍代价。Maria热情地用\"我感受到了截止日期的压力。\"和我打招呼，我回答：\"我停下来五分钟喘口气。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "第三个月以一种庄重的方式开始：日历上写着一个大日子，下一班发布列车。站会之后，我安安静静花了十分钟在指标上。Sam 问起时间序列，我讲了讲基础。我在笔记本里留了一个发布负责人的真实例子。我趁还没忘，把发布窗口记进了学习笔记。我们练了两遍：Maria起头：\"我感受到了截止日期的压力。\"我回答：\"我停下来五分钟喘口气。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "metric",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria explains, \"The train leaves on Friday, with us on it or not.\" During the afternoon break, Priya says, \"A little pressure keeps me focused.\" I reply, \"I write my worries down.\" The sampling shows up in our sprint notes more often than before. I double-check the distributed tracing before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the go/no-go call so clearly. I keep a growing list of the release blocker on my desk for later. The task moves forward, and so does my confidence.",
-   "tts": "Maria explains, \"The train leaves on Friday, with us on it or not.\" During the afternoon break, Priya says, \"A little pressure keeps me focused.\" I reply, \"I write my worries down.\" The sampling shows up in our sprint notes more often than before. I double-check the distributed tracing before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the go/no-go call so clearly. I keep a growing list of the release blocker on my desk for later. The task moves forward, and so does my confidence.",
+   "en": "Maria explains, \"The train leaves on Friday, with us on it or not.\" Role play with feedback: Maria says, \"A little pressure keeps me focused.\" I try, \"I write my worries down.\" and Maria adds, \"That is the one we need today.\" Sam asks me about the sampling, and I explain the basics. I keep one real example of the distributed tracing in my notebook. I add the go/no-go call to my study notes before I forget it. I go over the release blocker one more time before lunch. The task moves forward, and so does my confidence.",
+   "tts": "Maria explains, \"The train leaves on Friday, with us on it or not.\" Role play with feedback: Maria says, \"A little pressure keeps me focused.\" I try, \"I write my worries down.\" and Maria adds, \"That is the one we need today.\" Sam asks me about the sampling, and I explain the basics. I keep one real example of the distributed tracing in my notebook. I add the go/no-go call to my study notes before I forget it. I go over the release blocker one more time before lunch. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 解释说：“列车周五发车，我们上不上车，它都会开。”下午休息时，Priya说：\"一点压力让我保持专注。\"我回答：\"我把担心写下来。\"采样出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍分布式追踪，因为答错要付出双倍代价。一位队友拦住我，感谢我把上线与否解释得这么清楚。我把一份越来越长的发布阻塞清单放在桌上，留着以后用。任务在推进，我的信心也在成长。",
+   "zh": "Maria 解释说：“列车周五发车，我们上不上车，它都会开。”角色扮演加反馈：Maria说：\"一点压力让我保持专注。\"我试着说：\"我把担心写下来。\"Maria补充道：\"今天要的就是这句。\"Sam 问起采样，我讲了讲基础。我在笔记本里留了一个分布式追踪的真实例子。我趁还没忘，把上线与否记进了学习笔记。午饭前我又过了一遍发布阻塞。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "sampling",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the freeze exception are getting sharper every single week. Maria asks me to sign off the release and report back before the review. The span shows up in our sprint notes more often than before. I double-check the aggregation before I reply, because a wrong answer costs double. Maria greets me warmly with, \"One thing at a time.\" and I answer, \"It's temporary.\" I like the honesty of deadlines that do not move.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the freeze exception are getting sharper every single week. Maria asks me to sign off the release and report back before the review. The span shows up in our sprint notes more often than before. I double-check the aggregation before I reply, because a wrong answer costs double. Maria greets me warmly with, \"One thing at a time.\" and I answer, \"It's temporary.\" I like the honesty of deadlines that do not move.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the freeze exception look clearer this week. I sign off the release, then I take a short break. Sam asks me about the span, and I explain the basics. I keep one real example of the aggregation in my notebook. We practise the dialogue: Leo opens, \"One thing at a time.\" I answer, \"It's temporary.\" and Leo nods, \"Nice, keep that one handy.\" I like the honesty of deadlines that do not move.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the freeze exception look clearer this week. I sign off the release, then I take a short break. Sam asks me about the span, and I explain the basics. I keep one real example of the aggregation in my notebook. We practise the dialogue: Leo opens, \"One thing at a time.\" I answer, \"It's temporary.\" and Leo nods, \"Nice, keep that one handy.\" I like the honesty of deadlines that do not move.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我关于冻结例外的笔记每周都变得更敏锐。Maria 让我确认放行，并在评审前汇报结果。跨度出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍聚合，因为答错要付出双倍代价。Maria热情地用\"一次只做一件事。\"和我打招呼，我回答：\"这只是暂时的。\"我喜欢这种不动摇的截止日期带来的诚实。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于冻结例外的笔记清楚多了。我确认放行，然后休息了一下。Sam 问起跨度，我讲了讲基础。我在笔记本里留了一个聚合的真实例子。我们练习这段对话：Leo开场：\"一次只做一件事。\"我回答：\"这只是暂时的。\"Leo点头说：\"不错，把这句记在手边。\"我喜欢这种不动摇的截止日期带来的诚实。",
    "hard": [
     {
      "w": "span",

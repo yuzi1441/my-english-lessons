@@ -201,36 +201,44 @@ NP_POOL = {
         ("I document {np} so the team can review it later.", "我把{z}写成文档，方便团队之后查看。"),
     ],
     5: [
-        ("I keep a growing list of {np} on my desk for later.", "我把一份越来越长的{z}清单放在桌上，留着以后用。"),
-        ("My notes about {np} are getting sharper every single week.", "我关于{z}的笔记每周都变得更敏锐。"),
-        ("I asked Leo how he handles {np} when the week gets heavy.", "我问 Leo，当一周变得繁重时他是怎么处理{z}的。"),
-        ("{np_cap} shows up in our sprint notes more often than before.", "{z}出现在我们迭代笔记里的次数比以前更多了。"),
-        ("I double-check {np} before I reply, because a wrong answer costs double.", "回复之前我再核对一遍{z}，因为答错要付出双倍代价。"),
-        ("A teammate stopped me to say thanks for explaining {np} so clearly.", "一位队友拦住我，感谢我把{z}解释得这么清楚。"),
+        ("I add {np} to my study notes before I forget it.", "我趁还没忘，把{z}记进了学习笔记。"),
+        ("I go over {np} one more time before lunch.", "午饭前我又过了一遍{z}。"),
+        ("There is a short paragraph about {np} in the guide.", "指南里有一小段关于{z}的介绍。"),
+        ("I ask one good question about {np} in the meeting.", "会上关于{z}，我问了一个好问题。"),
+        ("My notes about {np} look clearer this week.", "这周我关于{z}的笔记清楚多了。"),
+        ("I spend ten quiet minutes on {np} after the standup.", "站会之后，我安安静静花了十分钟在{z}上。"),
+        ("Sam asks me about {np}, and I explain the basics.", "Sam 问起{z}，我讲了讲基础。"),
+        ("I keep one real example of {np} in my notebook.", "我在笔记本里留了一个{z}的真实例子。"),
     ],
     6: [
-        ("In today's standup, I give a quick update on {np} and what blocked me.", "在今天的站会上，我快速汇报了{z}的进展和卡住我的地方。"),
-        ("We agree that {np} needs one more careful look before we commit.", "我们一致认为，在动手之前{z}还需要再仔细看一次。"),
-        ("I link {np} to the ticket so nothing important ever gets lost again.", "我把{z}关联到工单上，这样重要的事情不会再被遗漏。"),
-        ("Priya suggests a simpler way to handle {np}, and I write it down.", "Priya 提出了一个更简单的{z}处理办法，我把它记了下来。"),
-        ("I summarize what we decided about {np} while the details are still fresh.", "趁细节还新鲜，我总结了关于{z}的决定。"),
-        ("The guide now includes a section on {np}, with examples and pitfalls.", "指南里现在有关于{z}的章节，附有示例和坑点。"),
+        ("In today's standup, I mention {np} and what comes next.", "今天的站会上，我提到{z}和接下来的安排。"),
+        ("We agree to give {np} one more careful look this week.", "我们说好这周再把{z}仔细看一次。"),
+        ("I connect {np} to the ticket so nothing gets lost.", "我把{z}关联到工单上，免得遗漏。"),
+        ("Priya suggests a cleaner way to think about {np}.", "Priya 提出了一个更清晰的{z}思考方式。"),
+        ("While the details are fresh, I write down {np}.", "趁细节还新鲜，我把{z}写了下来。"),
+        ("The guide now has a short section on {np}.", "指南里现在有关于{z}的简短章节。"),
+        ("I compare my notes about {np} with Priya's.", "我把关于{z}的笔记和 Priya 的对照了一下。"),
+        ("At the review, we spend ten minutes on {np}.", "评审时，我们花了十分钟在{z}上。"),
     ],
     7: [
-        ("In review, I raise a careful question about {np} and its failure modes.", "评审中，我就{z}及其失效模式提出了一个审慎的问题。"),
-        ("Our mentor walks me through {np}'s history, including two painful lessons.", "导师带我梳理了{z}的历史，包括两次惨痛的教训。"),
-        ("We weigh the cost of changing {np} against leaving it alone.", "我们权衡了改动{z}的代价与放着不管的风险。"),
+        ("During the design review, I raise one careful question about {np}.", "设计评审中，我就{z}提出了一个审慎的问题。"),
+        ("Our mentor walks me through how {np} evolved on this team.", "导师带我梳理了{z}在这个团队里的演变。"),
+        ("Before deciding, I reread my notes about {np} twice.", "做决定之前，我把关于{z}的笔记重读了两遍。"),
         ("I prepare a one-page brief about {np} so meetings start from facts.", "我准备了一页关于{z}的简报，好让会议从事实出发。"),
-        ("The team sets a clear owner for {np}, plus a deadline and review date.", "团队为{z}定了明确的负责人，加上截止和复审日期。"),
-        ("I compare two approaches to {np}, note the trade-offs, share both honestly.", "我比较了处理{z}的两种方式，记下取舍，诚实分享。"),
+        ("The team names one clear owner for {np}.", "团队为{z}指定了明确的负责人。"),
+        ("I compare two views on {np} and write both down honestly.", "我比较了关于{z}的两种观点，诚实地都记了下来。"),
+        ("I add {np} to the meeting agenda with three supporting facts.", "我把{z}连同三条支撑事实加进了议程。"),
+        ("We spend the first ten minutes of the review on {np}.", "评审的前十分钟，我们都用在了{z}上。"),
     ],
     8: [
-        ("I present {np} to the team with data, a timeline, and one clear ask.", "我用数据、时间线和一条明确的诉求，向团队汇报了{z}。"),
-        ("We align on {np} before the deadline so execution never has to guess.", "我们在截止日期前就{z}达成共识，让执行永远不必靠猜。"),
-        ("My report explains {np}, the risks behind it, and the cost of waiting.", "我的报告解释了{z}、背后的风险，以及等待的代价。"),
-        ("I propose a measurable goal for {np} this quarter, with a number we can defend.", "我为{z}提出了一个本季度的可衡量目标，一个我们守得住的数字。"),
-        ("We review {np} against the requirements one final time, line by line, together.", "我们最后一次逐行对照需求检查了{z}，一起完成的。"),
-        ("I close the loop on {np} and share the outcome, including what surprised us.", "我跟进完{z}并分享了结果，包括让我们意外的那部分。"),
+        ("I present {np} with a timeline, the data, and one clear ask.", "我用时间线、数据和一条明确的诉求来汇报{z}。"),
+        ("We align on {np} early, so execution never has to guess.", "我们尽早就{z}对齐，让执行无需猜测。"),
+        ("My report covers {np}, the risks behind it, and the cost of waiting.", "我的报告涵盖{z}、背后的风险，以及等待的代价。"),
+        ("I propose a measurable target for {np} this quarter.", "我为{z}提出了本季度一个可衡量的目标。"),
+        ("We review {np} against the requirements, line by line.", "我们逐行对照需求检查了{z}。"),
+        ("I close the discussion on {np} with a short summary.", "我用一段简短的总结为{z}的讨论收尾。"),
+        ("The final deck includes {np} and what we learned from it.", "最终的材料里有{z}，以及我们从中学到的东西。"),
+        ("I put {np} on the record so the reasoning stays visible.", "我把{z}记录在案，让推理过程保持可见。"),
     ],
 }
 
@@ -268,36 +276,44 @@ VP_POOL = {
         ("I {vp} while the others watch the dashboard.", "我{vz}，其他队友盯着仪表盘。"),
     ],
     5: [
-        ("I {vp} before the daily call, so my updates stay short.", "每日站会前我先{vz}，这样我的汇报保持简短。"),
-        ("I {vp}, and the result looks better than yesterday.", "我{vz}，结果比昨天看起来更好了。"),
-        ("Maria asks me to {vp} and report back before the review.", "Maria 让我{vz}，并在评审前汇报结果。"),
-        ("I {vp} so the next person can start quickly in the morning.", "我{vz}，好让下一个人早上能快速上手。"),
-        ("After the review, I {vp} once more and note what changed.", "评审之后，我又{vz}了一次，并记下变化。"),
-        ("I {vp} and add a short note for the team in the ticket.", "我{vz}，并在工单里给团队加了一条备注。"),
+        ("This morning, I {vp} before the first call.", "今天早上，第一次通话之前我先{vz}。"),
+        ("I {vp} while the office is still quiet.", "趁办公室还安静，我{vz}。"),
+        ("Maria watches while I {vp}.", "Maria 看着我{vz}。"),
+        ("I {vp} twice, just to be sure.", "我{vz}了两遍，只为确定。"),
+        ("It is finally my turn to {vp}.", "终于轮到我{vz}了。"),
+        ("I {vp}, then I take a short break.", "我{vz}，然后休息了一下。"),
+        ("Priya and I {vp} together after lunch.", "午饭之后，Priya 和我一起{vz}。"),
+        ("I {vp} the way the guide suggests.", "我按照指南建议的方式{vz}。"),
     ],
     6: [
-        ("We agree on when to {vp} so the schedule stops surprising us.", "我们就何时{vz}达成一致，这样日程就不会再让人意外。"),
-        ("I {vp} and track the outcome in the ticket until it is closed.", "我{vz}，并在工单里跟踪结果直到它关闭。"),
-        ("Before I hand the task to Priya, I {vp} and leave short notes.", "把任务交给 Priya 之前，我先{vz}，并留下简短说明。"),
-        ("The team decides to {vp} this sprint, with a checkpoint on Wednesday.", "团队决定在这个迭代{vz}，周三设一个检查点。"),
-        ("I {vp}, then I write two honest lines about what actually happened.", "我{vz}，然后诚实地写下两行实际发生的事。"),
-        ("When we {vp}, we keep the scope small enough to finish cleanly.", "我们{vz}时，会把范围控制到能干净收尾的程度。"),
+        ("In today's session, I {vp} with Priya's help.", "今天的工作里，我在 Priya 的帮助下{vz}。"),
+        ("I {vp}, then I note one thing I learned.", "我{vz}，然后记下一条学到的东西。"),
+        ("We agree that I will {vp} this week.", "我们说好这周由我来{vz}。"),
+        ("I {vp} while Leo checks the other half.", "我{vz}，Leo 检查另一半。"),
+        ("Before the review, I {vp} and prepare two questions.", "评审之前，我{vz}并准备了两个问题。"),
+        ("I {vp} so the next person starts on solid ground.", "我{vz}，让下一个人的起点更扎实。"),
+        ("The team decides that I should {vp} first.", "团队决定先由我来{vz}。"),
+        ("I {vp}, and Leo writes down the numbers.", "我{vz}，Leo 把数字记了下来。"),
     ],
     7: [
-        ("I {vp} early in the week, before the risk becomes news.", "我在周初就{vz}，赶在风险变成新闻之前。"),
-        ("We plan to {vp} right after the release, while context is warm.", "我们计划发布后立刻{vz}，趁上下文还热乎。"),
-        ("I {vp} while keeping the main flow stable enough for the demo.", "我在保持主流程足够稳定以支撑演示的同时{vz}。"),
-        ("Before the demo, Priya and I {vp} twice and cut surprises.", "演示之前，Priya 和我一起{vz}了两次，消灭意外。"),
-        ("I {vp} so the launch stays on schedule even if the pager sings.", "我{vz}，好让上线按计划进行，就算告警唱歌也不怕。"),
-        ("The team asks me to {vp} and document steps for the next person.", "团队让我{vz}，并为下一个人把步骤写成文档。"),
+        ("Early in the week, I {vp} and flag what worries me.", "这周一开始我就{vz}，标出让我担心的地方。"),
+        ("I {vp} while keeping the main flow steady.", "我在保持主流程稳定的同时{vz}。"),
+        ("Priya and I {vp} twice before the customer demo.", "客户演示之前，Priya 和我{vz}了两遍。"),
+        ("I {vp} so the launch stays on schedule.", "我{vz}，好让上线不脱期。"),
+        ("The team asks me to {vp} and write down each step.", "团队让我{vz}，并把每一步写下来。"),
+        ("We agree to {vp} right after the release window.", "我们说好发布窗口一过就{vz}。"),
+        ("I {vp} with the dashboard open the whole time.", "我全程开着仪表盘来{vz}。"),
+        ("Before sign-off, I {vp} and check the numbers again.", "签字之前，我{vz}并再核对了一遍数字。"),
     ],
     8: [
-        ("I {vp} and present the trade-offs to the group without hiding the costs.", "我{vz}，并向大家汇报了取舍，没有隐藏任何代价。"),
-        ("We {vp} because the data supports it, and we can show exactly why.", "我们{vz}，因为数据支持这样做，而且我们说得清为什么。"),
-        ("I {vp} under a tight deadline without losing the quality bar we agreed on.", "我在紧迫的截止时间内{vz}，没有丢掉我们约定的质量线。"),
-        ("After the launch, I {vp} and collect feedback from the people who matter most.", "上线之后，我{vz}，并向最重要的人收集了反馈。"),
-        ("I {vp} so the decision is easy to audit long after everyone forgets the debate.", "我{vz}，让这个决定在大家忘记争论很久之后仍然经得起审查。"),
-        ("Together with the team, I {vp} and close the milestone with our heads high.", "我和团队一起{vz}，昂着头完成了这个里程碑。"),
+        ("I {vp} and lay out the trade-offs without hiding any cost.", "我{vz}，并把取舍摆上台面，不隐瞒任何代价。"),
+        ("We {vp} because the data clearly points that way.", "我们{vz}，因为数据明确指向那里。"),
+        ("I {vp} under a tight deadline without lowering the bar.", "我在紧张的截止线前{vz}，没有降低标准。"),
+        ("After the launch, I {vp} and collect honest feedback.", "上线之后，我{vz}并收集真实的反馈。"),
+        ("I {vp} so the reasoning stays auditable years later.", "我{vz}，让多年后的推理依然可查。"),
+        ("With the whole team, I {vp} and close the milestone with pride.", "我和整个团队一起{vz}，骄傲地关闭了这个里程碑。"),
+        ("I {vp} once more, then present the numbers to the room.", "我再{vz}一遍，然后向全场展示数据。"),
+        ("We {vp} exactly as the plan described, step by step.", "我们完全按照计划{vz}，一步一步来。"),
     ],
 }
 
@@ -366,24 +382,28 @@ DLG_POOL = {
         ('At the end of the day, {spk} says, "{d1}" I reply, "{d2}"', '一天结束时，{spk}说："{d1z}"我回答："{d2z}"'),
     ],
     5: [
-        ('{spk} stops by my desk, asks, "{d1}" and I answer, "{d2}"', '{spk}走到我桌边问："{d1z}"我回答："{d2z}"'),
-        ('During the afternoon break, {spk} says, "{d1}" I reply, "{d2}"', '下午休息时，{spk}说："{d1z}"我回答："{d2z}"'),
-        ('{spk} greets me warmly with, "{d1}" and I answer, "{d2}"', '{spk}热情地用"{d1z}"和我打招呼，我回答："{d2z}"'),
+        ('We practise the dialogue: {spk} opens, "{d1}" I answer, "{d2}" and {spk} nods, "{cz}"', '我们练习这段对话：{spk}开场："{d1z}"我回答："{d2z}"{spk}点头说："{cz}"'),
+        ('We drill it twice: {spk} starts, "{d1}" I reply, "{d2}" then {spk} smiles, "{cz}"', '我们练了两遍：{spk}起头："{d1z}"我回答："{d2z}"然后{spk}笑着说："{cz}"'),
+        ('Role play with feedback: {spk} says, "{d1}" I try, "{d2}" and {spk} adds, "{cz}"', '角色扮演加反馈：{spk}说："{d1z}"我试着说："{d2z}"{spk}补充道："{cz}"'),
+        ('Warm-up round: {spk} offers, "{d1}" I answer, "{d2}" and {spk} wraps up, "{cz}"', '热身一轮：{spk}给出："{d1z}"我回答："{d2z}"{spk}收尾道："{cz}"'),
     ],
     6: [
-        ('In the morning meeting, {spk} says, "{d1}" and I respond, "{d2}"', '晨会上，{spk}说："{d1z}"我回应："{d2z}"'),
-        ('{spk} checks in with, "{d1}" so I explain, "{d2}" without rushing.', '{spk}关心地问："{d1z}"于是我不慌不忙地解释："{d2z}"'),
-        ('Over coffee, {spk} mentions, "{d1}" and I add, "{d2}" with an example.', '喝咖啡时，{spk}提到："{d1z}"我补充了"{d2z}"，还带了个例子。'),
+        ('Meeting rehearsal: {spk} opens, "{d1}" I respond, "{d2}" and {spk} confirms, "{cz}"', '会议彩排：{spk}开场："{d1z}"我回应："{d2z}"{spk}确认道："{cz}"'),
+        ('Whiteboard practice: {spk} offers, "{d1}" I add, "{d2}" then {spk} sums up, "{cz}"', '白板练习：{spk}给出："{d1z}"我补充："{d2z}"然后{spk}总结："{cz}"'),
+        ('Drill without notes: {spk} asks, "{d1}" I answer, "{d2}" and {spk} closes, "{cz}"', '脱稿演练：{spk}问："{d1z}"我回答："{d2z}"{spk}收束："{cz}"'),
+        ('Pair run: {spk} starts, "{d1}" I follow, "{d2}" and {spk} replies, "{cz}"', '结对演练：{spk}起头："{d1z}"我跟上："{d2z}"{spk}回应："{cz}"'),
     ],
     7: [
-        ('{spk} opens the talk with, "{d1}" and I follow up with, "{d2}" and a proposal.', '{spk}以"{d1z}"开启话题，我接着说了"{d2z}"还附了个提案。'),
-        ('When the design review starts each week, {spk} asks, "{d1}" and I answer, "{d2}" with numbers.', '评审开始时，{spk}问："{d1z}"我带着数字回答："{d2z}"'),
-        ('{spk} raises, "{d1}" and I respond calmly, "{d2}" because panic never helped anyone.', '{spk}提出："{d1z}"我从容地回应："{d2z}"因为慌张从来没用。'),
+        ('Review warm-up: {spk} raises, "{d1}" I answer, "{d2}" and {spk} grades it, "{cz}"', '评审热身：{spk}抛出："{d1z}"我带着数字回答："{d2z}"{spk}点评道："{cz}"'),
+        ('Dry run: {spk} opens, "{d1}" I follow, "{d2}" plus one proposal, and {spk} accepts, "{cz}"', '干跑演练：{spk}开场："{d1z}"我接上："{d2z}"外加一个提案，{spk}接受道："{cz}"'),
+        ('Practice debate: {spk} argues, "{d1}" I respond calmly, "{d2}" and {spk} concedes, "{cz}"', '练习辩论：{spk}主张："{d1z}"我平静地回应："{d2z}"{spk}承认道："{cz}"'),
+        ('Mock review: {spk} probes, "{d1}" I answer from memory, "{d2}" and {spk} confirms, "{cz}"', '模拟评审：{spk}追问："{d1z}"我凭记忆回答："{d2z}"{spk}确认："{cz}"'),
     ],
     8: [
-        ('At the demo, {spk} asks, "{d1}" and I present, "{d2}" with the numbers ready.', '演示会上，{spk}问："{d1z}"我带着准备好的数字汇报："{d2z}"'),
-        ('{spk} summarises the meeting with, "{d1}" and I confirm, "{d2}" for the record.', '{spk}用"{d1z}"为会议收尾，我郑重确认："{d2z}"'),
-        ('Before the launch, {spk} says, "{d1}" and I commit, "{d2}" on behalf of the whole team.', '上线前，{spk}说："{d1z}"我代表整个团队承诺："{d2z}"'),
+        ('Launch rehearsal: {spk} asks, "{d1}" I present, "{d2}" with the numbers ready, and {spk} signs off, "{cz}"', '上线彩排：{spk}问："{d1z}"我带着准备好的数字汇报："{d2z}"{spk}签字道："{cz}"'),
+        ('Final dry run: {spk} summarises, "{d1}" I confirm, "{d2}" for the record, and {spk} closes, "{cz}"', '最终干跑：{spk}总结："{d1z}"我郑重确认："{d2z}"{spk}收尾道："{cz}"'),
+        ('Board practice: {spk} probes, "{d1}" I respond without a pause, "{d2}" and {spk} nods, "{cz}"', '董事会练习：{spk}追问："{d1z}"我毫不迟疑地回应："{d2z}"{spk}点头道："{cz}"'),
+        ('Last rehearsal: {spk} checks, "{d1}" I commit word for word, "{d2}" and {spk} smiles, "{cz}"', '最后一次彩排：{spk}核对："{d1z}"我逐字承诺："{d2z}"{spk}笑道："{cz}"'),
     ],
 }
 
@@ -497,10 +517,10 @@ SOLO_LINE = {
     2: ('Then {spk} {verb}, "{d1}"', '接着{spk}{verbz}："{d1z}"'),
     3: ('At that moment, {spk} {verb}, "{d1}"', '这时，{spk}{verbz}："{d1z}"'),
     4: ('Before we move on, {spk} {verb}, "{d1}"', '继续之前，{spk}{verbz}："{d1z}"'),
-    5: ('During the afternoon chat, {spk} {verb}, "{d1}"', '下午聊天时，{spk}{verbz}："{d1z}"'),
-    6: ('In the middle of the meeting, {spk} {verb}, "{d1}"', '会议中段，{spk}{verbz}："{d1z}"'),
-    7: ('At the design review meeting this morning, {spk} {verb}, "{d1}"', '设计评审会上，{spk}{verbz}："{d1z}"'),
-    8: ('At the launch review, {spk} {verb}, "{d1}"', '上线评审时，{spk}{verbz}："{d1z}"'),
+    5: ('In the warm-up round, {spk} {verb}, "{d1}"', '热身环节里，{spk}{verbz}："{d1z}"'),
+    6: ('In the meeting drill, {spk} {verb}, "{d1}"', '会议演练中，{spk}{verbz}："{d1z}"'),
+    7: ('In the review drill, {spk} {verb}, "{d1}"', '评审演练中，{spk}{verbz}："{d1z}"'),
+    8: ('In the launch rehearsal, {spk} {verb}, "{d1}"', '上线彩排中，{spk}{verbz}："{d1z}"'),
 }
 
 PATTERNS_BY_TIER = {
@@ -766,8 +786,11 @@ def dialogue_sentence(d1: dict, d2: dict, tier: int, day: int, cursor: dict) -> 
         en_t, zh_t = pick_seq(DLG_POOL[tier], day, cursor)
     spk = SPEAKERS[(day + cursor["n"]) % len(SPEAKERS)]
     cursor["n"] += 1
-    en = cap(en_t.format(spk=spk, d1=t1, d2=t2, d1z=zh_core(d1), d2z=zh_core(d2)))
-    zh = zh_t.format(spk=spk, d1z=zh_core(d1), d2z=zh_core(d2))
+    closers = DLG_CLOSERS.get(tier) or [("", "")]
+    closer_en, closer_zh = closers[(day + cursor["n"]) % len(closers)]
+    cursor["n"] += 2
+    en = cap(en_t.format(spk=spk, d1=t1, d2=t2, cz=closer_en, d1z=zh_core(d1), d2z=zh_core(d2)))
+    zh = zh_t.format(spk=spk, cz=closer_zh, d1z=zh_core(d1), d2z=zh_core(d2))
     return en, zh
 
 
@@ -791,6 +814,30 @@ def render_items(items: list[dict], tier: int, day: int, cursor: dict) -> list[t
         out.append(solo_line_sentence(pending_line, tier, day, cursor))
     return out
 
+
+# closing reactions for 3-turn dialogues; generic on purpose so they fit any exchange
+DLG_CLOSERS = {
+    5: [
+        ("Good — try it in today’s task.", "好——今天的任务里就用上。"),
+        ('That is the one we need today.', '今天要的就是这句。'),
+        ('Nice, keep that one handy.', '不错，把这句记在手边。'),
+    ],
+    6: [
+        ('Good point — use it in the standup.', '说得好——站会上就用它。'),
+        ('Exactly, and it saves time too.', '正是，而且还省时间。'),
+        ('Keep practising, it is working.', '继续练，有效果了。'),
+    ],
+    7: [
+        ('Strong answer — keep that precision.', '回答有力——保持这种精确。'),
+        ('Agreed, note it in the ticket.', '同意，把这条记到工单里。'),
+        ('That is the level we need.', '我们要的就是这个水平。'),
+    ],
+    8: [
+        ('Approved — bring it to the launch review.', '通过——带到上线评审上。'),
+        ('Well said, that stays in the deck.', '说得好，这句留在材料里。'),
+        ('Confirmed. This is launch ready.', '确认无误，可以上线了。'),
+    ],
+}
 
 def build_scene(day: int, tier: int, scene: int, groups: list[dict], plot: dict, cursor: dict) -> tuple[str, str]:
     computer, daily, github = (g.get("items", []) for g in groups)
@@ -842,6 +889,7 @@ def hard_type(item: dict) -> str:
 
 
 def segment_for_scene(day: int, tier: int, scene: int, groups: list[dict], plot: dict, cursor: dict) -> dict:
+    cursor["n"] += (scene - 1) * 5  # rotate templates/closers per scene
     en, zh = build_scene(day, tier, scene, groups, plot, cursor)
     start = (scene - 1) * 2
     terms = []

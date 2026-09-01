@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 227,
+   "word_count": 221,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "First the team, then five percent of users, then everyone. At the end of the day, Maria says, \"Everyone starts somewhere.\" I reply, \"I believe in you.\" We discuss the risk around the try again button. I document the support link so the team can review it later. If the restore point fails, we need a clear plan. I suggest that we check the incident channel first. I check my notes and confirm the next step.",
-   "tts": "First the team, then five percent of users, then everyone. At the end of the day, Maria says, \"Everyone starts somewhere.\" I reply, \"I believe in you.\" We discuss the risk around the try again button. I document the support link so the team can review it later. If the restore point fails, we need a clear plan. I suggest that we check the incident channel first. I check my notes and confirm the next step.",
+   "en": "First the team, then five percent of users, then everyone. Before we part, Leo says, \"Everyone starts somewhere.\" I answer, \"I believe in you.\" I suggest that we check the try again button first. The result depends on the support link, so I check it twice. I explain the restore point to a new teammate. We discuss the risk around the incident channel. I check my notes and confirm the next step.",
+   "tts": "First the team, then five percent of users, then everyone. Before we part, Leo says, \"Everyone starts somewhere.\" I answer, \"I believe in you.\" I suggest that we check the try again button first. The result depends on the support link, so I check it twice. I explain the restore point to a new teammate. We discuss the risk around the incident channel. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "先给团队，再给百分之五的用户，最后全面开放。一天结束时，Maria说：\"每个人都是从零开始的。\"我回答：\"我相信你可以。\"我们讨论了重试按钮相关的风险。我把支持链接写成文档，方便团队之后查看。如果还原点失败，我们需要一个清晰的方案。我建议我们先检查事件频道。我检查笔记，确认了下一步。",
+   "zh": "先给团队，再给百分之五的用户，最后全面开放。分开前，Leo说：\"每个人都是从零开始的。\"我回答：\"我相信你可以。\"我建议我们先检查重试按钮。结果取决于支持链接，所以我检查了两遍。我向一位新队友解释了还原点。我们讨论了事件频道相关的风险。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "try again button",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. The result depends on the post-mortem doc, so I check it twice. I explain the action item to a new teammate. We discuss the risk around the error code. I document the friendly message so the team can review it later. Before we part, Leo says, \"One step at a time.\" I answer, \"You'll get there.\" A kill switch makes brave plans safe.",
-   "tts": "Before I leave, I write a short summary for the team. The result depends on the post-mortem doc, so I check it twice. I explain the action item to a new teammate. We discuss the risk around the error code. I document the friendly message so the team can review it later. Before we part, Leo says, \"One step at a time.\" I answer, \"You'll get there.\" A kill switch makes brave plans safe.",
+   "en": "Before I leave, I write a short summary for the team. I explain the post-mortem doc to a new teammate. We discuss the risk around the action item. I document the error code so the team can review it later. If the friendly message fails, we need a clear plan. Priya checks with me, \"One step at a time.\" I answer clearly, \"You'll get there.\" A kill switch makes brave plans safe.",
+   "tts": "Before I leave, I write a short summary for the team. I explain the post-mortem doc to a new teammate. We discuss the risk around the action item. I document the error code so the team can review it later. If the friendly message fails, we need a clear plan. Priya checks with me, \"One step at a time.\" I answer clearly, \"You'll get there.\" A kill switch makes brave plans safe.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。结果取决于复盘文档，所以我检查了两遍。我向一位新队友解释了行动项。我们讨论了错误代码相关的风险。我把友好提示写成文档，方便团队之后查看。分开前，Leo说：\"一步一步来。\"我回答：\"你会做到的。\"紧急开关让大胆的计划变得安全。",
+   "zh": "离开前，我给团队写了一份简短的总结。我向一位新队友解释了复盘文档。我们讨论了行动项相关的风险。我把错误代码写成文档，方便团队之后查看。如果友好提示失败，我们需要一个清晰的方案。Priya向我确认：\"一步一步来。\"我清楚地回答：\"你会做到的。\"紧急开关让大胆的计划变得安全。",
    "hard": [
     {
      "w": "error code",

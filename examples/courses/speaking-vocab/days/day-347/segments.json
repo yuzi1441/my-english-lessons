@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 341,
+   "word_count": 318,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The year end metrics read like thank you notes. I close the loop on the privilege handover audit and share the outcome, including what surprised us. I present the secret rotation at exit to the team with data, a timeline, and one clear ask. We align on the handover doc final pass before the deadline so execution never has to guess. My report explains the shadow day for successor, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"The last night in the old flat.\" and I present, \"We walk every room once more.\" with the numbers ready. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "The year end metrics read like thank you notes. I close the loop on the privilege handover audit and share the outcome, including what surprised us. I present the secret rotation at exit to the team with data, a timeline, and one clear ask. We align on the handover doc final pass before the deadline so execution never has to guess. My report explains the shadow day for successor, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"The last night in the old flat.\" and I present, \"We walk every room once more.\" with the numbers ready. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "The year end metrics read like thank you notes. I propose a measurable target for the privilege handover audit this quarter. We review the secret rotation at exit against the requirements, line by line. I close the discussion on the handover doc final pass with a short summary. The final deck includes the shadow day for successor and what we learned from it. Last rehearsal: Leo checks, \"The last night in the old flat.\" I commit word for word, \"We walk every room once more.\" and Leo smiles, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "The year end metrics read like thank you notes. I propose a measurable target for the privilege handover audit this quarter. We review the secret rotation at exit against the requirements, line by line. I close the discussion on the handover doc final pass with a short summary. The final deck includes the shadow day for successor and what we learned from it. Last rehearsal: Leo checks, \"The last night in the old flat.\" I commit word for word, \"We walk every room once more.\" and Leo smiles, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "年终指标读起来像感谢信。我跟进完权限交接审计并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了离岗密钥轮换。我们在截止日期前就交接文档最终通读达成共识，让执行永远不必靠猜。我的报告解释了继任者跟岗日、背后的风险，以及等待的代价。演示会上，Leo问：\"老公寓的最后一夜。\"我带着准备好的数字汇报：\"每个房间再走一遍。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "年终指标读起来像感谢信。我为权限交接审计提出了本季度一个可衡量的目标。我们逐行对照需求检查了离岗密钥轮换。我用一段简短的总结为交接文档最终通读的讨论收尾。最终的材料里有继任者跟岗日，以及我们从中学到的东西。最后一次彩排：Leo核对：\"老公寓的最后一夜。\"我逐字承诺：\"每个房间再走一遍。\"Leo笑道：\"确认无误，可以上线了。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "privilege handover audit",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Zero critical incidents in the last quarter; retention doubled; one retired cache. Before the launch, Maria says, \"The wall where photos hung.\" and I commit, \"Keys on the counter, labeled.\" on behalf of the whole team. We align on the oncall shadow completion check before the deadline so execution never has to guess. My report explains the escalation path transfer, the risks behind it, and the cost of waiting. I propose a measurable goal for the access revocation schedule this quarter, with a number we can defend. We review the introduction meetings batch against the requirements one final time, line by line, together. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Zero critical incidents in the last quarter; retention doubled; one retired cache. Before the launch, Maria says, \"The wall where photos hung.\" and I commit, \"Keys on the counter, labeled.\" on behalf of the whole team. We align on the oncall shadow completion check before the deadline so execution never has to guess. My report explains the escalation path transfer, the risks behind it, and the cost of waiting. I propose a measurable goal for the access revocation schedule this quarter, with a number we can defend. We review the introduction meetings batch against the requirements one final time, line by line, together. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Zero critical incidents in the last quarter; retention doubled; one retired cache. Launch rehearsal: Leo asks, \"The wall where photos hung.\" I present, \"Keys on the counter, labeled.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" We review the oncall shadow completion check against the requirements, line by line. I close the discussion on the escalation path transfer with a short summary. The final deck includes the access revocation schedule and what we learned from it. I put the introduction meetings batch on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Zero critical incidents in the last quarter; retention doubled; one retired cache. Launch rehearsal: Leo asks, \"The wall where photos hung.\" I present, \"Keys on the counter, labeled.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" We review the oncall shadow completion check against the requirements, line by line. I close the discussion on the escalation path transfer with a short summary. The final deck includes the access revocation schedule and what we learned from it. I put the introduction meetings batch on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "上季度零严重事故；留存翻倍；一个光荣退休的缓存。上线前，Maria说：\"挂过照片的那面墙。\"我代表整个团队承诺：\"钥匙放在台面上贴好标签。\"我们在截止日期前就值班影子完成核验达成共识，让执行永远不必靠猜。我的报告解释了升级路径移交、背后的风险，以及等待的代价。我为权限撤销时刻表提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了引荐会议批量安排，一起完成的。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "上季度零严重事故；留存翻倍；一个光荣退休的缓存。上线彩排：Leo问：\"挂过照片的那面墙。\"我带着准备好的数字汇报：\"钥匙放在台面上贴好标签。\"Leo签字道：\"确认无误，可以上线了。\"我们逐行对照需求检查了值班影子完成核验。我用一段简短的总结为升级路径移交的讨论收尾。最终的材料里有权限撤销时刻表，以及我们从中学到的东西。我把引荐会议批量安排记录在案，让推理过程保持可见。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "oncall shadow completion check",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the loop on the open threads inventory and share the outcome, including what surprised us. I present the farewell commit signature to the team with data, a timeline, and one clear ask. We align on the knowledge debt clearance before the deadline so execution never has to guess. My report explains the farewell retro facilitation, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"Gratitude for the leaky faucet.\" and I present, \"Doors close, homes continue.\" with the numbers ready. Dashboards can hold confetti too.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the loop on the open threads inventory and share the outcome, including what surprised us. I present the farewell commit signature to the team with data, a timeline, and one clear ask. We align on the knowledge debt clearance before the deadline so execution never has to guess. My report explains the farewell retro facilitation, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"Gratitude for the leaky faucet.\" and I present, \"Doors close, homes continue.\" with the numbers ready. Dashboards can hold confetti too.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the open threads inventory, the risks behind it, and the cost of waiting. I propose a measurable target for the farewell commit signature this quarter. We review the knowledge debt clearance against the requirements, line by line. I close the discussion on the farewell retro facilitation with a short summary. Board practice: Priya probes, \"Gratitude for the leaky faucet.\" I respond without a pause, \"Doors close, homes continue.\" and Priya nods, \"Approved — bring it to the launch review.\" Dashboards can hold confetti too.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the open threads inventory, the risks behind it, and the cost of waiting. I propose a measurable target for the farewell commit signature this quarter. We review the knowledge debt clearance against the requirements, line by line. I close the discussion on the farewell retro facilitation with a short summary. Board practice: Priya probes, \"Gratitude for the leaky faucet.\" I respond without a pause, \"Doors close, homes continue.\" and Priya nods, \"Approved — bring it to the launch review.\" Dashboards can hold confetti too.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我跟进完未决事项盘点并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了告别提交署名。我们在截止日期前就知识债清偿达成共识，让执行永远不必靠猜。我的报告解释了告别复盘主持、背后的风险，以及等待的代价。演示会上，Leo问：\"感谢那只漏水的龙头。\"我带着准备好的数字汇报：\"门关上了\"仪表盘上也能飘彩带。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖未决事项盘点、背后的风险，以及等待的代价。我为告别提交署名提出了本季度一个可衡量的目标。我们逐行对照需求检查了知识债清偿。我用一段简短的总结为告别复盘主持的讨论收尾。董事会练习：Priya追问：\"感谢那只漏水的龙头。\"我毫不迟疑地回应：\"门关上了\"Priya点头道：\"通过——带到上线评审上。\"仪表盘上也能飘彩带。",
    "hard": [
     {
      "w": "knowledge debt clearance",

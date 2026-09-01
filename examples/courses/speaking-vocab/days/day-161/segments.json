@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 300,
+   "word_count": 282,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Week one, the new button wins everywhere. The guide now includes a section on the segment level results, with examples and pitfalls. In today's standup, I give a quick update on the novelty effect and what blocked me. We agree that the analysis repo needs one more careful look before we commit. I link the query readme to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"Reviews with photos win.\" and I respond, \"The return policy matters.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Week one, the new button wins everywhere. The guide now includes a section on the segment level results, with examples and pitfalls. In today's standup, I give a quick update on the novelty effect and what blocked me. We agree that the analysis repo needs one more careful look before we commit. I link the query readme to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"Reviews with photos win.\" and I respond, \"The return policy matters.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Week one, the new button wins everywhere. We agree to give the segment level results one more careful look this week. I connect the novelty effect to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the analysis repo. While the details are fresh, I write down the query readme. Whiteboard practice: Leo offers, \"Reviews with photos win.\" I add, \"The return policy matters.\" then Leo sums up, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Week one, the new button wins everywhere. We agree to give the segment level results one more careful look this week. I connect the novelty effect to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the analysis repo. While the details are fresh, I write down the query readme. Whiteboard practice: Leo offers, \"Reviews with photos win.\" I add, \"The return policy matters.\" then Leo sums up, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第一周，新按钮全面领先。指南里现在有关于分群结果的章节，附有示例和坑点。在今天的站会上，我快速汇报了新奇效应的进展和卡住我的地方。我们一致认为，在动手之前分析仓库还需要再仔细看一次。我把查询说明书关联到工单上，这样重要的事情不会再被遗漏。晨会上，Leo说：\"带图的评价赢。\"我回应：\"退换货政策很要紧。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "第一周，新按钮全面领先。我们说好这周再把分群结果仔细看一次。我把新奇效应关联到工单上，免得遗漏。Priya 提出了一个更清晰的分析仓库思考方式。趁细节还新鲜，我把查询说明书写了下来。白板练习：Leo给出：\"带图的评价赢。\"我补充：\"退换货政策很要紧。\"然后Leo总结：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "segment level results",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "By week three the novelty hump flattens into honesty. Over coffee, Maria mentions, \"Waiting 24 hours saves money.\" and I add, \"Price trackers do the patience.\" with an example. We agree that the seasonality adjustment needs one more careful look before we commit. I link the test interference to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the insight permalink, and I write it down. I summarize what we decided about the chart source link while the details are still fresh. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "By week three the novelty hump flattens into honesty. Over coffee, Maria mentions, \"Waiting 24 hours saves money.\" and I add, \"Price trackers do the patience.\" with an example. We agree that the seasonality adjustment needs one more careful look before we commit. I link the test interference to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the insight permalink, and I write it down. I summarize what we decided about the chart source link while the details are still fresh. I close the ticket with a clear result and one lesson for next time.",
+   "en": "By week three the novelty hump flattens into honesty. Drill without notes: Leo asks, \"Waiting 24 hours saves money.\" I answer, \"Price trackers do the patience.\" and Leo closes, \"Keep practising, it is working.\" I connect the seasonality adjustment to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the test interference. While the details are fresh, I write down the insight permalink. The guide now has a short section on the chart source link. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "By week three the novelty hump flattens into honesty. Drill without notes: Leo asks, \"Waiting 24 hours saves money.\" I answer, \"Price trackers do the patience.\" and Leo closes, \"Keep practising, it is working.\" I connect the seasonality adjustment to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the test interference. While the details are fresh, I write down the insight permalink. The guide now has a short section on the chart source link. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "到第三周，新奇感的小山被摊平成诚实。喝咖啡时，Maria提到：\"等二十四小时能省钱。\"我补充了\"价格工具替你有耐心。\"，还带了个例子。我们一致认为，在动手之前季节性调整还需要再仔细看一次。我把实验互相干扰关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的洞察永久链接处理办法，我把它记了下来。趁细节还新鲜，我总结了关于图表来源链接的决定。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "到第三周，新奇感的小山被摊平成诚实。脱稿演练：Leo问：\"等二十四小时能省钱。\"我回答：\"价格工具替你有耐心。\"Leo收束：\"继续练，有效果了。\"我把季节性调整关联到工单上，免得遗漏。Priya 提出了一个更清晰的实验互相干扰思考方式。趁细节还新鲜，我把洞察永久链接写了下来。指南里现在有关于图表来源链接的简短章节。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "seasonality adjustment",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now includes a section on the methodology section, with examples and pitfalls. In today's standup, I give a quick update on the number change review and what blocked me. We agree that the long term holdout needs one more careful look before we commit. I link the decision threshold to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"Total cost, not sticker price.\" and I respond, \"Bought once, bought right.\" Early excitement is a noisy narrator.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now includes a section on the methodology section, with examples and pitfalls. In today's standup, I give a quick update on the number change review and what blocked me. We agree that the long term holdout needs one more careful look before we commit. I link the decision threshold to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"Total cost, not sticker price.\" and I respond, \"Bought once, bought right.\" Early excitement is a noisy narrator.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the methodology section and what comes next. We agree to give the number change review one more careful look this week. I connect the long term holdout to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the decision threshold. Meeting rehearsal: Priya opens, \"Total cost, not sticker price.\" I respond, \"Bought once, bought right.\" and Priya confirms, \"Good point — use it in the standup.\" Early excitement is a noisy narrator.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the methodology section and what comes next. We agree to give the number change review one more careful look this week. I connect the long term holdout to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the decision threshold. Meeting rehearsal: Priya opens, \"Total cost, not sticker price.\" I respond, \"Bought once, bought right.\" and Priya confirms, \"Good point — use it in the standup.\" Early excitement is a noisy narrator.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于方法论章节的章节，附有示例和坑点。在今天的站会上，我快速汇报了数字变更评审的进展和卡住我的地方。我们一致认为，在动手之前长期保留组还需要再仔细看一次。我把决策阈值关联到工单上，这样重要的事情不会再被遗漏。晨会上，Leo说：\"算总账不看标价。\"我回应：\"一次买对。\"早期的兴奋是个吵闹的叙述者。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到方法论章节和接下来的安排。我们说好这周再把数字变更评审仔细看一次。我把长期保留组关联到工单上，免得遗漏。Priya 提出了一个更清晰的决策阈值思考方式。会议彩排：Priya开场：\"算总账不看标价。\"我回应：\"一次买对。\"Priya确认道：\"说得好——站会上就用它。\"早期的兴奋是个吵闹的叙述者。",
    "hard": [
     {
      "w": "long term holdout",

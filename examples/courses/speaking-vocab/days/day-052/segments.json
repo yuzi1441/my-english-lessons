@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 267,
+   "word_count": 274,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A user asks for less movement on screen. I double-check the transition before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the keyframe so clearly. I keep a growing list of the release channel on my desk for later. My notes about the nightly build are getting sharper every single week. Maria greets me warmly with, \"It's okay to feel that way.\" and I answer, \"You're not alone in this.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "A user asks for less movement on screen. I double-check the transition before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the keyframe so clearly. I keep a growing list of the release channel on my desk for later. My notes about the nightly build are getting sharper every single week. Maria greets me warmly with, \"It's okay to feel that way.\" and I answer, \"You're not alone in this.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "A user asks for less movement on screen. My notes about the transition look clearer this week. I spend ten quiet minutes on the keyframe after the standup. Sam asks me about the release channel, and I explain the basics. I keep one real example of the nightly build in my notebook. We practise the dialogue: Maria opens, \"It's okay to feel that way.\" I answer, \"You're not alone in this.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "A user asks for less movement on screen. My notes about the transition look clearer this week. I spend ten quiet minutes on the keyframe after the standup. Sam asks me about the release channel, and I explain the basics. I keep one real example of the nightly build in my notebook. We practise the dialogue: Maria opens, \"It's okay to feel that way.\" I answer, \"You're not alone in this.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位用户希望屏幕上的动效少一点。回复之前我再核对一遍过渡，因为答错要付出双倍代价。一位队友拦住我，感谢我把关键帧解释得这么清楚。我把一份越来越长的发布通道清单放在桌上，留着以后用。我关于每夜构建的笔记每周都变得更敏锐。Maria热情地用\"有这种感觉很正常。\"和我打招呼，我回答：\"在这件事上你不是一个人。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "一位用户希望屏幕上的动效少一点。这周我关于过渡的笔记清楚多了。站会之后，我安安静静花了十分钟在关键帧上。Sam 问起发布通道，我讲了讲基础。我在笔记本里留了一个每夜构建的真实例子。我们练习这段对话：Maria开场：\"有这种感觉很正常。\"我回答：\"在这件事上你不是一个人。\"Maria点头说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "transition",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We respect reduced motion, and the app becomes calmer for everyone. During the afternoon break, Priya says, \"Take a breath.\" I reply, \"It'll look different tomorrow.\" I keep a growing list of the easing on my desk for later. My notes about the frame rate are getting sharper every single week. I asked Leo how he handles the beta program when the week gets heavy. The stable channel shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
-   "tts": "We respect reduced motion, and the app becomes calmer for everyone. During the afternoon break, Priya says, \"Take a breath.\" I reply, \"It'll look different tomorrow.\" I keep a growing list of the easing on my desk for later. My notes about the frame rate are getting sharper every single week. I asked Leo how he handles the beta program when the week gets heavy. The stable channel shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
+   "en": "We respect reduced motion, and the app becomes calmer for everyone. We drill it twice: Maria starts, \"Take a breath.\" I reply, \"It'll look different tomorrow.\" then Maria smiles, \"That is the one we need today.\" I spend ten quiet minutes on the easing after the standup. Sam asks me about the frame rate, and I explain the basics. I keep one real example of the beta program in my notebook. I add the stable channel to my study notes before I forget it. The task moves forward, and so does my confidence.",
+   "tts": "We respect reduced motion, and the app becomes calmer for everyone. We drill it twice: Maria starts, \"Take a breath.\" I reply, \"It'll look different tomorrow.\" then Maria smiles, \"That is the one we need today.\" I spend ten quiet minutes on the easing after the standup. Sam asks me about the frame rate, and I explain the basics. I keep one real example of the beta program in my notebook. I add the stable channel to my study notes before I forget it. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们尊重减弱动效的偏好，应用对所有人都变得更安静了。下午休息时，Priya说：\"先深呼吸一下。\"我回答：\"明天看待这事会不一样。\"我把一份越来越长的缓动清单放在桌上，留着以后用。我关于帧率的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理测试计划的。稳定通道出现在我们迭代笔记里的次数比以前更多了。任务在推进，我的信心也在成长。",
+   "zh": "我们尊重减弱动效的偏好，应用对所有人都变得更安静了。我们练了两遍：Maria起头：\"先深呼吸一下。\"我回答：\"明天看待这事会不一样。\"然后Maria笑着说：\"今天要的就是这句。\"站会之后，我安安静静花了十分钟在缓动上。Sam 问起帧率，我讲了讲基础。我在笔记本里留了一个测试计划的真实例子。我趁还没忘，把稳定通道记进了学习笔记。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "easing",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I double-check the channel switch before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the rollback a channel so clearly. I keep a growing list of the reduced motion on my desk for later. My notes about the entrance animation are getting sharper every single week. Maria greets me warmly with, \"I'm here if you need me.\" and I answer, \"Be gentle with yourself.\" Accessibility is a feature, not a favor.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I double-check the channel switch before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the rollback a channel so clearly. I keep a growing list of the reduced motion on my desk for later. My notes about the entrance animation are getting sharper every single week. Maria greets me warmly with, \"I'm here if you need me.\" and I answer, \"Be gentle with yourself.\" Accessibility is a feature, not a favor.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the channel switch in the meeting. My notes about the rollback a channel look clearer this week. I spend ten quiet minutes on the reduced motion after the standup. Sam asks me about the entrance animation, and I explain the basics. Warm-up round: Leo offers, \"I'm here if you need me.\" I answer, \"Be gentle with yourself.\" and Leo wraps up, \"Nice, keep that one handy.\" Accessibility is a feature, not a favor.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the channel switch in the meeting. My notes about the rollback a channel look clearer this week. I spend ten quiet minutes on the reduced motion after the standup. Sam asks me about the entrance animation, and I explain the basics. Warm-up round: Leo offers, \"I'm here if you need me.\" I answer, \"Be gentle with yourself.\" and Leo wraps up, \"Nice, keep that one handy.\" Accessibility is a feature, not a favor.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。回复之前我再核对一遍通道切换，因为答错要付出双倍代价。一位队友拦住我，感谢我把回退通道解释得这么清楚。我把一份越来越长的减弱动效清单放在桌上，留着以后用。我关于入场动画的笔记每周都变得更敏锐。Maria热情地用\"需要我随时在。\"和我打招呼，我回答：\"对自己温柔一点。\"无障碍是功能，不是恩惠。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于通道切换，我问了一个好问题。这周我关于回退通道的笔记清楚多了。站会之后，我安安静静花了十分钟在减弱动效上。Sam 问起入场动画，我讲了讲基础。热身一轮：Leo给出：\"需要我随时在。\"我回答：\"对自己温柔一点。\"Leo收尾道：\"不错，把这句记在手边。\"无障碍是功能，不是恩惠。",
    "hard": [
     {
      "w": "reduced motion",

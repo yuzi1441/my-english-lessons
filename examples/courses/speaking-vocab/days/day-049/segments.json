@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 265,
+   "word_count": 271,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A tester reports a strange failure at night. My notes about the log level are getting sharper every single week. I asked Leo how he handles the structured log when the week gets heavy. The style guide shows up in our sprint notes more often than before. I double-check the formatter before I reply, because a wrong answer costs double. Maria greets me warmly with, \"I hear you.\" and I answer, \"That makes sense.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "A tester reports a strange failure at night. My notes about the log level are getting sharper every single week. I asked Leo how he handles the structured log when the week gets heavy. The style guide shows up in our sprint notes more often than before. I double-check the formatter before I reply, because a wrong answer costs double. Maria greets me warmly with, \"I hear you.\" and I answer, \"That makes sense.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "A tester reports a strange failure at night. I go over the log level one more time before lunch. There is a short paragraph about the structured log in the guide. I ask one good question about the style guide in the meeting. My notes about the formatter look clearer this week. We drill it twice: Maria starts, \"I hear you.\" I reply, \"That makes sense.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "A tester reports a strange failure at night. I go over the log level one more time before lunch. There is a short paragraph about the structured log in the guide. I ask one good question about the style guide in the meeting. My notes about the formatter look clearer this week. We drill it twice: Maria starts, \"I hear you.\" I reply, \"That makes sense.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位测试者报告了夜里的一个奇怪失败。我关于日志级别的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理结构化日志的。风格指南出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍格式化工具，因为答错要付出双倍代价。Maria热情地用\"我明白你的意思。\"和我打招呼，我回答：\"这说得通。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "一位测试者报告了夜里的一个奇怪失败。午饭前我又过了一遍日志级别。指南里有一小段关于结构化日志的介绍。会上关于风格指南，我问了一个好问题。这周我关于格式化工具的笔记清楚多了。我们练了两遍：Maria起头：\"我明白你的意思。\"我回答：\"这说得通。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "log level",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I follow the correlation id across three services and watch the whole story unfold. During the afternoon break, Priya says, \"Go on, I'm listening.\" I reply, \"Let me play that back.\" The debug log shows up in our sprint notes more often than before. I double-check the correlation id before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the linter rule so clearly. I keep a growing list of the naming style on my desk for later. The task moves forward, and so does my confidence.",
-   "tts": "I follow the correlation id across three services and watch the whole story unfold. During the afternoon break, Priya says, \"Go on, I'm listening.\" I reply, \"Let me play that back.\" The debug log shows up in our sprint notes more often than before. I double-check the correlation id before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the linter rule so clearly. I keep a growing list of the naming style on my desk for later. The task moves forward, and so does my confidence.",
+   "en": "I follow the correlation id across three services and watch the whole story unfold. Role play with feedback: Maria says, \"Go on, I'm listening.\" I try, \"Let me play that back.\" and Maria adds, \"That is the one we need today.\" There is a short paragraph about the debug log in the guide. I ask one good question about the correlation id in the meeting. My notes about the linter rule look clearer this week. I spend ten quiet minutes on the naming style after the standup. The task moves forward, and so does my confidence.",
+   "tts": "I follow the correlation id across three services and watch the whole story unfold. Role play with feedback: Maria says, \"Go on, I'm listening.\" I try, \"Let me play that back.\" and Maria adds, \"That is the one we need today.\" There is a short paragraph about the debug log in the guide. I ask one good question about the correlation id in the meeting. My notes about the linter rule look clearer this week. I spend ten quiet minutes on the naming style after the standup. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我顺着关联标识跨过三个服务，看着整个故事展开。下午休息时，Priya说：\"你说\"我回答：\"我复述一下你的意思。\"调试日志出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍关联标识，因为答错要付出双倍代价。一位队友拦住我，感谢我把检查规则解释得这么清楚。我把一份越来越长的命名风格清单放在桌上，留着以后用。任务在推进，我的信心也在成长。",
+   "zh": "我顺着关联标识跨过三个服务，看着整个故事展开。角色扮演加反馈：Maria说：\"你说\"我试着说：\"我复述一下你的意思。\"Maria补充道：\"今天要的就是这句。\"指南里有一小段关于调试日志的介绍。会上关于关联标识，我问了一个好问题。这周我关于检查规则的笔记清楚多了。站会之后，我安安静静花了十分钟在命名风格上。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "debug log",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the import order are getting sharper every single week. I asked Leo how he handles the style debate when the week gets heavy. The verbose mode shows up in our sprint notes more often than before. I double-check the log rotation before I reply, because a wrong answer costs double. Maria greets me warmly with, \"That must have been hard.\" and I answer, \"What happened next?\" Good logs turn mysteries into reading.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the import order are getting sharper every single week. I asked Leo how he handles the style debate when the week gets heavy. The verbose mode shows up in our sprint notes more often than before. I double-check the log rotation before I reply, because a wrong answer costs double. Maria greets me warmly with, \"That must have been hard.\" and I answer, \"What happened next?\" Good logs turn mysteries into reading.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the import order to my study notes before I forget it. I go over the style debate one more time before lunch. There is a short paragraph about the verbose mode in the guide. I ask one good question about the log rotation in the meeting. We practise the dialogue: Leo opens, \"That must have been hard.\" I answer, \"What happened next?\" and Leo nods, \"Nice, keep that one handy.\" Good logs turn mysteries into reading.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the import order to my study notes before I forget it. I go over the style debate one more time before lunch. There is a short paragraph about the verbose mode in the guide. I ask one good question about the log rotation in the meeting. We practise the dialogue: Leo opens, \"That must have been hard.\" I answer, \"What happened next?\" and Leo nods, \"Nice, keep that one handy.\" Good logs turn mysteries into reading.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我关于导入顺序的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理风格讨论的。详细模式出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍日志轮转，因为答错要付出双倍代价。Maria热情地用\"那一定不容易。\"和我打招呼，我回答：\"后来呢？\"好的日志把悬案变成阅读。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把导入顺序记进了学习笔记。午饭前我又过了一遍风格讨论。指南里有一小段关于详细模式的介绍。会上关于日志轮转，我问了一个好问题。我们练习这段对话：Leo开场：\"那一定不容易。\"我回答：\"后来呢？\"Leo点头说：\"不错，把这句记在手边。\"好的日志把悬案变成阅读。",
    "hard": [
     {
      "w": "verbose mode",

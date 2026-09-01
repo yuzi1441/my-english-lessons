@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 271,
+   "word_count": 279,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The postmortem begins with, \"Nobody here is the villain.\" I keep a growing list of the load test on my desk for later. My notes about the stress test are getting sharper every single week. I asked Leo how he handles the premortem when the week gets heavy. The checklist culture shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"The tide writes and erases.\" I reply, \"Shoes off, sand on.\" I end the day with fewer unknowns than I started with.",
-   "tts": "The postmortem begins with, \"Nobody here is the villain.\" I keep a growing list of the load test on my desk for later. My notes about the stress test are getting sharper every single week. I asked Leo how he handles the premortem when the week gets heavy. The checklist culture shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"The tide writes and erases.\" I reply, \"Shoes off, sand on.\" I end the day with fewer unknowns than I started with.",
+   "en": "The postmortem begins with, \"Nobody here is the villain.\" My notes about the load test look clearer this week. I spend ten quiet minutes on the stress test after the standup. Sam asks me about the premortem, and I explain the basics. I keep one real example of the checklist culture in my notebook. We practise the dialogue: Priya opens, \"The tide writes and erases.\" I answer, \"Shoes off, sand on.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "The postmortem begins with, \"Nobody here is the villain.\" My notes about the load test look clearer this week. I spend ten quiet minutes on the stress test after the standup. Sam asks me about the premortem, and I explain the basics. I keep one real example of the checklist culture in my notebook. We practise the dialogue: Priya opens, \"The tide writes and erases.\" I answer, \"Shoes off, sand on.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "复盘会以一句开场：“这里没有人是反派。”我把一份越来越长的负载测试清单放在桌上，留着以后用。我关于压力测试的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理事前验尸的。清单文化出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"潮水写了又擦。\"我回答：\"脱鞋\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "复盘会以一句开场：“这里没有人是反派。”这周我关于负载测试的笔记清楚多了。站会之后，我安安静静花了十分钟在压力测试上。Sam 问起事前验尸，我讲了讲基础。我在笔记本里留了一个清单文化的真实例子。我们练习这段对话：Priya开场：\"潮水写了又擦。\"我回答：\"脱鞋\"Priya点头说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "load test",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Five whys later, the root is a missing checklist item, not a missing genius. Leo stops by my desk, asks, \"Sea air salts my thoughts.\" and I answer, \"Gulls argue about bread.\" I asked Leo how he handles the soak test when the week gets heavy. The ramp up shows up in our sprint notes more often than before. I double-check the blameless questions before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the learning review so clearly. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Five whys later, the root is a missing checklist item, not a missing genius. Leo stops by my desk, asks, \"Sea air salts my thoughts.\" and I answer, \"Gulls argue about bread.\" I asked Leo how he handles the soak test when the week gets heavy. The ramp up shows up in our sprint notes more often than before. I double-check the blameless questions before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the learning review so clearly. Small progress today prepares the bigger step tomorrow.",
+   "en": "Five whys later, the root is a missing checklist item, not a missing genius. We drill it twice: Priya starts, \"Sea air salts my thoughts.\" I reply, \"Gulls argue about bread.\" then Priya smiles, \"Good — try it in today’s task.\" I spend ten quiet minutes on the soak test after the standup. Sam asks me about the ramp up, and I explain the basics. I keep one real example of the blameless questions in my notebook. I add the learning review to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Five whys later, the root is a missing checklist item, not a missing genius. We drill it twice: Priya starts, \"Sea air salts my thoughts.\" I reply, \"Gulls argue about bread.\" then Priya smiles, \"Good — try it in today’s task.\" I spend ten quiet minutes on the soak test after the standup. Sam asks me about the ramp up, and I explain the basics. I keep one real example of the blameless questions in my notebook. I add the learning review to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "五个为什么之后，根源是一条缺失的清单项，而不是缺个天才。Leo走到我桌边问：\"海风把念头腌得咸咸的。\"我回答：\"海鸥为面包吵架。\"我问 Leo，当一周变得繁重时他是怎么处理浸泡测试的。逐步加压出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍不追责提问，因为答错要付出双倍代价。一位队友拦住我，感谢我把学习复盘解释得这么清楚。今天的小进步为明天更大的跨越做准备。",
+   "zh": "五个为什么之后，根源是一条缺失的清单项，而不是缺个天才。我们练了两遍：Priya起头：\"海风把念头腌得咸咸的。\"我回答：\"海鸥为面包吵架。\"然后Priya笑着说：\"好——今天的任务里就用上。\"站会之后，我安安静静花了十分钟在浸泡测试上。Sam 问起逐步加压，我讲了讲基础。我在笔记本里留了一个不追责提问的真实例子。我趁还没忘，把学习复盘记进了学习笔记。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "soak test",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the incident library on my desk for later. My notes about the drill schedule are getting sharper every single week. I asked Leo how he handles the latency target when the week gets heavy. The capacity report shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"The horizon resets me.\" I reply, \"Salt dries on my skin.\" Curiosity survived; nobody hid.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the incident library on my desk for later. My notes about the drill schedule are getting sharper every single week. I asked Leo how he handles the latency target when the week gets heavy. The capacity report shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"The horizon resets me.\" I reply, \"Salt dries on my skin.\" Curiosity survived; nobody hid.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the incident library in the meeting. My notes about the drill schedule look clearer this week. I spend ten quiet minutes on the latency target after the standup. Sam asks me about the capacity report, and I explain the basics. Warm-up round: Maria offers, \"The horizon resets me.\" I answer, \"Salt dries on my skin.\" and Maria wraps up, \"That is the one we need today.\" Curiosity survived; nobody hid.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the incident library in the meeting. My notes about the drill schedule look clearer this week. I spend ten quiet minutes on the latency target after the standup. Sam asks me about the capacity report, and I explain the basics. Warm-up round: Maria offers, \"The horizon resets me.\" I answer, \"Salt dries on my skin.\" and Maria wraps up, \"That is the one we need today.\" Curiosity survived; nobody hid.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我把一份越来越长的事故资料库清单放在桌上，留着以后用。我关于演练计划的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理延迟目标的。容量报告出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"海平线让我归零。\"我回答：\"盐在皮肤上干了。\"好奇心活了下来；没有人躲藏。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于事故资料库，我问了一个好问题。这周我关于演练计划的笔记清楚多了。站会之后，我安安静静花了十分钟在延迟目标上。Sam 问起容量报告，我讲了讲基础。热身一轮：Maria给出：\"海平线让我归零。\"我回答：\"盐在皮肤上干了。\"Maria收尾道：\"今天要的就是这句。\"好奇心活了下来；没有人躲藏。",
    "hard": [
     {
      "w": "latency target",

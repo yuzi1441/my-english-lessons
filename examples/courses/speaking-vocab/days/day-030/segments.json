@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 264,
+   "word_count": 260,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I say what I learned and what I will improve. In my update, I use the pattern naturally: I'm proud that ... I teach the pattern to a new teammate: I still need to improve ... The result depends on the interface, so I check it twice. I explain the component to a new teammate. We discuss the risk around the current blocker. I document the next action so the team can review it later. The team agrees on the plan, and I record the decision.",
-   "tts": "I say what I learned and what I will improve. In my update, I use the pattern naturally: I'm proud that  I teach the pattern to a new teammate: I still need to improve  The result depends on the interface, so I check it twice. I explain the component to a new teammate. We discuss the risk around the current blocker. I document the next action so the team can review it later. The team agrees on the plan, and I record the decision.",
+   "en": "I say what I learned and what I will improve. I teach the pattern to a new teammate: I'm proud that ... I build a full answer around the pattern: I still need to improve ... I suggest that we check the interface first. The result depends on the component, so I check it twice. I explain the current blocker to a new teammate. We discuss the risk around the next action. The team agrees on the plan, and I record the decision.",
+   "tts": "I say what I learned and what I will improve. I teach the pattern to a new teammate: I'm proud that  I build a full answer around the pattern: I still need to improve  I suggest that we check the interface first. The result depends on the component, so I check it twice. I explain the current blocker to a new teammate. We discuss the risk around the next action. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我说了自己学到的，还要改进的。在汇报里，我自然地用上了这个句型：我为……感到自豪。我把这个句型教给一位新队友：我仍然需要改进……结果取决于接口，所以我检查了两遍。我向一位新队友解释了组件。我们讨论了当前阻碍相关的风险。我把下一行动写成文档，方便团队之后查看。团队就计划达成一致，我记录了决定。",
+   "zh": "我说了自己学到的，还要改进的。我把这个句型教给一位新队友：我为……感到自豪。我围绕这个句型组织了一个完整的回答：我仍然需要改进……我建议我们先检查接口。结果取决于组件，所以我检查了两遍。我向一位新队友解释了当前阻碍。我们讨论了下一行动相关的风险。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "interface",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. If the lessons learned fails, we need a clear plan. I suggest that we check the follow-up issue first. The result depends on the dependency graph, so I check it twice. I explain the design boundary to a new teammate. I build a full answer around the pattern: Next month I will ... The pattern helps me sound clear and calm: My next small step is ... The project update is clear. Next month, I am ready for more.",
-   "tts": "Before I leave, I write a short summary for the team. If the lessons learned fails, we need a clear plan. I suggest that we check the follow-up issue first. The result depends on the dependency graph, so I check it twice. I explain the design boundary to a new teammate. I build a full answer around the pattern: Next month I will  The pattern helps me sound clear and calm: My next small step is  The project update is clear. Next month, I am ready for more.",
+   "en": "Before I leave, I write a short summary for the team. I explain the lessons learned to a new teammate. We discuss the risk around the follow-up issue. I document the dependency graph so the team can review it later. If the design boundary fails, we need a clear plan. I teach the pattern to a new teammate: Next month I will ... I build a full answer around the pattern: My next small step is ... The project update is clear. Next month, I am ready for more.",
+   "tts": "Before I leave, I write a short summary for the team. I explain the lessons learned to a new teammate. We discuss the risk around the follow-up issue. I document the dependency graph so the team can review it later. If the design boundary fails, we need a clear plan. I teach the pattern to a new teammate: Next month I will  I build a full answer around the pattern: My next small step is  The project update is clear. Next month, I am ready for more.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。如果经验总结失败，我们需要一个清晰的方案。我建议我们先检查后续问题单。结果取决于依赖图，所以我检查了两遍。我向一位新队友解释了设计边界。我围绕这个句型组织了一个完整的回答：下个月我会……这个句型让我听起来清楚又从容：我的下一个小步骤是……项目更新很清楚。下个月，我准备好了更多。",
+   "zh": "离开前，我给团队写了一份简短的总结。我向一位新队友解释了经验总结。我们讨论了后续问题单相关的风险。我把依赖图写成文档，方便团队之后查看。如果设计边界失败，我们需要一个清晰的方案。我把这个句型教给一位新队友：下个月我会……我围绕这个句型组织了一个完整的回答：我的下一个小步骤是……项目更新很清楚。下个月，我准备好了更多。",
    "hard": [
     {
      "w": "dependency graph",

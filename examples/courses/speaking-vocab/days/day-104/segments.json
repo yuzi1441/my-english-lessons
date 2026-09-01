@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 281,
+   "word_count": 269,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I touch an old module and resist the urge to rewrite it. I asked Leo how he handles the safe refactor when the week gets heavy. The extract function shows up in our sprint notes more often than before. I double-check the suggested change before I reply, because a wrong answer costs double. I request re-review and add a short note for the team in the ticket. Leo stops by my desk, asks, \"Priority seats stay empty.\" and I answer, \"A nod says thank you.\" The task moves forward, and so does my confidence.",
-   "tts": "I touch an old module and resist the urge to rewrite it. I asked Leo how he handles the safe refactor when the week gets heavy. The extract function shows up in our sprint notes more often than before. I double-check the suggested change before I reply, because a wrong answer costs double. I request re-review and add a short note for the team in the ticket. Leo stops by my desk, asks, \"Priority seats stay empty.\" and I answer, \"A nod says thank you.\" The task moves forward, and so does my confidence.",
+   "en": "I touch an old module and resist the urge to rewrite it. I add the safe refactor to my study notes before I forget it. I go over the extract function one more time before lunch. There is a short paragraph about the suggested change in the guide. I request re-review twice, just to be sure. We practise the dialogue: Leo opens, \"Priority seats stay empty.\" I answer, \"A nod says thank you.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "I touch an old module and resist the urge to rewrite it. I add the safe refactor to my study notes before I forget it. I go over the extract function one more time before lunch. There is a short paragraph about the suggested change in the guide. I request re-review twice, just to be sure. We practise the dialogue: Leo opens, \"Priority seats stay empty.\" I answer, \"A nod says thank you.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我碰了一个老模块，忍住了重写它的冲动。我问 Leo，当一周变得繁重时他是怎么处理安全重构的。提取函数出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍建议修改，因为答错要付出双倍代价。我请求复审，并在工单里给团队加了一条备注。Leo走到我桌边问：\"优先座常常空着。\"我回答：\"点头就是道谢。\"任务在推进，我的信心也在成长。",
+   "zh": "我碰了一个老模块，忍住了重写它的冲动。我趁还没忘，把安全重构记进了学习笔记。午饭前我又过了一遍提取函数。指南里有一小段关于建议修改的介绍。我请求复审了两遍，只为确定。我们练习这段对话：Leo开场：\"优先座常常空着。\"我回答：\"点头就是道谢。\"Leo点头说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "safe refactor",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A characterization test photographs its behavior; then small cleanups, all green. Maria greets me warmly with, \"Small kindnesses compound.\" and I answer, \"Offer once, gracefully.\" I double-check the inline function before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the rename symbol so clearly. I view the diff context before the daily call, so my updates stay short. My notes about the draft mode review are getting sharper every single week. I end the day with fewer unknowns than I started with.",
-   "tts": "A characterization test photographs its behavior; then small cleanups, all green. Maria greets me warmly with, \"Small kindnesses compound.\" and I answer, \"Offer once, gracefully.\" I double-check the inline function before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the rename symbol so clearly. I view the diff context before the daily call, so my updates stay short. My notes about the draft mode review are getting sharper every single week. I end the day with fewer unknowns than I started with.",
+   "en": "A characterization test photographs its behavior; then small cleanups, all green. We drill it twice: Leo starts, \"Small kindnesses compound.\" I reply, \"Offer once, gracefully.\" then Leo smiles, \"Nice, keep that one handy.\" I go over the inline function one more time before lunch. There is a short paragraph about the rename symbol in the guide. I view the diff context twice, just to be sure. My notes about the draft mode review look clearer this week. I end the day with fewer unknowns than I started with.",
+   "tts": "A characterization test photographs its behavior; then small cleanups, all green. We drill it twice: Leo starts, \"Small kindnesses compound.\" I reply, \"Offer once, gracefully.\" then Leo smiles, \"Nice, keep that one handy.\" I go over the inline function one more time before lunch. There is a short paragraph about the rename symbol in the guide. I view the diff context twice, just to be sure. My notes about the draft mode review look clearer this week. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个特征测试给旧行为拍了照；然后小幅清理，一路绿灯。Maria热情地用\"小善意会复利。\"和我打招呼，我回答：\"礼貌让一次就好。\"回复之前我再核对一遍内联函数，因为答错要付出双倍代价。一位队友拦住我，感谢我把重命名符号解释得这么清楚。每日站会前我先看差异上下文，这样我的汇报保持简短。我关于草稿期评审的笔记每周都变得更敏锐。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "一个特征测试给旧行为拍了照；然后小幅清理，一路绿灯。我们练了两遍：Leo起头：\"小善意会复利。\"我回答：\"礼貌让一次就好。\"然后Leo笑着说：\"不错，把这句记在手边。\"午饭前我又过了一遍内联函数。指南里有一小段关于重命名符号的介绍。我看差异上下文了两遍，只为确定。这周我关于草稿期评审的笔记清楚多了。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "inline function",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Maria asks me to batch your comments and report back before the review. I resolve all threads so the next person can start quickly in the morning. I double-check the dead code removal before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the characterization test so clearly. Leo stops by my desk, asks, \"People carry invisible bags.\" and I answer, \"Cities are kind at seven a.m.\" Leave the campsite cleaner than you found it.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Maria asks me to batch your comments and report back before the review. I resolve all threads so the next person can start quickly in the morning. I double-check the dead code removal before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the characterization test so clearly. Leo stops by my desk, asks, \"People carry invisible bags.\" and I answer, \"Cities are kind at seven a.m.\" Leave the campsite cleaner than you found it.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I batch your comments the way the guide suggests. This morning, I resolve all threads before the first call. I go over the dead code removal one more time before lunch. There is a short paragraph about the characterization test in the guide. Warm-up round: Priya offers, \"People carry invisible bags.\" I answer, \"Cities are kind at seven a.m.\" and Priya wraps up, \"Good — try it in today’s task.\" Leave the campsite cleaner than you found it.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I batch your comments the way the guide suggests. This morning, I resolve all threads before the first call. I go over the dead code removal one more time before lunch. There is a short paragraph about the characterization test in the guide. Warm-up round: Priya offers, \"People carry invisible bags.\" I answer, \"Cities are kind at seven a.m.\" and Priya wraps up, \"Good — try it in today’s task.\" Leave the campsite cleaner than you found it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Maria 让我合并评论，并在评审前汇报结果。我解决全部讨论，好让下一个人早上能快速上手。回复之前我再核对一遍死代码清除，因为答错要付出双倍代价。一位队友拦住我，感谢我把特征测试解释得这么清楚。Leo走到我桌边问：\"每个人都拎着看不见的包。\"我回答：\"清晨七点的城市很温柔。\"离开营地时，让它比来时更干净。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我按照指南建议的方式合并评论。今天早上，第一次通话之前我先解决全部讨论。午饭前我又过了一遍死代码清除。指南里有一小段关于特征测试的介绍。热身一轮：Priya给出：\"每个人都拎着看不见的包。\"我回答：\"清晨七点的城市很温柔。\"Priya收尾道：\"好——今天的任务里就用上。\"离开营地时，让它比来时更干净。",
    "hard": [
     {
      "w": "dead code removal",

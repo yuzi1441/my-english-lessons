@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 278,
+   "word_count": 282,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We let the build soak over a long weekend. I asked Leo how he handles the quality built in when the week gets heavy. Shift left shows up in our sprint notes more often than before. I double-check the quality scorecard before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the escaped defects trend so clearly. Leo stops by my desk, asks, \"The monitor at eye level.\" and I answer, \"Feet flat, shoulders back.\" The task moves forward, and so does my confidence.",
-   "tts": "We let the build soak over a long weekend. I asked Leo how he handles the quality built in when the week gets heavy. Shift left shows up in our sprint notes more often than before. I double-check the quality scorecard before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the escaped defects trend so clearly. Leo stops by my desk, asks, \"The monitor at eye level.\" and I answer, \"Feet flat, shoulders back.\" The task moves forward, and so does my confidence.",
+   "en": "We let the build soak over a long weekend. Sam asks me about the quality built in, and I explain the basics. I keep one real example of shift left in my notebook. I add the quality scorecard to my study notes before I forget it. I go over the escaped defects trend one more time before lunch. Role play with feedback: Leo says, \"The monitor at eye level.\" I try, \"Feet flat, shoulders back.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "We let the build soak over a long weekend. Sam asks me about the quality built in, and I explain the basics. I keep one real example of shift left in my notebook. I add the quality scorecard to my study notes before I forget it. I go over the escaped defects trend one more time before lunch. Role play with feedback: Leo says, \"The monitor at eye level.\" I try, \"Feet flat, shoulders back.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们让构建整个长周末泡在水里。我问 Leo，当一周变得繁重时他是怎么处理质量内建的。左移测试出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍质量记分卡，因为答错要付出双倍代价。一位队友拦住我，感谢我把逃逸缺陷趋势解释得这么清楚。Leo走到我桌边问：\"屏幕与眼睛齐平。\"我回答：\"双脚放平\"任务在推进，我的信心也在成长。",
+   "zh": "我们让构建整个长周末泡在水里。Sam 问起质量内建，我讲了讲基础。我在笔记本里留了一个左移测试的真实例子。我趁还没忘，把质量记分卡记进了学习笔记。午饭前我又过了一遍逃逸缺陷趋势。角色扮演加反馈：Leo说：\"屏幕与眼睛齐平。\"我试着说：\"双脚放平\"Leo补充道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "quality built in",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Monday: memory steady, queue calm, one log line I will frame someday. Maria greets me warmly with, \"Stand every half hour.\" and I answer, \"The wrist rest actually works.\" I double-check the pair testing before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the definition of done so clearly. I keep a growing list of the test investment on my desk for later. My notes about the stability index are getting sharper every single week. I end the day with fewer unknowns than I started with.",
-   "tts": "Monday: memory steady, queue calm, one log line I will frame someday. Maria greets me warmly with, \"Stand every half hour.\" and I answer, \"The wrist rest actually works.\" I double-check the pair testing before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the definition of done so clearly. I keep a growing list of the test investment on my desk for later. My notes about the stability index are getting sharper every single week. I end the day with fewer unknowns than I started with.",
+   "en": "Monday: memory steady, queue calm, one log line I will frame someday. Warm-up round: Leo offers, \"Stand every half hour.\" I answer, \"The wrist rest actually works.\" and Leo wraps up, \"Nice, keep that one handy.\" I keep one real example of the pair testing in my notebook. I add the definition of done to my study notes before I forget it. I go over the test investment one more time before lunch. There is a short paragraph about the stability index in the guide. I end the day with fewer unknowns than I started with.",
+   "tts": "Monday: memory steady, queue calm, one log line I will frame someday. Warm-up round: Leo offers, \"Stand every half hour.\" I answer, \"The wrist rest actually works.\" and Leo wraps up, \"Nice, keep that one handy.\" I keep one real example of the pair testing in my notebook. I add the definition of done to my study notes before I forget it. I go over the test investment one more time before lunch. There is a short paragraph about the stability index in the guide. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "周一：内存平稳，队列安详，还有一行我将来要裱起来的日志。Maria热情地用\"每半小时站起来。\"和我打招呼，我回答：\"腕托真的有用。\"回复之前我再核对一遍结对测试，因为答错要付出双倍代价。一位队友拦住我，感谢我把完成定义解释得这么清楚。我把一份越来越长的测试投入清单放在桌上，留着以后用。我关于稳定指数的笔记每周都变得更敏锐。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "周一：内存平稳，队列安详，还有一行我将来要裱起来的日志。热身一轮：Leo给出：\"每半小时站起来。\"我回答：\"腕托真的有用。\"Leo收尾道：\"不错，把这句记在手边。\"我在笔记本里留了一个结对测试的真实例子。我趁还没忘，把完成定义记进了学习笔记。午饭前我又过了一遍测试投入。指南里有一小段关于稳定指数的介绍。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "pair testing",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I asked Leo how he handles the quality goals review when the week gets heavy. The quality roadmap shows up in our sprint notes more often than before. I double-check the acceptance criteria before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the quality ownership so clearly. Leo stops by my desk, asks, \"Stretch before coffee.\" and I answer, \"The body keeps the score.\" Patience is a test strategy.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I asked Leo how he handles the quality goals review when the week gets heavy. The quality roadmap shows up in our sprint notes more often than before. I double-check the acceptance criteria before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the quality ownership so clearly. Leo stops by my desk, asks, \"Stretch before coffee.\" and I answer, \"The body keeps the score.\" Patience is a test strategy.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the quality goals review after the standup. Sam asks me about the quality roadmap, and I explain the basics. I keep one real example of the acceptance criteria in my notebook. I add the quality ownership to my study notes before I forget it. We drill it twice: Priya starts, \"Stretch before coffee.\" I reply, \"The body keeps the score.\" then Priya smiles, \"Good — try it in today’s task.\" Patience is a test strategy.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the quality goals review after the standup. Sam asks me about the quality roadmap, and I explain the basics. I keep one real example of the acceptance criteria in my notebook. I add the quality ownership to my study notes before I forget it. We drill it twice: Priya starts, \"Stretch before coffee.\" I reply, \"The body keeps the score.\" then Priya smiles, \"Good — try it in today’s task.\" Patience is a test strategy.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我问 Leo，当一周变得繁重时他是怎么处理质量目标回顾的。质量路线图出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍验收标准，因为答错要付出双倍代价。一位队友拦住我，感谢我把质量归属解释得这么清楚。Leo走到我桌边问：\"咖啡之前先拉伸。\"我回答：\"身体会记账。\"耐心本身就是一种测试策略。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在质量目标回顾上。Sam 问起质量路线图，我讲了讲基础。我在笔记本里留了一个验收标准的真实例子。我趁还没忘，把质量归属记进了学习笔记。我们练了两遍：Priya起头：\"咖啡之前先拉伸。\"我回答：\"身体会记账。\"然后Priya笑着说：\"好——今天的任务里就用上。\"耐心本身就是一种测试策略。",
    "hard": [
     {
      "w": "acceptance criteria",

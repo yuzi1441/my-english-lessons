@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 303,
+   "word_count": 284,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day three, the numbers look great; everyone wants to ship. I summarize what we decided about the partition pruning while the details are still fresh. The guide now includes a section on the query cost estimate, with examples and pitfalls. In today's standup, I give a quick update on the idempotent transform and what blocked me. We agree that the backfill etiquette needs one more careful look before we commit. Over coffee, Maria mentions, \"The old drive whispers memories.\" and I add, \"Duplicate photos, a graveyard.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Day three, the numbers look great; everyone wants to ship. I summarize what we decided about the partition pruning while the details are still fresh. The guide now includes a section on the query cost estimate, with examples and pitfalls. In today's standup, I give a quick update on the idempotent transform and what blocked me. We agree that the backfill etiquette needs one more careful look before we commit. Over coffee, Maria mentions, \"The old drive whispers memories.\" and I add, \"Duplicate photos, a graveyard.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Day three, the numbers look great; everyone wants to ship. In today's standup, I mention the partition pruning and what comes next. We agree to give the query cost estimate one more careful look this week. I connect the idempotent transform to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the backfill etiquette. Meeting rehearsal: Maria opens, \"The old drive whispers memories.\" I respond, \"Duplicate photos, a graveyard.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Day three, the numbers look great; everyone wants to ship. In today's standup, I mention the partition pruning and what comes next. We agree to give the query cost estimate one more careful look this week. I connect the idempotent transform to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the backfill etiquette. Meeting rehearsal: Maria opens, \"The old drive whispers memories.\" I respond, \"Duplicate photos, a graveyard.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第三天，数字看起来很美；人人都想发布。趁细节还新鲜，我总结了关于分区裁剪的决定。指南里现在有关于查询成本估算的章节，附有示例和坑点。在今天的站会上，我快速汇报了幂等转换的进展和卡住我的地方。我们一致认为，在动手之前回填礼仪还需要再仔细看一次。喝咖啡时，Maria提到：\"旧硬盘低声讲回忆。\"我补充了\"重复照片\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "第三天，数字看起来很美；人人都想发布。今天的站会上，我提到分区裁剪和接下来的安排。我们说好这周再把查询成本估算仔细看一次。我把幂等转换关联到工单上，免得遗漏。Priya 提出了一个更清晰的回填礼仪思考方式。会议彩排：Maria开场：\"旧硬盘低声讲回忆。\"我回应：\"重复照片\"Maria确认道：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "partition pruning",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Priya guards the door: \"We agreed on two weeks.\" Priya checks in with, \"Folder names from 2012.\" so I explain, \"Backup before the brave delete.\" without rushing. In today's standup, I give a quick update on the materialized view and what blocked me. We agree that the incremental model needs one more careful look before we commit. I link the pipeline sla page to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the freshness badge, and I write it down. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Priya guards the door: \"We agreed on two weeks.\" Priya checks in with, \"Folder names from 2012.\" so I explain, \"Backup before the brave delete.\" without rushing. In today's standup, I give a quick update on the materialized view and what blocked me. We agree that the incremental model needs one more careful look before we commit. I link the pipeline sla page to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the freshness badge, and I write it down. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Priya guards the door: \"We agreed on two weeks.\" Whiteboard practice: Maria offers, \"Folder names from 2012.\" I add, \"Backup before the brave delete.\" then Maria sums up, \"Exactly, and it saves time too.\" We agree to give the materialized view one more careful look this week. I connect the incremental model to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the pipeline sla page. While the details are fresh, I write down the freshness badge. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Priya guards the door: \"We agreed on two weeks.\" Whiteboard practice: Maria offers, \"Folder names from 2012.\" I add, \"Backup before the brave delete.\" then Maria sums up, \"Exactly, and it saves time too.\" We agree to give the materialized view one more careful look this week. I connect the incremental model to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the pipeline sla page. While the details are fresh, I write down the freshness badge. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Priya 守在门口：“我们说好两周的。”Priya关心地问：\"2012 年的文件夹名。\"于是我不慌不忙地解释：\"勇敢删除前先备份。\"在今天的站会上，我快速汇报了物化视图的进展和卡住我的地方。我们一致认为，在动手之前增量模型还需要再仔细看一次。我把管道 SLA 页关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的新鲜度徽章处理办法，我把它记了下来。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "Priya 守在门口：“我们说好两周的。”白板练习：Maria给出：\"2012 年的文件夹名。\"我补充：\"勇敢删除前先备份。\"然后Maria总结：\"正是，而且还省时间。\"我们说好这周再把物化视图仔细看一次。我把增量模型关联到工单上，免得遗漏。Priya 提出了一个更清晰的管道 SLA 页思考方式。趁细节还新鲜，我把新鲜度徽章写了下来。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "materialized view",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I summarize what we decided about the lineage impact analysis while the details are still fresh. The guide now includes a section on the contract test for data, with examples and pitfalls. In today's standup, I give a quick update on the cost spike alert and what blocked me. We agree that the expensive query quarantine needs one more careful look before we commit. Over coffee, Maria mentions, \"Three two one backup rule.\" and I add, \"Storage guilt, resolved.\" with an example. Discipline is a group sport.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I summarize what we decided about the lineage impact analysis while the details are still fresh. The guide now includes a section on the contract test for data, with examples and pitfalls. In today's standup, I give a quick update on the cost spike alert and what blocked me. We agree that the expensive query quarantine needs one more careful look before we commit. Over coffee, Maria mentions, \"Three two one backup rule.\" and I add, \"Storage guilt, resolved.\" with an example. Discipline is a group sport.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the lineage impact analysis. In today's standup, I mention the contract test for data and what comes next. We agree to give the cost spike alert one more careful look this week. I connect the expensive query quarantine to the ticket so nothing gets lost. Pair run: Leo starts, \"Three two one backup rule.\" I follow, \"Storage guilt, resolved.\" and Leo replies, \"Keep practising, it is working.\" Discipline is a group sport.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the lineage impact analysis. In today's standup, I mention the contract test for data and what comes next. We agree to give the cost spike alert one more careful look this week. I connect the expensive query quarantine to the ticket so nothing gets lost. Pair run: Leo starts, \"Three two one backup rule.\" I follow, \"Storage guilt, resolved.\" and Leo replies, \"Keep practising, it is working.\" Discipline is a group sport.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我总结了关于血缘影响分析的决定。指南里现在有关于数据的契约测试的章节，附有示例和坑点。在今天的站会上，我快速汇报了成本尖峰告警的进展和卡住我的地方。我们一致认为，在动手之前昂贵查询隔离还需要再仔细看一次。喝咖啡时，Maria提到：\"三二一备份法则。\"我补充了\"存储愧疚\"，还带了个例子。纪律是团体运动。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在血缘影响分析上。今天的站会上，我提到数据的契约测试和接下来的安排。我们说好这周再把成本尖峰告警仔细看一次。我把昂贵查询隔离关联到工单上，免得遗漏。结对演练：Leo起头：\"三二一备份法则。\"我跟上：\"存储愧疚\"Leo回应：\"继续练，有效果了。\"纪律是团体运动。",
    "hard": [
     {
      "w": "cost spike alert",

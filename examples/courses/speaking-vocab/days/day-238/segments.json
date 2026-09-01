@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 325,
+   "word_count": 323,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The settings page lands at nine hundred milliseconds. The team sets a clear owner for the invalidation on write, plus a deadline and review date. I compare two approaches to the stale window, note the trade-offs, share both honestly. In review, I raise a careful question about the invalidation test matrix and its failure modes. Our mentor walks me through the stale serving review's history, including two painful lessons. Maria raises, \"The fridge list updates on write.\" and I respond calmly, \"Old flyers go to recycling.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "The settings page lands at nine hundred milliseconds. The team sets a clear owner for the invalidation on write, plus a deadline and review date. I compare two approaches to the stale window, note the trade-offs, share both honestly. In review, I raise a careful question about the invalidation test matrix and its failure modes. Our mentor walks me through the stale serving review's history, including two painful lessons. Maria raises, \"The fridge list updates on write.\" and I respond calmly, \"Old flyers go to recycling.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "The settings page lands at nine hundred milliseconds. I add the invalidation on write to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the stale window. During the design review, I raise one careful question about the invalidation test matrix. Our mentor walks me through how the stale serving review evolved on this team. Practice debate: Maria argues, \"The fridge list updates on write.\" I respond calmly, \"Old flyers go to recycling.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "The settings page lands at nine hundred milliseconds. I add the invalidation on write to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the stale window. During the design review, I raise one careful question about the invalidation test matrix. Our mentor walks me through how the stale serving review evolved on this team. Practice debate: Maria argues, \"The fridge list updates on write.\" I respond calmly, \"Old flyers go to recycling.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "设置页面停在九百毫秒。团队为写时失效定了明确的负责人，加上截止和复审日期。我比较了处理过期服务窗口的两种方式，记下取舍，诚实分享。评审中，我就失效测试矩阵及其失效模式提出了一个审慎的问题。导师带我梳理了过期服务评审的历史，包括两次惨痛的教训。Maria提出：\"冰箱清单随写随更。\"我从容地回应：\"旧传单进回收站。\"因为慌张从来没用。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "设置页面停在九百毫秒。我把写时失效连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了过期服务窗口上。设计评审中，我就失效测试矩阵提出了一个审慎的问题。导师带我梳理了过期服务评审在这个团队里的演变。练习辩论：Maria主张：\"冰箱清单随写随更。\"我平静地回应：\"旧传单进回收站。\"Maria承认道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "invalidation on write",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Support tickets about slowness drop to zero and stay there. When the design review starts each week, Priya asks, \"Sticky notes have expiry dates.\" and I answer, \"Important changes get broadcast.\" with numbers. In review, I raise a careful question about the soft ttl refresh and its failure modes. Our mentor walks me through the event invalidation's history, including two painful lessons. We weigh the cost of changing the cascade risk analysis against leaving it alone. I prepare a one-page brief about the broadcast failure drill so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Support tickets about slowness drop to zero and stay there. When the design review starts each week, Priya asks, \"Sticky notes have expiry dates.\" and I answer, \"Important changes get broadcast.\" with numbers. In review, I raise a careful question about the soft ttl refresh and its failure modes. Our mentor walks me through the event invalidation's history, including two painful lessons. We weigh the cost of changing the cascade risk analysis against leaving it alone. I prepare a one-page brief about the broadcast failure drill so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Support tickets about slowness drop to zero and stay there. Mock review: Maria probes, \"Sticky notes have expiry dates.\" I answer from memory, \"Important changes get broadcast.\" and Maria confirms, \"Agreed, note it in the ticket.\" We spend the first ten minutes of the review on the soft ttl refresh. During the design review, I raise one careful question about the event invalidation. Our mentor walks me through how the cascade risk analysis evolved on this team. Before deciding, I reread my notes about the broadcast failure drill twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Support tickets about slowness drop to zero and stay there. Mock review: Maria probes, \"Sticky notes have expiry dates.\" I answer from memory, \"Important changes get broadcast.\" and Maria confirms, \"Agreed, note it in the ticket.\" We spend the first ten minutes of the review on the soft ttl refresh. During the design review, I raise one careful question about the event invalidation. Our mentor walks me through how the cascade risk analysis evolved on this team. Before deciding, I reread my notes about the broadcast failure drill twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "关于卡的工单归零，并且赖着不走。评审开始时，Priya问：\"便利贴有过期日。\"我带着数字回答：\"重要变更全家广播。\"评审中，我就软过期加刷新及其失效模式提出了一个审慎的问题。导师带我梳理了事件驱动失效的历史，包括两次惨痛的教训。我们权衡了改动级联失效分析的代价与放着不管的风险。我准备了一页关于广播失败演习的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "关于卡的工单归零，并且赖着不走。模拟评审：Maria追问：\"便利贴有过期日。\"我凭记忆回答：\"重要变更全家广播。\"Maria确认：\"同意，把这条记到工单里。\"评审的前十分钟，我们都用在了软过期加刷新上。设计评审中，我就事件驱动失效提出了一个审慎的问题。导师带我梳理了级联失效分析在这个团队里的演变。做决定之前，我把关于广播失败演习的笔记重读了两遍。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "soft ttl refresh",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team sets a clear owner for the ttl tuning log, plus a deadline and review date. I compare two approaches to the coherence retro, note the trade-offs, share both honestly. In review, I raise a careful question about the cascade invalidation and its failure modes. Our mentor walks me through the negative ttl's history, including two painful lessons. Maria raises, \"One source per fact, updated.\" and I respond calmly, \"Stale info is worse than none.\" because panic never helped anyone. Nobody writes thank you notes for speed; the silence is the applause.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team sets a clear owner for the ttl tuning log, plus a deadline and review date. I compare two approaches to the coherence retro, note the trade-offs, share both honestly. In review, I raise a careful question about the cascade invalidation and its failure modes. Our mentor walks me through the negative ttl's history, including two painful lessons. Maria raises, \"One source per fact, updated.\" and I respond calmly, \"Stale info is worse than none.\" because panic never helped anyone. Nobody writes thank you notes for speed; the silence is the applause.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the ttl tuning log and write both down honestly. I add the coherence retro to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the cascade invalidation. During the design review, I raise one careful question about the negative ttl. Dry run: Leo opens, \"One source per fact, updated.\" I follow, \"Stale info is worse than none.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Nobody writes thank you notes for speed; the silence is the applause.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the ttl tuning log and write both down honestly. I add the coherence retro to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the cascade invalidation. During the design review, I raise one careful question about the negative ttl. Dry run: Leo opens, \"One source per fact, updated.\" I follow, \"Stale info is worse than none.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Nobody writes thank you notes for speed; the silence is the applause.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为TTL 调优日志定了明确的负责人，加上截止和复审日期。我比较了处理一致性复盘的两种方式，记下取舍，诚实分享。评审中，我就级联失效风险及其失效模式提出了一个审慎的问题。导师带我梳理了否定缓存过期的历史，包括两次惨痛的教训。Maria提出：\"一个事实一个源头。\"我从容地回应：\"过期信息比没有更糟。\"因为慌张从来没用。没人为速度写感谢信；安静就是掌声。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于TTL 调优日志的两种观点，诚实地都记了下来。我把一致性复盘连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了级联失效风险上。设计评审中，我就否定缓存过期提出了一个审慎的问题。干跑演练：Leo开场：\"一个事实一个源头。\"我接上：\"过期信息比没有更糟。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"没人为速度写感谢信；安静就是掌声。",
    "hard": [
     {
      "w": "cascade invalidation",

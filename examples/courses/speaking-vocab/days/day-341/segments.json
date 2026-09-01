@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 347,
+   "word_count": 334,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I take a silent week away as a test. I close the loop on the strategy narrative writing and share the outcome, including what surprised us. I present the goal cascade without distortion to the team with data, a timeline, and one clear ask. We align on the strategy to backlog trace before the deadline so execution never has to guess. My report explains the quarterly goal linter, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"Grandpa presents the travel strategy.\" and I present, \"One page, three dreams, one budget.\" with the numbers ready. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "I take a silent week away as a test. I close the loop on the strategy narrative writing and share the outcome, including what surprised us. I present the goal cascade without distortion to the team with data, a timeline, and one clear ask. We align on the strategy to backlog trace before the deadline so execution never has to guess. My report explains the quarterly goal linter, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"Grandpa presents the travel strategy.\" and I present, \"One page, three dreams, one budget.\" with the numbers ready. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "I take a silent week away as a test. I close the discussion on the strategy narrative writing with a short summary. The final deck includes the goal cascade without distortion and what we learned from it. I put the strategy to backlog trace on the record so the reasoning stays visible. I present the quarterly goal linter with a timeline, the data, and one clear ask. Final dry run: Leo summarises, \"Grandpa presents the travel strategy.\" I confirm, \"One page, three dreams, one budget.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "I take a silent week away as a test. I close the discussion on the strategy narrative writing with a short summary. The final deck includes the goal cascade without distortion and what we learned from it. I put the strategy to backlog trace on the record so the reasoning stays visible. I present the quarterly goal linter with a timeline, the data, and one clear ask. Final dry run: Leo summarises, \"Grandpa presents the travel strategy.\" I confirm, \"One page, three dreams, one budget.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我静悄悄离开一周作为测试。我跟进完战略叙事写作并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了目标逐层传导不失真。我们在截止日期前就战略到需求池追溯达成共识，让执行永远不必靠猜。我的报告解释了季度目标检查器、背后的风险，以及等待的代价。演示会上，Leo问：\"爷爷发布旅行战略。\"我带着准备好的数字汇报：\"一页纸三个梦想一份预算。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "我静悄悄离开一周作为测试。我用一段简短的总结为战略叙事写作的讨论收尾。最终的材料里有目标逐层传导不失真，以及我们从中学到的东西。我把战略到需求池追溯记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报季度目标检查器。最终干跑：Leo总结：\"爷爷发布旅行战略。\"我郑重确认：\"一页纸三个梦想一份预算。\"Leo收尾道：\"确认无误，可以上线了。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "strategy narrative writing",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Everything ships; the standup gets shorter and funnier. Before the launch, Maria says, \"Kids translate strategy into snacks.\" and I commit, \"Objections recorded in the minutes.\" on behalf of the whole team. We align on the saying no with alternatives before the deadline so execution never has to guess. My report explains the priority protection from above, the risks behind it, and the cost of waiting. I propose a measurable goal for the team goal dependency graph this quarter, with a number we can defend. We review the strategy question office hour against the requirements one final time, line by line, together. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Everything ships; the standup gets shorter and funnier. Before the launch, Maria says, \"Kids translate strategy into snacks.\" and I commit, \"Objections recorded in the minutes.\" on behalf of the whole team. We align on the saying no with alternatives before the deadline so execution never has to guess. My report explains the priority protection from above, the risks behind it, and the cost of waiting. I propose a measurable goal for the team goal dependency graph this quarter, with a number we can defend. We review the strategy question office hour against the requirements one final time, line by line, together. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Everything ships; the standup gets shorter and funnier. Board practice: Leo probes, \"Kids translate strategy into snacks.\" I respond without a pause, \"Objections recorded in the minutes.\" and Leo nods, \"Confirmed. This is launch ready.\" The final deck includes the saying no with alternatives and what we learned from it. I put the priority protection from above on the record so the reasoning stays visible. I present the team goal dependency graph with a timeline, the data, and one clear ask. We align on the strategy question office hour early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Everything ships; the standup gets shorter and funnier. Board practice: Leo probes, \"Kids translate strategy into snacks.\" I respond without a pause, \"Objections recorded in the minutes.\" and Leo nods, \"Confirmed. This is launch ready.\" The final deck includes the saying no with alternatives and what we learned from it. I put the priority protection from above on the record so the reasoning stays visible. I present the team goal dependency graph with a timeline, the data, and one clear ask. We align on the strategy question office hour early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一切照常发布；站会更短也更有趣。上线前，Maria说：\"孩子把战略翻译成零食。\"我代表整个团队承诺：\"反对意见记进会议纪要。\"我们在截止日期前就带替代方案的拒绝达成共识，让执行永远不必靠猜。我的报告解释了自上而下的优先级护持、背后的风险，以及等待的代价。我为团队目标依赖图提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了战略答疑时间，一起完成的。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "一切照常发布；站会更短也更有趣。董事会练习：Leo追问：\"孩子把战略翻译成零食。\"我毫不迟疑地回应：\"反对意见记进会议纪要。\"Leo点头道：\"确认无误，可以上线了。\"最终的材料里有带替代方案的拒绝，以及我们从中学到的东西。我把自上而下的优先级护持记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报团队目标依赖图。我们尽早就战略答疑时间对齐，让执行无需猜测。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "saying no with alternatives",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the loop on the goal change changelog and share the outcome, including what surprised us. I present the misalignment early signal to the team with data, a timeline, and one clear ask. We align on the quarterly narrative refresh before the deadline so execution never has to guess. My report explains the all hands design, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"The plan survives contact with school.\" and I present, \"Strategy is a story we agree on.\" with the numbers ready. The best handover is a team that forgot to need me.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the loop on the goal change changelog and share the outcome, including what surprised us. I present the misalignment early signal to the team with data, a timeline, and one clear ask. We align on the quarterly narrative refresh before the deadline so execution never has to guess. My report explains the all hands design, the risks behind it, and the cost of waiting. At the demo, Leo asks, \"The plan survives contact with school.\" and I present, \"Strategy is a story we agree on.\" with the numbers ready. The best handover is a team that forgot to need me.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the goal change changelog against the requirements, line by line. I close the discussion on the misalignment early signal with a short summary. The final deck includes the quarterly narrative refresh and what we learned from it. I put the all hands design on the record so the reasoning stays visible. Launch rehearsal: Priya asks, \"The plan survives contact with school.\" I present, \"Strategy is a story we agree on.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" The best handover is a team that forgot to need me.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the goal change changelog against the requirements, line by line. I close the discussion on the misalignment early signal with a short summary. The final deck includes the quarterly narrative refresh and what we learned from it. I put the all hands design on the record so the reasoning stays visible. Launch rehearsal: Priya asks, \"The plan survives contact with school.\" I present, \"Strategy is a story we agree on.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" The best handover is a team that forgot to need me.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我跟进完目标变更日志并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了失准早期信号。我们在截止日期前就季度叙事刷新达成共识，让执行永远不必靠猜。我的报告解释了全员会设计、背后的风险，以及等待的代价。演示会上，Leo问：\"计划经受了开学的考验。\"我带着准备好的数字汇报：\"战略是我们都认同的故事。\"最好的交接，是团队忘了需要我。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了目标变更日志。我用一段简短的总结为失准早期信号的讨论收尾。最终的材料里有季度叙事刷新，以及我们从中学到的东西。我把全员会设计记录在案，让推理过程保持可见。上线彩排：Priya问：\"计划经受了开学的考验。\"我带着准备好的数字汇报：\"战略是我们都认同的故事。\"Priya签字道：\"通过——带到上线评审上。\"最好的交接，是团队忘了需要我。",
    "hard": [
     {
      "w": "quarterly narrative refresh",

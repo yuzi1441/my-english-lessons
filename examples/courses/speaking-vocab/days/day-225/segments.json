@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 325,
+   "word_count": 308,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A service worker starts guarding the offline experience. I prepare a one-page brief about the preconnect hint so meetings start from facts. The team sets a clear owner for the dns prefetch, plus a deadline and review date. I compare two approaches to the resource hint audit, note the trade-offs, share both honestly. In review, I raise a careful question about the preload accuracy check and its failure modes. When the design review starts each week, Priya asks, \"Guests get preconnected kettle.\" and I answer, \"The guest wifi password ready.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "A service worker starts guarding the offline experience. I prepare a one-page brief about the preconnect hint so meetings start from facts. The team sets a clear owner for the dns prefetch, plus a deadline and review date. I compare two approaches to the resource hint audit, note the trade-offs, share both honestly. In review, I raise a careful question about the preload accuracy check and its failure modes. When the design review starts each week, Priya asks, \"Guests get preconnected kettle.\" and I answer, \"The guest wifi password ready.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "A service worker starts guarding the offline experience. Our mentor walks me through how the preconnect hint evolved on this team. Before deciding, I reread my notes about the dns prefetch twice. I prepare a one-page brief about the resource hint audit so meetings start from facts. The team names one clear owner for the preload accuracy check. Dry run: Priya opens, \"Guests get preconnected kettle.\" I follow, \"The guest wifi password ready.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "A service worker starts guarding the offline experience. Our mentor walks me through how the preconnect hint evolved on this team. Before deciding, I reread my notes about the dns prefetch twice. I prepare a one-page brief about the resource hint audit so meetings start from facts. The team names one clear owner for the preload accuracy check. Dry run: Priya opens, \"Guests get preconnected kettle.\" I follow, \"The guest wifi password ready.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个 Service Worker 开始守护离线体验。我准备了一页关于预连接提示的简报，好让会议从事实出发。团队为DNS 预解析定了明确的负责人，加上截止和复审日期。我比较了处理资源提示审计的两种方式，记下取舍，诚实分享。评审中，我就预加载准确性检查及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"客人来之前先烧水。\"我带着数字回答：\"访客 Wi-Fi 密码备好。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "一个 Service Worker 开始守护离线体验。导师带我梳理了预连接提示在这个团队里的演变。做决定之前，我把关于DNS 预解析的笔记重读了两遍。我准备了一页关于资源提示审计的简报，好让会议从事实出发。团队为预加载准确性检查指定了明确的负责人。干跑演练：Priya开场：\"客人来之前先烧水。\"我接上：\"访客 Wi-Fi 密码备好。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "preconnect hint",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Precached shells, runtime caching, and a graceful offline page ship together. Leo opens the talk with, \"Snacks at reachable height.\" and I follow up with, \"I prefetch favorite topics.\" and a proposal. I compare two approaches to the preload directive, note the trade-offs, share both honestly. In review, I raise a careful question about the prefetch next page and its failure modes. Our mentor walks me through the lcp element review's history, including two painful lessons. We weigh the cost of changing the waterfall analysis doc against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Precached shells, runtime caching, and a graceful offline page ship together. Leo opens the talk with, \"Snacks at reachable height.\" and I follow up with, \"I prefetch favorite topics.\" and a proposal. I compare two approaches to the preload directive, note the trade-offs, share both honestly. In review, I raise a careful question about the prefetch next page and its failure modes. Our mentor walks me through the lcp element review's history, including two painful lessons. We weigh the cost of changing the waterfall analysis doc against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Precached shells, runtime caching, and a graceful offline page ship together. Practice debate: Priya argues, \"Snacks at reachable height.\" I respond calmly, \"I prefetch favorite topics.\" and Priya concedes, \"Strong answer — keep that precision.\" Before deciding, I reread my notes about the preload directive twice. I prepare a one-page brief about the prefetch next page so meetings start from facts. The team names one clear owner for the lcp element review. I compare two views on the waterfall analysis doc and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Precached shells, runtime caching, and a graceful offline page ship together. Practice debate: Priya argues, \"Snacks at reachable height.\" I respond calmly, \"I prefetch favorite topics.\" and Priya concedes, \"Strong answer — keep that precision.\" Before deciding, I reread my notes about the preload directive twice. I prepare a one-page brief about the prefetch next page so meetings start from facts. The team names one clear owner for the lcp element review. I compare two views on the waterfall analysis doc and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "预缓存外壳、运行时缓存、优雅的离线页一起上线。Leo以\"零食放在伸手高度。\"开启话题，我接着说了\"我预聊客人爱的话题。\"还附了个提案。我比较了处理预加载指令的两种方式，记下取舍，诚实分享。评审中，我就预取下一页及其失效模式提出了一个审慎的问题。导师带我梳理了最大内容元素评审的历史，包括两次惨痛的教训。我们权衡了改动瀑布图分析文档的代价与放着不管的风险。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "预缓存外壳、运行时缓存、优雅的离线页一起上线。练习辩论：Priya主张：\"零食放在伸手高度。\"我平静地回应：\"我预聊客人爱的话题。\"Priya承认道：\"回答有力——保持这种精确。\"做决定之前，我把关于预加载指令的笔记重读了两遍。我准备了一页关于预取下一页的简报，好让会议从事实出发。团队为最大内容元素评审指定了明确的负责人。我比较了关于瀑布图分析文档的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "preload directive",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the third party script budget so meetings start from facts. The team sets a clear owner for the network tier testing, plus a deadline and review date. I compare two approaches to the priority hints, note the trade-offs, share both honestly. In review, I raise a careful question about the module preloading and its failure modes. When the design review starts each week, Priya asks, \"Coats have a priority hook.\" and I answer, \"Preparation feels like telepathy.\" with numbers. The subway commute joins the product tests.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the third party script budget so meetings start from facts. The team sets a clear owner for the network tier testing, plus a deadline and review date. I compare two approaches to the priority hints, note the trade-offs, share both honestly. In review, I raise a careful question about the module preloading and its failure modes. When the design review starts each week, Priya asks, \"Coats have a priority hook.\" and I answer, \"Preparation feels like telepathy.\" with numbers. The subway commute joins the product tests.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the third party script budget. Our mentor walks me through how the network tier testing evolved on this team. Before deciding, I reread my notes about the priority hints twice. I prepare a one-page brief about the module preloading so meetings start from facts. Review warm-up: Maria raises, \"Coats have a priority hook.\" I answer, \"Preparation feels like telepathy.\" and Maria grades it, \"Agreed, note it in the ticket.\" The subway commute joins the product tests.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the third party script budget. Our mentor walks me through how the network tier testing evolved on this team. Before deciding, I reread my notes about the priority hints twice. I prepare a one-page brief about the module preloading so meetings start from facts. Review warm-up: Maria raises, \"Coats have a priority hook.\" I answer, \"Preparation feels like telepathy.\" and Maria grades it, \"Agreed, note it in the ticket.\" The subway commute joins the product tests.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于第三方脚本预算的简报，好让会议从事实出发。团队为弱网分级测试定了明确的负责人，加上截止和复审日期。我比较了处理优先级提示的两种方式，记下取舍，诚实分享。评审中，我就模块预加载及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"外套有专属挂钩。\"我带着数字回答：\"准备到位像读心术。\"地铁通勤正式加入产品测试。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就第三方脚本预算提出了一个审慎的问题。导师带我梳理了弱网分级测试在这个团队里的演变。做决定之前，我把关于优先级提示的笔记重读了两遍。我准备了一页关于模块预加载的简报，好让会议从事实出发。评审热身：Maria抛出：\"外套有专属挂钩。\"我带着数字回答：\"准备到位像读心术。\"Maria点评道：\"同意，把这条记到工单里。\"地铁通勤正式加入产品测试。",
    "hard": [
     {
      "w": "priority hints",

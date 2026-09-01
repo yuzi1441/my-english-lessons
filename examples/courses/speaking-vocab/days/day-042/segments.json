@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 227,
+   "word_count": 229,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I write the docs folder entry with a short example. Before we part, Leo says, \"I still mix up similar words.\" I answer, \"Listening is my weak spot.\" The result depends on the display name, so I check it twice. I sign in with email, and I record the reason. We discuss the risk around the docs review. I keep docs current while the others watch the dashboard. The team agrees on the plan, and I record the decision.",
-   "tts": "I write the docs folder entry with a short example. Before we part, Leo says, \"I still mix up similar words.\" I answer, \"Listening is my weak spot.\" The result depends on the display name, so I check it twice. I sign in with email, and I record the reason. We discuss the risk around the docs review. I keep docs current while the others watch the dashboard. The team agrees on the plan, and I record the decision.",
+   "en": "I write the docs folder entry with a short example. Priya checks with me, \"I still mix up similar words.\" I answer clearly, \"Listening is my weak spot.\" I document the display name so the team can review it later. I sign in with email and then explain the risk. I suggest that we check the docs review first. If we keep docs current, the result should be safe. The team agrees on the plan, and I record the decision.",
+   "tts": "I write the docs folder entry with a short example. Priya checks with me, \"I still mix up similar words.\" I answer clearly, \"Listening is my weak spot.\" I document the display name so the team can review it later. I sign in with email and then explain the risk. I suggest that we check the docs review first. If we keep docs current, the result should be safe. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我在文档目录里写了一篇带简短示例的说明。分开前，Leo说：\"我还是会混淆相近的词。\"我回答：\"听力是我的弱项。\"结果取决于显示名称，所以我检查了两遍。我邮箱登录，并记录了原因。我们讨论了文档评审相关的风险。我保持文档更新，其他队友盯着仪表盘。团队就计划达成一致，我记录了决定。",
+   "zh": "我在文档目录里写了一篇带简短示例的说明。Priya向我确认：\"我还是会混淆相近的词。\"我清楚地回答：\"听力是我的弱项。\"我把显示名称写成文档，方便团队之后查看。我邮箱登录，然后解释了风险。我建议我们先检查文档评审。如果我们保持文档更新，结果应该是安全的。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "display name",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. If the doc lint fails, we need a clear plan. I suggest that we check the readme badge first. The result depends on the password reset, so I check it twice. I explain the two-factor login to a new teammate. Priya checks with me, \"Practice makes progress.\" I answer clearly, \"I review my notes at night.\" The doc answers three questions before anyone asks.",
-   "tts": "Before I leave, I write a short summary for the team. If the doc lint fails, we need a clear plan. I suggest that we check the readme badge first. The result depends on the password reset, so I check it twice. I explain the two-factor login to a new teammate. Priya checks with me, \"Practice makes progress.\" I answer clearly, \"I review my notes at night.\" The doc answers three questions before anyone asks.",
+   "en": "Before I leave, I write a short summary for the team. I suggest that we check the doc lint first. The result depends on the readme badge, so I check it twice. I explain the password reset to a new teammate. We discuss the risk around the two-factor login. At the end of the day, Maria says, \"Practice makes progress.\" I reply, \"I review my notes at night.\" The doc answers three questions before anyone asks.",
+   "tts": "Before I leave, I write a short summary for the team. I suggest that we check the doc lint first. The result depends on the readme badge, so I check it twice. I explain the password reset to a new teammate. We discuss the risk around the two-factor login. At the end of the day, Maria says, \"Practice makes progress.\" I reply, \"I review my notes at night.\" The doc answers three questions before anyone asks.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。如果文档检查失败，我们需要一个清晰的方案。我建议我们先检查README 徽章。结果取决于重置密码，所以我检查了两遍。我向一位新队友解释了两步登录。Priya向我确认：\"练习就有进步。\"我清楚地回答：\"我晚上会复习笔记。\"这篇文档抢在提问之前回答了三个问题。",
+   "zh": "离开前，我给团队写了一份简短的总结。我建议我们先检查文档检查。结果取决于README 徽章，所以我检查了两遍。我向一位新队友解释了重置密码。我们讨论了两步登录相关的风险。一天结束时，Maria说：\"练习就有进步。\"我回答：\"我晚上会复习笔记。\"这篇文档抢在提问之前回答了三个问题。",
    "hard": [
     {
      "w": "password reset",

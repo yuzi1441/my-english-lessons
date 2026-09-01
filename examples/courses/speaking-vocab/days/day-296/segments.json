@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 342,
+   "word_count": 331,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A profiling week on my own habits finds the bottleneck: me. My report explains the decision log for products, the risks behind it, and the cost of waiting. I propose a measurable goal for the feature retirement ceremony this quarter, with a number we can defend. We review the adr for product choices against the requirements one final time, line by line, together. I close the loop on the revisit date automation and share the outcome, including what surprised us. At the demo, Leo asks, \"The family decision notebook.\" and I present, \"We record why not just what.\" with the numbers ready. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "A profiling week on my own habits finds the bottleneck: me. My report explains the decision log for products, the risks behind it, and the cost of waiting. I propose a measurable goal for the feature retirement ceremony this quarter, with a number we can defend. We review the adr for product choices against the requirements one final time, line by line, together. I close the loop on the revisit date automation and share the outcome, including what surprised us. At the demo, Leo asks, \"The family decision notebook.\" and I present, \"We record why not just what.\" with the numbers ready. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "A profiling week on my own habits finds the bottleneck: me. I present the decision log for products with a timeline, the data, and one clear ask. We align on the feature retirement ceremony early, so execution never has to guess. My report covers the adr for product choices, the risks behind it, and the cost of waiting. I propose a measurable target for the revisit date automation this quarter. Launch rehearsal: Leo asks, \"The family decision notebook.\" I present, \"We record why not just what.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "A profiling week on my own habits finds the bottleneck: me. I present the decision log for products with a timeline, the data, and one clear ask. We align on the feature retirement ceremony early, so execution never has to guess. My report covers the adr for product choices, the risks behind it, and the cost of waiting. I propose a measurable target for the revisit date automation this quarter. Launch rehearsal: Leo asks, \"The family decision notebook.\" I present, \"We record why not just what.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "对自己习惯做了一周画像，瓶颈找到了：我自己。我的报告解释了产品决策日志、背后的风险，以及等待的代价。我为功能退役仪式提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了产品决策的 ADR，一起完成的。我跟进完重审日期自动化并分享了结果，包括让我们意外的那部分。演示会上，Leo问：\"家庭大事记本子。\"我带着准备好的数字汇报：\"记为什么不只记做了什么。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "对自己习惯做了一周画像，瓶颈找到了：我自己。我用时间线、数据和一条明确的诉求来汇报产品决策日志。我们尽早就功能退役仪式对齐，让执行无需猜测。我的报告涵盖产品决策的 ADR、背后的风险，以及等待的代价。我为重审日期自动化提出了本季度一个可衡量的目标。上线彩排：Leo问：\"家庭大事记本子。\"我带着准备好的数字汇报：\"记为什么不只记做了什么。\"Leo签字道：\"确认无误，可以上线了。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "decision log for products",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Delegation, not optimization, is the next performance win. Before the launch, Maria says, \"Old decisions get grace periods.\" and I commit, \"Kids vote on holidays.\" on behalf of the whole team. We review the data informed not driven rule against the requirements one final time, line by line, together. I close the loop on the gut check journal and share the outcome, including what surprised us. I present the decision outcome scoring to the team with data, a timeline, and one clear ask. We align on the stakeholder even if solo before the deadline so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Delegation, not optimization, is the next performance win. Before the launch, Maria says, \"Old decisions get grace periods.\" and I commit, \"Kids vote on holidays.\" on behalf of the whole team. We review the data informed not driven rule against the requirements one final time, line by line, together. I close the loop on the gut check journal and share the outcome, including what surprised us. I present the decision outcome scoring to the team with data, a timeline, and one clear ask. We align on the stakeholder even if solo before the deadline so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Delegation, not optimization, is the next performance win. Final dry run: Leo summarises, \"Old decisions get grace periods.\" I confirm, \"Kids vote on holidays.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" We align on the data informed not driven rule early, so execution never has to guess. My report covers the gut check journal, the risks behind it, and the cost of waiting. I propose a measurable target for the decision outcome scoring this quarter. We review the stakeholder even if solo against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Delegation, not optimization, is the next performance win. Final dry run: Leo summarises, \"Old decisions get grace periods.\" I confirm, \"Kids vote on holidays.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" We align on the data informed not driven rule early, so execution never has to guess. My report covers the gut check journal, the risks behind it, and the cost of waiting. I propose a measurable target for the decision outcome scoring this quarter. We review the stakeholder even if solo against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "下一个性能优化是委派，不是调参。上线前，Maria说：\"旧决定有宽限期。\"我代表整个团队承诺：\"孩子们投票选假期。\"我们最后一次逐行对照需求检查了数据参考不绑架原则，一起完成的。我跟进完直觉日志并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了决策结果评分。我们在截止日期前就干系人登记哪怕一个人达成共识，让执行永远不必靠猜。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "下一个性能优化是委派，不是调参。最终干跑：Leo总结：\"旧决定有宽限期。\"我郑重确认：\"孩子们投票选假期。\"Leo收尾道：\"确认无误，可以上线了。\"我们尽早就数据参考不绑架原则对齐，让执行无需猜测。我的报告涵盖直觉日志、背后的风险，以及等待的代价。我为决策结果评分提出了本季度一个可衡量的目标。我们逐行对照需求检查了干系人登记哪怕一个人。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "data informed not driven rule",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report explains the no decision backlog review, the risks behind it, and the cost of waiting. I propose a measurable goal for the decision digest newsletter this quarter, with a number we can defend. We review the postmortem for product bets against the requirements one final time, line by line, together. I close the loop on the quarterly strategy offsite solo and share the outcome, including what surprised us. At the demo, Leo asks, \"Revisiting beats regretting.\" and I present, \"The notebook forgives everyone.\" with the numbers ready. I hire a part time helper for support.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report explains the no decision backlog review, the risks behind it, and the cost of waiting. I propose a measurable goal for the decision digest newsletter this quarter, with a number we can defend. We review the postmortem for product bets against the requirements one final time, line by line, together. I close the loop on the quarterly strategy offsite solo and share the outcome, including what surprised us. At the demo, Leo asks, \"Revisiting beats regretting.\" and I present, \"The notebook forgives everyone.\" with the numbers ready. I hire a part time helper for support.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the no decision backlog review on the record so the reasoning stays visible. I present the decision digest newsletter with a timeline, the data, and one clear ask. We align on the postmortem for product bets early, so execution never has to guess. My report covers the quarterly strategy offsite solo, the risks behind it, and the cost of waiting. Last rehearsal: Priya checks, \"Revisiting beats regretting.\" I commit word for word, \"The notebook forgives everyone.\" and Priya smiles, \"Approved — bring it to the launch review.\" I hire a part time helper for support.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the no decision backlog review on the record so the reasoning stays visible. I present the decision digest newsletter with a timeline, the data, and one clear ask. We align on the postmortem for product bets early, so execution never has to guess. My report covers the quarterly strategy offsite solo, the risks behind it, and the cost of waiting. Last rehearsal: Priya checks, \"Revisiting beats regretting.\" I commit word for word, \"The notebook forgives everyone.\" and Priya smiles, \"Approved — bring it to the launch review.\" I hire a part time helper for support.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告解释了无决定事项盘点、背后的风险，以及等待的代价。我为决策摘要通讯提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了产品押注复盘，一起完成的。我跟进完单人季度战略会并分享了结果，包括让我们意外的那部分。演示会上，Leo问：\"重议胜过后悔。\"我带着准备好的数字汇报：\"本子原谅每个人。\"我雇了一位兼职支持助手。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把无决定事项盘点记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报决策摘要通讯。我们尽早就产品押注复盘对齐，让执行无需猜测。我的报告涵盖单人季度战略会、背后的风险，以及等待的代价。最后一次彩排：Priya核对：\"重议胜过后悔。\"我逐字承诺：\"本子原谅每个人。\"Priya笑道：\"通过——带到上线评审上。\"我雇了一位兼职支持助手。",
    "hard": [
     {
      "w": "postmortem for product bets",

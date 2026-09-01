@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 220,
+   "word_count": 215,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I ask politely instead of waiting silently. At the end of the day, Maria says, \"Please go ahead without me.\" I reply, \"Thanks for waiting for me.\" We discuss the risk around the date format. I document the countdown so the team can review it later. If the testing notes fails, we need a clear plan. I suggest that we check the breaking change notice first. I check my notes and confirm the next step.",
-   "tts": "I ask politely instead of waiting silently. At the end of the day, Maria says, \"Please go ahead without me.\" I reply, \"Thanks for waiting for me.\" We discuss the risk around the date format. I document the countdown so the team can review it later. If the testing notes fails, we need a clear plan. I suggest that we check the breaking change notice first. I check my notes and confirm the next step.",
+   "en": "I ask politely instead of waiting silently. Before we part, Leo says, \"Please go ahead without me.\" I answer, \"Thanks for waiting for me.\" I suggest that we check the date format first. The result depends on the countdown, so I check it twice. I explain the testing notes to a new teammate. We discuss the risk around the breaking change notice. I check my notes and confirm the next step.",
+   "tts": "I ask politely instead of waiting silently. Before we part, Leo says, \"Please go ahead without me.\" I answer, \"Thanks for waiting for me.\" I suggest that we check the date format first. The result depends on the countdown, so I check it twice. I explain the testing notes to a new teammate. We discuss the risk around the breaking change notice. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我没有默默等待，而是礼貌地问了问。一天结束时，Maria说：\"请各位先开始\"我回答：\"谢谢你们等我。\"我们讨论了日期格式相关的风险。我把倒计时写成文档，方便团队之后查看。如果测试说明失败，我们需要一个清晰的方案。我建议我们先检查破坏性变更声明。我检查笔记，确认了下一步。",
+   "zh": "我没有默默等待，而是礼貌地问了问。分开前，Leo说：\"请各位先开始\"我回答：\"谢谢你们等我。\"我建议我们先检查日期格式。结果取决于倒计时，所以我检查了两遍。我向一位新队友解释了测试说明。我们讨论了破坏性变更声明相关的风险。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "date format",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. The result depends on the related issues, so I check it twice. I explain the checklist item to a new teammate. We discuss the risk around the local time. I schedule a job while the others watch the dashboard. Before we part, Leo says, \"The meeting ran over.\" I answer, \"Let's reschedule to tomorrow.\" The reviewer thanks me and starts that afternoon.",
-   "tts": "Before I leave, I write a short summary for the team. The result depends on the related issues, so I check it twice. I explain the checklist item to a new teammate. We discuss the risk around the local time. I schedule a job while the others watch the dashboard. Before we part, Leo says, \"The meeting ran over.\" I answer, \"Let's reschedule to tomorrow.\" The reviewer thanks me and starts that afternoon.",
+   "en": "Before I leave, I write a short summary for the team. I explain the related issues to a new teammate. We discuss the risk around the checklist item. I document the local time so the team can review it later. I schedule a job and then explain the risk. Priya checks with me, \"The meeting ran over.\" I answer clearly, \"Let's reschedule to tomorrow.\" The reviewer thanks me and starts that afternoon.",
+   "tts": "Before I leave, I write a short summary for the team. I explain the related issues to a new teammate. We discuss the risk around the checklist item. I document the local time so the team can review it later. I schedule a job and then explain the risk. Priya checks with me, \"The meeting ran over.\" I answer clearly, \"Let's reschedule to tomorrow.\" The reviewer thanks me and starts that afternoon.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。结果取决于关联问题单，所以我检查了两遍。我向一位新队友解释了检查项。我们讨论了本地时间相关的风险。我调度任务，其他队友盯着仪表盘。分开前，Leo说：\"会议拖堂了。\"我回答：\"我们改到明天吧。\"评审人向我道谢，当天下午就开始看了。",
+   "zh": "离开前，我给团队写了一份简短的总结。我向一位新队友解释了关联问题单。我们讨论了检查项相关的风险。我把本地时间写成文档，方便团队之后查看。我调度任务，然后解释了风险。Priya向我确认：\"会议拖堂了。\"我清楚地回答：\"我们改到明天吧。\"评审人向我道谢，当天下午就开始看了。",
    "hard": [
     {
      "w": "local time",

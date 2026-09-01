@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 329,
+   "word_count": 322,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A midnight alert begs for a quick cache size bump. The team sets a clear owner for the bottleneck ranking, plus a deadline and review date. I compare two approaches to the utilization readings, note the trade-offs, share both honestly. In review, I raise a careful question about the bottleneck triage runbook and its failure modes. Our mentor walks me through the utilization snapshot tool's history, including two painful lessons. Maria raises, \"Laundry is the bottleneck chore.\" and I respond calmly, \"I read the morning queue.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "A midnight alert begs for a quick cache size bump. The team sets a clear owner for the bottleneck ranking, plus a deadline and review date. I compare two approaches to the utilization readings, note the trade-offs, share both honestly. In review, I raise a careful question about the bottleneck triage runbook and its failure modes. Our mentor walks me through the utilization snapshot tool's history, including two painful lessons. Maria raises, \"Laundry is the bottleneck chore.\" and I respond calmly, \"I read the morning queue.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "A midnight alert begs for a quick cache size bump. During the design review, I raise one careful question about the bottleneck ranking. Our mentor walks me through how the utilization readings evolved on this team. Before deciding, I reread my notes about the bottleneck triage runbook twice. I prepare a one-page brief about the utilization snapshot tool so meetings start from facts. Review warm-up: Maria raises, \"Laundry is the bottleneck chore.\" I answer, \"I read the morning queue.\" and Maria grades it, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "A midnight alert begs for a quick cache size bump. During the design review, I raise one careful question about the bottleneck ranking. Our mentor walks me through how the utilization readings evolved on this team. Before deciding, I reread my notes about the bottleneck triage runbook twice. I prepare a one-page brief about the utilization snapshot tool so meetings start from facts. Review warm-up: Maria raises, \"Laundry is the bottleneck chore.\" I answer, \"I read the morning queue.\" and Maria grades it, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "午夜告警想诱导一次粗暴的缓存扩容。团队为瓶颈排序定了明确的负责人，加上截止和复审日期。我比较了处理利用率读表的两种方式，记下取舍，诚实分享。评审中，我就瓶颈分诊手册及其失效模式提出了一个审慎的问题。导师带我梳理了利用率快照工具的历史，包括两次惨痛的教训。Maria提出：\"洗衣是家务瓶颈。\"我从容地回应：\"我观察早晨的排队。\"因为慌张从来没用。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "午夜告警想诱导一次粗暴的缓存扩容。设计评审中，我就瓶颈排序提出了一个审慎的问题。导师带我梳理了利用率读表在这个团队里的演变。做决定之前，我把关于瓶颈分诊手册的笔记重读了两遍。我准备了一页关于利用率快照工具的简报，好让会议从事实出发。评审热身：Maria抛出：\"洗衣是家务瓶颈。\"我带着数字回答：\"我观察早晨的排队。\"Maria点评道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "bottleneck ranking",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The profile says lock contention, not capacity; the real fix is one lock split in two. When the design review starts each week, Priya asks, \"The slowest step sets the pace.\" and I answer, \"Batching small tasks helps.\" with numbers. In review, I raise a careful question about the queueing theory basics and its failure modes. Our mentor walks me through the little s law's history, including two painful lessons. We weigh the cost of changing the critical path tracer against leaving it alone. I prepare a one-page brief about the amplification audit so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "The profile says lock contention, not capacity; the real fix is one lock split in two. When the design review starts each week, Priya asks, \"The slowest step sets the pace.\" and I answer, \"Batching small tasks helps.\" with numbers. In review, I raise a careful question about the queueing theory basics and its failure modes. Our mentor walks me through the little s law's history, including two painful lessons. We weigh the cost of changing the critical path tracer against leaving it alone. I prepare a one-page brief about the amplification audit so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "The profile says lock contention, not capacity; the real fix is one lock split in two. Dry run: Maria opens, \"The slowest step sets the pace.\" I follow, \"Batching small tasks helps.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" Our mentor walks me through how the queueing theory basics evolved on this team. Before deciding, I reread my notes about the little s law twice. I prepare a one-page brief about the critical path tracer so meetings start from facts. The team names one clear owner for the amplification audit. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The profile says lock contention, not capacity; the real fix is one lock split in two. Dry run: Maria opens, \"The slowest step sets the pace.\" I follow, \"Batching small tasks helps.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" Our mentor walks me through how the queueing theory basics evolved on this team. Before deciding, I reread my notes about the little s law twice. I prepare a one-page brief about the critical path tracer so meetings start from facts. The team names one clear owner for the amplification audit. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "画像说是锁竞争，不是容量；真正的修复是把一把锁拆成两把。评审开始时，Priya问：\"最慢一步定节奏。\"我带着数字回答：\"小任务攒批有效。\"评审中，我就排队论入门及其失效模式提出了一个审慎的问题。导师带我梳理了小定律的历史，包括两次惨痛的教训。我们权衡了改动关键路径追踪器的代价与放着不管的风险。我准备了一页关于放大审计的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "画像说是锁竞争，不是容量；真正的修复是把一把锁拆成两把。干跑演练：Maria开场：\"最慢一步定节奏。\"我接上：\"小任务攒批有效。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"导师带我梳理了排队论入门在这个团队里的演变。做决定之前，我把关于小定律的笔记重读了两遍。我准备了一页关于关键路径追踪器的简报，好让会议从事实出发。团队为放大审计指定了明确的负责人。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "queueing theory basics",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team sets a clear owner for the bottleneck findings template, plus a deadline and review date. I compare two approaches to the fix priority matrix, note the trade-offs, share both honestly. In review, I raise a careful question about the amplification factor and its failure modes. Our mentor walks me through the critical path timer's history, including two painful lessons. Maria raises, \"Sometimes the bottleneck is me.\" and I respond calmly, \"Fix the queue, not the mood.\" because panic never helped anyone. Three a.m. discipline beats three a.m. heroics.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team sets a clear owner for the bottleneck findings template, plus a deadline and review date. I compare two approaches to the fix priority matrix, note the trade-offs, share both honestly. In review, I raise a careful question about the amplification factor and its failure modes. Our mentor walks me through the critical path timer's history, including two painful lessons. Maria raises, \"Sometimes the bottleneck is me.\" and I respond calmly, \"Fix the queue, not the mood.\" because panic never helped anyone. Three a.m. discipline beats three a.m. heroics.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the bottleneck findings template. During the design review, I raise one careful question about the fix priority matrix. Our mentor walks me through how the amplification factor evolved on this team. Before deciding, I reread my notes about the critical path timer twice. Mock review: Leo probes, \"Sometimes the bottleneck is me.\" I answer from memory, \"Fix the queue, not the mood.\" and Leo confirms, \"That is the level we need.\" Three a.m. discipline beats three a.m. heroics.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the bottleneck findings template. During the design review, I raise one careful question about the fix priority matrix. Our mentor walks me through how the amplification factor evolved on this team. Before deciding, I reread my notes about the critical path timer twice. Mock review: Leo probes, \"Sometimes the bottleneck is me.\" I answer from memory, \"Fix the queue, not the mood.\" and Leo confirms, \"That is the level we need.\" Three a.m. discipline beats three a.m. heroics.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为瓶颈结论模板定了明确的负责人，加上截止和复审日期。我比较了处理修复优先级矩阵的两种方式，记下取舍，诚实分享。评审中，我就放大系数及其失效模式提出了一个审慎的问题。导师带我梳理了关键路径计时器的历史，包括两次惨痛的教训。Maria提出：\"有时瓶颈是我自己。\"我从容地回应：\"修队列\"因为慌张从来没用。凌晨三点的纪律，胜过凌晨三点的英雄主义。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了瓶颈结论模板上。设计评审中，我就修复优先级矩阵提出了一个审慎的问题。导师带我梳理了放大系数在这个团队里的演变。做决定之前，我把关于关键路径计时器的笔记重读了两遍。模拟评审：Leo追问：\"有时瓶颈是我自己。\"我凭记忆回答：\"修队列\"Leo确认：\"我们要的就是这个水平。\"凌晨三点的纪律，胜过凌晨三点的英雄主义。",
    "hard": [
     {
      "w": "amplification factor",

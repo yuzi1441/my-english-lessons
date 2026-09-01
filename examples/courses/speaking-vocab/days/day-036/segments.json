@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 228,
+   "word_count": 232,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A trailing comma hides on the last line. I fix it and say sorry for the noise. Before we part, Leo says, \"I go hiking most weekends.\" I answer, \"I'm into photography.\" The result depends on the nested object, so I check it twice. I explain the parse error to a new teammate. We discuss the risk around the label filter. I document the color coding so the team can review it later. The team agrees on the plan, and I record the decision.",
-   "tts": "A trailing comma hides on the last line. I fix it and say sorry for the noise. Before we part, Leo says, \"I go hiking most weekends.\" I answer, \"I'm into photography.\" The result depends on the nested object, so I check it twice. I explain the parse error to a new teammate. We discuss the risk around the label filter. I document the color coding so the team can review it later. The team agrees on the plan, and I record the decision.",
+   "en": "A trailing comma hides on the last line. I fix it and say sorry for the noise. Priya checks with me, \"I go hiking most weekends.\" I answer clearly, \"I'm into photography.\" I document the nested object so the team can review it later. If the parse error fails, we need a clear plan. I suggest that we check the label filter first. The result depends on the color coding, so I check it twice. The team agrees on the plan, and I record the decision.",
+   "tts": "A trailing comma hides on the last line. I fix it and say sorry for the noise. Priya checks with me, \"I go hiking most weekends.\" I answer clearly, \"I'm into photography.\" I document the nested object so the team can review it later. If the parse error fails, we need a clear plan. I suggest that we check the label filter first. The result depends on the color coding, so I check it twice. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个末尾逗号藏在最后一行。我修好它，并为这次噪音道了歉。分开前，Leo说：\"我大多数周末去远足。\"我回答：\"我挺喜欢摄影的。\"结果取决于嵌套对象，所以我检查了两遍。我向一位新队友解释了解析错误。我们讨论了标签筛选相关的风险。我把颜色区分写成文档，方便团队之后查看。团队就计划达成一致，我记录了决定。",
+   "zh": "一个末尾逗号藏在最后一行。我修好它，并为这次噪音道了歉。Priya向我确认：\"我大多数周末去远足。\"我清楚地回答：\"我挺喜欢摄影的。\"我把嵌套对象写成文档，方便团队之后查看。如果解析错误失败，我们需要一个清晰的方案。我建议我们先检查标签筛选。结果取决于颜色区分，所以我检查了两遍。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "nested object",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I clean up labels and then explain the risk. I suggest that we check the label policy first. The result depends on the trailing comma, so I check it twice. I explain the schema check to a new teammate. Priya checks with me, \"It helps me relax.\" I answer clearly, \"We should do that sometime.\" Small mistakes teach fast.",
-   "tts": "Before I leave, I write a short summary for the team. I clean up labels and then explain the risk. I suggest that we check the label policy first. The result depends on the trailing comma, so I check it twice. I explain the schema check to a new teammate. Priya checks with me, \"It helps me relax.\" I answer clearly, \"We should do that sometime.\" Small mistakes teach fast.",
+   "en": "Before I leave, I write a short summary for the team. We decide to clean up labels after the review. The result depends on the label policy, so I check it twice. I explain the trailing comma to a new teammate. We discuss the risk around the schema check. At the end of the day, Maria says, \"It helps me relax.\" I reply, \"We should do that sometime.\" Small mistakes teach fast.",
+   "tts": "Before I leave, I write a short summary for the team. We decide to clean up labels after the review. The result depends on the label policy, so I check it twice. I explain the trailing comma to a new teammate. We discuss the risk around the schema check. At the end of the day, Maria says, \"It helps me relax.\" I reply, \"We should do that sometime.\" Small mistakes teach fast.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我整理标签，然后解释了风险。我建议我们先检查标签规范。结果取决于末尾逗号，所以我检查了两遍。我向一位新队友解释了结构校验。Priya向我确认：\"这能帮我放松。\"我清楚地回答：\"我们找时间一起去做吧。\"小错误让人学得快。",
+   "zh": "离开前，我给团队写了一份简短的总结。评审之后，我们决定整理标签。结果取决于标签规范，所以我检查了两遍。我向一位新队友解释了末尾逗号。我们讨论了结构校验相关的风险。一天结束时，Maria说：\"这能帮我放松。\"我回答：\"我们找时间一起去做吧。\"小错误让人学得快。",
    "hard": [
     {
      "w": "trailing comma",

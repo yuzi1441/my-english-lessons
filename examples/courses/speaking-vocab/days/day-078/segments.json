@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 278,
+   "word_count": 290,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Storage has a hiccup, and the app keeps hammering it. I keep a growing list of the round trip on my desk for later. My notes about the connection pool are getting sharper every single week. I asked Leo how he handles the engineering blog when the week gets heavy. The internal talk shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"My phone battery is dying.\" I reply, \"I finally updated my laptop.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Storage has a hiccup, and the app keeps hammering it. I keep a growing list of the round trip on my desk for later. My notes about the connection pool are getting sharper every single week. I asked Leo how he handles the engineering blog when the week gets heavy. The internal talk shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"My phone battery is dying.\" I reply, \"I finally updated my laptop.\" I end the day with fewer unknowns than I started with.",
+   "en": "Storage has a hiccup, and the app keeps hammering it. Sam asks me about the round trip, and I explain the basics. I keep one real example of the connection pool in my notebook. I add the engineering blog to my study notes before I forget it. I go over the internal talk one more time before lunch. Role play with feedback: Priya says, \"My phone battery is dying.\" I try, \"I finally updated my laptop.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "Storage has a hiccup, and the app keeps hammering it. Sam asks me about the round trip, and I explain the basics. I keep one real example of the connection pool in my notebook. I add the engineering blog to my study notes before I forget it. I go over the internal talk one more time before lunch. Role play with feedback: Priya says, \"My phone battery is dying.\" I try, \"I finally updated my laptop.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "存储抖了一下，应用却还在不停敲打它。我把一份越来越长的往返时延清单放在桌上，留着以后用。我关于连接池的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理工程博客的。内部分享出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"我手机快没电了。\"我回答：\"我终于给笔记本升级了。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "存储抖了一下，应用却还在不停敲打它。Sam 问起往返时延，我讲了讲基础。我在笔记本里留了一个连接池的真实例子。我趁还没忘，把工程博客记进了学习笔记。午饭前我又过了一遍内部分享。角色扮演加反馈：Priya说：\"我手机快没电了。\"我试着说：\"我终于给笔记本升级了。\"Priya补充道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "round trip",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We add a circuit breaker: fail fast, rest, then try again. Leo stops by my desk, asks, \"The keyboard backlight is broken.\" and I answer, \"I clean my screen weekly.\" I asked Leo how he handles the keep-alive when the week gets heavy. The head-of-line blocking shows up in our sprint notes more often than before. I double-check the lunch and learn before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the demo friday so clearly. Small progress today prepares the bigger step tomorrow.",
-   "tts": "We add a circuit breaker: fail fast, rest, then try again. Leo stops by my desk, asks, \"The keyboard backlight is broken.\" and I answer, \"I clean my screen weekly.\" I asked Leo how he handles the keep-alive when the week gets heavy. The head-of-line blocking shows up in our sprint notes more often than before. I double-check the lunch and learn before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the demo friday so clearly. Small progress today prepares the bigger step tomorrow.",
+   "en": "We add a circuit breaker: fail fast, rest, then try again. Warm-up round: Priya offers, \"The keyboard backlight is broken.\" I answer, \"I clean my screen weekly.\" and Priya wraps up, \"Good — try it in today’s task.\" I keep one real example of the keep-alive in my notebook. I add the head-of-line blocking to my study notes before I forget it. I go over the lunch and learn one more time before lunch. There is a short paragraph about the demo friday in the guide. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We add a circuit breaker: fail fast, rest, then try again. Warm-up round: Priya offers, \"The keyboard backlight is broken.\" I answer, \"I clean my screen weekly.\" and Priya wraps up, \"Good — try it in today’s task.\" I keep one real example of the keep-alive in my notebook. I add the head-of-line blocking to my study notes before I forget it. I go over the lunch and learn one more time before lunch. There is a short paragraph about the demo friday in the guide. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们加了熔断器：快速失败、休息、再重试。Leo走到我桌边问：\"键盘背光坏了。\"我回答：\"我每周擦屏幕。\"我问 Leo，当一周变得繁重时他是怎么处理长连接的。队头阻塞出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍午间学习，因为答错要付出双倍代价。一位队友拦住我，感谢我把周五演示解释得这么清楚。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们加了熔断器：快速失败、休息、再重试。热身一轮：Priya给出：\"键盘背光坏了。\"我回答：\"我每周擦屏幕。\"Priya收尾道：\"好——今天的任务里就用上。\"我在笔记本里留了一个长连接的真实例子。我趁还没忘，把队头阻塞记进了学习笔记。午饭前我又过了一遍午间学习。指南里有一小段关于周五演示的介绍。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "keep-alive",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the kudos channel on my desk for later. My notes about the new hire buddy are getting sharper every single week. I asked Leo how he handles the backoff strategy when the week gets heavy. The zero downtime shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Old devices get second lives.\" I reply, \"Charging cables multiply.\" Sometimes the kindest thing to a struggling service is silence.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the kudos channel on my desk for later. My notes about the new hire buddy are getting sharper every single week. I asked Leo how he handles the backoff strategy when the week gets heavy. The zero downtime shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Old devices get second lives.\" I reply, \"Charging cables multiply.\" Sometimes the kindest thing to a struggling service is silence.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the kudos channel after the standup. Sam asks me about the new hire buddy, and I explain the basics. I keep one real example of the backoff strategy in my notebook. I add the zero downtime to my study notes before I forget it. We drill it twice: Maria starts, \"Old devices get second lives.\" I reply, \"Charging cables multiply.\" then Maria smiles, \"That is the one we need today.\" Sometimes the kindest thing to a struggling service is silence.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the kudos channel after the standup. Sam asks me about the new hire buddy, and I explain the basics. I keep one real example of the backoff strategy in my notebook. I add the zero downtime to my study notes before I forget it. We drill it twice: Maria starts, \"Old devices get second lives.\" I reply, \"Charging cables multiply.\" then Maria smiles, \"That is the one we need today.\" Sometimes the kindest thing to a struggling service is silence.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我把一份越来越长的称赞频道清单放在桌上，留着以后用。我关于新人伙伴的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理退避策略的。零停机出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"旧设备也能再上岗。\"我回答：\"充电线会自己繁殖。\"对挣扎中的服务，最温柔的往往是沉默。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在称赞频道上。Sam 问起新人伙伴，我讲了讲基础。我在笔记本里留了一个退避策略的真实例子。我趁还没忘，把零停机记进了学习笔记。我们练了两遍：Maria起头：\"旧设备也能再上岗。\"我回答：\"充电线会自己繁殖。\"然后Maria笑着说：\"今天要的就是这句。\"对挣扎中的服务，最温柔的往往是沉默。",
    "hard": [
     {
      "w": "backoff strategy",

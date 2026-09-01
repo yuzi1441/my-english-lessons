@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 325,
+   "word_count": 320,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We audit standing access and find skeletons. Our mentor walks me through the social engineering drill's history, including two painful lessons. We weigh the cost of changing the phishing simulation program against leaving it alone. I prepare a one-page brief about the drill result metrics so meetings start from facts. The team sets a clear owner for the click rate trend report, plus a deadline and review date. Maria raises, \"Grandma learned the code word.\" and I respond calmly, \"Kids know callers verify first.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "We audit standing access and find skeletons. Our mentor walks me through the social engineering drill's history, including two painful lessons. We weigh the cost of changing the phishing simulation program against leaving it alone. I prepare a one-page brief about the drill result metrics so meetings start from facts. The team sets a clear owner for the click rate trend report, plus a deadline and review date. Maria raises, \"Grandma learned the code word.\" and I respond calmly, \"Kids know callers verify first.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "We audit standing access and find skeletons. We spend the first ten minutes of the review on the social engineering drill. During the design review, I raise one careful question about the phishing simulation program. Our mentor walks me through how the drill result metrics evolved on this team. Before deciding, I reread my notes about the click rate trend report twice. Mock review: Maria probes, \"Grandma learned the code word.\" I answer from memory, \"Kids know callers verify first.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We audit standing access and find skeletons. We spend the first ten minutes of the review on the social engineering drill. During the design review, I raise one careful question about the phishing simulation program. Our mentor walks me through how the drill result metrics evolved on this team. Before deciding, I reread my notes about the click rate trend report twice. Mock review: Maria probes, \"Grandma learned the code word.\" I answer from memory, \"Kids know callers verify first.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们审计常驻权限，找到了一些尘封的钥匙。导师带我梳理了社工演练的历史，包括两次惨痛的教训。我们权衡了改动钓鱼模拟计划的代价与放着不管的风险。我准备了一页关于演练结果指标的简报，好让会议从事实出发。团队为点击率趋势报告定了明确的负责人，加上截止和复审日期。Maria提出：\"奶奶学会了暗号。\"我从容地回应：\"孩子们知道来电要核实。\"因为慌张从来没用。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们审计常驻权限，找到了一些尘封的钥匙。评审的前十分钟，我们都用在了社工演练上。设计评审中，我就钓鱼模拟计划提出了一个审慎的问题。导师带我梳理了演练结果指标在这个团队里的演变。做决定之前，我把关于点击率趋势报告的笔记重读了两遍。模拟评审：Maria追问：\"奶奶学会了暗号。\"我凭记忆回答：\"孩子们知道来电要核实。\"Maria确认：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "social engineering drill",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My old admin rights from month one expire with ceremony. When the design review starts each week, Priya asks, \"The family shares scam samples.\" and I answer, \"Suspicious link, one phone away.\" with numbers. I prepare a one-page brief about the report phishing button so meetings start from facts. The team sets a clear owner for the urgency red flag, plus a deadline and review date. I compare two approaches to the repeat clicker coaching, note the trade-offs, share both honestly. In review, I raise a careful question about the phish report leaderboard and its failure modes. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "My old admin rights from month one expire with ceremony. When the design review starts each week, Priya asks, \"The family shares scam samples.\" and I answer, \"Suspicious link, one phone away.\" with numbers. I prepare a one-page brief about the report phishing button so meetings start from facts. The team sets a clear owner for the urgency red flag, plus a deadline and review date. I compare two approaches to the repeat clicker coaching, note the trade-offs, share both honestly. In review, I raise a careful question about the phish report leaderboard and its failure modes. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "My old admin rights from month one expire with ceremony. Review warm-up: Maria raises, \"The family shares scam samples.\" I answer, \"Suspicious link, one phone away.\" and Maria grades it, \"Agreed, note it in the ticket.\" During the design review, I raise one careful question about the report phishing button. Our mentor walks me through how the urgency red flag evolved on this team. Before deciding, I reread my notes about the repeat clicker coaching twice. I prepare a one-page brief about the phish report leaderboard so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "My old admin rights from month one expire with ceremony. Review warm-up: Maria raises, \"The family shares scam samples.\" I answer, \"Suspicious link, one phone away.\" and Maria grades it, \"Agreed, note it in the ticket.\" During the design review, I raise one careful question about the report phishing button. Our mentor walks me through how the urgency red flag evolved on this team. Before deciding, I reread my notes about the repeat clicker coaching twice. I prepare a one-page brief about the phish report leaderboard so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我第一个月攒下的管理员权限，在仪式感中到期了。评审开始时，Priya问：\"全家共享诈骗样本。\"我带着数字回答：\"可疑链接先问一句。\"我准备了一页关于举报钓鱼按钮的简报，好让会议从事实出发。团队为紧迫感红旗定了明确的负责人，加上截止和复审日期。我比较了处理重复点击辅导的两种方式，记下取舍，诚实分享。评审中，我就举报龙虎榜及其失效模式提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我第一个月攒下的管理员权限，在仪式感中到期了。评审热身：Maria抛出：\"全家共享诈骗样本。\"我带着数字回答：\"可疑链接先问一句。\"Maria点评道：\"同意，把这条记到工单里。\"设计评审中，我就举报钓鱼按钮提出了一个审慎的问题。导师带我梳理了紧迫感红旗在这个团队里的演变。做决定之前，我把关于重复点击辅导的笔记重读了两遍。我准备了一页关于举报龙虎榜的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "report phishing button",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through the simulation calendar's history, including two painful lessons. We weigh the cost of changing the lessons into training against leaving it alone. I prepare a one-page brief about the authority spoofing check so meetings start from facts. The team sets a clear owner for the reward scam pattern, plus a deadline and review date. Maria raises, \"Emotional messages get a delay.\" and I respond calmly, \"Reporting feels heroic now.\" because panic never helped anyone. Just in time access feels like borrowing instead of hoarding.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through the simulation calendar's history, including two painful lessons. We weigh the cost of changing the lessons into training against leaving it alone. I prepare a one-page brief about the authority spoofing check so meetings start from facts. The team sets a clear owner for the reward scam pattern, plus a deadline and review date. Maria raises, \"Emotional messages get a delay.\" and I respond calmly, \"Reporting feels heroic now.\" because panic never helped anyone. Just in time access feels like borrowing instead of hoarding.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the simulation calendar to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the lessons into training. During the design review, I raise one careful question about the authority spoofing check. Our mentor walks me through how the reward scam pattern evolved on this team. Practice debate: Leo argues, \"Emotional messages get a delay.\" I respond calmly, \"Reporting feels heroic now.\" and Leo concedes, \"That is the level we need.\" Just in time access feels like borrowing instead of hoarding.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the simulation calendar to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the lessons into training. During the design review, I raise one careful question about the authority spoofing check. Our mentor walks me through how the reward scam pattern evolved on this team. Practice debate: Leo argues, \"Emotional messages get a delay.\" I respond calmly, \"Reporting feels heroic now.\" and Leo concedes, \"That is the level we need.\" Just in time access feels like borrowing instead of hoarding.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了模拟排期表的历史，包括两次惨痛的教训。我们权衡了改动演练教训进培训的代价与放着不管的风险。我准备了一页关于冒充上级核查的简报，好让会议从事实出发。团队为中奖骗局模式定了明确的负责人，加上截止和复审日期。Maria提出：\"情绪化消息先放一放。\"我从容地回应：\"现在举报像做英雄。\"因为慌张从来没用。即时权限像借用，不像囤积。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把模拟排期表连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了演练教训进培训上。设计评审中，我就冒充上级核查提出了一个审慎的问题。导师带我梳理了中奖骗局模式在这个团队里的演变。练习辩论：Leo主张：\"情绪化消息先放一放。\"我平静地回应：\"现在举报像做英雄。\"Leo承认道：\"我们要的就是这个水平。\"即时权限像借用，不像囤积。",
    "hard": [
     {
      "w": "authority spoofing check",

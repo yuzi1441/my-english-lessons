@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 313,
+   "word_count": 293,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My niece asks for charts at the family meeting. We agree that the zone based layout needs one more careful look before we commit. I link the catalog as front door to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the experiment traffic budget, and I write it down. I summarize what we decided about the overlapping experiment policy while the details are still fresh. Over coffee, Maria mentions, \"The rain writes on windows.\" and I add, \"Wet socks, dry humor.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "My niece asks for charts at the family meeting. We agree that the zone based layout needs one more careful look before we commit. I link the catalog as front door to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the experiment traffic budget, and I write it down. I summarize what we decided about the overlapping experiment policy while the details are still fresh. Over coffee, Maria mentions, \"The rain writes on windows.\" and I add, \"Wet socks, dry humor.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "My niece asks for charts at the family meeting. At the review, we spend ten minutes on the zone based layout. In today's standup, I mention the catalog as front door and what comes next. We agree to give the experiment traffic budget one more careful look this week. I connect the overlapping experiment policy to the ticket so nothing gets lost. Pair run: Maria starts, \"The rain writes on windows.\" I follow, \"Wet socks, dry humor.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "My niece asks for charts at the family meeting. At the review, we spend ten minutes on the zone based layout. In today's standup, I mention the catalog as front door and what comes next. We agree to give the experiment traffic budget one more careful look this week. I connect the overlapping experiment policy to the ticket so nothing gets lost. Pair run: Maria starts, \"The rain writes on windows.\" I follow, \"Wet socks, dry humor.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "侄女要求家庭会议要带图表。我们一致认为，在动手之前分区布局还需要再仔细看一次。我把数据目录是大门关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的实验流量预算处理办法，我把它记了下来。趁细节还新鲜，我总结了关于并行实验政策的决定。喝咖啡时，Maria提到：\"雨在窗上写字。\"我补充了\"湿袜子\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "侄女要求家庭会议要带图表。评审时，我们花了十分钟在分区布局上。今天的站会上，我提到数据目录是大门和接下来的安排。我们说好这周再把实验流量预算仔细看一次。我把并行实验政策关联到工单上，免得遗漏。结对演练：Maria起头：\"雨在窗上写字。\"我跟上：\"湿袜子\"Maria回应：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "zone based layout",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We chart screen time, pocket money, and one very honest ice cream budget. Priya checks in with, \"The bus shelter crowd bonds.\" so I explain, \"Thunder counts seconds.\" without rushing. Priya suggests a simpler way to handle the tag based access control, and I write it down. I summarize what we decided about the lifecycle policies while the details are still fresh. The guide now includes a section on the tracking cost watch, with examples and pitfalls. In today's standup, I give a quick update on the sample size sanity and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "We chart screen time, pocket money, and one very honest ice cream budget. Priya checks in with, \"The bus shelter crowd bonds.\" so I explain, \"Thunder counts seconds.\" without rushing. Priya suggests a simpler way to handle the tag based access control, and I write it down. I summarize what we decided about the lifecycle policies while the details are still fresh. The guide now includes a section on the tracking cost watch, with examples and pitfalls. In today's standup, I give a quick update on the sample size sanity and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "We chart screen time, pocket money, and one very honest ice cream budget. Meeting rehearsal: Maria opens, \"The bus shelter crowd bonds.\" I respond, \"Thunder counts seconds.\" and Maria confirms, \"Exactly, and it saves time too.\" In today's standup, I mention the tag based access control and what comes next. We agree to give the lifecycle policies one more careful look this week. I connect the tracking cost watch to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the sample size sanity. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We chart screen time, pocket money, and one very honest ice cream budget. Meeting rehearsal: Maria opens, \"The bus shelter crowd bonds.\" I respond, \"Thunder counts seconds.\" and Maria confirms, \"Exactly, and it saves time too.\" In today's standup, I mention the tag based access control and what comes next. We agree to give the lifecycle policies one more careful look this week. I connect the tracking cost watch to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the sample size sanity. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们画了屏幕时间、零花钱，和一个非常诚实的冰淇淋预算。Priya关心地问：\"公交亭里陌生人结盟。\"于是我不慌不忙地解释：\"雷声数着秒。\"Priya 提出了一个更简单的标签式权限处理办法，我把它记了下来。趁细节还新鲜，我总结了关于生命周期策略的决定。指南里现在有关于埋点采集成本的章节，附有示例和坑点。在今天的站会上，我快速汇报了样本量常识的进展和卡住我的地方。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我们画了屏幕时间、零花钱，和一个非常诚实的冰淇淋预算。会议彩排：Maria开场：\"公交亭里陌生人结盟。\"我回应：\"雷声数着秒。\"Maria确认道：\"正是，而且还省时间。\"今天的站会上，我提到标签式权限和接下来的安排。我们说好这周再把生命周期策略仔细看一次。我把埋点采集成本关联到工单上，免得遗漏。Priya 提出了一个更清晰的样本量常识思考方式。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "tag based access control",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the experiment tooling training needs one more careful look before we commit. I link the platform team pairing to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the storage cost per team, and I write it down. I summarize what we decided about the cleanup audit trail while the details are still fresh. Over coffee, Maria mentions, \"Rain boots by the door.\" and I add, \"Steam rises from jackets.\" with an example. Data literacy starts with dessert.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the experiment tooling training needs one more careful look before we commit. I link the platform team pairing to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the storage cost per team, and I write it down. I summarize what we decided about the cleanup audit trail while the details are still fresh. Over coffee, Maria mentions, \"Rain boots by the door.\" and I add, \"Steam rises from jackets.\" with an example. Data literacy starts with dessert.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the experiment tooling training with Priya's. At the review, we spend ten minutes on the platform team pairing. In today's standup, I mention the storage cost per team and what comes next. We agree to give the cleanup audit trail one more careful look this week. Drill without notes: Leo asks, \"Rain boots by the door.\" I answer, \"Steam rises from jackets.\" and Leo closes, \"Keep practising, it is working.\" Data literacy starts with dessert.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the experiment tooling training with Priya's. At the review, we spend ten minutes on the platform team pairing. In today's standup, I mention the storage cost per team and what comes next. We agree to give the cleanup audit trail one more careful look this week. Drill without notes: Leo asks, \"Rain boots by the door.\" I answer, \"Steam rises from jackets.\" and Leo closes, \"Keep practising, it is working.\" Data literacy starts with dessert.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们一致认为，在动手之前实验工具培训还需要再仔细看一次。我把平台团队结对关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的团队存储成本处理办法，我把它记了下来。趁细节还新鲜，我总结了关于清理审计留痕的决定。喝咖啡时，Maria提到：\"门口的雨靴列队。\"我补充了\"外套冒起白汽。\"，还带了个例子。数据素养从甜点开始。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于实验工具培训的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在平台团队结对上。今天的站会上，我提到团队存储成本和接下来的安排。我们说好这周再把清理审计留痕仔细看一次。脱稿演练：Leo问：\"门口的雨靴列队。\"我回答：\"外套冒起白汽。\"Leo收束：\"继续练，有效果了。\"数据素养从甜点开始。",
    "hard": [
     {
      "w": "storage cost per team",

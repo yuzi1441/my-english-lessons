@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 189,
+   "word_count": 184,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I call a teammate on video. The connection is bad, but we talk. During our chat, Maria says, \"The connection is unstable.\" I answer, \"Could you turn on your camera?\" I ask one question about the storage. Leo tells me a story about the disk space. Today I approve changes for the first time. I request changes, and Maria checks it. I understand a little more than yesterday.",
-   "tts": "I call a teammate on video. The connection is bad, but we talk. During our chat, Maria says, \"The connection is unstable.\" I answer, \"Could you turn on your camera?\" I ask one question about the storage. Leo tells me a story about the disk space. Today I approve changes for the first time. I request changes, and Maria checks it. I understand a little more than yesterday.",
+   "en": "I call a teammate on video. The connection is bad, but we talk. Leo says, \"The connection is unstable.\" so I answer, \"Could you turn on your camera?\" I learn about the storage because it is useful. Now I understand the disk space. I approve changes carefully. Leo shows me how to request changes. I understand a little more than yesterday.",
+   "tts": "I call a teammate on video. The connection is bad, but we talk. Leo says, \"The connection is unstable.\" so I answer, \"Could you turn on your camera?\" I learn about the storage because it is useful. Now I understand the disk space. I approve changes carefully. Leo shows me how to request changes. I understand a little more than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我和一位队友视频通话。连接不好，但我们聊了很久。聊天时，Maria说：\"连接不稳定。\"我回答：\"你可以打开摄像头吗？\"我问了一个关于存储空间的问题。Leo 给我讲了一个关于磁盘空间的小故事。今天我第一次批准改动。我要求修改，Maria 来检查。我比昨天多懂了一点。",
+   "zh": "我和一位队友视频通话。连接不好，但我们聊了很久。Leo说：\"连接不稳定。\"于是我回答：\"你可以打开摄像头吗？\"我学习存储空间，因为它很有用。现在我理解了磁盘空间。我认真地批准改动。Leo 教我怎样要求修改。我比昨天多懂了一点。",
    "hard": [
     {
      "w": "storage",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. I need to leave a comment before lunch. I resolve a conversation carefully. Leo shows me how to save to disk. I free up space one small step at a time. Leo says, \"You're on mute.\" so I answer, \"I'll call you back.\" The comments are kind. I know what to fix.",
-   "tts": "Before I leave, I finish one last task. I need to leave a comment before lunch. I resolve a conversation carefully. Leo shows me how to save to disk. I free up space one small step at a time. Leo says, \"You're on mute.\" so I answer, \"I'll call you back.\" The comments are kind. I know what to fix.",
+   "en": "Before I leave, I finish one last task. I leave a comment carefully. Leo shows me how to resolve a conversation. I save to disk one small step at a time. Today I free up space for the first time. First Priya says, \"You're on mute.\" then I reply, \"I'll call you back.\" The comments are kind. I know what to fix.",
+   "tts": "Before I leave, I finish one last task. I leave a comment carefully. Leo shows me how to resolve a conversation. I save to disk one small step at a time. Today I free up space for the first time. First Priya says, \"You're on mute.\" then I reply, \"I'll call you back.\" The comments are kind. I know what to fix.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。午饭前，我需要留下评论。我认真地解决对话。Leo 教我怎样保存到磁盘。我一步一步地释放空间。Leo说：\"你静音了。\"于是我回答：\"我会给你回电话。\"评论很友善。我知道该改什么了。",
+   "zh": "离开前，我完成最后一项任务。我认真地留下评论。Leo 教我怎样解决对话。我一步一步地保存到磁盘。今天我第一次释放空间。先是Priya说：\"你静音了。\"然后我回答：\"我会给你回电话。\"评论很友善。我知道该改什么了。",
    "hard": [
     {
      "w": "save to disk",

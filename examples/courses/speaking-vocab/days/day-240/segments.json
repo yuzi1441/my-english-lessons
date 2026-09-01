@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 332,
+   "word_count": 324,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day two hundred forty: my run and the settings page share a pace now. In review, I raise a careful question about the perf culture win and its failure modes. Our mentor walks me through the optimization playbook's history, including two painful lessons. We weigh the cost of changing the perf goals met review against leaving it alone. I prepare a one-page brief about the system speed history so meetings start from facts. When the design review starts each week, Priya asks, \"Day two hundred forty pace.\" and I answer, \"Faster is a habit now.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "Day two hundred forty: my run and the settings page share a pace now. In review, I raise a careful question about the perf culture win and its failure modes. Our mentor walks me through the optimization playbook's history, including two painful lessons. We weigh the cost of changing the perf goals met review against leaving it alone. I prepare a one-page brief about the system speed history so meetings start from facts. When the design review starts each week, Priya asks, \"Day two hundred forty pace.\" and I answer, \"Faster is a habit now.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "Day two hundred forty: my run and the settings page share a pace now. During the design review, I raise one careful question about the perf culture win. Our mentor walks me through how the optimization playbook evolved on this team. Before deciding, I reread my notes about the perf goals met review twice. I prepare a one-page brief about the system speed history so meetings start from facts. Review warm-up: Priya raises, \"Day two hundred forty pace.\" I answer, \"Faster is a habit now.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "Day two hundred forty: my run and the settings page share a pace now. During the design review, I raise one careful question about the perf culture win. Our mentor walks me through how the optimization playbook evolved on this team. Before deciding, I reread my notes about the perf goals met review twice. I prepare a one-page brief about the system speed history so meetings start from facts. Review warm-up: Priya raises, \"Day two hundred forty pace.\" I answer, \"Faster is a habit now.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第二百四十天：我的跑步配速和设置页面同频了。评审中，我就性能文化成果及其失效模式提出了一个审慎的问题。导师带我梳理了优化手册第一版的历史，包括两次惨痛的教训。我们权衡了改动性能目标达成回顾的代价与放着不管的风险。我准备了一页关于系统速度编年史的简报，好让会议从事实出发。评审开始时，Priya问：\"第二百四十天的配速。\"我带着数字回答：\"快\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "第二百四十天：我的跑步配速和设置页面同频了。设计评审中，我就性能文化成果提出了一个审慎的问题。导师带我梳理了优化手册第一版在这个团队里的演变。做决定之前，我把关于性能目标达成回顾的笔记重读了两遍。我准备了一页关于系统速度编年史的简报，好让会议从事实出发。评审热身：Priya抛出：\"第二百四十天的配速。\"我带着数字回答：\"快\"Priya点评道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "perf culture win",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria laughs, \"You optimized your rest days too.\" Leo opens the talk with, \"The watch and I agree.\" and I follow up with, \"Rest is still strategic.\" and a proposal. We weigh the cost of changing the system hotspot map against leaving it alone. I prepare a one-page brief about the latency wins ledger so meetings start from facts. The team sets a clear owner for the optimization debt cleared, plus a deadline and review date. I compare two approaches to the tooling we built, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Maria laughs, \"You optimized your rest days too.\" Leo opens the talk with, \"The watch and I agree.\" and I follow up with, \"Rest is still strategic.\" and a proposal. We weigh the cost of changing the system hotspot map against leaving it alone. I prepare a one-page brief about the latency wins ledger so meetings start from facts. The team sets a clear owner for the optimization debt cleared, plus a deadline and review date. I compare two approaches to the tooling we built, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Maria laughs, \"You optimized your rest days too.\" Dry run: Priya opens, \"The watch and I agree.\" I follow, \"Rest is still strategic.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" Our mentor walks me through how the system hotspot map evolved on this team. Before deciding, I reread my notes about the latency wins ledger twice. I prepare a one-page brief about the optimization debt cleared so meetings start from facts. The team names one clear owner for the tooling we built. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Maria laughs, \"You optimized your rest days too.\" Dry run: Priya opens, \"The watch and I agree.\" I follow, \"Rest is still strategic.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" Our mentor walks me through how the system hotspot map evolved on this team. Before deciding, I reread my notes about the latency wins ledger twice. I prepare a one-page brief about the optimization debt cleared so meetings start from facts. The team names one clear owner for the tooling we built. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 笑道：“你连休息日都优化了。”Leo以\"手表与我意见一致。\"开启话题，我接着说了\"休息依然是策略。\"还附了个提案。我们权衡了改动系统热点地图的代价与放着不管的风险。我准备了一页关于延迟战果清单的简报，好让会议从事实出发。团队为优化债清零定了明确的负责人，加上截止和复审日期。我比较了处理我们造的工具的两种方式，记下取舍，诚实分享。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "Maria 笑道：“你连休息日都优化了。”干跑演练：Priya开场：\"手表与我意见一致。\"我接上：\"休息依然是策略。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"导师带我梳理了系统热点地图在这个团队里的演变。做决定之前，我把关于延迟战果清单的笔记重读了两遍。我准备了一页关于优化债清零的简报，好让会议从事实出发。团队为我们造的工具指定了明确的负责人。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "system hotspot map",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the unblocked teams and its failure modes. Our mentor walks me through the road to ten x's history, including two painful lessons. We weigh the cost of changing the boring speed wins against leaving it alone. I prepare a one-page brief about the next quarter perf bets so meetings start from facts. When the design review starts each week, Priya asks, \"Small gains compound quietly.\" and I answer, \"The long run continues.\" with numbers. Some things I deliberately leave slow: Sunday, soup, and long goodbyes.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the unblocked teams and its failure modes. Our mentor walks me through the road to ten x's history, including two painful lessons. We weigh the cost of changing the boring speed wins against leaving it alone. I prepare a one-page brief about the next quarter perf bets so meetings start from facts. When the design review starts each week, Priya asks, \"Small gains compound quietly.\" and I answer, \"The long run continues.\" with numbers. Some things I deliberately leave slow: Sunday, soup, and long goodbyes.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the unblocked teams. During the design review, I raise one careful question about the road to ten x. Our mentor walks me through how the boring speed wins evolved on this team. Before deciding, I reread my notes about the next quarter perf bets twice. Mock review: Maria probes, \"Small gains compound quietly.\" I answer from memory, \"The long run continues.\" and Maria confirms, \"Agreed, note it in the ticket.\" Some things I deliberately leave slow: Sunday, soup, and long goodbyes.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the unblocked teams. During the design review, I raise one careful question about the road to ten x. Our mentor walks me through how the boring speed wins evolved on this team. Before deciding, I reread my notes about the next quarter perf bets twice. Mock review: Maria probes, \"Small gains compound quietly.\" I answer from memory, \"The long run continues.\" and Maria confirms, \"Agreed, note it in the ticket.\" Some things I deliberately leave slow: Sunday, soup, and long goodbyes.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审中，我就我们解锁的团队及其失效模式提出了一个审慎的问题。导师带我梳理了通往十倍的路的历史，包括两次惨痛的教训。我们权衡了改动不起眼的提速的代价与放着不管的风险。我准备了一页关于下季性能押注的简报，好让会议从事实出发。评审开始时，Priya问：\"小提升悄悄复利。\"我带着数字回答：\"长跑继续。\"有些我刻意留着慢：周日、热汤，和长长的告别。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了我们解锁的团队上。设计评审中，我就通往十倍的路提出了一个审慎的问题。导师带我梳理了不起眼的提速在这个团队里的演变。做决定之前，我把关于下季性能押注的笔记重读了两遍。模拟评审：Maria追问：\"小提升悄悄复利。\"我凭记忆回答：\"长跑继续。\"Maria确认：\"同意，把这条记到工单里。\"有些我刻意留着慢：周日、热汤，和长长的告别。",
    "hard": [
     {
      "w": "boring speed wins",

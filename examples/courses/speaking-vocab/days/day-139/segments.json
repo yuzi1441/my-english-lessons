@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 300,
+   "word_count": 269,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Our team spans three countries now. We agree that the multi cursor needs one more careful look before we commit. I link the snippet to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the reviewer guide link, and I write it down. I summarize what we decided about the pr size bot while the details are still fresh. Over coffee, Maria mentions, \"Farmers market at eight.\" and I add, \"The honey man remembers me.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Our team spans three countries now. We agree that the multi cursor needs one more careful look before we commit. I link the snippet to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the reviewer guide link, and I write it down. I summarize what we decided about the pr size bot while the details are still fresh. Over coffee, Maria mentions, \"Farmers market at eight.\" and I add, \"The honey man remembers me.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Our team spans three countries now. Priya suggests a cleaner way to think about the multi cursor. While the details are fresh, I write down the snippet. The guide now has a short section on the reviewer guide link. I compare my notes about the pr size bot with Priya's. Pair run: Maria starts, \"Farmers market at eight.\" I follow, \"The honey man remembers me.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Our team spans three countries now. Priya suggests a cleaner way to think about the multi cursor. While the details are fresh, I write down the snippet. The guide now has a short section on the reviewer guide link. I compare my notes about the pr size bot with Priya's. Pair run: Maria starts, \"Farmers market at eight.\" I follow, \"The honey man remembers me.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们的团队现在横跨三个国家。我们一致认为，在动手之前多光标还需要再仔细看一次。我把代码片段关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的评审指南链接处理办法，我把它记了下来。趁细节还新鲜，我总结了关于PR 体积机器人的决定。喝咖啡时，Maria提到：\"八点的农贸市场。\"我补充了\"蜂蜜大叔记得我。\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我们的团队现在横跨三个国家。Priya 提出了一个更清晰的多光标思考方式。趁细节还新鲜，我把代码片段写了下来。指南里现在有关于评审指南链接的简短章节。我把关于PR 体积机器人的笔记和 Priya 的对照了一下。结对演练：Maria起头：\"八点的农贸市场。\"我跟上：\"蜂蜜大叔记得我。\"Maria回应：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "multi cursor",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We adopt plain English rules: slow down, expand acronyms, write things down. Priya checks in with, \"Seasonal fruit is cheaper.\" so I explain, \"Reusable bags always.\" without rushing. Priya suggests a simpler way to handle the keyboard macro, and I write it down. I summarize what we decided about the editor profile while the details are still fresh. The guide now includes a section on the merge conflict clinic, with examples and pitfalls. In today's standup, I give a quick update on the pr titles matter and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "We adopt plain English rules: slow down, expand acronyms, write things down. Priya checks in with, \"Seasonal fruit is cheaper.\" so I explain, \"Reusable bags always.\" without rushing. Priya suggests a simpler way to handle the keyboard macro, and I write it down. I summarize what we decided about the editor profile while the details are still fresh. The guide now includes a section on the merge conflict clinic, with examples and pitfalls. In today's standup, I give a quick update on the pr titles matter and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "We adopt plain English rules: slow down, expand acronyms, write things down. Meeting rehearsal: Maria opens, \"Seasonal fruit is cheaper.\" I respond, \"Reusable bags always.\" and Maria confirms, \"Exactly, and it saves time too.\" While the details are fresh, I write down the keyboard macro. The guide now has a short section on the editor profile. I compare my notes about the merge conflict clinic with Priya's. At the review, we spend ten minutes on the pr titles matter. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We adopt plain English rules: slow down, expand acronyms, write things down. Meeting rehearsal: Maria opens, \"Seasonal fruit is cheaper.\" I respond, \"Reusable bags always.\" and Maria confirms, \"Exactly, and it saves time too.\" While the details are fresh, I write down the keyboard macro. The guide now has a short section on the editor profile. I compare my notes about the merge conflict clinic with Priya's. At the review, we spend ten minutes on the pr titles matter. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们采用平实英语规则：放慢、展开缩写、落成文字。Priya关心地问：\"应季水果更便宜。\"于是我不慌不忙地解释：\"自备袋子是铁律。\"Priya 提出了一个更简单的键盘宏处理办法，我把它记了下来。趁细节还新鲜，我总结了关于编辑器配置的决定。指南里现在有关于冲突门诊的章节，附有示例和坑点。在今天的站会上，我快速汇报了PR 标题很要紧的进展和卡住我的地方。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我们采用平实英语规则：放慢、展开缩写、落成文字。会议彩排：Maria开场：\"应季水果更便宜。\"我回应：\"自备袋子是铁律。\"Maria确认道：\"正是，而且还省时间。\"趁细节还新鲜，我把键盘宏写了下来。指南里现在有关于编辑器配置的简短章节。我把关于冲突门诊的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在PR 标题很要紧上。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "keyboard macro",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the atomic pr series needs one more careful look before we commit. I link the changelog draft in pr to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the workspace layout, and I write it down. I summarize what we decided about the command palette while the details are still fresh. Over coffee, Maria mentions, \"A flower stall treat.\" and I add, \"Home by ten, heavy bags.\" with an example. Simple words are not simple-minded.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the atomic pr series needs one more careful look before we commit. I link the changelog draft in pr to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the workspace layout, and I write it down. I summarize what we decided about the command palette while the details are still fresh. Over coffee, Maria mentions, \"A flower stall treat.\" and I add, \"Home by ten, heavy bags.\" with an example. Simple words are not simple-minded.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the atomic pr series to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the changelog draft in pr. While the details are fresh, I write down the workspace layout. The guide now has a short section on the command palette. Drill without notes: Leo asks, \"A flower stall treat.\" I answer, \"Home by ten, heavy bags.\" and Leo closes, \"Keep practising, it is working.\" Simple words are not simple-minded.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the atomic pr series to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the changelog draft in pr. While the details are fresh, I write down the workspace layout. The guide now has a short section on the command palette. Drill without notes: Leo asks, \"A flower stall treat.\" I answer, \"Home by ten, heavy bags.\" and Leo closes, \"Keep practising, it is working.\" Simple words are not simple-minded.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们一致认为，在动手之前原子 PR 序列还需要再仔细看一次。我把PR 里写日志草稿关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的工作区布局处理办法，我把它记了下来。趁细节还新鲜，我总结了关于命令面板的决定。喝咖啡时，Maria提到：\"给自己买花的仪式。\"我补充了\"十点到家\"，还带了个例子。简单的词不等于简单的心智。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把原子 PR 序列关联到工单上，免得遗漏。Priya 提出了一个更清晰的PR 里写日志草稿思考方式。趁细节还新鲜，我把工作区布局写了下来。指南里现在有关于命令面板的简短章节。脱稿演练：Leo问：\"给自己买花的仪式。\"我回答：\"十点到家\"Leo收束：\"继续练，有效果了。\"简单的词不等于简单的心智。",
    "hard": [
     {
      "w": "workspace layout",

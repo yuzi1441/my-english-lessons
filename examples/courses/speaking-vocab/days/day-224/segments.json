@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 324,
+   "word_count": 315,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Heavy exports move into a web worker. We weigh the cost of changing the http2 multiplexing against leaving it alone. I prepare a one-page brief about the header deduplication so meetings start from facts. The team sets a clear owner for the cache hit ratio report, plus a deadline and review date. I compare two approaches to the cache purge runbook, note the trade-offs, share both honestly. Leo opens the talk with, \"The corner store is our CDN.\" and I follow up with, \"Regular orders skip the menu.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Heavy exports move into a web worker. We weigh the cost of changing the http2 multiplexing against leaving it alone. I prepare a one-page brief about the header deduplication so meetings start from facts. The team sets a clear owner for the cache hit ratio report, plus a deadline and review date. I compare two approaches to the cache purge runbook, note the trade-offs, share both honestly. Leo opens the talk with, \"The corner store is our C D N.\" and I follow up with, \"Regular orders skip the menu.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Heavy exports move into a web worker. During the design review, I raise one careful question about the http2 multiplexing. Our mentor walks me through how the header deduplication evolved on this team. Before deciding, I reread my notes about the cache hit ratio report twice. I prepare a one-page brief about the cache purge runbook so meetings start from facts. Review warm-up: Leo raises, \"The corner store is our CDN.\" I answer, \"Regular orders skip the menu.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Heavy exports move into a web worker. During the design review, I raise one careful question about the http2 multiplexing. Our mentor walks me through how the header deduplication evolved on this team. Before deciding, I reread my notes about the cache hit ratio report twice. I prepare a one-page brief about the cache purge runbook so meetings start from facts. Review warm-up: Leo raises, \"The corner store is our C D N.\" I answer, \"Regular orders skip the menu.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "重量级导出搬进了 Web Worker。我们权衡了改动HTTP2 多路复用的代价与放着不管的风险。我准备了一页关于头部去重的简报，好让会议从事实出发。团队为缓存命中率报告定了明确的负责人，加上截止和复审日期。我比较了处理缓存清理手册的两种方式，记下取舍，诚实分享。Leo以\"街角小店就是我们的 CDN。\"开启话题，我接着说了\"熟客点单跳过菜单。\"还附了个提案。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "重量级导出搬进了 Web Worker。设计评审中，我就HTTP2 多路复用提出了一个审慎的问题。导师带我梳理了头部去重在这个团队里的演变。做决定之前，我把关于缓存命中率报告的笔记重读了两遍。我准备了一页关于缓存清理手册的简报，好让会议从事实出发。评审热身：Leo抛出：\"街角小店就是我们的 CDN。\"我带着数字回答：\"熟客点单跳过菜单。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "http2 multiplexing",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The main thread keeps sixty frames per second while the background grinds. Maria raises, \"The shelf is stale while restocking.\" and I respond calmly, \"Delivery radius matters daily.\" because panic never helped anyone. The team sets a clear owner for the cdn edge node, plus a deadline and review date. I compare two approaches to the cache control header, note the trade-offs, share both honestly. In review, I raise a careful question about the asset fingerprint check and its failure modes. Our mentor walks me through the edge config review's history, including two painful lessons. We end the week with something shipped and something properly learned this time.",
-   "tts": "The main thread keeps sixty frames per second while the background grinds. Maria raises, \"The shelf is stale while restocking.\" and I respond calmly, \"Delivery radius matters daily.\" because panic never helped anyone. The team sets a clear owner for the cdn edge node, plus a deadline and review date. I compare two approaches to the cache control header, note the trade-offs, share both honestly. In review, I raise a careful question about the asset fingerprint check and its failure modes. Our mentor walks me through the edge config review's history, including two painful lessons. We end the week with something shipped and something properly learned this time.",
+   "en": "The main thread keeps sixty frames per second while the background grinds. Dry run: Leo opens, \"The shelf is stale while restocking.\" I follow, \"Delivery radius matters daily.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Our mentor walks me through how the cdn edge node evolved on this team. Before deciding, I reread my notes about the cache control header twice. I prepare a one-page brief about the asset fingerprint check so meetings start from facts. The team names one clear owner for the edge config review. We end the week with something shipped and something properly learned this time.",
+   "tts": "The main thread keeps sixty frames per second while the background grinds. Dry run: Leo opens, \"The shelf is stale while restocking.\" I follow, \"Delivery radius matters daily.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Our mentor walks me through how the cdn edge node evolved on this team. Before deciding, I reread my notes about the cache control header twice. I prepare a one-page brief about the asset fingerprint check so meetings start from facts. The team names one clear owner for the edge config review. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "主线程稳住六十帧，后台慢慢磨。Maria提出：\"补货时旧货还在架上。\"我从容地回应：\"配送半径每天都要想。\"因为慌张从来没用。团队为CDN 边缘节点定了明确的负责人，加上截止和复审日期。我比较了处理缓存控制头的两种方式，记下取舍，诚实分享。评审中，我就资源指纹检查及其失效模式提出了一个审慎的问题。导师带我梳理了边缘配置评审的历史，包括两次惨痛的教训。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "主线程稳住六十帧，后台慢慢磨。干跑演练：Leo开场：\"补货时旧货还在架上。\"我接上：\"配送半径每天都要想。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"导师带我梳理了CDN 边缘节点在这个团队里的演变。做决定之前，我把关于缓存控制头的笔记重读了两遍。我准备了一页关于资源指纹检查的简报，好让会议从事实出发。团队为边缘配置评审指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "cdn edge node",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We weigh the cost of changing the ttl matrix documentation against leaving it alone. I prepare a one-page brief about the origin load regression test so meetings start from facts. The team sets a clear owner for the stale while revalidate, plus a deadline and review date. I compare two approaches to the origin shield, note the trade-offs, share both honestly. Leo opens the talk with, \"Bulk storage stays at the hub.\" and I follow up with, \"Fresh items come from origin.\" and a proposal. The interface stops hiccupping during heavy lifting.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We weigh the cost of changing the ttl matrix documentation against leaving it alone. I prepare a one-page brief about the origin load regression test so meetings start from facts. The team sets a clear owner for the stale while revalidate, plus a deadline and review date. I compare two approaches to the origin shield, note the trade-offs, share both honestly. Leo opens the talk with, \"Bulk storage stays at the hub.\" and I follow up with, \"Fresh items come from origin.\" and a proposal. The interface stops hiccupping during heavy lifting.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the ttl matrix documentation. During the design review, I raise one careful question about the origin load regression test. Our mentor walks me through how the stale while revalidate evolved on this team. Before deciding, I reread my notes about the origin shield twice. Mock review: Priya probes, \"Bulk storage stays at the hub.\" I answer from memory, \"Fresh items come from origin.\" and Priya confirms, \"Strong answer — keep that precision.\" The interface stops hiccupping during heavy lifting.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the ttl matrix documentation. During the design review, I raise one careful question about the origin load regression test. Our mentor walks me through how the stale while revalidate evolved on this team. Before deciding, I reread my notes about the origin shield twice. Mock review: Priya probes, \"Bulk storage stays at the hub.\" I answer from memory, \"Fresh items come from origin.\" and Priya confirms, \"Strong answer — keep that precision.\" The interface stops hiccupping during heavy lifting.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我们权衡了改动TTL 矩阵文档的代价与放着不管的风险。我准备了一页关于回源压力回归测试的简报，好让会议从事实出发。团队为先旧后新策略定了明确的负责人，加上截止和复审日期。我比较了处理源站护盾的两种方式，记下取舍，诚实分享。Leo以\"大批量囤在总仓。\"开启话题，我接着说了\"新鲜的从源头来。\"还附了个提案。界面在重活面前不再打嗝。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了TTL 矩阵文档上。设计评审中，我就回源压力回归测试提出了一个审慎的问题。导师带我梳理了先旧后新策略在这个团队里的演变。做决定之前，我把关于源站护盾的笔记重读了两遍。模拟评审：Priya追问：\"大批量囤在总仓。\"我凭记忆回答：\"新鲜的从源头来。\"Priya确认：\"回答有力——保持这种精确。\"界面在重活面前不再打嗝。",
    "hard": [
     {
      "w": "stale while revalidate",

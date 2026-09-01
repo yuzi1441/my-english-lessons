@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "One sync message vanishes without an error. I asked Leo how he handles the message queue when the week gets heavy. The producer shows up in our sprint notes more often than before. I double-check the insights tab before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the actions tab so clearly. Leo stops by my desk, asks, \"I've been sleeping better.\" and I answer, \"I avoid screens before bed.\" The task moves forward, and so does my confidence.",
-   "tts": "One sync message vanishes without an error. I asked Leo how he handles the message queue when the week gets heavy. The producer shows up in our sprint notes more often than before. I double-check the insights tab before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the actions tab so clearly. Leo stops by my desk, asks, \"I've been sleeping better.\" and I answer, \"I avoid screens before bed.\" The task moves forward, and so does my confidence.",
+   "en": "One sync message vanishes without an error. I add the message queue to my study notes before I forget it. I go over the producer one more time before lunch. There is a short paragraph about the insights tab in the guide. I ask one good question about the actions tab in the meeting. We practise the dialogue: Leo opens, \"I've been sleeping better.\" I answer, \"I avoid screens before bed.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "One sync message vanishes without an error. I add the message queue to my study notes before I forget it. I go over the producer one more time before lunch. There is a short paragraph about the insights tab in the guide. I ask one good question about the actions tab in the meeting. We practise the dialogue: Leo opens, \"I've been sleeping better.\" I answer, \"I avoid screens before bed.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一条同步消息毫无声息地消失了。我问 Leo，当一周变得繁重时他是怎么处理消息队列的。生产者出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍洞察页，因为答错要付出双倍代价。一位队友拦住我，感谢我把Actions 页解释得这么清楚。Leo走到我桌边问：\"我最近睡得好了。\"我回答：\"我睡前不碰手机屏幕。\"任务在推进，我的信心也在成长。",
+   "zh": "一条同步消息毫无声息地消失了。我趁还没忘，把消息队列记进了学习笔记。午饭前我又过了一遍生产者。指南里有一小段关于洞察页的介绍。会上关于Actions 页，我问了一个好问题。我们练习这段对话：Leo开场：\"我最近睡得好了。\"我回答：\"我睡前不碰手机屏幕。\"Leo点头说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "message queue",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "It sat in the dead letter queue, retried until it gave up. Maria greets me warmly with, \"I wake up around six.\" and I answer, \"Coffee after noon keeps me up.\" I double-check the consumer before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the retry policy so clearly. I keep a growing list of the projects tab on my desk for later. My notes about the wiki tab are getting sharper every single week. I end the day with fewer unknowns than I started with.",
-   "tts": "It sat in the dead letter queue, retried until it gave up. Maria greets me warmly with, \"I wake up around six.\" and I answer, \"Coffee after noon keeps me up.\" I double-check the consumer before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the retry policy so clearly. I keep a growing list of the projects tab on my desk for later. My notes about the wiki tab are getting sharper every single week. I end the day with fewer unknowns than I started with.",
+   "en": "It sat in the dead letter queue, retried until it gave up. We drill it twice: Leo starts, \"I wake up around six.\" I reply, \"Coffee after noon keeps me up.\" then Leo smiles, \"Nice, keep that one handy.\" I go over the consumer one more time before lunch. There is a short paragraph about the retry policy in the guide. I ask one good question about the projects tab in the meeting. My notes about the wiki tab look clearer this week. I end the day with fewer unknowns than I started with.",
+   "tts": "It sat in the dead letter queue, retried until it gave up. We drill it twice: Leo starts, \"I wake up around six.\" I reply, \"Coffee after noon keeps me up.\" then Leo smiles, \"Nice, keep that one handy.\" I go over the consumer one more time before lunch. There is a short paragraph about the retry policy in the guide. I ask one good question about the projects tab in the meeting. My notes about the wiki tab look clearer this week. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "它躺在死信队列里，重试到放弃为止。Maria热情地用\"我六点左右醒。\"和我打招呼，我回答：\"中午后喝咖啡会睡不着。\"回复之前我再核对一遍消费者，因为答错要付出双倍代价。一位队友拦住我，感谢我把重试策略解释得这么清楚。我把一份越来越长的项目页清单放在桌上，留着以后用。我关于Wiki 页的笔记每周都变得更敏锐。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "它躺在死信队列里，重试到放弃为止。我们练了两遍：Leo起头：\"我六点左右醒。\"我回答：\"中午后喝咖啡会睡不着。\"然后Leo笑着说：\"不错，把这句记在手边。\"午饭前我又过了一遍消费者。指南里有一小段关于重试策略的介绍。会上关于项目页，我问了一个好问题。这周我关于Wiki 页的笔记清楚多了。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "consumer",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I asked Leo how he handles the discussions tab when the week gets heavy. The pulse tab shows up in our sprint notes more often than before. I double-check the dead letter queue before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the at-least-once so clearly. Leo stops by my desk, asks, \"A short nap helps.\" and I answer, \"I keep a fixed bedtime.\" Our retry policy now knows when to ask a human for help.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I asked Leo how he handles the discussions tab when the week gets heavy. The pulse tab shows up in our sprint notes more often than before. I double-check the dead letter queue before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the at-least-once so clearly. Leo stops by my desk, asks, \"A short nap helps.\" and I answer, \"I keep a fixed bedtime.\" Our retry policy now knows when to ask a human for help.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the discussions tab in my notebook. I add the pulse tab to my study notes before I forget it. I go over the dead letter queue one more time before lunch. There is a short paragraph about the at-least-once in the guide. Warm-up round: Priya offers, \"A short nap helps.\" I answer, \"I keep a fixed bedtime.\" and Priya wraps up, \"Good — try it in today’s task.\" Our retry policy now knows when to ask a human for help.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the discussions tab in my notebook. I add the pulse tab to my study notes before I forget it. I go over the dead letter queue one more time before lunch. There is a short paragraph about the at-least-once in the guide. Warm-up round: Priya offers, \"A short nap helps.\" I answer, \"I keep a fixed bedtime.\" and Priya wraps up, \"Good — try it in today’s task.\" Our retry policy now knows when to ask a human for help.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我问 Leo，当一周变得繁重时他是怎么处理讨论区页的。动态页出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍死信队列，因为答错要付出双倍代价。一位队友拦住我，感谢我把至少一次解释得这么清楚。Leo走到我桌边问：\"短午睡很有用。\"我回答：\"我保持固定的就寝时间。\"现在我们的重试策略知道什么时候该找人帮忙了。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个讨论区页的真实例子。我趁还没忘，把动态页记进了学习笔记。午饭前我又过了一遍死信队列。指南里有一小段关于至少一次的介绍。热身一轮：Priya给出：\"短午睡很有用。\"我回答：\"我保持固定的就寝时间。\"Priya收尾道：\"好——今天的任务里就用上。\"现在我们的重试策略知道什么时候该找人帮忙了。",
    "hard": [
     {
      "w": "dead letter queue",

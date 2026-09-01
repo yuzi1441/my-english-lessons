@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 217,
+   "word_count": 222,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I request approval with a clear summary and screenshots. Priya checks with me, \"I owe you one.\" I answer clearly, \"It means a lot to me.\" I explain the skeleton screen to a new teammate. The team agrees to lazy load before Friday. I document the approval history so the team can review it later. I revoke approval and then explain the risk. The day ends with a clear plan for tomorrow.",
-   "tts": "I request approval with a clear summary and screenshots. Priya checks with me, \"I owe you one.\" I answer clearly, \"It means a lot to me.\" I explain the skeleton screen to a new teammate. The team agrees to lazy load before Friday. I document the approval history so the team can review it later. I revoke approval and then explain the risk. The day ends with a clear plan for tomorrow.",
+   "en": "I request approval with a clear summary and screenshots. At the end of the day, Maria says, \"I owe you one.\" I reply, \"It means a lot to me.\" If the skeleton screen fails, we need a clear plan. We decide to lazy load after the review. The result depends on the approval history, so I check it twice. I revoke approval, and I record the reason. The day ends with a clear plan for tomorrow.",
+   "tts": "I request approval with a clear summary and screenshots. At the end of the day, Maria says, \"I owe you one.\" I reply, \"It means a lot to me.\" If the skeleton screen fails, we need a clear plan. We decide to lazy load after the review. The result depends on the approval history, so I check it twice. I revoke approval, and I record the reason. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我带着清晰的摘要和截图申请了审批。Priya向我确认：\"我欠你一个人情。\"我清楚地回答：\"这对我意义重大。\"我向一位新队友解释了骨架屏。团队同意在周五之前懒加载。我把审批记录写成文档，方便团队之后查看。我撤回批准，然后解释了风险。这一天以一份清晰的明日计划结束。",
+   "zh": "我带着清晰的摘要和截图申请了审批。一天结束时，Maria说：\"我欠你一个人情。\"我回答：\"这对我意义重大。\"如果骨架屏失败，我们需要一个清晰的方案。评审之后，我们决定懒加载。结果取决于审批记录，所以我检查了两遍。我撤回批准，并记录了原因。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "skeleton screen",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I suggest that we check the compliance check first. The result depends on the sign-off, so I check it twice. I pull to refresh, and I record the reason. We discuss the risk around the scroll position. At the end of the day, Maria says, \"I'll get you back a coffee.\" I reply, \"Anytime, really.\" One approval, one signature, one green merge.",
-   "tts": "Before I leave, I write a short summary for the team. I suggest that we check the compliance check first. The result depends on the sign-off, so I check it twice. I pull to refresh, and I record the reason. We discuss the risk around the scroll position. At the end of the day, Maria says, \"I'll get you back a coffee.\" I reply, \"Anytime, really.\" One approval, one signature, one green merge.",
+   "en": "Before I leave, I write a short summary for the team. The result depends on the compliance check, so I check it twice. I explain the sign-off to a new teammate. The team agrees to pull to refresh before Friday. I document the scroll position so the team can review it later. Before we part, Leo says, \"I'll get you back a coffee.\" I answer, \"Anytime, really.\" One approval, one signature, one green merge.",
+   "tts": "Before I leave, I write a short summary for the team. The result depends on the compliance check, so I check it twice. I explain the sign-off to a new teammate. The team agrees to pull to refresh before Friday. I document the scroll position so the team can review it later. Before we part, Leo says, \"I'll get you back a coffee.\" I answer, \"Anytime, really.\" One approval, one signature, one green merge.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我建议我们先检查合规检查。结果取决于签字确认，所以我检查了两遍。我下拉刷新，并记录了原因。我们讨论了滚动位置相关的风险。一天结束时，Maria说：\"我会请你喝杯咖啡作为答谢。\"我回答：\"随时都愿意帮忙。\"一次批准，一个签字，一次绿色的合并。",
+   "zh": "离开前，我给团队写了一份简短的总结。结果取决于合规检查，所以我检查了两遍。我向一位新队友解释了签字确认。团队同意在周五之前下拉刷新。我把滚动位置写成文档，方便团队之后查看。分开前，Leo说：\"我会请你喝杯咖啡作为答谢。\"我回答：\"随时都愿意帮忙。\"一次批准，一个签字，一次绿色的合并。",
    "hard": [
     {
      "w": "pull to refresh",

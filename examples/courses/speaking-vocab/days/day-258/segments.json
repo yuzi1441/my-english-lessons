@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 325,
+   "word_count": 314,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We harden the mobile app screen by screen. In review, I raise a careful question about the key derivation function and its failure modes. Our mentor walks me through the salt for passwords's history, including two painful lessons. We weigh the cost of changing the crypto usage inventory against leaving it alone. I prepare a one-page brief about the weak algorithm detection so meetings start from facts. When the design review starts each week, Priya asks, \"Our family has code phrases.\" and I answer, \"The recipe secret stays verbal.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "We harden the mobile app screen by screen. In review, I raise a careful question about the key derivation function and its failure modes. Our mentor walks me through the salt for passwords's history, including two painful lessons. We weigh the cost of changing the crypto usage inventory against leaving it alone. I prepare a one-page brief about the weak algorithm detection so meetings start from facts. When the design review starts each week, Priya asks, \"Our family has code phrases.\" and I answer, \"The recipe secret stays verbal.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "We harden the mobile app screen by screen. Before deciding, I reread my notes about the key derivation function twice. I prepare a one-page brief about the salt for passwords so meetings start from facts. The team names one clear owner for the crypto usage inventory. I compare two views on the weak algorithm detection and write both down honestly. Practice debate: Priya argues, \"Our family has code phrases.\" I respond calmly, \"The recipe secret stays verbal.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "We harden the mobile app screen by screen. Before deciding, I reread my notes about the key derivation function twice. I prepare a one-page brief about the salt for passwords so meetings start from facts. The team names one clear owner for the crypto usage inventory. I compare two views on the weak algorithm detection and write both down honestly. Practice debate: Priya argues, \"Our family has code phrases.\" I respond calmly, \"The recipe secret stays verbal.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们逐屏加固移动应用。评审中，我就密钥派生函数及其失效模式提出了一个审慎的问题。导师带我梳理了口令加盐的历史，包括两次惨痛的教训。我们权衡了改动加密使用清单的代价与放着不管的风险。我准备了一页关于弱算法检测的简报，好让会议从事实出发。评审开始时，Priya问：\"家里有专属暗语。\"我带着数字回答：\"传家秘方只口传。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们逐屏加固移动应用。做决定之前，我把关于密钥派生函数的笔记重读了两遍。我准备了一页关于口令加盐的简报，好让会议从事实出发。团队为加密使用清单指定了明确的负责人。我比较了关于弱算法检测的两种观点，诚实地都记了下来。练习辩论：Priya主张：\"家里有专属暗语。\"我平静地回应：\"传家秘方只口传。\"Priya承认道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "key derivation function",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Secure storage, screenshot guards, and deep links that demand tickets. Leo opens the talk with, \"Diaries got locks as kids.\" and I follow up with, \"Passwords with meanings, not dates.\" and a proposal. We weigh the cost of changing the key hierarchy against leaving it alone. I prepare a one-page brief about the digital signature use so meetings start from facts. The team sets a clear owner for the key ownership registry, plus a deadline and review date. I compare two approaches to the rotation due report, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Secure storage, screenshot guards, and deep links that demand tickets. Leo opens the talk with, \"Diaries got locks as kids.\" and I follow up with, \"Passwords with meanings, not dates.\" and a proposal. We weigh the cost of changing the key hierarchy against leaving it alone. I prepare a one-page brief about the digital signature use so meetings start from facts. The team sets a clear owner for the key ownership registry, plus a deadline and review date. I compare two approaches to the rotation due report, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Secure storage, screenshot guards, and deep links that demand tickets. Mock review: Priya probes, \"Diaries got locks as kids.\" I answer from memory, \"Passwords with meanings, not dates.\" and Priya confirms, \"Strong answer — keep that precision.\" I prepare a one-page brief about the key hierarchy so meetings start from facts. The team names one clear owner for the digital signature use. I compare two views on the key ownership registry and write both down honestly. I add the rotation due report to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Secure storage, screenshot guards, and deep links that demand tickets. Mock review: Priya probes, \"Diaries got locks as kids.\" I answer from memory, \"Passwords with meanings, not dates.\" and Priya confirms, \"Strong answer — keep that precision.\" I prepare a one-page brief about the key hierarchy so meetings start from facts. The team names one clear owner for the digital signature use. I compare two views on the key ownership registry and write both down honestly. I add the rotation due report to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "安全存储、截屏防护，还有必须验票的深链。Leo以\"小时候日记本都带锁。\"开启话题，我接着说了\"密码有含义不写生日。\"还附了个提案。我们权衡了改动密钥层级体系的代价与放着不管的风险。我准备了一页关于数字签名用途的简报，好让会议从事实出发。团队为密钥归属登记定了明确的负责人，加上截止和复审日期。我比较了处理轮换到期报告的两种方式，记下取舍，诚实分享。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "安全存储、截屏防护，还有必须验票的深链。模拟评审：Priya追问：\"小时候日记本都带锁。\"我凭记忆回答：\"密码有含义不写生日。\"Priya确认：\"回答有力——保持这种精确。\"我准备了一页关于密钥层级体系的简报，好让会议从事实出发。团队为数字签名用途指定了明确的负责人。我比较了关于密钥归属登记的两种观点，诚实地都记了下来。我把轮换到期报告连同三条支撑事实加进了议程。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "key hierarchy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the transit encryption check and its failure modes. Our mentor walks me through the test data encryption review's history, including two painful lessons. We weigh the cost of changing the certificate rotation automation against leaving it alone. I prepare a one-page brief about the crypto agility principle so meetings start from facts. When the design review starts each week, Priya asks, \"The safe box for originals.\" and I answer, \"Secrets age well when rotated.\" with numbers. The app stops whispering to strangers.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the transit encryption check and its failure modes. Our mentor walks me through the test data encryption review's history, including two painful lessons. We weigh the cost of changing the certificate rotation automation against leaving it alone. I prepare a one-page brief about the crypto agility principle so meetings start from facts. When the design review starts each week, Priya asks, \"The safe box for originals.\" and I answer, \"Secrets age well when rotated.\" with numbers. The app stops whispering to strangers.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the transit encryption check evolved on this team. Before deciding, I reread my notes about the test data encryption review twice. I prepare a one-page brief about the certificate rotation automation so meetings start from facts. The team names one clear owner for the crypto agility principle. Dry run: Maria opens, \"The safe box for originals.\" I follow, \"Secrets age well when rotated.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" The app stops whispering to strangers.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the transit encryption check evolved on this team. Before deciding, I reread my notes about the test data encryption review twice. I prepare a one-page brief about the certificate rotation automation so meetings start from facts. The team names one clear owner for the crypto agility principle. Dry run: Maria opens, \"The safe box for originals.\" I follow, \"Secrets age well when rotated.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" The app stops whispering to strangers.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审中，我就传输加密核查及其失效模式提出了一个审慎的问题。导师带我梳理了测试数据加密评审的历史，包括两次惨痛的教训。我们权衡了改动证书轮换自动化的代价与放着不管的风险。我准备了一页关于加密敏捷原则的简报，好让会议从事实出发。评审开始时，Priya问：\"原件住在保险盒。\"我带着数字回答：\"常换的密码保新鲜。\"应用不再跟陌生人说悄悄话。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了传输加密核查在这个团队里的演变。做决定之前，我把关于测试数据加密评审的笔记重读了两遍。我准备了一页关于证书轮换自动化的简报，好让会议从事实出发。团队为加密敏捷原则指定了明确的负责人。干跑演练：Maria开场：\"原件住在保险盒。\"我接上：\"常换的密码保新鲜。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"应用不再跟陌生人说悄悄话。",
    "hard": [
     {
      "w": "certificate rotation automation",

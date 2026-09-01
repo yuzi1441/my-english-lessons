@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 307,
+   "word_count": 292,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "New hires reach first merged PR in four days now. Priya suggests a simpler way to handle the architecture review copilot, and I write it down. I summarize what we decided about the dependency scanner while the details are still fresh. The guide now includes a section on the adr with ai assist, with examples and pitfalls. In today's standup, I give a quick update on the alternatives section and what blocked me. Priya checks in with, \"The conference lottery.\" so I explain, \"Workshop versus talks math.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "New hires reach first merged P R in four days now. Priya suggests a simpler way to handle the architecture review copilot, and I write it down. I summarize what we decided about the dependency scanner while the details are still fresh. The guide now includes a section on the adr with ai assist, with examples and pitfalls. In today's standup, I give a quick update on the alternatives section and what blocked me. Priya checks in with, \"The conference lottery.\" so I explain, \"Workshop versus talks math.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
+   "en": "New hires reach first merged PR in four days now. We agree to give the architecture review copilot one more careful look this week. I connect the dependency scanner to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the adr with ai assist. While the details are fresh, I write down the alternatives section. Whiteboard practice: Priya offers, \"The conference lottery.\" I add, \"Workshop versus talks math.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "New hires reach first merged P R in four days now. We agree to give the architecture review copilot one more careful look this week. I connect the dependency scanner to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the adr with ai assist. While the details are fresh, I write down the alternatives section. Whiteboard practice: Priya offers, \"The conference lottery.\" I add, \"Workshop versus talks math.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "新人四天就能合并第一个 PR。Priya 提出了一个更简单的架构评审副驾驶处理办法，我把它记了下来。趁细节还新鲜，我总结了关于依赖扫描器的决定。指南里现在有关于ADR 加 AI 辅助的章节，附有示例和坑点。在今天的站会上，我快速汇报了备选方案区块的进展和卡住我的地方。Priya关心地问：\"大会门票抽签。\"于是我不慌不忙地解释：\"工作坊与讲座的取舍题。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "新人四天就能合并第一个 PR。我们说好这周再把架构评审副驾驶仔细看一次。我把依赖扫描器关联到工单上，免得遗漏。Priya 提出了一个更清晰的ADR 加 AI 辅助思考方式。趁细节还新鲜，我把备选方案区块写了下来。白板练习：Priya给出：\"大会门票抽签。\"我补充：\"工作坊与讲座的取舍题。\"然后Priya总结：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "architecture review copilot",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The context pack, the playground, and a patient apprentice do the heavy lifting. In the morning meeting, Leo says, \"The hallway track value.\" and I respond, \"Swag bag economics.\" The guide now includes a section on the scale estimator, with examples and pitfalls. In today's standup, I give a quick update on the tech debt heatmap and what blocked me. We agree that the consequences section needs one more careful look before we commit. I link the design signoff flow to the ticket so nothing important ever gets lost again. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "The context pack, the playground, and a patient apprentice do the heavy lifting. In the morning meeting, Leo says, \"The hallway track value.\" and I respond, \"Swag bag economics.\" The guide now includes a section on the scale estimator, with examples and pitfalls. In today's standup, I give a quick update on the tech debt heatmap and what blocked me. We agree that the consequences section needs one more careful look before we commit. I link the design signoff flow to the ticket so nothing important ever gets lost again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "The context pack, the playground, and a patient apprentice do the heavy lifting. Drill without notes: Priya asks, \"The hallway track value.\" I answer, \"Swag bag economics.\" and Priya closes, \"Good point — use it in the standup.\" I connect the scale estimator to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the tech debt heatmap. While the details are fresh, I write down the consequences section. The guide now has a short section on the design signoff flow. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "The context pack, the playground, and a patient apprentice do the heavy lifting. Drill without notes: Priya asks, \"The hallway track value.\" I answer, \"Swag bag economics.\" and Priya closes, \"Good point — use it in the standup.\" I connect the scale estimator to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the tech debt heatmap. While the details are fresh, I write down the consequences section. The guide now has a short section on the design signoff flow. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "上下文包、试炼场，和一位耐心的学徒扛了重活。晨会上，Leo说：\"走廊交流的含金量。\"我回应：\"周边礼包经济学。\"指南里现在有关于规模估算助手的章节，附有示例和坑点。在今天的站会上，我快速汇报了技术债热力图的进展和卡住我的地方。我们一致认为，在动手之前后果区块还需要再仔细看一次。我把设计签字流程关联到工单上，这样重要的事情不会再被遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "上下文包、试炼场，和一位耐心的学徒扛了重活。脱稿演练：Priya问：\"走廊交流的含金量。\"我回答：\"周边礼包经济学。\"Priya收束：\"说得好——站会上就用它。\"我把规模估算助手关联到工单上，免得遗漏。Priya 提出了一个更清晰的技术债热力图思考方式。趁细节还新鲜，我把后果区块写了下来。指南里现在有关于设计签字流程的简短章节。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "scale estimator",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a simpler way to handle the adr search by topic, and I write it down. I summarize what we decided about the stale adr detection while the details are still fresh. The guide now includes a section on the design doc drafter, with examples and pitfalls. In today's standup, I give a quick update on the decision record hints and what blocked me. Priya checks in with, \"Jet lag mitigation science.\" so I explain, \"Notes or it never happened.\" without rushing. Faster starts, same deep foundations.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a simpler way to handle the adr search by topic, and I write it down. I summarize what we decided about the stale adr detection while the details are still fresh. The guide now includes a section on the design doc drafter, with examples and pitfalls. In today's standup, I give a quick update on the decision record hints and what blocked me. Priya checks in with, \"Jet lag mitigation science.\" so I explain, \"Notes or it never happened.\" without rushing. Faster starts, same deep foundations.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the adr search by topic and what comes next. We agree to give the stale adr detection one more careful look this week. I connect the design doc drafter to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the decision record hints. Meeting rehearsal: Maria opens, \"Jet lag mitigation science.\" I respond, \"Notes or it never happened.\" and Maria confirms, \"Exactly, and it saves time too.\" Faster starts, same deep foundations.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the adr search by topic and what comes next. We agree to give the stale adr detection one more careful look this week. I connect the design doc drafter to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the decision record hints. Meeting rehearsal: Maria opens, \"Jet lag mitigation science.\" I respond, \"Notes or it never happened.\" and Maria confirms, \"Exactly, and it saves time too.\" Faster starts, same deep foundations.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更简单的按主题检索 ADR处理办法，我把它记了下来。趁细节还新鲜，我总结了关于陈旧 ADR 检测的决定。指南里现在有关于设计文档起草助手的章节，附有示例和坑点。在今天的站会上，我快速汇报了决策记录提示的进展和卡住我的地方。Priya关心地问：\"倒时差的科学。\"于是我不慌不忙地解释：\"不记笔记等于没去。\"起步更快，地基一样深。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到按主题检索 ADR和接下来的安排。我们说好这周再把陈旧 ADR 检测仔细看一次。我把设计文档起草助手关联到工单上，免得遗漏。Priya 提出了一个更清晰的决策记录提示思考方式。会议彩排：Maria开场：\"倒时差的科学。\"我回应：\"不记笔记等于没去。\"Maria确认道：\"正是，而且还省时间。\"起步更快，地基一样深。",
    "hard": [
     {
      "w": "design doc drafter",

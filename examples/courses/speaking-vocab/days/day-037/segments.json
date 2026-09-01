@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 223,
+   "word_count": 225,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The queue position moves slowly, one check at a time. Priya checks with me, \"Nothing much, really.\" I answer clearly, \"Let's hope the weather holds.\" I explain the whitespace character to a new teammate. We discuss the risk around the line break. I document the rebase before merge so the team can review it later. If the flaky test fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
-   "tts": "The queue position moves slowly, one check at a time. Priya checks with me, \"Nothing much, really.\" I answer clearly, \"Let's hope the weather holds.\" I explain the whitespace character to a new teammate. We discuss the risk around the line break. I document the rebase before merge so the team can review it later. If the flaky test fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
+   "en": "The queue position moves slowly, one check at a time. At the end of the day, Maria says, \"Nothing much, really.\" I reply, \"Let's hope the weather holds.\" If the whitespace character fails, we need a clear plan. I suggest that we check the line break first. The result depends on the rebase before merge, so I check it twice. I explain the flaky test to a new teammate. The day ends with a clear plan for tomorrow.",
+   "tts": "The queue position moves slowly, one check at a time. At the end of the day, Maria says, \"Nothing much, really.\" I reply, \"Let's hope the weather holds.\" If the whitespace character fails, we need a clear plan. I suggest that we check the line break first. The result depends on the rebase before merge, so I check it twice. I explain the flaky test to a new teammate. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "队列位置移动得很慢，一次检查接着一次。Priya向我确认：\"其实没什么特别的安排。\"我清楚地回答：\"希望天气一直这么好。\"我向一位新队友解释了空白字符。我们讨论了换行符相关的风险。我把合并前变基写成文档，方便团队之后查看。如果不稳定测试失败，我们需要一个清晰的方案。这一天以一份清晰的明日计划结束。",
+   "zh": "队列位置移动得很慢，一次检查接着一次。一天结束时，Maria说：\"其实没什么特别的安排。\"我回答：\"希望天气一直这么好。\"如果空白字符失败，我们需要一个清晰的方案。我建议我们先检查换行符。结果取决于合并前变基，所以我检查了两遍。我向一位新队友解释了不稳定测试。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "whitespace character",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. We decide to retry the build after the review. The result depends on the merge order, so I check it twice. I explain the escape character to a new teammate. We discuss the risk around the case conversion. At the end of the day, Maria says, \"I'll play it by ear.\" I reply, \"Enjoy your weekend!\" Patience is part of shipping.",
-   "tts": "Before I leave, I write a short summary for the team. We decide to retry the build after the review. The result depends on the merge order, so I check it twice. I explain the escape character to a new teammate. We discuss the risk around the case conversion. At the end of the day, Maria says, \"I'll play it by ear.\" I reply, \"Enjoy your weekend!\" Patience is part of shipping.",
+   "en": "Before I leave, I write a short summary for the team. If we retry the build, the result should be safe. I explain the merge order to a new teammate. We discuss the risk around the escape character. I document the case conversion so the team can review it later. Before we part, Leo says, \"I'll play it by ear.\" I answer, \"Enjoy your weekend!\" Patience is part of shipping.",
+   "tts": "Before I leave, I write a short summary for the team. If we retry the build, the result should be safe. I explain the merge order to a new teammate. We discuss the risk around the escape character. I document the case conversion so the team can review it later. Before we part, Leo says, \"I'll play it by ear.\" I answer, \"Enjoy your weekend!\" Patience is part of shipping.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。评审之后，我们决定重试构建。结果取决于合并顺序，所以我检查了两遍。我向一位新队友解释了转义字符。我们讨论了大小写转换相关的风险。一天结束时，Maria说：\"到时候看情况吧。\"我回答：\"周末愉快！\"耐心也是发布的一部分。",
+   "zh": "离开前，我给团队写了一份简短的总结。如果我们重试构建，结果应该是安全的。我向一位新队友解释了合并顺序。我们讨论了转义字符相关的风险。我把大小写转换写成文档，方便团队之后查看。分开前，Leo说：\"到时候看情况吧。\"我回答：\"周末愉快！\"耐心也是发布的一部分。",
    "hard": [
     {
      "w": "escape character",

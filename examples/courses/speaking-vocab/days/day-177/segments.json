@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 312,
+   "word_count": 297,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My big analysis faces two reviewers before the big meeting. Priya suggests a simpler way to handle the tracking plan, and I write it down. I summarize what we decided about the event naming convention while the details are still fresh. The guide now includes a section on the analyst day one checklist, with examples and pitfalls. In today's standup, I give a quick update on the first week ticket list and what blocked me. Priya checks in with, \"The five thirty quiet.\" so I explain, \"Write before the world logs on.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "My big analysis faces two reviewers before the big meeting. Priya suggests a simpler way to handle the tracking plan, and I write it down. I summarize what we decided about the event naming convention while the details are still fresh. The guide now includes a section on the analyst day one checklist, with examples and pitfalls. In today's standup, I give a quick update on the first week ticket list and what blocked me. Priya checks in with, \"The five thirty quiet.\" so I explain, \"Write before the world logs on.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
+   "en": "My big analysis faces two reviewers before the big meeting. We agree to give the tracking plan one more careful look this week. I connect the event naming convention to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the analyst day one checklist. While the details are fresh, I write down the first week ticket list. Whiteboard practice: Priya offers, \"The five thirty quiet.\" I add, \"Write before the world logs on.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "My big analysis faces two reviewers before the big meeting. We agree to give the tracking plan one more careful look this week. I connect the event naming convention to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the analyst day one checklist. While the details are fresh, I write down the first week ticket list. Whiteboard practice: Priya offers, \"The five thirty quiet.\" I add, \"Write before the world logs on.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的大分析在上会前要过两位评审。Priya 提出了一个更简单的埋点计划处理办法，我把它记了下来。趁细节还新鲜，我总结了关于事件命名约定的决定。指南里现在有关于分析师第一天清单的章节，附有示例和坑点。在今天的站会上，我快速汇报了第一周工单清单的进展和卡住我的地方。Priya关心地问：\"五点半的安静。\"于是我不慌不忙地解释：\"世界开机前先写。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我的大分析在上会前要过两位评审。我们说好这周再把埋点计划仔细看一次。我把事件命名约定关联到工单上，免得遗漏。Priya 提出了一个更清晰的分析师第一天清单思考方式。趁细节还新鲜，我把第一周工单清单写了下来。白板练习：Priya给出：\"五点半的安静。\"我补充：\"世界开机前先写。\"然后Priya总结：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "tracking plan",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One catches a survivorship bias I had hugged like a pet. In the morning meeting, Leo says, \"Three pages, no editing.\" and I respond, \"The inner critic sleeps in.\" The guide now includes a section on the property dictionary, with examples and pitfalls. In today's standup, I give a quick update on the qa for analytics and what blocked me. We agree that the query review for newcomers needs one more careful look before we commit. I link the data mentor matching to the ticket so nothing important ever gets lost again. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "One catches a survivorship bias I had hugged like a pet. In the morning meeting, Leo says, \"Three pages, no editing.\" and I respond, \"The inner critic sleeps in.\" The guide now includes a section on the property dictionary, with examples and pitfalls. In today's standup, I give a quick update on the qa for analytics and what blocked me. We agree that the query review for newcomers needs one more careful look before we commit. I link the data mentor matching to the ticket so nothing important ever gets lost again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "One catches a survivorship bias I had hugged like a pet. Drill without notes: Priya asks, \"Three pages, no editing.\" I answer, \"The inner critic sleeps in.\" and Priya closes, \"Good point — use it in the standup.\" I connect the property dictionary to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the qa for analytics. While the details are fresh, I write down the query review for newcomers. The guide now has a short section on the data mentor matching. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "One catches a survivorship bias I had hugged like a pet. Drill without notes: Priya asks, \"Three pages, no editing.\" I answer, \"The inner critic sleeps in.\" and Priya closes, \"Good point — use it in the standup.\" I connect the property dictionary to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the qa for analytics. While the details are fresh, I write down the query review for newcomers. The guide now has a short section on the data mentor matching. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一位评审抓到一个被我当宠物一样抱着的幸存者偏差。晨会上，Leo说：\"写三页\"我回应：\"内心的批评家还在睡。\"指南里现在有关于属性字典的章节，附有示例和坑点。在今天的站会上，我快速汇报了埋点测试的进展和卡住我的地方。我们一致认为，在动手之前新人查询评审还需要再仔细看一次。我把数据导师配对关联到工单上，这样重要的事情不会再被遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "一位评审抓到一个被我当宠物一样抱着的幸存者偏差。脱稿演练：Priya问：\"写三页\"我回答：\"内心的批评家还在睡。\"Priya收束：\"说得好——站会上就用它。\"我把属性字典关联到工单上，免得遗漏。Priya 提出了一个更清晰的埋点测试思考方式。趁细节还新鲜，我把新人查询评审写了下来。指南里现在有关于数据导师配对的简短章节。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "property dictionary",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a simpler way to handle the domain 101 sessions, and I write it down. I summarize what we decided about the three month expectations while the details are still fresh. The guide now includes a section on the event volume forecast, with examples and pitfalls. In today's standup, I give a quick update on the tracking plan versioning and what blocked me. Priya checks in with, \"Ideas favor the early.\" so I explain, \"Sunrise finishes the draft.\" without rushing. Embarrassment now beats retraction later.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a simpler way to handle the domain 101 sessions, and I write it down. I summarize what we decided about the three month expectations while the details are still fresh. The guide now includes a section on the event volume forecast, with examples and pitfalls. In today's standup, I give a quick update on the tracking plan versioning and what blocked me. Priya checks in with, \"Ideas favor the early.\" so I explain, \"Sunrise finishes the draft.\" without rushing. Embarrassment now beats retraction later.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the domain 101 sessions and what comes next. We agree to give the three month expectations one more careful look this week. I connect the event volume forecast to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the tracking plan versioning. Meeting rehearsal: Maria opens, \"Ideas favor the early.\" I respond, \"Sunrise finishes the draft.\" and Maria confirms, \"Exactly, and it saves time too.\" Embarrassment now beats retraction later.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the domain 101 sessions and what comes next. We agree to give the three month expectations one more careful look this week. I connect the event volume forecast to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the tracking plan versioning. Meeting rehearsal: Maria opens, \"Ideas favor the early.\" I respond, \"Sunrise finishes the draft.\" and Maria confirms, \"Exactly, and it saves time too.\" Embarrassment now beats retraction later.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更简单的业务 101 课程处理办法，我把它记了下来。趁细节还新鲜，我总结了关于三个月预期的决定。指南里现在有关于事件量预估的章节，附有示例和坑点。在今天的站会上，我快速汇报了埋点计划版本化的进展和卡住我的地方。Priya关心地问：\"灵感偏爱早起的人。\"于是我不慌不忙地解释：\"日出给初稿收尾。\"现在的尴尬胜过日后的撤回。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到业务 101 课程和接下来的安排。我们说好这周再把三个月预期仔细看一次。我把事件量预估关联到工单上，免得遗漏。Priya 提出了一个更清晰的埋点计划版本化思考方式。会议彩排：Maria开场：\"灵感偏爱早起的人。\"我回应：\"日出给初稿收尾。\"Maria确认道：\"正是，而且还省时间。\"现在的尴尬胜过日后的撤回。",
    "hard": [
     {
      "w": "event volume forecast",

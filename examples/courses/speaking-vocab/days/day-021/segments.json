@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 216,
+   "word_count": 215,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The sink at home is leaking. I call for help. When we meet, Leo says, \"Could someone repair it?\" I reply, \"When can the technician come?\" After lunch, I check the unstaged change again. Before the meeting, I review the tracked file one more time. I reset a branch so the team can see the change. Before I discard changes, I read the note. With the team's help, the problem becomes smaller.",
-   "tts": "The sink at home is leaking. I call for help. When we meet, Leo says, \"Could someone repair it?\" I reply, \"When can the technician come?\" After lunch, I check the unstaged change again. Before the meeting, I review the tracked file one more time. I reset a branch so the team can see the change. Before I discard changes, I read the note. With the team's help, the problem becomes smaller.",
+   "en": "The sink at home is leaking. I call for help. Priya starts with \"Could someone repair it?\" and I continue with \"When can the technician come?\" When I use the unstaged change, I ask Maria for advice. I compare the tracked file with my notes. I reset a branch, and Priya watches the result. It takes me ten minutes to discard changes. With the team's help, the problem becomes smaller.",
+   "tts": "The sink at home is leaking. I call for help. Priya starts with \"Could someone repair it?\" and I continue with \"When can the technician come?\" When I use the unstaged change, I ask Maria for advice. I compare the tracked file with my notes. I reset a branch, and Priya watches the result. It takes me ten minutes to discard changes. With the team's help, the problem becomes smaller.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "家里的水槽漏水了。我打电话求助。见面时，Leo说：\"可以派人来修吗？\"我回答：\"维修人员什么时候能来？\"午饭后，我又检查了一遍未暂存改动。开会前，我又复习了一遍已跟踪文件。我重置分支，好让团队看到变化。在丢弃改动之前，我先看了说明。在团队的帮助下，问题变小了。",
+   "zh": "家里的水槽漏水了。我打电话求助。Priya先说了\"可以派人来修吗？\"我接着说：\"维修人员什么时候能来？\"使用未暂存改动时，我向 Maria 请教。我把已跟踪文件和我的笔记做了比较。我重置分支，Priya 在旁边看结果。我花了十分钟丢弃改动。在团队的帮助下，问题变小了。",
    "hard": [
     {
      "w": "unstaged change",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. When I restore a file, I follow the guide. Priya and I look for a detail in the force push. After lunch, I check the untracked file again. Before the meeting, I review the clean state one more time. Priya starts with \"The problem is getting worse.\" and I continue with \"It's working again now.\" I revert the commit and make a clean one. The history is safe.",
-   "tts": "Before I leave, I review what I did today. When I restore a file, I follow the guide. Priya and I look for a detail in the force push. After lunch, I check the untracked file again. Before the meeting, I review the clean state one more time. Priya starts with \"The problem is getting worse.\" and I continue with \"It's working again now.\" I revert the commit and make a clean one. The history is safe.",
+   "en": "Before I leave, I review what I did today. I restore a file, and Priya watches the result. After lunch, I check the force push again. Before the meeting, I review the untracked file one more time. The team talks about the clean state at the standup. At the table, Maria says, \"The problem is getting worse.\" I think, then answer, \"It's working again now.\" I revert the commit and make a clean one. The history is safe.",
+   "tts": "Before I leave, I review what I did today. I restore a file, and Priya watches the result. After lunch, I check the force push again. Before the meeting, I review the untracked file one more time. The team talks about the clean state at the standup. At the table, Maria says, \"The problem is getting worse.\" I think, then answer, \"It's working again now.\" I revert the commit and make a clean one. The history is safe.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。我恢复文件时，按照指南操作。Priya 和我在强制推送里找一个细节。午饭后，我又检查了一遍未跟踪文件。开会前，我又复习了一遍干净状态。Priya先说了\"问题越来越严重。\"我接着说：\"现在又能用了。\"我还原了那次提交，重新做了一个干净的提交。历史是安全的。",
+   "zh": "离开前，我回顾了今天做的事。我恢复文件，Priya 在旁边看结果。午饭后，我又检查了一遍强制推送。开会前，我又复习了一遍未跟踪文件。团队在站会上讨论了干净状态。桌边，Maria说：\"问题越来越严重。\"我想了想，回答：\"现在又能用了。\"我还原了那次提交，重新做了一个干净的提交。历史是安全的。",
    "hard": [
     {
      "w": "untracked file",

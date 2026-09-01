@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 313,
+   "word_count": 288,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We draw where prompts and answers travel. Priya suggests a simpler way to handle the model sprawl audit, and I write it down. I summarize what we decided about the prompt debt register while the details are still fresh. The guide now includes a section on the internal ai platform, with examples and pitfalls. In today's standup, I give a quick update on the model gateway and what blocked me. Priya checks in with, \"The screen free saturday.\" so I explain, \"Paper map adventure.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "We draw where prompts and answers travel. Priya suggests a simpler way to handle the model sprawl audit, and I write it down. I summarize what we decided about the prompt debt register while the details are still fresh. The guide now includes a section on the internal ai platform, with examples and pitfalls. In today's standup, I give a quick update on the model gateway and what blocked me. Priya checks in with, \"The screen free saturday.\" so I explain, \"Paper map adventure.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
+   "en": "We draw where prompts and answers travel. Priya suggests a cleaner way to think about the model sprawl audit. While the details are fresh, I write down the prompt debt register. The guide now has a short section on the internal ai platform. I compare my notes about the model gateway with Priya's. Pair run: Priya starts, \"The screen free saturday.\" I follow, \"Paper map adventure.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We draw where prompts and answers travel. Priya suggests a cleaner way to think about the model sprawl audit. While the details are fresh, I write down the prompt debt register. The guide now has a short section on the internal ai platform. I compare my notes about the model gateway with Priya's. Pair run: Priya starts, \"The screen free saturday.\" I follow, \"Paper map adventure.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们画出提示与答案的旅行路线。Priya 提出了一个更简单的模型蔓延审计处理办法，我把它记了下来。趁细节还新鲜，我总结了关于提示债清单的决定。指南里现在有关于内部 AI 平台的章节，附有示例和坑点。在今天的站会上，我快速汇报了模型网关的进展和卡住我的地方。Priya关心地问：\"无屏幕星期六。\"于是我不慌不忙地解释：\"纸质地图探险。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我们画出提示与答案的旅行路线。Priya 提出了一个更清晰的模型蔓延审计思考方式。趁细节还新鲜，我把提示债清单写了下来。指南里现在有关于内部 AI 平台的简短章节。我把关于模型网关的笔记和 Priya 的对照了一下。结对演练：Priya起头：\"无屏幕星期六。\"我跟上：\"纸质地图探险。\"Priya回应：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "model sprawl audit",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Secrets never leave the building; vendor retention gets negotiated to zero. In the morning meeting, Leo says, \"Camera only, no apps.\" and I respond, \"Boredom, the rare export.\" The guide now includes a section on the shadow ai usage review, with examples and pitfalls. In today's standup, I give a quick update on the orphan eval set cleanup and what blocked me. We agree that the usage dashboards per team needs one more careful look before we commit. I link the key rotation automation to the ticket so nothing important ever gets lost again. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Secrets never leave the building; vendor retention gets negotiated to zero. In the morning meeting, Leo says, \"Camera only, no apps.\" and I respond, \"Boredom, the rare export.\" The guide now includes a section on the shadow ai usage review, with examples and pitfalls. In today's standup, I give a quick update on the orphan eval set cleanup and what blocked me. We agree that the usage dashboards per team needs one more careful look before we commit. I link the key rotation automation to the ticket so nothing important ever gets lost again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Secrets never leave the building; vendor retention gets negotiated to zero. Meeting rehearsal: Priya opens, \"Camera only, no apps.\" I respond, \"Boredom, the rare export.\" and Priya confirms, \"Good point — use it in the standup.\" While the details are fresh, I write down the shadow ai usage review. The guide now has a short section on the orphan eval set cleanup. I compare my notes about the usage dashboards per team with Priya's. At the review, we spend ten minutes on the key rotation automation. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Secrets never leave the building; vendor retention gets negotiated to zero. Meeting rehearsal: Priya opens, \"Camera only, no apps.\" I respond, \"Boredom, the rare export.\" and Priya confirms, \"Good point — use it in the standup.\" While the details are fresh, I write down the shadow ai usage review. The guide now has a short section on the orphan eval set cleanup. I compare my notes about the usage dashboards per team with Priya's. At the review, we spend ten minutes on the key rotation automation. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "机密不出大楼；供应商留存被谈到零。晨会上，Leo说：\"只开相机\"我回应：\"无聊\"指南里现在有关于影子 AI 使用盘点的章节，附有示例和坑点。在今天的站会上，我快速汇报了孤儿评测集清理的进展和卡住我的地方。我们一致认为，在动手之前分团队用量看板还需要再仔细看一次。我把密钥轮换自动化关联到工单上，这样重要的事情不会再被遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "机密不出大楼；供应商留存被谈到零。会议彩排：Priya开场：\"只开相机\"我回应：\"无聊\"Priya确认道：\"说得好——站会上就用它。\"趁细节还新鲜，我把影子 AI 使用盘点写了下来。指南里现在有关于孤儿评测集清理的简短章节。我把关于分团队用量看板的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在密钥轮换自动化上。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "shadow ai usage review",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a simpler way to handle the rate limit guidance, and I write it down. I summarize what we decided about the central eval harness while the details are still fresh. The guide now includes a section on the integration surface inventory, with examples and pitfalls. In today's standup, I give a quick update on the ai cost per feature and what blocked me. Priya checks in with, \"Monday inbox, tamed.\" so I explain, \"Battery at ninety by sunday.\" without rushing. A boundary you can draw is a boundary you can keep.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a simpler way to handle the rate limit guidance, and I write it down. I summarize what we decided about the central eval harness while the details are still fresh. The guide now includes a section on the integration surface inventory, with examples and pitfalls. In today's standup, I give a quick update on the ai cost per feature and what blocked me. Priya checks in with, \"Monday inbox, tamed.\" so I explain, \"Battery at ninety by sunday.\" without rushing. A boundary you can draw is a boundary you can keep.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the rate limit guidance to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the central eval harness. While the details are fresh, I write down the integration surface inventory. The guide now has a short section on the ai cost per feature. Drill without notes: Maria asks, \"Monday inbox, tamed.\" I answer, \"Battery at ninety by sunday.\" and Maria closes, \"Exactly, and it saves time too.\" A boundary you can draw is a boundary you can keep.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the rate limit guidance to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the central eval harness. While the details are fresh, I write down the integration surface inventory. The guide now has a short section on the ai cost per feature. Drill without notes: Maria asks, \"Monday inbox, tamed.\" I answer, \"Battery at ninety by sunday.\" and Maria closes, \"Exactly, and it saves time too.\" A boundary you can draw is a boundary you can keep.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更简单的限流使用指南处理办法，我把它记了下来。趁细节还新鲜，我总结了关于集中评测框架的决定。指南里现在有关于集成面清单的章节，附有示例和坑点。在今天的站会上，我快速汇报了功能级 AI 成本的进展和卡住我的地方。Priya关心地问：\"周一收件箱\"于是我不慌不忙地解释：\"周日电量还剩九成。\"画得出来的边界，才守得住。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把限流使用指南关联到工单上，免得遗漏。Priya 提出了一个更清晰的集中评测框架思考方式。趁细节还新鲜，我把集成面清单写了下来。指南里现在有关于功能级 AI 成本的简短章节。脱稿演练：Maria问：\"周一收件箱\"我回答：\"周日电量还剩九成。\"Maria收束：\"正是，而且还省时间。\"画得出来的边界，才守得住。",
    "hard": [
     {
      "w": "integration surface inventory",

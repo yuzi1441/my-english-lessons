@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 275,
+   "word_count": 283,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria draws the error budget on the whiteboard. I keep a growing list of the chaos experiment on my desk for later. My notes about the steady state are getting sharper every single week. I asked Leo how he handles the release engineering when the week gets heavy. The artifact promotion shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"My mug picks the mood.\" I reply, \"The same seat every morning.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Maria draws the error budget on the whiteboard. I keep a growing list of the chaos experiment on my desk for later. My notes about the steady state are getting sharper every single week. I asked Leo how he handles the release engineering when the week gets heavy. The artifact promotion shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"My mug picks the mood.\" I reply, \"The same seat every morning.\" I end the day with fewer unknowns than I started with.",
+   "en": "Maria draws the error budget on the whiteboard. My notes about the chaos experiment look clearer this week. I spend ten quiet minutes on the steady state after the standup. Sam asks me about the release engineering, and I explain the basics. I keep one real example of the artifact promotion in my notebook. We practise the dialogue: Priya opens, \"My mug picks the mood.\" I answer, \"The same seat every morning.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "Maria draws the error budget on the whiteboard. My notes about the chaos experiment look clearer this week. I spend ten quiet minutes on the steady state after the standup. Sam asks me about the release engineering, and I explain the basics. I keep one real example of the artifact promotion in my notebook. We practise the dialogue: Priya opens, \"My mug picks the mood.\" I answer, \"The same seat every morning.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 在白板上画出了错误预算。我把一份越来越长的混沌实验清单放在桌上，留着以后用。我关于稳态的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理发布工程的。产物晋级出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"我的杯子决定今天的心情。\"我回答：\"每天早上同一个座位。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "Maria 在白板上画出了错误预算。这周我关于混沌实验的笔记清楚多了。站会之后，我安安静静花了十分钟在稳态上。Sam 问起发布工程，我讲了讲基础。我在笔记本里留了一个产物晋级的真实例子。我们练习这段对话：Priya开场：\"我的杯子决定今天的心情。\"我回答：\"每天早上同一个座位。\"Priya点头说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "chaos experiment",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Some weeks we spend it on experiments; some weeks we save it for trust. Leo stops by my desk, asks, \"Rituals anchor the day.\" and I answer, \"I warm the cup first.\" I asked Leo how he handles the blast radius when the week gets heavy. The abort condition shows up in our sprint notes more often than before. I double-check the immutable artifact before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the release inventory so clearly. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Some weeks we spend it on experiments; some weeks we save it for trust. Leo stops by my desk, asks, \"Rituals anchor the day.\" and I answer, \"I warm the cup first.\" I asked Leo how he handles the blast radius when the week gets heavy. The abort condition shows up in our sprint notes more often than before. I double-check the immutable artifact before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the release inventory so clearly. Small progress today prepares the bigger step tomorrow.",
+   "en": "Some weeks we spend it on experiments; some weeks we save it for trust. We drill it twice: Priya starts, \"Rituals anchor the day.\" I reply, \"I warm the cup first.\" then Priya smiles, \"Good — try it in today’s task.\" I spend ten quiet minutes on the blast radius after the standup. Sam asks me about the abort condition, and I explain the basics. I keep one real example of the immutable artifact in my notebook. I add the release inventory to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Some weeks we spend it on experiments; some weeks we save it for trust. We drill it twice: Priya starts, \"Rituals anchor the day.\" I reply, \"I warm the cup first.\" then Priya smiles, \"Good — try it in today’s task.\" I spend ten quiet minutes on the blast radius after the standup. Sam asks me about the abort condition, and I explain the basics. I keep one real example of the immutable artifact in my notebook. I add the release inventory to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "有时我们把它花在实验上；有时我们把它攒成信任。Leo走到我桌边问：\"仪式感锚定一天。\"我回答：\"我先烫杯。\"我问 Leo，当一周变得繁重时他是怎么处理爆炸半径的。中止条件出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍不可变产物，因为答错要付出双倍代价。一位队友拦住我，感谢我把发布清单解释得这么清楚。今天的小进步为明天更大的跨越做准备。",
+   "zh": "有时我们把它花在实验上；有时我们把它攒成信任。我们练了两遍：Priya起头：\"仪式感锚定一天。\"我回答：\"我先烫杯。\"然后Priya笑着说：\"好——今天的任务里就用上。\"站会之后，我安安静静花了十分钟在爆炸半径上。Sam 问起中止条件，我讲了讲基础。我在笔记本里留了一个不可变产物的真实例子。我趁还没忘，把发布清单记进了学习笔记。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "blast radius",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the version pinning on my desk for later. My notes about the traceable build are getting sharper every single week. I asked Leo how he handles the hypothesis card when the week gets heavy. The resilience score shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Slow pours, better days.\" I reply, \"Small ceremonies, big calm.\" Reliability is a spendable resource, not a vibe.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the version pinning on my desk for later. My notes about the traceable build are getting sharper every single week. I asked Leo how he handles the hypothesis card when the week gets heavy. The resilience score shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Slow pours, better days.\" I reply, \"Small ceremonies, big calm.\" Reliability is a spendable resource, not a vibe.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the version pinning in the meeting. My notes about the traceable build look clearer this week. I spend ten quiet minutes on the hypothesis card after the standup. Sam asks me about the resilience score, and I explain the basics. Warm-up round: Maria offers, \"Slow pours, better days.\" I answer, \"Small ceremonies, big calm.\" and Maria wraps up, \"That is the one we need today.\" Reliability is a spendable resource, not a vibe.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the version pinning in the meeting. My notes about the traceable build look clearer this week. I spend ten quiet minutes on the hypothesis card after the standup. Sam asks me about the resilience score, and I explain the basics. Warm-up round: Maria offers, \"Slow pours, better days.\" I answer, \"Small ceremonies, big calm.\" and Maria wraps up, \"That is the one we need today.\" Reliability is a spendable resource, not a vibe.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我把一份越来越长的版本锁定清单放在桌上，留着以后用。我关于可追溯构建的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理假设卡的。韧性得分出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"慢慢倒\"我回答：\"小仪式\"可靠性是可支出的资源，不是一种感觉。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于版本锁定，我问了一个好问题。这周我关于可追溯构建的笔记清楚多了。站会之后，我安安静静花了十分钟在假设卡上。Sam 问起韧性得分，我讲了讲基础。热身一轮：Maria给出：\"慢慢倒\"我回答：\"小仪式\"Maria收尾道：\"今天要的就是这句。\"可靠性是可支出的资源，不是一种感觉。",
    "hard": [
     {
      "w": "hypothesis card",

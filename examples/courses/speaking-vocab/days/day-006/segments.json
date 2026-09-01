@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 154,
+   "word_count": 155,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "After work, I take the bus home and ask about the way. Leo says, \"Turn left.\" and I say, \"Go straight.\" I see debugging. I try to reproduce an error. Maria shows me the issue title. I point to the issue description. Maria helps me a lot.",
-   "tts": "After work, I take the bus home and ask about the way. Leo says, \"Turn left.\" and I say, \"Go straight.\" I see debugging. I try to reproduce an error. Maria shows me the issue title. I point to the issue description. Maria helps me a lot.",
+   "en": "After work, I take the bus home and ask about the way. I hear, \"Turn left.\" then I answer, \"Go straight.\" I point to debugging. I reproduce an error. This is the issue title. I see the issue description. Maria helps me a lot.",
+   "tts": "After work, I take the bus home and ask about the way. I hear, \"Turn left.\" then I answer, \"Go straight.\" I point to debugging. I reproduce an error. This is the issue title. I see the issue description. Maria helps me a lot.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "下班后，我坐公交回家，问了路。Leo说：\"向左转。\"我说：\"一直向前走。\"我看到了调试。我试着复现错误。Maria 给我看了问题单标题。我指着问题单描述。Maria 帮了我很多。",
+   "zh": "下班后，我坐公交回家，问了路。我听到：\"向左转。\"然后我回答：\"一直向前走。\"我指着调试。我复现错误。这是问题单标题。我看到了问题单描述。Maria 帮了我很多。",
    "hard": [
     {
      "w": "debugging",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I do one last thing. I look at the bug report. I close an issue slowly. I see the root cause. I try to fix a bug. I hear, \"Which line should I take?\" then I answer, \"Where should I get off?\" I open an issue for the bug. The team can see it now.",
-   "tts": "Before I leave, I do one last thing. I look at the bug report. I close an issue slowly. I see the root cause. I try to fix a bug. I hear, \"Which line should I take?\" then I answer, \"Where should I get off?\" I open an issue for the bug. The team can see it now.",
+   "en": "Before I leave, I do one last thing. This is the bug report. Now I can close an issue. The root cause is new to me. Maria asks me to fix a bug. Maria smiles and says, \"Which line should I take?\" I answer, \"Where should I get off?\" I open an issue for the bug. The team can see it now.",
+   "tts": "Before I leave, I do one last thing. This is the bug report. Now I can close an issue. The root cause is new to me. Maria asks me to fix a bug. Maria smiles and says, \"Which line should I take?\" I answer, \"Where should I get off?\" I open an issue for the bug. The team can see it now.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。我看着缺陷报告。我慢慢关闭问题单。我看到了根本原因。我试着修复缺陷。我听到：\"我应该坐哪条线路？\"然后我回答：\"我应该在哪里下车？\"我为这个缺陷开了一个问题单。团队现在能看到了。",
+   "zh": "离开前，我做最后一件事。这是缺陷报告。现在我会关闭问题单了。根本原因对我来说很新。Maria 让我修复缺陷。Maria微笑着说：\"我应该坐哪条线路？\"我回答：\"我应该在哪里下车？\"我为这个缺陷开了一个问题单。团队现在能看到了。",
    "hard": [
     {
      "w": "root cause",

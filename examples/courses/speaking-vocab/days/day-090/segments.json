@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 286,
+   "word_count": 290,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day ninety: Maria asks what changed since my first morning. I keep a growing list of the system map on my desk for later. My notes about the onboarding doc are getting sharper every single week. I asked Leo how he handles the quarter retro when the week gets heavy. The shipped list shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Ninety days ago, alerts scared me.\" I reply, \"Now they point me somewhere.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Day ninety: Maria asks what changed since my first morning. I keep a growing list of the system map on my desk for later. My notes about the onboarding doc are getting sharper every single week. I asked Leo how he handles the quarter retro when the week gets heavy. The shipped list shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Ninety days ago, alerts scared me.\" I reply, \"Now they point me somewhere.\" I end the day with fewer unknowns than I started with.",
+   "en": "Day ninety: Maria asks what changed since my first morning. There is a short paragraph about the system map in the guide. I ask one good question about the onboarding doc in the meeting. My notes about the quarter retro look clearer this week. I spend ten quiet minutes on the shipped list after the standup. Role play with feedback: Priya says, \"Ninety days ago, alerts scared me.\" I try, \"Now they point me somewhere.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "Day ninety: Maria asks what changed since my first morning. There is a short paragraph about the system map in the guide. I ask one good question about the onboarding doc in the meeting. My notes about the quarter retro look clearer this week. I spend ten quiet minutes on the shipped list after the standup. Role play with feedback: Priya says, \"Ninety days ago, alerts scared me.\" I try, \"Now they point me somewhere.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第九十天：Maria 问，从第一个早晨到现在，什么改变了。我把一份越来越长的系统地图清单放在桌上，留着以后用。我关于入职文档的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理季度复盘的。已发布清单出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"九十天前\"我回答：\"现在它们给我指路。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "第九十天：Maria 问，从第一个早晨到现在，什么改变了。指南里有一小段关于系统地图的介绍。会上关于入职文档，我问了一个好问题。这周我关于季度复盘的笔记清楚多了。站会之后，我安安静静花了十分钟在已发布清单上。角色扮演加反馈：Priya说：\"九十天前\"我试着说：\"现在它们给我指路。\"Priya补充道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "system map",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I say, \"I used to fear alerts. Now I read them like a map.\" Leo stops by my desk, asks, \"I keep a win jar.\" and I answer, \"Confidence compounds quietly.\" I asked Leo how he handles the team playbook when the week gets heavy. The architecture review shows up in our sprint notes more often than before. I double-check the incident summary before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the metrics movement so clearly. Small progress today prepares the bigger step tomorrow.",
-   "tts": "I say, \"I used to fear alerts. Now I read them like a map.\" Leo stops by my desk, asks, \"I keep a win jar.\" and I answer, \"Confidence compounds quietly.\" I asked Leo how he handles the team playbook when the week gets heavy. The architecture review shows up in our sprint notes more often than before. I double-check the incident summary before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the metrics movement so clearly. Small progress today prepares the bigger step tomorrow.",
+   "en": "I say, \"I used to fear alerts. Now I read them like a map.\" Warm-up round: Priya offers, \"I keep a win jar.\" I answer, \"Confidence compounds quietly.\" and Priya wraps up, \"Good — try it in today’s task.\" I ask one good question about the team playbook in the meeting. My notes about the architecture review look clearer this week. I spend ten quiet minutes on the incident summary after the standup. Sam asks me about the metrics movement, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "tts": "I say, \"I used to fear alerts. Now I read them like a map.\" Warm-up round: Priya offers, \"I keep a win jar.\" I answer, \"Confidence compounds quietly.\" and Priya wraps up, \"Good — try it in today’s task.\" I ask one good question about the team playbook in the meeting. My notes about the architecture review look clearer this week. I spend ten quiet minutes on the incident summary after the standup. Sam asks me about the metrics movement, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我说：“以前我害怕告警，现在我像看地图一样读它们。”Leo走到我桌边问：\"我存了一个成就罐。\"我回答：\"信心在悄悄复利。\"我问 Leo，当一周变得繁重时他是怎么处理团队手册的。架构评审出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍事故摘要，因为答错要付出双倍代价。一位队友拦住我，感谢我把指标变化解释得这么清楚。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我说：“以前我害怕告警，现在我像看地图一样读它们。”热身一轮：Priya给出：\"我存了一个成就罐。\"我回答：\"信心在悄悄复利。\"Priya收尾道：\"好——今天的任务里就用上。\"会上关于团队手册，我问了一个好问题。这周我关于架构评审的笔记清楚多了。站会之后，我安安静静花了十分钟在事故摘要上。Sam 问起指标变化，我讲了讲基础。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "team playbook",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the next quarter bets on my desk for later. My notes about the thank-you wall are getting sharper every single week. I asked Leo how he handles the design doc when the week gets heavy. The decision log shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Next quarter, deeper water.\" I reply, \"The ladder goes up.\" The release train left; I am still on it, and I am not the same passenger.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the next quarter bets on my desk for later. My notes about the thank-you wall are getting sharper every single week. I asked Leo how he handles the design doc when the week gets heavy. The decision log shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Next quarter, deeper water.\" I reply, \"The ladder goes up.\" The release train left; I am still on it, and I am not the same passenger.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the next quarter bets one more time before lunch. There is a short paragraph about the thank-you wall in the guide. I ask one good question about the design doc in the meeting. My notes about the decision log look clearer this week. We drill it twice: Maria starts, \"Next quarter, deeper water.\" I reply, \"The ladder goes up.\" then Maria smiles, \"That is the one we need today.\" The release train left; I am still on it, and I am not the same passenger.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the next quarter bets one more time before lunch. There is a short paragraph about the thank-you wall in the guide. I ask one good question about the design doc in the meeting. My notes about the decision log look clearer this week. We drill it twice: Maria starts, \"Next quarter, deeper water.\" I reply, \"The ladder goes up.\" then Maria smiles, \"That is the one we need today.\" The release train left; I am still on it, and I am not the same passenger.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我把一份越来越长的下季押注清单放在桌上，留着以后用。我关于感谢墙的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理设计文档的。决策日志出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"下个季度\"我回答：\"梯子是向上的。\"发布列车开走了；我还在车上，但我已不是当初那位乘客。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍下季押注。指南里有一小段关于感谢墙的介绍。会上关于设计文档，我问了一个好问题。这周我关于决策日志的笔记清楚多了。我们练了两遍：Maria起头：\"下个季度\"我回答：\"梯子是向上的。\"然后Maria笑着说：\"今天要的就是这句。\"发布列车开走了；我还在车上，但我已不是当初那位乘客。",
    "hard": [
     {
      "w": "design doc",

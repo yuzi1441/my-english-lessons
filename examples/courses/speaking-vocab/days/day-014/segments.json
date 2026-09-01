@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 204,
+   "word_count": 199,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We eat at a new restaurant. I ask about the menu. During our chat, Maria says, \"I'm allergic to peanuts.\" I answer, \"Is this dish spicy?\" I ask one question about the API. Leo tells me a story about the endpoint. Today I convert to draft for the first time. I learn about the review status because it is useful. I understand a little more than yesterday.",
-   "tts": "We eat at a new restaurant. I ask about the menu. During our chat, Maria says, \"I'm allergic to peanuts.\" I answer, \"Is this dish spicy?\" I ask one question about the A P I. Leo tells me a story about the endpoint. Today I convert to draft for the first time. I learn about the review status because it is useful. I understand a little more than yesterday.",
+   "en": "We eat at a new restaurant. I ask about the menu. Leo says, \"I'm allergic to peanuts.\" so I answer, \"Is this dish spicy?\" I learn about the API because it is useful. Now I understand the endpoint. I convert to draft carefully. I ask one question about the review status. I understand a little more than yesterday.",
+   "tts": "We eat at a new restaurant. I ask about the menu. Leo says, \"I'm allergic to peanuts.\" so I answer, \"Is this dish spicy?\" I learn about the A P I because it is useful. Now I understand the endpoint. I convert to draft carefully. I ask one question about the review status. I understand a little more than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们去了一家新餐厅。我询问了菜单。聊天时，Maria说：\"我对花生过敏。\"我回答：\"这道菜辣吗？\"我问了一个关于应用程序接口的问题。Leo 给我讲了一个关于接口端点的小故事。今天我第一次转换为草稿。我学习评审状态，因为它很有用。我比昨天多懂了一点。",
+   "zh": "我们去了一家新餐厅。我询问了菜单。Leo说：\"我对花生过敏。\"于是我回答：\"这道菜辣吗？\"我学习应用程序接口，因为它很有用。现在我理解了接口端点。我认真地转换为草稿。我问了一个关于评审状态的问题。我比昨天多懂了一点。",
    "hard": [
     {
      "w": "API",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. Now I understand the base branch. I write a short note about the compare branch. Leo shows me how to send a request. I receive a response one small step at a time. Leo says, \"Could you pack this to go?\" so I answer, \"Everything was delicious.\" I open a draft pull request. The team can watch it grow.",
-   "tts": "Before I leave, I finish one last task. Now I understand the base branch. I write a short note about the compare branch. Leo shows me how to send a request. I receive a response one small step at a time. Leo says, \"Could you pack this to go?\" so I answer, \"Everything was delicious.\" I open a draft pull request. The team can watch it grow.",
+   "en": "Before I leave, I finish one last task. I write a short note about the base branch. I ask one question about the compare branch. I send a request one small step at a time. Today I receive a response for the first time. First Priya says, \"Could you pack this to go?\" then I reply, \"Everything was delicious.\" I open a draft pull request. The team can watch it grow.",
+   "tts": "Before I leave, I finish one last task. I write a short note about the base branch. I ask one question about the compare branch. I send a request one small step at a time. Today I receive a response for the first time. First Priya says, \"Could you pack this to go?\" then I reply, \"Everything was delicious.\" I open a draft pull request. The team can watch it grow.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。现在我理解了基础分支。我给比较分支写了一条简短的笔记。Leo 教我怎样发送请求。我一步一步地接收响应。Leo说：\"可以把这个打包吗？\"于是我回答：\"所有菜都很好吃。\"我开了一个草稿拉取请求。团队可以看着它慢慢成形。",
+   "zh": "离开前，我完成最后一项任务。我给基础分支写了一条简短的笔记。我问了一个关于比较分支的问题。我一步一步地发送请求。今天我第一次接收响应。先是Priya说：\"可以把这个打包吗？\"然后我回答：\"所有菜都很好吃。\"我开了一个草稿拉取请求。团队可以看着它慢慢成形。",
    "hard": [
     {
      "w": "send a request",

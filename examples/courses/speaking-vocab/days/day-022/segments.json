@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 234,
+   "word_count": 227,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My package is late. I call customer service. Priya checks with me, \"Could you check the status?\" I answer clearly, \"The problem started yesterday.\" If the error type fails, we need a clear plan. I suggest that we check the line number first. The result depends on the expected behavior, so I check it twice. I explain the actual behavior to a new teammate. The day ends with a clear plan for tomorrow.",
-   "tts": "My package is late. I call customer service. Priya checks with me, \"Could you check the status?\" I answer clearly, \"The problem started yesterday.\" If the error type fails, we need a clear plan. I suggest that we check the line number first. The result depends on the expected behavior, so I check it twice. I explain the actual behavior to a new teammate. The day ends with a clear plan for tomorrow.",
+   "en": "My package is late. I call customer service. Before we part, Leo says, \"Could you check the status?\" I answer, \"The problem started yesterday.\" I suggest that we check the error type first. The result depends on the line number, so I check it twice. I explain the expected behavior to a new teammate. We discuss the risk around the actual behavior. The day ends with a clear plan for tomorrow.",
+   "tts": "My package is late. I call customer service. Before we part, Leo says, \"Could you check the status?\" I answer, \"The problem started yesterday.\" I suggest that we check the error type first. The result depends on the line number, so I check it twice. I explain the expected behavior to a new teammate. We discuss the risk around the actual behavior. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我的包裹迟到了。我打了客服电话。Priya向我确认：\"你可以查询一下状态吗？\"我清楚地回答：\"问题从昨天开始。\"如果错误类型失败，我们需要一个清晰的方案。我建议我们先检查行号。结果取决于预期行为，所以我检查了两遍。我向一位新队友解释了实际行为。这一天以一份清晰的明日计划结束。",
+   "zh": "我的包裹迟到了。我打了客服电话。分开前，Leo说：\"你可以查询一下状态吗？\"我回答：\"问题从昨天开始。\"我建议我们先检查错误类型。结果取决于行号，所以我检查了两遍。我向一位新队友解释了预期行为。我们讨论了实际行为相关的风险。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "error type",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. We discuss the risk around the minimal example. I document the environment details so the team can review it later. I catch an exception and then explain the risk. We decide to handle an error after the review. At the end of the day, Maria says, \"I've already tried that.\" I reply, \"What should I do next?\" I write the steps to reproduce. Now the team can see the bug.",
-   "tts": "Before I leave, I write a short summary for the team. We discuss the risk around the minimal example. I document the environment details so the team can review it later. I catch an exception and then explain the risk. We decide to handle an error after the review. At the end of the day, Maria says, \"I've already tried that.\" I reply, \"What should I do next?\" I write the steps to reproduce. Now the team can see the bug.",
+   "en": "Before I leave, I write a short summary for the team. I explain the minimal example to a new teammate. We discuss the risk around the environment details. I catch an exception while the others watch the dashboard. I handle an error and then explain the risk. Priya checks with me, \"I've already tried that.\" I answer clearly, \"What should I do next?\" I write the steps to reproduce. Now the team can see the bug.",
+   "tts": "Before I leave, I write a short summary for the team. I explain the minimal example to a new teammate. We discuss the risk around the environment details. I catch an exception while the others watch the dashboard. I handle an error and then explain the risk. Priya checks with me, \"I've already tried that.\" I answer clearly, \"What should I do next?\" I write the steps to reproduce. Now the team can see the bug.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我们讨论了最小示例相关的风险。我把环境详情写成文档，方便团队之后查看。我捕获异常，然后解释了风险。评审之后，我们决定处理错误。一天结束时，Maria说：\"我已经试过那个方法了。\"我回答：\"我下一步应该怎么做？\"我写下了复现步骤。现在团队能看到这个缺陷了。",
+   "zh": "离开前，我给团队写了一份简短的总结。我向一位新队友解释了最小示例。我们讨论了环境详情相关的风险。我捕获异常，其他队友盯着仪表盘。我处理错误，然后解释了风险。Priya向我确认：\"我已经试过那个方法了。\"我清楚地回答：\"我下一步应该怎么做？\"我写下了复现步骤。现在团队能看到这个缺陷了。",
    "hard": [
     {
      "w": "catch an exception",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 307,
+   "word_count": 290,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Auto transcription joins our meetings, with consent flags. The guide now includes a section on the test generation draft, with examples and pitfalls. In today's standup, I give a quick update on the edge case suggestion and what blocked me. We agree that the burndown forecast assist needs one more careful look before we commit. I link the capacity planning suggestion to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"The autocomplete ghostwriter.\" and I respond, \"My voice versus its voice.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Auto transcription joins our meetings, with consent flags. The guide now includes a section on the test generation draft, with examples and pitfalls. In today's standup, I give a quick update on the edge case suggestion and what blocked me. We agree that the burndown forecast assist needs one more careful look before we commit. I link the capacity planning suggestion to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"The autocomplete ghostwriter.\" and I respond, \"My voice versus its voice.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Auto transcription joins our meetings, with consent flags. At the review, we spend ten minutes on the test generation draft. In today's standup, I mention the edge case suggestion and what comes next. We agree to give the burndown forecast assist one more careful look this week. I connect the capacity planning suggestion to the ticket so nothing gets lost. Pair run: Leo starts, \"The autocomplete ghostwriter.\" I follow, \"My voice versus its voice.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Auto transcription joins our meetings, with consent flags. At the review, we spend ten minutes on the test generation draft. In today's standup, I mention the edge case suggestion and what comes next. We agree to give the burndown forecast assist one more careful look this week. I connect the capacity planning suggestion to the ticket so nothing gets lost. Pair run: Leo starts, \"The autocomplete ghostwriter.\" I follow, \"My voice versus its voice.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "自动转写进了我们的会议，带同意标记。指南里现在有关于测试生成草稿的章节，附有示例和坑点。在今天的站会上，我快速汇报了边界用例建议的进展和卡住我的地方。我们一致认为，在动手之前燃尽预测辅助还需要再仔细看一次。我把容量规划建议关联到工单上，这样重要的事情不会再被遗漏。晨会上，Leo说：\"自动补全的幽灵写手。\"我回应：\"我的声音\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "自动转写进了我们的会议，带同意标记。评审时，我们花了十分钟在测试生成草稿上。今天的站会上，我提到边界用例建议和接下来的安排。我们说好这周再把燃尽预测辅助仔细看一次。我把容量规划建议关联到工单上，免得遗漏。结对演练：Leo起头：\"自动补全的幽灵写手。\"我跟上：\"我的声音\"Leo回应：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "test generation draft",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Sensitive opt-outs respected; the archive searchable; names double-checked. Over coffee, Maria mentions, \"The em dash betrayal.\" and I add, \"First drafts stay human.\" with an example. We agree that the fuzz input generation needs one more careful look before we commit. I link the flaky root cause hint to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the milestone risk flag, and I write it down. I summarize what we decided about the scope creep detector while the details are still fresh. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Sensitive opt-outs respected; the archive searchable; names double-checked. Over coffee, Maria mentions, \"The em dash betrayal.\" and I add, \"First drafts stay human.\" with an example. We agree that the fuzz input generation needs one more careful look before we commit. I link the flaky root cause hint to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the milestone risk flag, and I write it down. I summarize what we decided about the scope creep detector while the details are still fresh. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Sensitive opt-outs respected; the archive searchable; names double-checked. Meeting rehearsal: Leo opens, \"The em dash betrayal.\" I respond, \"First drafts stay human.\" and Leo confirms, \"Keep practising, it is working.\" In today's standup, I mention the fuzz input generation and what comes next. We agree to give the flaky root cause hint one more careful look this week. I connect the milestone risk flag to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the scope creep detector. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Sensitive opt-outs respected; the archive searchable; names double-checked. Meeting rehearsal: Leo opens, \"The em dash betrayal.\" I respond, \"First drafts stay human.\" and Leo confirms, \"Keep practising, it is working.\" In today's standup, I mention the fuzz input generation and what comes next. We agree to give the flaky root cause hint one more careful look this week. I connect the milestone risk flag to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the scope creep detector. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "敏感会议可退出；存档可检索；名字人工复核。喝咖啡时，Maria提到：\"破折号出卖了我。\"我补充了\"初稿保持人味。\"，还带了个例子。我们一致认为，在动手之前模糊输入生成还需要再仔细看一次。我把抖动根因提示关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的里程碑风险旗标处理办法，我把它记了下来。趁细节还新鲜，我总结了关于范围蔓延检测器的决定。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "敏感会议可退出；存档可检索；名字人工复核。会议彩排：Leo开场：\"破折号出卖了我。\"我回应：\"初稿保持人味。\"Leo确认道：\"继续练，有效果了。\"今天的站会上，我提到模糊输入生成和接下来的安排。我们说好这周再把抖动根因提示仔细看一次。我把里程碑风险旗标关联到工单上，免得遗漏。Priya 提出了一个更清晰的范围蔓延检测器思考方式。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "fuzz input generation",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now includes a section on the retrospective topic mining, with examples and pitfalls. In today's standup, I give a quick update on the sprint report autogen and what blocked me. We agree that the assertion gap finder needs one more careful look before we commit. I link the regression suspect ranking to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"Fact check the confident.\" and I respond, \"Tools polish, authors feel.\" The machine takes minutes; humans take responsibility.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now includes a section on the retrospective topic mining, with examples and pitfalls. In today's standup, I give a quick update on the sprint report autogen and what blocked me. We agree that the assertion gap finder needs one more careful look before we commit. I link the regression suspect ranking to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"Fact check the confident.\" and I respond, \"Tools polish, authors feel.\" The machine takes minutes; humans take responsibility.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the retrospective topic mining with Priya's. At the review, we spend ten minutes on the sprint report autogen. In today's standup, I mention the assertion gap finder and what comes next. We agree to give the regression suspect ranking one more careful look this week. Drill without notes: Priya asks, \"Fact check the confident.\" I answer, \"Tools polish, authors feel.\" and Priya closes, \"Good point — use it in the standup.\" The machine takes minutes; humans take responsibility.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the retrospective topic mining with Priya's. At the review, we spend ten minutes on the sprint report autogen. In today's standup, I mention the assertion gap finder and what comes next. We agree to give the regression suspect ranking one more careful look this week. Drill without notes: Priya asks, \"Fact check the confident.\" I answer, \"Tools polish, authors feel.\" and Priya closes, \"Good point — use it in the standup.\" The machine takes minutes; humans take responsibility.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于复盘话题挖掘的章节，附有示例和坑点。在今天的站会上，我快速汇报了迭代报告自动生成的进展和卡住我的地方。我们一致认为，在动手之前断言缺口发现器还需要再仔细看一次。我把回归嫌疑排序关联到工单上，这样重要的事情不会再被遗漏。晨会上，Leo说：\"核实那些自信的。\"我回应：\"工具抛光\"机器记纪要，人类负责任。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于复盘话题挖掘的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在迭代报告自动生成上。今天的站会上，我提到断言缺口发现器和接下来的安排。我们说好这周再把回归嫌疑排序仔细看一次。脱稿演练：Priya问：\"核实那些自信的。\"我回答：\"工具抛光\"Priya收束：\"说得好——站会上就用它。\"机器记纪要，人类负责任。",
    "hard": [
     {
      "w": "assertion gap finder",

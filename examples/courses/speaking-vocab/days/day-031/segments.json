@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 228,
+   "word_count": 232,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. Priya checks with me, \"I need my morning coffee.\" I answer clearly, \"Have a good one!\" I explain the undo to a new teammate. We discuss the risk around the redo. I document the staged file so the team can review it later. If the staging area fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
-   "tts": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. Priya checks with me, \"I need my morning coffee.\" I answer clearly, \"Have a good one!\" I explain the undo to a new teammate. We discuss the risk around the redo. I document the staged file so the team can review it later. If the staging area fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
+   "en": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. At the end of the day, Maria says, \"I need my morning coffee.\" I reply, \"Have a good one!\" If the undo fails, we need a clear plan. I suggest that we check the redo first. The result depends on the staged file, so I check it twice. I explain the staging area to a new teammate. The day ends with a clear plan for tomorrow.",
+   "tts": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. At the end of the day, Maria says, \"I need my morning coffee.\" I reply, \"Have a good one!\" If the undo fails, we need a clear plan. I suggest that we check the redo first. The result depends on the staged file, so I check it twice. I explain the staging area to a new teammate. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "喝咖啡时，Leo 说：“多记笔记，尽早提问。”我把这句话记了下来。Priya向我确认：\"我需要一杯早咖啡。\"我清楚地回答：\"祝你今天顺利！\"我向一位新队友解释了撤销。我们讨论了重做相关的风险。我把已暂存文件写成文档，方便团队之后查看。如果暂存区失败，我们需要一个清晰的方案。这一天以一份清晰的明日计划结束。",
+   "zh": "喝咖啡时，Leo 说：“多记笔记，尽早提问。”我把这句话记了下来。一天结束时，Maria说：\"我需要一杯早咖啡。\"我回答：\"祝你今天顺利！\"如果撤销失败，我们需要一个清晰的方案。我建议我们先检查重做。结果取决于已暂存文件，所以我检查了两遍。我向一位新队友解释了暂存区。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "undo",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. We decide to unstage a file after the review. If we check status, the result should be safe. I explain the keyboard shortcut to a new teammate. We discuss the risk around the auto indent. At the end of the day, Maria says, \"See you at the standup.\" I reply, \"Take your time.\" The assignment feels big, but my plan is small steps.",
-   "tts": "Before I leave, I write a short summary for the team. We decide to unstage a file after the review. If we check status, the result should be safe. I explain the keyboard shortcut to a new teammate. We discuss the risk around the auto indent. At the end of the day, Maria says, \"See you at the standup.\" I reply, \"Take your time.\" The assignment feels big, but my plan is small steps.",
+   "en": "Before I leave, I write a short summary for the team. If we unstage a file, the result should be safe. I check status, and I record the reason. We discuss the risk around the keyboard shortcut. I document the auto indent so the team can review it later. Before we part, Leo says, \"See you at the standup.\" I answer, \"Take your time.\" The assignment feels big, but my plan is small steps.",
+   "tts": "Before I leave, I write a short summary for the team. If we unstage a file, the result should be safe. I check status, and I record the reason. We discuss the risk around the keyboard shortcut. I document the auto indent so the team can review it later. Before we part, Leo says, \"See you at the standup.\" I answer, \"Take your time.\" The assignment feels big, but my plan is small steps.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。评审之后，我们决定取消暂存。如果我们查看状态，结果应该是安全的。我向一位新队友解释了快捷键。我们讨论了自动缩进相关的风险。一天结束时，Maria说：\"站会上见。\"我回答：\"不着急\"任务感觉很大，但我的计划是一小步一小步来。",
+   "zh": "离开前，我给团队写了一份简短的总结。如果我们取消暂存，结果应该是安全的。我查看状态，并记录了原因。我们讨论了快捷键相关的风险。我把自动缩进写成文档，方便团队之后查看。分开前，Leo说：\"站会上见。\"我回答：\"不着急\"任务感觉很大，但我的计划是一小步一小步来。",
    "hard": [
     {
      "w": "keyboard shortcut",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 277,
+   "word_count": 267,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Users see an old draft count after editing. I asked Leo how he handles the cache strategy when the week gets heavy. The expiration time shows up in our sprint notes more often than before. I double-check the lock file before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the semver range so clearly. Leo stops by my desk, asks, \"I have a trip coming up.\" and I answer, \"I'll work from the hotel.\" The task moves forward, and so does my confidence.",
-   "tts": "Users see an old draft count after editing. I asked Leo how he handles the cache strategy when the week gets heavy. The expiration time shows up in our sprint notes more often than before. I double-check the lock file before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the semver range so clearly. Leo stops by my desk, asks, \"I have a trip coming up.\" and I answer, \"I'll work from the hotel.\" The task moves forward, and so does my confidence.",
+   "en": "Users see an old draft count after editing. There is a short paragraph about the cache strategy in the guide. I ask one good question about the expiration time in the meeting. My notes about the lock file look clearer this week. I spend ten quiet minutes on the semver range after the standup. Role play with feedback: Leo says, \"I have a trip coming up.\" I try, \"I'll work from the hotel.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "Users see an old draft count after editing. There is a short paragraph about the cache strategy in the guide. I ask one good question about the expiration time in the meeting. My notes about the lock file look clearer this week. I spend ten quiet minutes on the semver range after the standup. Role play with feedback: Leo says, \"I have a trip coming up.\" I try, \"I'll work from the hotel.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "用户编辑后看到的草稿数是旧的。我问 Leo，当一周变得繁重时他是怎么处理缓存策略的。过期时间出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍锁定文件，因为答错要付出双倍代价。一位队友拦住我，感谢我把语义化版本范围解释得这么清楚。Leo走到我桌边问：\"我最近有一次旅行。\"我回答：\"我会在酒店远程办公。\"任务在推进，我的信心也在成长。",
+   "zh": "用户编辑后看到的草稿数是旧的。指南里有一小段关于缓存策略的介绍。会上关于过期时间，我问了一个好问题。这周我关于锁定文件的笔记清楚多了。站会之后，我安安静静花了十分钟在语义化版本范围上。角色扮演加反馈：Leo说：\"我最近有一次旅行。\"我试着说：\"我会在酒店远程办公。\"Leo补充道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "cache strategy",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My cache strategy forgot an expiration time. Maria greets me warmly with, \"The time difference is brutal.\" and I answer, \"I'll pack light.\" I double-check the stale data before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the cache warming so clearly. I keep a growing list of the dependency audit on my desk for later. My notes about the transitive dependency are getting sharper every single week. I end the day with fewer unknowns than I started with.",
-   "tts": "My cache strategy forgot an expiration time. Maria greets me warmly with, \"The time difference is brutal.\" and I answer, \"I'll pack light.\" I double-check the stale data before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the cache warming so clearly. I keep a growing list of the dependency audit on my desk for later. My notes about the transitive dependency are getting sharper every single week. I end the day with fewer unknowns than I started with.",
+   "en": "My cache strategy forgot an expiration time. Warm-up round: Leo offers, \"The time difference is brutal.\" I answer, \"I'll pack light.\" and Leo wraps up, \"Nice, keep that one handy.\" I ask one good question about the stale data in the meeting. My notes about the cache warming look clearer this week. I spend ten quiet minutes on the dependency audit after the standup. Sam asks me about the transitive dependency, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "tts": "My cache strategy forgot an expiration time. Warm-up round: Leo offers, \"The time difference is brutal.\" I answer, \"I'll pack light.\" and Leo wraps up, \"Nice, keep that one handy.\" I ask one good question about the stale data in the meeting. My notes about the cache warming look clearer this week. I spend ten quiet minutes on the dependency audit after the standup. Sam asks me about the transitive dependency, and I explain the basics. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我的缓存策略忘了设过期时间。Maria热情地用\"时差很折磨人。\"和我打招呼，我回答：\"我会轻装出行。\"回复之前我再核对一遍过期数据，因为答错要付出双倍代价。一位队友拦住我，感谢我把缓存预热解释得这么清楚。我把一份越来越长的依赖审计清单放在桌上，留着以后用。我关于传递依赖的笔记每周都变得更敏锐。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我的缓存策略忘了设过期时间。热身一轮：Leo给出：\"时差很折磨人。\"我回答：\"我会轻装出行。\"Leo收尾道：\"不错，把这句记在手边。\"会上关于过期数据，我问了一个好问题。这周我关于缓存预热的笔记清楚多了。站会之后，我安安静静花了十分钟在依赖审计上。Sam 问起传递依赖，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "stale data",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Maria asks me to bump a version and report back before the review. I remove an unused dependency so the next person can start quickly in the morning. I double-check the memory cache before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the distributed cache so clearly. Leo stops by my desk, asks, \"Bring me back a souvenir.\" and I answer, \"Have a safe trip!\" Stale data is a promise the system must never make.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Maria asks me to bump a version and report back before the review. I remove an unused dependency so the next person can start quickly in the morning. I double-check the memory cache before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the distributed cache so clearly. Leo stops by my desk, asks, \"Bring me back a souvenir.\" and I answer, \"Have a safe trip!\" Stale data is a promise the system must never make.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I bump a version while the office is still quiet. Maria watches while I remove an unused dependency. I ask one good question about the memory cache in the meeting. My notes about the distributed cache look clearer this week. We drill it twice: Priya starts, \"Bring me back a souvenir.\" I reply, \"Have a safe trip!\" then Priya smiles, \"Good — try it in today’s task.\" Stale data is a promise the system must never make.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I bump a version while the office is still quiet. Maria watches while I remove an unused dependency. I ask one good question about the memory cache in the meeting. My notes about the distributed cache look clearer this week. We drill it twice: Priya starts, \"Bring me back a souvenir.\" I reply, \"Have a safe trip!\" then Priya smiles, \"Good — try it in today’s task.\" Stale data is a promise the system must never make.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Maria 让我升级版本，并在评审前汇报结果。我移除无用依赖，好让下一个人早上能快速上手。回复之前我再核对一遍内存缓存，因为答错要付出双倍代价。一位队友拦住我，感谢我把分布式缓存解释得这么清楚。Leo走到我桌边问：\"给我带个纪念品吧。\"我回答：\"一路平安！\"过期数据是系统绝不该许下的承诺。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。趁办公室还安静，我升级版本。Maria 看着我移除无用依赖。会上关于内存缓存，我问了一个好问题。这周我关于分布式缓存的笔记清楚多了。我们练了两遍：Priya起头：\"给我带个纪念品吧。\"我回答：\"一路平安！\"然后Priya笑着说：\"好——今天的任务里就用上。\"过期数据是系统绝不该许下的承诺。",
    "hard": [
     {
      "w": "memory cache",

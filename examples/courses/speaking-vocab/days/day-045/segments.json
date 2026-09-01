@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 228,
+   "word_count": 229,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I promote a build, break it on purpose, and roll it back in five minutes. Before we part, Leo says, \"I learned a ton.\" I answer, \"I want to keep this momentum.\" I document the alt text so the team can review it later. If the keyboard navigation fails, we need a clear plan. I suggest that we check the velocity first. The result depends on the estimate accuracy, so I check it twice. The team agrees on the plan, and I record the decision.",
-   "tts": "I promote a build, break it on purpose, and roll it back in five minutes. Before we part, Leo says, \"I learned a ton.\" I answer, \"I want to keep this momentum.\" I document the alt text so the team can review it later. If the keyboard navigation fails, we need a clear plan. I suggest that we check the velocity first. The result depends on the estimate accuracy, so I check it twice. The team agrees on the plan, and I record the decision.",
+   "en": "I promote a build, break it on purpose, and roll it back in five minutes. Priya checks with me, \"I learned a ton.\" I answer clearly, \"I want to keep this momentum.\" The result depends on the alt text, so I check it twice. I explain the keyboard navigation to a new teammate. We discuss the risk around the velocity. I document the estimate accuracy so the team can review it later. The team agrees on the plan, and I record the decision.",
+   "tts": "I promote a build, break it on purpose, and roll it back in five minutes. Priya checks with me, \"I learned a ton.\" I answer clearly, \"I want to keep this momentum.\" The result depends on the alt text, so I check it twice. I explain the keyboard navigation to a new teammate. We discuss the risk around the velocity. I document the estimate accuracy so the team can review it later. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我晋级一个构建，故意弄坏它，然后在五分钟内回滚。分开前，Leo说：\"我学到了特别多。\"我回答：\"我想保持这个势头。\"我把替代文本写成文档，方便团队之后查看。如果键盘导航失败，我们需要一个清晰的方案。我建议我们先检查团队速度。结果取决于估算准确度，所以我检查了两遍。团队就计划达成一致，我记录了决定。",
+   "zh": "我晋级一个构建，故意弄坏它，然后在五分钟内回滚。Priya向我确认：\"我学到了特别多。\"我清楚地回答：\"我想保持这个势头。\"结果取决于替代文本，所以我检查了两遍。我向一位新队友解释了键盘导航。我们讨论了团队速度相关的风险。我把估算准确度写成文档，方便团队之后查看。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "alt text",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I explain the retrospective to a new teammate. We discuss the risk around the improvement plan. I document the color contrast so the team can review it later. If the focus ring fails, we need a clear plan. Priya checks with me, \"Next month I'll aim higher.\" I answer clearly, \"Thanks for the guidance.\" Now the worst day is just another drill.",
-   "tts": "Before I leave, I write a short summary for the team. I explain the retrospective to a new teammate. We discuss the risk around the improvement plan. I document the color contrast so the team can review it later. If the focus ring fails, we need a clear plan. Priya checks with me, \"Next month I'll aim higher.\" I answer clearly, \"Thanks for the guidance.\" Now the worst day is just another drill.",
+   "en": "Before I leave, I write a short summary for the team. We discuss the risk around the retrospective. I document the improvement plan so the team can review it later. If the color contrast fails, we need a clear plan. I suggest that we check the focus ring first. At the end of the day, Maria says, \"Next month I'll aim higher.\" I reply, \"Thanks for the guidance.\" Now the worst day is just another drill.",
+   "tts": "Before I leave, I write a short summary for the team. We discuss the risk around the retrospective. I document the improvement plan so the team can review it later. If the color contrast fails, we need a clear plan. I suggest that we check the focus ring first. At the end of the day, Maria says, \"Next month I'll aim higher.\" I reply, \"Thanks for the guidance.\" Now the worst day is just another drill.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我向一位新队友解释了复盘会。我们讨论了改进计划相关的风险。我把颜色对比度写成文档，方便团队之后查看。如果焦点框失败，我们需要一个清晰的方案。Priya向我确认：\"下个月我会瞄准更高目标。\"我清楚地回答：\"感谢你的指导。\"现在最糟糕的一天也只是一次演练。",
+   "zh": "离开前，我给团队写了一份简短的总结。我们讨论了复盘会相关的风险。我把改进计划写成文档，方便团队之后查看。如果颜色对比度失败，我们需要一个清晰的方案。我建议我们先检查焦点框。一天结束时，Maria说：\"下个月我会瞄准更高目标。\"我回答：\"感谢你的指导。\"现在最糟糕的一天也只是一次演练。",
    "hard": [
     {
      "w": "color contrast",

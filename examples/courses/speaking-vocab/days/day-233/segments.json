@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 322,
+   "word_count": 316,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We adopt the oldest test device as our north star. I compare two approaches to the sampling profiler, note the trade-offs, share both honestly. In review, I raise a careful question about the tracing sampling rate and its failure modes. Our mentor walks me through the profile artifact retention's history, including two painful lessons. We weigh the cost of changing the hotspot comparison report against leaving it alone. Leo opens the talk with, \"I sample the soup, not drink it.\" and I follow up with, \"Spot checks keep quality up.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "We adopt the oldest test device as our north star. I compare two approaches to the sampling profiler, note the trade-offs, share both honestly. In review, I raise a careful question about the tracing sampling rate and its failure modes. Our mentor walks me through the profile artifact retention's history, including two painful lessons. We weigh the cost of changing the hotspot comparison report against leaving it alone. Leo opens the talk with, \"I sample the soup, not drink it.\" and I follow up with, \"Spot checks keep quality up.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "We adopt the oldest test device as our north star. Our mentor walks me through how the sampling profiler evolved on this team. Before deciding, I reread my notes about the tracing sampling rate twice. I prepare a one-page brief about the profile artifact retention so meetings start from facts. The team names one clear owner for the hotspot comparison report. Dry run: Leo opens, \"I sample the soup, not drink it.\" I follow, \"Spot checks keep quality up.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We adopt the oldest test device as our north star. Our mentor walks me through how the sampling profiler evolved on this team. Before deciding, I reread my notes about the tracing sampling rate twice. I prepare a one-page brief about the profile artifact retention so meetings start from facts. The team names one clear owner for the hotspot comparison report. Dry run: Leo opens, \"I sample the soup, not drink it.\" I follow, \"Spot checks keep quality up.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们把最老的测试机当作北极星。我比较了处理采样分析器的两种方式，记下取舍，诚实分享。评审中，我就追踪采样率及其失效模式提出了一个审慎的问题。导师带我梳理了画像产物保留期的历史，包括两次惨痛的教训。我们权衡了改动热点对比报告的代价与放着不管的风险。Leo以\"尝汤不是喝汤。\"开启话题，我接着说了\"抽查让质量在线。\"还附了个提案。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我们把最老的测试机当作北极星。导师带我梳理了采样分析器在这个团队里的演变。做决定之前，我把关于追踪采样率的笔记重读了两遍。我准备了一页关于画像产物保留期的简报，好让会议从事实出发。团队为热点对比报告指定了明确的负责人。干跑演练：Leo开场：\"尝汤不是喝汤。\"我接上：\"抽查让质量在线。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "sampling profiler",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Cold start drops by half, and the frame pacing steadies like a metronome. Maria raises, \"The scale gets weekly readings.\" and I respond calmly, \"Small samples, humble conclusions.\" because panic never helped anyone. Our mentor walks me through the statistical profiler output's history, including two painful lessons. We weigh the cost of changing always on profiling against leaving it alone. I prepare a one-page brief about the profile on demand endpoint so meetings start from facts. The team sets a clear owner for the sampling rate config review, plus a deadline and review date. We end the week with something shipped and something properly learned this time.",
-   "tts": "Cold start drops by half, and the frame pacing steadies like a metronome. Maria raises, \"The scale gets weekly readings.\" and I respond calmly, \"Small samples, humble conclusions.\" because panic never helped anyone. Our mentor walks me through the statistical profiler output's history, including two painful lessons. We weigh the cost of changing always on profiling against leaving it alone. I prepare a one-page brief about the profile on demand endpoint so meetings start from facts. The team sets a clear owner for the sampling rate config review, plus a deadline and review date. We end the week with something shipped and something properly learned this time.",
+   "en": "Cold start drops by half, and the frame pacing steadies like a metronome. Practice debate: Leo argues, \"The scale gets weekly readings.\" I respond calmly, \"Small samples, humble conclusions.\" and Leo concedes, \"That is the level we need.\" Before deciding, I reread my notes about the statistical profiler output twice. I prepare a one-page brief about always on profiling so meetings start from facts. The team names one clear owner for the profile on demand endpoint. I compare two views on the sampling rate config review and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "tts": "Cold start drops by half, and the frame pacing steadies like a metronome. Practice debate: Leo argues, \"The scale gets weekly readings.\" I respond calmly, \"Small samples, humble conclusions.\" and Leo concedes, \"That is the level we need.\" Before deciding, I reread my notes about the statistical profiler output twice. I prepare a one-page brief about always on profiling so meetings start from facts. The team names one clear owner for the profile on demand endpoint. I compare two views on the sampling rate config review and write both down honestly. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "冷启动减半，帧率稳得像节拍器。Maria提出：\"体重秤每周读一次数。\"我从容地回应：\"小样本\"因为慌张从来没用。导师带我梳理了统计分析器输出的历史，包括两次惨痛的教训。我们权衡了改动常驻性能分析的代价与放着不管的风险。我准备了一页关于按需画像接口的简报，好让会议从事实出发。团队为采样率配置评审定了明确的负责人，加上截止和复审日期。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "冷启动减半，帧率稳得像节拍器。练习辩论：Leo主张：\"体重秤每周读一次数。\"我平静地回应：\"小样本\"Leo承认道：\"我们要的就是这个水平。\"做决定之前，我把关于统计分析器输出的笔记重读了两遍。我准备了一页关于常驻性能分析的简报，好让会议从事实出发。团队为按需画像接口指定了明确的负责人。我比较了关于采样率配置评审的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "statistical profiler output",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two approaches to the profiler safety review, note the trade-offs, share both honestly. In review, I raise a careful question about the findings to task flow and its failure modes. Our mentor walks me through the flame graph reading guide's history, including two painful lessons. We weigh the cost of changing the profile driven optimization against leaving it alone. Leo opens the talk with, \"Trends matter more than snapshots.\" and I follow up with, \"Sampling keeps observation cheap.\" and a proposal. Performance is accessibility with a stopwatch.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two approaches to the profiler safety review, note the trade-offs, share both honestly. In review, I raise a careful question about the findings to task flow and its failure modes. Our mentor walks me through the flame graph reading guide's history, including two painful lessons. We weigh the cost of changing the profile driven optimization against leaving it alone. Leo opens the talk with, \"Trends matter more than snapshots.\" and I follow up with, \"Sampling keeps observation cheap.\" and a proposal. Performance is accessibility with a stopwatch.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the profiler safety review. Our mentor walks me through how the findings to task flow evolved on this team. Before deciding, I reread my notes about the flame graph reading guide twice. I prepare a one-page brief about the profile driven optimization so meetings start from facts. Review warm-up: Priya raises, \"Trends matter more than snapshots.\" I answer, \"Sampling keeps observation cheap.\" and Priya grades it, \"Strong answer — keep that precision.\" Performance is accessibility with a stopwatch.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the profiler safety review. Our mentor walks me through how the findings to task flow evolved on this team. Before deciding, I reread my notes about the flame graph reading guide twice. I prepare a one-page brief about the profile driven optimization so meetings start from facts. Review warm-up: Priya raises, \"Trends matter more than snapshots.\" I answer, \"Sampling keeps observation cheap.\" and Priya grades it, \"Strong answer — keep that precision.\" Performance is accessibility with a stopwatch.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了处理分析器安全评审的两种方式，记下取舍，诚实分享。评审中，我就发现转任务流程及其失效模式提出了一个审慎的问题。导师带我梳理了火焰图阅读指南的历史，包括两次惨痛的教训。我们权衡了改动按画像优化的代价与放着不管的风险。Leo以\"趋势比快照重要。\"开启话题，我接着说了\"抽样让观察变便宜。\"还附了个提案。性能就是拿着秒表的无障碍。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就分析器安全评审提出了一个审慎的问题。导师带我梳理了发现转任务流程在这个团队里的演变。做决定之前，我把关于火焰图阅读指南的笔记重读了两遍。我准备了一页关于按画像优化的简报，好让会议从事实出发。评审热身：Priya抛出：\"趋势比快照重要。\"我带着数字回答：\"抽样让观察变便宜。\"Priya点评道：\"回答有力——保持这种精确。\"性能就是拿着秒表的无障碍。",
    "hard": [
     {
      "w": "flame graph reading guide",

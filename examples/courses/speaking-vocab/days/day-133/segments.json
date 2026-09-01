@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 308,
+   "word_count": 280,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The decision doc records both plans and one honest dissent note. We agree that the code style survey needs one more careful look before we commit. I link the convention doc to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the shared workflow file, and I write it down. I summarize what we decided about the org template repo while the details are still fresh. Over coffee, Maria mentions, \"Sunny days are for errands.\" and I add, \"Rainy days are for reading.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "The decision doc records both plans and one honest dissent note. We agree that the code style survey needs one more careful look before we commit. I link the convention doc to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the shared workflow file, and I write it down. I summarize what we decided about the org template repo while the details are still fresh. Over coffee, Maria mentions, \"Sunny days are for errands.\" and I add, \"Rainy days are for reading.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "The decision doc records both plans and one honest dissent note. The guide now has a short section on the code style survey. I compare my notes about the convention doc with Priya's. At the review, we spend ten minutes on the shared workflow file. In today's standup, I mention the org template repo and what comes next. Whiteboard practice: Maria offers, \"Sunny days are for errands.\" I add, \"Rainy days are for reading.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "The decision doc records both plans and one honest dissent note. The guide now has a short section on the code style survey. I compare my notes about the convention doc with Priya's. At the review, we spend ten minutes on the shared workflow file. In today's standup, I mention the org template repo and what comes next. Whiteboard practice: Maria offers, \"Sunny days are for errands.\" I add, \"Rainy days are for reading.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "决策文档记录了两个方案和一条诚实的保留意见。我们一致认为，在动手之前代码风格调查还需要再仔细看一次。我把约定文档关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的共享工作流文件处理办法，我把它记了下来。趁细节还新鲜，我总结了关于组织模板仓库的决定。喝咖啡时，Maria提到：\"晴天用来办事。\"我补充了\"雨天用来读书。\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "决策文档记录了两个方案和一条诚实的保留意见。指南里现在有关于代码风格调查的简短章节。我把关于约定文档的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在共享工作流文件上。今天的站会上，我提到组织模板仓库和接下来的安排。白板练习：Maria给出：\"晴天用来办事。\"我补充：\"雨天用来读书。\"然后Maria总结：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "code style survey",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A revisit date sits on the calendar like a promise. Priya checks in with, \"Windy days clear my head.\" so I explain, \"Grey skies, warm soup.\" without rushing. Priya suggests a simpler way to handle the consistency week, and I write it down. I summarize what we decided about the auto formatter rollout while the details are still fresh. The guide now includes a section on the shared bot account, with examples and pitfalls. In today's standup, I give a quick update on the cross repo changelog and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "A revisit date sits on the calendar like a promise. Priya checks in with, \"Windy days clear my head.\" so I explain, \"Grey skies, warm soup.\" without rushing. Priya suggests a simpler way to handle the consistency week, and I write it down. I summarize what we decided about the auto formatter rollout while the details are still fresh. The guide now includes a section on the shared bot account, with examples and pitfalls. In today's standup, I give a quick update on the cross repo changelog and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "A revisit date sits on the calendar like a promise. Drill without notes: Maria asks, \"Windy days clear my head.\" I answer, \"Grey skies, warm soup.\" and Maria closes, \"Exactly, and it saves time too.\" I compare my notes about the consistency week with Priya's. At the review, we spend ten minutes on the auto formatter rollout. In today's standup, I mention the shared bot account and what comes next. We agree to give the cross repo changelog one more careful look this week. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "A revisit date sits on the calendar like a promise. Drill without notes: Maria asks, \"Windy days clear my head.\" I answer, \"Grey skies, warm soup.\" and Maria closes, \"Exactly, and it saves time too.\" I compare my notes about the consistency week with Priya's. At the review, we spend ten minutes on the auto formatter rollout. In today's standup, I mention the shared bot account and what comes next. We agree to give the cross repo changelog one more careful look this week. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "重审日期像一句承诺躺在日历上。Priya关心地问：\"大风天头脑清醒。\"于是我不慌不忙地解释：\"灰色的天\"Priya 提出了一个更简单的一致性问题周处理办法，我把它记了下来。趁细节还新鲜，我总结了关于格式化工具推广的决定。指南里现在有关于共享机器人账号的章节，附有示例和坑点。在今天的站会上，我快速汇报了跨仓库变更日志的进展和卡住我的地方。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "重审日期像一句承诺躺在日历上。脱稿演练：Maria问：\"大风天头脑清醒。\"我回答：\"灰色的天\"Maria收束：\"正是，而且还省时间。\"我把关于一致性问题周的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在格式化工具推广上。今天的站会上，我提到共享机器人账号和接下来的安排。我们说好这周再把跨仓库变更日志仔细看一次。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "consistency week",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the sync labels script needs one more careful look before we commit. I link the federated docs index to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the naming workshop, and I write it down. I summarize what we decided about the convention deprecation while the details are still fresh. Over coffee, Maria mentions, \"First snow, first silence.\" and I add, \"Weather sets my tempo.\" with an example. Future us will thank present us.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the sync labels script needs one more careful look before we commit. I link the federated docs index to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the naming workshop, and I write it down. I summarize what we decided about the convention deprecation while the details are still fresh. Over coffee, Maria mentions, \"First snow, first silence.\" and I add, \"Weather sets my tempo.\" with an example. Future us will thank present us.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the sync labels script. The guide now has a short section on the federated docs index. I compare my notes about the naming workshop with Priya's. At the review, we spend ten minutes on the convention deprecation. Meeting rehearsal: Leo opens, \"First snow, first silence.\" I respond, \"Weather sets my tempo.\" and Leo confirms, \"Keep practising, it is working.\" Future us will thank present us.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the sync labels script. The guide now has a short section on the federated docs index. I compare my notes about the naming workshop with Priya's. At the review, we spend ten minutes on the convention deprecation. Meeting rehearsal: Leo opens, \"First snow, first silence.\" I respond, \"Weather sets my tempo.\" and Leo confirms, \"Keep practising, it is working.\" Future us will thank present us.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们一致认为，在动手之前标签同步脚本还需要再仔细看一次。我把联邦文档索引关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的命名工作坊处理办法，我把它记了下来。趁细节还新鲜，我总结了关于约定弃用的决定。喝咖啡时，Maria提到：\"初雪\"我补充了\"天气定我的节拍。\"，还带了个例子。未来的我们会感谢现在的我们。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把标签同步脚本写了下来。指南里现在有关于联邦文档索引的简短章节。我把关于命名工作坊的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在约定弃用上。会议彩排：Leo开场：\"初雪\"我回应：\"天气定我的节拍。\"Leo确认道：\"继续练，有效果了。\"未来的我们会感谢现在的我们。",
    "hard": [
     {
      "w": "naming workshop",

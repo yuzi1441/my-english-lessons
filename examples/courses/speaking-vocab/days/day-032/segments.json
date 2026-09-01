@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 242,
+   "word_count": 236,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I ask Maria, \"Do you mean drafts survive a restart?\" She says yes. At the end of the day, Maria says, \"Let me make sure I understand.\" I reply, \"Do you mean this one?\" We discuss the risk around the form validation. I document the required field so the team can review it later. If the branch protection fails, we need a clear plan. I suggest that we check the naming convention first. I check my notes and confirm the next step.",
-   "tts": "I ask Maria, \"Do you mean drafts survive a restart?\" She says yes. At the end of the day, Maria says, \"Let me make sure I understand.\" I reply, \"Do you mean this one?\" We discuss the risk around the form validation. I document the required field so the team can review it later. If the branch protection fails, we need a clear plan. I suggest that we check the naming convention first. I check my notes and confirm the next step.",
+   "en": "I ask Maria, \"Do you mean drafts survive a restart?\" She says yes. Before we part, Leo says, \"Let me make sure I understand.\" I answer, \"Do you mean this one?\" I suggest that we check the form validation first. The result depends on the required field, so I check it twice. I explain the branch protection to a new teammate. We discuss the risk around the naming convention. I check my notes and confirm the next step.",
+   "tts": "I ask Maria, \"Do you mean drafts survive a restart?\" She says yes. Before we part, Leo says, \"Let me make sure I understand.\" I answer, \"Do you mean this one?\" I suggest that we check the form validation first. The result depends on the required field, so I check it twice. I explain the branch protection to a new teammate. We discuss the risk around the naming convention. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我问 Maria：“你是说草稿要在重启后还在吗？”她说是。一天结束时，Maria说：\"我来确认一下自己理解对了没有。\"我回答：\"你是说这一个吗？\"我们讨论了表单校验相关的风险。我把必填项写成文档，方便团队之后查看。如果分支保护失败，我们需要一个清晰的方案。我建议我们先检查命名规范。我检查笔记，确认了下一步。",
+   "zh": "我问 Maria：“你是说草稿要在重启后还在吗？”她说是。分开前，Leo说：\"我来确认一下自己理解对了没有。\"我回答：\"你是说这一个吗？\"我建议我们先检查表单校验。结果取决于必填项，所以我检查了两遍。我向一位新队友解释了分支保护。我们讨论了命名规范相关的风险。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "form validation",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. The result depends on the compare view, so I check it twice. I explain the squash merge option to a new teammate. We discuss the risk around the submit button. I document the character limit so the team can review it later. Before we part, Leo says, \"Correct me if I'm wrong.\" I answer, \"So the key point is timing?\" Now the request is clear. I write it down in one sentence.",
-   "tts": "Before I leave, I write a short summary for the team. The result depends on the compare view, so I check it twice. I explain the squash merge option to a new teammate. We discuss the risk around the submit button. I document the character limit so the team can review it later. Before we part, Leo says, \"Correct me if I'm wrong.\" I answer, \"So the key point is timing?\" Now the request is clear. I write it down in one sentence.",
+   "en": "Before I leave, I write a short summary for the team. I explain the compare view to a new teammate. We discuss the risk around the squash merge option. I document the submit button so the team can review it later. If the character limit fails, we need a clear plan. Priya checks with me, \"Correct me if I'm wrong.\" I answer clearly, \"So the key point is timing?\" Now the request is clear. I write it down in one sentence.",
+   "tts": "Before I leave, I write a short summary for the team. I explain the compare view to a new teammate. We discuss the risk around the squash merge option. I document the submit button so the team can review it later. If the character limit fails, we need a clear plan. Priya checks with me, \"Correct me if I'm wrong.\" I answer clearly, \"So the key point is timing?\" Now the request is clear. I write it down in one sentence.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。结果取决于对比视图，所以我检查了两遍。我向一位新队友解释了压缩合并选项。我们讨论了提交按钮相关的风险。我把字数上限写成文档，方便团队之后查看。分开前，Leo说：\"如果我理解错了请纠正我。\"我回答：\"所以重点是时间对吗？\"现在需求清楚了。我用一句话把它写了下来。",
+   "zh": "离开前，我给团队写了一份简短的总结。我向一位新队友解释了对比视图。我们讨论了压缩合并选项相关的风险。我把提交按钮写成文档，方便团队之后查看。如果字数上限失败，我们需要一个清晰的方案。Priya向我确认：\"如果我理解错了请纠正我。\"我清楚地回答：\"所以重点是时间对吗？\"现在需求清楚了。我用一句话把它写了下来。",
    "hard": [
     {
      "w": "submit button",

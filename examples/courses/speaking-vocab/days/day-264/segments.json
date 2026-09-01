@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 330,
+   "word_count": 322,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We open a channel where dumb questions are safe. In review, I raise a careful question about the threat intelligence feed and its failure modes. Our mentor walks me through the ioc sharing community's history, including two painful lessons. We weigh the cost of changing the intel relevance filter against leaving it alone. I prepare a one-page brief about the rule false positive budget so meetings start from facts. When the design review starts each week, Priya asks, \"The neighborhood group warns fast.\" and I answer, \"Scam calls get shared numbers.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "We open a channel where dumb questions are safe. In review, I raise a careful question about the threat intelligence feed and its failure modes. Our mentor walks me through the ioc sharing community's history, including two painful lessons. We weigh the cost of changing the intel relevance filter against leaving it alone. I prepare a one-page brief about the rule false positive budget so meetings start from facts. When the design review starts each week, Priya asks, \"The neighborhood group warns fast.\" and I answer, \"Scam calls get shared numbers.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "We open a channel where dumb questions are safe. During the design review, I raise one careful question about the threat intelligence feed. Our mentor walks me through how the ioc sharing community evolved on this team. Before deciding, I reread my notes about the intel relevance filter twice. I prepare a one-page brief about the rule false positive budget so meetings start from facts. Review warm-up: Priya raises, \"The neighborhood group warns fast.\" I answer, \"Scam calls get shared numbers.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "We open a channel where dumb questions are safe. During the design review, I raise one careful question about the threat intelligence feed. Our mentor walks me through how the ioc sharing community evolved on this team. Before deciding, I reread my notes about the intel relevance filter twice. I prepare a one-page brief about the rule false positive budget so meetings start from facts. Review warm-up: Priya raises, \"The neighborhood group warns fast.\" I answer, \"Scam calls get shared numbers.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们开了个频道，让“傻问题”变得安全。评审中，我就威胁情报源及其失效模式提出了一个审慎的问题。导师带我梳理了失陷指标共享圈的历史，包括两次惨痛的教训。我们权衡了改动情报相关性过滤的代价与放着不管的风险。我准备了一页关于规则误报预算的简报，好让会议从事实出发。评审开始时，Priya问：\"小区群里预警很快。\"我带着数字回答：\"诈骗号码全群共享。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们开了个频道，让“傻问题”变得安全。设计评审中，我就威胁情报源提出了一个审慎的问题。导师带我梳理了失陷指标共享圈在这个团队里的演变。做决定之前，我把关于情报相关性过滤的笔记重读了两遍。我准备了一页关于规则误报预算的简报，好让会议从事实出发。评审热身：Priya抛出：\"小区群里预警很快。\"我带着数字回答：\"诈骗号码全群共享。\"Priya点评道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "threat intelligence feed",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Day one: \"Is this PDF from finance okay to open?\" Answered in four minutes. Leo opens the talk with, \"The courier scam memo.\" and I follow up with, \"We verify before forwarding.\" and a proposal. We weigh the cost of changing the attack trend analysis against leaving it alone. I prepare a one-page brief about the reputation list usage so meetings start from facts. The team sets a clear owner for the threat briefing cadence, plus a deadline and review date. I compare two approaches to the intel based attack drill, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Day one: \"Is this PDF from finance okay to open?\" Answered in four minutes. Leo opens the talk with, \"The courier scam memo.\" and I follow up with, \"We verify before forwarding.\" and a proposal. We weigh the cost of changing the attack trend analysis against leaving it alone. I prepare a one-page brief about the reputation list usage so meetings start from facts. The team sets a clear owner for the threat briefing cadence, plus a deadline and review date. I compare two approaches to the intel based attack drill, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Day one: \"Is this PDF from finance okay to open?\" Answered in four minutes. Dry run: Priya opens, \"The courier scam memo.\" I follow, \"We verify before forwarding.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" Our mentor walks me through how the attack trend analysis evolved on this team. Before deciding, I reread my notes about the reputation list usage twice. I prepare a one-page brief about the threat briefing cadence so meetings start from facts. The team names one clear owner for the intel based attack drill. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Day one: \"Is this PDF from finance okay to open?\" Answered in four minutes. Dry run: Priya opens, \"The courier scam memo.\" I follow, \"We verify before forwarding.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" Our mentor walks me through how the attack trend analysis evolved on this team. Before deciding, I reread my notes about the reputation list usage twice. I prepare a one-page brief about the threat briefing cadence so meetings start from facts. The team names one clear owner for the intel based attack drill. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "第一天：“财务发的 PDF 能开吗？”四分钟内有了答案。Leo以\"快递骗局的备忘。\"开启话题，我接着说了\"转发之前先核实。\"还附了个提案。我们权衡了改动攻击趋势分析的代价与放着不管的风险。我准备了一页关于信誉名单使用的简报，好让会议从事实出发。团队为威胁简报节奏定了明确的负责人，加上截止和复审日期。我比较了处理基于情报的攻击模拟的两种方式，记下取舍，诚实分享。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "第一天：“财务发的 PDF 能开吗？”四分钟内有了答案。干跑演练：Priya开场：\"快递骗局的备忘。\"我接上：\"转发之前先核实。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"导师带我梳理了攻击趋势分析在这个团队里的演变。做决定之前，我把关于信誉名单使用的笔记重读了两遍。我准备了一页关于威胁简报节奏的简报，好让会议从事实出发。团队为基于情报的攻击模拟指定了明确的负责人。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "attack trend analysis",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the intel source review and its failure modes. Our mentor walks me through the actionable intel standard's history, including two painful lessons. We weigh the cost of changing the attack pattern library against leaving it alone. I prepare a one-page brief about the intel to rule pipeline so meetings start from facts. When the design review starts each week, Priya asks, \"Patterns from different streets.\" and I answer, \"Shared vigilance, lighter load.\" with numbers. Curiosity reported early is damage prevented late.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the intel source review and its failure modes. Our mentor walks me through the actionable intel standard's history, including two painful lessons. We weigh the cost of changing the attack pattern library against leaving it alone. I prepare a one-page brief about the intel to rule pipeline so meetings start from facts. When the design review starts each week, Priya asks, \"Patterns from different streets.\" and I answer, \"Shared vigilance, lighter load.\" with numbers. Curiosity reported early is damage prevented late.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the intel source review. During the design review, I raise one careful question about the actionable intel standard. Our mentor walks me through how the attack pattern library evolved on this team. Before deciding, I reread my notes about the intel to rule pipeline twice. Mock review: Maria probes, \"Patterns from different streets.\" I answer from memory, \"Shared vigilance, lighter load.\" and Maria confirms, \"Agreed, note it in the ticket.\" Curiosity reported early is damage prevented late.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the intel source review. During the design review, I raise one careful question about the actionable intel standard. Our mentor walks me through how the attack pattern library evolved on this team. Before deciding, I reread my notes about the intel to rule pipeline twice. Mock review: Maria probes, \"Patterns from different streets.\" I answer from memory, \"Shared vigilance, lighter load.\" and Maria confirms, \"Agreed, note it in the ticket.\" Curiosity reported early is damage prevented late.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审中，我就情报源评审及其失效模式提出了一个审慎的问题。导师带我梳理了可行动情报标准的历史，包括两次惨痛的教训。我们权衡了改动攻击手法库的代价与放着不管的风险。我准备了一页关于情报转规则管道的简报，好让会议从事实出发。评审开始时，Priya问：\"不同街区的规律汇总。\"我带着数字回答：\"共享的警惕\"早点说出好奇，就能晚点遇到损害。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了情报源评审上。设计评审中，我就可行动情报标准提出了一个审慎的问题。导师带我梳理了攻击手法库在这个团队里的演变。做决定之前，我把关于情报转规则管道的笔记重读了两遍。模拟评审：Maria追问：\"不同街区的规律汇总。\"我凭记忆回答：\"共享的警惕\"Maria确认：\"同意，把这条记到工单里。\"早点说出好奇，就能晚点遇到损害。",
    "hard": [
     {
      "w": "attack pattern library",

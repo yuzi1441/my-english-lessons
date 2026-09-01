@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 227,
+   "word_count": 230,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The team can watch the work grow, piece by piece. Priya checks with me, \"That's a big improvement.\" I answer clearly, \"Thanks for stepping up.\" If the reconnect fails, we need a clear plan. I suggest that we check the queued change first. The result depends on the gradual rollout, so I check it twice. I explain the target users to a new teammate. The day ends with a clear plan for tomorrow.",
-   "tts": "The team can watch the work grow, piece by piece. Priya checks with me, \"That's a big improvement.\" I answer clearly, \"Thanks for stepping up.\" If the reconnect fails, we need a clear plan. I suggest that we check the queued change first. The result depends on the gradual rollout, so I check it twice. I explain the target users to a new teammate. The day ends with a clear plan for tomorrow.",
+   "en": "The team can watch the work grow, piece by piece. At the end of the day, Maria says, \"That's a big improvement.\" I reply, \"Thanks for stepping up.\" I explain the reconnect to a new teammate. We discuss the risk around the queued change. I document the gradual rollout so the team can review it later. If the target users fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
+   "tts": "The team can watch the work grow, piece by piece. At the end of the day, Maria says, \"That's a big improvement.\" I reply, \"Thanks for stepping up.\" I explain the reconnect to a new teammate. We discuss the risk around the queued change. I document the gradual rollout so the team can review it later. If the target users fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "团队可以看着这项工作一点点成形。Priya向我确认：\"这是一个很大的进步。\"我清楚地回答：\"谢谢你主动承担。\"如果重新连接失败，我们需要一个清晰的方案。我建议我们先检查排队改动。结果取决于渐进发布，所以我检查了两遍。我向一位新队友解释了目标用户。这一天以一份清晰的明日计划结束。",
+   "zh": "团队可以看着这项工作一点点成形。一天结束时，Maria说：\"这是一个很大的进步。\"我回答：\"谢谢你主动承担。\"我向一位新队友解释了重新连接。我们讨论了排队改动相关的风险。我把渐进发布写成文档，方便团队之后查看。如果目标用户失败，我们需要一个清晰的方案。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "reconnect",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. We discuss the risk around the kill switch. I document the flag cleanup so the team can review it later. If the sync conflict fails, we need a clear plan. I suggest that we check the last synced first. At the end of the day, Maria says, \"Your presentation was clear.\" I reply, \"Keep up the good work.\" Early drafts invite early advice.",
-   "tts": "Before I leave, I write a short summary for the team. We discuss the risk around the kill switch. I document the flag cleanup so the team can review it later. If the sync conflict fails, we need a clear plan. I suggest that we check the last synced first. At the end of the day, Maria says, \"Your presentation was clear.\" I reply, \"Keep up the good work.\" Early drafts invite early advice.",
+   "en": "Before I leave, I write a short summary for the team. I document the kill switch so the team can review it later. If the flag cleanup fails, we need a clear plan. I suggest that we check the sync conflict first. The result depends on the last synced, so I check it twice. Before we part, Leo says, \"Your presentation was clear.\" I answer, \"Keep up the good work.\" Early drafts invite early advice.",
+   "tts": "Before I leave, I write a short summary for the team. I document the kill switch so the team can review it later. If the flag cleanup fails, we need a clear plan. I suggest that we check the sync conflict first. The result depends on the last synced, so I check it twice. Before we part, Leo says, \"Your presentation was clear.\" I answer, \"Keep up the good work.\" Early drafts invite early advice.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我们讨论了紧急开关相关的风险。我把开关清理写成文档，方便团队之后查看。如果同步冲突失败，我们需要一个清晰的方案。我建议我们先检查上次同步。一天结束时，Maria说：\"你的演讲很清楚。\"我回答：\"继续保持这么好的表现。\"早开的草稿能换来早的建议。",
+   "zh": "离开前，我给团队写了一份简短的总结。我把紧急开关写成文档，方便团队之后查看。如果开关清理失败，我们需要一个清晰的方案。我建议我们先检查同步冲突。结果取决于上次同步，所以我检查了两遍。分开前，Leo说：\"你的演讲很清楚。\"我回答：\"继续保持这么好的表现。\"早开的草稿能换来早的建议。",
    "hard": [
     {
      "w": "sync conflict",

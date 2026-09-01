@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 326,
+   "word_count": 320,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Static assets move to the edge, next door to users. In review, I raise a careful question about the lazy module loading and its failure modes. Our mentor walks me through the dependency graph prune's history, including two painful lessons. We weigh the cost of changing the startup tracing in ci against leaving it alone. I prepare a one-page brief about the initializer dependency map so meetings start from facts. When the design review starts each week, Priya asks, \"The night before is preload.\" and I answer, \"Clothes laid out, cold start fast.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "Static assets move to the edge, next door to users. In review, I raise a careful question about the lazy module loading and its failure modes. Our mentor walks me through the dependency graph prune's history, including two painful lessons. We weigh the cost of changing the startup tracing in ci against leaving it alone. I prepare a one-page brief about the initializer dependency map so meetings start from facts. When the design review starts each week, Priya asks, \"The night before is preload.\" and I answer, \"Clothes laid out, cold start fast.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "Static assets move to the edge, next door to users. The team names one clear owner for the lazy module loading. I compare two views on the dependency graph prune and write both down honestly. I add the startup tracing in ci to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the initializer dependency map. Review warm-up: Priya raises, \"The night before is preload.\" I answer, \"Clothes laid out, cold start fast.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "Static assets move to the edge, next door to users. The team names one clear owner for the lazy module loading. I compare two views on the dependency graph prune and write both down honestly. I add the startup tracing in ci to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the initializer dependency map. Review warm-up: Priya raises, \"The night before is preload.\" I answer, \"Clothes laid out, cold start fast.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "静态资源搬到边缘，住到用户隔壁。评审中，我就模块懒加载及其失效模式提出了一个审慎的问题。导师带我梳理了依赖图修剪的历史，包括两次惨痛的教训。我们权衡了改动CI 里的启动追踪的代价与放着不管的风险。我准备了一页关于初始化依赖地图的简报，好让会议从事实出发。评审开始时，Priya问：\"前一天晚上就是预加载。\"我带着数字回答：\"衣服备好\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "静态资源搬到边缘，住到用户隔壁。团队为模块懒加载指定了明确的负责人。我比较了关于依赖图修剪的两种观点，诚实地都记了下来。我把CI 里的启动追踪连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了初始化依赖地图上。评审热身：Priya抛出：\"前一天晚上就是预加载。\"我带着数字回答：\"衣服备好\"Priya点评道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "lazy module loading",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Hit rates climb, origin load drops, and the night shift gets quieter. Leo opens the talk with, \"Breakfast is lazy loaded.\" and I follow up with, \"Critical path: kettle first.\" and a proposal. We weigh the cost of changing the initializer audit against leaving it alone. I prepare a one-page brief about the deferred registration so meetings start from facts. The team sets a clear owner for the deferral candidates list, plus a deadline and review date. I compare two approaches to the startup regression review, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Hit rates climb, origin load drops, and the night shift gets quieter. Leo opens the talk with, \"Breakfast is lazy loaded.\" and I follow up with, \"Critical path: kettle first.\" and a proposal. We weigh the cost of changing the initializer audit against leaving it alone. I prepare a one-page brief about the deferred registration so meetings start from facts. The team sets a clear owner for the deferral candidates list, plus a deadline and review date. I compare two approaches to the startup regression review, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Hit rates climb, origin load drops, and the night shift gets quieter. Dry run: Priya opens, \"Breakfast is lazy loaded.\" I follow, \"Critical path: kettle first.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" I compare two views on the initializer audit and write both down honestly. I add the deferred registration to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the deferral candidates list. During the design review, I raise one careful question about the startup regression review. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Hit rates climb, origin load drops, and the night shift gets quieter. Dry run: Priya opens, \"Breakfast is lazy loaded.\" I follow, \"Critical path: kettle first.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" I compare two views on the initializer audit and write both down honestly. I add the deferred registration to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the deferral candidates list. During the design review, I raise one careful question about the startup regression review. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "命中率攀升，回源下降，夜班也清净了。Leo以\"早餐是懒加载的。\"开启话题，我接着说了\"关键路径：先烧水。\"还附了个提案。我们权衡了改动初始化审计的代价与放着不管的风险。我准备了一页关于延迟注册的简报，好让会议从事实出发。团队为延迟候选清单定了明确的负责人，加上截止和复审日期。我比较了处理启动回归评审的两种方式，记下取舍，诚实分享。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "命中率攀升，回源下降，夜班也清净了。干跑演练：Priya开场：\"早餐是懒加载的。\"我接上：\"关键路径：先烧水。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"我比较了关于初始化审计的两种观点，诚实地都记了下来。我把延迟注册连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了延迟候选清单上。设计评审中，我就启动回归评审提出了一个审慎的问题。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "initializer audit",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the module boundary lint and its failure modes. Our mentor walks me through the first impression metrics's history, including two painful lessons. We weigh the cost of changing the first screen critical path against leaving it alone. I prepare a one-page brief about the warm start reuse so meetings start from facts. When the design review starts each week, Priya asks, \"The morning journal warms up.\" and I answer, \"No meetings before nine.\" with numbers. Proximity is the cheapest optimization.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the module boundary lint and its failure modes. Our mentor walks me through the first impression metrics's history, including two painful lessons. We weigh the cost of changing the first screen critical path against leaving it alone. I prepare a one-page brief about the warm start reuse so meetings start from facts. When the design review starts each week, Priya asks, \"The morning journal warms up.\" and I answer, \"No meetings before nine.\" with numbers. Proximity is the cheapest optimization.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the module boundary lint so meetings start from facts. The team names one clear owner for the first impression metrics. I compare two views on the first screen critical path and write both down honestly. I add the warm start reuse to the meeting agenda with three supporting facts. Mock review: Maria probes, \"The morning journal warms up.\" I answer from memory, \"No meetings before nine.\" and Maria confirms, \"Agreed, note it in the ticket.\" Proximity is the cheapest optimization.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the module boundary lint so meetings start from facts. The team names one clear owner for the first impression metrics. I compare two views on the first screen critical path and write both down honestly. I add the warm start reuse to the meeting agenda with three supporting facts. Mock review: Maria probes, \"The morning journal warms up.\" I answer from memory, \"No meetings before nine.\" and Maria confirms, \"Agreed, note it in the ticket.\" Proximity is the cheapest optimization.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审中，我就模块边界检查及其失效模式提出了一个审慎的问题。导师带我梳理了第一印象指标的历史，包括两次惨痛的教训。我们权衡了改动首屏关键路径的代价与放着不管的风险。我准备了一页关于热启动复用的简报，好让会议从事实出发。评审开始时，Priya问：\"晨间手记热身大脑。\"我带着数字回答：\"九点前不开会。\"距离是最便宜的优化。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于模块边界检查的简报，好让会议从事实出发。团队为第一印象指标指定了明确的负责人。我比较了关于首屏关键路径的两种观点，诚实地都记了下来。我把热启动复用连同三条支撑事实加进了议程。模拟评审：Maria追问：\"晨间手记热身大脑。\"我凭记忆回答：\"九点前不开会。\"Maria确认：\"同意，把这条记到工单里。\"距离是最便宜的优化。",
    "hard": [
     {
      "w": "first screen critical path",

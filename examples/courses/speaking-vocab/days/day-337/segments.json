@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 342,
+   "word_count": 325,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A real outage hits during handover season. We align on the async first documentation before the deadline so execution never has to guess. My report explains the overlap hour design, the risks behind it, and the cost of waiting. I propose a measurable goal for the follow the sun handoff note this quarter, with a number we can defend. We review the written standup quality bar against the requirements one final time, line by line, together. Before the launch, Maria says, \"We share photos on their morning.\" and I commit, \"Voice notes bridge the gap.\" on behalf of the whole team. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "A real outage hits during handover season. We align on the async first documentation before the deadline so execution never has to guess. My report explains the overlap hour design, the risks behind it, and the cost of waiting. I propose a measurable goal for the follow the sun handoff note this quarter, with a number we can defend. We review the written standup quality bar against the requirements one final time, line by line, together. Before the launch, Maria says, \"We share photos on their morning.\" and I commit, \"Voice notes bridge the gap.\" on behalf of the whole team. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "A real outage hits during handover season. We align on the async first documentation early, so execution never has to guess. My report covers the overlap hour design, the risks behind it, and the cost of waiting. I propose a measurable target for the follow the sun handoff note this quarter. We review the written standup quality bar against the requirements, line by line. Final dry run: Maria summarises, \"We share photos on their morning.\" I confirm, \"Voice notes bridge the gap.\" for the record, and Maria closes, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "A real outage hits during handover season. We align on the async first documentation early, so execution never has to guess. My report covers the overlap hour design, the risks behind it, and the cost of waiting. I propose a measurable target for the follow the sun handoff note this quarter. We review the written standup quality bar against the requirements, line by line. Final dry run: Maria summarises, \"We share photos on their morning.\" I confirm, \"Voice notes bridge the gap.\" for the record, and Maria closes, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "交接季里来了一次真实故障。我们在截止日期前就异步优先文档达成共识，让执行永远不必靠猜。我的报告解释了重叠时段设计、背后的风险，以及等待的代价。我为日不落交接笔记提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了书面站会质量标准，一起完成的。上线前，Maria说：\"按他们的早晨分享照片。\"我代表整个团队承诺：\"语音留言跨越时差。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "交接季里来了一次真实故障。我们尽早就异步优先文档对齐，让执行无需猜测。我的报告涵盖重叠时段设计、背后的风险，以及等待的代价。我为日不落交接笔记提出了本季度一个可衡量的目标。我们逐行对照需求检查了书面站会质量标准。最终干跑：Maria总结：\"按他们的早晨分享照片。\"我郑重确认：\"语音留言跨越时差。\"Maria收尾道：\"说得好，这句留在材料里。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "async first documentation",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Sam commands, I watch, the runbooks hold like walls. Priya summarises the meeting with, \"The family calendar shows two timezones.\" and I confirm, \"Holidays get celebrated twice.\" for the record. I propose a measurable goal for the handoff quality checklist this quarter, with a number we can defend. We review the fair night call rota against the requirements one final time, line by line, together. I close the loop on the overlap hour protection policy and share the outcome, including what surprised us. I present the async review turnaround targets to the team with data, a timeline, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "Sam commands, I watch, the runbooks hold like walls. Priya summarises the meeting with, \"The family calendar shows two timezones.\" and I confirm, \"Holidays get celebrated twice.\" for the record. I propose a measurable goal for the handoff quality checklist this quarter, with a number we can defend. We review the fair night call rota against the requirements one final time, line by line, together. I close the loop on the overlap hour protection policy and share the outcome, including what surprised us. I present the async review turnaround targets to the team with data, a timeline, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "Sam commands, I watch, the runbooks hold like walls. Board practice: Maria probes, \"The family calendar shows two timezones.\" I respond without a pause, \"Holidays get celebrated twice.\" and Maria nods, \"Well said, that stays in the deck.\" My report covers the handoff quality checklist, the risks behind it, and the cost of waiting. I propose a measurable target for the fair night call rota this quarter. We review the overlap hour protection policy against the requirements, line by line. I close the discussion on the async review turnaround targets with a short summary. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Sam commands, I watch, the runbooks hold like walls. Board practice: Maria probes, \"The family calendar shows two timezones.\" I respond without a pause, \"Holidays get celebrated twice.\" and Maria nods, \"Well said, that stays in the deck.\" My report covers the handoff quality checklist, the risks behind it, and the cost of waiting. I propose a measurable target for the fair night call rota this quarter. We review the overlap hour protection policy against the requirements, line by line. I close the discussion on the async review turnaround targets with a short summary. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Sam 指挥，我旁观，手册像墙一样撑住。Priya用\"家庭日历显示两个时区。\"为会议收尾，我郑重确认：\"节日可以过两次。\"我为交接质量清单提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了深夜会议公平轮值，一起完成的。我跟进完重叠时段保护政策并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了异步评审时限目标。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "Sam 指挥，我旁观，手册像墙一样撑住。董事会练习：Maria追问：\"家庭日历显示两个时区。\"我毫不迟疑地回应：\"节日可以过两次。\"Maria点头道：\"说得好，这句留在材料里。\"我的报告涵盖交接质量清单、背后的风险，以及等待的代价。我为深夜会议公平轮值提出了本季度一个可衡量的目标。我们逐行对照需求检查了重叠时段保护政策。我用一段简短的总结为异步评审时限目标的讨论收尾。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "handoff quality checklist",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the timezone pain audit before the deadline so execution never has to guess. My report explains the global social ritual design, the risks behind it, and the cost of waiting. I propose a measurable goal for the recorded demo culture this quarter, with a number we can defend. We review the written decision default against the requirements one final time, line by line, together. Before the launch, Maria says, \"Async stories keep bonds warm.\" and I commit, \"Missing someone needs scheduling.\" on behalf of the whole team. The crisis passed through trained hands.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the timezone pain audit before the deadline so execution never has to guess. My report explains the global social ritual design, the risks behind it, and the cost of waiting. I propose a measurable goal for the recorded demo culture this quarter, with a number we can defend. We review the written decision default against the requirements one final time, line by line, together. Before the launch, Maria says, \"Async stories keep bonds warm.\" and I commit, \"Missing someone needs scheduling.\" on behalf of the whole team. The crisis passed through trained hands.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the timezone pain audit with a timeline, the data, and one clear ask. We align on the global social ritual design early, so execution never has to guess. My report covers the recorded demo culture, the risks behind it, and the cost of waiting. I propose a measurable target for the written decision default this quarter. Launch rehearsal: Leo asks, \"Async stories keep bonds warm.\" I present, \"Missing someone needs scheduling.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" The crisis passed through trained hands.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the timezone pain audit with a timeline, the data, and one clear ask. We align on the global social ritual design early, so execution never has to guess. My report covers the recorded demo culture, the risks behind it, and the cost of waiting. I propose a measurable target for the written decision default this quarter. Launch rehearsal: Leo asks, \"Async stories keep bonds warm.\" I present, \"Missing someone needs scheduling.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" The crisis passed through trained hands.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们在截止日期前就时区痛点审计达成共识，让执行永远不必靠猜。我的报告解释了全球团建仪式设计、背后的风险，以及等待的代价。我为录屏演示文化提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了书面决策默认，一起完成的。上线前，Maria说：\"异步的故事保温亲情。\"我代表整个团队承诺：\"想念也是要排期的。\"危机穿过了被训练过的手。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用时间线、数据和一条明确的诉求来汇报时区痛点审计。我们尽早就全球团建仪式设计对齐，让执行无需猜测。我的报告涵盖录屏演示文化、背后的风险，以及等待的代价。我为书面决策默认提出了本季度一个可衡量的目标。上线彩排：Leo问：\"异步的故事保温亲情。\"我带着准备好的数字汇报：\"想念也是要排期的。\"Leo签字道：\"确认无误，可以上线了。\"危机穿过了被训练过的手。",
    "hard": [
     {
      "w": "recorded demo culture",

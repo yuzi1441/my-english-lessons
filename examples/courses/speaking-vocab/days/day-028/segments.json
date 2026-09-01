@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 224,
+   "word_count": 227,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Everyone is welcome here, and we keep the talk respectful. Priya checks with me, \"Please be respectful.\" I answer clearly, \"I appreciate your feedback.\" If the contributor fails, we need a clear plan. I suggest that we check the contribution first. The result depends on the contribution guideline, so I check it twice. I explain the pull request template to a new teammate. The day ends with a clear plan for tomorrow.",
-   "tts": "Everyone is welcome here, and we keep the talk respectful. Priya checks with me, \"Please be respectful.\" I answer clearly, \"I appreciate your feedback.\" If the contributor fails, we need a clear plan. I suggest that we check the contribution first. The result depends on the contribution guideline, so I check it twice. I explain the pull request template to a new teammate. The day ends with a clear plan for tomorrow.",
+   "en": "Everyone is welcome here, and we keep the talk respectful. At the end of the day, Maria says, \"Please be respectful.\" I reply, \"I appreciate your feedback.\" I explain the contributor to a new teammate. We discuss the risk around the contribution. I document the contribution guideline so the team can review it later. If the pull request template fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
+   "tts": "Everyone is welcome here, and we keep the talk respectful. At the end of the day, Maria says, \"Please be respectful.\" I reply, \"I appreciate your feedback.\" I explain the contributor to a new teammate. We discuss the risk around the contribution. I document the contribution guideline so the team can review it later. If the pull request template fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "这里欢迎每个人，我们让讨论保持尊重。Priya向我确认：\"请保持尊重。\"我清楚地回答：\"感谢你的反馈。\"如果贡献者失败，我们需要一个清晰的方案。我建议我们先检查贡献。结果取决于贡献规则，所以我检查了两遍。我向一位新队友解释了拉取请求模板。这一天以一份清晰的明日计划结束。",
+   "zh": "这里欢迎每个人，我们让讨论保持尊重。一天结束时，Maria说：\"请保持尊重。\"我回答：\"感谢你的反馈。\"我向一位新队友解释了贡献者。我们讨论了贡献相关的风险。我把贡献规则写成文档，方便团队之后查看。如果拉取请求模板失败，我们需要一个清晰的方案。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "contributor",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. We discuss the risk around the code of conduct. I document the maintainer review so the team can review it later. If the maintainership fails, we need a clear plan. I suggest that we check the community guideline first. At the end of the day, Maria says, \"Let's keep the discussion focused.\" I reply, \"Everyone is welcome here.\" The guide is clear. The first outside contribution is merged.",
-   "tts": "Before I leave, I write a short summary for the team. We discuss the risk around the code of conduct. I document the maintainer review so the team can review it later. If the maintainership fails, we need a clear plan. I suggest that we check the community guideline first. At the end of the day, Maria says, \"Let's keep the discussion focused.\" I reply, \"Everyone is welcome here.\" The guide is clear. The first outside contribution is merged.",
+   "en": "Before I leave, I write a short summary for the team. I document the code of conduct so the team can review it later. If the maintainer review fails, we need a clear plan. I suggest that we check the maintainership first. The result depends on the community guideline, so I check it twice. Before we part, Leo says, \"Let's keep the discussion focused.\" I answer, \"Everyone is welcome here.\" The guide is clear. The first outside contribution is merged.",
+   "tts": "Before I leave, I write a short summary for the team. I document the code of conduct so the team can review it later. If the maintainer review fails, we need a clear plan. I suggest that we check the maintainership first. The result depends on the community guideline, so I check it twice. Before we part, Leo says, \"Let's keep the discussion focused.\" I answer, \"Everyone is welcome here.\" The guide is clear. The first outside contribution is merged.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我们讨论了行为准则相关的风险。我把维护者评审写成文档，方便团队之后查看。如果维护职责失败，我们需要一个清晰的方案。我建议我们先检查社区准则。一天结束时，Maria说：\"让我们让讨论保持聚焦。\"我回答：\"这里欢迎每个人。\"指南很清楚。第一个外部贡献合并了。",
+   "zh": "离开前，我给团队写了一份简短的总结。我把行为准则写成文档，方便团队之后查看。如果维护者评审失败，我们需要一个清晰的方案。我建议我们先检查维护职责。结果取决于社区准则，所以我检查了两遍。分开前，Leo说：\"让我们让讨论保持聚焦。\"我回答：\"这里欢迎每个人。\"指南很清楚。第一个外部贡献合并了。",
    "hard": [
     {
      "w": "maintainership",

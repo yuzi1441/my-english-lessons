@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 267,
+   "word_count": 277,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The drafts feature talks to storage, and tests need it quiet. I double-check the property-based test before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the invariant so clearly. I keep a growing list of the pre-merge checklist on my desk for later. I run the linter, and the result looks better than yesterday. Maria greets me warmly with, \"Extra spicy, please.\" and I answer, \"No cilantro, allergy.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "The drafts feature talks to storage, and tests need it quiet. I double-check the property-based test before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the invariant so clearly. I keep a growing list of the pre-merge checklist on my desk for later. I run the linter, and the result looks better than yesterday. Maria greets me warmly with, \"Extra spicy, please.\" and I answer, \"No cilantro, allergy.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "The drafts feature talks to storage, and tests need it quiet. Sam asks me about the property-based test, and I explain the basics. I keep one real example of the invariant in my notebook. I add the pre-merge checklist to my study notes before I forget it. I run the linter while the office is still quiet. Role play with feedback: Maria says, \"Extra spicy, please.\" I try, \"No cilantro, allergy.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "The drafts feature talks to storage, and tests need it quiet. Sam asks me about the property-based test, and I explain the basics. I keep one real example of the invariant in my notebook. I add the pre-merge checklist to my study notes before I forget it. I run the linter while the office is still quiet. Role play with feedback: Maria says, \"Extra spicy, please.\" I try, \"No cilantro, allergy.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "草稿功能要跟存储对话，测试需要它安静。回复之前我再核对一遍属性测试，因为答错要付出双倍代价。一位队友拦住我，感谢我把不变量解释得这么清楚。我把一份越来越长的合并前清单清单放在桌上，留着以后用。我跑一遍检查器，结果比昨天看起来更好了。Maria热情地用\"请加特辣。\"和我打招呼，我回答：\"不要香菜\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "草稿功能要跟存储对话，测试需要它安静。Sam 问起属性测试，我讲了讲基础。我在笔记本里留了一个不变量的真实例子。我趁还没忘，把合并前清单记进了学习笔记。趁办公室还安静，我跑一遍检查器。角色扮演加反馈：Maria说：\"请加特辣。\"我试着说：\"不要香菜\"Maria补充道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "property-based test",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I inject a fake database that lives only in memory. During the afternoon break, Priya says, \"Leave it at the door.\" I reply, \"The order is wrong again.\" I keep a growing list of the random seed on my desk for later. My notes about the shrinking are getting sharper every single week. Maria asks me to update the docs and report back before the review. The changelog entry shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
-   "tts": "I inject a fake database that lives only in memory. During the afternoon break, Priya says, \"Leave it at the door.\" I reply, \"The order is wrong again.\" I keep a growing list of the random seed on my desk for later. My notes about the shrinking are getting sharper every single week. Maria asks me to update the docs and report back before the review. The changelog entry shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
+   "en": "I inject a fake database that lives only in memory. Warm-up round: Maria offers, \"Leave it at the door.\" I answer, \"The order is wrong again.\" and Maria wraps up, \"That is the one we need today.\" I keep one real example of the random seed in my notebook. I add the shrinking to my study notes before I forget it. I update the docs while the office is still quiet. There is a short paragraph about the changelog entry in the guide. The task moves forward, and so does my confidence.",
+   "tts": "I inject a fake database that lives only in memory. Warm-up round: Maria offers, \"Leave it at the door.\" I answer, \"The order is wrong again.\" and Maria wraps up, \"That is the one we need today.\" I keep one real example of the random seed in my notebook. I add the shrinking to my study notes before I forget it. I update the docs while the office is still quiet. There is a short paragraph about the changelog entry in the guide. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我注入了一个只活在内存里的假数据库。下午休息时，Priya说：\"放在门口就好。\"我回答：\"订单又错了。\"我把一份越来越长的随机种子清单放在桌上，留着以后用。我关于收缩的笔记每周都变得更敏锐。Maria 让我顺手更新文档，并在评审前汇报结果。变更日志条目出现在我们迭代笔记里的次数比以前更多了。任务在推进，我的信心也在成长。",
+   "zh": "我注入了一个只活在内存里的假数据库。热身一轮：Maria给出：\"放在门口就好。\"我回答：\"订单又错了。\"Maria收尾道：\"今天要的就是这句。\"我在笔记本里留了一个随机种子的真实例子。我趁还没忘，把收缩记进了学习笔记。趁办公室还安静，我顺手更新文档。指南里有一小段关于变更日志条目的介绍。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "random seed",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. After the review, I notify downstream once more and note what changed. A teammate stopped me to say thanks for explaining the merge button etiquette so clearly. I keep a growing list of the data generator on my desk for later. My notes about the oracle problem are getting sharper every single week. Maria greets me warmly with, \"I check before I pay.\" and I answer, \"Ratings tell the truth.\" The seam was always there; I finally learned to use it.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. After the review, I notify downstream once more and note what changed. A teammate stopped me to say thanks for explaining the merge button etiquette so clearly. I keep a growing list of the data generator on my desk for later. My notes about the oracle problem are getting sharper every single week. Maria greets me warmly with, \"I check before I pay.\" and I answer, \"Ratings tell the truth.\" The seam was always there; I finally learned to use it.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I notify downstream, then I take a short break. Sam asks me about the merge button etiquette, and I explain the basics. I keep one real example of the data generator in my notebook. I add the oracle problem to my study notes before I forget it. We drill it twice: Leo starts, \"I check before I pay.\" I reply, \"Ratings tell the truth.\" then Leo smiles, \"Nice, keep that one handy.\" The seam was always there; I finally learned to use it.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I notify downstream, then I take a short break. Sam asks me about the merge button etiquette, and I explain the basics. I keep one real example of the data generator in my notebook. I add the oracle problem to my study notes before I forget it. We drill it twice: Leo starts, \"I check before I pay.\" I reply, \"Ratings tell the truth.\" then Leo smiles, \"Nice, keep that one handy.\" The seam was always there; I finally learned to use it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。评审之后，我又通知下游了一次，并记下变化。一位队友拦住我，感谢我把合并按钮礼仪解释得这么清楚。我把一份越来越长的数据生成器清单放在桌上，留着以后用。我关于预言问题的笔记每周都变得更敏锐。Maria热情地用\"付款前我会核对。\"和我打招呼，我回答：\"评分不会说谎。\"接缝一直都在，我只是终于学会用它。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我通知下游，然后休息了一下。Sam 问起合并按钮礼仪，我讲了讲基础。我在笔记本里留了一个数据生成器的真实例子。我趁还没忘，把预言问题记进了学习笔记。我们练了两遍：Leo起头：\"付款前我会核对。\"我回答：\"评分不会说谎。\"然后Leo笑着说：\"不错，把这句记在手边。\"接缝一直都在，我只是终于学会用它。",
    "hard": [
     {
      "w": "data generator",

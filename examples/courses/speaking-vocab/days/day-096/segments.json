@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 280,
+   "word_count": 288,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I run the linter and the machine writes a shopping list of my sins. I keep a growing list of the test fixture on my desk for later. My notes about the factory function are getting sharper every single week. I asked Leo how he handles the testing guide when the week gets heavy. The what to test shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Annual checkup, done.\" I reply, \"The numbers are boringly fine.\" I end the day with fewer unknowns than I started with.",
-   "tts": "I run the linter and the machine writes a shopping list of my sins. I keep a growing list of the test fixture on my desk for later. My notes about the factory function are getting sharper every single week. I asked Leo how he handles the testing guide when the week gets heavy. The what to test shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Annual checkup, done.\" I reply, \"The numbers are boringly fine.\" I end the day with fewer unknowns than I started with.",
+   "en": "I run the linter and the machine writes a shopping list of my sins. I add the test fixture to my study notes before I forget it. I go over the factory function one more time before lunch. There is a short paragraph about the testing guide in the guide. I ask one good question about the what to test in the meeting. We practise the dialogue: Priya opens, \"Annual checkup, done.\" I answer, \"The numbers are boringly fine.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "I run the linter and the machine writes a shopping list of my sins. I add the test fixture to my study notes before I forget it. I go over the factory function one more time before lunch. There is a short paragraph about the testing guide in the guide. I ask one good question about the what to test in the meeting. We practise the dialogue: Priya opens, \"Annual checkup, done.\" I answer, \"The numbers are boringly fine.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我跑了检查器，机器列出了我的罪状清单。我把一份越来越长的测试夹具清单放在桌上，留着以后用。我关于工厂函数的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理测试指南的。测什么出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"年度体检\"我回答：\"数字无聊得好。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我跑了检查器，机器列出了我的罪状清单。我趁还没忘，把测试夹具记进了学习笔记。午饭前我又过了一遍工厂函数。指南里有一小段关于测试指南的介绍。会上关于测什么，我问了一个好问题。我们练习这段对话：Priya开场：\"年度体检\"我回答：\"数字无聊得好。\"Priya点头说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "test fixture",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Half are autofixed; the rest I fix by hand and learn from. Leo stops by my desk, asks, \"I fast the night before.\" and I answer, \"Drink more water, they say.\" I asked Leo how he handles the anonymized data when the week gets heavy. The seeded database shows up in our sprint notes more often than before. I double-check the what not to test before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the coverage goal so clearly. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Half are autofixed; the rest I fix by hand and learn from. Leo stops by my desk, asks, \"I fast the night before.\" and I answer, \"Drink more water, they say.\" I asked Leo how he handles the anonymized data when the week gets heavy. The seeded database shows up in our sprint notes more often than before. I double-check the what not to test before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the coverage goal so clearly. Small progress today prepares the bigger step tomorrow.",
+   "en": "Half are autofixed; the rest I fix by hand and learn from. We drill it twice: Priya starts, \"I fast the night before.\" I reply, \"Drink more water, they say.\" then Priya smiles, \"Good — try it in today’s task.\" I go over the anonymized data one more time before lunch. There is a short paragraph about the seeded database in the guide. I ask one good question about the what not to test in the meeting. My notes about the coverage goal look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Half are autofixed; the rest I fix by hand and learn from. We drill it twice: Priya starts, \"I fast the night before.\" I reply, \"Drink more water, they say.\" then Priya smiles, \"Good — try it in today’s task.\" I go over the anonymized data one more time before lunch. There is a short paragraph about the seeded database in the guide. I ask one good question about the what not to test in the meeting. My notes about the coverage goal look clearer this week. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一半被自动修复；剩下的我手动修，并从中学到了东西。Leo走到我桌边问：\"前一天晚上禁食。\"我回答：\"他们总说多喝水。\"我问 Leo，当一周变得繁重时他是怎么处理匿名化数据的。种子数据库出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍不测什么，因为答错要付出双倍代价。一位队友拦住我，感谢我把覆盖率目标解释得这么清楚。今天的小进步为明天更大的跨越做准备。",
+   "zh": "一半被自动修复；剩下的我手动修，并从中学到了东西。我们练了两遍：Priya起头：\"前一天晚上禁食。\"我回答：\"他们总说多喝水。\"然后Priya笑着说：\"好——今天的任务里就用上。\"午饭前我又过了一遍匿名化数据。指南里有一小段关于种子数据库的介绍。会上关于不测什么，我问了一个好问题。这周我关于覆盖率目标的笔记清楚多了。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "anonymized data",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the coverage mindset on my desk for later. My notes about the quality over quota are getting sharper every single week. I asked Leo how he handles the snapshot test when the week gets heavy. The golden file shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Prevention beats cure.\" I reply, \"Book it yearly.\" The machine is a strict but patient teacher.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep a growing list of the coverage mindset on my desk for later. My notes about the quality over quota are getting sharper every single week. I asked Leo how he handles the snapshot test when the week gets heavy. The golden file shows up in our sprint notes more often than before. During the afternoon break, Priya says, \"Prevention beats cure.\" I reply, \"Book it yearly.\" The machine is a strict but patient teacher.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the coverage mindset in my notebook. I add the quality over quota to my study notes before I forget it. I go over the snapshot test one more time before lunch. There is a short paragraph about the golden file in the guide. Warm-up round: Maria offers, \"Prevention beats cure.\" I answer, \"Book it yearly.\" and Maria wraps up, \"That is the one we need today.\" The machine is a strict but patient teacher.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the coverage mindset in my notebook. I add the quality over quota to my study notes before I forget it. I go over the snapshot test one more time before lunch. There is a short paragraph about the golden file in the guide. Warm-up round: Maria offers, \"Prevention beats cure.\" I answer, \"Book it yearly.\" and Maria wraps up, \"That is the one we need today.\" The machine is a strict but patient teacher.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我把一份越来越长的覆盖率心态清单放在桌上，留着以后用。我关于质量重于指标的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理快照测试的。黄金文件出现在我们迭代笔记里的次数比以前更多了。下午休息时，Priya说：\"预防胜于治疗。\"我回答：\"一年约一次。\"机器是一位严格却耐心的老师。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个覆盖率心态的真实例子。我趁还没忘，把质量重于指标记进了学习笔记。午饭前我又过了一遍快照测试。指南里有一小段关于黄金文件的介绍。热身一轮：Maria给出：\"预防胜于治疗。\"我回答：\"一年约一次。\"Maria收尾道：\"今天要的就是这句。\"机器是一位严格却耐心的老师。",
    "hard": [
     {
      "w": "snapshot test",

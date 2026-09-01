@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 320,
+   "word_count": 318,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Leo teaches me to read a flame graph like weather. The team sets a clear owner for the round trip time, plus a deadline and review date. I compare two approaches to the packet loss, note the trade-offs, share both honestly. In review, I raise a careful question about the connection warmup check and its failure modes. Our mentor walks me through the protocol upgrade note's history, including two painful lessons. Maria raises, \"The parcel took the slow boat.\" and I respond calmly, \"Consolidated shipping saves fees.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Leo teaches me to read a flame graph like weather. The team sets a clear owner for the round trip time, plus a deadline and review date. I compare two approaches to the packet loss, note the trade-offs, share both honestly. In review, I raise a careful question about the connection warmup check and its failure modes. Our mentor walks me through the protocol upgrade note's history, including two painful lessons. Maria raises, \"The parcel took the slow boat.\" and I respond calmly, \"Consolidated shipping saves fees.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Leo teaches me to read a flame graph like weather. I add the round trip time to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the packet loss. During the design review, I raise one careful question about the connection warmup check. Our mentor walks me through how the protocol upgrade note evolved on this team. Practice debate: Maria argues, \"The parcel took the slow boat.\" I respond calmly, \"Consolidated shipping saves fees.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Leo teaches me to read a flame graph like weather. I add the round trip time to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the packet loss. During the design review, I raise one careful question about the connection warmup check. Our mentor walks me through how the protocol upgrade note evolved on this team. Practice debate: Maria argues, \"The parcel took the slow boat.\" I respond calmly, \"Consolidated shipping saves fees.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Leo 教我像看天气一样看火焰图。团队为往返时延定了明确的负责人，加上截止和复审日期。我比较了处理丢包的两种方式，记下取舍，诚实分享。评审中，我就连接预热检查及其失效模式提出了一个审慎的问题。导师带我梳理了协议升级说明的历史，包括两次惨痛的教训。Maria提出：\"包裹走了慢船。\"我从容地回应：\"合箱发货省运费。\"因为慌张从来没用。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "Leo 教我像看天气一样看火焰图。我把往返时延连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了丢包上。设计评审中，我就连接预热检查提出了一个审慎的问题。导师带我梳理了协议升级说明在这个团队里的演变。练习辩论：Maria主张：\"包裹走了慢船。\"我平静地回应：\"合箱发货省运费。\"Maria承认道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "round trip time",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The widest tower is a logging call building strings nobody reads. When the design review starts each week, Priya asks, \"Tracking updates every hop.\" and I answer, \"The last mile is the longest.\" with numbers. In review, I raise a careful question about the bandwidth ceiling and its failure modes. Our mentor walks me through the tls handshake cost's history, including two painful lessons. We weigh the cost of changing the compression config review against leaving it alone. I prepare a one-page brief about the timeout map so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "The widest tower is a logging call building strings nobody reads. When the design review starts each week, Priya asks, \"Tracking updates every hop.\" and I answer, \"The last mile is the longest.\" with numbers. In review, I raise a careful question about the bandwidth ceiling and its failure modes. Our mentor walks me through the tls handshake cost's history, including two painful lessons. We weigh the cost of changing the compression config review against leaving it alone. I prepare a one-page brief about the timeout map so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "The widest tower is a logging call building strings nobody reads. Mock review: Maria probes, \"Tracking updates every hop.\" I answer from memory, \"The last mile is the longest.\" and Maria confirms, \"Agreed, note it in the ticket.\" We spend the first ten minutes of the review on the bandwidth ceiling. During the design review, I raise one careful question about the tls handshake cost. Our mentor walks me through how the compression config review evolved on this team. Before deciding, I reread my notes about the timeout map twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The widest tower is a logging call building strings nobody reads. Mock review: Maria probes, \"Tracking updates every hop.\" I answer from memory, \"The last mile is the longest.\" and Maria confirms, \"Agreed, note it in the ticket.\" We spend the first ten minutes of the review on the bandwidth ceiling. During the design review, I raise one careful question about the tls handshake cost. Our mentor walks me through how the compression config review evolved on this team. Before deciding, I reread my notes about the timeout map twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "最宽的那座塔是一次日志调用，在拼没人读的字符串。评审开始时，Priya问：\"每一跳都有跟踪。\"我带着数字回答：\"最后一公里最漫长。\"评审中，我就带宽上限及其失效模式提出了一个审慎的问题。导师带我梳理了TLS 握手开销的历史，包括两次惨痛的教训。我们权衡了改动压缩配置评审的代价与放着不管的风险。我准备了一页关于超时地图的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "最宽的那座塔是一次日志调用，在拼没人读的字符串。模拟评审：Maria追问：\"每一跳都有跟踪。\"我凭记忆回答：\"最后一公里最漫长。\"Maria确认：\"同意，把这条记到工单里。\"评审的前十分钟，我们都用在了带宽上限上。设计评审中，我就TLS 握手开销提出了一个审慎的问题。导师带我梳理了压缩配置评审在这个团队里的演变。做决定之前，我把关于超时地图的笔记重读了两遍。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "bandwidth ceiling",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team sets a clear owner for the retry storm guard, plus a deadline and review date. I compare two approaches to the regional latency table, note the trade-offs, share both honestly. In review, I raise a careful question about the header compression and its failure modes. Our mentor walks me through the connection reuse's history, including two painful lessons. Maria raises, \"Packaging adds weight, literally.\" and I respond calmly, \"Direct routes beat relays.\" because panic never helped anyone. One deleted line, eight hundred milliseconds returned.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team sets a clear owner for the retry storm guard, plus a deadline and review date. I compare two approaches to the regional latency table, note the trade-offs, share both honestly. In review, I raise a careful question about the header compression and its failure modes. Our mentor walks me through the connection reuse's history, including two painful lessons. Maria raises, \"Packaging adds weight, literally.\" and I respond calmly, \"Direct routes beat relays.\" because panic never helped anyone. One deleted line, eight hundred milliseconds returned.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the retry storm guard and write both down honestly. I add the regional latency table to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the header compression. During the design review, I raise one careful question about the connection reuse. Dry run: Leo opens, \"Packaging adds weight, literally.\" I follow, \"Direct routes beat relays.\" plus one proposal, and Leo accepts, \"That is the level we need.\" One deleted line, eight hundred milliseconds returned.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the retry storm guard and write both down honestly. I add the regional latency table to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the header compression. During the design review, I raise one careful question about the connection reuse. Dry run: Leo opens, \"Packaging adds weight, literally.\" I follow, \"Direct routes beat relays.\" plus one proposal, and Leo accepts, \"That is the level we need.\" One deleted line, eight hundred milliseconds returned.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为重试风暴防线定了明确的负责人，加上截止和复审日期。我比较了处理区域延迟表的两种方式，记下取舍，诚实分享。评审中，我就头部压缩及其失效模式提出了一个审慎的问题。导师带我梳理了连接复用的历史，包括两次惨痛的教训。Maria提出：\"包装真的加了重量。\"我从容地回应：\"直达胜过中转。\"因为慌张从来没用。删掉一行，拿回八百毫秒。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于重试风暴防线的两种观点，诚实地都记了下来。我把区域延迟表连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了头部压缩上。设计评审中，我就连接复用提出了一个审慎的问题。干跑演练：Leo开场：\"包装真的加了重量。\"我接上：\"直达胜过中转。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"删掉一行，拿回八百毫秒。",
    "hard": [
     {
      "w": "header compression",

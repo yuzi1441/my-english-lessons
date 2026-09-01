@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 218,
+   "word_count": 224,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I have a different view, and I say it politely. Priya starts with \"Could we look at another option?\" and I continue with \"I'm not sure I agree.\" I compare the container with my notes. Priya and I look for a detail in the container image. After lunch, I check the version tag again. Before the meeting, I review the semantic versioning one more time. The work is not easy, but I keep going.",
-   "tts": "I have a different view, and I say it politely. Priya starts with \"Could we look at another option?\" and I continue with \"I'm not sure I agree.\" I compare the container with my notes. Priya and I look for a detail in the container image. After lunch, I check the version tag again. Before the meeting, I review the semantic versioning one more time. The work is not easy, but I keep going.",
+   "en": "I have a different view, and I say it politely. At the table, Maria says, \"Could we look at another option?\" I think, then answer, \"I'm not sure I agree.\" Before the meeting, I review the container one more time. The team talks about the container image at the standup. When I use the version tag, I ask Maria for advice. I compare the semantic versioning with my notes. The work is not easy, but I keep going.",
+   "tts": "I have a different view, and I say it politely. At the table, Maria says, \"Could we look at another option?\" I think, then answer, \"I'm not sure I agree.\" Before the meeting, I review the container one more time. The team talks about the container image at the standup. When I use the version tag, I ask Maria for advice. I compare the semantic versioning with my notes. The work is not easy, but I keep going.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我有不同的看法，我礼貌地说了出来。Priya先说了\"我们可以看看另一个方案吗？\"我接着说：\"我不确定我是否同意。\"我把容器和我的笔记做了比较。Priya 和我在容器镜像里找一个细节。午饭后，我又检查了一遍版本标签。开会前，我又复习了一遍语义化版本。工作不容易，但我继续前进。",
+   "zh": "我有不同的看法，我礼貌地说了出来。桌边，Maria说：\"我们可以看看另一个方案吗？\"我想了想，回答：\"我不确定我是否同意。\"开会前，我又复习了一遍容器。团队在站会上讨论了容器镜像。使用版本标签时，我向 Maria 请教。我把语义化版本和我的笔记做了比较。工作不容易，但我继续前进。",
    "hard": [
     {
      "w": "container",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. The team talks about the pre-release at the standup. Before I publish a release, I read the note. I compare the host machine with my notes. I start a container, and Priya watches the result. At the table, Maria says, \"Let's compare the evidence.\" I think, then answer, \"That sounds reasonable.\" The release is out. Users can see the new feature.",
-   "tts": "Before I leave, I review what I did today. The team talks about the pre-release at the standup. Before I publish a release, I read the note. I compare the host machine with my notes. I start a container, and Priya watches the result. At the table, Maria says, \"Let's compare the evidence.\" I think, then answer, \"That sounds reasonable.\" The release is out. Users can see the new feature.",
+   "en": "Before I leave, I review what I did today. When I use the pre-release, I ask Maria for advice. When I publish a release, I follow the guide. Priya and I look for a detail in the host machine. It takes me ten minutes to start a container. When we meet, Leo says, \"Let's compare the evidence.\" I reply, \"That sounds reasonable.\" The release is out. Users can see the new feature.",
+   "tts": "Before I leave, I review what I did today. When I use the pre-release, I ask Maria for advice. When I publish a release, I follow the guide. Priya and I look for a detail in the host machine. It takes me ten minutes to start a container. When we meet, Leo says, \"Let's compare the evidence.\" I reply, \"That sounds reasonable.\" The release is out. Users can see the new feature.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。团队在站会上讨论了预发布版本。在发布版本之前，我先看了说明。我把宿主机和我的笔记做了比较。我启动容器，Priya 在旁边看结果。桌边，Maria说：\"我们比较一下证据吧。\"我想了想，回答：\"听起来有道理。\"版本发布了。用户能看到新功能了。",
+   "zh": "离开前，我回顾了今天做的事。使用预发布版本时，我向 Maria 请教。我发布版本时，按照指南操作。Priya 和我在宿主机里找一个细节。我花了十分钟启动容器。见面时，Leo说：\"我们比较一下证据吧。\"我回答：\"听起来有道理。\"版本发布了。用户能看到新功能了。",
    "hard": [
     {
      "w": "host machine",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 232,
+   "word_count": 225,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I check status, add an ignore rule, and stage only what matters. At the end of the day, Maria says, \"I'll fix it right away.\" I reply, \"It won't happen again.\" I suggest that we check the empty state first. The result depends on the default value, so I check it twice. I explain the edit a commit message to a new teammate. We discuss the risk around the reorder commits. I check my notes and confirm the next step.",
-   "tts": "I check status, add an ignore rule, and stage only what matters. At the end of the day, Maria says, \"I'll fix it right away.\" I reply, \"It won't happen again.\" I suggest that we check the empty state first. The result depends on the default value, so I check it twice. I explain the edit a commit message to a new teammate. We discuss the risk around the reorder commits. I check my notes and confirm the next step.",
+   "en": "I check status, add an ignore rule, and stage only what matters. Before we part, Leo says, \"I'll fix it right away.\" I answer, \"It won't happen again.\" We discuss the risk around the empty state. I document the default value so the team can review it later. If the edit a commit message fails, we need a clear plan. I suggest that we check the reorder commits first. I check my notes and confirm the next step.",
+   "tts": "I check status, add an ignore rule, and stage only what matters. Before we part, Leo says, \"I'll fix it right away.\" I answer, \"It won't happen again.\" We discuss the risk around the empty state. I document the default value so the team can review it later. If the edit a commit message fails, we need a clear plan. I suggest that we check the reorder commits first. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我查看状态，加了一条忽略规则，只暂存真正重要的文件。一天结束时，Maria说：\"我马上修改。\"我回答：\"下次不会这样了。\"我建议我们先检查空状态。结果取决于默认值，所以我检查了两遍。我向一位新队友解释了修改提交说明。我们讨论了调整提交顺序相关的风险。我检查笔记，确认了下一步。",
+   "zh": "我查看状态，加了一条忽略规则，只暂存真正重要的文件。分开前，Leo说：\"我马上修改。\"我回答：\"下次不会这样了。\"我们讨论了空状态相关的风险。我把默认值写成文档，方便团队之后查看。如果修改提交说明失败，我们需要一个清晰的方案。我建议我们先检查调整提交顺序。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "empty state",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I document the fixup commit so the team can review it later. If the clean history fails, we need a clear plan. We decide to trim whitespace after the review. The result depends on the case insensitive, so I check it twice. Before we part, Leo says, \"I should have double-checked.\" I answer, \"I appreciate your patience.\" A clean folder makes a clean commit.",
-   "tts": "Before I leave, I write a short summary for the team. I document the fixup commit so the team can review it later. If the clean history fails, we need a clear plan. We decide to trim whitespace after the review. The result depends on the case insensitive, so I check it twice. Before we part, Leo says, \"I should have double-checked.\" I answer, \"I appreciate your patience.\" A clean folder makes a clean commit.",
+   "en": "Before I leave, I write a short summary for the team. If the fixup commit fails, we need a clear plan. I suggest that we check the clean history first. If we trim whitespace, the result should be safe. I explain the case insensitive to a new teammate. Priya checks with me, \"I should have double-checked.\" I answer clearly, \"I appreciate your patience.\" A clean folder makes a clean commit.",
+   "tts": "Before I leave, I write a short summary for the team. If the fixup commit fails, we need a clear plan. I suggest that we check the clean history first. If we trim whitespace, the result should be safe. I explain the case insensitive to a new teammate. Priya checks with me, \"I should have double-checked.\" I answer clearly, \"I appreciate your patience.\" A clean folder makes a clean commit.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我把修补提交写成文档，方便团队之后查看。如果干净历史失败，我们需要一个清晰的方案。评审之后，我们决定去除空格。结果取决于不区分大小写，所以我检查了两遍。分开前，Leo说：\"我本应该再核对一遍的。\"我回答：\"感谢你的耐心。\"干净的文件夹才能做出干净的提交。",
+   "zh": "离开前，我给团队写了一份简短的总结。如果修补提交失败，我们需要一个清晰的方案。我建议我们先检查干净历史。如果我们去除空格，结果应该是安全的。我向一位新队友解释了不区分大小写。Priya向我确认：\"我本应该再核对一遍的。\"我清楚地回答：\"感谢你的耐心。\"干净的文件夹才能做出干净的提交。",
    "hard": [
     {
      "w": "trim whitespace",

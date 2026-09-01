@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 151,
+   "word_count": 157,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The team orders lunch together, and I order too. Maria smiles and says, \"What do you recommend?\" I answer, \"No ice, please.\" This is the output value. I see the function. I try to fetch updates. Maria shows me the origin remote. I learn one new thing.",
-   "tts": "The team orders lunch together, and I order too. Maria smiles and says, \"What do you recommend?\" I answer, \"No ice, please.\" This is the output value. I see the function. I try to fetch updates. Maria shows me the origin remote. I learn one new thing.",
+   "en": "The team orders lunch together, and I order too. I hear, \"What do you recommend?\" then I answer, \"No ice, please.\" I see the output value. The function is new to me. Maria asks me to fetch updates. I point to the origin remote. I learn one new thing.",
+   "tts": "The team orders lunch together, and I order too. I hear, \"What do you recommend?\" then I answer, \"No ice, please.\" I see the output value. The function is new to me. Maria asks me to fetch updates. I point to the origin remote. I learn one new thing.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "团队一起点午餐，我也点了。Maria微笑着说：\"你推荐什么？\"我回答：\"请不要加冰。\"这是输出值。我看到了函数。我试着获取更新。Maria 给我看了origin 远程。我学到了一件新东西。",
+   "zh": "团队一起点午餐，我也点了。我听到：\"你推荐什么？\"然后我回答：\"请不要加冰。\"我看到了输出值。函数对我来说很新。Maria 让我获取更新。我指着origin 远程。我学到了一件新东西。",
    "hard": [
     {
      "w": "output value",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I do one last thing. I point to the upstream remote. I sync with remote. This is the parameter. I see the return value. Leo says, \"Could we have the bill?\" and I say, \"Is service included?\" I pull the team's new code before I leave. We are in sync now.",
-   "tts": "Before I leave, I do one last thing. I point to the upstream remote. I sync with remote. This is the parameter. I see the return value. Leo says, \"Could we have the bill?\" and I say, \"Is service included?\" I pull the team's new code before I leave. We are in sync now.",
+   "en": "Before I leave, I do one last thing. Maria shows me the upstream remote. I sync with remote with Maria. I look at the parameter. This is the return value. Maria smiles and says, \"Could we have the bill?\" I answer, \"Is service included?\" I pull the team's new code before I leave. We are in sync now.",
+   "tts": "Before I leave, I do one last thing. Maria shows me the upstream remote. I sync with remote with Maria. I look at the parameter. This is the return value. Maria smiles and says, \"Could we have the bill?\" I answer, \"Is service included?\" I pull the team's new code before I leave. We are in sync now.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。我指着upstream 远程。我与远程同步。这是参数。我看到了返回值。Leo说：\"可以给我们账单吗？\"我说：\"包含服务费吗？\"离开前，我拉取了团队的新代码。我们同步了。",
+   "zh": "离开前，我做最后一件事。Maria 给我看了upstream 远程。我和 Maria 一起与远程同步。我看着参数。这是返回值。Maria微笑着说：\"可以给我们账单吗？\"我回答：\"包含服务费吗？\"离开前，我拉取了团队的新代码。我们同步了。",
    "hard": [
     {
      "w": "parameter",

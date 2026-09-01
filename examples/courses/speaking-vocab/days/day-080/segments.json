@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I join the on-call rotation with Leo as my shadow. I asked Leo how he handles the inverted index when the week gets heavy. The tokenizer shows up in our sprint notes more often than before. I double-check the least-privilege token before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the pinned action so clearly. Leo stops by my desk, asks, \"The corner bakery knows my order.\" and I answer, \"Cash only, and worth it.\" The task moves forward, and so does my confidence.",
-   "tts": "I join the on-call rotation with Leo as my shadow. I asked Leo how he handles the inverted index when the week gets heavy. The tokenizer shows up in our sprint notes more often than before. I double-check the least-privilege token before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the pinned action so clearly. Leo stops by my desk, asks, \"The corner bakery knows my order.\" and I answer, \"Cash only, and worth it.\" The task moves forward, and so does my confidence.",
+   "en": "I join the on-call rotation with Leo as my shadow. I add the inverted index to my study notes before I forget it. I go over the tokenizer one more time before lunch. There is a short paragraph about the least-privilege token in the guide. I ask one good question about the pinned action in the meeting. We practise the dialogue: Leo opens, \"The corner bakery knows my order.\" I answer, \"Cash only, and worth it.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "I join the on-call rotation with Leo as my shadow. I add the inverted index to my study notes before I forget it. I go over the tokenizer one more time before lunch. There is a short paragraph about the least-privilege token in the guide. I ask one good question about the pinned action in the meeting. We practise the dialogue: Leo opens, \"The corner bakery knows my order.\" I answer, \"Cash only, and worth it.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我加入值班轮换，Leo 给我当影子。我问 Leo，当一周变得繁重时他是怎么处理倒排索引的。分词器出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍最小权限令牌，因为答错要付出双倍代价。一位队友拦住我，感谢我把固定版本的动作解释得这么清楚。Leo走到我桌边问：\"街角面包店记得我的口味。\"我回答：\"只收现金\"任务在推进，我的信心也在成长。",
+   "zh": "我加入值班轮换，Leo 给我当影子。我趁还没忘，把倒排索引记进了学习笔记。午饭前我又过了一遍分词器。指南里有一小段关于最小权限令牌的介绍。会上关于固定版本的动作，我问了一个好问题。我们练习这段对话：Leo开场：\"街角面包店记得我的口味。\"我回答：\"只收现金\"Leo点头说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "inverted index",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. Maria greets me warmly with, \"The owner remembers names.\" and I answer, \"Fresh at seven sharp.\" I double-check the stop word before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the relevance score so clearly. I keep a growing list of the environment secret on my desk for later. My notes about the deploy key are getting sharper every single week. I end the day with fewer unknowns than I started with.",
-   "tts": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. Maria greets me warmly with, \"The owner remembers names.\" and I answer, \"Fresh at seven sharp.\" I double-check the stop word before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the relevance score so clearly. I keep a growing list of the environment secret on my desk for later. My notes about the deploy key are getting sharper every single week. I end the day with fewer unknowns than I started with.",
+   "en": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. We drill it twice: Leo starts, \"The owner remembers names.\" I reply, \"Fresh at seven sharp.\" then Leo smiles, \"Nice, keep that one handy.\" I go over the stop word one more time before lunch. There is a short paragraph about the relevance score in the guide. I ask one good question about the environment secret in the meeting. My notes about the deploy key look clearer this week. I end the day with fewer unknowns than I started with.",
+   "tts": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. We drill it twice: Leo starts, \"The owner remembers names.\" I reply, \"Fresh at seven sharp.\" then Leo smiles, \"Nice, keep that one handy.\" I go over the stop word one more time before lunch. There is a short paragraph about the relevance score in the guide. I ask one good question about the environment secret in the meeting. My notes about the deploy key look clearer this week. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "凌晨两点，告警响了；我深呼吸，打开操作手册，沿着黄金路径走。Maria热情地用\"老板记得每位熟客的名字。\"和我打招呼，我回答：\"七点整出炉。\"回复之前我再核对一遍停用词，因为答错要付出双倍代价。一位队友拦住我，感谢我把相关度得分解释得这么清楚。我把一份越来越长的环境机密清单放在桌上，留着以后用。我关于部署密钥的笔记每周都变得更敏锐。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "凌晨两点，告警响了；我深呼吸，打开操作手册，沿着黄金路径走。我们练了两遍：Leo起头：\"老板记得每位熟客的名字。\"我回答：\"七点整出炉。\"然后Leo笑着说：\"不错，把这句记在手边。\"午饭前我又过了一遍停用词。指南里有一小段关于相关度得分的介绍。会上关于环境机密，我问了一个好问题。这周我关于部署密钥的笔记清楚多了。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "stop word",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I asked Leo how he handles the audit alert when the week gets heavy. The supply chain review shows up in our sprint notes more often than before. I double-check the autocomplete before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the typo tolerance so clearly. Leo stops by my desk, asks, \"I buy the ugly bread.\" and I answer, \"Small shops hold streets together.\" The runbook is a letter from a calmer me.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I asked Leo how he handles the audit alert when the week gets heavy. The supply chain review shows up in our sprint notes more often than before. I double-check the autocomplete before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the typo tolerance so clearly. Leo stops by my desk, asks, \"I buy the ugly bread.\" and I answer, \"Small shops hold streets together.\" The runbook is a letter from a calmer me.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the audit alert in my notebook. I add the supply chain review to my study notes before I forget it. I go over the autocomplete one more time before lunch. There is a short paragraph about the typo tolerance in the guide. Warm-up round: Priya offers, \"I buy the ugly bread.\" I answer, \"Small shops hold streets together.\" and Priya wraps up, \"Good — try it in today’s task.\" The runbook is a letter from a calmer me.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the audit alert in my notebook. I add the supply chain review to my study notes before I forget it. I go over the autocomplete one more time before lunch. There is a short paragraph about the typo tolerance in the guide. Warm-up round: Priya offers, \"I buy the ugly bread.\" I answer, \"Small shops hold streets together.\" and Priya wraps up, \"Good — try it in today’s task.\" The runbook is a letter from a calmer me.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我问 Leo，当一周变得繁重时他是怎么处理审计告警的。供应链审查出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍自动补全，因为答错要付出双倍代价。一位队友拦住我，感谢我把容错拼写解释得这么清楚。Leo走到我桌边问：\"我专挑不好看的面包。\"我回答：\"小店把街道连在一起。\"操作手册是冷静的我写给慌张的我的信。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个审计告警的真实例子。我趁还没忘，把供应链审查记进了学习笔记。午饭前我又过了一遍自动补全。指南里有一小段关于容错拼写的介绍。热身一轮：Priya给出：\"我专挑不好看的面包。\"我回答：\"小店把街道连在一起。\"Priya收尾道：\"好——今天的任务里就用上。\"操作手册是冷静的我写给慌张的我的信。",
    "hard": [
     {
      "w": "autocomplete",

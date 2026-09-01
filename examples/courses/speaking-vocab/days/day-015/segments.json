@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 227,
+   "word_count": 231,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "At standup, I say what I finished and what is next. The team practises the pattern together: I've finished ... I use the pattern to ask a question: I'm blocked by ... After lunch, I check the row again. Before the meeting, I review the column one more time. The team talks about the workflow file at the standup. When I use the workflow run, I ask Maria for advice. With the team's help, the problem becomes smaller.",
-   "tts": "At standup, I say what I finished and what is next. The team practises the pattern together: I've finished  I use the pattern to ask a question: I'm blocked by  After lunch, I check the row again. Before the meeting, I review the column one more time. The team talks about the workflow file at the standup. When I use the workflow run, I ask Maria for advice. With the team's help, the problem becomes smaller.",
+   "en": "At standup, I say what I finished and what is next. I use the pattern to ask a question: I've finished ... Leo corrects my use of the pattern: I'm blocked by ... Priya and I look for a detail in the row. After lunch, I check the column again. Before the meeting, I review the workflow file one more time. The team talks about the workflow run at the standup. With the team's help, the problem becomes smaller.",
+   "tts": "At standup, I say what I finished and what is next. I use the pattern to ask a question: I've finished  Leo corrects my use of the pattern: I'm blocked by  Priya and I look for a detail in the row. After lunch, I check the column again. Before the meeting, I review the workflow file one more time. The team talks about the workflow run at the standup. With the team's help, the problem becomes smaller.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "站会上，我说了已完成的内容和下一步。团队一起练习这个句型：我已经完成……我用这个句型提了一个问题：我被……阻碍了。午饭后，我又检查了一遍行。开会前，我又复习了一遍列。团队在站会上讨论了工作流文件。使用工作流运行时，我向 Maria 请教。在团队的帮助下，问题变小了。",
+   "zh": "站会上，我说了已完成的内容和下一步。我用这个句型提了一个问题：我已经完成……Leo 纠正了我对这个句型的用法：我被……阻碍了。Priya 和我在行里找一个细节。午饭后，我又检查了一遍列。开会前，我又复习了一遍工作流文件。团队在站会上讨论了工作流运行。在团队的帮助下，问题变小了。",
    "hard": [
     {
      "w": "row",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. I compare the automated test with my notes. Priya and I look for a detail in the build pipeline. After lunch, I check the query again. Before the meeting, I review the database record one more time. Leo corrects my use of the pattern: My next step is ... At that moment, Priya says, \"I need more time.\" The automated tests pass. The team trusts the pipeline.",
-   "tts": "Before I leave, I review what I did today. I compare the automated test with my notes. Priya and I look for a detail in the build pipeline. After lunch, I check the query again. Before the meeting, I review the database record one more time. Leo corrects my use of the pattern: My next step is  At that moment, Priya says, \"I need more time.\" The automated tests pass. The team trusts the pipeline.",
+   "en": "Before I leave, I review what I did today. Before the meeting, I review the automated test one more time. The team talks about the build pipeline at the standup. When I use the query, I ask Maria for advice. I compare the database record with my notes. I use the pattern to ask a question: My next step is ... At that moment, Priya says, \"I need more time.\" The automated tests pass. The team trusts the pipeline.",
+   "tts": "Before I leave, I review what I did today. Before the meeting, I review the automated test one more time. The team talks about the build pipeline at the standup. When I use the query, I ask Maria for advice. I compare the database record with my notes. I use the pattern to ask a question: My next step is  At that moment, Priya says, \"I need more time.\" The automated tests pass. The team trusts the pipeline.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。我把自动化测试和我的笔记做了比较。Priya 和我在构建流水线里找一个细节。午饭后，我又检查了一遍查询。开会前，我又复习了一遍数据库记录。Leo 纠正了我对这个句型的用法：我的下一步是……这时，Priya说：\"我需要更多时间。\"自动化测试通过了。团队信任这条流水线。",
+   "zh": "离开前，我回顾了今天做的事。开会前，我又复习了一遍自动化测试。团队在站会上讨论了构建流水线。使用查询时，我向 Maria 请教。我把数据库记录和我的笔记做了比较。我用这个句型提了一个问题：我的下一步是……这时，Priya说：\"我需要更多时间。\"自动化测试通过了。团队信任这条流水线。",
    "hard": [
     {
      "w": "query",

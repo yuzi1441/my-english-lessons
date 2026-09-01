@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 333,
+   "word_count": 330,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day two hundred seventy: the alarm rings; everyone walks out calmly. In review, I raise a careful question about the friction telemetry and its failure modes. Our mentor walks me through the risk based step up's history, including two painful lessons. We weigh the cost of changing the security ux metrics against leaving it alone. I prepare a one-page brief about the abandonment rate at login so meetings start from facts. When the design review starts each week, Priya asks, \"The door that locks itself politely.\" and I answer, \"Guests never feel suspected.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "Day two hundred seventy: the alarm rings; everyone walks out calmly. In review, I raise a careful question about the friction telemetry and its failure modes. Our mentor walks me through the risk based step up's history, including two painful lessons. We weigh the cost of changing the security ux metrics against leaving it alone. I prepare a one-page brief about the abandonment rate at login so meetings start from facts. When the design review starts each week, Priya asks, \"The door that locks itself politely.\" and I answer, \"Guests never feel suspected.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "Day two hundred seventy: the alarm rings; everyone walks out calmly. I add the friction telemetry to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the risk based step up. During the design review, I raise one careful question about the security ux metrics. Our mentor walks me through how the abandonment rate at login evolved on this team. Practice debate: Priya argues, \"The door that locks itself politely.\" I respond calmly, \"Guests never feel suspected.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "Day two hundred seventy: the alarm rings; everyone walks out calmly. I add the friction telemetry to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the risk based step up. During the design review, I raise one careful question about the security ux metrics. Our mentor walks me through how the abandonment rate at login evolved on this team. Practice debate: Priya argues, \"The door that locks itself politely.\" I respond calmly, \"Guests never feel suspected.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第二百七十天：警铃响起，所有人平静地走出大楼。评审中，我就摩擦遥测及其失效模式提出了一个审慎的问题。导师带我梳理了按风险加验的历史，包括两次惨痛的教训。我们权衡了改动安全体验指标的代价与放着不管的风险。我准备了一页关于登录放弃率的简报，好让会议从事实出发。评审开始时，Priya问：\"门会礼貌地自己锁。\"我带着数字回答：\"客人从不觉得被怀疑。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "第二百七十天：警铃响起，所有人平静地走出大楼。我把摩擦遥测连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了按风险加验上。设计评审中，我就安全体验指标提出了一个审慎的问题。导师带我梳理了登录放弃率在这个团队里的演变。练习辩论：Priya主张：\"门会礼貌地自己锁。\"我平静地回应：\"客人从不觉得被怀疑。\"Priya承认道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "friction telemetry",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Sam counts heads; I count how far we have come. Leo opens the talk with, \"The alarm respects movie nights.\" and I follow up with, \"Safe but never hostile.\" and a proposal. We weigh the cost of changing the session comfort windows against leaving it alone. I prepare a one-page brief about the recovery path dignity so meetings start from facts. The team sets a clear owner for the support tickets about access, plus a deadline and review date. I compare two approaches to the recovery success rate, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Sam counts heads; I count how far we have come. Leo opens the talk with, \"The alarm respects movie nights.\" and I follow up with, \"Safe but never hostile.\" and a proposal. We weigh the cost of changing the session comfort windows against leaving it alone. I prepare a one-page brief about the recovery path dignity so meetings start from facts. The team sets a clear owner for the support tickets about access, plus a deadline and review date. I compare two approaches to the recovery success rate, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Sam counts heads; I count how far we have come. Mock review: Priya probes, \"The alarm respects movie nights.\" I answer from memory, \"Safe but never hostile.\" and Priya confirms, \"Strong answer — keep that precision.\" We spend the first ten minutes of the review on the session comfort windows. During the design review, I raise one careful question about the recovery path dignity. Our mentor walks me through how the support tickets about access evolved on this team. Before deciding, I reread my notes about the recovery success rate twice. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Sam counts heads; I count how far we have come. Mock review: Priya probes, \"The alarm respects movie nights.\" I answer from memory, \"Safe but never hostile.\" and Priya confirms, \"Strong answer — keep that precision.\" We spend the first ten minutes of the review on the session comfort windows. During the design review, I raise one careful question about the recovery path dignity. Our mentor walks me through how the support tickets about access evolved on this team. Before deciding, I reread my notes about the recovery success rate twice. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Sam 数人头；我数我们走了多远。Leo以\"警报尊重电影之夜。\"开启话题，我接着说了\"安全但不敌对。\"还附了个提案。我们权衡了改动会话舒适窗口的代价与放着不管的风险。我准备了一页关于恢复路径尊严的简报，好让会议从事实出发。团队为权限类工单分析定了明确的负责人，加上截止和复审日期。我比较了处理恢复成功率的两种方式，记下取舍，诚实分享。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "Sam 数人头；我数我们走了多远。模拟评审：Priya追问：\"警报尊重电影之夜。\"我凭记忆回答：\"安全但不敌对。\"Priya确认：\"回答有力——保持这种精确。\"评审的前十分钟，我们都用在了会话舒适窗口上。设计评审中，我就恢复路径尊严提出了一个审慎的问题。导师带我梳理了权限类工单分析在这个团队里的演变。做决定之前，我把关于恢复成功率的笔记重读了两遍。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "session comfort windows",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the user trust pulse survey and its failure modes. Our mentor walks me through the secure path wait time's history, including two painful lessons. We weigh the cost of changing the security ux review against leaving it alone. I prepare a one-page brief about the escape hatch documentation so meetings start from facts. When the design review starts each week, Priya asks, \"Rules with reasons attached.\" and I answer, \"Home security feels like hospitality.\" with numbers. Security was a locked box; now a lit room.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the user trust pulse survey and its failure modes. Our mentor walks me through the secure path wait time's history, including two painful lessons. We weigh the cost of changing the security ux review against leaving it alone. I prepare a one-page brief about the escape hatch documentation so meetings start from facts. When the design review starts each week, Priya asks, \"Rules with reasons attached.\" and I answer, \"Home security feels like hospitality.\" with numbers. Security was a locked box; now a lit room.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the user trust pulse survey and write both down honestly. I add the secure path wait time to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the security ux review. During the design review, I raise one careful question about the escape hatch documentation. Dry run: Maria opens, \"Rules with reasons attached.\" I follow, \"Home security feels like hospitality.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" Security was a locked box; now a lit room.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the user trust pulse survey and write both down honestly. I add the secure path wait time to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the security ux review. During the design review, I raise one careful question about the escape hatch documentation. Dry run: Maria opens, \"Rules with reasons attached.\" I follow, \"Home security feels like hospitality.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" Security was a locked box; now a lit room.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审中，我就用户信任度脉搏调研及其失效模式提出了一个审慎的问题。导师带我梳理了安全路径等待时间的历史，包括两次惨痛的教训。我们权衡了改动安全体验评审的代价与放着不管的风险。我准备了一页关于逃生通道说明的简报，好让会议从事实出发。评审开始时，Priya问：\"规矩都带说明书。\"我带着数字回答：\"家用安全像待客之道。\"安全曾是上锁的箱子；如今是亮堂的房间。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于用户信任度脉搏调研的两种观点，诚实地都记了下来。我把安全路径等待时间连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了安全体验评审上。设计评审中，我就逃生通道说明提出了一个审慎的问题。干跑演练：Maria开场：\"规矩都带说明书。\"我接上：\"家用安全像待客之道。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"安全曾是上锁的箱子；如今是亮堂的房间。",
    "hard": [
     {
      "w": "security ux review",

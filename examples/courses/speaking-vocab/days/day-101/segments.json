@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 273,
+   "word_count": 279,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Someone proposes a hard coverage quota of ninety percent. A teammate stopped me to say thanks for explaining the pure function so clearly. I keep a growing list of the dependency injection on my desk for later. My notes about the mutation testing are getting sharper every single week. I asked Leo how he handles the mutation score when the week gets heavy. Leo stops by my desk, asks, \"Inbox, today, someday.\" and I answer, \"The two-minute rule works.\" The task moves forward, and so does my confidence.",
-   "tts": "Someone proposes a hard coverage quota of ninety percent. A teammate stopped me to say thanks for explaining the pure function so clearly. I keep a growing list of the dependency injection on my desk for later. My notes about the mutation testing are getting sharper every single week. I asked Leo how he handles the mutation score when the week gets heavy. Leo stops by my desk, asks, \"Inbox, today, someday.\" and I answer, \"The two-minute rule works.\" The task moves forward, and so does my confidence.",
+   "en": "Someone proposes a hard coverage quota of ninety percent. I spend ten quiet minutes on the pure function after the standup. Sam asks me about the dependency injection, and I explain the basics. I keep one real example of the mutation testing in my notebook. I add the mutation score to my study notes before I forget it. We drill it twice: Leo starts, \"Inbox, today, someday.\" I reply, \"The two-minute rule works.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "Someone proposes a hard coverage quota of ninety percent. I spend ten quiet minutes on the pure function after the standup. Sam asks me about the dependency injection, and I explain the basics. I keep one real example of the mutation testing in my notebook. I add the mutation score to my study notes before I forget it. We drill it twice: Leo starts, \"Inbox, today, someday.\" I reply, \"The two-minute rule works.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "有人提议把覆盖率硬性定成百分之九十。一位队友拦住我，感谢我把纯函数解释得这么清楚。我把一份越来越长的依赖注入清单放在桌上，留着以后用。我关于变异测试的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理变异得分的。Leo走到我桌边问：\"收件箱、今天、改天。\"我回答：\"两分钟法则有效。\"任务在推进，我的信心也在成长。",
+   "zh": "有人提议把覆盖率硬性定成百分之九十。站会之后，我安安静静花了十分钟在纯函数上。Sam 问起依赖注入，我讲了讲基础。我在笔记本里留了一个变异测试的真实例子。我趁还没忘，把变异得分记进了学习笔记。我们练了两遍：Leo起头：\"收件箱、今天、改天。\"我回答：\"两分钟法则有效。\"然后Leo笑着说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "pure function",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria answers, \"Coverage tells you what ran, not whether it mattered.\" Maria greets me warmly with, \"I review weekly.\" and I answer, \"One calendar, one list.\" My notes about the side effect are getting sharper every single week. I asked Leo how he handles the testable design when the week gets heavy. The coverage gap shows up in our sprint notes more often than before. I double-check the critical path coverage before I reply, because a wrong answer costs double. I end the day with fewer unknowns than I started with.",
-   "tts": "Maria answers, \"Coverage tells you what ran, not whether it mattered.\" Maria greets me warmly with, \"I review weekly.\" and I answer, \"One calendar, one list.\" My notes about the side effect are getting sharper every single week. I asked Leo how he handles the testable design when the week gets heavy. The coverage gap shows up in our sprint notes more often than before. I double-check the critical path coverage before I reply, because a wrong answer costs double. I end the day with fewer unknowns than I started with.",
+   "en": "Maria answers, \"Coverage tells you what ran, not whether it mattered.\" Role play with feedback: Leo says, \"I review weekly.\" I try, \"One calendar, one list.\" and Leo adds, \"Nice, keep that one handy.\" Sam asks me about the side effect, and I explain the basics. I keep one real example of the testable design in my notebook. I add the coverage gap to my study notes before I forget it. I go over the critical path coverage one more time before lunch. I end the day with fewer unknowns than I started with.",
+   "tts": "Maria answers, \"Coverage tells you what ran, not whether it mattered.\" Role play with feedback: Leo says, \"I review weekly.\" I try, \"One calendar, one list.\" and Leo adds, \"Nice, keep that one handy.\" Sam asks me about the side effect, and I explain the basics. I keep one real example of the testable design in my notebook. I add the coverage gap to my study notes before I forget it. I go over the critical path coverage one more time before lunch. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 回答：“覆盖率只告诉你什么跑过，不告诉你什么重要。”Maria热情地用\"我每周回顾。\"和我打招呼，我回答：\"一个日历\"我关于副作用的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理可测试设计的。覆盖缺口出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍关键路径覆盖，因为答错要付出双倍代价。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "Maria 回答：“覆盖率只告诉你什么跑过，不告诉你什么重要。”角色扮演加反馈：Leo说：\"我每周回顾。\"我试着说：\"一个日历\"Leo补充道：\"不错，把这句记在手边。\"Sam 问起副作用，我讲了讲基础。我在笔记本里留了一个可测试设计的真实例子。我趁还没忘，把覆盖缺口记进了学习笔记。午饭前我又过了一遍关键路径覆盖。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "side effect",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. A teammate stopped me to say thanks for explaining the coverage badge so clearly. I keep a growing list of the ratchet the number on my desk for later. My notes about the separation of concerns are getting sharper every single week. I asked Leo how he handles the hexagonal architecture when the week gets heavy. Leo stops by my desk, asks, \"Write it down or lose it.\" and I answer, \"Systems beat willpower.\" We choose a ratchet, not a quota.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. A teammate stopped me to say thanks for explaining the coverage badge so clearly. I keep a growing list of the ratchet the number on my desk for later. My notes about the separation of concerns are getting sharper every single week. I asked Leo how he handles the hexagonal architecture when the week gets heavy. Leo stops by my desk, asks, \"Write it down or lose it.\" and I answer, \"Systems beat willpower.\" We choose a ratchet, not a quota.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the coverage badge look clearer this week. I spend ten quiet minutes on the ratchet the number after the standup. Sam asks me about the separation of concerns, and I explain the basics. I keep one real example of the hexagonal architecture in my notebook. We practise the dialogue: Priya opens, \"Write it down or lose it.\" I answer, \"Systems beat willpower.\" and Priya nods, \"Good — try it in today’s task.\" We choose a ratchet, not a quota.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the coverage badge look clearer this week. I spend ten quiet minutes on the ratchet the number after the standup. Sam asks me about the separation of concerns, and I explain the basics. I keep one real example of the hexagonal architecture in my notebook. We practise the dialogue: Priya opens, \"Write it down or lose it.\" I answer, \"Systems beat willpower.\" and Priya nods, \"Good — try it in today’s task.\" We choose a ratchet, not a quota.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。一位队友拦住我，感谢我把覆盖率徽章解释得这么清楚。我把一份越来越长的棘轮式提升清单放在桌上，留着以后用。我关于关注点分离的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理六边形架构的。Leo走到我桌边问：\"不写下来就会忘。\"我回答：\"系统胜过意志力。\"我们选择了棘轮，而不是配额。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于覆盖率徽章的笔记清楚多了。站会之后，我安安静静花了十分钟在棘轮式提升上。Sam 问起关注点分离，我讲了讲基础。我在笔记本里留了一个六边形架构的真实例子。我们练习这段对话：Priya开场：\"不写下来就会忘。\"我回答：\"系统胜过意志力。\"Priya点头说：\"好——今天的任务里就用上。\"我们选择了棘轮，而不是配额。",
    "hard": [
     {
      "w": "separation of concerns",

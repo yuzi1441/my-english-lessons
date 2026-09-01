@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 309,
+   "word_count": 293,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My calendar audit finds eleven hours of weekly meetings. I link the release calendar to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the change traffic light, and I write it down. I summarize what we decided about the release announcer while the details are still fresh. The guide now includes a section on the test pilot, with examples and pitfalls. In the morning meeting, Leo says, \"Latte art practice continues.\" and I respond, \"The regulars' orders by heart.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "My calendar audit finds eleven hours of weekly meetings. I link the release calendar to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the change traffic light, and I write it down. I summarize what we decided about the release announcer while the details are still fresh. The guide now includes a section on the test pilot, with examples and pitfalls. In the morning meeting, Leo says, \"Latte art practice continues.\" and I respond, \"The regulars' orders by heart.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "My calendar audit finds eleven hours of weekly meetings. In today's standup, I mention the release calendar and what comes next. We agree to give the change traffic light one more careful look this week. I connect the release announcer to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the test pilot. Meeting rehearsal: Leo opens, \"Latte art practice continues.\" I respond, \"The regulars' orders by heart.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "My calendar audit finds eleven hours of weekly meetings. In today's standup, I mention the release calendar and what comes next. We agree to give the change traffic light one more careful look this week. I connect the release announcer to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the test pilot. Meeting rehearsal: Leo opens, \"Latte art practice continues.\" I respond, \"The regulars' orders by heart.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的会议审计发现每周十一小时在开会。我把发布日历关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的变更红绿灯处理办法，我把它记了下来。趁细节还新鲜，我总结了关于发布播音员的决定。指南里现在有关于试飞员的章节，附有示例和坑点。晨会上，Leo说：\"拉花练习还在继续。\"我回应：\"熟客的订单都背下来了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我的会议审计发现每周十一小时在开会。今天的站会上，我提到发布日历和接下来的安排。我们说好这周再把变更红绿灯仔细看一次。我把发布播音员关联到工单上，免得遗漏。Priya 提出了一个更清晰的试飞员思考方式。会议彩排：Leo开场：\"拉花练习还在继续。\"我回应：\"熟客的订单都背下来了。\"Leo确认道：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "release calendar",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We cut half, shorten the rest, and async the status ones. Over coffee, Maria mentions, \"A bad day fixed by foam.\" and I add, \"New beans, brighter notes.\" with an example. I summarize what we decided about the freeze notice board while the details are still fresh. The guide now includes a section on the release train ticket, with examples and pitfalls. In today's standup, I give a quick update on the notes scribe and what blocked me. We agree that the timeline keeper needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "We cut half, shorten the rest, and async the status ones. Over coffee, Maria mentions, \"A bad day fixed by foam.\" and I add, \"New beans, brighter notes.\" with an example. I summarize what we decided about the freeze notice board while the details are still fresh. The guide now includes a section on the release train ticket, with examples and pitfalls. In today's standup, I give a quick update on the notes scribe and what blocked me. We agree that the timeline keeper needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
+   "en": "We cut half, shorten the rest, and async the status ones. Whiteboard practice: Leo offers, \"A bad day fixed by foam.\" I add, \"New beans, brighter notes.\" then Leo sums up, \"Keep practising, it is working.\" We agree to give the freeze notice board one more careful look this week. I connect the release train ticket to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the notes scribe. While the details are fresh, I write down the timeline keeper. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We cut half, shorten the rest, and async the status ones. Whiteboard practice: Leo offers, \"A bad day fixed by foam.\" I add, \"New beans, brighter notes.\" then Leo sums up, \"Keep practising, it is working.\" We agree to give the freeze notice board one more careful look this week. I connect the release train ticket to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the notes scribe. While the details are fresh, I write down the timeline keeper. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们砍掉一半、缩短其余，状态类全部异步。喝咖啡时，Maria提到：\"奶泡治愈糟糕的一天。\"我补充了\"新豆子\"，还带了个例子。趁细节还新鲜，我总结了关于冻结公告板的决定。指南里现在有关于发布列车票的章节，附有示例和坑点。在今天的站会上，我快速汇报了发布书记的进展和卡住我的地方。我们一致认为，在动手之前时间线管理员还需要再仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我们砍掉一半、缩短其余，状态类全部异步。白板练习：Leo给出：\"奶泡治愈糟糕的一天。\"我补充：\"新豆子\"然后Leo总结：\"继续练，有效果了。\"我们说好这周再把冻结公告板仔细看一次。我把发布列车票关联到工单上，免得遗漏。Priya 提出了一个更清晰的发布书记思考方式。趁细节还新鲜，我把时间线管理员写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "freeze notice board",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the go signal holder to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the post release scribe, and I write it down. I summarize what we decided about the late change policy while the details are still fresh. The guide now includes a section on the announcement draft review, with examples and pitfalls. In the morning meeting, Leo says, \"Closing shift stories.\" and I respond, \"Tips in the community jar.\" Silence on a calendar is also a feature.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the go signal holder to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the post release scribe, and I write it down. I summarize what we decided about the late change policy while the details are still fresh. The guide now includes a section on the announcement draft review, with examples and pitfalls. In the morning meeting, Leo says, \"Closing shift stories.\" and I respond, \"Tips in the community jar.\" Silence on a calendar is also a feature.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the go signal holder. In today's standup, I mention the post release scribe and what comes next. We agree to give the late change policy one more careful look this week. I connect the announcement draft review to the ticket so nothing gets lost. Pair run: Priya starts, \"Closing shift stories.\" I follow, \"Tips in the community jar.\" and Priya replies, \"Good point — use it in the standup.\" Silence on a calendar is also a feature.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the go signal holder. In today's standup, I mention the post release scribe and what comes next. We agree to give the late change policy one more careful look this week. I connect the announcement draft review to the ticket so nothing gets lost. Pair run: Priya starts, \"Closing shift stories.\" I follow, \"Tips in the community jar.\" and Priya replies, \"Good point — use it in the standup.\" Silence on a calendar is also a feature.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把放行信号员关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的发布后记录员处理办法，我把它记了下来。趁细节还新鲜，我总结了关于迟来变更政策的决定。指南里现在有关于公告草稿评审的章节，附有示例和坑点。晨会上，Leo说：\"晚班收店的故事。\"我回应：\"小费进了社区罐子。\"日历上的空白也是一种功能。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在放行信号员上。今天的站会上，我提到发布后记录员和接下来的安排。我们说好这周再把迟来变更政策仔细看一次。我把公告草稿评审关联到工单上，免得遗漏。结对演练：Priya起头：\"晚班收店的故事。\"我跟上：\"小费进了社区罐子。\"Priya回应：\"说得好——站会上就用它。\"日历上的空白也是一种功能。",
    "hard": [
     {
      "w": "late change policy",

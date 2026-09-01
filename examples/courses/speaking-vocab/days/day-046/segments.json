@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 277,
+   "word_count": 288,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Drafts need a real home in the database. I double-check the primary key before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the foreign key so clearly. I keep a growing list of the build cache on my desk for later. My notes about the cache hit rate are getting sharper every single week. Maria greets me warmly with, \"I need a bit more context.\" and I answer, \"Could you walk me through it?\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "Drafts need a real home in the database. I double-check the primary key before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the foreign key so clearly. I keep a growing list of the build cache on my desk for later. My notes about the cache hit rate are getting sharper every single week. Maria greets me warmly with, \"I need a bit more context.\" and I answer, \"Could you walk me through it?\" Small progress today prepares the bigger step tomorrow.",
+   "en": "Drafts need a real home in the database. Sam asks me about the primary key, and I explain the basics. I keep one real example of the foreign key in my notebook. I add the build cache to my study notes before I forget it. I go over the cache hit rate one more time before lunch. Role play with feedback: Maria says, \"I need a bit more context.\" I try, \"Could you walk me through it?\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "Drafts need a real home in the database. Sam asks me about the primary key, and I explain the basics. I keep one real example of the foreign key in my notebook. I add the build cache to my study notes before I forget it. I go over the cache hit rate one more time before lunch. Role play with feedback: Maria says, \"I need a bit more context.\" I try, \"Could you walk me through it?\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "草稿需要在数据库里有个真正的家。回复之前我再核对一遍主键，因为答错要付出双倍代价。一位队友拦住我，感谢我把外键解释得这么清楚。我把一份越来越长的构建缓存清单放在桌上，留着以后用。我关于缓存命中率的笔记每周都变得更敏锐。Maria热情地用\"我需要多一点背景信息。\"和我打招呼，我回答：\"你能带我过一遍吗？\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "草稿需要在数据库里有个真正的家。Sam 问起主键，我讲了讲基础。我在笔记本里留了一个外键的真实例子。我趁还没忘，把构建缓存记进了学习笔记。午饭前我又过了一遍缓存命中率。角色扮演加反馈：Maria说：\"我需要多一点背景信息。\"我试着说：\"你能带我过一遍吗？\"Maria补充道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "primary key",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I write a migration script with a primary key and a foreign key. During the afternoon break, Priya says, \"That works for me.\" I reply, \"I'd rather do it async.\" I keep a growing list of the index on my desk for later. My notes about the join query are getting sharper every single week. I asked Leo how he handles the cache invalidation when the week gets heavy. The pipeline minutes shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
-   "tts": "I write a migration script with a primary key and a foreign key. During the afternoon break, Priya says, \"That works for me.\" I reply, \"I'd rather do it async.\" I keep a growing list of the index on my desk for later. My notes about the join query are getting sharper every single week. I asked Leo how he handles the cache invalidation when the week gets heavy. The pipeline minutes shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
+   "en": "I write a migration script with a primary key and a foreign key. Warm-up round: Maria offers, \"That works for me.\" I answer, \"I'd rather do it async.\" and Maria wraps up, \"That is the one we need today.\" I keep one real example of the index in my notebook. I add the join query to my study notes before I forget it. I go over the cache invalidation one more time before lunch. There is a short paragraph about the pipeline minutes in the guide. The task moves forward, and so does my confidence.",
+   "tts": "I write a migration script with a primary key and a foreign key. Warm-up round: Maria offers, \"That works for me.\" I answer, \"I'd rather do it async.\" and Maria wraps up, \"That is the one we need today.\" I keep one real example of the index in my notebook. I add the join query to my study notes before I forget it. I go over the cache invalidation one more time before lunch. There is a short paragraph about the pipeline minutes in the guide. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我写了一个带主键和外键的迁移脚本。下午休息时，Priya说：\"我可以接受这个安排。\"我回答：\"我更想异步处理这件事。\"我把一份越来越长的索引清单放在桌上，留着以后用。我关于连接查询的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理缓存失效的。流水线分钟出现在我们迭代笔记里的次数比以前更多了。任务在推进，我的信心也在成长。",
+   "zh": "我写了一个带主键和外键的迁移脚本。热身一轮：Maria给出：\"我可以接受这个安排。\"我回答：\"我更想异步处理这件事。\"Maria收尾道：\"今天要的就是这句。\"我在笔记本里留了一个索引的真实例子。我趁还没忘，把连接查询记进了学习笔记。午饭前我又过了一遍缓存失效。指南里有一小段关于流水线分钟的介绍。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "index",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I double-check the parallel job before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the artifact retention so clearly. I keep a growing list of the migration script on my desk for later. My notes about the data type check are getting sharper every single week. Maria greets me warmly with, \"I'm at capacity this week.\" and I answer, \"Can we split the task?\" The table is small, but the thinking is serious.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I double-check the parallel job before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the artifact retention so clearly. I keep a growing list of the migration script on my desk for later. My notes about the data type check are getting sharper every single week. Maria greets me warmly with, \"I'm at capacity this week.\" and I answer, \"Can we split the task?\" The table is small, but the thinking is serious.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the parallel job after the standup. Sam asks me about the artifact retention, and I explain the basics. I keep one real example of the migration script in my notebook. I add the data type check to my study notes before I forget it. We drill it twice: Leo starts, \"I'm at capacity this week.\" I reply, \"Can we split the task?\" then Leo smiles, \"Nice, keep that one handy.\" The table is small, but the thinking is serious.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the parallel job after the standup. Sam asks me about the artifact retention, and I explain the basics. I keep one real example of the migration script in my notebook. I add the data type check to my study notes before I forget it. We drill it twice: Leo starts, \"I'm at capacity this week.\" I reply, \"Can we split the task?\" then Leo smiles, \"Nice, keep that one handy.\" The table is small, but the thinking is serious.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。回复之前我再核对一遍并行任务，因为答错要付出双倍代价。一位队友拦住我，感谢我把产物保留期解释得这么清楚。我把一份越来越长的迁移脚本清单放在桌上，留着以后用。我关于数据类型检查的笔记每周都变得更敏锐。Maria热情地用\"我这周已经排满了。\"和我打招呼，我回答：\"我们能把任务拆开吗？\"表很小，但思考很严肃。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在并行任务上。Sam 问起产物保留期，我讲了讲基础。我在笔记本里留了一个迁移脚本的真实例子。我趁还没忘，把数据类型检查记进了学习笔记。我们练了两遍：Leo起头：\"我这周已经排满了。\"我回答：\"我们能把任务拆开吗？\"然后Leo笑着说：\"不错，把这句记在手边。\"表很小，但思考很严肃。",
    "hard": [
     {
      "w": "migration script",

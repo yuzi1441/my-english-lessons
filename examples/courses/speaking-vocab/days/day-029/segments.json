@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I practice my short presentation for the team. Before we move on, Priya says, \"Here is the main result.\" In my update, I use the pattern naturally: This chart shows ... I suggest that we check the health check first. The result depends on the rollback, so I check it twice. I explain the production deploy to a new teammate. We discuss the risk around the rollback plan. I check my notes and confirm the next step.",
-   "tts": "I practice my short presentation for the team. Before we move on, Priya says, \"Here is the main result.\" In my update, I use the pattern naturally: This chart shows  I suggest that we check the health check first. The result depends on the rollback, so I check it twice. I explain the production deploy to a new teammate. We discuss the risk around the rollback plan. I check my notes and confirm the next step.",
+   "en": "I practice my short presentation for the team. Before we move on, Leo says, \"Here is the main result.\" I teach the pattern to a new teammate: This chart shows ... If the health check fails, we need a clear plan. I suggest that we check the rollback first. The result depends on the production deploy, so I check it twice. I explain the rollback plan to a new teammate. I check my notes and confirm the next step.",
+   "tts": "I practice my short presentation for the team. Before we move on, Leo says, \"Here is the main result.\" I teach the pattern to a new teammate: This chart shows  If the health check fails, we need a clear plan. I suggest that we check the rollback first. The result depends on the production deploy, so I check it twice. I explain the rollback plan to a new teammate. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我为团队演练了我的简短介绍。继续之前，Priya说：\"这是主要结果。\"在汇报里，我自然地用上了这个句型：这张图显示……我建议我们先检查健康检查。结果取决于回滚，所以我检查了两遍。我向一位新队友解释了生产部署。我们讨论了回滚计划相关的风险。我检查笔记，确认了下一步。",
+   "zh": "我为团队演练了我的简短介绍。继续之前，Leo说：\"这是主要结果。\"我把这个句型教给一位新队友：这张图显示……如果健康检查失败，我们需要一个清晰的方案。我建议我们先检查回滚。结果取决于生产部署，所以我检查了两遍。我向一位新队友解释了回滚计划。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "health check",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I document the release checklist so the team can review it later. If the post-release check fails, we need a clear plan. I suggest that we check the production environment first. The result depends on the service outage, so I check it twice. I teach the pattern to a new teammate: One limitation is ... I build a full answer around the pattern: My recommendation is ... The checklist is done. The rollback plan is ready too.",
-   "tts": "Before I leave, I write a short summary for the team. I document the release checklist so the team can review it later. If the post-release check fails, we need a clear plan. I suggest that we check the production environment first. The result depends on the service outage, so I check it twice. I teach the pattern to a new teammate: One limitation is  I build a full answer around the pattern: My recommendation is  The checklist is done. The rollback plan is ready too.",
+   "en": "Before I leave, I write a short summary for the team. The result depends on the release checklist, so I check it twice. I explain the post-release check to a new teammate. We discuss the risk around the production environment. I document the service outage so the team can review it later. In my update, I use the pattern naturally: One limitation is ... I teach the pattern to a new teammate: My recommendation is ... The checklist is done. The rollback plan is ready too.",
+   "tts": "Before I leave, I write a short summary for the team. The result depends on the release checklist, so I check it twice. I explain the post-release check to a new teammate. We discuss the risk around the production environment. I document the service outage so the team can review it later. In my update, I use the pattern naturally: One limitation is  I teach the pattern to a new teammate: My recommendation is  The checklist is done. The rollback plan is ready too.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我把发布检查表写成文档，方便团队之后查看。如果发布后检查失败，我们需要一个清晰的方案。我建议我们先检查生产环境。结果取决于服务中断，所以我检查了两遍。我把这个句型教给一位新队友：一个局限是……我围绕这个句型组织了一个完整的回答：我的建议是……检查表完成了。回滚方案也准备好了。",
+   "zh": "离开前，我给团队写了一份简短的总结。结果取决于发布检查表，所以我检查了两遍。我向一位新队友解释了发布后检查。我们讨论了生产环境相关的风险。我把服务中断写成文档，方便团队之后查看。在汇报里，我自然地用上了这个句型：一个局限是……我把这个句型教给一位新队友：我的建议是……检查表完成了。回滚方案也准备好了。",
    "hard": [
     {
      "w": "production environment",

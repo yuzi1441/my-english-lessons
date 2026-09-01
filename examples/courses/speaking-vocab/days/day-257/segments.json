@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 316,
+   "word_count": 310,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A teammate leaves for a great adventure. I compare two approaches to the tamper proof logging, note the trade-offs, share both honestly. In review, I raise a careful question about the log integrity verification and its failure modes. Our mentor walks me through the impossible travel alert's history, including two painful lessons. We weigh the cost of changing the service account review against leaving it alone. Leo opens the talk with, \"The guest book survived generations.\" and I follow up with, \"Repair visits get logged too.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "A teammate leaves for a great adventure. I compare two approaches to the tamper proof logging, note the trade-offs, share both honestly. In review, I raise a careful question about the log integrity verification and its failure modes. Our mentor walks me through the impossible travel alert's history, including two painful lessons. We weigh the cost of changing the service account review against leaving it alone. Leo opens the talk with, \"The guest book survived generations.\" and I follow up with, \"Repair visits get logged too.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "A teammate leaves for a great adventure. Our mentor walks me through how the tamper proof logging evolved on this team. Before deciding, I reread my notes about the log integrity verification twice. I prepare a one-page brief about the impossible travel alert so meetings start from facts. The team names one clear owner for the service account review. Dry run: Leo opens, \"The guest book survived generations.\" I follow, \"Repair visits get logged too.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "A teammate leaves for a great adventure. Our mentor walks me through how the tamper proof logging evolved on this team. Before deciding, I reread my notes about the log integrity verification twice. I prepare a one-page brief about the impossible travel alert so meetings start from facts. The team names one clear owner for the service account review. Dry run: Leo opens, \"The guest book survived generations.\" I follow, \"Repair visits get logged too.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位队友奔赴新征程。我比较了处理防篡改日志的两种方式，记下取舍，诚实分享。评审中，我就日志完整性校验及其失效模式提出了一个审慎的问题。导师带我梳理了异地登录告警的历史，包括两次惨痛的教训。我们权衡了改动服务账号活动复核的代价与放着不管的风险。Leo以\"访客簿传了几代人。\"开启话题，我接着说了\"维修来访也记录。\"还附了个提案。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "一位队友奔赴新征程。导师带我梳理了防篡改日志在这个团队里的演变。做决定之前，我把关于日志完整性校验的笔记重读了两遍。我准备了一页关于异地登录告警的简报，好让会议从事实出发。团队为服务账号活动复核指定了明确的负责人。干跑演练：Leo开场：\"访客簿传了几代人。\"我接上：\"维修来访也记录。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "tamper proof logging",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Access ends in hours, accounts reviewed, keys collected with warmth. Maria raises, \"We notice patterns politely.\" and I respond calmly, \"Odd hours get a phone call.\" because panic never helped anyone. Our mentor walks me through the anomalous access pattern's history, including two painful lessons. We weigh the cost of changing the dormant account alert against leaving it alone. I prepare a one-page brief about the log retention balance so meetings start from facts. The team sets a clear owner for the on call access logging, plus a deadline and review date. We end the week with something shipped and something properly learned this time.",
-   "tts": "Access ends in hours, accounts reviewed, keys collected with warmth. Maria raises, \"We notice patterns politely.\" and I respond calmly, \"Odd hours get a phone call.\" because panic never helped anyone. Our mentor walks me through the anomalous access pattern's history, including two painful lessons. We weigh the cost of changing the dormant account alert against leaving it alone. I prepare a one-page brief about the log retention balance so meetings start from facts. The team sets a clear owner for the on call access logging, plus a deadline and review date. We end the week with something shipped and something properly learned this time.",
+   "en": "Access ends in hours, accounts reviewed, keys collected with warmth. Practice debate: Leo argues, \"We notice patterns politely.\" I respond calmly, \"Odd hours get a phone call.\" and Leo concedes, \"That is the level we need.\" Before deciding, I reread my notes about the anomalous access pattern twice. I prepare a one-page brief about the dormant account alert so meetings start from facts. The team names one clear owner for the log retention balance. I compare two views on the on call access logging and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "tts": "Access ends in hours, accounts reviewed, keys collected with warmth. Practice debate: Leo argues, \"We notice patterns politely.\" I respond calmly, \"Odd hours get a phone call.\" and Leo concedes, \"That is the level we need.\" Before deciding, I reread my notes about the anomalous access pattern twice. I prepare a one-page brief about the dormant account alert so meetings start from facts. The team names one clear owner for the log retention balance. I compare two views on the on call access logging and write both down honestly. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "权限数小时内收回，账号逐项复核，钥匙在祝福中交还。Maria提出：\"我们礼貌地留意规律。\"我从容地回应：\"怪时间来访先打电话。\"因为慌张从来没用。导师带我梳理了异常访问模式的历史，包括两次惨痛的教训。我们权衡了改动休眠账号告警的代价与放着不管的风险。我准备了一页关于日志保留与隐私平衡的简报，好让会议从事实出发。团队为值班访问留痕定了明确的负责人，加上截止和复审日期。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "权限数小时内收回，账号逐项复核，钥匙在祝福中交还。练习辩论：Leo主张：\"我们礼貌地留意规律。\"我平静地回应：\"怪时间来访先打电话。\"Leo承认道：\"我们要的就是这个水平。\"做决定之前，我把关于异常访问模式的笔记重读了两遍。我准备了一页关于休眠账号告警的简报，好让会议从事实出发。团队为日志保留与隐私平衡指定了明确的负责人。我比较了关于值班访问留痕的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "anomalous access pattern",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two approaches to the security metrics pipeline, note the trade-offs, share both honestly. In review, I raise a careful question about the false alarm tuning session and its failure modes. Our mentor walks me through the failed login analysis's history, including two painful lessons. We weigh the cost of changing the privileged session recording against leaving it alone. Leo opens the talk with, \"The dog is our anomaly detector.\" and I follow up with, \"Logs without blame, just facts.\" and a proposal. Good goodbyes are also security.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two approaches to the security metrics pipeline, note the trade-offs, share both honestly. In review, I raise a careful question about the false alarm tuning session and its failure modes. Our mentor walks me through the failed login analysis's history, including two painful lessons. We weigh the cost of changing the privileged session recording against leaving it alone. Leo opens the talk with, \"The dog is our anomaly detector.\" and I follow up with, \"Logs without blame, just facts.\" and a proposal. Good goodbyes are also security.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the security metrics pipeline. Our mentor walks me through how the false alarm tuning session evolved on this team. Before deciding, I reread my notes about the failed login analysis twice. I prepare a one-page brief about the privileged session recording so meetings start from facts. Review warm-up: Priya raises, \"The dog is our anomaly detector.\" I answer, \"Logs without blame, just facts.\" and Priya grades it, \"Strong answer — keep that precision.\" Good goodbyes are also security.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the security metrics pipeline. Our mentor walks me through how the false alarm tuning session evolved on this team. Before deciding, I reread my notes about the failed login analysis twice. I prepare a one-page brief about the privileged session recording so meetings start from facts. Review warm-up: Priya raises, \"The dog is our anomaly detector.\" I answer, \"Logs without blame, just facts.\" and Priya grades it, \"Strong answer — keep that precision.\" Good goodbyes are also security.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了处理安全指标管道的两种方式，记下取舍，诚实分享。评审中，我就误报调优会及其失效模式提出了一个审慎的问题。导师带我梳理了失败登录分析的历史，包括两次惨痛的教训。我们权衡了改动特权会话录屏的代价与放着不管的风险。Leo以\"狗是我们家的异常检测器。\"开启话题，我接着说了\"只记事实不追责。\"还附了个提案。体面的告别也是安全。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就安全指标管道提出了一个审慎的问题。导师带我梳理了误报调优会在这个团队里的演变。做决定之前，我把关于失败登录分析的笔记重读了两遍。我准备了一页关于特权会话录屏的简报，好让会议从事实出发。评审热身：Priya抛出：\"狗是我们家的异常检测器。\"我带着数字回答：\"只记事实不追责。\"Priya点评道：\"回答有力——保持这种精确。\"体面的告别也是安全。",
    "hard": [
     {
      "w": "failed login analysis",

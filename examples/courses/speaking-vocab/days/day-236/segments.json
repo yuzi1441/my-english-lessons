@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 324,
+   "word_count": 317,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Launch day arrives; the dashboards hold their breath. We weigh the cost of changing the pool sizing formula against leaving it alone. I prepare a one-page brief about the connection lifetime policy so meetings start from facts. The team sets a clear owner for the pool metrics dashboard, plus a deadline and review date. I compare two approaches to the pool sizing review, note the trade-offs, share both honestly. Leo opens the talk with, \"Light bulbs stocked in advance.\" and I follow up with, \"The gift drawer saves emergencies.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Launch day arrives; the dashboards hold their breath. We weigh the cost of changing the pool sizing formula against leaving it alone. I prepare a one-page brief about the connection lifetime policy so meetings start from facts. The team sets a clear owner for the pool metrics dashboard, plus a deadline and review date. I compare two approaches to the pool sizing review, note the trade-offs, share both honestly. Leo opens the talk with, \"Light bulbs stocked in advance.\" and I follow up with, \"The gift drawer saves emergencies.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Launch day arrives; the dashboards hold their breath. The team names one clear owner for the pool sizing formula. I compare two views on the connection lifetime policy and write both down honestly. I add the pool metrics dashboard to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the pool sizing review. Review warm-up: Leo raises, \"Light bulbs stocked in advance.\" I answer, \"The gift drawer saves emergencies.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Launch day arrives; the dashboards hold their breath. The team names one clear owner for the pool sizing formula. I compare two views on the connection lifetime policy and write both down honestly. I add the pool metrics dashboard to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the pool sizing review. Review warm-up: Leo raises, \"Light bulbs stocked in advance.\" I answer, \"The gift drawer saves emergencies.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "大日子到了；仪表盘屏住了呼吸。我们权衡了改动池大小公式的代价与放着不管的风险。我准备了一页关于连接寿命策略的简报，好让会议从事实出发。团队为池指标看板定了明确的负责人，加上截止和复审日期。我比较了处理池大小评审的两种方式，记下取舍，诚实分享。Leo以\"灯泡提前备好。\"开启话题，我接着说了\"礼物抽屉救急。\"还附了个提案。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "大日子到了；仪表盘屏住了呼吸。团队为池大小公式指定了明确的负责人。我比较了关于连接寿命策略的两种观点，诚实地都记了下来。我把池指标看板连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了池大小评审上。评审热身：Leo抛出：\"灯泡提前备好。\"我带着数字回答：\"礼物抽屉救急。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "pool sizing formula",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. Maria raises, \"Batteries have a home.\" and I respond calmly, \"Reuse jars before recycling.\" because panic never helped anyone. The team sets a clear owner for the warm instance pool, plus a deadline and review date. I compare two approaches to the reuse over recreate rule, note the trade-offs, share both honestly. In review, I raise a careful question about the connection leak detector and its failure modes. Our mentor walks me through the warm pool cost review's history, including two painful lessons. We end the week with something shipped and something properly learned this time.",
-   "tts": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. Maria raises, \"Batteries have a home.\" and I respond calmly, \"Reuse jars before recycling.\" because panic never helped anyone. The team sets a clear owner for the warm instance pool, plus a deadline and review date. I compare two approaches to the reuse over recreate rule, note the trade-offs, share both honestly. In review, I raise a careful question about the connection leak detector and its failure modes. Our mentor walks me through the warm pool cost review's history, including two painful lessons. We end the week with something shipped and something properly learned this time.",
+   "en": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. Dry run: Leo opens, \"Batteries have a home.\" I follow, \"Reuse jars before recycling.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I compare two views on the warm instance pool and write both down honestly. I add the reuse over recreate rule to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the connection leak detector. During the design review, I raise one careful question about the warm pool cost review. We end the week with something shipped and something properly learned this time.",
+   "tts": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. Dry run: Leo opens, \"Batteries have a home.\" I follow, \"Reuse jars before recycling.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I compare two views on the warm instance pool and write both down honestly. I add the reuse over recreate rule to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the connection leak detector. During the design review, I raise one careful question about the warm pool cost review. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "流量三倍，p95 稳住，作战室点的是披萨不是热修。Maria提出：\"电池有自己的家。\"我从容地回应：\"回收前先复用罐子。\"因为慌张从来没用。团队为热实例池定了明确的负责人，加上截止和复审日期。我比较了处理复用优先原则的两种方式，记下取舍，诚实分享。评审中，我就连接泄漏检测器及其失效模式提出了一个审慎的问题。导师带我梳理了热池成本评审的历史，包括两次惨痛的教训。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "流量三倍，p95 稳住，作战室点的是披萨不是热修。干跑演练：Leo开场：\"电池有自己的家。\"我接上：\"回收前先复用罐子。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"我比较了关于热实例池的两种观点，诚实地都记了下来。我把复用优先原则连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了连接泄漏检测器上。设计评审中，我就热池成本评审提出了一个审慎的问题。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "warm instance pool",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We weigh the cost of changing the prewarm schedule against leaving it alone. I prepare a one-page brief about the pool configuration as code so meetings start from facts. The team sets a clear owner for the pool exhaustion alarm, plus a deadline and review date. I compare two approaches to the pre allocation strategy, note the trade-offs, share both honestly. Leo opens the talk with, \"Stockouts cause midnight runs.\" and I follow up with, \"Inventory checked monthly.\" and a proposal. The best launch story is an uneventful one.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We weigh the cost of changing the prewarm schedule against leaving it alone. I prepare a one-page brief about the pool configuration as code so meetings start from facts. The team sets a clear owner for the pool exhaustion alarm, plus a deadline and review date. I compare two approaches to the pre allocation strategy, note the trade-offs, share both honestly. Leo opens the talk with, \"Stockouts cause midnight runs.\" and I follow up with, \"Inventory checked monthly.\" and a proposal. The best launch story is an uneventful one.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the prewarm schedule so meetings start from facts. The team names one clear owner for the pool configuration as code. I compare two views on the pool exhaustion alarm and write both down honestly. I add the pre allocation strategy to the meeting agenda with three supporting facts. Mock review: Priya probes, \"Stockouts cause midnight runs.\" I answer from memory, \"Inventory checked monthly.\" and Priya confirms, \"Strong answer — keep that precision.\" The best launch story is an uneventful one.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the prewarm schedule so meetings start from facts. The team names one clear owner for the pool configuration as code. I compare two views on the pool exhaustion alarm and write both down honestly. I add the pre allocation strategy to the meeting agenda with three supporting facts. Mock review: Priya probes, \"Stockouts cause midnight runs.\" I answer from memory, \"Inventory checked monthly.\" and Priya confirms, \"Strong answer — keep that precision.\" The best launch story is an uneventful one.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我们权衡了改动预热排期的代价与放着不管的风险。我准备了一页关于池配置即代码的简报，好让会议从事实出发。团队为池耗尽告警定了明确的负责人，加上截止和复审日期。我比较了处理预分配策略的两种方式，记下取舍，诚实分享。Leo以\"断货导致半夜跑超市。\"开启话题，我接着说了\"库存每月盘一次。\"还附了个提案。最好的发布故事就是没有故事。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于预热排期的简报，好让会议从事实出发。团队为池配置即代码指定了明确的负责人。我比较了关于池耗尽告警的两种观点，诚实地都记了下来。我把预分配策略连同三条支撑事实加进了议程。模拟评审：Priya追问：\"断货导致半夜跑超市。\"我凭记忆回答：\"库存每月盘一次。\"Priya确认：\"回答有力——保持这种精确。\"最好的发布故事就是没有故事。",
    "hard": [
     {
      "w": "pool exhaustion alarm",

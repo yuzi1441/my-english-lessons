@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 269,
+   "word_count": 275,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "After launch comes a quiet period for the system. My notes about the tenant are getting sharper every single week. I asked Leo how he handles the tenant isolation when the week gets heavy. The follow-the-sun shows up in our sprint notes more often than before. I double-check the async update before I reply, because a wrong answer costs double. Maria greets me warmly with, \"Where is home for you?\" and I answer, \"I miss the street food.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "After launch comes a quiet period for the system. My notes about the tenant are getting sharper every single week. I asked Leo how he handles the tenant isolation when the week gets heavy. The follow-the-sun shows up in our sprint notes more often than before. I double-check the async update before I reply, because a wrong answer costs double. Maria greets me warmly with, \"Where is home for you?\" and I answer, \"I miss the street food.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "After launch comes a quiet period for the system. I go over the tenant one more time before lunch. There is a short paragraph about the tenant isolation in the guide. I ask one good question about the follow-the-sun in the meeting. My notes about the async update look clearer this week. We drill it twice: Maria starts, \"Where is home for you?\" I reply, \"I miss the street food.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "After launch comes a quiet period for the system. I go over the tenant one more time before lunch. There is a short paragraph about the tenant isolation in the guide. I ask one good question about the follow-the-sun in the meeting. My notes about the async update look clearer this week. We drill it twice: Maria starts, \"Where is home for you?\" I reply, \"I miss the street food.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "发布之后，系统进入静默期。我关于租户的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理租户隔离的。接力协作出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍异步更新，因为答错要付出双倍代价。Maria热情地用\"你的家乡在哪里？\"和我打招呼，我回答：\"我想念家乡的小吃。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "发布之后，系统进入静默期。午饭前我又过了一遍租户。指南里有一小段关于租户隔离的介绍。会上关于接力协作，我问了一个好问题。这周我关于异步更新的笔记清楚多了。我们练了两遍：Maria起头：\"你的家乡在哪里？\"我回答：\"我想念家乡的小吃。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "tenant",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I clean up flags, close old branches, and archive stale cards. During the afternoon break, Priya says, \"My grandma's dialect is fading.\" I reply, \"I teach my niece our words.\" The noisy neighbor shows up in our sprint notes more often than before. I double-check the per-tenant config before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the overlap hour so clearly. I keep a growing list of the recorded demo on my desk for later. The task moves forward, and so does my confidence.",
-   "tts": "I clean up flags, close old branches, and archive stale cards. During the afternoon break, Priya says, \"My grandma's dialect is fading.\" I reply, \"I teach my niece our words.\" The noisy neighbor shows up in our sprint notes more often than before. I double-check the per-tenant config before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the overlap hour so clearly. I keep a growing list of the recorded demo on my desk for later. The task moves forward, and so does my confidence.",
+   "en": "I clean up flags, close old branches, and archive stale cards. Role play with feedback: Maria says, \"My grandma's dialect is fading.\" I try, \"I teach my niece our words.\" and Maria adds, \"That is the one we need today.\" There is a short paragraph about the noisy neighbor in the guide. I ask one good question about the per-tenant config in the meeting. My notes about the overlap hour look clearer this week. I spend ten quiet minutes on the recorded demo after the standup. The task moves forward, and so does my confidence.",
+   "tts": "I clean up flags, close old branches, and archive stale cards. Role play with feedback: Maria says, \"My grandma's dialect is fading.\" I try, \"I teach my niece our words.\" and Maria adds, \"That is the one we need today.\" There is a short paragraph about the noisy neighbor in the guide. I ask one good question about the per-tenant config in the meeting. My notes about the overlap hour look clearer this week. I spend ten quiet minutes on the recorded demo after the standup. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我清理功能开关、关掉旧分支、归档闲置卡片。下午休息时，Priya说：\"奶奶的方言在消失。\"我回答：\"我教侄女家乡话。\"吵闹邻居出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍租户配置，因为答错要付出双倍代价。一位队友拦住我，感谢我把重叠时段解释得这么清楚。我把一份越来越长的录屏演示清单放在桌上，留着以后用。任务在推进，我的信心也在成长。",
+   "zh": "我清理功能开关、关掉旧分支、归档闲置卡片。角色扮演加反馈：Maria说：\"奶奶的方言在消失。\"我试着说：\"我教侄女家乡话。\"Maria补充道：\"今天要的就是这句。\"指南里有一小段关于吵闹邻居的介绍。会上关于租户配置，我问了一个好问题。这周我关于重叠时段的笔记清楚多了。站会之后，我安安静静花了十分钟在录屏演示上。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "noisy neighbor",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the timezone label are getting sharper every single week. I asked Leo how he handles the meeting hygiene when the week gets heavy. The quota enforcement shows up in our sprint notes more often than before. I double-check the tenant onboarding before I reply, because a wrong answer costs double. Maria greets me warmly with, \"Home tastes like that one soup.\" and I answer, \"Every visit feels shorter.\" Gardening is part of engineering.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the timezone label are getting sharper every single week. I asked Leo how he handles the meeting hygiene when the week gets heavy. The quota enforcement shows up in our sprint notes more often than before. I double-check the tenant onboarding before I reply, because a wrong answer costs double. Maria greets me warmly with, \"Home tastes like that one soup.\" and I answer, \"Every visit feels shorter.\" Gardening is part of engineering.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the timezone label to my study notes before I forget it. I go over the meeting hygiene one more time before lunch. There is a short paragraph about the quota enforcement in the guide. I ask one good question about the tenant onboarding in the meeting. We practise the dialogue: Leo opens, \"Home tastes like that one soup.\" I answer, \"Every visit feels shorter.\" and Leo nods, \"Nice, keep that one handy.\" Gardening is part of engineering.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the timezone label to my study notes before I forget it. I go over the meeting hygiene one more time before lunch. There is a short paragraph about the quota enforcement in the guide. I ask one good question about the tenant onboarding in the meeting. We practise the dialogue: Leo opens, \"Home tastes like that one soup.\" I answer, \"Every visit feels shorter.\" and Leo nods, \"Nice, keep that one handy.\" Gardening is part of engineering.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我关于时区标注的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理会议卫生的。配额执行出现在我们迭代笔记里的次数比以前更多了。回复之前我再核对一遍租户开通，因为答错要付出双倍代价。Maria热情地用\"家乡是特定的那碗汤的味道。\"和我打招呼，我回答：\"每次回家都感觉更短。\"园艺也是工程的一部分。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把时区标注记进了学习笔记。午饭前我又过了一遍会议卫生。指南里有一小段关于配额执行的介绍。会上关于租户开通，我问了一个好问题。我们练习这段对话：Leo开场：\"家乡是特定的那碗汤的味道。\"我回答：\"每次回家都感觉更短。\"Leo点头说：\"不错，把这句记在手边。\"园艺也是工程的一部分。",
    "hard": [
     {
      "w": "quota enforcement",

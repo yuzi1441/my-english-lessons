@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 317,
+   "word_count": 310,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A tabletop exercise: someone has our customer list. I compare two approaches to the control mapping, note the trade-offs, share both honestly. In review, I raise a careful question about the compliance calendar and its failure modes. Our mentor walks me through the compliance as code checks's history, including two painful lessons. We weigh the cost of changing the audit trail completeness test against leaving it alone. Leo opens the talk with, \"Insurance papers reviewed yearly.\" and I follow up with, \"The family document binder.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "A tabletop exercise: someone has our customer list. I compare two approaches to the control mapping, note the trade-offs, share both honestly. In review, I raise a careful question about the compliance calendar and its failure modes. Our mentor walks me through the compliance as code checks's history, including two painful lessons. We weigh the cost of changing the audit trail completeness test against leaving it alone. Leo opens the talk with, \"Insurance papers reviewed yearly.\" and I follow up with, \"The family document binder.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "A tabletop exercise: someone has our customer list. I prepare a one-page brief about the control mapping so meetings start from facts. The team names one clear owner for the compliance calendar. I compare two views on the compliance as code checks and write both down honestly. I add the audit trail completeness test to the meeting agenda with three supporting facts. Mock review: Leo probes, \"Insurance papers reviewed yearly.\" I answer from memory, \"The family document binder.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "A tabletop exercise: someone has our customer list. I prepare a one-page brief about the control mapping so meetings start from facts. The team names one clear owner for the compliance calendar. I compare two views on the compliance as code checks and write both down honestly. I add the audit trail completeness test to the meeting agenda with three supporting facts. Mock review: Leo probes, \"Insurance papers reviewed yearly.\" I answer from memory, \"The family document binder.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "桌面推演：有人拿到了我们的客户名单。我比较了处理控制项映射的两种方式，记下取舍，诚实分享。评审中，我就合规日历及其失效模式提出了一个审慎的问题。导师带我梳理了合规即代码检查的历史，包括两次惨痛的教训。我们权衡了改动审计留痕完整性测试的代价与放着不管的风险。Leo以\"保单每年过一遍。\"开启话题，我接着说了\"家庭档案夹。\"还附了个提案。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "桌面推演：有人拿到了我们的客户名单。我准备了一页关于控制项映射的简报，好让会议从事实出发。团队为合规日历指定了明确的负责人。我比较了关于合规即代码检查的两种观点，诚实地都记了下来。我把审计留痕完整性测试连同三条支撑事实加进了议程。模拟评审：Leo追问：\"保单每年过一遍。\"我凭记忆回答：\"家庭档案夹。\"Leo确认：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "control mapping",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. Maria raises, \"Expiry dates on one calendar.\" and I respond calmly, \"Rules for the kids are written too.\" because panic never helped anyone. Our mentor walks me through the audit prep sprint's history, including two painful lessons. We weigh the cost of changing the evidence automation pipeline against leaving it alone. I prepare a one-page brief about the access review automation so meetings start from facts. The team sets a clear owner for the data inventory refresh, plus a deadline and review date. We end the week with something shipped and something properly learned this time.",
-   "tts": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. Maria raises, \"Expiry dates on one calendar.\" and I respond calmly, \"Rules for the kids are written too.\" because panic never helped anyone. Our mentor walks me through the audit prep sprint's history, including two painful lessons. We weigh the cost of changing the evidence automation pipeline against leaving it alone. I prepare a one-page brief about the access review automation so meetings start from facts. The team sets a clear owner for the data inventory refresh, plus a deadline and review date. We end the week with something shipped and something properly learned this time.",
+   "en": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. Review warm-up: Leo raises, \"Expiry dates on one calendar.\" I answer, \"Rules for the kids are written too.\" and Leo grades it, \"That is the level we need.\" The team names one clear owner for the audit prep sprint. I compare two views on the evidence automation pipeline and write both down honestly. I add the access review automation to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the data inventory refresh. We end the week with something shipped and something properly learned this time.",
+   "tts": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. Review warm-up: Leo raises, \"Expiry dates on one calendar.\" I answer, \"Rules for the kids are written too.\" and Leo grades it, \"That is the level we need.\" The team names one clear owner for the audit prep sprint. I compare two views on the evidence automation pipeline and write both down honestly. I add the access review automation to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the data inventory refresh. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "九十分钟，一块白板，零指责，十一个缺口。Maria提出：\"到期日都在一个日历。\"我从容地回应：\"给孩子的规矩也写成文。\"因为慌张从来没用。导师带我梳理了审计准备冲刺的历史，包括两次惨痛的教训。我们权衡了改动证据自动化管道的代价与放着不管的风险。我准备了一页关于权限审查自动化的简报，好让会议从事实出发。团队为数据清单更新定了明确的负责人，加上截止和复审日期。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "九十分钟，一块白板，零指责，十一个缺口。评审热身：Leo抛出：\"到期日都在一个日历。\"我带着数字回答：\"给孩子的规矩也写成文。\"Leo点评道：\"我们要的就是这个水平。\"团队为审计准备冲刺指定了明确的负责人。我比较了关于证据自动化管道的两种观点，诚实地都记了下来。我把权限审查自动化连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了数据清单更新上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "audit prep sprint",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two approaches to the evidence retention schedule, note the trade-offs, share both honestly. In review, I raise a careful question about the readiness scorecard and its failure modes. Our mentor walks me through the policy exceptions register's history, including two painful lessons. We weigh the cost of changing the attestation workflow against leaving it alone. Leo opens the talk with, \"Warranties in one folder.\" and I follow up with, \"Prepared beats scrambling every time.\" and a proposal. Every gap found on paper is a door locked in advance.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two approaches to the evidence retention schedule, note the trade-offs, share both honestly. In review, I raise a careful question about the readiness scorecard and its failure modes. Our mentor walks me through the policy exceptions register's history, including two painful lessons. We weigh the cost of changing the attestation workflow against leaving it alone. Leo opens the talk with, \"Warranties in one folder.\" and I follow up with, \"Prepared beats scrambling every time.\" and a proposal. Every gap found on paper is a door locked in advance.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the evidence retention schedule twice. I prepare a one-page brief about the readiness scorecard so meetings start from facts. The team names one clear owner for the policy exceptions register. I compare two views on the attestation workflow and write both down honestly. Practice debate: Priya argues, \"Warranties in one folder.\" I respond calmly, \"Prepared beats scrambling every time.\" and Priya concedes, \"Strong answer — keep that precision.\" Every gap found on paper is a door locked in advance.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the evidence retention schedule twice. I prepare a one-page brief about the readiness scorecard so meetings start from facts. The team names one clear owner for the policy exceptions register. I compare two views on the attestation workflow and write both down honestly. Practice debate: Priya argues, \"Warranties in one folder.\" I respond calmly, \"Prepared beats scrambling every time.\" and Priya concedes, \"Strong answer — keep that precision.\" Every gap found on paper is a door locked in advance.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了处理证据保留排期的两种方式，记下取舍，诚实分享。评审中，我就就绪记分卡及其失效模式提出了一个审慎的问题。导师带我梳理了例外登记簿的历史，包括两次惨痛的教训。我们权衡了改动签署证明流程的代价与放着不管的风险。Leo以\"保修卡一个文件夹。\"开启话题，我接着说了\"提前准备永远胜过临时翻找。\"还附了个提案。纸上找到的每个缺口，都是提前锁好的门。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于证据保留排期的笔记重读了两遍。我准备了一页关于就绪记分卡的简报，好让会议从事实出发。团队为例外登记簿指定了明确的负责人。我比较了关于签署证明流程的两种观点，诚实地都记了下来。练习辩论：Priya主张：\"保修卡一个文件夹。\"我平静地回应：\"提前准备永远胜过临时翻找。\"Priya承认道：\"回答有力——保持这种精确。\"纸上找到的每个缺口，都是提前锁好的门。",
    "hard": [
     {
      "w": "policy exceptions register",

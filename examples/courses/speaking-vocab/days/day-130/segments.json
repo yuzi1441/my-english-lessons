@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 303,
+   "word_count": 277,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Leo and I disagree about where drafts sync should live. I summarize what we decided about the feedback sandwich debate while the details are still fresh. The guide now includes a section on the sbi feedback, with examples and pitfalls. In today's standup, I give a quick update on the good first issue board and what blocked me. We agree that the mentor matching needs one more careful look before we commit. Over coffee, Maria mentions, \"Summer clothes hibernate.\" and I add, \"Vacuum bags shrink time.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Leo and I disagree about where drafts sync should live. I summarize what we decided about the feedback sandwich debate while the details are still fresh. The guide now includes a section on the sbi feedback, with examples and pitfalls. In today's standup, I give a quick update on the good first issue board and what blocked me. We agree that the mentor matching needs one more careful look before we commit. Over coffee, Maria mentions, \"Summer clothes hibernate.\" and I add, \"Vacuum bags shrink time.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Leo and I disagree about where drafts sync should live. I connect the feedback sandwich debate to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the sbi feedback. While the details are fresh, I write down the good first issue board. The guide now has a short section on the mentor matching. Drill without notes: Maria asks, \"Summer clothes hibernate.\" I answer, \"Vacuum bags shrink time.\" and Maria closes, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Leo and I disagree about where drafts sync should live. I connect the feedback sandwich debate to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the sbi feedback. While the details are fresh, I write down the good first issue board. The guide now has a short section on the mentor matching. Drill without notes: Maria asks, \"Summer clothes hibernate.\" I answer, \"Vacuum bags shrink time.\" and Maria closes, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Leo 和我对于草稿同步应该放在哪里产生了分歧。趁细节还新鲜，我总结了关于三明治反馈之辩的决定。指南里现在有关于情境行为影响的章节，附有示例和坑点。在今天的站会上，我快速汇报了新手任务板的进展和卡住我的地方。我们一致认为，在动手之前导师配对还需要再仔细看一次。喝咖啡时，Maria提到：\"夏装进入冬眠。\"我补充了\"真空袋压缩了空间。\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "Leo 和我对于草稿同步应该放在哪里产生了分歧。我把三明治反馈之辩关联到工单上，免得遗漏。Priya 提出了一个更清晰的情境行为影响思考方式。趁细节还新鲜，我把新手任务板写了下来。指南里现在有关于导师配对的简短章节。脱稿演练：Maria问：\"夏装进入冬眠。\"我回答：\"真空袋压缩了空间。\"Maria收束：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "feedback sandwich debate",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I steelman his plan out loud until he nods, and he returns the favor. Priya checks in with, \"Mothballs or cedar?\" so I explain, \"The swap reveals surprises.\" without rushing. We agree on when to ask for feedback early so the schedule stops surprising us. We agree that the feedback log needs one more careful look before we commit. I link the starter task list to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the first pr celebration, and I write it down. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "I steelman his plan out loud until he nods, and he returns the favor. Priya checks in with, \"Mothballs or cedar?\" so I explain, \"The swap reveals surprises.\" without rushing. We agree on when to ask for feedback early so the schedule stops surprising us. We agree that the feedback log needs one more careful look before we commit. I link the starter task list to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the first pr celebration, and I write it down. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "I steelman his plan out loud until he nods, and he returns the favor. Pair run: Maria starts, \"Mothballs or cedar?\" I follow, \"The swap reveals surprises.\" and Maria replies, \"Exactly, and it saves time too.\" I ask for feedback early while Leo checks the other half. While the details are fresh, I write down the feedback log. The guide now has a short section on the starter task list. I compare my notes about the first pr celebration with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "I steelman his plan out loud until he nods, and he returns the favor. Pair run: Maria starts, \"Mothballs or cedar?\" I follow, \"The swap reveals surprises.\" and Maria replies, \"Exactly, and it saves time too.\" I ask for feedback early while Leo checks the other half. While the details are fresh, I write down the feedback log. The guide now has a short section on the starter task list. I compare my notes about the first pr celebration with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我把他的方案讲得比他还好，他点头，然后也这样对我。Priya关心地问：\"樟脑丸还是雪松块？\"于是我不慌不忙地解释：\"换季总有惊喜发现。\"我们就何时早要反馈达成一致，这样日程就不会再让人意外。我们一致认为，在动手之前反馈日志还需要再仔细看一次。我把起步任务清单关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的首个 PR 庆祝处理办法，我把它记了下来。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我把他的方案讲得比他还好，他点头，然后也这样对我。结对演练：Maria起头：\"樟脑丸还是雪松块？\"我跟上：\"换季总有惊喜发现。\"Maria回应：\"正是，而且还省时间。\"我早要反馈，Leo 检查另一半。趁细节还新鲜，我把反馈日志写了下来。指南里现在有关于起步任务清单的简短章节。我把关于首个 PR 庆祝的笔记和 Priya 的对照了一下。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "ask for feedback early",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I summarize what we decided about the growth plan doc while the details are still fresh. The guide now includes a section on the graduation path, with examples and pitfalls. In today's standup, I give a quick update on the upward feedback and what blocked me. I thanks in the open and track the outcome in the ticket until it is closed. Over coffee, Maria mentions, \"Donate the never-worn.\" and I add, \"Seasonal reset, calm mind.\" with an example. We park it overnight, politely.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I summarize what we decided about the growth plan doc while the details are still fresh. The guide now includes a section on the graduation path, with examples and pitfalls. In today's standup, I give a quick update on the upward feedback and what blocked me. I thanks in the open and track the outcome in the ticket until it is closed. Over coffee, Maria mentions, \"Donate the never-worn.\" and I add, \"Seasonal reset, calm mind.\" with an example. We park it overnight, politely.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the growth plan doc one more careful look this week. I connect the graduation path to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the upward feedback. Before the review, I thanks in the open and prepare two questions. Whiteboard practice: Leo offers, \"Donate the never-worn.\" I add, \"Seasonal reset, calm mind.\" then Leo sums up, \"Keep practising, it is working.\" We park it overnight, politely.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the growth plan doc one more careful look this week. I connect the graduation path to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the upward feedback. Before the review, I thanks in the open and prepare two questions. Whiteboard practice: Leo offers, \"Donate the never-worn.\" I add, \"Seasonal reset, calm mind.\" then Leo sums up, \"Keep practising, it is working.\" We park it overnight, politely.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我总结了关于成长计划文档的决定。指南里现在有关于出师路径的章节，附有示例和坑点。在今天的站会上，我快速汇报了向上反馈的进展和卡住我的地方。我公开道谢，并在工单里跟踪结果直到它关闭。喝咖啡时，Maria提到：\"从不穿的捐掉。\"我补充了\"换季重置\"，还带了个例子。我们礼貌地把它停放了一夜。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把成长计划文档仔细看一次。我把出师路径关联到工单上，免得遗漏。Priya 提出了一个更清晰的向上反馈思考方式。评审之前，我公开道谢并准备了两个问题。白板练习：Leo给出：\"从不穿的捐掉。\"我补充：\"换季重置\"然后Leo总结：\"继续练，有效果了。\"我们礼貌地把它停放了一夜。",
    "hard": [
     {
      "w": "upward feedback",

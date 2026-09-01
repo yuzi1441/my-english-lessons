@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 232,
+   "word_count": 234,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We talk about a piece of news at lunch. At the end of the day, Maria says, \"What's your opinion?\" I reply, \"I agree with that point.\" We discuss the risk around the inference. I document the hallucination so the team can review it later. If the reference an issue fails, we need a clear plan. We decide to link a commit after the review. I check my notes and confirm the next step.",
-   "tts": "We talk about a piece of news at lunch. At the end of the day, Maria says, \"What's your opinion?\" I reply, \"I agree with that point.\" We discuss the risk around the inference. I document the hallucination so the team can review it later. If the reference an issue fails, we need a clear plan. We decide to link a commit after the review. I check my notes and confirm the next step.",
+   "en": "We talk about a piece of news at lunch. Priya checks with me, \"What's your opinion?\" I answer clearly, \"I agree with that point.\" I document the inference so the team can review it later. If the hallucination fails, we need a clear plan. I suggest that we check the reference an issue first. If we link a commit, the result should be safe. I check my notes and confirm the next step.",
+   "tts": "We talk about a piece of news at lunch. Priya checks with me, \"What's your opinion?\" I answer clearly, \"I agree with that point.\" I document the inference so the team can review it later. If the hallucination fails, we need a clear plan. I suggest that we check the reference an issue first. If we link a commit, the result should be safe. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "午饭时，我们讨论了一条新闻。一天结束时，Maria说：\"你的看法是什么？\"我回答：\"我同意那个观点。\"我们讨论了推理相关的风险。我把幻觉写成文档，方便团队之后查看。如果引用问题单失败，我们需要一个清晰的方案。评审之后，我们决定链接提交。我检查笔记，确认了下一步。",
+   "zh": "午饭时，我们讨论了一条新闻。Priya向我确认：\"你的看法是什么？\"我清楚地回答：\"我同意那个观点。\"我把推理写成文档，方便团队之后查看。如果幻觉失败，我们需要一个清晰的方案。我建议我们先检查引用问题单。如果我们链接提交，结果应该是安全的。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "inference",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. The result depends on the permanent link, so I check it twice. I explain the documentation page to a new teammate. We discuss the risk around the confidence level. I verify the answer while the others watch the dashboard. Before we part, Leo says, \"I see it differently.\" I answer, \"We need more information.\" Every claim now links to a source. The note is strong.",
-   "tts": "Before I leave, I write a short summary for the team. The result depends on the permanent link, so I check it twice. I explain the documentation page to a new teammate. We discuss the risk around the confidence level. I verify the answer while the others watch the dashboard. Before we part, Leo says, \"I see it differently.\" I answer, \"We need more information.\" Every claim now links to a source. The note is strong.",
+   "en": "Before I leave, I write a short summary for the team. I suggest that we check the permanent link first. The result depends on the documentation page, so I check it twice. I explain the confidence level to a new teammate. The team agrees to verify the answer before Friday. At the end of the day, Maria says, \"I see it differently.\" I reply, \"We need more information.\" Every claim now links to a source. The note is strong.",
+   "tts": "Before I leave, I write a short summary for the team. I suggest that we check the permanent link first. The result depends on the documentation page, so I check it twice. I explain the confidence level to a new teammate. The team agrees to verify the answer before Friday. At the end of the day, Maria says, \"I see it differently.\" I reply, \"We need more information.\" Every claim now links to a source. The note is strong.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。结果取决于永久链接，所以我检查了两遍。我向一位新队友解释了文档页面。我们讨论了置信程度相关的风险。我核验答案，其他队友盯着仪表盘。分开前，Leo说：\"我的看法不同。\"我回答：\"我们需要更多信息。\"每个说法现在都有来源链接。这份笔记很扎实。",
+   "zh": "离开前，我给团队写了一份简短的总结。我建议我们先检查永久链接。结果取决于文档页面，所以我检查了两遍。我向一位新队友解释了置信程度。团队同意在周五之前核验答案。一天结束时，Maria说：\"我的看法不同。\"我回答：\"我们需要更多信息。\"每个说法现在都有来源链接。这份笔记很扎实。",
    "hard": [
     {
      "w": "confidence level",

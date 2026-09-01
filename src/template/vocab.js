@@ -76,6 +76,47 @@
   let entries = read();
   save(entries);
 
+  // backfill missing definitions from the course vocabulary data (month.json
+  // at the course root covers every term of the main course); only fills
+  // gaps, never overwrites user edits
+  (async () => {
+    try {
+      const res = await fetch("vocabulary-month/month.json", { credentials: "same-origin" });
+      if (!res.ok) return;
+      const course = await res.json();
+      const map = new Map();
+      (course.days || []).forEach(day => (day.groups || []).forEach(group => (group.items || []).forEach(item => {
+        map.set(String(item.term || "").trim().toLowerCase(), item);
+      })));
+      const now = Date.now();
+      let fixed = 0;
+      entries.forEach(entry => {
+        const hit = map.get(String(entry.word || "").trim().toLowerCase());
+        if (!hit) return;
+        const badDef = !entry.def
+          || entry.def === "暂未收录中文释义"
+          || entry.def === "待补充"
+          || entry.def === "待补充释义";
+        let touched = false;
+        if (badDef && hit.meaning) { entry.def = hit.meaning; touched = true; }
+        if ((!entry.note || !entry.note.trim()) && hit.note) { entry.note = hit.note; touched = true; }
+        if (!entry.pos && hit.pos) { entry.pos = hit.pos; touched = true; }
+        if ((!entry.examples || !entry.examples.length) && hit.example) { entry.examples = [hit.example]; touched = true; }
+        if ((!entry.related || !entry.related.length) && hit.collocation) { entry.related = [hit.collocation]; touched = true; }
+        if (!entry.speech && hit.speech) { entry.speech = hit.speech; touched = true; }
+        if (touched) {
+          entry.updatedAt = now;
+          fixed += 1;
+        }
+      });
+      if (fixed) {
+        save(entries);
+        render();
+        toast(`已从课程数据补全 ${fixed} 个词条的释义`);
+      }
+    } catch { /* course data unavailable: keep local state as-is */ }
+  })();
+
   function startOfDay(value = now()) {
     const date = new Date(value);
     date.setHours(0, 0, 0, 0);

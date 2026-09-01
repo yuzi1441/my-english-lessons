@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 316,
+   "word_count": 288,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The usage dashboard reveals one feature burning half the budget. The guide now includes a section on the perf regression bisection assist, with examples and pitfalls. In today's standup, I give a quick update on the bundle size forecaster and what blocked me. We agree that the flaky test prediction needs one more careful look before we commit. I link the retry policy tuning bot to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"The midnight ramen protocol.\" and I respond, \"One pot cooking philosophy.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "The usage dashboard reveals one feature burning half the budget. The guide now includes a section on the perf regression bisection assist, with examples and pitfalls. In today's standup, I give a quick update on the bundle size forecaster and what blocked me. We agree that the flaky test prediction needs one more careful look before we commit. I link the retry policy tuning bot to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"The midnight ramen protocol.\" and I respond, \"One pot cooking philosophy.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "The usage dashboard reveals one feature burning half the budget. Priya suggests a cleaner way to think about the perf regression bisection assist. While the details are fresh, I write down the bundle size forecaster. The guide now has a short section on the flaky test prediction. I compare my notes about the retry policy tuning bot with Priya's. Pair run: Leo starts, \"The midnight ramen protocol.\" I follow, \"One pot cooking philosophy.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The usage dashboard reveals one feature burning half the budget. Priya suggests a cleaner way to think about the perf regression bisection assist. While the details are fresh, I write down the bundle size forecaster. The guide now has a short section on the flaky test prediction. I compare my notes about the retry policy tuning bot with Priya's. Pair run: Leo starts, \"The midnight ramen protocol.\" I follow, \"One pot cooking philosophy.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "用量看板暴露了一个烧掉半数预算的功能。指南里现在有关于性能回归二分辅助的章节，附有示例和坑点。在今天的站会上，我快速汇报了体积预测器的进展和卡住我的地方。我们一致认为，在动手之前抖动测试预测还需要再仔细看一次。我把重试策略调优机器人关联到工单上，这样重要的事情不会再被遗漏。晨会上，Leo说：\"深夜泡面协议。\"我回应：\"一锅出哲学。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "用量看板暴露了一个烧掉半数预算的功能。Priya 提出了一个更清晰的性能回归二分辅助思考方式。趁细节还新鲜，我把体积预测器写了下来。指南里现在有关于抖动测试预测的简短章节。我把关于重试策略调优机器人的笔记和 Priya 的对照了一下。结对演练：Leo起头：\"深夜泡面协议。\"我跟上：\"一锅出哲学。\"Leo回应：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "perf regression bisection assist",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A cache, a smaller model, and a batch job bring it to earth. Over coffee, Maria mentions, \"Fridge zone defense.\" and I add, \"The ten minute grocery run.\" with an example. We agree that the memory leak hint engine needs one more careful look before we commit. I link the frame drop culprit ranking to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the pipeline stage pruning, and I write it down. I summarize what we decided about the parallel stage planner while the details are still fresh. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "A cache, a smaller model, and a batch job bring it to earth. Over coffee, Maria mentions, \"Fridge zone defense.\" and I add, \"The ten minute grocery run.\" with an example. We agree that the memory leak hint engine needs one more careful look before we commit. I link the frame drop culprit ranking to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the pipeline stage pruning, and I write it down. I summarize what we decided about the parallel stage planner while the details are still fresh. I close the ticket with a clear result and one lesson for next time.",
+   "en": "A cache, a smaller model, and a batch job bring it to earth. Meeting rehearsal: Leo opens, \"Fridge zone defense.\" I respond, \"The ten minute grocery run.\" and Leo confirms, \"Keep practising, it is working.\" While the details are fresh, I write down the memory leak hint engine. The guide now has a short section on the frame drop culprit ranking. I compare my notes about the pipeline stage pruning with Priya's. At the review, we spend ten minutes on the parallel stage planner. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "A cache, a smaller model, and a batch job bring it to earth. Meeting rehearsal: Leo opens, \"Fridge zone defense.\" I respond, \"The ten minute grocery run.\" and Leo confirms, \"Keep practising, it is working.\" While the details are fresh, I write down the memory leak hint engine. The guide now has a short section on the frame drop culprit ranking. I compare my notes about the pipeline stage pruning with Priya's. At the review, we spend ten minutes on the parallel stage planner. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个缓存、一个小模型、一个批处理，让它落了地。喝咖啡时，Maria提到：\"冰箱分区防守。\"我补充了\"十分钟采买冲刺。\"，还带了个例子。我们一致认为，在动手之前内存泄漏提示引擎还需要再仔细看一次。我把掉帧元凶排序关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的流水线阶段瘦身处理办法，我把它记了下来。趁细节还新鲜，我总结了关于并行阶段规划器的决定。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "一个缓存、一个小模型、一个批处理，让它落了地。会议彩排：Leo开场：\"冰箱分区防守。\"我回应：\"十分钟采买冲刺。\"Leo确认道：\"继续练，有效果了。\"趁细节还新鲜，我把内存泄漏提示引擎写了下来。指南里现在有关于掉帧元凶排序的简短章节。我把关于流水线阶段瘦身的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在并行阶段规划器上。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "memory leak hint engine",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now includes a section on the build cache advisor, with examples and pitfalls. In today's standup, I give a quick update on the train schedule optimizer and what blocked me. We agree that the load scenario generator needs one more careful look before we commit. I link the perf budget alert tuning to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"Prep once, eat thrice.\" and I respond, \"Dishes soak, minds rest.\" Magic gets an electric bill.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now includes a section on the build cache advisor, with examples and pitfalls. In today's standup, I give a quick update on the train schedule optimizer and what blocked me. We agree that the load scenario generator needs one more careful look before we commit. I link the perf budget alert tuning to the ticket so nothing important ever gets lost again. In the morning meeting, Leo says, \"Prep once, eat thrice.\" and I respond, \"Dishes soak, minds rest.\" Magic gets an electric bill.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the build cache advisor to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the train schedule optimizer. While the details are fresh, I write down the load scenario generator. The guide now has a short section on the perf budget alert tuning. Drill without notes: Priya asks, \"Prep once, eat thrice.\" I answer, \"Dishes soak, minds rest.\" and Priya closes, \"Good point — use it in the standup.\" Magic gets an electric bill.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the build cache advisor to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the train schedule optimizer. While the details are fresh, I write down the load scenario generator. The guide now has a short section on the perf budget alert tuning. Drill without notes: Priya asks, \"Prep once, eat thrice.\" I answer, \"Dishes soak, minds rest.\" and Priya closes, \"Good point — use it in the standup.\" Magic gets an electric bill.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于构建缓存顾问的章节，附有示例和坑点。在今天的站会上，我快速汇报了发布列车时刻优化的进展和卡住我的地方。我们一致认为，在动手之前压测场景生成器还需要再仔细看一次。我把性能预算告警调优关联到工单上，这样重要的事情不会再被遗漏。晨会上，Leo说：\"一次备餐\"我回应：\"碗泡着\"魔法也要交电费。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把构建缓存顾问关联到工单上，免得遗漏。Priya 提出了一个更清晰的发布列车时刻优化思考方式。趁细节还新鲜，我把压测场景生成器写了下来。指南里现在有关于性能预算告警调优的简短章节。脱稿演练：Priya问：\"一次备餐\"我回答：\"碗泡着\"Priya收束：\"说得好——站会上就用它。\"魔法也要交电费。",
    "hard": [
     {
      "w": "load scenario generator",

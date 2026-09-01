@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 220,
+   "word_count": 224,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I visit the pharmacy and ask about the medicine. At the table, Maria says, \"How often should I take this?\" I think, then answer, \"Are there any side effects?\" The team talks about the user account at the standup. When I use the login session, I ask Maria for advice. I compare the repository secret with my notes. Priya and I look for a detail in the workflow permission. I write down what I learned today.",
-   "tts": "I visit the pharmacy and ask about the medicine. At the table, Maria says, \"How often should I take this?\" I think, then answer, \"Are there any side effects?\" The team talks about the user account at the standup. When I use the login session, I ask Maria for advice. I compare the repository secret with my notes. Priya and I look for a detail in the workflow permission. I write down what I learned today.",
+   "en": "I visit the pharmacy and ask about the medicine. When we meet, Leo says, \"How often should I take this?\" I reply, \"Are there any side effects?\" Priya and I look for a detail in the user account. After lunch, I check the login session again. Before the meeting, I review the repository secret one more time. The team talks about the workflow permission at the standup. I write down what I learned today.",
+   "tts": "I visit the pharmacy and ask about the medicine. When we meet, Leo says, \"How often should I take this?\" I reply, \"Are there any side effects?\" Priya and I look for a detail in the user account. After lunch, I check the login session again. Before the meeting, I review the repository secret one more time. The team talks about the workflow permission at the standup. I write down what I learned today.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我去了药店，询问了这种药。桌边，Maria说：\"这个药多久吃一次？\"我想了想，回答：\"有副作用吗？\"团队在站会上讨论了用户账号。使用登录会话时，我向 Maria 请教。我把仓库机密和我的笔记做了比较。Priya 和我在工作流权限里找一个细节。我记下了今天学到的东西。",
+   "zh": "我去了药店，询问了这种药。见面时，Leo说：\"这个药多久吃一次？\"我回答：\"有副作用吗？\"Priya 和我在用户账号里找一个细节。午饭后，我又检查了一遍登录会话。开会前，我又复习了一遍仓库机密。团队在站会上讨论了工作流权限。我记下了今天学到的东西。",
    "hard": [
     {
      "w": "user account",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. After lunch, I check secret scanning again. After I revoke a token, I tell the team. The team talks about the access permission at the standup. Before I sign out, I read the note. When we meet, Leo says, \"I'm allergic to this medicine.\" I reply, \"I need to see a doctor.\" The token is safe, and the secret stays outside the code.",
-   "tts": "Before I leave, I review what I did today. After lunch, I check secret scanning again. After I revoke a token, I tell the team. The team talks about the access permission at the standup. Before I sign out, I read the note. When we meet, Leo says, \"I'm allergic to this medicine.\" I reply, \"I need to see a doctor.\" The token is safe, and the secret stays outside the code.",
+   "en": "Before I leave, I review what I did today. Before the meeting, I review secret scanning one more time. I revoke a token so the team can see the change. When I use the access permission, I ask Maria for advice. When I sign out, I follow the guide. Priya starts with \"I'm allergic to this medicine.\" and I continue with \"I need to see a doctor.\" The token is safe, and the secret stays outside the code.",
+   "tts": "Before I leave, I review what I did today. Before the meeting, I review secret scanning one more time. I revoke a token so the team can see the change. When I use the access permission, I ask Maria for advice. When I sign out, I follow the guide. Priya starts with \"I'm allergic to this medicine.\" and I continue with \"I need to see a doctor.\" The token is safe, and the secret stays outside the code.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。午饭后，我又检查了一遍机密扫描。我撤销令牌之后，告诉了团队。团队在站会上讨论了访问权限。在退出登录之前，我先看了说明。见面时，Leo说：\"我对这种药过敏。\"我回答：\"我需要看医生。\"令牌是安全的，机密留在代码之外。",
+   "zh": "离开前，我回顾了今天做的事。开会前，我又复习了一遍机密扫描。我撤销令牌，好让团队看到变化。使用访问权限时，我向 Maria 请教。我退出登录时，按照指南操作。Priya先说了\"我对这种药过敏。\"我接着说：\"我需要看医生。\"令牌是安全的，机密留在代码之外。",
    "hard": [
     {
      "w": "access permission",

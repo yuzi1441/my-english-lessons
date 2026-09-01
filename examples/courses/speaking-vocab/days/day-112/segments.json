@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 272,
+   "word_count": 279,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The end-to-end suite runs in a headless browser now. I double-check the reliability target before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the failure mode so clearly. I keep a growing list of the quality gate tuning on my desk for later. My notes about the required status checks are getting sharper every single week. Maria greets me warmly with, \"One pocket for keys.\" and I answer, \"The shelf of maybe.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "The end-to-end suite runs in a headless browser now. I double-check the reliability target before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the failure mode so clearly. I keep a growing list of the quality gate tuning on my desk for later. My notes about the required status checks are getting sharper every single week. Maria greets me warmly with, \"One pocket for keys.\" and I answer, \"The shelf of maybe.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "The end-to-end suite runs in a headless browser now. I add the reliability target to my study notes before I forget it. I go over the failure mode one more time before lunch. There is a short paragraph about the quality gate tuning in the guide. I ask one good question about the required status checks in the meeting. We practise the dialogue: Maria opens, \"One pocket for keys.\" I answer, \"The shelf of maybe.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "The end-to-end suite runs in a headless browser now. I add the reliability target to my study notes before I forget it. I go over the failure mode one more time before lunch. There is a short paragraph about the quality gate tuning in the guide. I ask one good question about the required status checks in the meeting. We practise the dialogue: Maria opens, \"One pocket for keys.\" I answer, \"The shelf of maybe.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "端到端套件现在跑在无头浏览器里。回复之前我再核对一遍可靠性目标，因为答错要付出双倍代价。一位队友拦住我，感谢我把失效模式解释得这么清楚。我把一份越来越长的门禁调优清单放在桌上，留着以后用。我关于必需状态检查的笔记每周都变得更敏锐。Maria热情地用\"一个口袋只放钥匙。\"和我打招呼，我回答：\"“也许用得上”的架子。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "端到端套件现在跑在无头浏览器里。我趁还没忘，把可靠性目标记进了学习笔记。午饭前我又过了一遍失效模式。指南里有一小段关于门禁调优的介绍。会上关于必需状态检查，我问了一个好问题。我们练习这段对话：Maria开场：\"一个口袋只放钥匙。\"我回答：\"“也许用得上”的架子。\"Maria点头说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "reliability target",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Page objects keep it readable; test ids keep it steady. During the afternoon break, Priya says, \"Twenty hangers rule.\" I reply, \"Digital hoarding counts too.\" I keep a growing list of the single point of failure on my desk for later. My notes about the redundancy plan are getting sharper every single week. I asked Leo how he handles the required review count when the week gets heavy. The auto-merge rule shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
-   "tts": "Page objects keep it readable; test ids keep it steady. During the afternoon break, Priya says, \"Twenty hangers rule.\" I reply, \"Digital hoarding counts too.\" I keep a growing list of the single point of failure on my desk for later. My notes about the redundancy plan are getting sharper every single week. I asked Leo how he handles the required review count when the week gets heavy. The auto-merge rule shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
+   "en": "Page objects keep it readable; test ids keep it steady. We drill it twice: Maria starts, \"Twenty hangers rule.\" I reply, \"Digital hoarding counts too.\" then Maria smiles, \"That is the one we need today.\" I go over the single point of failure one more time before lunch. There is a short paragraph about the redundancy plan in the guide. I ask one good question about the required review count in the meeting. My notes about the auto-merge rule look clearer this week. The task moves forward, and so does my confidence.",
+   "tts": "Page objects keep it readable; test ids keep it steady. We drill it twice: Maria starts, \"Twenty hangers rule.\" I reply, \"Digital hoarding counts too.\" then Maria smiles, \"That is the one we need today.\" I go over the single point of failure one more time before lunch. There is a short paragraph about the redundancy plan in the guide. I ask one good question about the required review count in the meeting. My notes about the auto-merge rule look clearer this week. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "页面对象让它保持可读；测试专用属性让它保持稳定。下午休息时，Priya说：\"二十个衣架法则。\"我回答：\"数字囤积也算数。\"我把一份越来越长的单点故障清单放在桌上，留着以后用。我关于冗余方案的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理必需评审人数的。自动合并规则出现在我们迭代笔记里的次数比以前更多了。任务在推进，我的信心也在成长。",
+   "zh": "页面对象让它保持可读；测试专用属性让它保持稳定。我们练了两遍：Maria起头：\"二十个衣架法则。\"我回答：\"数字囤积也算数。\"然后Maria笑着说：\"今天要的就是这句。\"午饭前我又过了一遍单点故障。指南里有一小段关于冗余方案的介绍。会上关于必需评审人数，我问了一个好问题。这周我关于自动合并规则的笔记清楚多了。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "single point of failure",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I double-check the up-to-date branch rule before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the resolved conversations rule so clearly. I keep a growing list of the mean time to recover on my desk for later. My notes about the error budget policy are getting sharper every single week. Maria greets me warmly with, \"Donate monthly.\" and I answer, \"Space is a luxury.\" Honest end-to-end tests are few and precious.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I double-check the up-to-date branch rule before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the resolved conversations rule so clearly. I keep a growing list of the mean time to recover on my desk for later. My notes about the error budget policy are getting sharper every single week. Maria greets me warmly with, \"Donate monthly.\" and I answer, \"Space is a luxury.\" Honest end-to-end tests are few and precious.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the up-to-date branch rule in my notebook. I add the resolved conversations rule to my study notes before I forget it. I go over the mean time to recover one more time before lunch. There is a short paragraph about the error budget policy in the guide. Warm-up round: Leo offers, \"Donate monthly.\" I answer, \"Space is a luxury.\" and Leo wraps up, \"Nice, keep that one handy.\" Honest end-to-end tests are few and precious.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the up-to-date branch rule in my notebook. I add the resolved conversations rule to my study notes before I forget it. I go over the mean time to recover one more time before lunch. There is a short paragraph about the error budget policy in the guide. Warm-up round: Leo offers, \"Donate monthly.\" I answer, \"Space is a luxury.\" and Leo wraps up, \"Nice, keep that one handy.\" Honest end-to-end tests are few and precious.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。回复之前我再核对一遍最新分支规则，因为答错要付出双倍代价。一位队友拦住我，感谢我把讨论解决规则解释得这么清楚。我把一份越来越长的平均恢复时间清单放在桌上，留着以后用。我关于错误预算政策的笔记每周都变得更敏锐。Maria热情地用\"每月捐一次。\"和我打招呼，我回答：\"空隙就是奢侈。\"诚实的端到端测试，少而珍贵。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个最新分支规则的真实例子。我趁还没忘，把讨论解决规则记进了学习笔记。午饭前我又过了一遍平均恢复时间。指南里有一小段关于错误预算政策的介绍。热身一轮：Leo给出：\"每月捐一次。\"我回答：\"空隙就是奢侈。\"Leo收尾道：\"不错，把这句记在手边。\"诚实的端到端测试，少而珍贵。",
    "hard": [
     {
      "w": "mean time to recover",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 311,
+   "word_count": 280,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We present results in plain language, wins and worries side by side. We agree that the insight first headline needs one more careful look before we commit. I link the before after chart pair to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the dashboard walkthrough, and I write it down. I summarize what we decided about the definition on hover while the details are still fresh. Over coffee, Maria mentions, \"The afternoon tea run.\" and I add, \"The group order spreadsheet.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "We present results in plain language, wins and worries side by side. We agree that the insight first headline needs one more careful look before we commit. I link the before after chart pair to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the dashboard walkthrough, and I write it down. I summarize what we decided about the definition on hover while the details are still fresh. Over coffee, Maria mentions, \"The afternoon tea run.\" and I add, \"The group order spreadsheet.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "We present results in plain language, wins and worries side by side. Priya suggests a cleaner way to think about the insight first headline. While the details are fresh, I write down the before after chart pair. The guide now has a short section on the dashboard walkthrough. I compare my notes about the definition on hover with Priya's. Pair run: Maria starts, \"The afternoon tea run.\" I follow, \"The group order spreadsheet.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "We present results in plain language, wins and worries side by side. Priya suggests a cleaner way to think about the insight first headline. While the details are fresh, I write down the before after chart pair. The guide now has a short section on the dashboard walkthrough. I compare my notes about the definition on hover with Priya's. Pair run: Maria starts, \"The afternoon tea run.\" I follow, \"The group order spreadsheet.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们用平实的语言呈现结果，收益与担忧并排。我们一致认为，在动手之前结论先行标题还需要再仔细看一次。我把前后对比图组关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的看板走查处理办法，我把它记了下来。趁细节还新鲜，我总结了关于悬停看口径的决定。喝咖啡时，Maria提到：\"下午茶跑腿。\"我补充了\"拼单表格。\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我们用平实的语言呈现结果，收益与担忧并排。Priya 提出了一个更清晰的结论先行标题思考方式。趁细节还新鲜，我把前后对比图组写了下来。指南里现在有关于看板走查的简短章节。我把关于悬停看口径的笔记和 Priya 的对照了一下。结对演练：Maria起头：\"下午茶跑腿。\"我跟上：\"拼单表格。\"Maria回应：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "insight first headline",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The holdout group gets thanked by name; their patience was data too. Priya checks in with, \"Preferences remembered with care.\" so I explain, \"New hire picks first.\" without rushing. Priya suggests a simpler way to handle the annotated launch line, and I write it down. I summarize what we decided about the small multiples while the details are still fresh. The guide now includes a section on the data dictionary link, with examples and pitfalls. In today's standup, I give a quick update on the refresh time label and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "The holdout group gets thanked by name; their patience was data too. Priya checks in with, \"Preferences remembered with care.\" so I explain, \"New hire picks first.\" without rushing. Priya suggests a simpler way to handle the annotated launch line, and I write it down. I summarize what we decided about the small multiples while the details are still fresh. The guide now includes a section on the data dictionary link, with examples and pitfalls. In today's standup, I give a quick update on the refresh time label and what blocked me. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "The holdout group gets thanked by name; their patience was data too. Meeting rehearsal: Maria opens, \"Preferences remembered with care.\" I respond, \"New hire picks first.\" and Maria confirms, \"Exactly, and it saves time too.\" While the details are fresh, I write down the annotated launch line. The guide now has a short section on the small multiples. I compare my notes about the data dictionary link with Priya's. At the review, we spend ten minutes on the refresh time label. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The holdout group gets thanked by name; their patience was data too. Meeting rehearsal: Maria opens, \"Preferences remembered with care.\" I respond, \"New hire picks first.\" and Maria confirms, \"Exactly, and it saves time too.\" While the details are fresh, I write down the annotated launch line. The guide now has a short section on the small multiples. I compare my notes about the data dictionary link with Priya's. At the review, we spend ten minutes on the refresh time label. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "保留组被点名感谢；他们的耐心也是数据。Priya关心地问：\"口味被认真记住。\"于是我不慌不忙地解释：\"新人先挑。\"Priya 提出了一个更简单的上线标注线处理办法，我把它记了下来。趁细节还新鲜，我总结了关于小倍数图的决定。指南里现在有关于数据字典链接的章节，附有示例和坑点。在今天的站会上，我快速汇报了刷新时间标注的进展和卡住我的地方。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "保留组被点名感谢；他们的耐心也是数据。会议彩排：Maria开场：\"口味被认真记住。\"我回应：\"新人先挑。\"Maria确认道：\"正是，而且还省时间。\"趁细节还新鲜，我把上线标注线写了下来。指南里现在有关于小倍数图的简短章节。我把关于数据字典链接的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在刷新时间标注上。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "annotated launch line",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the drill path documentation needs one more careful look before we commit. I link the dashboard feedback loop to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the slope chart, and I write it down. I summarize what we decided about the chart caption discipline while the details are still fresh. Over coffee, Maria mentions, \"Receipt split fairly.\" and I add, \"Sugar powers standups.\" with an example. We ship to everyone except the people it hurts.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree that the drill path documentation needs one more careful look before we commit. I link the dashboard feedback loop to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the slope chart, and I write it down. I summarize what we decided about the chart caption discipline while the details are still fresh. Over coffee, Maria mentions, \"Receipt split fairly.\" and I add, \"Sugar powers standups.\" with an example. We ship to everyone except the people it hurts.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the drill path documentation to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the dashboard feedback loop. While the details are fresh, I write down the slope chart. The guide now has a short section on the chart caption discipline. Drill without notes: Leo asks, \"Receipt split fairly.\" I answer, \"Sugar powers standups.\" and Leo closes, \"Keep practising, it is working.\" We ship to everyone except the people it hurts.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the drill path documentation to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the dashboard feedback loop. While the details are fresh, I write down the slope chart. The guide now has a short section on the chart caption discipline. Drill without notes: Leo asks, \"Receipt split fairly.\" I answer, \"Sugar powers standups.\" and Leo closes, \"Keep practising, it is working.\" We ship to everyone except the people it hurts.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们一致认为，在动手之前下钻路径说明还需要再仔细看一次。我把看板反馈回路关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的斜率图处理办法，我把它记了下来。趁细节还新鲜，我总结了关于图表说明纪律的决定。喝咖啡时，Maria提到：\"账单分得公平。\"我补充了\"糖分驱动站会。\"，还带了个例子。我们向所有人发布，除了它伤害的人。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把下钻路径说明关联到工单上，免得遗漏。Priya 提出了一个更清晰的看板反馈回路思考方式。趁细节还新鲜，我把斜率图写了下来。指南里现在有关于图表说明纪律的简短章节。脱稿演练：Leo问：\"账单分得公平。\"我回答：\"糖分驱动站会。\"Leo收束：\"继续练，有效果了。\"我们向所有人发布，除了它伤害的人。",
    "hard": [
     {
      "w": "slope chart",

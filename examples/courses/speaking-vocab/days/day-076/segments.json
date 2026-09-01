@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 264,
+   "word_count": 271,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria introduces budgets: milliseconds, megabytes, and money. I double-check the blue-green deploy before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the rolling upgrade so clearly. I keep a growing list of the serverless function on my desk for later. My notes about the cold start cost are getting sharper every single week. Maria greets me warmly with, \"I fix chairs on weekends.\" and I answer, \"Glue, clamps, patience.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "Maria introduces budgets: milliseconds, megabytes, and money. I double-check the blue-green deploy before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the rolling upgrade so clearly. I keep a growing list of the serverless function on my desk for later. My notes about the cold start cost are getting sharper every single week. Maria greets me warmly with, \"I fix chairs on weekends.\" and I answer, \"Glue, clamps, patience.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "Maria introduces budgets: milliseconds, megabytes, and money. My notes about the blue-green deploy look clearer this week. I spend ten quiet minutes on the rolling upgrade after the standup. Sam asks me about the serverless function, and I explain the basics. I keep one real example of the cold start cost in my notebook. We practise the dialogue: Maria opens, \"I fix chairs on weekends.\" I answer, \"Glue, clamps, patience.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "Maria introduces budgets: milliseconds, megabytes, and money. My notes about the blue-green deploy look clearer this week. I spend ten quiet minutes on the rolling upgrade after the standup. Sam asks me about the serverless function, and I explain the basics. I keep one real example of the cold start cost in my notebook. We practise the dialogue: Maria opens, \"I fix chairs on weekends.\" I answer, \"Glue, clamps, patience.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 介绍了预算思维：毫秒、兆字节和金钱。回复之前我再核对一遍蓝绿部署，因为答错要付出双倍代价。一位队友拦住我，感谢我把滚动升级解释得这么清楚。我把一份越来越长的无服务器函数清单放在桌上，留着以后用。我关于冷启动代价的笔记每周都变得更敏锐。Maria热情地用\"我周末修椅子。\"和我打招呼，我回答：\"胶水、夹具、耐心。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "Maria 介绍了预算思维：毫秒、兆字节和金钱。这周我关于蓝绿部署的笔记清楚多了。站会之后，我安安静静花了十分钟在滚动升级上。Sam 问起无服务器函数，我讲了讲基础。我在笔记本里留了一个冷启动代价的真实例子。我们练习这段对话：Maria开场：\"我周末修椅子。\"我回答：\"胶水、夹具、耐心。\"Maria点头说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "blue-green deploy",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Every feature now spends from a visible allocation. During the afternoon break, Priya says, \"Repair beats replace.\" I reply, \"My toolbox is honest.\" I keep a growing list of the schema migration on my desk for later. My notes about the backward compatible are getting sharper every single week. I asked Leo how he handles the event trigger when the week gets heavy. The execution quota shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
-   "tts": "Every feature now spends from a visible allocation. During the afternoon break, Priya says, \"Repair beats replace.\" I reply, \"My toolbox is honest.\" I keep a growing list of the schema migration on my desk for later. My notes about the backward compatible are getting sharper every single week. I asked Leo how he handles the event trigger when the week gets heavy. The execution quota shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
+   "en": "Every feature now spends from a visible allocation. We drill it twice: Maria starts, \"Repair beats replace.\" I reply, \"My toolbox is honest.\" then Maria smiles, \"That is the one we need today.\" I spend ten quiet minutes on the schema migration after the standup. Sam asks me about the backward compatible, and I explain the basics. I keep one real example of the event trigger in my notebook. I add the execution quota to my study notes before I forget it. The task moves forward, and so does my confidence.",
+   "tts": "Every feature now spends from a visible allocation. We drill it twice: Maria starts, \"Repair beats replace.\" I reply, \"My toolbox is honest.\" then Maria smiles, \"That is the one we need today.\" I spend ten quiet minutes on the schema migration after the standup. Sam asks me about the backward compatible, and I explain the basics. I keep one real example of the event trigger in my notebook. I add the execution quota to my study notes before I forget it. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "现在每个功能都从看得见的分配中支出。下午休息时，Priya说：\"修复胜过更换。\"我回答：\"我的工具箱简单实用。\"我把一份越来越长的结构迁移清单放在桌上，留着以后用。我关于向后兼容的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理事件触发的。执行配额出现在我们迭代笔记里的次数比以前更多了。任务在推进，我的信心也在成长。",
+   "zh": "现在每个功能都从看得见的分配中支出。我们练了两遍：Maria起头：\"修复胜过更换。\"我回答：\"我的工具箱简单实用。\"然后Maria笑着说：\"今天要的就是这句。\"站会之后，我安安静静花了十分钟在结构迁移上。Sam 问起向后兼容，我讲了讲基础。我在笔记本里留了一个事件触发的真实例子。我趁还没忘，把执行配额记进了学习笔记。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "schema migration",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I double-check the function timeout before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the stateless design so clearly. I keep a growing list of the dual write on my desk for later. My notes about the feature parity are getting sharper every single week. Maria greets me warmly with, \"Broken things teach you.\" and I answer, \"The chair outlived my doubt.\" Constraints did not shrink my ideas; they sharpened them.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I double-check the function timeout before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the stateless design so clearly. I keep a growing list of the dual write on my desk for later. My notes about the feature parity are getting sharper every single week. Maria greets me warmly with, \"Broken things teach you.\" and I answer, \"The chair outlived my doubt.\" Constraints did not shrink my ideas; they sharpened them.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the function timeout in the meeting. My notes about the stateless design look clearer this week. I spend ten quiet minutes on the dual write after the standup. Sam asks me about the feature parity, and I explain the basics. Warm-up round: Leo offers, \"Broken things teach you.\" I answer, \"The chair outlived my doubt.\" and Leo wraps up, \"Nice, keep that one handy.\" Constraints did not shrink my ideas; they sharpened them.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the function timeout in the meeting. My notes about the stateless design look clearer this week. I spend ten quiet minutes on the dual write after the standup. Sam asks me about the feature parity, and I explain the basics. Warm-up round: Leo offers, \"Broken things teach you.\" I answer, \"The chair outlived my doubt.\" and Leo wraps up, \"Nice, keep that one handy.\" Constraints did not shrink my ideas; they sharpened them.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。回复之前我再核对一遍函数超时，因为答错要付出双倍代价。一位队友拦住我，感谢我把无状态设计解释得这么清楚。我把一份越来越长的双写清单放在桌上，留着以后用。我关于功能对齐的笔记每周都变得更敏锐。Maria热情地用\"坏掉的东西会教你东西。\"和我打招呼，我回答：\"椅子比我的怀疑活得久。\"约束没有缩小我的想法，反而磨尖了它们。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于函数超时，我问了一个好问题。这周我关于无状态设计的笔记清楚多了。站会之后，我安安静静花了十分钟在双写上。Sam 问起功能对齐，我讲了讲基础。热身一轮：Leo给出：\"坏掉的东西会教你东西。\"我回答：\"椅子比我的怀疑活得久。\"Leo收尾道：\"不错，把这句记在手边。\"约束没有缩小我的想法，反而磨尖了它们。",
    "hard": [
     {
      "w": "dual write",

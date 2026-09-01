@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 309,
+   "word_count": 289,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The data team invites us to a joint design session. In today's standup, I give a quick update on the delivery cadence and what blocked me. We agree that the weekly cut needs one more careful look before we commit. I link the process map page to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the responsibility legend, and I write it down. Priya checks in with, \"Golden hour is nature's filter.\" so I explain, \"The same route, new details.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "The data team invites us to a joint design session. In today's standup, I give a quick update on the delivery cadence and what blocked me. We agree that the weekly cut needs one more careful look before we commit. I link the process map page to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the responsibility legend, and I write it down. Priya checks in with, \"Golden hour is nature's filter.\" so I explain, \"The same route, new details.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
+   "en": "The data team invites us to a joint design session. I connect the delivery cadence to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the weekly cut. While the details are fresh, I write down the process map page. The guide now has a short section on the responsibility legend. Drill without notes: Priya asks, \"Golden hour is nature's filter.\" I answer, \"The same route, new details.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The data team invites us to a joint design session. I connect the delivery cadence to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the weekly cut. While the details are fresh, I write down the process map page. The guide now has a short section on the responsibility legend. Drill without notes: Priya asks, \"Golden hour is nature's filter.\" I answer, \"The same route, new details.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "数据团队邀请我们参加联合设计会。在今天的站会上，我快速汇报了交付节律的进展和卡住我的地方。我们一致认为，在动手之前每周剪版还需要再仔细看一次。我把流程地图页关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的职责图例处理办法，我把它记了下来。Priya关心地问：\"黄金时刻是大自然的滤镜。\"于是我不慌不忙地解释：\"同一条路\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "数据团队邀请我们参加联合设计会。我把交付节律关联到工单上，免得遗漏。Priya 提出了一个更清晰的每周剪版思考方式。趁细节还新鲜，我把流程地图页写了下来。指南里现在有关于职责图例的简短章节。脱稿演练：Priya问：\"黄金时刻是大自然的滤镜。\"我回答：\"同一条路\"Priya收束：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "delivery cadence",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Their contracts meet our events, and both sides leave with a shared diagram. In the morning meeting, Leo says, \"Dogs choose their humans.\" and I respond, \"Bakery countdown begins.\" I link the batch size control to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the flow efficiency, and I write it down. I summarize what we decided about the process change log while the details are still fresh. The guide now includes a section on the on call runbook index, with examples and pitfalls. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Their contracts meet our events, and both sides leave with a shared diagram. In the morning meeting, Leo says, \"Dogs choose their humans.\" and I respond, \"Bakery countdown begins.\" I link the batch size control to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the flow efficiency, and I write it down. I summarize what we decided about the process change log while the details are still fresh. The guide now includes a section on the on call runbook index, with examples and pitfalls. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Their contracts meet our events, and both sides leave with a shared diagram. Pair run: Priya starts, \"Dogs choose their humans.\" I follow, \"Bakery countdown begins.\" and Priya replies, \"Good point — use it in the standup.\" Priya suggests a cleaner way to think about the batch size control. While the details are fresh, I write down the flow efficiency. The guide now has a short section on the process change log. I compare my notes about the on call runbook index with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Their contracts meet our events, and both sides leave with a shared diagram. Pair run: Priya starts, \"Dogs choose their humans.\" I follow, \"Bakery countdown begins.\" and Priya replies, \"Good point — use it in the standup.\" Priya suggests a cleaner way to think about the batch size control. While the details are fresh, I write down the flow efficiency. The guide now has a short section on the process change log. I compare my notes about the on call runbook index with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "他们的契约遇上我们的事件，双方带着同一张图离开。晨会上，Leo说：\"狗选中它的人类。\"我回应：\"面包店倒计时开始。\"我把批量大小控制关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的流动效率处理办法，我把它记了下来。趁细节还新鲜，我总结了关于流程变更日志的决定。指南里现在有关于值班手册索引的章节，附有示例和坑点。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "他们的契约遇上我们的事件，双方带着同一张图离开。结对演练：Priya起头：\"狗选中它的人类。\"我跟上：\"面包店倒计时开始。\"Priya回应：\"说得好——站会上就用它。\"Priya 提出了一个更清晰的批量大小控制思考方式。趁细节还新鲜，我把流动效率写了下来。指南里现在有关于流程变更日志的简短章节。我把关于值班手册索引的笔记和 Priya 的对照了一下。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "batch size control",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I give a quick update on the process faq and what blocked me. We agree that the single source of truth needs one more careful look before we commit. I link the kanban board hygiene to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the cycle time trend, and I write it down. Priya checks in with, \"Streetlights flicker on like ideas.\" so I explain, \"Evenings end softly.\" without rushing. Bridges need maintenance, not just construction.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I give a quick update on the process faq and what blocked me. We agree that the single source of truth needs one more careful look before we commit. I link the kanban board hygiene to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the cycle time trend, and I write it down. Priya checks in with, \"Streetlights flicker on like ideas.\" so I explain, \"Evenings end softly.\" without rushing. Bridges need maintenance, not just construction.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the process faq one more careful look this week. I connect the single source of truth to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the kanban board hygiene. While the details are fresh, I write down the cycle time trend. Whiteboard practice: Maria offers, \"Streetlights flicker on like ideas.\" I add, \"Evenings end softly.\" then Maria sums up, \"Exactly, and it saves time too.\" Bridges need maintenance, not just construction.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the process faq one more careful look this week. I connect the single source of truth to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the kanban board hygiene. While the details are fresh, I write down the cycle time trend. Whiteboard practice: Maria offers, \"Streetlights flicker on like ideas.\" I add, \"Evenings end softly.\" then Maria sums up, \"Exactly, and it saves time too.\" Bridges need maintenance, not just construction.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。在今天的站会上，我快速汇报了流程 FAQ的进展和卡住我的地方。我们一致认为，在动手之前唯一事实源还需要再仔细看一次。我把看板卫生关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的周期时间趋势处理办法，我把它记了下来。Priya关心地问：\"路灯像灵感一样亮起。\"于是我不慌不忙地解释：\"黄昏总是温柔收尾。\"桥需要养护，不只是修建。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把流程 FAQ仔细看一次。我把唯一事实源关联到工单上，免得遗漏。Priya 提出了一个更清晰的看板卫生思考方式。趁细节还新鲜，我把周期时间趋势写了下来。白板练习：Maria给出：\"路灯像灵感一样亮起。\"我补充：\"黄昏总是温柔收尾。\"然后Maria总结：\"正是，而且还省时间。\"桥需要养护，不只是修建。",
    "hard": [
     {
      "w": "kanban board hygiene",

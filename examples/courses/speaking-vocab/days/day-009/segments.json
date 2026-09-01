@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 187,
+   "word_count": 198,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "At home, I do the laundry and wash the dishes. I wash the dishes carefully. Leo shows me how to clean the room. Leo tells me a story about the process. Maria explains the thread to me. I resolve a conflict, and Maria checks it. Now I understand the conflicting change. The team gives me good advice.",
-   "tts": "At home, I do the laundry and wash the dishes. I wash the dishes carefully. Leo shows me how to clean the room. Leo tells me a story about the process. Maria explains the thread to me. I resolve a conflict, and Maria checks it. Now I understand the conflicting change. The team gives me good advice.",
+   "en": "At home, I do the laundry and wash the dishes. I need to wash the dishes before lunch. I clean the room carefully. I ask one question about the process. Leo tells me a story about the thread. Today I resolve a conflict for the first time. I learn about the conflicting change because it is useful. The team gives me good advice.",
+   "tts": "At home, I do the laundry and wash the dishes. I need to wash the dishes before lunch. I clean the room carefully. I ask one question about the process. Leo tells me a story about the thread. Today I resolve a conflict for the first time. I learn about the conflicting change because it is useful. The team gives me good advice.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "在家里，我洗衣服、洗碗。我认真地洗碗。Leo 教我怎样打扫房间。Leo 给我讲了一个关于进程的小故事。Maria 给我讲解线程。我解决冲突，Maria 来检查。现在我理解了冲突改动。团队给了我很好的建议。",
+   "zh": "在家里，我洗衣服、洗碗。午饭前，我需要洗碗。我认真地打扫房间。我问了一个关于进程的问题。Leo 给我讲了一个关于线程的小故事。今天我第一次解决冲突。我学习冲突改动，因为它很有用。团队给了我很好的建议。",
    "hard": [
     {
      "w": "process",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. I accept incoming change carefully. Leo shows me how to complete the merge. Leo tells me a story about the background task. Maria explains the system resource to me. I pick up groceries, and Maria checks it. I need to finish the chores before lunch. Maria helps me resolve the conflict. The merge is complete.",
-   "tts": "Before I leave, I finish one last task. I accept incoming change carefully. Leo shows me how to complete the merge. Leo tells me a story about the background task. Maria explains the system resource to me. I pick up groceries, and Maria checks it. I need to finish the chores before lunch. Maria helps me resolve the conflict. The merge is complete.",
+   "en": "Before I leave, I finish one last task. Today I accept incoming change for the first time. I complete the merge, and Maria checks it. Now I understand the background task. I write a short note about the system resource. Leo shows me how to pick up groceries. I finish the chores one small step at a time. Maria helps me resolve the conflict. The merge is complete.",
+   "tts": "Before I leave, I finish one last task. Today I accept incoming change for the first time. I complete the merge, and Maria checks it. Now I understand the background task. I write a short note about the system resource. Leo shows me how to pick up groceries. I finish the chores one small step at a time. Maria helps me resolve the conflict. The merge is complete.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。我认真地接受传入改动。Leo 教我怎样完成合并。Leo 给我讲了一个关于后台任务的小故事。Maria 给我讲解系统资源。我顺路买生活用品，Maria 来检查。午饭前，我需要做完家务。Maria 帮我解决了冲突。合并完成了。",
+   "zh": "离开前，我完成最后一项任务。今天我第一次接受传入改动。我完成合并，Maria 来检查。现在我理解了后台任务。我给系统资源写了一条简短的笔记。Leo 教我怎样顺路买生活用品。我一步一步地做完家务。Maria 帮我解决了冲突。合并完成了。",
    "hard": [
     {
      "w": "background task",

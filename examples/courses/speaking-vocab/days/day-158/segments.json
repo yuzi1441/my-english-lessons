@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 309,
+   "word_count": 289,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The support lead asks for a number by Friday. I link the scheduled report to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the report template engine, and I write it down. I summarize what we decided about the informed rollout principle while the details are still fresh. The guide now includes a section on the holdout ethics, with examples and pitfalls. In the morning meeting, Leo says, \"The family shared calendar.\" and I respond, \"Grocery list sync war.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "The support lead asks for a number by Friday. I link the scheduled report to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the report template engine, and I write it down. I summarize what we decided about the informed rollout principle while the details are still fresh. The guide now includes a section on the holdout ethics, with examples and pitfalls. In the morning meeting, Leo says, \"The family shared calendar.\" and I respond, \"Grocery list sync war.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "The support lead asks for a number by Friday. I compare my notes about the scheduled report with Priya's. At the review, we spend ten minutes on the report template engine. In today's standup, I mention the informed rollout principle and what comes next. We agree to give the holdout ethics one more careful look this week. Drill without notes: Leo asks, \"The family shared calendar.\" I answer, \"Grocery list sync war.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The support lead asks for a number by Friday. I compare my notes about the scheduled report with Priya's. At the review, we spend ten minutes on the report template engine. In today's standup, I mention the informed rollout principle and what comes next. We agree to give the holdout ethics one more careful look this week. Drill without notes: Leo asks, \"The family shared calendar.\" I answer, \"Grocery list sync war.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "支持负责人周五前要一个数字。我把定时报表关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的报表模板引擎处理办法，我把它记了下来。趁细节还新鲜，我总结了关于知情放量原则的决定。指南里现在有关于保留组伦理的章节，附有示例和坑点。晨会上，Leo说：\"家庭共享日历。\"我回应：\"购物清单同步大战。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "支持负责人周五前要一个数字。我把关于定时报表的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在报表模板引擎上。今天的站会上，我提到知情放量原则和接下来的安排。我们说好这周再把保留组伦理仔细看一次。脱稿演练：Leo问：\"家庭共享日历。\"我回答：\"购物清单同步大战。\"Leo收束：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "scheduled report",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My query runs eleven minutes; the warehouse sends me a polite bill. Over coffee, Maria mentions, \"The chores chart, surprisingly fair.\" and I add, \"Screen time for everyone, including me.\" with an example. I summarize what we decided about the export pipeline while the details are still fresh. The guide now includes a section on the alert to report flow, with examples and pitfalls. In today's standup, I give a quick update on the dark pattern ban and what blocked me. We agree that the experiment archival needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "My query runs eleven minutes; the warehouse sends me a polite bill. Over coffee, Maria mentions, \"The chores chart, surprisingly fair.\" and I add, \"Screen time for everyone, including me.\" with an example. I summarize what we decided about the export pipeline while the details are still fresh. The guide now includes a section on the alert to report flow, with examples and pitfalls. In today's standup, I give a quick update on the dark pattern ban and what blocked me. We agree that the experiment archival needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
+   "en": "My query runs eleven minutes; the warehouse sends me a polite bill. Pair run: Leo starts, \"The chores chart, surprisingly fair.\" I follow, \"Screen time for everyone, including me.\" and Leo replies, \"Keep practising, it is working.\" At the review, we spend ten minutes on the export pipeline. In today's standup, I mention the alert to report flow and what comes next. We agree to give the dark pattern ban one more careful look this week. I connect the experiment archival to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "My query runs eleven minutes; the warehouse sends me a polite bill. Pair run: Leo starts, \"The chores chart, surprisingly fair.\" I follow, \"Screen time for everyone, including me.\" and Leo replies, \"Keep practising, it is working.\" At the review, we spend ten minutes on the export pipeline. In today's standup, I mention the alert to report flow and what comes next. We agree to give the dark pattern ban one more careful look this week. I connect the experiment archival to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我的查询跑了十一分钟；数仓给我寄了张礼貌的账单。喝咖啡时，Maria提到：\"家务表\"我补充了\"屏幕时间\"，还带了个例子。趁细节还新鲜，我总结了关于导出管道的决定。指南里现在有关于告警转报表的章节，附有示例和坑点。在今天的站会上，我快速汇报了暗黑模式禁令的进展和卡住我的地方。我们一致认为，在动手之前实验归档还需要再仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我的查询跑了十一分钟；数仓给我寄了张礼貌的账单。结对演练：Leo起头：\"家务表\"我跟上：\"屏幕时间\"Leo回应：\"继续练，有效果了。\"评审时，我们花了十分钟在导出管道上。今天的站会上，我提到告警转报表和接下来的安排。我们说好这周再把暗黑模式禁令仔细看一次。我把实验归档关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "export pipeline",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the results transparency to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the privacy in metrics, and I write it down. I summarize what we decided about the digest email builder while the details are still fresh. The guide now includes a section on the zero click insights, with examples and pitfalls. In the morning meeting, Leo says, \"Birthday reminders on.\" and I respond, \"Family metrics with love.\" I learn partition pruning the expensive way.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the results transparency to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the privacy in metrics, and I write it down. I summarize what we decided about the digest email builder while the details are still fresh. The guide now includes a section on the zero click insights, with examples and pitfalls. In the morning meeting, Leo says, \"Birthday reminders on.\" and I respond, \"Family metrics with love.\" I learn partition pruning the expensive way.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the results transparency. I compare my notes about the privacy in metrics with Priya's. At the review, we spend ten minutes on the digest email builder. In today's standup, I mention the zero click insights and what comes next. Whiteboard practice: Priya offers, \"Birthday reminders on.\" I add, \"Family metrics with love.\" then Priya sums up, \"Good point — use it in the standup.\" I learn partition pruning the expensive way.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the results transparency. I compare my notes about the privacy in metrics with Priya's. At the review, we spend ten minutes on the digest email builder. In today's standup, I mention the zero click insights and what comes next. Whiteboard practice: Priya offers, \"Birthday reminders on.\" I add, \"Family metrics with love.\" then Priya sums up, \"Good point — use it in the standup.\" I learn partition pruning the expensive way.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把结果透明关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的指标里的隐私处理办法，我把它记了下来。趁细节还新鲜，我总结了关于摘要邮件生成器的决定。指南里现在有关于零点击洞察的章节，附有示例和坑点。晨会上，Leo说：\"生日提醒常开。\"我回应：\"有温度的家庭数据。\"我用昂贵的方式学会了分区裁剪。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于结果透明的简短章节。我把关于指标里的隐私的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在摘要邮件生成器上。今天的站会上，我提到零点击洞察和接下来的安排。白板练习：Priya给出：\"生日提醒常开。\"我补充：\"有温度的家庭数据。\"然后Priya总结：\"说得好——站会上就用它。\"我用昂贵的方式学会了分区裁剪。",
    "hard": [
     {
      "w": "digest email builder",

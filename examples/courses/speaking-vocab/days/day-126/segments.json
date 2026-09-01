@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 315,
+   "word_count": 297,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A new hire, Sam, joins the team; I am the onboarding buddy. In today's standup, I give a quick update on the priority call and what blocked me. We agree that the wsjf score needs one more careful look before we commit. I link the issue linking to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the acceptance criteria in issue, and I write it down. Priya checks in with, \"Rainy day fund, topped up.\" so I explain, \"Three months of calm.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "A new hire, Sam, joins the team; I am the onboarding buddy. In today's standup, I give a quick update on the priority call and what blocked me. We agree that the wsjf score needs one more careful look before we commit. I link the issue linking to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the acceptance criteria in issue, and I write it down. Priya checks in with, \"Rainy day fund, topped up.\" so I explain, \"Three months of calm.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
+   "en": "A new hire, Sam, joins the team; I am the onboarding buddy. I compare my notes about the priority call with Priya's. At the review, we spend ten minutes on the wsjf score. In today's standup, I mention the issue linking and what comes next. We agree to give the acceptance criteria in issue one more careful look this week. Drill without notes: Priya asks, \"Rainy day fund, topped up.\" I answer, \"Three months of calm.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "A new hire, Sam, joins the team; I am the onboarding buddy. I compare my notes about the priority call with Priya's. At the review, we spend ten minutes on the wsjf score. In today's standup, I mention the issue linking and what comes next. We agree to give the acceptance criteria in issue one more careful look this week. Drill without notes: Priya asks, \"Rainy day fund, topped up.\" I answer, \"Three months of calm.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "新人 Sam 入职；我是他的入职伙伴。在今天的站会上，我快速汇报了优先级裁决的进展和卡住我的地方。我们一致认为，在动手之前加权最短优先分数还需要再仔细看一次。我把问题互链关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的问题单里的验收标准处理办法，我把它记了下来。Priya关心地问：\"应急金\"于是我不慌不忙地解释：\"三个月的安心。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "新人 Sam 入职；我是他的入职伙伴。我把关于优先级裁决的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在加权最短优先分数上。今天的站会上，我提到问题互链和接下来的安排。我们说好这周再把问题单里的验收标准仔细看一次。脱稿演练：Priya问：\"应急金\"我回答：\"三个月的安心。\"Priya收束：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "priority call",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We walk the setup guide together and fix two dead links on the way. In the morning meeting, Leo says, \"Auto transfer on payday.\" and I respond, \"Emergencies love the unprepared.\" I link the ice score to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the roadmap line item, and I write it down. I summarize what we decided about the reproduction checklist while the details are still fresh. The guide now includes a section on the stale bot etiquette, with examples and pitfalls. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "We walk the setup guide together and fix two dead links on the way. In the morning meeting, Leo says, \"Auto transfer on payday.\" and I respond, \"Emergencies love the unprepared.\" I link the ice score to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the roadmap line item, and I write it down. I summarize what we decided about the reproduction checklist while the details are still fresh. The guide now includes a section on the stale bot etiquette, with examples and pitfalls. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "We walk the setup guide together and fix two dead links on the way. Pair run: Priya starts, \"Auto transfer on payday.\" I follow, \"Emergencies love the unprepared.\" and Priya replies, \"Good point — use it in the standup.\" At the review, we spend ten minutes on the ice score. In today's standup, I mention the roadmap line item and what comes next. We agree to give the reproduction checklist one more careful look this week. I connect the stale bot etiquette to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "We walk the setup guide together and fix two dead links on the way. Pair run: Priya starts, \"Auto transfer on payday.\" I follow, \"Emergencies love the unprepared.\" and Priya replies, \"Good point — use it in the standup.\" At the review, we spend ten minutes on the ice score. In today's standup, I mention the roadmap line item and what comes next. We agree to give the reproduction checklist one more careful look this week. I connect the stale bot etiquette to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们一起走安装指南，顺手修好两个死链。晨会上，Leo说：\"发薪日自动转账。\"我回应：\"意外专挑没准备的人。\"我把ICE 评分关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的路线图条目处理办法，我把它记了下来。趁细节还新鲜，我总结了关于复现检查清单的决定。指南里现在有关于闲置机器人礼仪的章节，附有示例和坑点。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我们一起走安装指南，顺手修好两个死链。结对演练：Priya起头：\"发薪日自动转账。\"我跟上：\"意外专挑没准备的人。\"Priya回应：\"说得好——站会上就用它。\"评审时，我们花了十分钟在ICE 评分上。今天的站会上，我提到路线图条目和接下来的安排。我们说好这周再把复现检查清单仔细看一次。我把闲置机器人礼仪关联到工单上，免得遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "ice score",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I give a quick update on the issue template tuning and what blocked me. I label once, label right and track the outcome in the ticket until it is closed. I link the capacity buffer to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the stretch pick, and I write it down. Priya checks in with, \"Peace of mind has a number.\" so I explain, \"Future me says thanks.\" without rushing. Answering questions teaches me what the docs never said.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I give a quick update on the issue template tuning and what blocked me. I label once, label right and track the outcome in the ticket until it is closed. I link the capacity buffer to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the stretch pick, and I write it down. Priya checks in with, \"Peace of mind has a number.\" so I explain, \"Future me says thanks.\" without rushing. Answering questions teaches me what the docs never said.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the issue template tuning. The team decides that I should label once, label right first. At the review, we spend ten minutes on the capacity buffer. In today's standup, I mention the stretch pick and what comes next. Whiteboard practice: Maria offers, \"Peace of mind has a number.\" I add, \"Future me says thanks.\" then Maria sums up, \"Exactly, and it saves time too.\" Answering questions teaches me what the docs never said.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the issue template tuning. The team decides that I should label once, label right first. At the review, we spend ten minutes on the capacity buffer. In today's standup, I mention the stretch pick and what comes next. Whiteboard practice: Maria offers, \"Peace of mind has a number.\" I add, \"Future me says thanks.\" then Maria sums up, \"Exactly, and it saves time too.\" Answering questions teaches me what the docs never said.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。在今天的站会上，我快速汇报了问题单模板调优的进展和卡住我的地方。我标签一次贴对，并在工单里跟踪结果直到它关闭。我把容量缓冲关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的弹性挑选处理办法，我把它记了下来。Priya关心地问：\"安心是有数字的。\"于是我不慌不忙地解释：\"未来的我说谢谢。\"回答问题教会我文档从没写的东西。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于问题单模板调优的简短章节。团队决定先由我来标签一次贴对。评审时，我们花了十分钟在容量缓冲上。今天的站会上，我提到弹性挑选和接下来的安排。白板练习：Maria给出：\"安心是有数字的。\"我补充：\"未来的我说谢谢。\"然后Maria总结：\"正是，而且还省时间。\"回答问题教会我文档从没写的东西。",
    "hard": [
     {
      "w": "capacity buffer",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 277,
+   "word_count": 275,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A bad script deletes a test table on Friday. A teammate stopped me to say thanks for explaining the backup schedule so clearly. I keep a growing list of the full backup on my desk for later. My notes about the branch overview are getting sharper every single week. I asked Leo how he handles the behind main when the week gets heavy. Leo stops by my desk, asks, \"What should I get her?\" and I answer, \"Something small is fine.\" The task moves forward, and so does my confidence.",
-   "tts": "A bad script deletes a test table on Friday. A teammate stopped me to say thanks for explaining the backup schedule so clearly. I keep a growing list of the full backup on my desk for later. My notes about the branch overview are getting sharper every single week. I asked Leo how he handles the behind main when the week gets heavy. Leo stops by my desk, asks, \"What should I get her?\" and I answer, \"Something small is fine.\" The task moves forward, and so does my confidence.",
+   "en": "A bad script deletes a test table on Friday. I ask one good question about the backup schedule in the meeting. My notes about the full backup look clearer this week. I spend ten quiet minutes on the branch overview after the standup. Sam asks me about the behind main, and I explain the basics. Warm-up round: Leo offers, \"What should I get her?\" I answer, \"Something small is fine.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "A bad script deletes a test table on Friday. I ask one good question about the backup schedule in the meeting. My notes about the full backup look clearer this week. I spend ten quiet minutes on the branch overview after the standup. Sam asks me about the behind main, and I explain the basics. Warm-up round: Leo offers, \"What should I get her?\" I answer, \"Something small is fine.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "周五，一个写坏的脚本删掉了测试表。一位队友拦住我，感谢我把备份计划解释得这么清楚。我把一份越来越长的全量备份清单放在桌上，留着以后用。我关于分支总览的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理落后主线的。Leo走到我桌边问：\"我该送她什么？\"我回答：\"小礼物就够了。\"任务在推进，我的信心也在成长。",
+   "zh": "周五，一个写坏的脚本删掉了测试表。会上关于备份计划，我问了一个好问题。这周我关于全量备份的笔记清楚多了。站会之后，我安安静静花了十分钟在分支总览上。Sam 问起落后主线，我讲了讲基础。热身一轮：Leo给出：\"我该送她什么？\"我回答：\"小礼物就够了。\"Leo收尾道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "backup schedule",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Our backup verification pays off: the incremental backup restores in minutes. Maria greets me warmly with, \"A handwritten card is thoughtful.\" and I answer, \"I'll wrap it tonight.\" My notes about the incremental backup are getting sharper every single week. I asked Leo how he handles the backup verification when the week gets heavy. The ahead by commits shows up in our sprint notes more often than before. After the review, I restore a deleted branch once more and note what changed. I end the day with fewer unknowns than I started with.",
-   "tts": "Our backup verification pays off: the incremental backup restores in minutes. Maria greets me warmly with, \"A handwritten card is thoughtful.\" and I answer, \"I'll wrap it tonight.\" My notes about the incremental backup are getting sharper every single week. I asked Leo how he handles the backup verification when the week gets heavy. The ahead by commits shows up in our sprint notes more often than before. After the review, I restore a deleted branch once more and note what changed. I end the day with fewer unknowns than I started with.",
+   "en": "Our backup verification pays off: the incremental backup restores in minutes. We practise the dialogue: Leo opens, \"A handwritten card is thoughtful.\" I answer, \"I'll wrap it tonight.\" and Leo nods, \"Nice, keep that one handy.\" My notes about the incremental backup look clearer this week. I spend ten quiet minutes on the backup verification after the standup. Sam asks me about the ahead by commits, and I explain the basics. I restore a deleted branch the way the guide suggests. I end the day with fewer unknowns than I started with.",
+   "tts": "Our backup verification pays off: the incremental backup restores in minutes. We practise the dialogue: Leo opens, \"A handwritten card is thoughtful.\" I answer, \"I'll wrap it tonight.\" and Leo nods, \"Nice, keep that one handy.\" My notes about the incremental backup look clearer this week. I spend ten quiet minutes on the backup verification after the standup. Sam asks me about the ahead by commits, and I explain the basics. I restore a deleted branch the way the guide suggests. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "备份验证派上了用场：增量备份几分钟就恢复了数据。Maria热情地用\"手写卡片很贴心。\"和我打招呼，我回答：\"我今晚把它包好。\"我关于增量备份的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理备份验证的。领先提交数出现在我们迭代笔记里的次数比以前更多了。评审之后，我又恢复已删分支了一次，并记下变化。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "备份验证派上了用场：增量备份几分钟就恢复了数据。我们练习这段对话：Leo开场：\"手写卡片很贴心。\"我回答：\"我今晚把它包好。\"Leo点头说：\"不错，把这句记在手边。\"这周我关于增量备份的笔记清楚多了。站会之后，我安安静静花了十分钟在备份验证上。Sam 问起领先提交数，我讲了讲基础。我按照指南建议的方式恢复已删分支。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "incremental backup",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. A teammate stopped me to say thanks for explaining the branch analytics so clearly. I keep a growing list of the default compare on my desk for later. My notes about the offsite copy are getting sharper every single week. I asked Leo how he handles the data retention when the week gets heavy. Leo stops by my desk, asks, \"It's the thought that counts.\" and I answer, \"She loved the gift!\" A backup you never tested is only a hope.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. A teammate stopped me to say thanks for explaining the branch analytics so clearly. I keep a growing list of the default compare on my desk for later. My notes about the offsite copy are getting sharper every single week. I asked Leo how he handles the data retention when the week gets heavy. Leo stops by my desk, asks, \"It's the thought that counts.\" and I answer, \"She loved the gift!\" A backup you never tested is only a hope.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the branch analytics in the guide. I ask one good question about the default compare in the meeting. My notes about the offsite copy look clearer this week. I spend ten quiet minutes on the data retention after the standup. Role play with feedback: Priya says, \"It's the thought that counts.\" I try, \"She loved the gift!\" and Priya adds, \"Good — try it in today’s task.\" A backup you never tested is only a hope.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the branch analytics in the guide. I ask one good question about the default compare in the meeting. My notes about the offsite copy look clearer this week. I spend ten quiet minutes on the data retention after the standup. Role play with feedback: Priya says, \"It's the thought that counts.\" I try, \"She loved the gift!\" and Priya adds, \"Good — try it in today’s task.\" A backup you never tested is only a hope.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。一位队友拦住我，感谢我把分支分析解释得这么清楚。我把一份越来越长的默认比较清单放在桌上，留着以后用。我关于异地副本的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理数据保留期的。Leo走到我桌边问：\"心意最重要。\"我回答：\"她特别喜欢这个礼物！\"从没验证过的备份只是个愿望。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于分支分析的介绍。会上关于默认比较，我问了一个好问题。这周我关于异地副本的笔记清楚多了。站会之后，我安安静静花了十分钟在数据保留期上。角色扮演加反馈：Priya说：\"心意最重要。\"我试着说：\"她特别喜欢这个礼物！\"Priya补充道：\"好——今天的任务里就用上。\"从没验证过的备份只是个愿望。",
    "hard": [
     {
      "w": "offsite copy",

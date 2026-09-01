@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 345,
+   "word_count": 334,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "This quarter's architecture award goes to a deletion. My report explains the c4 model levels, the risks behind it, and the cost of waiting. I propose a measurable goal for the context diagram discipline this quarter, with a number we can defend. We review the diagram source in repo against the requirements one final time, line by line, together. I close the loop on the auto generated dependency graphs and share the outcome, including what surprised us. At the demo, Leo asks, \"The fire escape map on the fridge.\" and I present, \"Two exits marked, always.\" with the numbers ready. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "This quarter's architecture award goes to a deletion. My report explains the c4 model levels, the risks behind it, and the cost of waiting. I propose a measurable goal for the context diagram discipline this quarter, with a number we can defend. We review the diagram source in repo against the requirements one final time, line by line, together. I close the loop on the auto generated dependency graphs and share the outcome, including what surprised us. At the demo, Leo asks, \"The fire escape map on the fridge.\" and I present, \"Two exits marked, always.\" with the numbers ready. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "This quarter's architecture award goes to a deletion. The final deck includes the c4 model levels and what we learned from it. I put the context diagram discipline on the record so the reasoning stays visible. I present the diagram source in repo with a timeline, the data, and one clear ask. We align on the auto generated dependency graphs early, so execution never has to guess. Board practice: Leo probes, \"The fire escape map on the fridge.\" I respond without a pause, \"Two exits marked, always.\" and Leo nods, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "This quarter's architecture award goes to a deletion. The final deck includes the c4 model levels and what we learned from it. I put the context diagram discipline on the record so the reasoning stays visible. I present the diagram source in repo with a timeline, the data, and one clear ask. We align on the auto generated dependency graphs early, so execution never has to guess. Board practice: Leo probes, \"The fire escape map on the fridge.\" I respond without a pause, \"Two exits marked, always.\" and Leo nods, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "本季架构奖颁给了一次删除。我的报告解释了C4 模型层级、背后的风险，以及等待的代价。我为系统上下文图纪律提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了图表源文件入库，一起完成的。我跟进完自动生成依赖图并分享了结果，包括让我们意外的那部分。演示会上，Leo问：\"冰箱上的逃生图。\"我带着准备好的数字汇报：\"永远标出两个出口。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "本季架构奖颁给了一次删除。最终的材料里有C4 模型层级，以及我们从中学到的东西。我把系统上下文图纪律记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报图表源文件入库。我们尽早就自动生成依赖图对齐，让执行无需猜测。董事会练习：Leo追问：\"冰箱上的逃生图。\"我毫不迟疑地回应：\"永远标出两个出口。\"Leo点头道：\"确认无误，可以上线了。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "c4 model levels",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Removing an unused cache tier made everything faster and clearer. Before the launch, Maria says, \"The map matches the furniture.\" and I commit, \"Kids can read it at five.\" on behalf of the whole team. We review the container and component views against the requirements one final time, line by line, together. I close the loop on the diagram as code repos and share the outcome, including what surprised us. I present the legend and notation standards to the team with data, a timeline, and one clear ask. We align on the diagram lint for labels before the deadline so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Removing an unused cache tier made everything faster and clearer. Before the launch, Maria says, \"The map matches the furniture.\" and I commit, \"Kids can read it at five.\" on behalf of the whole team. We review the container and component views against the requirements one final time, line by line, together. I close the loop on the diagram as code repos and share the outcome, including what surprised us. I present the legend and notation standards to the team with data, a timeline, and one clear ask. We align on the diagram lint for labels before the deadline so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Removing an unused cache tier made everything faster and clearer. Last rehearsal: Leo checks, \"The map matches the furniture.\" I commit word for word, \"Kids can read it at five.\" and Leo smiles, \"Confirmed. This is launch ready.\" I put the container and component views on the record so the reasoning stays visible. I present the diagram as code repos with a timeline, the data, and one clear ask. We align on the legend and notation standards early, so execution never has to guess. My report covers the diagram lint for labels, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Removing an unused cache tier made everything faster and clearer. Last rehearsal: Leo checks, \"The map matches the furniture.\" I commit word for word, \"Kids can read it at five.\" and Leo smiles, \"Confirmed. This is launch ready.\" I put the container and component views on the record so the reasoning stays visible. I present the diagram as code repos with a timeline, the data, and one clear ask. We align on the legend and notation standards early, so execution never has to guess. My report covers the diagram lint for labels, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "移除一个没人用的缓存层让一切更快更清楚。上线前，Maria说：\"图和家具对得上。\"我代表整个团队承诺：\"五岁孩子看得懂。\"我们最后一次逐行对照需求检查了容器与组件视图，一起完成的。我跟进完图表即代码仓库并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了图例与符号标准。我们在截止日期前就图表标注检查达成共识，让执行永远不必靠猜。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "移除一个没人用的缓存层让一切更快更清楚。最后一次彩排：Leo核对：\"图和家具对得上。\"我逐字承诺：\"五岁孩子看得懂。\"Leo笑道：\"确认无误，可以上线了。\"我把容器与组件视图记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报图表即代码仓库。我们尽早就图例与符号标准对齐，让执行无需猜测。我的报告涵盖图表标注检查、背后的风险，以及等待的代价。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "container and component views",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report explains the picture freshness badge, the risks behind it, and the cost of waiting. I propose a measurable goal for the onboarding map pack this quarter, with a number we can defend. We review the diagram review in design docs against the requirements one final time, line by line, together. I close the loop on the stale diagram detection and share the outcome, including what surprised us. At the demo, Leo asks, \"It updates when rooms change.\" and I present, \"One glance, whole picture.\" with the numbers ready. The best code review comment was delete.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report explains the picture freshness badge, the risks behind it, and the cost of waiting. I propose a measurable goal for the onboarding map pack this quarter, with a number we can defend. We review the diagram review in design docs against the requirements one final time, line by line, together. I close the loop on the stale diagram detection and share the outcome, including what surprised us. At the demo, Leo asks, \"It updates when rooms change.\" and I present, \"One glance, whole picture.\" with the numbers ready. The best code review comment was delete.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the picture freshness badge with a short summary. The final deck includes the onboarding map pack and what we learned from it. I put the diagram review in design docs on the record so the reasoning stays visible. I present the stale diagram detection with a timeline, the data, and one clear ask. Final dry run: Priya summarises, \"It updates when rooms change.\" I confirm, \"One glance, whole picture.\" for the record, and Priya closes, \"Approved — bring it to the launch review.\" The best code review comment was delete.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the picture freshness badge with a short summary. The final deck includes the onboarding map pack and what we learned from it. I put the diagram review in design docs on the record so the reasoning stays visible. I present the stale diagram detection with a timeline, the data, and one clear ask. Final dry run: Priya summarises, \"It updates when rooms change.\" I confirm, \"One glance, whole picture.\" for the record, and Priya closes, \"Approved — bring it to the launch review.\" The best code review comment was delete.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告解释了图片新鲜度徽章、背后的风险，以及等待的代价。我为新人地图包提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了设计文档里的图表评审，一起完成的。我跟进完过期图表检测并分享了结果，包括让我们意外的那部分。演示会上，Leo问：\"房间变了图也变。\"我带着准备好的数字汇报：\"一眼看懂全局。\"最好的评审意见是：删掉。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为图片新鲜度徽章的讨论收尾。最终的材料里有新人地图包，以及我们从中学到的东西。我把设计文档里的图表评审记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报过期图表检测。最终干跑：Priya总结：\"房间变了图也变。\"我郑重确认：\"一眼看懂全局。\"Priya收尾道：\"通过——带到上线评审上。\"最好的评审意见是：删掉。",
    "hard": [
     {
      "w": "diagram review in design docs",

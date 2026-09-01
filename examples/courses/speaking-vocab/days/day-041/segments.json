@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 226,
+   "word_count": 218,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I copy link, paste it in the channel, and ask for hands-on feedback. At the end of the day, Maria says, \"I got caught in the rain.\" I reply, \"The typhoon is coming.\" I suggest that we check the paste as plain text first. If we select all, the result should be safe. I explain the environment config to a new teammate. The team agrees to promote a build before Friday. I check my notes and confirm the next step.",
-   "tts": "I copy link, paste it in the channel, and ask for hands-on feedback. At the end of the day, Maria says, \"I got caught in the rain.\" I reply, \"The typhoon is coming.\" I suggest that we check the paste as plain text first. If we select all, the result should be safe. I explain the environment config to a new teammate. The team agrees to promote a build before Friday. I check my notes and confirm the next step.",
+   "en": "I copy link, paste it in the channel, and ask for hands-on feedback. Before we part, Leo says, \"I got caught in the rain.\" I answer, \"The typhoon is coming.\" We discuss the risk around the paste as plain text. I select all while the others watch the dashboard. If the environment config fails, we need a clear plan. We decide to promote a build after the review. I check my notes and confirm the next step.",
+   "tts": "I copy link, paste it in the channel, and ask for hands-on feedback. Before we part, Leo says, \"I got caught in the rain.\" I answer, \"The typhoon is coming.\" We discuss the risk around the paste as plain text. I select all while the others watch the dashboard. If the environment config fails, we need a clear plan. We decide to promote a build after the review. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我复制链接，贴到频道里，请大家上手体验。一天结束时，Maria说：\"我淋了一场雨。\"我回答：\"台风要来了。\"我建议我们先检查粘贴为纯文本。如果我们全选，结果应该是安全的。我向一位新队友解释了环境配置。团队同意在周五之前晋级构建。我检查笔记，确认了下一步。",
+   "zh": "我复制链接，贴到频道里，请大家上手体验。分开前，Leo说：\"我淋了一场雨。\"我回答：\"台风要来了。\"我们讨论了粘贴为纯文本相关的风险。我全选，其他队友盯着仪表盘。如果环境配置失败，我们需要一个清晰的方案。评审之后，我们决定晋级构建。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "paste as plain text",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I document the hotfix branch so the team can review it later. If the deploy preview fails, we need a clear plan. We decide to drag and drop after the review. The result depends on the keyboard focus, so I check it twice. Before we part, Leo says, \"Perfect hiking weather.\" I answer, \"My umbrella broke in the wind.\" Real clicks beat imagined users.",
-   "tts": "Before I leave, I write a short summary for the team. I document the hotfix branch so the team can review it later. If the deploy preview fails, we need a clear plan. We decide to drag and drop after the review. The result depends on the keyboard focus, so I check it twice. Before we part, Leo says, \"Perfect hiking weather.\" I answer, \"My umbrella broke in the wind.\" Real clicks beat imagined users.",
+   "en": "Before I leave, I write a short summary for the team. If the hotfix branch fails, we need a clear plan. I suggest that we check the deploy preview first. If we drag and drop, the result should be safe. I explain the keyboard focus to a new teammate. Priya checks with me, \"Perfect hiking weather.\" I answer clearly, \"My umbrella broke in the wind.\" Real clicks beat imagined users.",
+   "tts": "Before I leave, I write a short summary for the team. If the hotfix branch fails, we need a clear plan. I suggest that we check the deploy preview first. If we drag and drop, the result should be safe. I explain the keyboard focus to a new teammate. Priya checks with me, \"Perfect hiking weather.\" I answer clearly, \"My umbrella broke in the wind.\" Real clicks beat imagined users.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我把紧急修复分支写成文档，方便团队之后查看。如果部署预览失败，我们需要一个清晰的方案。评审之后，我们决定拖放。结果取决于键盘焦点，所以我检查了两遍。分开前，Leo说：\"正是远足的好天气。\"我回答：\"我的伞被风吹坏了。\"真实的点击胜过想象中的用户。",
+   "zh": "离开前，我给团队写了一份简短的总结。如果紧急修复分支失败，我们需要一个清晰的方案。我建议我们先检查部署预览。如果我们拖放，结果应该是安全的。我向一位新队友解释了键盘焦点。Priya向我确认：\"正是远足的好天气。\"我清楚地回答：\"我的伞被风吹坏了。\"真实的点击胜过想象中的用户。",
    "hard": [
     {
      "w": "drag and drop",

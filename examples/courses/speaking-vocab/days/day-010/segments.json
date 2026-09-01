@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 197,
+   "word_count": 192,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I reschedule a short meeting, because the time does not work. Leo shows me how to cancel an appointment. I confirm the time one small step at a time. Maria explains the shell to me. I learn about the command prompt because it is useful. Now I understand the pending check. I write a short note about the passing check. The day is busy, but I learn a lot.",
-   "tts": "I reschedule a short meeting, because the time does not work. Leo shows me how to cancel an appointment. I confirm the time one small step at a time. Maria explains the shell to me. I learn about the command prompt because it is useful. Now I understand the pending check. I write a short note about the passing check. The day is busy, but I learn a lot.",
+   "en": "I reschedule a short meeting, because the time does not work. I cancel an appointment carefully. Leo shows me how to confirm the time. Leo tells me a story about the shell. Maria explains the command prompt to me. I learn about the pending check because it is useful. Now I understand the passing check. The day is busy, but I learn a lot.",
+   "tts": "I reschedule a short meeting, because the time does not work. I cancel an appointment carefully. Leo shows me how to confirm the time. Leo tells me a story about the shell. Maria explains the command prompt to me. I learn about the pending check because it is useful. Now I understand the passing check. The day is busy, but I learn a lot.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我重新安排了一个短会，因为那个时间不方便。Leo 教我怎样取消预约。我一步一步地确认时间。Maria 给我讲解命令解释器。我学习命令提示符，因为它很有用。现在我理解了等待中的检查。我给通过的检查写了一条简短的笔记。这天很忙，但我学到了很多。",
+   "zh": "我重新安排了一个短会，因为那个时间不方便。我认真地取消预约。Leo 教我怎样确认时间。Leo 给我讲了一个关于命令解释器的小故事。Maria 给我讲解命令提示符。我学习等待中的检查，因为它很有用。现在我理解了通过的检查。这天很忙，但我学到了很多。",
    "hard": [
     {
      "w": "shell",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. I ask one question about the failed check. I check details one small step at a time. Maria explains the current directory to me. I learn about the command option because it is useful. During our chat, Maria says, \"Does Tuesday work?\" I answer, \"I'm not available then.\" All checks are green. We merge tomorrow.",
-   "tts": "Before I leave, I finish one last task. I ask one question about the failed check. I check details one small step at a time. Maria explains the current directory to me. I learn about the command option because it is useful. During our chat, Maria says, \"Does Tuesday work?\" I answer, \"I'm not available then.\" All checks are green. We merge tomorrow.",
+   "en": "Before I leave, I finish one last task. I learn about the failed check because it is useful. I need to check details before lunch. I write a short note about the current directory. I ask one question about the command option. During our chat, Maria says, \"Does Tuesday work?\" I answer, \"I'm not available then.\" All checks are green. We merge tomorrow.",
+   "tts": "Before I leave, I finish one last task. I learn about the failed check because it is useful. I need to check details before lunch. I write a short note about the current directory. I ask one question about the command option. During our chat, Maria says, \"Does Tuesday work?\" I answer, \"I'm not available then.\" All checks are green. We merge tomorrow.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。我问了一个关于失败的检查的问题。我一步一步地检查详情。Maria 给我讲解当前目录。我学习命令选项，因为它很有用。聊天时，Maria说：\"星期二方便吗？\"我回答：\"我那时没有空。\"所有检查都是绿色的。我们明天合并。",
+   "zh": "离开前，我完成最后一项任务。我学习失败的检查，因为它很有用。午饭前，我需要检查详情。我给当前目录写了一条简短的笔记。我问了一个关于命令选项的问题。聊天时，Maria说：\"星期二方便吗？\"我回答：\"我那时没有空。\"所有检查都是绿色的。我们明天合并。",
    "hard": [
     {
      "w": "current directory",

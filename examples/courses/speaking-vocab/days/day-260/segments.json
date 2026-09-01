@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 326,
+   "word_count": 319,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We redraw the trust boundaries that everyone forgot. We weigh the cost of changing the travel laptop policy against leaving it alone. I prepare a one-page brief about the home network hardening guide so meetings start from facts. The team sets a clear owner for the vpn split tunnel review, plus a deadline and review date. I compare two approaches to the device compliance check, note the trade-offs, share both honestly. Leo opens the talk with, \"I face the wall for calls.\" and I follow up with, \"Privacy filter on trains.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "We redraw the trust boundaries that everyone forgot. We weigh the cost of changing the travel laptop policy against leaving it alone. I prepare a one-page brief about the home network hardening guide so meetings start from facts. The team sets a clear owner for the vpn split tunnel review, plus a deadline and review date. I compare two approaches to the device compliance check, note the trade-offs, share both honestly. Leo opens the talk with, \"I face the wall for calls.\" and I follow up with, \"Privacy filter on trains.\" and a proposal. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "We redraw the trust boundaries that everyone forgot. The team names one clear owner for the travel laptop policy. I compare two views on the home network hardening guide and write both down honestly. I add the vpn split tunnel review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the device compliance check. Review warm-up: Leo raises, \"I face the wall for calls.\" I answer, \"Privacy filter on trains.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We redraw the trust boundaries that everyone forgot. The team names one clear owner for the travel laptop policy. I compare two views on the home network hardening guide and write both down honestly. I add the vpn split tunnel review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the device compliance check. Review warm-up: Leo raises, \"I face the wall for calls.\" I answer, \"Privacy filter on trains.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们重画了被所有人遗忘的信任边界。我们权衡了改动出差电脑策略的代价与放着不管的风险。我准备了一页关于家庭网络安全指南的简报，好让会议从事实出发。团队为VPN 分流策略评审定了明确的负责人，加上截止和复审日期。我比较了处理设备合规检查的两种方式，记下取舍，诚实分享。Leo以\"打电话我面向墙。\"开启话题，我接着说了\"火车上贴防窥片。\"还附了个提案。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我们重画了被所有人遗忘的信任边界。团队为出差电脑策略指定了明确的负责人。我比较了关于家庭网络安全指南的两种观点，诚实地都记了下来。我把VPN 分流策略评审连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了设备合规检查上。评审热身：Leo抛出：\"打电话我面向墙。\"我带着数字回答：\"火车上贴防窥片。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "travel laptop policy",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Old integrations lose silent privileges; new diagrams replace the fossils. Maria raises, \"No client names on screens.\" and I respond calmly, \"The headphone rule for calls.\" because panic never helped anyone. The team sets a clear owner for the privacy screen filter, plus a deadline and review date. I compare two approaches to the public wifi risk rules, note the trade-offs, share both honestly. In review, I raise a careful question about the remote wipe verification and its failure modes. Our mentor walks me through the meeting room tech security's history, including two painful lessons. We end the week with something shipped and something properly learned this time.",
-   "tts": "Old integrations lose silent privileges; new diagrams replace the fossils. Maria raises, \"No client names on screens.\" and I respond calmly, \"The headphone rule for calls.\" because panic never helped anyone. The team sets a clear owner for the privacy screen filter, plus a deadline and review date. I compare two approaches to the public wifi risk rules, note the trade-offs, share both honestly. In review, I raise a careful question about the remote wipe verification and its failure modes. Our mentor walks me through the meeting room tech security's history, including two painful lessons. We end the week with something shipped and something properly learned this time.",
+   "en": "Old integrations lose silent privileges; new diagrams replace the fossils. Dry run: Leo opens, \"No client names on screens.\" I follow, \"The headphone rule for calls.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I compare two views on the privacy screen filter and write both down honestly. I add the public wifi risk rules to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the remote wipe verification. During the design review, I raise one careful question about the meeting room tech security. We end the week with something shipped and something properly learned this time.",
+   "tts": "Old integrations lose silent privileges; new diagrams replace the fossils. Dry run: Leo opens, \"No client names on screens.\" I follow, \"The headphone rule for calls.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I compare two views on the privacy screen filter and write both down honestly. I add the public wifi risk rules to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the remote wipe verification. During the design review, I raise one careful question about the meeting room tech security. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "老集成交出沉默的特权；新图取代了化石图。Maria提出：\"屏幕上不出现客户名。\"我从容地回应：\"通话必戴耳机。\"因为慌张从来没用。团队为屏幕防窥片定了明确的负责人，加上截止和复审日期。我比较了处理公共 Wi-Fi 风险守则的两种方式，记下取舍，诚实分享。评审中，我就远程擦除验证及其失效模式提出了一个审慎的问题。导师带我梳理了会议室设备安全的历史，包括两次惨痛的教训。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "老集成交出沉默的特权；新图取代了化石图。干跑演练：Leo开场：\"屏幕上不出现客户名。\"我接上：\"通话必戴耳机。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"我比较了关于屏幕防窥片的两种观点，诚实地都记了下来。我把公共 Wi-Fi 风险守则连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了远程擦除验证上。设计评审中，我就会议室设备安全提出了一个审慎的问题。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "privacy screen filter",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We weigh the cost of changing the contractor access template against leaving it alone. I prepare a one-page brief about the tailgating drill so meetings start from facts. The team sets a clear owner for the visitor network access, plus a deadline and review date. I compare two approaches to the lost device procedure, note the trade-offs, share both honestly. Leo opens the talk with, \"Hotspot beats cafe wifi.\" and I follow up with, \"Two factor for everything now.\" and a proposal. A map nobody trusts is worse than no map.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We weigh the cost of changing the contractor access template against leaving it alone. I prepare a one-page brief about the tailgating drill so meetings start from facts. The team sets a clear owner for the visitor network access, plus a deadline and review date. I compare two approaches to the lost device procedure, note the trade-offs, share both honestly. Leo opens the talk with, \"Hotspot beats cafe wifi.\" and I follow up with, \"Two factor for everything now.\" and a proposal. A map nobody trusts is worse than no map.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the contractor access template so meetings start from facts. The team names one clear owner for the tailgating drill. I compare two views on the visitor network access and write both down honestly. I add the lost device procedure to the meeting agenda with three supporting facts. Mock review: Priya probes, \"Hotspot beats cafe wifi.\" I answer from memory, \"Two factor for everything now.\" and Priya confirms, \"Strong answer — keep that precision.\" A map nobody trusts is worse than no map.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the contractor access template so meetings start from facts. The team names one clear owner for the tailgating drill. I compare two views on the visitor network access and write both down honestly. I add the lost device procedure to the meeting agenda with three supporting facts. Mock review: Priya probes, \"Hotspot beats cafe wifi.\" I answer from memory, \"Two factor for everything now.\" and Priya confirms, \"Strong answer — keep that precision.\" A map nobody trusts is worse than no map.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我们权衡了改动外包人员权限模板的代价与放着不管的风险。我准备了一页关于尾随进入演练的简报，好让会议从事实出发。团队为访客网络接入定了明确的负责人，加上截止和复审日期。我比较了处理设备丢失流程的两种方式，记下取舍，诚实分享。Leo以\"手机热点胜过咖啡店 Wi-Fi。\"开启话题，我接着说了\"现在什么都是两步验证。\"还附了个提案。没人信的地图比没地图更糟。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于外包人员权限模板的简报，好让会议从事实出发。团队为尾随进入演练指定了明确的负责人。我比较了关于访客网络接入的两种观点，诚实地都记了下来。我把设备丢失流程连同三条支撑事实加进了议程。模拟评审：Priya追问：\"手机热点胜过咖啡店 Wi-Fi。\"我凭记忆回答：\"现在什么都是两步验证。\"Priya确认：\"回答有力——保持这种精确。\"没人信的地图比没地图更糟。",
    "hard": [
     {
      "w": "visitor network access",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 269,
+   "word_count": 280,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The fix is small; the process is not. I double-check the graceful degradation before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the fallback path so clearly. I keep a growing list of the game day plan on my desk for later. My notes about the failure injection are getting sharper every single week. Maria greets me warmly with, \"I work from the café on Fridays.\" and I answer, \"Corner seat, please.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "The fix is small; the process is not. I double-check the graceful degradation before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the fallback path so clearly. I keep a growing list of the game day plan on my desk for later. My notes about the failure injection are getting sharper every single week. Maria greets me warmly with, \"I work from the café on Fridays.\" and I answer, \"Corner seat, please.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "The fix is small; the process is not. Sam asks me about the graceful degradation, and I explain the basics. I keep one real example of the fallback path in my notebook. I add the game day plan to my study notes before I forget it. I go over the failure injection one more time before lunch. Role play with feedback: Maria says, \"I work from the café on Fridays.\" I try, \"Corner seat, please.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "The fix is small; the process is not. Sam asks me about the graceful degradation, and I explain the basics. I keep one real example of the fallback path in my notebook. I add the game day plan to my study notes before I forget it. I go over the failure injection one more time before lunch. Role play with feedback: Maria says, \"I work from the café on Fridays.\" I try, \"Corner seat, please.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "修复很小，流程却不含糊。回复之前我再核对一遍优雅降级，因为答错要付出双倍代价。一位队友拦住我，感谢我把兜底路径解释得这么清楚。我把一份越来越长的演习计划清单放在桌上，留着以后用。我关于故障注入的笔记每周都变得更敏锐。Maria热情地用\"我周五在咖啡馆办公。\"和我打招呼，我回答：\"请给我角落的座位。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "修复很小，流程却不含糊。Sam 问起优雅降级，我讲了讲基础。我在笔记本里留了一个兜底路径的真实例子。我趁还没忘，把演习计划记进了学习笔记。午饭前我又过了一遍故障注入。角色扮演加反馈：Maria说：\"我周五在咖啡馆办公。\"我试着说：\"请给我角落的座位。\"Maria补充道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "graceful degradation",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We ship the hotfix through the same review, the same checks, no shortcuts. During the afternoon break, Priya says, \"The wifi password, please.\" I reply, \"One more flat white.\" I keep a growing list of the bulkhead on my desk for later. My notes about the timeout budget are getting sharper every single week. I asked Leo how he handles the rollback rehearsal when the week gets heavy. The comms drill shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
-   "tts": "We ship the hotfix through the same review, the same checks, no shortcuts. During the afternoon break, Priya says, \"The wifi password, please.\" I reply, \"One more flat white.\" I keep a growing list of the bulkhead on my desk for later. My notes about the timeout budget are getting sharper every single week. I asked Leo how he handles the rollback rehearsal when the week gets heavy. The comms drill shows up in our sprint notes more often than before. The task moves forward, and so does my confidence.",
+   "en": "We ship the hotfix through the same review, the same checks, no shortcuts. Warm-up round: Maria offers, \"The wifi password, please.\" I answer, \"One more flat white.\" and Maria wraps up, \"That is the one we need today.\" I keep one real example of the bulkhead in my notebook. I add the timeout budget to my study notes before I forget it. I go over the rollback rehearsal one more time before lunch. There is a short paragraph about the comms drill in the guide. The task moves forward, and so does my confidence.",
+   "tts": "We ship the hotfix through the same review, the same checks, no shortcuts. Warm-up round: Maria offers, \"The wifi password, please.\" I answer, \"One more flat white.\" and Maria wraps up, \"That is the one we need today.\" I keep one real example of the bulkhead in my notebook. I add the timeout budget to my study notes before I forget it. I go over the rollback rehearsal one more time before lunch. There is a short paragraph about the comms drill in the guide. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "紧急修复走了同样的评审、同样的检查，没有任何捷径。下午休息时，Priya说：\"麻烦问下 Wi-Fi 密码。\"我回答：\"再来一杯馥芮白。\"我把一份越来越长的舱壁隔离清单放在桌上，留着以后用。我关于超时预算的笔记每周都变得更敏锐。我问 Leo，当一周变得繁重时他是怎么处理回滚彩排的。沟通演练出现在我们迭代笔记里的次数比以前更多了。任务在推进，我的信心也在成长。",
+   "zh": "紧急修复走了同样的评审、同样的检查，没有任何捷径。热身一轮：Maria给出：\"麻烦问下 Wi-Fi 密码。\"我回答：\"再来一杯馥芮白。\"Maria收尾道：\"今天要的就是这句。\"我在笔记本里留了一个舱壁隔离的真实例子。我趁还没忘，把超时预算记进了学习笔记。午饭前我又过了一遍回滚彩排。指南里有一小段关于沟通演练的介绍。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "bulkhead",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I double-check the incident commander before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the debrief so clearly. I keep a growing list of the jitter on my desk for later. My notes about the load shedding are getting sharper every single week. Maria greets me warmly with, \"Background noise helps me focus.\" and I answer, \"I head home at four.\" Speed with discipline, not instead of it.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I double-check the incident commander before I reply, because a wrong answer costs double. A teammate stopped me to say thanks for explaining the debrief so clearly. I keep a growing list of the jitter on my desk for later. My notes about the load shedding are getting sharper every single week. Maria greets me warmly with, \"Background noise helps me focus.\" and I answer, \"I head home at four.\" Speed with discipline, not instead of it.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the incident commander after the standup. Sam asks me about the debrief, and I explain the basics. I keep one real example of the jitter in my notebook. I add the load shedding to my study notes before I forget it. We drill it twice: Leo starts, \"Background noise helps me focus.\" I reply, \"I head home at four.\" then Leo smiles, \"Nice, keep that one handy.\" Speed with discipline, not instead of it.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the incident commander after the standup. Sam asks me about the debrief, and I explain the basics. I keep one real example of the jitter in my notebook. I add the load shedding to my study notes before I forget it. We drill it twice: Leo starts, \"Background noise helps me focus.\" I reply, \"I head home at four.\" then Leo smiles, \"Nice, keep that one handy.\" Speed with discipline, not instead of it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。回复之前我再核对一遍事件指挥，因为答错要付出双倍代价。一位队友拦住我，感谢我把演习讲评解释得这么清楚。我把一份越来越长的抖动清单放在桌上，留着以后用。我关于负载丢弃的笔记每周都变得更敏锐。Maria热情地用\"背景噪音帮我专注。\"和我打招呼，我回答：\"我四点回家。\"要的是有纪律的速度，而不是替代纪律。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在事件指挥上。Sam 问起演习讲评，我讲了讲基础。我在笔记本里留了一个抖动的真实例子。我趁还没忘，把负载丢弃记进了学习笔记。我们练了两遍：Leo起头：\"背景噪音帮我专注。\"我回答：\"我四点回家。\"然后Leo笑着说：\"不错，把这句记在手边。\"要的是有纪律的速度，而不是替代纪律。",
    "hard": [
     {
      "w": "jitter",

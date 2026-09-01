@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 342,
+   "word_count": 325,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Our web firewall blocks a customer with a perfectly normal name. I prepare a one-page brief about the containment playbook so meetings start from facts. The team sets a clear owner for the break glass account, plus a deadline and review date. I compare two approaches to the security incident channel, note the trade-offs, share both honestly. In review, I raise a careful question about the evidence collection checklist and its failure modes. When the design review starts each week, Priya asks, \"The emergency bag lives by the door.\" and I answer, \"Meeting point agreed twice a year.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "Our web firewall blocks a customer with a perfectly normal name. I prepare a one-page brief about the containment playbook so meetings start from facts. The team sets a clear owner for the break glass account, plus a deadline and review date. I compare two approaches to the security incident channel, note the trade-offs, share both honestly. In review, I raise a careful question about the evidence collection checklist and its failure modes. When the design review starts each week, Priya asks, \"The emergency bag lives by the door.\" and I answer, \"Meeting point agreed twice a year.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "Our web firewall blocks a customer with a perfectly normal name. Our mentor walks me through how the containment playbook evolved on this team. Before deciding, I reread my notes about the break glass account twice. I prepare a one-page brief about the security incident channel so meetings start from facts. The team names one clear owner for the evidence collection checklist. Dry run: Priya opens, \"The emergency bag lives by the door.\" I follow, \"Meeting point agreed twice a year.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "Our web firewall blocks a customer with a perfectly normal name. Our mentor walks me through how the containment playbook evolved on this team. Before deciding, I reread my notes about the break glass account twice. I prepare a one-page brief about the security incident channel so meetings start from facts. The team names one clear owner for the evidence collection checklist. Dry run: Priya opens, \"The emergency bag lives by the door.\" I follow, \"Meeting point agreed twice a year.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "防火墙拦下了一位名字完全正常的客户。我准备了一页关于遏制手册的简报，好让会议从事实出发。团队为应急账户定了明确的负责人，加上截止和复审日期。我比较了处理安全事件频道的两种方式，记下取舍，诚实分享。评审中，我就证据收集清单及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"应急包住在门口。\"我带着数字回答：\"集合点一年确认两次。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "防火墙拦下了一位名字完全正常的客户。导师带我梳理了遏制手册在这个团队里的演变。做决定之前，我把关于应急账户的笔记重读了两遍。我准备了一页关于安全事件频道的简报，好让会议从事实出发。团队为证据收集清单指定了明确的负责人。干跑演练：Priya开场：\"应急包住在门口。\"我接上：\"集合点一年确认两次。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "containment playbook",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We tune rules together: strict enough to stop injections, kind enough to keep guests. Leo opens the talk with, \"Water for three days, checked.\" and I follow up with, \"Copies of documents in the cloud.\" and a proposal. I compare two approaches to the incident bridge policy, note the trade-offs, share both honestly. In review, I raise a careful question about the isolation procedure and its failure modes. Our mentor walks me through the containment action log's history, including two painful lessons. We weigh the cost of changing the escalation tree for security against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "We tune rules together: strict enough to stop injections, kind enough to keep guests. Leo opens the talk with, \"Water for three days, checked.\" and I follow up with, \"Copies of documents in the cloud.\" and a proposal. I compare two approaches to the incident bridge policy, note the trade-offs, share both honestly. In review, I raise a careful question about the isolation procedure and its failure modes. Our mentor walks me through the containment action log's history, including two painful lessons. We weigh the cost of changing the escalation tree for security against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "We tune rules together: strict enough to stop injections, kind enough to keep guests. Practice debate: Priya argues, \"Water for three days, checked.\" I respond calmly, \"Copies of documents in the cloud.\" and Priya concedes, \"Strong answer — keep that precision.\" Before deciding, I reread my notes about the incident bridge policy twice. I prepare a one-page brief about the isolation procedure so meetings start from facts. The team names one clear owner for the containment action log. I compare two views on the escalation tree for security and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We tune rules together: strict enough to stop injections, kind enough to keep guests. Practice debate: Priya argues, \"Water for three days, checked.\" I respond calmly, \"Copies of documents in the cloud.\" and Priya concedes, \"Strong answer — keep that precision.\" Before deciding, I reread my notes about the incident bridge policy twice. I prepare a one-page brief about the isolation procedure so meetings start from facts. The team names one clear owner for the containment action log. I compare two views on the escalation tree for security and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们一起调规则：严到拦住注入，好到留住客人。Leo以\"三天的水\"开启话题，我接着说了\"证件扫描件在云端。\"还附了个提案。我比较了处理应急会议政策的两种方式，记下取舍，诚实分享。评审中，我就隔离流程及其失效模式提出了一个审慎的问题。导师带我梳理了遏制动作日志的历史，包括两次惨痛的教训。我们权衡了改动安全升级树的代价与放着不管的风险。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们一起调规则：严到拦住注入，好到留住客人。练习辩论：Priya主张：\"三天的水\"我平静地回应：\"证件扫描件在云端。\"Priya承认道：\"回答有力——保持这种精确。\"做决定之前，我把关于应急会议政策的笔记重读了两遍。我准备了一页关于隔离流程的简报，好让会议从事实出发。团队为遏制动作日志指定了明确的负责人。我比较了关于安全升级树的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "incident bridge policy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the forensic handoff guide so meetings start from facts. The team sets a clear owner for the recovery verification plan, plus a deadline and review date. I compare two approaches to the forensics basics, note the trade-offs, share both honestly. In review, I raise a careful question about the indicator of compromise and its failure modes. When the design review starts each week, Priya asks, \"The plan fits on one card.\" and I answer, \"Drills make calm possible.\" with numbers. A firewall should never be the rudest employee.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the forensic handoff guide so meetings start from facts. The team sets a clear owner for the recovery verification plan, plus a deadline and review date. I compare two approaches to the forensics basics, note the trade-offs, share both honestly. In review, I raise a careful question about the indicator of compromise and its failure modes. When the design review starts each week, Priya asks, \"The plan fits on one card.\" and I answer, \"Drills make calm possible.\" with numbers. A firewall should never be the rudest employee.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the forensic handoff guide. Our mentor walks me through how the recovery verification plan evolved on this team. Before deciding, I reread my notes about the forensics basics twice. I prepare a one-page brief about the indicator of compromise so meetings start from facts. Review warm-up: Maria raises, \"The plan fits on one card.\" I answer, \"Drills make calm possible.\" and Maria grades it, \"Agreed, note it in the ticket.\" A firewall should never be the rudest employee.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the forensic handoff guide. Our mentor walks me through how the recovery verification plan evolved on this team. Before deciding, I reread my notes about the forensics basics twice. I prepare a one-page brief about the indicator of compromise so meetings start from facts. Review warm-up: Maria raises, \"The plan fits on one card.\" I answer, \"Drills make calm possible.\" and Maria grades it, \"Agreed, note it in the ticket.\" A firewall should never be the rudest employee.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于取证交接指南的简报，好让会议从事实出发。团队为恢复验证计划定了明确的负责人，加上截止和复审日期。我比较了处理取证基础的两种方式，记下取舍，诚实分享。评审中，我就失陷指标及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"预案只有一张卡。\"我带着数字回答：\"演练让冷静成为可能。\"防火墙不该是最没礼貌的员工。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就取证交接指南提出了一个审慎的问题。导师带我梳理了恢复验证计划在这个团队里的演变。做决定之前，我把关于取证基础的笔记重读了两遍。我准备了一页关于失陷指标的简报，好让会议从事实出发。评审热身：Maria抛出：\"预案只有一张卡。\"我带着数字回答：\"演练让冷静成为可能。\"Maria点评道：\"同意，把这条记到工单里。\"防火墙不该是最没礼貌的员工。",
    "hard": [
     {
      "w": "forensics basics",

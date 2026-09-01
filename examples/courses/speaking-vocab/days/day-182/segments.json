@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 320,
+   "word_count": 300,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I name the coding assistant the Apprentice, because that is what it is. I link the zero shot prompt to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the few shot prompt, and I write it down. I summarize what we decided about the prompt library while the details are still fresh. The guide now includes a section on the prompt versioning, with examples and pitfalls. In the morning meeting, Leo says, \"The tutorial at two times speed.\" and I respond, \"Timeline anxiety.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "I name the coding assistant the Apprentice, because that is what it is. I link the zero shot prompt to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the few shot prompt, and I write it down. I summarize what we decided about the prompt library while the details are still fresh. The guide now includes a section on the prompt versioning, with examples and pitfalls. In the morning meeting, Leo says, \"The tutorial at two times speed.\" and I respond, \"Timeline anxiety.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "I name the coding assistant the Apprentice, because that is what it is. I compare my notes about the zero shot prompt with Priya's. At the review, we spend ten minutes on the few shot prompt. In today's standup, I mention the prompt library and what comes next. We agree to give the prompt versioning one more careful look this week. Drill without notes: Leo asks, \"The tutorial at two times speed.\" I answer, \"Timeline anxiety.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "I name the coding assistant the Apprentice, because that is what it is. I compare my notes about the zero shot prompt with Priya's. At the review, we spend ten minutes on the few shot prompt. In today's standup, I mention the prompt library and what comes next. We agree to give the prompt versioning one more careful look this week. Drill without notes: Leo asks, \"The tutorial at two times speed.\" I answer, \"Timeline anxiety.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我把编程助手叫做“学徒”，因为它就是个学徒。我把零样本提示关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的少样本提示处理办法，我把它记了下来。趁细节还新鲜，我总结了关于提示词库的决定。指南里现在有关于提示词版本化的章节，附有示例和坑点。晨会上，Leo说：\"二倍速看教程。\"我回应：\"时间轴焦虑症。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我把编程助手叫做“学徒”，因为它就是个学徒。我把关于零样本提示的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在少样本提示上。今天的站会上，我提到提示词库和接下来的安排。我们说好这周再把提示词版本化仔细看一次。脱稿演练：Leo问：\"二倍速看教程。\"我回答：\"时间轴焦虑症。\"Leo收束：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "zero shot prompt",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "It writes boilerplate in seconds and hallucinates an API in the next breath. Over coffee, Maria mentions, \"One cut fixes the pacing.\" and I add, \"Music too loud, again.\" with an example. I summarize what we decided about the chain of thought prompt while the details are still fresh. The guide now includes a section on the role framing, with examples and pitfalls. In today's standup, I give a quick update on the few shot examples curation and what blocked me. We agree that the shared system prompts needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "It writes boilerplate in seconds and hallucinates an A P I in the next breath. Over coffee, Maria mentions, \"One cut fixes the pacing.\" and I add, \"Music too loud, again.\" with an example. I summarize what we decided about the chain of thought prompt while the details are still fresh. The guide now includes a section on the role framing, with examples and pitfalls. In today's standup, I give a quick update on the few shot examples curation and what blocked me. We agree that the shared system prompts needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
+   "en": "It writes boilerplate in seconds and hallucinates an API in the next breath. Pair run: Leo starts, \"One cut fixes the pacing.\" I follow, \"Music too loud, again.\" and Leo replies, \"Keep practising, it is working.\" At the review, we spend ten minutes on the chain of thought prompt. In today's standup, I mention the role framing and what comes next. We agree to give the few shot examples curation one more careful look this week. I connect the shared system prompts to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "It writes boilerplate in seconds and hallucinates an A P I in the next breath. Pair run: Leo starts, \"One cut fixes the pacing.\" I follow, \"Music too loud, again.\" and Leo replies, \"Keep practising, it is working.\" At the review, we spend ten minutes on the chain of thought prompt. In today's standup, I mention the role framing and what comes next. We agree to give the few shot examples curation one more careful look this week. I connect the shared system prompts to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "它几秒写完样板代码，下一句就编造了一个不存在的接口。喝咖啡时，Maria提到：\"一个剪切救活节奏。\"我补充了\"音乐又太响了。\"，还带了个例子。趁细节还新鲜，我总结了关于思维链提示的决定。指南里现在有关于角色框定的章节，附有示例和坑点。在今天的站会上，我快速汇报了少样本示例精选的进展和卡住我的地方。我们一致认为，在动手之前共享系统提示还需要再仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "它几秒写完样板代码，下一句就编造了一个不存在的接口。结对演练：Leo起头：\"一个剪切救活节奏。\"我跟上：\"音乐又太响了。\"Leo回应：\"继续练，有效果了。\"评审时，我们花了十分钟在思维链提示上。今天的站会上，我提到角色框定和接下来的安排。我们说好这周再把少样本示例精选仔细看一次。我把共享系统提示关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "chain of thought prompt",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the prompt lint checklist to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the eval before promote, and I write it down. I summarize what we decided about the output format spec while the details are still fresh. The guide now includes a section on the prompt iteration loop, with examples and pitfalls. In the morning meeting, Leo says, \"Render, wait, forget, rediscover.\" and I respond, \"My first sixty seconds.\" Brilliant, fast, and never allowed to touch the main branch alone.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the prompt lint checklist to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the eval before promote, and I write it down. I summarize what we decided about the output format spec while the details are still fresh. The guide now includes a section on the prompt iteration loop, with examples and pitfalls. In the morning meeting, Leo says, \"Render, wait, forget, rediscover.\" and I respond, \"My first sixty seconds.\" Brilliant, fast, and never allowed to touch the main branch alone.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the prompt lint checklist. I compare my notes about the eval before promote with Priya's. At the review, we spend ten minutes on the output format spec. In today's standup, I mention the prompt iteration loop and what comes next. Whiteboard practice: Priya offers, \"Render, wait, forget, rediscover.\" I add, \"My first sixty seconds.\" then Priya sums up, \"Good point — use it in the standup.\" Brilliant, fast, and never allowed to touch the main branch alone.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the prompt lint checklist. I compare my notes about the eval before promote with Priya's. At the review, we spend ten minutes on the output format spec. In today's standup, I mention the prompt iteration loop and what comes next. Whiteboard practice: Priya offers, \"Render, wait, forget, rediscover.\" I add, \"My first sixty seconds.\" then Priya sums up, \"Good point — use it in the standup.\" Brilliant, fast, and never allowed to touch the main branch alone.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把提示检查清单关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的晋级前先评测处理办法，我把它记了下来。趁细节还新鲜，我总结了关于输出格式约定的决定。指南里现在有关于提示迭代循环的章节，附有示例和坑点。晨会上，Leo说：\"渲染、等待、忘记、重新发现。\"我回应：\"我的第一分钟作品。\"聪明、飞快，但绝不允许独自碰主干分支。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于提示检查清单的简短章节。我把关于晋级前先评测的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在输出格式约定上。今天的站会上，我提到提示迭代循环和接下来的安排。白板练习：Priya给出：\"渲染、等待、忘记、重新发现。\"我补充：\"我的第一分钟作品。\"然后Priya总结：\"说得好——站会上就用它。\"聪明、飞快，但绝不允许独自碰主干分支。",
    "hard": [
     {
      "w": "output format spec",

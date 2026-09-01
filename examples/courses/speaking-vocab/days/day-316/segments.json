@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 347,
+   "word_count": 327,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The platform team starts treating developers as customers. We review the object storage basics against the requirements one final time, line by line, together. I close the loop on the block storage vs file storage and share the outcome, including what surprised us. I present the storage decision record to the team with data, a timeline, and one clear ask. We align on the access pattern doc per store before the deadline so execution never has to guess. Before the launch, Maria says, \"Attic for once a year items.\" and I commit, \"The hall closet is hot storage.\" on behalf of the whole team. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "The platform team starts treating developers as customers. We review the object storage basics against the requirements one final time, line by line, together. I close the loop on the block storage vs file storage and share the outcome, including what surprised us. I present the storage decision record to the team with data, a timeline, and one clear ask. We align on the access pattern doc per store before the deadline so execution never has to guess. Before the launch, Maria says, \"Attic for once a year items.\" and I commit, \"The hall closet is hot storage.\" on behalf of the whole team. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "The platform team starts treating developers as customers. We review the object storage basics against the requirements, line by line. I close the discussion on the block storage vs file storage with a short summary. The final deck includes the storage decision record and what we learned from it. I put the access pattern doc per store on the record so the reasoning stays visible. Launch rehearsal: Maria asks, \"Attic for once a year items.\" I present, \"The hall closet is hot storage.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The platform team starts treating developers as customers. We review the object storage basics against the requirements, line by line. I close the discussion on the block storage vs file storage with a short summary. The final deck includes the storage decision record and what we learned from it. I put the access pattern doc per store on the record so the reasoning stays visible. Launch rehearsal: Maria asks, \"Attic for once a year items.\" I present, \"The hall closet is hot storage.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "平台团队开始把开发者当客户。我们最后一次逐行对照需求检查了对象存储入门，一起完成的。我跟进完块存储与文件存储并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了存储决策记录。我们在截止日期前就每个库的访问模式文档达成共识，让执行永远不必靠猜。上线前，Maria说：\"一年一用的放阁楼。\"我代表整个团队承诺：\"门厅柜是热存储。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "平台团队开始把开发者当客户。我们逐行对照需求检查了对象存储入门。我用一段简短的总结为块存储与文件存储的讨论收尾。最终的材料里有存储决策记录，以及我们从中学到的东西。我把每个库的访问模式文档记录在案，让推理过程保持可见。上线彩排：Maria问：\"一年一用的放阁楼。\"我带着准备好的数字汇报：\"门厅柜是热存储。\"Maria签字道：\"说得好，这句留在材料里。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "object storage basics",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A golden path ships: new service to production in one afternoon. Priya summarises the meeting with, \"Deep storage costs patience.\" and I confirm, \"We label every holiday box.\" for the record. I present the storage class tiers to the team with data, a timeline, and one clear ask. We align on the durability numbers before the deadline so execution never has to guess. My report explains the storage cost per feature, the risks behind it, and the cost of waiting. I propose a measurable goal for the backup coverage per class this quarter, with a number we can defend. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "A golden path ships: new service to production in one afternoon. Priya summarises the meeting with, \"Deep storage costs patience.\" and I confirm, \"We label every holiday box.\" for the record. I present the storage class tiers to the team with data, a timeline, and one clear ask. We align on the durability numbers before the deadline so execution never has to guess. My report explains the storage cost per feature, the risks behind it, and the cost of waiting. I propose a measurable goal for the backup coverage per class this quarter, with a number we can defend. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "A golden path ships: new service to production in one afternoon. Final dry run: Maria summarises, \"Deep storage costs patience.\" I confirm, \"We label every holiday box.\" for the record, and Maria closes, \"Well said, that stays in the deck.\" I close the discussion on the storage class tiers with a short summary. The final deck includes the durability numbers and what we learned from it. I put the storage cost per feature on the record so the reasoning stays visible. I present the backup coverage per class with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "A golden path ships: new service to production in one afternoon. Final dry run: Maria summarises, \"Deep storage costs patience.\" I confirm, \"We label every holiday box.\" for the record, and Maria closes, \"Well said, that stays in the deck.\" I close the discussion on the storage class tiers with a short summary. The final deck includes the durability numbers and what we learned from it. I put the storage cost per feature on the record so the reasoning stays visible. I present the backup coverage per class with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "黄金路径上线：新服务一个下午就能上生产。Priya用\"深冷存储考验耐心。\"为会议收尾，我郑重确认：\"每个节日箱都贴标。\"我用数据、时间线和一条明确的诉求，向团队汇报了存储分级策略。我们在截止日期前就持久性数字达成共识，让执行永远不必靠猜。我的报告解释了功能级存储成本、背后的风险，以及等待的代价。我为每级存储的备份覆盖提出了一个本季度的可衡量目标，一个我们守得住的数字。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "黄金路径上线：新服务一个下午就能上生产。最终干跑：Maria总结：\"深冷存储考验耐心。\"我郑重确认：\"每个节日箱都贴标。\"Maria收尾道：\"说得好，这句留在材料里。\"我用一段简短的总结为存储分级策略的讨论收尾。最终的材料里有持久性数字，以及我们从中学到的东西。我把功能级存储成本记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报每级存储的备份覆盖。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "storage class tiers",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the encryption at every tier against the requirements one final time, line by line, together. I close the loop on the storage migration runbook and share the outcome, including what surprised us. I present the retrieval cost awareness to the team with data, a timeline, and one clear ask. We align on the lifecycle transition rules before the deadline so execution never has to guess. Before the launch, Maria says, \"Retrieval trips are logged informally.\" and I commit, \"Storage needs an annual audit.\" on behalf of the whole team. The paved road won because it is genuinely nicer.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the encryption at every tier against the requirements one final time, line by line, together. I close the loop on the storage migration runbook and share the outcome, including what surprised us. I present the retrieval cost awareness to the team with data, a timeline, and one clear ask. We align on the lifecycle transition rules before the deadline so execution never has to guess. Before the launch, Maria says, \"Retrieval trips are logged informally.\" and I commit, \"Storage needs an annual audit.\" on behalf of the whole team. The paved road won because it is genuinely nicer.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the encryption at every tier this quarter. We review the storage migration runbook against the requirements, line by line. I close the discussion on the retrieval cost awareness with a short summary. The final deck includes the lifecycle transition rules and what we learned from it. Last rehearsal: Leo checks, \"Retrieval trips are logged informally.\" I commit word for word, \"Storage needs an annual audit.\" and Leo smiles, \"Confirmed. This is launch ready.\" The paved road won because it is genuinely nicer.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the encryption at every tier this quarter. We review the storage migration runbook against the requirements, line by line. I close the discussion on the retrieval cost awareness with a short summary. The final deck includes the lifecycle transition rules and what we learned from it. Last rehearsal: Leo checks, \"Retrieval trips are logged informally.\" I commit word for word, \"Storage needs an annual audit.\" and Leo smiles, \"Confirmed. This is launch ready.\" The paved road won because it is genuinely nicer.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们最后一次逐行对照需求检查了每一层都加密，一起完成的。我跟进完存储迁移手册并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了取回成本意识。我们在截止日期前就生命周期流转规则达成共识，让执行永远不必靠猜。上线前，Maria说：\"取件记录随手记。\"我代表整个团队承诺：\"储物需要年度审计。\"铺好的路赢了，因为它真的好走。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为每一层都加密提出了本季度一个可衡量的目标。我们逐行对照需求检查了存储迁移手册。我用一段简短的总结为取回成本意识的讨论收尾。最终的材料里有生命周期流转规则，以及我们从中学到的东西。最后一次彩排：Leo核对：\"取件记录随手记。\"我逐字承诺：\"储物需要年度审计。\"Leo笑道：\"确认无误，可以上线了。\"铺好的路赢了，因为它真的好走。",
    "hard": [
     {
      "w": "retrieval cost awareness",

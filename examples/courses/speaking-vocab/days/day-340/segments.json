@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 347,
+   "word_count": 327,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I grade my year: three promises kept, one promise forgotten. We review the scaling team rituals against the requirements one final time, line by line, together. I close the loop on the sub team formation criteria and share the outcome, including what surprised us. I present the team split migration plan to the team with data, a timeline, and one clear ask. We align on the interview capacity expansion before the deadline so execution never has to guess. Before the launch, Maria says, \"Dinner moved from one table to two.\" and I commit, \"The soup recipe doubled with care.\" on behalf of the whole team. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "I grade my year: three promises kept, one promise forgotten. We review the scaling team rituals against the requirements one final time, line by line, together. I close the loop on the sub team formation criteria and share the outcome, including what surprised us. I present the team split migration plan to the team with data, a timeline, and one clear ask. We align on the interview capacity expansion before the deadline so execution never has to guess. Before the launch, Maria says, \"Dinner moved from one table to two.\" and I commit, \"The soup recipe doubled with care.\" on behalf of the whole team. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "I grade my year: three promises kept, one promise forgotten. We review the scaling team rituals against the requirements, line by line. I close the discussion on the sub team formation criteria with a short summary. The final deck includes the team split migration plan and what we learned from it. I put the interview capacity expansion on the record so the reasoning stays visible. Launch rehearsal: Maria asks, \"Dinner moved from one table to two.\" I present, \"The soup recipe doubled with care.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "I grade my year: three promises kept, one promise forgotten. We review the scaling team rituals against the requirements, line by line. I close the discussion on the sub team formation criteria with a short summary. The final deck includes the team split migration plan and what we learned from it. I put the interview capacity expansion on the record so the reasoning stays visible. Launch rehearsal: Maria asks, \"Dinner moved from one table to two.\" I present, \"The soup recipe doubled with care.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我给自己的一年打分：三个承诺守住，一个忘记。我们最后一次逐行对照需求检查了团队仪式的扩容，一起完成的。我跟进完小组拆分标准并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了团队拆分迁移计划。我们在截止日期前就面试产能扩充达成共识，让执行永远不必靠猜。上线前，Maria说：\"晚餐从一张桌变两桌。\"我代表整个团队承诺：\"汤的配方被小心翻倍。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "我给自己的一年打分：三个承诺守住，一个忘记。我们逐行对照需求检查了团队仪式的扩容。我用一段简短的总结为小组拆分标准的讨论收尾。最终的材料里有团队拆分迁移计划，以及我们从中学到的东西。我把面试产能扩充记录在案，让推理过程保持可见。上线彩排：Maria问：\"晚餐从一张桌变两桌。\"我带着准备好的数字汇报：\"汤的配方被小心翻倍。\"Maria签字道：\"说得好，这句留在材料里。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "scaling team rituals",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The forgotten one gets carried into next year's first page. Priya summarises the meeting with, \"Grandkids get their own corner table.\" and I confirm, \"Old stories told between tables.\" for the record. I present the communication bus factor to the team with data, a timeline, and one clear ask. We align on the onboarding cohort system before the deadline so execution never has to guess. My report explains the ritual deprecation for scale, the risks behind it, and the cost of waiting. I propose a measurable goal for the onboarding buddy ratio policy this quarter, with a number we can defend. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "The forgotten one gets carried into next year's first page. Priya summarises the meeting with, \"Grandkids get their own corner table.\" and I confirm, \"Old stories told between tables.\" for the record. I present the communication bus factor to the team with data, a timeline, and one clear ask. We align on the onboarding cohort system before the deadline so execution never has to guess. My report explains the ritual deprecation for scale, the risks behind it, and the cost of waiting. I propose a measurable goal for the onboarding buddy ratio policy this quarter, with a number we can defend. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "The forgotten one gets carried into next year's first page. Final dry run: Maria summarises, \"Grandkids get their own corner table.\" I confirm, \"Old stories told between tables.\" for the record, and Maria closes, \"Well said, that stays in the deck.\" I close the discussion on the communication bus factor with a short summary. The final deck includes the onboarding cohort system and what we learned from it. I put the ritual deprecation for scale on the record so the reasoning stays visible. I present the onboarding buddy ratio policy with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "The forgotten one gets carried into next year's first page. Final dry run: Maria summarises, \"Grandkids get their own corner table.\" I confirm, \"Old stories told between tables.\" for the record, and Maria closes, \"Well said, that stays in the deck.\" I close the discussion on the communication bus factor with a short summary. The final deck includes the onboarding cohort system and what we learned from it. I put the ritual deprecation for scale on the record so the reasoning stays visible. I present the onboarding buddy ratio policy with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "被遗忘的那条写进明年第一页。Priya用\"孙辈有了自己的角落桌。\"为会议收尾，我郑重确认：\"老故事在桌与桌之间流传。\"我用数据、时间线和一条明确的诉求，向团队汇报了沟通总线瓶颈。我们在截止日期前就新人成批入职体系达成共识，让执行永远不必靠猜。我的报告解释了仪式的规模性废止、背后的风险，以及等待的代价。我为伙伴比例政策提出了一个本季度的可衡量目标，一个我们守得住的数字。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "被遗忘的那条写进明年第一页。最终干跑：Maria总结：\"孙辈有了自己的角落桌。\"我郑重确认：\"老故事在桌与桌之间流传。\"Maria收尾道：\"说得好，这句留在材料里。\"我用一段简短的总结为沟通总线瓶颈的讨论收尾。最终的材料里有新人成批入职体系，以及我们从中学到的东西。我把仪式的规模性废止记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报伙伴比例政策。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "communication bus factor",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the documentation depth per team against the requirements one final time, line by line, together. I close the loop on the culture interview for leads and share the outcome, including what surprised us. I present the culture carrier selection to the team with data, a timeline, and one clear ask. We align on the knowledge dilution guard before the deadline so execution never has to guess. Before the launch, Maria says, \"Chaos managed by an emcee.\" and I commit, \"Bigger family, same warmth.\" on behalf of the whole team. Honest report cards make better teachers.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the documentation depth per team against the requirements one final time, line by line, together. I close the loop on the culture interview for leads and share the outcome, including what surprised us. I present the culture carrier selection to the team with data, a timeline, and one clear ask. We align on the knowledge dilution guard before the deadline so execution never has to guess. Before the launch, Maria says, \"Chaos managed by an emcee.\" and I commit, \"Bigger family, same warmth.\" on behalf of the whole team. Honest report cards make better teachers.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the documentation depth per team this quarter. We review the culture interview for leads against the requirements, line by line. I close the discussion on the culture carrier selection with a short summary. The final deck includes the knowledge dilution guard and what we learned from it. Last rehearsal: Leo checks, \"Chaos managed by an emcee.\" I commit word for word, \"Bigger family, same warmth.\" and Leo smiles, \"Confirmed. This is launch ready.\" Honest report cards make better teachers.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the documentation depth per team this quarter. We review the culture interview for leads against the requirements, line by line. I close the discussion on the culture carrier selection with a short summary. The final deck includes the knowledge dilution guard and what we learned from it. Last rehearsal: Leo checks, \"Chaos managed by an emcee.\" I commit word for word, \"Bigger family, same warmth.\" and Leo smiles, \"Confirmed. This is launch ready.\" Honest report cards make better teachers.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们最后一次逐行对照需求检查了各团队文档深度，一起完成的。我跟进完负责人的文化面试并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了文化传递者选择。我们在截止日期前就知识稀释防护达成共识，让执行永远不必靠猜。上线前，Maria说：\"有个主持人就管住了热闹。\"我代表整个团队承诺：\"家庭变大\"诚实的成绩单造就更好的老师。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为各团队文档深度提出了本季度一个可衡量的目标。我们逐行对照需求检查了负责人的文化面试。我用一段简短的总结为文化传递者选择的讨论收尾。最终的材料里有知识稀释防护，以及我们从中学到的东西。最后一次彩排：Leo核对：\"有个主持人就管住了热闹。\"我逐字承诺：\"家庭变大\"Leo笑道：\"确认无误，可以上线了。\"诚实的成绩单造就更好的老师。",
    "hard": [
     {
      "w": "culture carrier selection",

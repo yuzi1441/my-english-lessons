@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 317,
+   "word_count": 301,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The definition drift detector flags a quietly changed metric. I link the truncated axis trap to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the dual axis confusion, and I write it down. I summarize what we decided about the demo day for data while the details are still fresh. The guide now includes a section on the five minute insight format, with examples and pitfalls. In the morning meeting, Leo says, \"One month, no afternoon coffee.\" and I respond, \"The self experiment design.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "The definition drift detector flags a quietly changed metric. I link the truncated axis trap to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the dual axis confusion, and I write it down. I summarize what we decided about the demo day for data while the details are still fresh. The guide now includes a section on the five minute insight format, with examples and pitfalls. In the morning meeting, Leo says, \"One month, no afternoon coffee.\" and I respond, \"The self experiment design.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "The definition drift detector flags a quietly changed metric. In today's standup, I mention the truncated axis trap and what comes next. We agree to give the dual axis confusion one more careful look this week. I connect the demo day for data to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the five minute insight format. Meeting rehearsal: Leo opens, \"One month, no afternoon coffee.\" I respond, \"The self experiment design.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The definition drift detector flags a quietly changed metric. In today's standup, I mention the truncated axis trap and what comes next. We agree to give the dual axis confusion one more careful look this week. I connect the demo day for data to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the five minute insight format. Meeting rehearsal: Leo opens, \"One month, no afternoon coffee.\" I respond, \"The self experiment design.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "口径漂移检测器标记了一个悄悄变化的指标。我把截断坐标轴陷阱关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的双轴图困惑处理办法，我把它记了下来。趁细节还新鲜，我总结了关于数据演示日的决定。指南里现在有关于五分钟洞察格式的章节，附有示例和坑点。晨会上，Leo说：\"一个月\"我回应：\"自我实验设计。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "口径漂移检测器标记了一个悄悄变化的指标。今天的站会上，我提到截断坐标轴陷阱和接下来的安排。我们说好这周再把双轴图困惑仔细看一次。我把数据演示日关联到工单上，免得遗漏。Priya 提出了一个更清晰的五分钟洞察格式思考方式。会议彩排：Leo开场：\"一个月\"我回应：\"自我实验设计。\"Leo确认道：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "truncated axis trap",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A well-meant fix had moved the goalposts; we version definitions now. Over coffee, Maria mentions, \"Sleep score as the metric.\" and I add, \"Confession: one relapse.\" with an example. I summarize what we decided about the percentage base confusion while the details are still fresh. The guide now includes a section on the average without distribution, with examples and pitfalls. In today's standup, I give a quick update on the unified slide template and what blocked me. We agree that the recording for absentees needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "A well-meant fix had moved the goalposts; we version definitions now. Over coffee, Maria mentions, \"Sleep score as the metric.\" and I add, \"Confession: one relapse.\" with an example. I summarize what we decided about the percentage base confusion while the details are still fresh. The guide now includes a section on the average without distribution, with examples and pitfalls. In today's standup, I give a quick update on the unified slide template and what blocked me. We agree that the recording for absentees needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
+   "en": "A well-meant fix had moved the goalposts; we version definitions now. Whiteboard practice: Leo offers, \"Sleep score as the metric.\" I add, \"Confession: one relapse.\" then Leo sums up, \"Keep practising, it is working.\" We agree to give the percentage base confusion one more careful look this week. I connect the average without distribution to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the unified slide template. While the details are fresh, I write down the recording for absentees. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "A well-meant fix had moved the goalposts; we version definitions now. Whiteboard practice: Leo offers, \"Sleep score as the metric.\" I add, \"Confession: one relapse.\" then Leo sums up, \"Keep practising, it is working.\" We agree to give the percentage base confusion one more careful look this week. I connect the average without distribution to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the unified slide template. While the details are fresh, I write down the recording for absentees. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个善意的修复移动了门柱；现在定义都有版本。喝咖啡时，Maria提到：\"睡眠分数当指标。\"我补充了\"坦白：破戒一次。\"，还带了个例子。趁细节还新鲜，我总结了关于百分比分母困惑的决定。指南里现在有关于没有分布的平均值的章节，附有示例和坑点。在今天的站会上，我快速汇报了统一幻灯模板的进展和卡住我的地方。我们一致认为，在动手之前录像给缺席者还需要再仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "一个善意的修复移动了门柱；现在定义都有版本。白板练习：Leo给出：\"睡眠分数当指标。\"我补充：\"坦白：破戒一次。\"然后Leo总结：\"继续练，有效果了。\"我们说好这周再把百分比分母困惑仔细看一次。我把没有分布的平均值关联到工单上，免得遗漏。Priya 提出了一个更清晰的统一幻灯模板思考方式。趁细节还新鲜，我把录像给缺席者写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "percentage base confusion",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the question storm session to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the cross team guest talk, and I write it down. I summarize what we decided about the cherry picked window while the details are still fresh. The guide now includes a section on the caution with correlation heatmaps, with examples and pitfalls. In the morning meeting, Leo says, \"Clearer evenings, per the data.\" and I respond, \"Habit kept at eighty percent.\" Changing the ruler is changing the world.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the question storm session to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the cross team guest talk, and I write it down. I summarize what we decided about the cherry picked window while the details are still fresh. The guide now includes a section on the caution with correlation heatmaps, with examples and pitfalls. In the morning meeting, Leo says, \"Clearer evenings, per the data.\" and I respond, \"Habit kept at eighty percent.\" Changing the ruler is changing the world.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the question storm session. In today's standup, I mention the cross team guest talk and what comes next. We agree to give the cherry picked window one more careful look this week. I connect the caution with correlation heatmaps to the ticket so nothing gets lost. Pair run: Priya starts, \"Clearer evenings, per the data.\" I follow, \"Habit kept at eighty percent.\" and Priya replies, \"Good point — use it in the standup.\" Changing the ruler is changing the world.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the question storm session. In today's standup, I mention the cross team guest talk and what comes next. We agree to give the cherry picked window one more careful look this week. I connect the caution with correlation heatmaps to the ticket so nothing gets lost. Pair run: Priya starts, \"Clearer evenings, per the data.\" I follow, \"Habit kept at eighty percent.\" and Priya replies, \"Good point — use it in the standup.\" Changing the ruler is changing the world.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把问题风暴会关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的跨团队客座分享处理办法，我把它记了下来。趁细节还新鲜，我总结了关于挑时间窗的决定。指南里现在有关于相关热力图慎读的章节，附有示例和坑点。晨会上，Leo说：\"数据说：晚上更清醒。\"我回应：\"习惯保住了八成。\"换尺子就是换世界。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在问题风暴会上。今天的站会上，我提到跨团队客座分享和接下来的安排。我们说好这周再把挑时间窗仔细看一次。我把相关热力图慎读关联到工单上，免得遗漏。结对演练：Priya起头：\"数据说：晚上更清醒。\"我跟上：\"习惯保住了八成。\"Priya回应：\"说得好——站会上就用它。\"换尺子就是换世界。",
    "hard": [
     {
      "w": "cherry picked window",

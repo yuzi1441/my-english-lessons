@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 334,
+   "word_count": 329,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Month ten opens with a napkin sketch my partner refuses to throw away. Our mentor walks me through the problem interview's history, including two painful lessons. We weigh the cost of changing the idea validation against leaving it alone. I prepare a one-page brief about the side project repo so meetings start from facts. The team sets a clear owner for the project charter for one, plus a deadline and review date. Maria raises, \"The napkin sketch looks promising.\" and I respond calmly, \"Dinner talk turned into a plan.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Month ten opens with a napkin sketch my partner refuses to throw away. Our mentor walks me through the problem interview's history, including two painful lessons. We weigh the cost of changing the idea validation against leaving it alone. I prepare a one-page brief about the side project repo so meetings start from facts. The team sets a clear owner for the project charter for one, plus a deadline and review date. Maria raises, \"The napkin sketch looks promising.\" and I respond calmly, \"Dinner talk turned into a plan.\" because panic never helped anyone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Month ten opens with a napkin sketch my partner refuses to throw away. We spend the first ten minutes of the review on the problem interview. During the design review, I raise one careful question about the idea validation. Our mentor walks me through how the side project repo evolved on this team. Before deciding, I reread my notes about the project charter for one twice. Mock review: Maria probes, \"The napkin sketch looks promising.\" I answer from memory, \"Dinner talk turned into a plan.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Month ten opens with a napkin sketch my partner refuses to throw away. We spend the first ten minutes of the review on the problem interview. During the design review, I raise one careful question about the idea validation. Our mentor walks me through how the side project repo evolved on this team. Before deciding, I reread my notes about the project charter for one twice. Mock review: Maria probes, \"The napkin sketch looks promising.\" I answer from memory, \"Dinner talk turned into a plan.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第十个月的开场：一张我伴侣舍不得扔的餐巾纸草图。导师带我梳理了问题访谈的历史，包括两次惨痛的教训。我们权衡了改动点子验证的代价与放着不管的风险。我准备了一页关于副业仓库的简报，好让会议从事实出发。团队为一人章程定了明确的负责人，加上截止和复审日期。Maria提出：\"餐巾纸上的草图有点意思。\"我从容地回应：\"晚饭聊天聊出了计划。\"因为慌张从来没用。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "第十个月的开场：一张我伴侣舍不得扔的餐巾纸草图。评审的前十分钟，我们都用在了问题访谈上。设计评审中，我就点子验证提出了一个审慎的问题。导师带我梳理了副业仓库在这个团队里的演变。做决定之前，我把关于一人章程的笔记重读了两遍。模拟评审：Maria追问：\"餐巾纸上的草图有点意思。\"我凭记忆回答：\"晚饭聊天聊出了计划。\"Maria确认：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "problem interview",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "\"Build it,\" she says, \"but build the smallest version.\" When the design review starts each week, Priya asks, \"My partner asks hard questions.\" and I answer, \"We bet one weekend on it.\" with numbers. I prepare a one-page brief about the landing page test so meetings start from facts. The team sets a clear owner for the waitlist signup, plus a deadline and review date. I compare two approaches to the build in public log, note the trade-offs, share both honestly. In review, I raise a careful question about the weekend milestone plan and its failure modes. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "\"Build it,\" she says, \"but build the smallest version.\" When the design review starts each week, Priya asks, \"My partner asks hard questions.\" and I answer, \"We bet one weekend on it.\" with numbers. I prepare a one-page brief about the landing page test so meetings start from facts. The team sets a clear owner for the waitlist signup, plus a deadline and review date. I compare two approaches to the build in public log, note the trade-offs, share both honestly. In review, I raise a careful question about the weekend milestone plan and its failure modes. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "\"Build it,\" she says, \"but build the smallest version.\" Review warm-up: Maria raises, \"My partner asks hard questions.\" I answer, \"We bet one weekend on it.\" and Maria grades it, \"Agreed, note it in the ticket.\" During the design review, I raise one careful question about the landing page test. Our mentor walks me through how the waitlist signup evolved on this team. Before deciding, I reread my notes about the build in public log twice. I prepare a one-page brief about the weekend milestone plan so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "\"Build it,\" she says, \"but build the smallest version.\" Review warm-up: Maria raises, \"My partner asks hard questions.\" I answer, \"We bet one weekend on it.\" and Maria grades it, \"Agreed, note it in the ticket.\" During the design review, I raise one careful question about the landing page test. Our mentor walks me through how the waitlist signup evolved on this team. Before deciding, I reread my notes about the build in public log twice. I prepare a one-page brief about the weekend milestone plan so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "她说：“做出来，但做最小的那版。”评审开始时，Priya问：\"伴侣的问题都很刁钻。\"我带着数字回答：\"我们押了一个周末。\"我准备了一页关于落地页测试的简报，好让会议从事实出发。团队为候补名单定了明确的负责人，加上截止和复审日期。我比较了处理公开构建日志的两种方式，记下取舍，诚实分享。评审中，我就周末里程碑计划及其失效模式提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "她说：“做出来，但做最小的那版。”评审热身：Maria抛出：\"伴侣的问题都很刁钻。\"我带着数字回答：\"我们押了一个周末。\"Maria点评道：\"同意，把这条记到工单里。\"设计评审中，我就落地页测试提出了一个审慎的问题。导师带我梳理了候补名单在这个团队里的演变。做决定之前，我把关于公开构建日志的笔记重读了两遍。我准备了一页关于周末里程碑计划的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "landing page test",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through the scope fence note's history, including two painful lessons. We weigh the cost of changing the launch date pencil mark against leaving it alone. I prepare a one-page brief about the smoke test for ideas so meetings start from facts. The team sets a clear owner for the early adopter pitch, plus a deadline and review date. Maria raises, \"The side project jar has coins.\" and I respond calmly, \"Dreams need dinner too.\" because panic never helped anyone. The smallest version still needs a name and a Saturday.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through the scope fence note's history, including two painful lessons. We weigh the cost of changing the launch date pencil mark against leaving it alone. I prepare a one-page brief about the smoke test for ideas so meetings start from facts. The team sets a clear owner for the early adopter pitch, plus a deadline and review date. Maria raises, \"The side project jar has coins.\" and I respond calmly, \"Dreams need dinner too.\" because panic never helped anyone. The smallest version still needs a name and a Saturday.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the scope fence note to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the launch date pencil mark. During the design review, I raise one careful question about the smoke test for ideas. Our mentor walks me through how the early adopter pitch evolved on this team. Practice debate: Leo argues, \"The side project jar has coins.\" I respond calmly, \"Dreams need dinner too.\" and Leo concedes, \"That is the level we need.\" The smallest version still needs a name and a Saturday.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the scope fence note to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the launch date pencil mark. During the design review, I raise one careful question about the smoke test for ideas. Our mentor walks me through how the early adopter pitch evolved on this team. Practice debate: Leo argues, \"The side project jar has coins.\" I respond calmly, \"Dreams need dinner too.\" and Leo concedes, \"That is the level we need.\" The smallest version still needs a name and a Saturday.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了范围栅栏备注的历史，包括两次惨痛的教训。我们权衡了改动launch 日期铅笔印的代价与放着不管的风险。我准备了一页关于点子试烟测试的简报，好让会议从事实出发。团队为尝鲜者说辞定了明确的负责人，加上截止和复审日期。Maria提出：\"副业罐子里有硬币了。\"我从容地回应：\"梦想也要吃饭。\"因为慌张从来没用。最小的版本也需要一个名字，和一个周六。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把范围栅栏备注连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了launch 日期铅笔印上。设计评审中，我就点子试烟测试提出了一个审慎的问题。导师带我梳理了尝鲜者说辞在这个团队里的演变。练习辩论：Leo主张：\"副业罐子里有硬币了。\"我平静地回应：\"梦想也要吃饭。\"Leo承认道：\"我们要的就是这个水平。\"最小的版本也需要一个名字，和一个周六。",
    "hard": [
     {
      "w": "smoke test for ideas",

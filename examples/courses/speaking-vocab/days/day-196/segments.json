@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 312,
+   "word_count": 280,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A red team member hides instructions inside a support ticket. I summarize what we decided about the collaborative editing ai while the details are still fresh. The guide now includes a section on the style consistency checking, with examples and pitfalls. In today's standup, I give a quick update on the ai onboarding guide and what blocked me. We agree that the interactive playground needs one more careful look before we commit. Over coffee, Maria mentions, \"Voice input for long texts.\" and I add, \"Punctuation by voice, learned.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "A red team member hides instructions inside a support ticket. I summarize what we decided about the collaborative editing ai while the details are still fresh. The guide now includes a section on the style consistency checking, with examples and pitfalls. In today's standup, I give a quick update on the ai onboarding guide and what blocked me. We agree that the interactive playground needs one more careful look before we commit. Over coffee, Maria mentions, \"Voice input for long texts.\" and I add, \"Punctuation by voice, learned.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "A red team member hides instructions inside a support ticket. While the details are fresh, I write down the collaborative editing ai. The guide now has a short section on the style consistency checking. I compare my notes about the ai onboarding guide with Priya's. At the review, we spend ten minutes on the interactive playground. Meeting rehearsal: Maria opens, \"Voice input for long texts.\" I respond, \"Punctuation by voice, learned.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "A red team member hides instructions inside a support ticket. While the details are fresh, I write down the collaborative editing ai. The guide now has a short section on the style consistency checking. I compare my notes about the ai onboarding guide with Priya's. At the review, we spend ten minutes on the interactive playground. Meeting rehearsal: Maria opens, \"Voice input for long texts.\" I respond, \"Punctuation by voice, learned.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "红队同事把指令藏进了一张支持工单。趁细节还新鲜，我总结了关于协作编辑 AI的决定。指南里现在有关于文风一致性检查的章节，附有示例和坑点。在今天的站会上，我快速汇报了AI 入门指南的进展和卡住我的地方。我们一致认为，在动手之前交互式试炼场还需要再仔细看一次。喝咖啡时，Maria提到：\"长文用语音输入。\"我补充了\"语音标点\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "红队同事把指令藏进了一张支持工单。趁细节还新鲜，我把协作编辑 AI写了下来。指南里现在有关于文风一致性检查的简短章节。我把关于AI 入门指南的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在交互式试炼场上。会议彩排：Maria开场：\"长文用语音输入。\"我回应：\"语音标点\"Maria确认道：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "collaborative editing ai",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The bot obeys the ticket for eleven seconds before our filters catch it. Priya checks in with, \"Accent versus autocorrect wars.\" so I explain, \"Walking dictation flow.\" without rushing. In today's standup, I give a quick update on the tone reviewer and what blocked me. We agree that the terminology enforcer needs one more careful look before we commit. I link the example gallery to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the certification quiz, and I write it down. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "The bot obeys the ticket for eleven seconds before our filters catch it. Priya checks in with, \"Accent versus autocorrect wars.\" so I explain, \"Walking dictation flow.\" without rushing. In today's standup, I give a quick update on the tone reviewer and what blocked me. We agree that the terminology enforcer needs one more careful look before we commit. I link the example gallery to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the certification quiz, and I write it down. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "The bot obeys the ticket for eleven seconds before our filters catch it. Whiteboard practice: Maria offers, \"Accent versus autocorrect wars.\" I add, \"Walking dictation flow.\" then Maria sums up, \"Exactly, and it saves time too.\" The guide now has a short section on the tone reviewer. I compare my notes about the terminology enforcer with Priya's. At the review, we spend ten minutes on the example gallery. In today's standup, I mention the certification quiz and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The bot obeys the ticket for eleven seconds before our filters catch it. Whiteboard practice: Maria offers, \"Accent versus autocorrect wars.\" I add, \"Walking dictation flow.\" then Maria sums up, \"Exactly, and it saves time too.\" The guide now has a short section on the tone reviewer. I compare my notes about the terminology enforcer with Priya's. At the review, we spend ten minutes on the example gallery. In today's standup, I mention the certification quiz and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "机器人服从了工单十一秒，然后被过滤器拦下。Priya关心地问：\"口音与自动更正的战争。\"于是我不慌不忙地解释：\"边走边说的心流。\"在今天的站会上，我快速汇报了语气评审员的进展和卡住我的地方。我们一致认为，在动手之前术语执行者还需要再仔细看一次。我把示例画廊关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的内部认证小测处理办法，我把它记了下来。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "机器人服从了工单十一秒，然后被过滤器拦下。白板练习：Maria给出：\"口音与自动更正的战争。\"我补充：\"边走边说的心流。\"然后Maria总结：\"正是，而且还省时间。\"指南里现在有关于语气评审员的简短章节。我把关于术语执行者的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在示例画廊上。今天的站会上，我提到内部认证小测和接下来的安排。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "tone reviewer",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I summarize what we decided about the office hours for ai tools while the details are still fresh. The guide now includes a section on the feedback to platform team, with examples and pitfalls. In today's standup, I give a quick update on the outline suggestion engine and what blocked me. We agree that the version diff summarizer needs one more careful look before we commit. Over coffee, Maria mentions, \"Keyboard for numbers, always.\" and I add, \"Hands free, mind free.\" with an example. Documents can lie; treat every input as a stranger.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I summarize what we decided about the office hours for ai tools while the details are still fresh. The guide now includes a section on the feedback to platform team, with examples and pitfalls. In today's standup, I give a quick update on the outline suggestion engine and what blocked me. We agree that the version diff summarizer needs one more careful look before we commit. Over coffee, Maria mentions, \"Keyboard for numbers, always.\" and I add, \"Hands free, mind free.\" with an example. Documents can lie; treat every input as a stranger.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the office hours for ai tools. While the details are fresh, I write down the feedback to platform team. The guide now has a short section on the outline suggestion engine. I compare my notes about the version diff summarizer with Priya's. Pair run: Leo starts, \"Keyboard for numbers, always.\" I follow, \"Hands free, mind free.\" and Leo replies, \"Keep practising, it is working.\" Documents can lie; treat every input as a stranger.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the office hours for ai tools. While the details are fresh, I write down the feedback to platform team. The guide now has a short section on the outline suggestion engine. I compare my notes about the version diff summarizer with Priya's. Pair run: Leo starts, \"Keyboard for numbers, always.\" I follow, \"Hands free, mind free.\" and Leo replies, \"Keep practising, it is working.\" Documents can lie; treat every input as a stranger.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我总结了关于AI 工具答疑时段的决定。指南里现在有关于给平台团队的反馈的章节，附有示例和坑点。在今天的站会上，我快速汇报了大纲建议引擎的进展和卡住我的地方。我们一致认为，在动手之前版本差异摘要还需要再仔细看一次。喝咖啡时，Maria提到：\"数字永远用键盘。\"我补充了\"双手自由\"，还带了个例子。文档也会撒谎；把每个输入当陌生人。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的AI 工具答疑时段思考方式。趁细节还新鲜，我把给平台团队的反馈写了下来。指南里现在有关于大纲建议引擎的简短章节。我把关于版本差异摘要的笔记和 Priya 的对照了一下。结对演练：Leo起头：\"数字永远用键盘。\"我跟上：\"双手自由\"Leo回应：\"继续练，有效果了。\"文档也会撒谎；把每个输入当陌生人。",
    "hard": [
     {
      "w": "outline suggestion engine",

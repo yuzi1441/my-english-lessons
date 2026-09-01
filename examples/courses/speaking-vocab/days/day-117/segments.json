@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 306,
+   "word_count": 284,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A release ships; the first 48 hours belong to the watch. Priya suggests a simpler way to handle the shared test environment, and I write it down. I summarize what we decided about the environment booking while the details are still fresh. The guide now includes a section on the freeze calendar, with examples and pitfalls. In today's standup, I give a quick update on the exception review and what blocked me. Priya checks in with, \"I return things on time.\" so I explain, \"I reply within a day.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "A release ships; the first 48 hours belong to the watch. Priya suggests a simpler way to handle the shared test environment, and I write it down. I summarize what we decided about the environment booking while the details are still fresh. The guide now includes a section on the freeze calendar, with examples and pitfalls. In today's standup, I give a quick update on the exception review and what blocked me. Priya checks in with, \"I return things on time.\" so I explain, \"I reply within a day.\" without rushing. I close the ticket with a clear result and one lesson for next time.",
+   "en": "A release ships; the first 48 hours belong to the watch. The guide now has a short section on the shared test environment. I compare my notes about the environment booking with Priya's. At the review, we spend ten minutes on the freeze calendar. In today's standup, I mention the exception review and what comes next. Whiteboard practice: Priya offers, \"I return things on time.\" I add, \"I reply within a day.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "A release ships; the first 48 hours belong to the watch. The guide now has a short section on the shared test environment. I compare my notes about the environment booking with Priya's. At the review, we spend ten minutes on the freeze calendar. In today's standup, I mention the exception review and what comes next. Whiteboard practice: Priya offers, \"I return things on time.\" I add, \"I reply within a day.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "版本发布；头四十八小时属于守望者。Priya 提出了一个更简单的共享测试环境处理办法，我把它记了下来。趁细节还新鲜，我总结了关于环境预约的决定。指南里现在有关于冻结日历的章节，附有示例和坑点。在今天的站会上，我快速汇报了例外评审的进展和卡住我的地方。Priya关心地问：\"我按时归还东西。\"于是我不慌不忙地解释：\"我一天内回复。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "版本发布；头四十八小时属于守望者。指南里现在有关于共享测试环境的简短章节。我把关于环境预约的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在冻结日历上。今天的站会上，我提到例外评审和接下来的安排。白板练习：Priya给出：\"我按时归还东西。\"我补充：\"我一天内回复。\"然后Priya总结：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "shared test environment",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I keep the known issues list honest and the update cadence steady. In the morning meeting, Leo says, \"I show up five early.\" and I respond, \"Small promises kept.\" The guide now includes a section on the data refresh schedule, with examples and pitfalls. In today's standup, I give a quick update on the drift detector and what blocked me. We agree that the emergency path needs one more careful look before we commit. I link the freeze reminder bot to the ticket so nothing important ever gets lost again. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "I keep the known issues list honest and the update cadence steady. In the morning meeting, Leo says, \"I show up five early.\" and I respond, \"Small promises kept.\" The guide now includes a section on the data refresh schedule, with examples and pitfalls. In today's standup, I give a quick update on the drift detector and what blocked me. We agree that the emergency path needs one more careful look before we commit. I link the freeze reminder bot to the ticket so nothing important ever gets lost again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "I keep the known issues list honest and the update cadence steady. Drill without notes: Priya asks, \"I show up five early.\" I answer, \"Small promises kept.\" and Priya closes, \"Good point — use it in the standup.\" I compare my notes about the data refresh schedule with Priya's. At the review, we spend ten minutes on the drift detector. In today's standup, I mention the emergency path and what comes next. We agree to give the freeze reminder bot one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "I keep the known issues list honest and the update cadence steady. Drill without notes: Priya asks, \"I show up five early.\" I answer, \"Small promises kept.\" and Priya closes, \"Good point — use it in the standup.\" I compare my notes about the data refresh schedule with Priya's. At the review, we spend ten minutes on the drift detector. In today's standup, I mention the emergency path and what comes next. We agree to give the freeze reminder bot one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我把已知问题列表写得诚实，把更新节奏保持得平稳。晨会上，Leo说：\"我提前五分钟到。\"我回应：\"小承诺也要守。\"指南里现在有关于数据刷新计划的章节，附有示例和坑点。在今天的站会上，我快速汇报了漂移检测器的进展和卡住我的地方。我们一致认为，在动手之前紧急通道还需要再仔细看一次。我把冻结提醒机器人关联到工单上，这样重要的事情不会再被遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我把已知问题列表写得诚实，把更新节奏保持得平稳。脱稿演练：Priya问：\"我提前五分钟到。\"我回答：\"小承诺也要守。\"Priya收束：\"说得好——站会上就用它。\"我把关于数据刷新计划的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在漂移检测器上。今天的站会上，我提到紧急通道和接下来的安排。我们说好这周再把冻结提醒机器人仔细看一次。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "data refresh schedule",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a simpler way to handle the merge window, and I write it down. I summarize what we decided about the unfreeze announcement while the details are still fresh. The guide now includes a section on the sandbox namespace, with examples and pitfalls. In today's standup, I give a quick update on the cleanup cron and what blocked me. Priya checks in with, \"My calendar is my spine.\" so I explain, \"Trust is granular.\" without rushing. Calm updates are a gift to anxious inboxes.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a simpler way to handle the merge window, and I write it down. I summarize what we decided about the unfreeze announcement while the details are still fresh. The guide now includes a section on the sandbox namespace, with examples and pitfalls. In today's standup, I give a quick update on the cleanup cron and what blocked me. Priya checks in with, \"My calendar is my spine.\" so I explain, \"Trust is granular.\" without rushing. Calm updates are a gift to anxious inboxes.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the merge window. The guide now has a short section on the unfreeze announcement. I compare my notes about the sandbox namespace with Priya's. At the review, we spend ten minutes on the cleanup cron. Meeting rehearsal: Maria opens, \"My calendar is my spine.\" I respond, \"Trust is granular.\" and Maria confirms, \"Exactly, and it saves time too.\" Calm updates are a gift to anxious inboxes.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the merge window. The guide now has a short section on the unfreeze announcement. I compare my notes about the sandbox namespace with Priya's. At the review, we spend ten minutes on the cleanup cron. Meeting rehearsal: Maria opens, \"My calendar is my spine.\" I respond, \"Trust is granular.\" and Maria confirms, \"Exactly, and it saves time too.\" Calm updates are a gift to anxious inboxes.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更简单的合并窗口处理办法，我把它记了下来。趁细节还新鲜，我总结了关于解冻宣告的决定。指南里现在有关于沙箱命名空间的章节，附有示例和坑点。在今天的站会上，我快速汇报了清理定时任务的进展和卡住我的地方。Priya关心地问：\"日历是我的脊椎。\"于是我不慌不忙地解释：\"信任是颗粒状的。\"平静的更新，是送给焦虑收件箱的礼物。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把合并窗口写了下来。指南里现在有关于解冻宣告的简短章节。我把关于沙箱命名空间的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在清理定时任务上。会议彩排：Maria开场：\"日历是我的脊椎。\"我回应：\"信任是颗粒状的。\"Maria确认道：\"正是，而且还省时间。\"平静的更新，是送给焦虑收件箱的礼物。",
    "hard": [
     {
      "w": "sandbox namespace",

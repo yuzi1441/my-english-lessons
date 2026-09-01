@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 336,
+   "word_count": 325,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day three brings the first refund request. I prepare a one-page brief about the burnout prevention boundaries so meetings start from facts. The team sets a clear owner for the scope diet after launch, plus a deadline and review date. I compare two approaches to the feature icebox process, note the trade-offs, share both honestly. In review, I raise a careful question about the maintenance windows respect and its failure modes. When the design review starts each week, Priya asks, \"Laptop closes at nine, always.\" and I answer, \"The side project gets mornings.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "Day three brings the first refund request. I prepare a one-page brief about the burnout prevention boundaries so meetings start from facts. The team sets a clear owner for the scope diet after launch, plus a deadline and review date. I compare two approaches to the feature icebox process, note the trade-offs, share both honestly. In review, I raise a careful question about the maintenance windows respect and its failure modes. When the design review starts each week, Priya asks, \"Laptop closes at nine, always.\" and I answer, \"The side project gets mornings.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "Day three brings the first refund request. I compare two views on the burnout prevention boundaries and write both down honestly. I add the scope diet after launch to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the feature icebox process. During the design review, I raise one careful question about the maintenance windows respect. Dry run: Priya opens, \"Laptop closes at nine, always.\" I follow, \"The side project gets mornings.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "Day three brings the first refund request. I compare two views on the burnout prevention boundaries and write both down honestly. I add the scope diet after launch to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the feature icebox process. During the design review, I raise one careful question about the maintenance windows respect. Dry run: Priya opens, \"Laptop closes at nine, always.\" I follow, \"The side project gets mornings.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第三天来了第一笔退款请求。我准备了一页关于倦怠预防边界的简报，好让会议从事实出发。团队为上线后的范围节食定了明确的负责人，加上截止和复审日期。我比较了处理功能冰柜流程的两种方式，记下取舍，诚实分享。评审中，我就维护窗口守时及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"笔记本九点必合。\"我带着数字回答：\"副业只拥有早晨。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "第三天来了第一笔退款请求。我比较了关于倦怠预防边界的两种观点，诚实地都记了下来。我把上线后的范围节食连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了功能冰柜流程上。设计评审中，我就维护窗口守时提出了一个审慎的问题。干跑演练：Priya开场：\"笔记本九点必合。\"我接上：\"副业只拥有早晨。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "burnout prevention boundaries",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I refund in one click and ask what went missing. Leo opens the talk with, \"Sleep is not negotiable.\" and I follow up with, \"Weekends belong to the family.\" and a proposal. I compare two approaches to the maintenance day schedule, note the trade-offs, share both honestly. In review, I raise a careful question about the automation debt list and its failure modes. Our mentor walks me through the community moderator recruitment's history, including two painful lessons. We weigh the cost of changing the runbook for someone else against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "I refund in one click and ask what went missing. Leo opens the talk with, \"Sleep is not negotiable.\" and I follow up with, \"Weekends belong to the family.\" and a proposal. I compare two approaches to the maintenance day schedule, note the trade-offs, share both honestly. In review, I raise a careful question about the automation debt list and its failure modes. Our mentor walks me through the community moderator recruitment's history, including two painful lessons. We weigh the cost of changing the runbook for someone else against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "I refund in one click and ask what went missing. Practice debate: Priya argues, \"Sleep is not negotiable.\" I respond calmly, \"Weekends belong to the family.\" and Priya concedes, \"Strong answer — keep that precision.\" I add the maintenance day schedule to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the automation debt list. During the design review, I raise one careful question about the community moderator recruitment. Our mentor walks me through how the runbook for someone else evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "I refund in one click and ask what went missing. Practice debate: Priya argues, \"Sleep is not negotiable.\" I respond calmly, \"Weekends belong to the family.\" and Priya concedes, \"Strong answer — keep that precision.\" I add the maintenance day schedule to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the automation debt list. During the design review, I raise one careful question about the community moderator recruitment. Our mentor walks me through how the runbook for someone else evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我一键退款，然后问少了什么。Leo以\"睡眠没有谈判余地。\"开启话题，我接着说了\"周末属于家人。\"还附了个提案。我比较了处理维护日日程的两种方式，记下取舍，诚实分享。评审中，我就自动化欠账清单及其失效模式提出了一个审慎的问题。导师带我梳理了社区版主招募的历史，包括两次惨痛的教训。我们权衡了改动给别人也能跑的手册的代价与放着不管的风险。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我一键退款，然后问少了什么。练习辩论：Priya主张：\"睡眠没有谈判余地。\"我平静地回应：\"周末属于家人。\"Priya承认道：\"回答有力——保持这种精确。\"我把维护日日程连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了自动化欠账清单上。设计评审中，我就社区版主招募提出了一个审慎的问题。导师带我梳理了给别人也能跑的手册在这个团队里的演变。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "maintenance day schedule",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the income diversification note so meetings start from facts. The team sets a clear owner for the why refresh ritual, plus a deadline and review date. I compare two approaches to the community helper onboarding, note the trade-offs, share both honestly. In review, I raise a careful question about the sustainable pace for one and its failure modes. When the design review starts each week, Priya asks, \"Ideas wait well in notebooks.\" and I answer, \"Rested builders ship longer.\" with numbers. The answer becomes next week's fix and a loyal ex customer.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the income diversification note so meetings start from facts. The team sets a clear owner for the why refresh ritual, plus a deadline and review date. I compare two approaches to the community helper onboarding, note the trade-offs, share both honestly. In review, I raise a careful question about the sustainable pace for one and its failure modes. When the design review starts each week, Priya asks, \"Ideas wait well in notebooks.\" and I answer, \"Rested builders ship longer.\" with numbers. The answer becomes next week's fix and a loyal ex customer.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the income diversification note. I compare two views on the why refresh ritual and write both down honestly. I add the community helper onboarding to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the sustainable pace for one. Review warm-up: Maria raises, \"Ideas wait well in notebooks.\" I answer, \"Rested builders ship longer.\" and Maria grades it, \"Agreed, note it in the ticket.\" The answer becomes next week's fix and a loyal ex customer.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the income diversification note. I compare two views on the why refresh ritual and write both down honestly. I add the community helper onboarding to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the sustainable pace for one. Review warm-up: Maria raises, \"Ideas wait well in notebooks.\" I answer, \"Rested builders ship longer.\" and Maria grades it, \"Agreed, note it in the ticket.\" The answer becomes next week's fix and a loyal ex customer.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于收入多元化备注的简报，好让会议从事实出发。团队为初心刷新仪式定了明确的负责人，加上截止和复审日期。我比较了处理社区帮手招募的两种方式，记下取舍，诚实分享。评审中，我就单人可持续节奏及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"点子在笔记本里等得起。\"我带着数字回答：\"休息好的工匠走得远。\"那个答案变成下周的修复，和一位忠诚的前用户。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为收入多元化备注指定了明确的负责人。我比较了关于初心刷新仪式的两种观点，诚实地都记了下来。我把社区帮手招募连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了单人可持续节奏上。评审热身：Maria抛出：\"点子在笔记本里等得起。\"我带着数字回答：\"休息好的工匠走得远。\"Maria点评道：\"同意，把这条记到工单里。\"那个答案变成下周的修复，和一位忠诚的前用户。",
    "hard": [
     {
      "w": "community helper onboarding",

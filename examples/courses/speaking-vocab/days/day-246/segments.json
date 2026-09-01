@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 334,
+   "word_count": 331,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The company rolls out passkeys, opt in first. In review, I raise a careful question about the zero trust architecture and its failure modes. Our mentor walks me through the verify explicitly rule's history, including two painful lessons. We weigh the cost of changing the jit approval flow against leaving it alone. I prepare a one-page brief about the standing access report so meetings start from facts. When the design review starts each week, Priya asks, \"Verified guests get wifi, not keys.\" and I answer, \"Trust is verified, not assumed.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "The company rolls out passkeys, opt in first. In review, I raise a careful question about the zero trust architecture and its failure modes. Our mentor walks me through the verify explicitly rule's history, including two painful lessons. We weigh the cost of changing the jit approval flow against leaving it alone. I prepare a one-page brief about the standing access report so meetings start from facts. When the design review starts each week, Priya asks, \"Verified guests get wifi, not keys.\" and I answer, \"Trust is verified, not assumed.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "The company rolls out passkeys, opt in first. I add the zero trust architecture to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the verify explicitly rule. During the design review, I raise one careful question about the jit approval flow. Our mentor walks me through how the standing access report evolved on this team. Practice debate: Priya argues, \"Verified guests get wifi, not keys.\" I respond calmly, \"Trust is verified, not assumed.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "The company rolls out passkeys, opt in first. I add the zero trust architecture to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the verify explicitly rule. During the design review, I raise one careful question about the jit approval flow. Our mentor walks me through how the standing access report evolved on this team. Practice debate: Priya argues, \"Verified guests get wifi, not keys.\" I respond calmly, \"Trust is verified, not assumed.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "公司推广通行密钥，先自愿。评审中，我就零信任架构及其失效模式提出了一个审慎的问题。导师带我梳理了显式验证原则的历史，包括两次惨痛的教训。我们权衡了改动即时授权流程的代价与放着不管的风险。我准备了一页关于常驻权限报告的简报，好让会议从事实出发。评审开始时，Priya问：\"访客有 Wi-Fi 没有钥匙。\"我带着数字回答：\"信任是验证出来的。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "公司推广通行密钥，先自愿。我把零信任架构连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了显式验证原则上。设计评审中，我就即时授权流程提出了一个审慎的问题。导师带我梳理了常驻权限报告在这个团队里的演变。练习辩论：Priya主张：\"访客有 Wi-Fi 没有钥匙。\"我平静地回应：\"信任是验证出来的。\"Priya承认道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "zero trust architecture",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My hardware key gets a tiny red ribbon; it looks official now. Leo opens the talk with, \"The delivery door rule.\" and I follow up with, \"Repairs need appointment plus id.\" and a proposal. We weigh the cost of changing the least standing access against leaving it alone. I prepare a one-page brief about the just in time access so meetings start from facts. The team sets a clear owner for the posture check integration, plus a deadline and review date. I compare two approaches to the step up auth for prod, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "My hardware key gets a tiny red ribbon; it looks official now. Leo opens the talk with, \"The delivery door rule.\" and I follow up with, \"Repairs need appointment plus id.\" and a proposal. We weigh the cost of changing the least standing access against leaving it alone. I prepare a one-page brief about the just in time access so meetings start from facts. The team sets a clear owner for the posture check integration, plus a deadline and review date. I compare two approaches to the step up auth for prod, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "My hardware key gets a tiny red ribbon; it looks official now. Mock review: Priya probes, \"The delivery door rule.\" I answer from memory, \"Repairs need appointment plus id.\" and Priya confirms, \"Strong answer — keep that precision.\" We spend the first ten minutes of the review on the least standing access. During the design review, I raise one careful question about the just in time access. Our mentor walks me through how the posture check integration evolved on this team. Before deciding, I reread my notes about the step up auth for prod twice. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "My hardware key gets a tiny red ribbon; it looks official now. Mock review: Priya probes, \"The delivery door rule.\" I answer from memory, \"Repairs need appointment plus id.\" and Priya confirms, \"Strong answer — keep that precision.\" We spend the first ten minutes of the review on the least standing access. During the design review, I raise one careful question about the just in time access. Our mentor walks me through how the posture check integration evolved on this team. Before deciding, I reread my notes about the step up auth for prod twice. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我的硬件钥匙系上了小红丝带，看起来正式极了。Leo以\"快递只到门口。\"开启话题，我接着说了\"维修要预约加证件。\"还附了个提案。我们权衡了改动最小常驻权限的代价与放着不管的风险。我准备了一页关于即时访问权限的简报，好让会议从事实出发。团队为设备状态检查集成定了明确的负责人，加上截止和复审日期。我比较了处理生产环境二次验证的两种方式，记下取舍，诚实分享。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我的硬件钥匙系上了小红丝带，看起来正式极了。模拟评审：Priya追问：\"快递只到门口。\"我凭记忆回答：\"维修要预约加证件。\"Priya确认：\"回答有力——保持这种精确。\"评审的前十分钟，我们都用在了最小常驻权限上。设计评审中，我就即时访问权限提出了一个审慎的问题。导师带我梳理了设备状态检查集成在这个团队里的演变。做决定之前，我把关于生产环境二次验证的笔记重读了两遍。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "least standing access",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the session length policy and its failure modes. Our mentor walks me through the trust level label's history, including two painful lessons. We weigh the cost of changing the short lived credential against leaving it alone. I prepare a one-page brief about the device posture check so meetings start from facts. When the design review starts each week, Priya asks, \"Strangers in the lobby get help, not access.\" and I answer, \"Everyone badges in, even family.\" with numbers. Password day was quieter than anyone expected.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the session length policy and its failure modes. Our mentor walks me through the trust level label's history, including two painful lessons. We weigh the cost of changing the short lived credential against leaving it alone. I prepare a one-page brief about the device posture check so meetings start from facts. When the design review starts each week, Priya asks, \"Strangers in the lobby get help, not access.\" and I answer, \"Everyone badges in, even family.\" with numbers. Password day was quieter than anyone expected.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the session length policy and write both down honestly. I add the trust level label to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the short lived credential. During the design review, I raise one careful question about the device posture check. Dry run: Maria opens, \"Strangers in the lobby get help, not access.\" I follow, \"Everyone badges in, even family.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" Password day was quieter than anyone expected.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the session length policy and write both down honestly. I add the trust level label to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the short lived credential. During the design review, I raise one careful question about the device posture check. Dry run: Maria opens, \"Strangers in the lobby get help, not access.\" I follow, \"Everyone badges in, even family.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" Password day was quieter than anyone expected.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审中，我就会话时长策略及其失效模式提出了一个审慎的问题。导师带我梳理了信任等级标签的历史，包括两次惨痛的教训。我们权衡了改动短时凭证的代价与放着不管的风险。我准备了一页关于设备状态检查的简报，好让会议从事实出发。评审开始时，Priya问：\"大堂里的陌生人得到帮助而非通行。\"我带着数字回答：\"进楼人人刷卡\"告别密码的那天，比所有人预想的都安静。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于会话时长策略的两种观点，诚实地都记了下来。我把信任等级标签连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了短时凭证上。设计评审中，我就设备状态检查提出了一个审慎的问题。干跑演练：Maria开场：\"大堂里的陌生人得到帮助而非通行。\"我接上：\"进楼人人刷卡\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"告别密码的那天，比所有人预想的都安静。",
    "hard": [
     {
      "w": "short lived credential",

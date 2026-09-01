@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 334,
+   "word_count": 328,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The landing page ships before the product does. In review, I raise a careful question about the north star for products and its failure modes. Our mentor walks me through the activation rate tracking's history, including two painful lessons. We weigh the cost of changing the weekly product metrics review against leaving it alone. I prepare a one-page brief about the metric definition notebook so meetings start from facts. When the design review starts each week, Priya asks, \"My recipe app knows my habits.\" and I answer, \"Sunday brunch spikes weekly.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "The landing page ships before the product does. In review, I raise a careful question about the north star for products and its failure modes. Our mentor walks me through the activation rate tracking's history, including two painful lessons. We weigh the cost of changing the weekly product metrics review against leaving it alone. I prepare a one-page brief about the metric definition notebook so meetings start from facts. When the design review starts each week, Priya asks, \"My recipe app knows my habits.\" and I answer, \"Sunday brunch spikes weekly.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "The landing page ships before the product does. The team names one clear owner for the north star for products. I compare two views on the activation rate tracking and write both down honestly. I add the weekly product metrics review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the metric definition notebook. Review warm-up: Priya raises, \"My recipe app knows my habits.\" I answer, \"Sunday brunch spikes weekly.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "The landing page ships before the product does. The team names one clear owner for the north star for products. I compare two views on the activation rate tracking and write both down honestly. I add the weekly product metrics review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the metric definition notebook. Review warm-up: Priya raises, \"My recipe app knows my habits.\" I answer, \"Sunday brunch spikes weekly.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "落地页比产品先上线。评审中，我就产品北极星指标及其失效模式提出了一个审慎的问题。导师带我梳理了激活率追踪的历史，包括两次惨痛的教训。我们权衡了改动每周产品指标例会的代价与放着不管的风险。我准备了一页关于指标定义笔记的简报，好让会议从事实出发。评审开始时，Priya问：\"菜谱应用懂我的习惯。\"我带着数字回答：\"周日早午餐有峰。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "落地页比产品先上线。团队为产品北极星指标指定了明确的负责人。我比较了关于激活率追踪的两种观点，诚实地都记了下来。我把每周产品指标例会连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了指标定义笔记上。评审热身：Priya抛出：\"菜谱应用懂我的习惯。\"我带着数字回答：\"周日早午餐有峰。\"Priya点评道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "north star for products",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One promise, one screenshot, one button, forty signups in a week. Leo opens the talk with, \"The fish recipes never got clicks.\" and I follow up with, \"Suggestions got eerily better.\" and a proposal. We weigh the cost of changing the retention curve reading against leaving it alone. I prepare a one-page brief about the feature usage heatmap so meetings start from facts. The team sets a clear owner for the experiment result archive, plus a deadline and review date. I compare two approaches to the user session replay review, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "One promise, one screenshot, one button, forty signups in a week. Leo opens the talk with, \"The fish recipes never got clicks.\" and I follow up with, \"Suggestions got eerily better.\" and a proposal. We weigh the cost of changing the retention curve reading against leaving it alone. I prepare a one-page brief about the feature usage heatmap so meetings start from facts. The team sets a clear owner for the experiment result archive, plus a deadline and review date. I compare two approaches to the user session replay review, note the trade-offs, share both honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "One promise, one screenshot, one button, forty signups in a week. Dry run: Priya opens, \"The fish recipes never got clicks.\" I follow, \"Suggestions got eerily better.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" I compare two views on the retention curve reading and write both down honestly. I add the feature usage heatmap to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the experiment result archive. During the design review, I raise one careful question about the user session replay review. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "One promise, one screenshot, one button, forty signups in a week. Dry run: Priya opens, \"The fish recipes never got clicks.\" I follow, \"Suggestions got eerily better.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" I compare two views on the retention curve reading and write both down honestly. I add the feature usage heatmap to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the experiment result archive. During the design review, I raise one careful question about the user session replay review. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一句承诺、一张截图、一个按钮，一周四十个登记。Leo以\"鱼类菜谱从没人点。\"开启话题，我接着说了\"推荐越来越懂我。\"还附了个提案。我们权衡了改动留存曲线解读的代价与放着不管的风险。我准备了一页关于功能使用热力图的简报，好让会议从事实出发。团队为实验结果归档定了明确的负责人，加上截止和复审日期。我比较了处理用户会话回放看查的两种方式，记下取舍，诚实分享。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "一句承诺、一张截图、一个按钮，一周四十个登记。干跑演练：Priya开场：\"鱼类菜谱从没人点。\"我接上：\"推荐越来越懂我。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"我比较了关于留存曲线解读的两种观点，诚实地都记了下来。我把功能使用热力图连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了实验结果归档上。设计评审中，我就用户会话回放看查提出了一个审慎的问题。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "retention curve reading",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the feedback triage notebook and its failure modes. Our mentor walks me through the insight to backlog flow's history, including two painful lessons. We weigh the cost of changing the funnel drop off alerts against leaving it alone. I prepare a one-page brief about the qualitative feedback tagging so meetings start from facts. When the design review starts each week, Priya asks, \"I opt out, then opt back in.\" and I answer, \"Data with a gentle touch.\" with numbers. Strangers voting with emails beat any survey.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. In review, I raise a careful question about the feedback triage notebook and its failure modes. Our mentor walks me through the insight to backlog flow's history, including two painful lessons. We weigh the cost of changing the funnel drop off alerts against leaving it alone. I prepare a one-page brief about the qualitative feedback tagging so meetings start from facts. When the design review starts each week, Priya asks, \"I opt out, then opt back in.\" and I answer, \"Data with a gentle touch.\" with numbers. Strangers voting with emails beat any survey.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the feedback triage notebook so meetings start from facts. The team names one clear owner for the insight to backlog flow. I compare two views on the funnel drop off alerts and write both down honestly. I add the qualitative feedback tagging to the meeting agenda with three supporting facts. Mock review: Maria probes, \"I opt out, then opt back in.\" I answer from memory, \"Data with a gentle touch.\" and Maria confirms, \"Agreed, note it in the ticket.\" Strangers voting with emails beat any survey.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the feedback triage notebook so meetings start from facts. The team names one clear owner for the insight to backlog flow. I compare two views on the funnel drop off alerts and write both down honestly. I add the qualitative feedback tagging to the meeting agenda with three supporting facts. Mock review: Maria probes, \"I opt out, then opt back in.\" I answer from memory, \"Data with a gentle touch.\" and Maria confirms, \"Agreed, note it in the ticket.\" Strangers voting with emails beat any survey.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审中，我就反馈分诊笔记及其失效模式提出了一个审慎的问题。导师带我梳理了洞察进需求池流程的历史，包括两次惨痛的教训。我们权衡了改动漏斗流失告警的代价与放着不管的风险。我准备了一页关于定性反馈打标的简报，好让会议从事实出发。评审开始时，Priya问：\"我退订了又订阅。\"我带着数字回答：\"温柔使用的数据。\"陌生人的邮件投票胜过任何问卷。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于反馈分诊笔记的简报，好让会议从事实出发。团队为洞察进需求池流程指定了明确的负责人。我比较了关于漏斗流失告警的两种观点，诚实地都记了下来。我把定性反馈打标连同三条支撑事实加进了议程。模拟评审：Maria追问：\"我退订了又订阅。\"我凭记忆回答：\"温柔使用的数据。\"Maria确认：\"同意，把这条记到工单里。\"陌生人的邮件投票胜过任何问卷。",
    "hard": [
     {
      "w": "funnel drop off alerts",

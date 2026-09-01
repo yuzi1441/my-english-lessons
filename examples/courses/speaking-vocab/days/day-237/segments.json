@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 336,
+   "word_count": 325,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The post peak analysis compares guesses with reality. I prepare a one-page brief about the request queue design so meetings start from facts. The team sets a clear owner for the priority lane for critical, plus a deadline and review date. I compare two approaches to the rate limit simulation test, note the trade-offs, share both honestly. In review, I raise a careful question about the shedding priority documentation and its failure modes. When the design review starts each week, Priya asks, \"I shift my commute fifteen minutes.\" and I answer, \"The early train absorbs the rush.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "The post peak analysis compares guesses with reality. I prepare a one-page brief about the request queue design so meetings start from facts. The team sets a clear owner for the priority lane for critical, plus a deadline and review date. I compare two approaches to the rate limit simulation test, note the trade-offs, share both honestly. In review, I raise a careful question about the shedding priority documentation and its failure modes. When the design review starts each week, Priya asks, \"I shift my commute fifteen minutes.\" and I answer, \"The early train absorbs the rush.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "The post peak analysis compares guesses with reality. I compare two views on the request queue design and write both down honestly. I add the priority lane for critical to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the rate limit simulation test. During the design review, I raise one careful question about the shedding priority documentation. Dry run: Priya opens, \"I shift my commute fifteen minutes.\" I follow, \"The early train absorbs the rush.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "The post peak analysis compares guesses with reality. I compare two views on the request queue design and write both down honestly. I add the priority lane for critical to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the rate limit simulation test. During the design review, I raise one careful question about the shedding priority documentation. Dry run: Priya opens, \"I shift my commute fifteen minutes.\" I follow, \"The early train absorbs the rush.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "峰值后分析把猜测和现实摆在一起。我准备了一页关于请求队列设计的简报，好让会议从事实出发。团队为关键请求优先道定了明确的负责人，加上截止和复审日期。我比较了处理限流模拟测试的两种方式，记下取舍，诚实分享。评审中，我就丢弃优先级文档及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"我错峰十五分钟。\"我带着数字回答：\"早班车吸收了高峰。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "峰值后分析把猜测和现实摆在一起。我比较了关于请求队列设计的两种观点，诚实地都记了下来。我把关键请求优先道连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了限流模拟测试上。设计评审中，我就丢弃优先级文档提出了一个审慎的问题。干跑演练：Priya开场：\"我错峰十五分钟。\"我接上：\"早班车吸收了高峰。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "request queue design",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Capacity math was within ten percent; the shock absorbers worked as drawn. Leo opens the talk with, \"Priority lanes for strollers.\" and I follow up with, \"Off peak shopping is calm.\" and a proposal. I compare two approaches to the load shedding rules, note the trade-offs, share both honestly. In review, I raise a careful question about the smooth arrival curve and its failure modes. Our mentor walks me through the queue depth alert's history, including two painful lessons. We weigh the cost of changing the fairness review for limits against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Capacity math was within ten percent; the shock absorbers worked as drawn. Leo opens the talk with, \"Priority lanes for strollers.\" and I follow up with, \"Off peak shopping is calm.\" and a proposal. I compare two approaches to the load shedding rules, note the trade-offs, share both honestly. In review, I raise a careful question about the smooth arrival curve and its failure modes. Our mentor walks me through the queue depth alert's history, including two painful lessons. We weigh the cost of changing the fairness review for limits against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Capacity math was within ten percent; the shock absorbers worked as drawn. Practice debate: Priya argues, \"Priority lanes for strollers.\" I respond calmly, \"Off peak shopping is calm.\" and Priya concedes, \"Strong answer — keep that precision.\" I add the load shedding rules to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the smooth arrival curve. During the design review, I raise one careful question about the queue depth alert. Our mentor walks me through how the fairness review for limits evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Capacity math was within ten percent; the shock absorbers worked as drawn. Practice debate: Priya argues, \"Priority lanes for strollers.\" I respond calmly, \"Off peak shopping is calm.\" and Priya concedes, \"Strong answer — keep that precision.\" I add the load shedding rules to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the smooth arrival curve. During the design review, I raise one careful question about the queue depth alert. Our mentor walks me through how the fairness review for limits evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "容量估算误差一成以内；缓冲器像图纸上那样工作。Leo以\"婴儿车有优先道。\"开启话题，我接着说了\"错峰购物很从容。\"还附了个提案。我比较了处理限流丢弃规则的两种方式，记下取舍，诚实分享。评审中，我就到达曲线削平及其失效模式提出了一个审慎的问题。导师带我梳理了队列深度告警的历史，包括两次惨痛的教训。我们权衡了改动限流公平性评审的代价与放着不管的风险。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "容量估算误差一成以内；缓冲器像图纸上那样工作。练习辩论：Priya主张：\"婴儿车有优先道。\"我平静地回应：\"错峰购物很从容。\"Priya承认道：\"回答有力——保持这种精确。\"我把限流丢弃规则连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了到达曲线削平上。设计评审中，我就队列深度告警提出了一个审慎的问题。导师带我梳理了限流公平性评审在这个团队里的演变。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "load shedding rules",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the surge playbook so meetings start from facts. The team sets a clear owner for the capacity vs throttling review, plus a deadline and review date. I compare two approaches to the ticket rate limiting, note the trade-offs, share both honestly. In review, I raise a careful question about the burst absorption buffer and its failure modes. When the design review starts each week, Priya asks, \"Queue etiquette scales cities.\" and I answer, \"Ferries run on a schedule.\" with numbers. Forecasts get better only when graded.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the surge playbook so meetings start from facts. The team sets a clear owner for the capacity vs throttling review, plus a deadline and review date. I compare two approaches to the ticket rate limiting, note the trade-offs, share both honestly. In review, I raise a careful question about the burst absorption buffer and its failure modes. When the design review starts each week, Priya asks, \"Queue etiquette scales cities.\" and I answer, \"Ferries run on a schedule.\" with numbers. Forecasts get better only when graded.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the surge playbook. I compare two views on the capacity vs throttling review and write both down honestly. I add the ticket rate limiting to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the burst absorption buffer. Review warm-up: Maria raises, \"Queue etiquette scales cities.\" I answer, \"Ferries run on a schedule.\" and Maria grades it, \"Agreed, note it in the ticket.\" Forecasts get better only when graded.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the surge playbook. I compare two views on the capacity vs throttling review and write both down honestly. I add the ticket rate limiting to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the burst absorption buffer. Review warm-up: Maria raises, \"Queue etiquette scales cities.\" I answer, \"Ferries run on a schedule.\" and Maria grades it, \"Agreed, note it in the ticket.\" Forecasts get better only when graded.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于洪峰剧本的简报，好让会议从事实出发。团队为容量与限流评审定了明确的负责人，加上截止和复审日期。我比较了处理票据限流的两种方式，记下取舍，诚实分享。评审中，我就突发吸收缓冲及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"排队礼仪撑起城市。\"我带着数字回答：\"渡轮按班次走\"只有被打分的预测才会进步。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为洪峰剧本指定了明确的负责人。我比较了关于容量与限流评审的两种观点，诚实地都记了下来。我把票据限流连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了突发吸收缓冲上。评审热身：Maria抛出：\"排队礼仪撑起城市。\"我带着数字回答：\"渡轮按班次走\"Maria点评道：\"同意，把这条记到工单里。\"只有被打分的预测才会进步。",
    "hard": [
     {
      "w": "ticket rate limiting",

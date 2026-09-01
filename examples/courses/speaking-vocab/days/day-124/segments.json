@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 304,
+   "word_count": 271,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The team wiki has grown weeds: stale pages everywhere. I summarize what we decided about the meeting purpose while the details are still fresh. The guide now includes a section on the decision meeting, with examples and pitfalls. In today's standup, I give a quick update on the shared service catalog and what blocked me. We agree that the collab channel needs one more careful look before we commit. Over coffee, Maria mentions, \"The chess players never rush.\" and I add, \"Pigeons run the morning shift.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "The team wiki has grown weeds: stale pages everywhere. I summarize what we decided about the meeting purpose while the details are still fresh. The guide now includes a section on the decision meeting, with examples and pitfalls. In today's standup, I give a quick update on the shared service catalog and what blocked me. We agree that the collab channel needs one more careful look before we commit. Over coffee, Maria mentions, \"The chess players never rush.\" and I add, \"Pigeons run the morning shift.\" with an example. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "The team wiki has grown weeds: stale pages everywhere. While the details are fresh, I write down the meeting purpose. The guide now has a short section on the decision meeting. I compare my notes about the shared service catalog with Priya's. At the review, we spend ten minutes on the collab channel. Meeting rehearsal: Maria opens, \"The chess players never rush.\" I respond, \"Pigeons run the morning shift.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "The team wiki has grown weeds: stale pages everywhere. While the details are fresh, I write down the meeting purpose. The guide now has a short section on the decision meeting. I compare my notes about the shared service catalog with Priya's. At the review, we spend ten minutes on the collab channel. Meeting rehearsal: Maria opens, \"The chess players never rush.\" I respond, \"Pigeons run the morning shift.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "团队 Wiki 长了杂草：过期的页面到处都是。趁细节还新鲜，我总结了关于会议目的的决定。指南里现在有关于决策会的章节，附有示例和坑点。在今天的站会上，我快速汇报了共享服务目录的进展和卡住我的地方。我们一致认为，在动手之前协作频道还需要再仔细看一次。喝咖啡时，Maria提到：\"下棋的人从不着急。\"我补充了\"鸽子掌管早班。\"，还带了个例子。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "团队 Wiki 长了杂草：过期的页面到处都是。趁细节还新鲜，我把会议目的写了下来。指南里现在有关于决策会的简短章节。我把关于共享服务目录的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在协作频道上。会议彩排：Maria开场：\"下棋的人从不着急。\"我回应：\"鸽子掌管早班。\"Maria确认道：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "meeting purpose",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We prune, label, and cross-link the docs until paths appear. Priya checks in with, \"A violinist warms up at nine.\" so I explain, \"Joggers wave at regulars.\" without rushing. In today's standup, I give a quick update on the standup agenda and what blocked me. We agree that the timekeeper role needs one more careful look before we commit. I link the guest reviewer to the ticket so nothing important ever gets lost again. The team decides to cross-link the docs this sprint, with a checkpoint on Wednesday. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "We prune, label, and cross-link the docs until paths appear. Priya checks in with, \"A violinist warms up at nine.\" so I explain, \"Joggers wave at regulars.\" without rushing. In today's standup, I give a quick update on the standup agenda and what blocked me. We agree that the timekeeper role needs one more careful look before we commit. I link the guest reviewer to the ticket so nothing important ever gets lost again. The team decides to cross-link the docs this sprint, with a checkpoint on Wednesday. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "We prune, label, and cross-link the docs until paths appear. Whiteboard practice: Maria offers, \"A violinist warms up at nine.\" I add, \"Joggers wave at regulars.\" then Maria sums up, \"Exactly, and it saves time too.\" The guide now has a short section on the standup agenda. I compare my notes about the timekeeper role with Priya's. At the review, we spend ten minutes on the guest reviewer. In today's session, I cross-link the docs with Priya's help. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We prune, label, and cross-link the docs until paths appear. Whiteboard practice: Maria offers, \"A violinist warms up at nine.\" I add, \"Joggers wave at regulars.\" then Maria sums up, \"Exactly, and it saves time too.\" The guide now has a short section on the standup agenda. I compare my notes about the timekeeper role with Priya's. At the review, we spend ten minutes on the guest reviewer. In today's session, I cross-link the docs with Priya's help. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们修剪、标注、互链文档，直到小路浮现。Priya关心地问：\"九点有小提琴手练琴。\"于是我不慌不忙地解释：\"跑者向熟面孔挥手。\"在今天的站会上，我快速汇报了站会议程的进展和卡住我的地方。我们一致认为，在动手之前计时员角色还需要再仔细看一次。我把客座评审关联到工单上，这样重要的事情不会再被遗漏。团队决定在这个迭代互链文档，周三设一个检查点。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我们修剪、标注、互链文档，直到小路浮现。白板练习：Maria给出：\"九点有小提琴手练琴。\"我补充：\"跑者向熟面孔挥手。\"然后Maria总结：\"正是，而且还省时间。\"指南里现在有关于站会议程的简短章节。我把关于计时员角色的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在客座评审上。今天的工作里，我在 Priya 的帮助下互链文档。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "standup agenda",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I summarize what we decided about the joint design session while the details are still fresh. The guide now includes a section on the integration owner, with examples and pitfalls. In today's standup, I give a quick update on the note taker rotation and what blocked me. We agree that the action items in ticket needs one more careful look before we commit. Over coffee, Maria mentions, \"The fountain is the metronome.\" and I add, \"Bench life is slow TV.\" with an example. Documentation is gardening, not construction.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I summarize what we decided about the joint design session while the details are still fresh. The guide now includes a section on the integration owner, with examples and pitfalls. In today's standup, I give a quick update on the note taker rotation and what blocked me. We agree that the action items in ticket needs one more careful look before we commit. Over coffee, Maria mentions, \"The fountain is the metronome.\" and I add, \"Bench life is slow TV.\" with an example. Documentation is gardening, not construction.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the joint design session. While the details are fresh, I write down the integration owner. The guide now has a short section on the note taker rotation. I compare my notes about the action items in ticket with Priya's. Pair run: Leo starts, \"The fountain is the metronome.\" I follow, \"Bench life is slow TV.\" and Leo replies, \"Keep practising, it is working.\" Documentation is gardening, not construction.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the joint design session. While the details are fresh, I write down the integration owner. The guide now has a short section on the note taker rotation. I compare my notes about the action items in ticket with Priya's. Pair run: Leo starts, \"The fountain is the metronome.\" I follow, \"Bench life is slow TV.\" and Leo replies, \"Keep practising, it is working.\" Documentation is gardening, not construction.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我总结了关于联合设计会的决定。指南里现在有关于集成负责人的章节，附有示例和坑点。在今天的站会上，我快速汇报了记录轮换的进展和卡住我的地方。我们一致认为，在动手之前行动项进工单还需要再仔细看一次。喝咖啡时，Maria提到：\"喷泉是节拍器。\"我补充了\"长椅生活是慢速电视。\"，还带了个例子。文档是园艺，不是建筑。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的联合设计会思考方式。趁细节还新鲜，我把集成负责人写了下来。指南里现在有关于记录轮换的简短章节。我把关于行动项进工单的笔记和 Priya 的对照了一下。结对演练：Leo起头：\"喷泉是节拍器。\"我跟上：\"长椅生活是慢速电视。\"Leo回应：\"继续练，有效果了。\"文档是园艺，不是建筑。",
    "hard": [
     {
      "w": "note taker rotation",

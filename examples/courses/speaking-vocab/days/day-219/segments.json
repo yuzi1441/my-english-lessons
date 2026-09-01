@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 336,
+   "word_count": 318,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A query ignores its index because of one sneaky function call. I prepare a one-page brief about the read write split so meetings start from facts. The team sets a clear owner for the replication lag, plus a deadline and review date. I compare two approaches to the lag metric alert, note the trade-offs, share both honestly. In review, I raise a careful question about the read after write test and its failure modes. When the design review starts each week, Priya asks, \"The family group is our ledger.\" and I answer, \"Messages lag across time zones.\" with numbers. We end the week with something shipped and something properly learned this time.",
-   "tts": "A query ignores its index because of one sneaky function call. I prepare a one-page brief about the read write split so meetings start from facts. The team sets a clear owner for the replication lag, plus a deadline and review date. I compare two approaches to the lag metric alert, note the trade-offs, share both honestly. In review, I raise a careful question about the read after write test and its failure modes. When the design review starts each week, Priya asks, \"The family group is our ledger.\" and I answer, \"Messages lag across time zones.\" with numbers. We end the week with something shipped and something properly learned this time.",
+   "en": "A query ignores its index because of one sneaky function call. I prepare a one-page brief about the read write split so meetings start from facts. The team names one clear owner for the replication lag. I compare two views on the lag metric alert and write both down honestly. I add the read after write test to the meeting agenda with three supporting facts. Mock review: Priya probes, \"The family group is our ledger.\" I answer from memory, \"Messages lag across time zones.\" and Priya confirms, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "A query ignores its index because of one sneaky function call. I prepare a one-page brief about the read write split so meetings start from facts. The team names one clear owner for the replication lag. I compare two views on the lag metric alert and write both down honestly. I add the read after write test to the meeting agenda with three supporting facts. Mock review: Priya probes, \"The family group is our ledger.\" I answer from memory, \"Messages lag across time zones.\" and Priya confirms, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个查询没走索引，只因为一次偷偷的函数调用。我准备了一页关于读写分离的简报，好让会议从事实出发。团队为复制延迟定了明确的负责人，加上截止和复审日期。我比较了处理复制延迟告警的两种方式，记下取舍，诚实分享。评审中，我就写后读测试及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"家庭群是我们的账本。\"我带着数字回答：\"消息跨时区有延迟。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "一个查询没走索引，只因为一次偷偷的函数调用。我准备了一页关于读写分离的简报，好让会议从事实出发。团队为复制延迟指定了明确的负责人。我比较了关于复制延迟告警的两种观点，诚实地都记了下来。我把写后读测试连同三条支撑事实加进了议程。模拟评审：Priya追问：\"家庭群是我们的账本。\"我凭记忆回答：\"消息跨时区有延迟。\"Priya确认：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "read write split",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We rewrite the predicate to be sargable and the plan flips green. Leo opens the talk with, \"Important things get pinned.\" and I follow up with, \"We re read before we reply.\" and a proposal. I compare two approaches to the failover rehearsal, note the trade-offs, share both honestly. In review, I raise a careful question about the sticky writes and its failure modes. Our mentor walks me through the failover game day's history, including two painful lessons. We weigh the cost of changing the replica health dashboard against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "We rewrite the predicate to be sargable and the plan flips green. Leo opens the talk with, \"Important things get pinned.\" and I follow up with, \"We re read before we reply.\" and a proposal. I compare two approaches to the failover rehearsal, note the trade-offs, share both honestly. In review, I raise a careful question about the sticky writes and its failure modes. Our mentor walks me through the failover game day's history, including two painful lessons. We weigh the cost of changing the replica health dashboard against leaving it alone. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "We rewrite the predicate to be sargable and the plan flips green. Review warm-up: Priya raises, \"Important things get pinned.\" I answer, \"We re read before we reply.\" and Priya grades it, \"Strong answer — keep that precision.\" The team names one clear owner for the failover rehearsal. I compare two views on the sticky writes and write both down honestly. I add the failover game day to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the replica health dashboard. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We rewrite the predicate to be sargable and the plan flips green. Review warm-up: Priya raises, \"Important things get pinned.\" I answer, \"We re read before we reply.\" and Priya grades it, \"Strong answer — keep that precision.\" The team names one clear owner for the failover rehearsal. I compare two views on the sticky writes and write both down honestly. I add the failover game day to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the replica health dashboard. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们把谓词改写成可索引的形式，执行计划翻绿。Leo以\"要事都会被置顶。\"开启话题，我接着说了\"回复前再读一遍。\"还附了个提案。我比较了处理主库切换演练的两种方式，记下取舍，诚实分享。评审中，我就写入会话粘性及其失效模式提出了一个审慎的问题。导师带我梳理了故障转移演习日的历史，包括两次惨痛的教训。我们权衡了改动副本健康看板的代价与放着不管的风险。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们把谓词改写成可索引的形式，执行计划翻绿。评审热身：Priya抛出：\"要事都会被置顶。\"我带着数字回答：\"回复前再读一遍。\"Priya点评道：\"回答有力——保持这种精确。\"团队为主库切换演练指定了明确的负责人。我比较了关于写入会话粘性的两种观点，诚实地都记了下来。我把故障转移演习日连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了副本健康看板上。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "failover rehearsal",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the routing review so meetings start from facts. The team sets a clear owner for the consistency notes, plus a deadline and review date. I compare two approaches to the lag aware router, note the trade-offs, share both honestly. In review, I raise a careful question about the quorum read and its failure modes. When the design review starts each week, Priya asks, \"The pinned note is source of truth.\" and I answer, \"Stale info causes drama.\" with numbers. The index was there, waiting for a fair question.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the routing review so meetings start from facts. The team sets a clear owner for the consistency notes, plus a deadline and review date. I compare two approaches to the lag aware router, note the trade-offs, share both honestly. In review, I raise a careful question about the quorum read and its failure modes. When the design review starts each week, Priya asks, \"The pinned note is source of truth.\" and I answer, \"Stale info causes drama.\" with numbers. The index was there, waiting for a fair question.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the routing review twice. I prepare a one-page brief about the consistency notes so meetings start from facts. The team names one clear owner for the lag aware router. I compare two views on the quorum read and write both down honestly. Practice debate: Maria argues, \"The pinned note is source of truth.\" I respond calmly, \"Stale info causes drama.\" and Maria concedes, \"Agreed, note it in the ticket.\" The index was there, waiting for a fair question.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the routing review twice. I prepare a one-page brief about the consistency notes so meetings start from facts. The team names one clear owner for the lag aware router. I compare two views on the quorum read and write both down honestly. Practice debate: Maria argues, \"The pinned note is source of truth.\" I respond calmly, \"Stale info causes drama.\" and Maria concedes, \"Agreed, note it in the ticket.\" The index was there, waiting for a fair question.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于路由配置评审的简报，好让会议从事实出发。团队为一致性说明定了明确的负责人，加上截止和复审日期。我比较了处理延迟感知路由器的两种方式，记下取舍，诚实分享。评审中，我就法定人数读及其失效模式提出了一个审慎的问题。评审开始时，Priya问：\"置顶便签是唯一事实。\"我带着数字回答：\"过期信息引发家庭剧情。\"索引一直在那儿，等一个公平的问法。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于路由配置评审的笔记重读了两遍。我准备了一页关于一致性说明的简报，好让会议从事实出发。团队为延迟感知路由器指定了明确的负责人。我比较了关于法定人数读的两种观点，诚实地都记了下来。练习辩论：Maria主张：\"置顶便签是唯一事实。\"我平静地回应：\"过期信息引发家庭剧情。\"Maria承认道：\"同意，把这条记到工单里。\"索引一直在那儿，等一个公平的问法。",
    "hard": [
     {
      "w": "lag aware router",

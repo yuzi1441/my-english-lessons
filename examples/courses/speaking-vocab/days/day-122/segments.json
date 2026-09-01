@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 308,
+   "word_count": 284,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria asks me to lead a small working group on team documentation. I link the pair programming to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the driver and navigator, and I write it down. I summarize what we decided about the onboarding buddy while the details are still fresh. The guide now includes a section on the shadowing session, with examples and pitfalls. In the morning meeting, Leo says, \"How's the new role treating you?\" and I respond, \"He seems happier lately.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Maria asks me to lead a small working group on team documentation. I link the pair programming to the ticket so nothing important ever gets lost again. Priya suggests a simpler way to handle the driver and navigator, and I write it down. I summarize what we decided about the onboarding buddy while the details are still fresh. The guide now includes a section on the shadowing session, with examples and pitfalls. In the morning meeting, Leo says, \"How's the new role treating you?\" and I respond, \"He seems happier lately.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Maria asks me to lead a small working group on team documentation. I connect the pair programming to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the driver and navigator. While the details are fresh, I write down the onboarding buddy. The guide now has a short section on the shadowing session. Drill without notes: Leo asks, \"How's the new role treating you?\" I answer, \"He seems happier lately.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Maria asks me to lead a small working group on team documentation. I connect the pair programming to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the driver and navigator. While the details are fresh, I write down the onboarding buddy. The guide now has a short section on the shadowing session. Drill without notes: Leo asks, \"How's the new role treating you?\" I answer, \"He seems happier lately.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 请我带一个关于团队文档的小工作组。我把结对编程关联到工单上，这样重要的事情不会再被遗漏。Priya 提出了一个更简单的司机与领航处理办法，我把它记了下来。趁细节还新鲜，我总结了关于入职伙伴的决定。指南里现在有关于影子学习的章节，附有示例和坑点。晨会上，Leo说：\"新岗位感觉如何？\"我回应：\"他最近看起来开心多了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "Maria 请我带一个关于团队文档的小工作组。我把结对编程关联到工单上，免得遗漏。Priya 提出了一个更清晰的司机与领航思考方式。趁细节还新鲜，我把入职伙伴写了下来。指南里现在有关于影子学习的简短章节。脱稿演练：Leo问：\"新岗位感觉如何？\"我回答：\"他最近看起来开心多了。\"Leo收束：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "pair programming",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Three people, one goal, and a whiteboard photo that becomes our charter. Over coffee, Maria mentions, \"She's learning to say no.\" and I add, \"Everyone's juggling something.\" with an example. I summarize what we decided about the mob programming while the details are still fresh. The guide now includes a section on the keyboard handoff, with examples and pitfalls. In today's standup, I give a quick update on the runbook review and what blocked me. We agree that the knowledge gap list needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Three people, one goal, and a whiteboard photo that becomes our charter. Over coffee, Maria mentions, \"She's learning to say no.\" and I add, \"Everyone's juggling something.\" with an example. I summarize what we decided about the mob programming while the details are still fresh. The guide now includes a section on the keyboard handoff, with examples and pitfalls. In today's standup, I give a quick update on the runbook review and what blocked me. We agree that the knowledge gap list needs one more careful look before we commit. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Three people, one goal, and a whiteboard photo that becomes our charter. Pair run: Leo starts, \"She's learning to say no.\" I follow, \"Everyone's juggling something.\" and Leo replies, \"Keep practising, it is working.\" Priya suggests a cleaner way to think about the mob programming. While the details are fresh, I write down the keyboard handoff. The guide now has a short section on the runbook review. I compare my notes about the knowledge gap list with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Three people, one goal, and a whiteboard photo that becomes our charter. Pair run: Leo starts, \"She's learning to say no.\" I follow, \"Everyone's juggling something.\" and Leo replies, \"Keep practising, it is working.\" Priya suggests a cleaner way to think about the mob programming. While the details are fresh, I write down the keyboard handoff. The guide now has a short section on the runbook review. I compare my notes about the knowledge gap list with Priya's. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "三个人，一个目标，一张变成章程的白板照片。喝咖啡时，Maria提到：\"她在学着拒绝。\"我补充了\"每个人都有自己在转的盘子。\"，还带了个例子。趁细节还新鲜，我总结了关于群体编程的决定。指南里现在有关于键盘交接的章节，附有示例和坑点。在今天的站会上，我快速汇报了手册评审的进展和卡住我的地方。我们一致认为，在动手之前知识缺口清单还需要再仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "三个人，一个目标，一张变成章程的白板照片。结对演练：Leo起头：\"她在学着拒绝。\"我跟上：\"每个人都有自己在转的盘子。\"Leo回应：\"继续练，有效果了。\"Priya 提出了一个更清晰的群体编程思考方式。趁细节还新鲜，我把键盘交接写了下来。指南里现在有关于手册评审的简短章节。我把关于知识缺口清单的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "mob programming",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the bus factor to the ticket so nothing important ever gets lost again. The team decides to rotate the on-call knowledge this sprint, with a checkpoint on Wednesday. I summarize what we decided about the pair rotation while the details are still fresh. The guide now includes a section on the solo deep work, with examples and pitfalls. In the morning meeting, Leo says, \"We should celebrate small wins.\" and I respond, \"Coffee soon, my treat.\" Leadership, it turns out, starts with scheduling.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I link the bus factor to the ticket so nothing important ever gets lost again. The team decides to rotate the on-call knowledge this sprint, with a checkpoint on Wednesday. I summarize what we decided about the pair rotation while the details are still fresh. The guide now includes a section on the solo deep work, with examples and pitfalls. In the morning meeting, Leo says, \"We should celebrate small wins.\" and I respond, \"Coffee soon, my treat.\" Leadership, it turns out, starts with scheduling.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the bus factor one more careful look this week. We agree that I will rotate the on-call knowledge this week. Priya suggests a cleaner way to think about the pair rotation. While the details are fresh, I write down the solo deep work. Whiteboard practice: Priya offers, \"We should celebrate small wins.\" I add, \"Coffee soon, my treat.\" then Priya sums up, \"Good point — use it in the standup.\" Leadership, it turns out, starts with scheduling.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the bus factor one more careful look this week. We agree that I will rotate the on-call knowledge this week. Priya suggests a cleaner way to think about the pair rotation. While the details are fresh, I write down the solo deep work. Whiteboard practice: Priya offers, \"We should celebrate small wins.\" I add, \"Coffee soon, my treat.\" then Priya sums up, \"Good point — use it in the standup.\" Leadership, it turns out, starts with scheduling.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把巴士因子关联到工单上，这样重要的事情不会再被遗漏。团队决定在这个迭代轮转值班知识，周三设一个检查点。趁细节还新鲜，我总结了关于结对轮换的决定。指南里现在有关于独处深工的章节，附有示例和坑点。晨会上，Leo说：\"我们该为小胜利庆祝。\"我回应：\"改天喝咖啡\"原来领导力是从排日程开始的。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把巴士因子仔细看一次。我们说好这周由我来轮转值班知识。Priya 提出了一个更清晰的结对轮换思考方式。趁细节还新鲜，我把独处深工写了下来。白板练习：Priya给出：\"我们该为小胜利庆祝。\"我补充：\"改天喝咖啡\"然后Priya总结：\"说得好——站会上就用它。\"原来领导力是从排日程开始的。",
    "hard": [
     {
      "w": "pair rotation",

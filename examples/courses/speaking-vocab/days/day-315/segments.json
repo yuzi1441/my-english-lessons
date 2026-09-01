@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 346,
+   "word_count": 328,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Old and new systems run side by side for a month. I propose a measurable goal for the year one architecture review this quarter, with a number we can defend. We review the load bearing wins list against the requirements one final time, line by line, together. I close the loop on the adr yearbook publication and share the outcome, including what surprised us. I present the architecture retro facilitation to the team with data, a timeline, and one clear ask. Priya summarises the meeting with, \"Day three hundred thirty, house inspection passed.\" and I confirm, \"The load bearing walls held.\" for the record. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Old and new systems run side by side for a month. I propose a measurable goal for the year one architecture review this quarter, with a number we can defend. We review the load bearing wins list against the requirements one final time, line by line, together. I close the loop on the adr yearbook publication and share the outcome, including what surprised us. I present the architecture retro facilitation to the team with data, a timeline, and one clear ask. Priya summarises the meeting with, \"Day three hundred thirty, house inspection passed.\" and I confirm, \"The load bearing walls held.\" for the record. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Old and new systems run side by side for a month. I propose a measurable target for the year one architecture review this quarter. We review the load bearing wins list against the requirements, line by line. I close the discussion on the adr yearbook publication with a short summary. The final deck includes the architecture retro facilitation and what we learned from it. Last rehearsal: Priya checks, \"Day three hundred thirty, house inspection passed.\" I commit word for word, \"The load bearing walls held.\" and Priya smiles, \"Approved — bring it to the launch review.\" I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Old and new systems run side by side for a month. I propose a measurable target for the year one architecture review this quarter. We review the load bearing wins list against the requirements, line by line. I close the discussion on the adr yearbook publication with a short summary. The final deck includes the architecture retro facilitation and what we learned from it. Last rehearsal: Priya checks, \"Day three hundred thirty, house inspection passed.\" I commit word for word, \"The load bearing walls held.\" and Priya smiles, \"Approved — bring it to the launch review.\" I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "新旧系统并行运行一个月。我为首年架构回顾提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了承重决策战绩清单，一起完成的。我跟进完决策记录年册发布并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了架构年度复盘引导。Priya用\"第三百三十天\"为会议收尾，我郑重确认：\"承重墙都扛住了。\"我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "新旧系统并行运行一个月。我为首年架构回顾提出了本季度一个可衡量的目标。我们逐行对照需求检查了承重决策战绩清单。我用一段简短的总结为决策记录年册发布的讨论收尾。最终的材料里有架构年度复盘引导，以及我们从中学到的东西。最后一次彩排：Priya核对：\"第三百三十天\"我逐字承诺：\"承重墙都扛住了。\"Priya笑道：\"通过——带到上线评审上。\"我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "year one architecture review",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The diff tool catches one discrepancy and we celebrate catching it. At the demo, Leo asks, \"We renovated without moving out.\" and I present, \"Blueprints and stories match now.\" with the numbers ready. I close the loop on the reversibility report card and share the outcome, including what surprised us. I present the cognitive load audit result to the team with data, a timeline, and one clear ask. We align on the debt paydown celebration before the deadline so execution never has to guess. My report explains the tech radar movement review, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "The diff tool catches one discrepancy and we celebrate catching it. At the demo, Leo asks, \"We renovated without moving out.\" and I present, \"Blueprints and stories match now.\" with the numbers ready. I close the loop on the reversibility report card and share the outcome, including what surprised us. I present the cognitive load audit result to the team with data, a timeline, and one clear ask. We align on the debt paydown celebration before the deadline so execution never has to guess. My report explains the tech radar movement review, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "The diff tool catches one discrepancy and we celebrate catching it. Launch rehearsal: Priya asks, \"We renovated without moving out.\" I present, \"Blueprints and stories match now.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" We review the reversibility report card against the requirements, line by line. I close the discussion on the cognitive load audit result with a short summary. The final deck includes the debt paydown celebration and what we learned from it. I put the tech radar movement review on the record so the reasoning stays visible. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The diff tool catches one discrepancy and we celebrate catching it. Launch rehearsal: Priya asks, \"We renovated without moving out.\" I present, \"Blueprints and stories match now.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" We review the reversibility report card against the requirements, line by line. I close the discussion on the cognitive load audit result with a short summary. The final deck includes the debt paydown celebration and what we learned from it. I put the tech radar movement review on the record so the reasoning stays visible. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "差异工具抓到一处不一致，我们为抓到而庆祝。演示会上，Leo问：\"我们没搬家就完成了翻新。\"我带着准备好的数字汇报：\"图纸和故事终于对上了。\"我跟进完可逆性成绩单并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了认知负荷审计结果。我们在截止日期前就还债庆祝达成共识，让执行永远不必靠猜。我的报告解释了技术雷达移动复盘、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "差异工具抓到一处不一致，我们为抓到而庆祝。上线彩排：Priya问：\"我们没搬家就完成了翻新。\"我带着准备好的数字汇报：\"图纸和故事终于对上了。\"Priya签字道：\"通过——带到上线评审上。\"我们逐行对照需求检查了可逆性成绩单。我用一段简短的总结为认知负荷审计结果的讨论收尾。最终的材料里有还债庆祝，以及我们从中学到的东西。我把技术雷达移动复盘记录在案，让推理过程保持可见。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "reversibility report card",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable goal for the mentor rotation for reviewers this quarter, with a number we can defend. We review the north star kept against the requirements one final time, line by line, together. I close the loop on the architecture debt balance and share the outcome, including what surprised us. I present the blueprint for year two to the team with data, a timeline, and one clear ask. Priya summarises the meeting with, \"The house is ready for guests.\" and I confirm, \"Foundations first, always.\" for the record. Confidence is measured in quiet diffs.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable goal for the mentor rotation for reviewers this quarter, with a number we can defend. We review the north star kept against the requirements one final time, line by line, together. I close the loop on the architecture debt balance and share the outcome, including what surprised us. I present the blueprint for year two to the team with data, a timeline, and one clear ask. Priya summarises the meeting with, \"The house is ready for guests.\" and I confirm, \"Foundations first, always.\" for the record. Confidence is measured in quiet diffs.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the mentor rotation for reviewers, the risks behind it, and the cost of waiting. I propose a measurable target for the north star kept this quarter. We review the architecture debt balance against the requirements, line by line. I close the discussion on the blueprint for year two with a short summary. Board practice: Maria probes, \"The house is ready for guests.\" I respond without a pause, \"Foundations first, always.\" and Maria nods, \"Well said, that stays in the deck.\" Confidence is measured in quiet diffs.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the mentor rotation for reviewers, the risks behind it, and the cost of waiting. I propose a measurable target for the north star kept this quarter. We review the architecture debt balance against the requirements, line by line. I close the discussion on the blueprint for year two with a short summary. Board practice: Maria probes, \"The house is ready for guests.\" I respond without a pause, \"Foundations first, always.\" and Maria nods, \"Well said, that stays in the deck.\" Confidence is measured in quiet diffs.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为评审人轮值带教提出了一个本季度的可衡量目标，一个我们守得住的数字。我们最后一次逐行对照需求检查了未忘的北极星，一起完成的。我跟进完架构债余额并分享了结果，包括让我们意外的那部分。我用数据、时间线和一条明确的诉求，向团队汇报了第二年的蓝图。Priya用\"房子准备好迎客了。\"为会议收尾，我郑重确认：\"永远地基优先。\"信心是用安静的差异度量的。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖评审人轮值带教、背后的风险，以及等待的代价。我为未忘的北极星提出了本季度一个可衡量的目标。我们逐行对照需求检查了架构债余额。我用一段简短的总结为第二年的蓝图的讨论收尾。董事会练习：Maria追问：\"房子准备好迎客了。\"我毫不迟疑地回应：\"永远地基优先。\"Maria点头道：\"说得好，这句留在材料里。\"信心是用安静的差异度量的。",
    "hard": [
     {
      "w": "architecture debt balance",
