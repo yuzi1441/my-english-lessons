@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 290,
+   "word_count": 289,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We list tasks the assistant may do unattended: changelogs, link checks, test scaffolds. I compare my notes about the spaced repetition engine with Priya's. At the review, we spend ten minutes on the skill gap quiz generator. In today's standup, I mention the examples repo for juniors and what comes next. We agree to give the katas collection one more careful look this week. Drill without notes: Leo asks, \"The evening class revival.\" I answer, \"Completion rate confessions.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "We list tasks the assistant may do unattended: changelogs, link checks, test scaffolds. I compare my notes about the spaced repetition engine with Priya's. At the review, we spend ten minutes on the skill gap quiz generator. In today's standup, I mention the examples repo for juniors and what comes next. We agree to give the katas collection one more careful look this week. Drill without notes: Leo asks, \"The evening class revival.\" I answer, \"Completion rate confessions.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "We list tasks the assistant may do unattended: changelogs, link checks, test scaffolds. The guide now has a short section on the spaced repetition engine. At the review, we spend ten minutes on the skill gap quiz generator. We agree to give the examples repo for juniors one more careful look this week. I connect the katas collection to the ticket so nothing gets lost. Drill without notes: Leo asks, \"The evening class revival.\" I answer, \"Completion rate confessions.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We list tasks the assistant may do unattended: changelogs, link checks, test scaffolds. The guide now has a short section on the spaced repetition engine. At the review, we spend ten minutes on the skill gap quiz generator. We agree to give the examples repo for juniors one more careful look this week. I connect the katas collection to the ticket so nothing gets lost. Drill without notes: Leo asks, \"The evening class revival.\" I answer, \"Completion rate confessions.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们列出学徒可以独立完成的事：变更日志、链接检查、测试脚手架。我把关于间隔重复引擎的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在技能缺口测验生成上。今天的站会上，我提到新人示例仓库和接下来的安排。我们说好这周再把编程套路集仔细看一次。脱稿演练：Leo问：\"夜课复兴。\"我回答：\"完课率的坦白。\"Leo收束：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我们列出学徒可以独立完成的事：变更日志、链接检查、测试脚手架。指南里现在有关于间隔重复引擎的简短章节。评审时，我们花了十分钟在技能缺口测验生成上。我们说好这周再把新人示例仓库仔细看一次。我把编程套路集关联到工单上，免得遗漏。脱稿演练：Leo问：\"夜课复兴。\"我回答：\"完课率的坦白。\"Leo收束：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "spaced repetition engine",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Everything else keeps a human name attached. Pair run: Leo starts, \"Handwritten notes, videos at two times.\" I follow, \"Study buddy accountability.\" and Leo replies, \"Keep practising, it is working.\" At the review, we spend ten minutes on the personalized reading queue. In today's standup, I mention the output driven learning and what comes next. We agree to give the owned reading list one more careful look this week. I connect the brown bag calendar to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Everything else keeps a human name attached. Pair run: Leo starts, \"Handwritten notes, videos at two times.\" I follow, \"Study buddy accountability.\" and Leo replies, \"Keep practising, it is working.\" At the review, we spend ten minutes on the personalized reading queue. In today's standup, I mention the output driven learning and what comes next. We agree to give the owned reading list one more careful look this week. I connect the brown bag calendar to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Everything else keeps a human name attached. Meeting rehearsal: Leo opens, \"Handwritten notes, videos at two times.\" I respond, \"Study buddy accountability.\" and Leo confirms, \"Keep practising, it is working.\" In today's standup, I mention the personalized reading queue and what comes next. While the details are fresh, I write down the output driven learning. Priya suggests a cleaner way to think about the owned reading list. I compare my notes about the brown bag calendar with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Everything else keeps a human name attached. Meeting rehearsal: Leo opens, \"Handwritten notes, videos at two times.\" I respond, \"Study buddy accountability.\" and Leo confirms, \"Keep practising, it is working.\" In today's standup, I mention the personalized reading queue and what comes next. While the details are fresh, I write down the output driven learning. Priya suggests a cleaner way to think about the owned reading list. I compare my notes about the brown bag calendar with Priya's. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "其余所有事情都保留一个人类的名字。结对演练：Leo起头：\"手写笔记\"我跟上：\"学伴责任制。\"Leo回应：\"继续练，有效果了。\"评审时，我们花了十分钟在个性化阅读队列上。今天的站会上，我提到输出倒逼输入和接下来的安排。我们说好这周再把带认领人的书单仔细看一次。我把午餐分享日历关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "其余所有事情都保留一个人类的名字。会议彩排：Leo开场：\"手写笔记\"我回应：\"学伴责任制。\"Leo确认道：\"继续练，有效果了。\"今天的站会上，我提到个性化阅读队列和接下来的安排。趁细节还新鲜，我把输出倒逼输入写了下来。Priya 提出了一个更清晰的带认领人的书单思考方式。我把关于午餐分享日历的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "personalized reading queue",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the learning budget board. I compare my notes about the mentor hours booking with Priya's. At the review, we spend ten minutes on the mentor matching algorithm. In today's standup, I mention the learning streak analytics and what comes next. Whiteboard practice: Priya offers, \"Certificates, real or decor?\" I add, \"Learning in public.\" then Priya sums up, \"Good point — use it in the standup.\" Delegation is a map, not a mood.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the learning budget board. I compare my notes about the mentor hours booking with Priya's. At the review, we spend ten minutes on the mentor matching algorithm. In today's standup, I mention the learning streak analytics and what comes next. Whiteboard practice: Priya offers, \"Certificates, real or decor?\" I add, \"Learning in public.\" then Priya sums up, \"Good point — use it in the standup.\" Delegation is a map, not a mood.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the learning budget board. At the review, we spend ten minutes on the mentor hours booking. We agree to give the mentor matching algorithm one more careful look this week. I connect the learning streak analytics to the ticket so nothing gets lost. Pair run: Priya starts, \"Certificates, real or decor?\" I follow, \"Learning in public.\" and Priya replies, \"Good point — use it in the standup.\" Delegation is a map, not a mood.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the learning budget board. At the review, we spend ten minutes on the mentor hours booking. We agree to give the mentor matching algorithm one more careful look this week. I connect the learning streak analytics to the ticket so nothing gets lost. Pair run: Priya starts, \"Certificates, real or decor?\" I follow, \"Learning in public.\" and Priya replies, \"Good point — use it in the standup.\" Delegation is a map, not a mood.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于学习预算使用板的简短章节。我把关于导师时间预约的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在导师匹配算法上。今天的站会上，我提到学习连续性分析和接下来的安排。白板练习：Priya给出：\"证书是真材实料还是装饰？\"我补充：\"公开学习。\"然后Priya总结：\"说得好——站会上就用它。\"授权是一张地图，不是一阵情绪。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于学习预算使用板的简短章节。评审时，我们花了十分钟在导师时间预约上。我们说好这周再把导师匹配算法仔细看一次。我把学习连续性分析关联到工单上，免得遗漏。结对演练：Priya起头：\"证书是真材实料还是装饰？\"我跟上：\"公开学习。\"Priya回应：\"说得好——站会上就用它。\"授权是一张地图，不是一阵情绪。",
    "hard": [
     {
      "w": "mentor matching algorithm",

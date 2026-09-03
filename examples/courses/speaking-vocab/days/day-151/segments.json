@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 293,
+   "word_count": 288,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Month six opens with an email that changes my quarter: an invitation to the data guild. At the review, we spend ten minutes on the select query. In today's standup, I mention the where clause and what comes next. We agree to give the warehouse schema one more careful look this week. I connect the staging table to the ticket so nothing gets lost. Pair run: Maria starts, \"The chart in the news lied.\" I follow, \"The axis starts at ninety.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Month six opens with an email that changes my quarter: an invitation to the data guild. At the review, we spend ten minutes on the select query. In today's standup, I mention the where clause and what comes next. We agree to give the warehouse schema one more careful look this week. I connect the staging table to the ticket so nothing gets lost. Pair run: Maria starts, \"The chart in the news lied.\" I follow, \"The axis starts at ninety.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Month six opens with an email that changes my quarter: an invitation to the data guild. While the details are fresh, I write down the select query. Priya suggests a cleaner way to think about the where clause. We agree to give the warehouse schema one more careful look this week. I compare my notes about the staging table with Priya's. Whiteboard practice: Maria offers, \"The chart in the news lied.\" I add, \"The axis starts at ninety.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Month six opens with an email that changes my quarter: an invitation to the data guild. While the details are fresh, I write down the select query. Priya suggests a cleaner way to think about the where clause. We agree to give the warehouse schema one more careful look this week. I compare my notes about the staging table with Priya's. Whiteboard practice: Maria offers, \"The chart in the news lied.\" I add, \"The axis starts at ninety.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第六个月以一种意外的开场开始：一封改变整个季度的邮件，数据公会的邀请。评审时，我们花了十分钟在SELECT 查询上。今天的站会上，我提到WHERE 子句和接下来的安排。我们说好这周再把数仓结构仔细看一次。我把中转表关联到工单上，免得遗漏。结对演练：Maria起头：\"新闻里的图表撒了谎。\"我跟上：\"纵轴从九十开始。\"Maria回应：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "第六个月以一种意外的开场开始：一封改变整个季度的邮件，数据公会的邀请。趁细节还新鲜，我把SELECT 查询写了下来。Priya 提出了一个更清晰的WHERE 子句思考方式。我们说好这周再把数仓结构仔细看一次。我把关于中转表的笔记和 Priya 的对照了一下。白板练习：Maria给出：\"新闻里的图表撒了谎。\"我补充：\"纵轴从九十开始。\"然后Maria总结：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "select query",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Priya writes, \"Bring your questions, not your formulas.\" Meeting rehearsal: Maria opens, \"Small sample, big claim.\" I respond, \"Correlation is not causation.\" and Maria confirms, \"Exactly, and it saves time too.\" In today's standup, I mention the group by clause and what comes next. We agree to give the aggregate function one more careful look this week. I connect the mart table to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the lineage graph. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Priya writes, \"Bring your questions, not your formulas.\" Meeting rehearsal: Maria opens, \"Small sample, big claim.\" I respond, \"Correlation is not causation.\" and Maria confirms, \"Exactly, and it saves time too.\" In today's standup, I mention the group by clause and what comes next. We agree to give the aggregate function one more careful look this week. I connect the mart table to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the lineage graph. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Priya writes, \"Bring your questions, not your formulas.\" Meeting rehearsal: Maria opens, \"Small sample, big claim.\" I respond, \"Correlation is not causation.\" and Maria confirms, \"Exactly, and it saves time too.\" At the review, we spend ten minutes on the group by clause. I connect the aggregate function to the ticket so nothing gets lost. In today's standup, I mention the mart table and what comes next. The guide now has a short section on the lineage graph. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Priya writes, \"Bring your questions, not your formulas.\" Meeting rehearsal: Maria opens, \"Small sample, big claim.\" I respond, \"Correlation is not causation.\" and Maria confirms, \"Exactly, and it saves time too.\" At the review, we spend ten minutes on the group by clause. I connect the aggregate function to the ticket so nothing gets lost. In today's standup, I mention the mart table and what comes next. The guide now has a short section on the lineage graph. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Priya 写道：“带上问题，不用带公式。”会议彩排：Maria开场：\"样本太小\"我回应：\"相关不是因果。\"Maria确认道：\"正是，而且还省时间。\"今天的站会上，我提到GROUP BY 子句和接下来的安排。我们说好这周再把聚合函数仔细看一次。我把集市表关联到工单上，免得遗漏。Priya 提出了一个更清晰的血缘图思考方式。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "Priya 写道：“带上问题，不用带公式。”会议彩排：Maria开场：\"样本太小\"我回应：\"相关不是因果。\"Maria确认道：\"正是，而且还省时间。\"评审时，我们花了十分钟在GROUP BY 子句上。我把聚合函数关联到工单上，免得遗漏。今天的站会上，我提到集市表和接下来的安排。指南里现在有关于血缘图的简短章节。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "group by clause",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the backfill job with Priya's. At the review, we spend ten minutes on the query review. In today's standup, I mention the order by clause and what comes next. We agree to give the limit clause one more careful look this week. Drill without notes: Leo asks, \"I check the source first.\" I answer, \"Numbers need context.\" and Leo closes, \"Keep practising, it is working.\" I have been afraid of numbers for years; time to walk into the room.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the backfill job with Priya's. At the review, we spend ten minutes on the query review. In today's standup, I mention the order by clause and what comes next. We agree to give the limit clause one more careful look this week. Drill without notes: Leo asks, \"I check the source first.\" I answer, \"Numbers need context.\" and Leo closes, \"Keep practising, it is working.\" I have been afraid of numbers for years; time to walk into the room.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the backfill job. Priya suggests a cleaner way to think about the query review. We agree to give the order by clause one more careful look this week. I compare my notes about the limit clause with Priya's. Drill without notes: Leo asks, \"I check the source first.\" I answer, \"Numbers need context.\" and Leo closes, \"Keep practising, it is working.\" I have been afraid of numbers for years; time to walk into the room.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the backfill job. Priya suggests a cleaner way to think about the query review. We agree to give the order by clause one more careful look this week. I compare my notes about the limit clause with Priya's. Drill without notes: Leo asks, \"I check the source first.\" I answer, \"Numbers need context.\" and Leo closes, \"Keep practising, it is working.\" I have been afraid of numbers for years; time to walk into the room.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于回填任务的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在查询评审上。今天的站会上，我提到ORDER BY 子句和接下来的安排。我们说好这周再把LIMIT 子句仔细看一次。脱稿演练：Leo问：\"我先查来源。\"我回答：\"数字需要上下文。\"Leo收束：\"继续练，有效果了。\"我怕数字怕了很多年；是时候走进那个房间了。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把回填任务写了下来。Priya 提出了一个更清晰的查询评审思考方式。我们说好这周再把ORDER BY 子句仔细看一次。我把关于LIMIT 子句的笔记和 Priya 的对照了一下。脱稿演练：Leo问：\"我先查来源。\"我回答：\"数字需要上下文。\"Leo收束：\"继续练，有效果了。\"我怕数字怕了很多年；是时候走进那个房间了。",
    "hard": [
     {
      "w": "order by clause",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 270,
+   "word_count": 279,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "One test passes on my machine and fails in CI. There is a short paragraph about the type annotation in the guide. I ask one good question about the nullable type in the meeting. My notes about the why a template look clearer this week. I spend ten quiet minutes on the context section after the standup. Role play with feedback: Leo says, \"My prescription changed.\" I try, \"Screens need the twenty rule.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "One test passes on my machine and fails in C I. There is a short paragraph about the type annotation in the guide. I ask one good question about the nullable type in the meeting. My notes about the why a template look clearer this week. I spend ten quiet minutes on the context section after the standup. Role play with feedback: Leo says, \"My prescription changed.\" I try, \"Screens need the twenty rule.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "One test passes on my machine and fails in CI. I keep one real example of the type annotation in my notebook. I add the nullable type to my study notes before I forget it. I spend ten quiet minutes on the why a template after the standup. I ask one good question about the context section in the meeting. Warm-up round: Leo offers, \"My prescription changed.\" I answer, \"Screens need the twenty rule.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "One test passes on my machine and fails in C I. I keep one real example of the type annotation in my notebook. I add the nullable type to my study notes before I forget it. I spend ten quiet minutes on the why a template after the standup. I ask one good question about the context section in the meeting. Warm-up round: Leo offers, \"My prescription changed.\" I answer, \"Screens need the twenty rule.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个测试在我机器上通过，在 CI 里失败。指南里有一小段关于类型标注的介绍。会上关于可空类型，我问了一个好问题。这周我关于为什么要模板的笔记清楚多了。站会之后，我安安静静花了十分钟在背景栏上。角色扮演加反馈：Leo说：\"我的度数变了。\"我试着说：\"看屏幕要用二十法则。\"Leo补充道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "一个测试在我机器上通过，在 CI 里失败。我在笔记本里留了一个类型标注的真实例子。我趁还没忘，把可空类型记进了学习笔记。站会之后，我安安静静花了十分钟在为什么要模板上。会上关于背景栏，我问了一个好问题。热身一轮：Leo给出：\"我的度数变了。\"我回答：\"看屏幕要用二十法则。\"Leo收尾道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "type annotation",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We quarantine it, fix the timing, and let it heal outside the main suite. Warm-up round: Leo offers, \"Blue light filter on.\" I answer, \"New frames, clearer world.\" and Leo wraps up, \"Nice, keep that one handy.\" I ask one good question about the interface contract in the meeting. My notes about the compile-time error look clearer this week. I spend ten quiet minutes on the risk section after the standup. Sam asks me about the rollback section, and I explain the basics. I end the day with fewer unknowns than I started with.",
-   "tts": "We quarantine it, fix the timing, and let it heal outside the main suite. Warm-up round: Leo offers, \"Blue light filter on.\" I answer, \"New frames, clearer world.\" and Leo wraps up, \"Nice, keep that one handy.\" I ask one good question about the interface contract in the meeting. My notes about the compile-time error look clearer this week. I spend ten quiet minutes on the risk section after the standup. Sam asks me about the rollback section, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "en": "We quarantine it, fix the timing, and let it heal outside the main suite. We practise the dialogue: Leo opens, \"Blue light filter on.\" I answer, \"New frames, clearer world.\" and Leo nods, \"Nice, keep that one handy.\" There is a short paragraph about the interface contract in the guide. Sam asks me about the compile-time error, and I explain the basics. I go over the risk section one more time before lunch. My notes about the rollback section look clearer this week. I end the day with fewer unknowns than I started with.",
+   "tts": "We quarantine it, fix the timing, and let it heal outside the main suite. We practise the dialogue: Leo opens, \"Blue light filter on.\" I answer, \"New frames, clearer world.\" and Leo nods, \"Nice, keep that one handy.\" There is a short paragraph about the interface contract in the guide. Sam asks me about the compile-time error, and I explain the basics. I go over the risk section one more time before lunch. My notes about the rollback section look clearer this week. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们隔离了它，修好时序，让它在主干套件外养伤。热身一轮：Leo给出：\"蓝光过滤打开。\"我回答：\"新镜框\"Leo收尾道：\"不错，把这句记在手边。\"会上关于接口契约，我问了一个好问题。这周我关于编译期错误的笔记清楚多了。站会之后，我安安静静花了十分钟在风险栏上。Sam 问起回滚栏，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我们隔离了它，修好时序，让它在主干套件外养伤。我们练习这段对话：Leo开场：\"蓝光过滤打开。\"我回答：\"新镜框\"Leo点头说：\"不错，把这句记在手边。\"指南里有一小段关于接口契约的介绍。Sam 问起编译期错误，我讲了讲基础。午饭前我又过了一遍风险栏。这周我关于回滚栏的笔记清楚多了。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "interface contract",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the screenshots required one more time before lunch. Maria watches while I keep it short. I ask one good question about the runtime check in the meeting. My notes about the gradual typing look clearer this week. We drill it twice: Priya starts, \"I squinted for months.\" I reply, \"Eye exam yearly.\" then Priya smiles, \"Good — try it in today’s task.\" A flaky test is a lie told slowly.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the screenshots required one more time before lunch. Maria watches while I keep it short. I ask one good question about the runtime check in the meeting. My notes about the gradual typing look clearer this week. We drill it twice: Priya starts, \"I squinted for months.\" I reply, \"Eye exam yearly.\" then Priya smiles, \"Good — try it in today’s task.\" A flaky test is a lie told slowly.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the screenshots required in my notebook. I keep it short while the office is still quiet. I add the runtime check to my study notes before I forget it. I spend ten quiet minutes on the gradual typing after the standup. Role play with feedback: Priya says, \"I squinted for months.\" I try, \"Eye exam yearly.\" and Priya adds, \"Good — try it in today’s task.\" A flaky test is a lie told slowly.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the screenshots required in my notebook. I keep it short while the office is still quiet. I add the runtime check to my study notes before I forget it. I spend ten quiet minutes on the gradual typing after the standup. Role play with feedback: Priya says, \"I squinted for months.\" I try, \"Eye exam yearly.\" and Priya adds, \"Good — try it in today’s task.\" A flaky test is a lie told slowly.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍截图必填。Maria 看着我保持简短。会上关于运行时检查，我问了一个好问题。这周我关于渐进类型的笔记清楚多了。我们练了两遍：Priya起头：\"我眯了好几个月。\"我回答：\"一年查一次眼睛。\"然后Priya笑着说：\"好——今天的任务里就用上。\"抖动的测试是一个慢慢讲的谎言。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个截图必填的真实例子。趁办公室还安静，我保持简短。我趁还没忘，把运行时检查记进了学习笔记。站会之后，我安安静静花了十分钟在渐进类型上。角色扮演加反馈：Priya说：\"我眯了好几个月。\"我试着说：\"一年查一次眼睛。\"Priya补充道：\"好——今天的任务里就用上。\"抖动的测试是一个慢慢讲的谎言。",
    "hard": [
     {
      "w": "runtime check",

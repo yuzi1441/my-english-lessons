@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 320,
+   "word_count": 319,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We rehearse the worst week: everything encrypted. We spend the first ten minutes of the review on the wifi security standard. During the design review, I raise one careful question about the rogue access point detection. Our mentor walks me through how the badge and log correlation evolved on this team. Before deciding, I reread my notes about the clean desk policy check twice. Mock review: Leo probes, \"Bag in front, always.\" I answer from memory, \"Hotel safe for passports.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "We rehearse the worst week: everything encrypted. We spend the first ten minutes of the review on the wifi security standard. During the design review, I raise one careful question about the rogue access point detection. Our mentor walks me through how the badge and log correlation evolved on this team. Before deciding, I reread my notes about the clean desk policy check twice. Mock review: Leo probes, \"Bag in front, always.\" I answer from memory, \"Hotel safe for passports.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "We rehearse the worst week: everything encrypted. Our mentor walks me through how the wifi security standard evolved on this team. I compare two views on the rogue access point detection and write both down honestly. During the design review, I raise one careful question about the badge and log correlation. Before deciding, I reread my notes about the clean desk policy check twice. Mock review: Leo probes, \"Bag in front, always.\" I answer from memory, \"Hotel safe for passports.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We rehearse the worst week: everything encrypted. Our mentor walks me through how the wifi security standard evolved on this team. I compare two views on the rogue access point detection and write both down honestly. During the design review, I raise one careful question about the badge and log correlation. Before deciding, I reread my notes about the clean desk policy check twice. Mock review: Leo probes, \"Bag in front, always.\" I answer from memory, \"Hotel safe for passports.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们排演最糟的一周：所有东西被加密。评审的前十分钟，我们都用在了Wi-Fi 安全标准上。设计评审中，我就伪热点检测提出了一个审慎的问题。导师带我梳理了门禁与日志关联在这个团队里的演变。做决定之前，我把关于桌面清空检查的笔记重读了两遍。模拟评审：Leo追问：\"背包永远在前。\"我凭记忆回答：\"护照住酒店保险柜。\"Leo确认：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我们排演最糟的一周：所有东西被加密。导师带我梳理了Wi-Fi 安全标准在这个团队里的演变。我比较了关于伪热点检测的两种观点，诚实地都记了下来。设计评审中，我就门禁与日志关联提出了一个审慎的问题。做决定之前，我把关于桌面清空检查的笔记重读了两遍。模拟评审：Leo追问：\"背包永远在前。\"我凭记忆回答：\"护照住酒店保险柜。\"Leo确认：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "wifi security standard",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Immutable backups, offline copies, and a restore race we finish in hours. Review warm-up: Leo raises, \"Two wallets trick for travel.\" I answer, \"The phone strap after one scare.\" and Leo grades it, \"That is the level we need.\" During the design review, I raise one careful question about the physical access log. Our mentor walks me through how the server room access policy evolved on this team. Before deciding, I reread my notes about the printer security review twice. I prepare a one-page brief about the guest wifi isolation test so meetings start from facts. We end the week with something shipped and something properly learned this time.",
-   "tts": "Immutable backups, offline copies, and a restore race we finish in hours. Review warm-up: Leo raises, \"Two wallets trick for travel.\" I answer, \"The phone strap after one scare.\" and Leo grades it, \"That is the level we need.\" During the design review, I raise one careful question about the physical access log. Our mentor walks me through how the server room access policy evolved on this team. Before deciding, I reread my notes about the printer security review twice. I prepare a one-page brief about the guest wifi isolation test so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "en": "Immutable backups, offline copies, and a restore race we finish in hours. Dry run: Leo opens, \"Two wallets trick for travel.\" I follow, \"The phone strap after one scare.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I prepare a one-page brief about the physical access log so meetings start from facts. I add the server room access policy to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the printer security review. The team names one clear owner for the guest wifi isolation test. We end the week with something shipped and something properly learned this time.",
+   "tts": "Immutable backups, offline copies, and a restore race we finish in hours. Dry run: Leo opens, \"Two wallets trick for travel.\" I follow, \"The phone strap after one scare.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I prepare a one-page brief about the physical access log so meetings start from facts. I add the server room access policy to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the printer security review. The team names one clear owner for the guest wifi isolation test. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "不可变备份、离线副本，还有一场数小时内完成的恢复赛。评审热身：Leo抛出：\"旅行双钱包小技巧。\"我带着数字回答：\"惊魂一次后上了手机绳。\"Leo点评道：\"我们要的就是这个水平。\"设计评审中，我就物理进出记录提出了一个审慎的问题。导师带我梳理了机房进出政策在这个团队里的演变。做决定之前，我把关于打印机安全评审的笔记重读了两遍。我准备了一页关于访客网络隔离测试的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "不可变备份、离线副本，还有一场数小时内完成的恢复赛。干跑演练：Leo开场：\"旅行双钱包小技巧。\"我接上：\"惊魂一次后上了手机绳。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"我准备了一页关于物理进出记录的简报，好让会议从事实出发。我把机房进出政策连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了打印机安全评审上。团队为访客网络隔离测试指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "physical access log",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the asset disposal procedure to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the physical entry audit. During the design review, I raise one careful question about the device inventory audit. Our mentor walks me through how the badge cloning awareness evolved on this team. Practice debate: Priya argues, \"Room number never spoken aloud.\" I respond calmly, \"Luggage tags hide addresses.\" and Priya concedes, \"Strong answer — keep that precision.\" The ransom note finds nothing worth paying for.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the asset disposal procedure to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the physical entry audit. During the design review, I raise one careful question about the device inventory audit. Our mentor walks me through how the badge cloning awareness evolved on this team. Practice debate: Priya argues, \"Room number never spoken aloud.\" I respond calmly, \"Luggage tags hide addresses.\" and Priya concedes, \"Strong answer — keep that precision.\" The ransom note finds nothing worth paying for.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the asset disposal procedure evolved on this team. I compare two views on the physical entry audit and write both down honestly. During the design review, I raise one careful question about the device inventory audit. Before deciding, I reread my notes about the badge cloning awareness twice. Review warm-up: Priya raises, \"Room number never spoken aloud.\" I answer, \"Luggage tags hide addresses.\" and Priya grades it, \"Strong answer — keep that precision.\" The ransom note finds nothing worth paying for.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the asset disposal procedure evolved on this team. I compare two views on the physical entry audit and write both down honestly. During the design review, I raise one careful question about the device inventory audit. Before deciding, I reread my notes about the badge cloning awareness twice. Review warm-up: Priya raises, \"Room number never spoken aloud.\" I answer, \"Luggage tags hide addresses.\" and Priya grades it, \"Strong answer — keep that precision.\" The ransom note finds nothing worth paying for.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把资产处置流程连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了物理进入审计上。设计评审中，我就设备台账审计提出了一个审慎的问题。导师带我梳理了门禁卡克隆意识在这个团队里的演变。练习辩论：Priya主张：\"房号不出口。\"我平静地回应：\"行李牌不写家庭住址。\"Priya承认道：\"回答有力——保持这种精确。\"勒索信找不到任何值得付款的东西。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了资产处置流程在这个团队里的演变。我比较了关于物理进入审计的两种观点，诚实地都记了下来。设计评审中，我就设备台账审计提出了一个审慎的问题。做决定之前，我把关于门禁卡克隆意识的笔记重读了两遍。评审热身：Priya抛出：\"房号不出口。\"我带着数字回答：\"行李牌不写家庭住址。\"Priya点评道：\"回答有力——保持这种精确。\"勒索信找不到任何值得付款的东西。",
    "hard": [
     {
      "w": "device inventory audit",

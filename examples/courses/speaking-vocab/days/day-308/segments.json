@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 325,
+   "word_count": 330,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Old endpoints retire on a published schedule. We review the cost aware architecture review against the requirements, line by line. I close the discussion on the performance per dollar metric with a short summary. The final deck includes the cost anomaly detection rules and what we learned from it. I put the per team cost allocation tags on the record so the reasoning stays visible. Launch rehearsal: Leo asks, \"The power bill shows our architecture.\" I present, \"Peak hour laundry costs double.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "Old endpoints retire on a published schedule. We review the cost aware architecture review against the requirements, line by line. I close the discussion on the performance per dollar metric with a short summary. The final deck includes the cost anomaly detection rules and what we learned from it. I put the per team cost allocation tags on the record so the reasoning stays visible. Launch rehearsal: Leo asks, \"The power bill shows our architecture.\" I present, \"Peak hour laundry costs double.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
+   "en": "Old endpoints retire on a published schedule. I put the cost aware architecture review on the record so the reasoning stays visible. I propose a measurable target for the performance per dollar metric this quarter. I present the cost anomaly detection rules with a timeline, the data, and one clear ask. We align on the per team cost allocation tags early, so execution never has to guess. Launch rehearsal: Leo asks, \"The power bill shows our architecture.\" I present, \"Peak hour laundry costs double.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Old endpoints retire on a published schedule. I put the cost aware architecture review on the record so the reasoning stays visible. I propose a measurable target for the performance per dollar metric this quarter. I present the cost anomaly detection rules with a timeline, the data, and one clear ask. We align on the per team cost allocation tags early, so execution never has to guess. Launch rehearsal: Leo asks, \"The power bill shows our architecture.\" I present, \"Peak hour laundry costs double.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "旧接口按公示的日程退休。我们逐行对照需求检查了成本意识架构评审。我用一段简短的总结为每美元性能指标的讨论收尾。最终的材料里有成本异动检测规则，以及我们从中学到的东西。我把分团队成本分摊标签记录在案，让推理过程保持可见。上线彩排：Leo问：\"电费单反映我们的生活架构。\"我带着准备好的数字汇报：\"高峰洗衣双倍电费。\"Leo签字道：\"确认无误，可以上线了。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "旧接口按公示的日程退休。我把成本意识架构评审记录在案，让推理过程保持可见。我为每美元性能指标提出了本季度一个可衡量的目标。我用时间线、数据和一条明确的诉求来汇报成本异动检测规则。我们尽早就分团队成本分摊标签对齐，让执行无需猜测。上线彩排：Leo问：\"电费单反映我们的生活架构。\"我带着准备好的数字汇报：\"高峰洗衣双倍电费。\"Leo签字道：\"确认无误，可以上线了。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "cost aware architecture review",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Sunset headers count down politely on every response. Final dry run: Leo summarises, \"Smart meter, honest feedback.\" I confirm, \"We shift loads to off peak.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" I close the discussion on the lazy resource provisioning with a short summary. The final deck includes the right sizing ritual and what we learned from it. I put the unused resource reaper on the record so the reasoning stays visible. I present the reserved capacity strategy doc with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Sunset headers count down politely on every response. Final dry run: Leo summarises, \"Smart meter, honest feedback.\" I confirm, \"We shift loads to off peak.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" I close the discussion on the lazy resource provisioning with a short summary. The final deck includes the right sizing ritual and what we learned from it. I put the unused resource reaper on the record so the reasoning stays visible. I present the reserved capacity strategy doc with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Sunset headers count down politely on every response. Board practice: Leo probes, \"Smart meter, honest feedback.\" I respond without a pause, \"We shift loads to off peak.\" and Leo nods, \"Confirmed. This is launch ready.\" My report covers the lazy resource provisioning, the risks behind it, and the cost of waiting. The final deck includes the right sizing ritual and what we learned from it. We review the unused resource reaper against the requirements, line by line. I close the discussion on the reserved capacity strategy doc with a short summary. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Sunset headers count down politely on every response. Board practice: Leo probes, \"Smart meter, honest feedback.\" I respond without a pause, \"We shift loads to off peak.\" and Leo nods, \"Confirmed. This is launch ready.\" My report covers the lazy resource provisioning, the risks behind it, and the cost of waiting. The final deck includes the right sizing ritual and what we learned from it. We review the unused resource reaper against the requirements, line by line. I close the discussion on the reserved capacity strategy doc with a short summary. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "日落响应头在每个响应里礼貌倒计时。最终干跑：Leo总结：\"智能电表给诚实的反馈。\"我郑重确认：\"我们把负载挪到低谷。\"Leo收尾道：\"确认无误，可以上线了。\"我用一段简短的总结为资源惰性供给的讨论收尾。最终的材料里有规格定期校准仪式，以及我们从中学到的东西。我把闲置资源收割机记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报预留容量策略文档。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "日落响应头在每个响应里礼貌倒计时。董事会练习：Leo追问：\"智能电表给诚实的反馈。\"我毫不迟疑地回应：\"我们把负载挪到低谷。\"Leo点头道：\"确认无误，可以上线了。\"我的报告涵盖资源惰性供给、背后的风险，以及等待的代价。最终的材料里有规格定期校准仪式，以及我们从中学到的东西。我们逐行对照需求检查了闲置资源收割机。我用一段简短的总结为预留容量策略文档的讨论收尾。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "lazy resource provisioning",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the cost review in design docs this quarter. We review the efficiency wins ledger against the requirements, line by line. I close the discussion on the spot capacity for batch jobs with a short summary. The final deck includes the budget alert escalation path and what we learned from it. Last rehearsal: Priya checks, \"Solar panels changed our peak curve.\" I commit word for word, \"Small leaks show on month three.\" and Priya smiles, \"Approved — bring it to the launch review.\" Nobody was surprised; everybody thanked us.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the cost review in design docs this quarter. We review the efficiency wins ledger against the requirements, line by line. I close the discussion on the spot capacity for batch jobs with a short summary. The final deck includes the budget alert escalation path and what we learned from it. Last rehearsal: Priya checks, \"Solar panels changed our peak curve.\" I commit word for word, \"Small leaks show on month three.\" and Priya smiles, \"Approved — bring it to the launch review.\" Nobody was surprised; everybody thanked us.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the cost review in design docs on the record so the reasoning stays visible. I propose a measurable target for the efficiency wins ledger this quarter. I present the spot capacity for batch jobs with a timeline, the data, and one clear ask. We align on the budget alert escalation path early, so execution never has to guess. Final dry run: Priya summarises, \"Solar panels changed our peak curve.\" I confirm, \"Small leaks show on month three.\" for the record, and Priya closes, \"Approved — bring it to the launch review.\" Nobody was surprised; everybody thanked us.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the cost review in design docs on the record so the reasoning stays visible. I propose a measurable target for the efficiency wins ledger this quarter. I present the spot capacity for batch jobs with a timeline, the data, and one clear ask. We align on the budget alert escalation path early, so execution never has to guess. Final dry run: Priya summarises, \"Solar panels changed our peak curve.\" I confirm, \"Small leaks show on month three.\" for the record, and Priya closes, \"Approved — bring it to the launch review.\" Nobody was surprised; everybody thanked us.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为设计文档里的成本评审提出了本季度一个可衡量的目标。我们逐行对照需求检查了效率战果台账。我用一段简短的总结为批任务的竞价容量的讨论收尾。最终的材料里有预算告警升级路径，以及我们从中学到的东西。最后一次彩排：Priya核对：\"光伏板改变了峰值曲线。\"我逐字承诺：\"小漏在水费第三个月现形。\"Priya笑道：\"通过——带到上线评审上。\"没有人感到意外；所有人都道了谢。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把设计文档里的成本评审记录在案，让推理过程保持可见。我为效率战果台账提出了本季度一个可衡量的目标。我用时间线、数据和一条明确的诉求来汇报批任务的竞价容量。我们尽早就预算告警升级路径对齐，让执行无需猜测。最终干跑：Priya总结：\"光伏板改变了峰值曲线。\"我郑重确认：\"小漏在水费第三个月现形。\"Priya收尾道：\"通过——带到上线评审上。\"没有人感到意外；所有人都道了谢。",
    "hard": [
     {
      "w": "spot capacity for batch jobs",

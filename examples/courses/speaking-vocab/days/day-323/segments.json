@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 311,
+   "word_count": 322,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We overload staging until it complains politely. I propose a measurable target for the open telemetry standards this quarter. We review the trace context propagation against the requirements, line by line. I close the discussion on the instrumentation review gate with a short summary. The final deck includes the trace completeness check and what we learned from it. Last rehearsal: Leo checks, \"The shared itinerary updates live.\" I commit word for word, \"Everyone follows the same thread.\" and Leo smiles, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "We overload staging until it complains politely. I propose a measurable target for the open telemetry standards this quarter. We review the trace context propagation against the requirements, line by line. I close the discussion on the instrumentation review gate with a short summary. The final deck includes the trace completeness check and what we learned from it. Last rehearsal: Leo checks, \"The shared itinerary updates live.\" I commit word for word, \"Everyone follows the same thread.\" and Leo smiles, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
+   "en": "We overload staging until it complains politely. My report covers the open telemetry standards, the risks behind it, and the cost of waiting. I put the trace context propagation on the record so the reasoning stays visible. I present the instrumentation review gate with a timeline, the data, and one clear ask. I propose a measurable target for the trace completeness check this quarter. Final dry run: Leo summarises, \"The shared itinerary updates live.\" I confirm, \"Everyone follows the same thread.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "We overload staging until it complains politely. My report covers the open telemetry standards, the risks behind it, and the cost of waiting. I put the trace context propagation on the record so the reasoning stays visible. I present the instrumentation review gate with a timeline, the data, and one clear ask. I propose a measurable target for the trace completeness check this quarter. Final dry run: Leo summarises, \"The shared itinerary updates live.\" I confirm, \"Everyone follows the same thread.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们把预发布压到礼貌地抱怨。我为OpenTelemetry 标准提出了本季度一个可衡量的目标。我们逐行对照需求检查了追踪上下文传播。我用一段简短的总结为埋点评审门的讨论收尾。最终的材料里有追踪完整性检查，以及我们从中学到的东西。最后一次彩排：Leo核对：\"共享行程实时更新。\"我逐字承诺：\"大家看同一个群。\"Leo笑道：\"确认无误，可以上线了。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "我们把预发布压到礼貌地抱怨。我的报告涵盖OpenTelemetry 标准、背后的风险，以及等待的代价。我把追踪上下文传播记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报埋点评审门。我为追踪完整性检查提出了本季度一个可衡量的目标。最终干跑：Leo总结：\"共享行程实时更新。\"我郑重确认：\"大家看同一个群。\"Leo收尾道：\"确认无误，可以上线了。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "open telemetry standards",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Load shedding sheds the right things; the demo still works degraded. Launch rehearsal: Leo asks, \"Delays annotated with reasons.\" I present, \"Photos tagged by stop.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" We review the semantic convention adoption against the requirements, line by line. I close the discussion on the span sampling strategy with a short summary. The final deck includes the metric naming registry and what we learned from it. I put the telemetry cost review on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Load shedding sheds the right things; the demo still works degraded. Launch rehearsal: Leo asks, \"Delays annotated with reasons.\" I present, \"Photos tagged by stop.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" We review the semantic convention adoption against the requirements, line by line. I close the discussion on the span sampling strategy with a short summary. The final deck includes the metric naming registry and what we learned from it. I put the telemetry cost review on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Load shedding sheds the right things; the demo still works degraded. Board practice: Leo probes, \"Delays annotated with reasons.\" I respond without a pause, \"Photos tagged by stop.\" and Leo nods, \"Confirmed. This is launch ready.\" The final deck includes the semantic convention adoption and what we learned from it. We align on the span sampling strategy early, so execution never has to guess. I close the discussion on the metric naming registry with a short summary. We review the telemetry cost review against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Load shedding sheds the right things; the demo still works degraded. Board practice: Leo probes, \"Delays annotated with reasons.\" I respond without a pause, \"Photos tagged by stop.\" and Leo nods, \"Confirmed. This is launch ready.\" The final deck includes the semantic convention adoption and what we learned from it. We align on the span sampling strategy early, so execution never has to guess. I close the discussion on the metric naming registry with a short summary. We review the telemetry cost review against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "限流丢掉了该丢的；演示以降级模式照常进行。上线彩排：Leo问：\"延误备注原因。\"我带着准备好的数字汇报：\"照片按站点打标。\"Leo签字道：\"确认无误，可以上线了。\"我们逐行对照需求检查了语义约定采纳。我用一段简短的总结为跨度采样策略的讨论收尾。最终的材料里有指标命名登记处，以及我们从中学到的东西。我把遥测成本评审记录在案，让推理过程保持可见。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "限流丢掉了该丢的；演示以降级模式照常进行。董事会练习：Leo追问：\"延误备注原因。\"我毫不迟疑地回应：\"照片按站点打标。\"Leo点头道：\"确认无误，可以上线了。\"最终的材料里有语义约定采纳，以及我们从中学到的东西。我们尽早就跨度采样策略对齐，让执行无需猜测。我用一段简短的总结为指标命名登记处的讨论收尾。我们逐行对照需求检查了遥测成本评审。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "semantic convention adoption",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the oncall runbook link check, the risks behind it, and the cost of waiting. I propose a measurable target for the observability onboarding path this quarter. We review the correlation id discipline against the requirements, line by line. I close the discussion on the observability contract for teams with a short summary. Board practice: Priya probes, \"Lost travelers ping the thread.\" I respond without a pause, \"One trip, one timeline.\" and Priya nods, \"Approved — bring it to the launch review.\" Guests notice fewer lights, not a dark house.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the oncall runbook link check, the risks behind it, and the cost of waiting. I propose a measurable target for the observability onboarding path this quarter. We review the correlation id discipline against the requirements, line by line. I close the discussion on the observability contract for teams with a short summary. Board practice: Priya probes, \"Lost travelers ping the thread.\" I respond without a pause, \"One trip, one timeline.\" and Priya nods, \"Approved — bring it to the launch review.\" Guests notice fewer lights, not a dark house.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the oncall runbook link check, the risks behind it, and the cost of waiting. I put the observability onboarding path on the record so the reasoning stays visible. I present the correlation id discipline with a timeline, the data, and one clear ask. I propose a measurable target for the observability contract for teams this quarter. Launch rehearsal: Priya asks, \"Lost travelers ping the thread.\" I present, \"One trip, one timeline.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" Guests notice fewer lights, not a dark house.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the oncall runbook link check, the risks behind it, and the cost of waiting. I put the observability onboarding path on the record so the reasoning stays visible. I present the correlation id discipline with a timeline, the data, and one clear ask. I propose a measurable target for the observability contract for teams this quarter. Launch rehearsal: Priya asks, \"Lost travelers ping the thread.\" I present, \"One trip, one timeline.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" Guests notice fewer lights, not a dark house.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖值班手册链接检查、背后的风险，以及等待的代价。我为可观测上手路径提出了本季度一个可衡量的目标。我们逐行对照需求检查了关联标识纪律。我用一段简短的总结为团队可观测契约的讨论收尾。董事会练习：Priya追问：\"走散的在群里喊。\"我毫不迟疑地回应：\"一次旅行一条时间线。\"Priya点头道：\"通过——带到上线评审上。\"客人只注意到灯少了些，而不是一片黑。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖值班手册链接检查、背后的风险，以及等待的代价。我把可观测上手路径记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报关联标识纪律。我为团队可观测契约提出了本季度一个可衡量的目标。上线彩排：Priya问：\"走散的在群里喊。\"我带着准备好的数字汇报：\"一次旅行一条时间线。\"Priya签字道：\"通过——带到上线评审上。\"客人只注意到灯少了些，而不是一片黑。",
    "hard": [
     {
      "w": "correlation id discipline",

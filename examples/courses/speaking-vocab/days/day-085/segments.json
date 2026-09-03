@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 276,
+   "word_count": 274,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Game day: we break staging on purpose. I spend ten quiet minutes on the cardinality after the standup. Sam asks me about the high cardinality trap, and I explain the basics. I keep one real example of the sprint length in my notebook. I add the focus friday to my study notes before I forget it. We drill it twice: Maria starts, \"I joined the 6 a.m. club.\" I reply, \"The streets belong to runners.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "Game day: we break staging on purpose. I spend ten quiet minutes on the cardinality after the standup. Sam asks me about the high cardinality trap, and I explain the basics. I keep one real example of the sprint length in my notebook. I add the focus friday to my study notes before I forget it. We drill it twice: Maria starts, \"I joined the 6 a.m. club.\" I reply, \"The streets belong to runners.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "Game day: we break staging on purpose. My notes about the cardinality look clearer this week. I spend ten quiet minutes on the high cardinality trap after the standup. I add the sprint length to my study notes before I forget it. Sam asks me about the focus friday, and I explain the basics. We practise the dialogue: Maria opens, \"I joined the 6 a.m. club.\" I answer, \"The streets belong to runners.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "Game day: we break staging on purpose. My notes about the cardinality look clearer this week. I spend ten quiet minutes on the high cardinality trap after the standup. I add the sprint length to my study notes before I forget it. Sam asks me about the focus friday, and I explain the basics. We practise the dialogue: Maria opens, \"I joined the 6 a.m. club.\" I answer, \"The streets belong to runners.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "演习日：我们故意搞坏预发布环境。站会之后，我安安静静花了十分钟在基数上。Sam 问起高基数陷阱，我讲了讲基础。我在笔记本里留了一个迭代时长的真实例子。我趁还没忘，把专注周五记进了学习笔记。我们练了两遍：Maria起头：\"我加入了六点俱乐部。\"我回答：\"清晨的街道属于跑者。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "演习日：我们故意搞坏预发布环境。这周我关于基数的笔记清楚多了。站会之后，我安安静静花了十分钟在高基数陷阱上。我趁还没忘，把迭代时长记进了学习笔记。Sam 问起专注周五，我讲了讲基础。我们练习这段对话：Maria开场：\"我加入了六点俱乐部。\"我回答：\"清晨的街道属于跑者。\"Maria点头说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "cardinality",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Killing a replica triggers a failover we have only read about. Role play with feedback: Maria says, \"Sunrise is a free show.\" I try, \"My pace is embarrassing and fine.\" and Maria adds, \"That is the one we need today.\" Sam asks me about the sampling rate, and I explain the basics. I keep one real example of the log sampling in my notebook. I add the meeting-free block to my study notes before I forget it. I go over the weekly demo one more time before lunch. The task moves forward, and so does my confidence.",
-   "tts": "Killing a replica triggers a failover we have only read about. Role play with feedback: Maria says, \"Sunrise is a free show.\" I try, \"My pace is embarrassing and fine.\" and Maria adds, \"That is the one we need today.\" Sam asks me about the sampling rate, and I explain the basics. I keep one real example of the log sampling in my notebook. I add the meeting-free block to my study notes before I forget it. I go over the weekly demo one more time before lunch. The task moves forward, and so does my confidence.",
+   "en": "Killing a replica triggers a failover we have only read about. We drill it twice: Maria starts, \"Sunrise is a free show.\" I reply, \"My pace is embarrassing and fine.\" then Maria smiles, \"That is the one we need today.\" I ask one good question about the sampling rate in the meeting. I keep one real example of the log sampling in my notebook. I go over the meeting-free block one more time before lunch. There is a short paragraph about the weekly demo in the guide. The task moves forward, and so does my confidence.",
+   "tts": "Killing a replica triggers a failover we have only read about. We drill it twice: Maria starts, \"Sunrise is a free show.\" I reply, \"My pace is embarrassing and fine.\" then Maria smiles, \"That is the one we need today.\" I ask one good question about the sampling rate in the meeting. I keep one real example of the log sampling in my notebook. I go over the meeting-free block one more time before lunch. There is a short paragraph about the weekly demo in the guide. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "杀掉一个副本，触发了我们只在文档里见过的故障转移。角色扮演加反馈：Maria说：\"日出是免费的演出。\"我试着说：\"配速丢人但没关系。\"Maria补充道：\"今天要的就是这句。\"Sam 问起采样率，我讲了讲基础。我在笔记本里留了一个日志采样的真实例子。我趁还没忘，把无会时段记进了学习笔记。午饭前我又过了一遍每周演示。任务在推进，我的信心也在成长。",
+   "zh": "杀掉一个副本，触发了我们只在文档里见过的故障转移。我们练了两遍：Maria起头：\"日出是免费的演出。\"我回答：\"配速丢人但没关系。\"然后Maria笑着说：\"今天要的就是这句。\"会上关于采样率，我问了一个好问题。我在笔记本里留了一个日志采样的真实例子。午饭前我又过了一遍无会时段。指南里有一小段关于每周演示的介绍。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "sampling rate",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the async standup look clearer this week. I spend ten quiet minutes on the energy check after the standup. Sam asks me about the metric aggregation, and I explain the basics. I keep one real example of the cost per query in my notebook. We practise the dialogue: Leo opens, \"Streaks build identity.\" I answer, \"Sleep still wins.\" and Leo nods, \"Nice, keep that one handy.\" Practiced panic becomes procedure.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the async standup look clearer this week. I spend ten quiet minutes on the energy check after the standup. Sam asks me about the metric aggregation, and I explain the basics. I keep one real example of the cost per query in my notebook. We practise the dialogue: Leo opens, \"Streaks build identity.\" I answer, \"Sleep still wins.\" and Leo nods, \"Nice, keep that one handy.\" Practiced panic becomes procedure.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the async standup look clearer this week. I spend ten quiet minutes on the energy check after the standup. I add the metric aggregation to my study notes before I forget it. Sam asks me about the cost per query, and I explain the basics. Role play with feedback: Leo says, \"Streaks build identity.\" I try, \"Sleep still wins.\" and Leo adds, \"Nice, keep that one handy.\" Practiced panic becomes procedure.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the async standup look clearer this week. I spend ten quiet minutes on the energy check after the standup. I add the metric aggregation to my study notes before I forget it. Sam asks me about the cost per query, and I explain the basics. Role play with feedback: Leo says, \"Streaks build identity.\" I try, \"Sleep still wins.\" and Leo adds, \"Nice, keep that one handy.\" Practiced panic becomes procedure.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于异步站会的笔记清楚多了。站会之后，我安安静静花了十分钟在状态打卡上。Sam 问起指标聚合，我讲了讲基础。我在笔记本里留了一个单次查询成本的真实例子。我们练习这段对话：Leo开场：\"连续打卡塑造身份。\"我回答：\"睡觉依然是王道。\"Leo点头说：\"不错，把这句记在手边。\"演练过的慌张会变成流程。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于异步站会的笔记清楚多了。站会之后，我安安静静花了十分钟在状态打卡上。我趁还没忘，把指标聚合记进了学习笔记。Sam 问起单次查询成本，我讲了讲基础。角色扮演加反馈：Leo说：\"连续打卡塑造身份。\"我试着说：\"睡觉依然是王道。\"Leo补充道：\"不错，把这句记在手边。\"演练过的慌张会变成流程。",
    "hard": [
     {
      "w": "metric aggregation",

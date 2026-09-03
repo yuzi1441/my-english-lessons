@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 292,
+   "word_count": 287,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We ship an interactive playground where anyone can try prompts safely. At the review, we spend ten minutes on the ai project kickoff template. In today's standup, I mention the data readiness checklist and what comes next. We agree to give the weekly digest drafting one more careful look this week. I connect the accomplishments mining from commits to the ticket so nothing gets lost. Pair run: Maria starts, \"The hundred percent rain that never fell.\" I follow, \"Radar versus crystal ball.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "We ship an interactive playground where anyone can try prompts safely. At the review, we spend ten minutes on the ai project kickoff template. In today's standup, I mention the data readiness checklist and what comes next. We agree to give the weekly digest drafting one more careful look this week. I connect the accomplishments mining from commits to the ticket so nothing gets lost. Pair run: Maria starts, \"The hundred percent rain that never fell.\" I follow, \"Radar versus crystal ball.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "We ship an interactive playground where anyone can try prompts safely. In today's standup, I mention the ai project kickoff template and what comes next. At the review, we spend ten minutes on the data readiness checklist. The guide now has a short section on the weekly digest drafting. Priya suggests a cleaner way to think about the accomplishments mining from commits. Drill without notes: Maria asks, \"The hundred percent rain that never fell.\" I answer, \"Radar versus crystal ball.\" and Maria closes, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "We ship an interactive playground where anyone can try prompts safely. In today's standup, I mention the ai project kickoff template and what comes next. At the review, we spend ten minutes on the data readiness checklist. The guide now has a short section on the weekly digest drafting. Priya suggests a cleaner way to think about the accomplishments mining from commits. Drill without notes: Maria asks, \"The hundred percent rain that never fell.\" I answer, \"Radar versus crystal ball.\" and Maria closes, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们上线了一个交互式试炼场，人人都能安全地试用提示词。评审时，我们花了十分钟在AI 项目启动模板上。今天的站会上，我提到数据就绪清单和接下来的安排。我们说好这周再把周报起草辅助仔细看一次。我把从提交挖成就关联到工单上，免得遗漏。结对演练：Maria起头：\"百分之百的雨没下。\"我跟上：\"雷达与水晶球。\"Maria回应：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我们上线了一个交互式试炼场，人人都能安全地试用提示词。今天的站会上，我提到AI 项目启动模板和接下来的安排。评审时，我们花了十分钟在数据就绪清单上。指南里现在有关于周报起草辅助的简短章节。Priya 提出了一个更清晰的从提交挖成就思考方式。脱稿演练：Maria问：\"百分之百的雨没下。\"我回答：\"雷达与水晶球。\"Maria收束：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "ai project kickoff template",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Sandbox data, no secrets, and a big friendly reset button. Meeting rehearsal: Maria opens, \"The honest nowcast.\" I respond, \"Umbrella index calibration.\" and Maria confirms, \"Exactly, and it saves time too.\" In today's standup, I mention the annotation effort estimate and what comes next. We agree to give the rule baseline first one more careful look this week. I connect the blocker highlight helper to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the next week plan suggestions. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Sandbox data, no secrets, and a big friendly reset button. Meeting rehearsal: Maria opens, \"The honest nowcast.\" I respond, \"Umbrella index calibration.\" and Maria confirms, \"Exactly, and it saves time too.\" In today's standup, I mention the annotation effort estimate and what comes next. We agree to give the rule baseline first one more careful look this week. I connect the blocker highlight helper to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the next week plan suggestions. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Sandbox data, no secrets, and a big friendly reset button. Pair run: Maria starts, \"The honest nowcast.\" I follow, \"Umbrella index calibration.\" and Maria replies, \"Exactly, and it saves time too.\" We agree to give the annotation effort estimate one more careful look this week. I connect the rule baseline first to the ticket so nothing gets lost. While the details are fresh, I write down the blocker highlight helper. I compare my notes about the next week plan suggestions with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Sandbox data, no secrets, and a big friendly reset button. Pair run: Maria starts, \"The honest nowcast.\" I follow, \"Umbrella index calibration.\" and Maria replies, \"Exactly, and it saves time too.\" We agree to give the annotation effort estimate one more careful look this week. I connect the rule baseline first to the ticket so nothing gets lost. While the details are fresh, I write down the blocker highlight helper. I compare my notes about the next week plan suggestions with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "沙箱数据、无机密，还有一个大大的友好重置按钮。会议彩排：Maria开场：\"诚实的临近预报。\"我回应：\"个人雨伞指数校准。\"Maria确认道：\"正是，而且还省时间。\"今天的站会上，我提到标注工作量估算和接下来的安排。我们说好这周再把规则基线优先仔细看一次。我把阻塞高亮助手关联到工单上，免得遗漏。Priya 提出了一个更清晰的下周计划建议思考方式。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "沙箱数据、无机密，还有一个大大的友好重置按钮。结对演练：Maria起头：\"诚实的临近预报。\"我跟上：\"个人雨伞指数校准。\"Maria回应：\"正是，而且还省时间。\"我们说好这周再把标注工作量估算仔细看一次。我把规则基线优先关联到工单上，免得遗漏。趁细节还新鲜，我把阻塞高亮助手写了下来。我把关于下周计划建议的笔记和 Priya 的对照了一下。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "annotation effort estimate",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the tone check for status with Priya's. At the review, we spend ten minutes on the skip level summary assist. In today's standup, I mention the pilot scope agreement and what comes next. We agree to give the ai sunset criteria one more careful look this week. Drill without notes: Leo asks, \"Microclimates, my balcony.\" I answer, \"Forecasts earn trust slowly.\" and Leo closes, \"Keep practising, it is working.\" Curiosity stopped being risky.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the tone check for status with Priya's. At the review, we spend ten minutes on the skip level summary assist. In today's standup, I mention the pilot scope agreement and what comes next. We agree to give the ai sunset criteria one more careful look this week. Drill without notes: Leo asks, \"Microclimates, my balcony.\" I answer, \"Forecasts earn trust slowly.\" and Leo closes, \"Keep practising, it is working.\" Curiosity stopped being risky.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the tone check for status and what comes next. At the review, we spend ten minutes on the skip level summary assist. The guide now has a short section on the pilot scope agreement. Priya suggests a cleaner way to think about the ai sunset criteria. Whiteboard practice: Leo offers, \"Microclimates, my balcony.\" I add, \"Forecasts earn trust slowly.\" then Leo sums up, \"Keep practising, it is working.\" Curiosity stopped being risky.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the tone check for status and what comes next. At the review, we spend ten minutes on the skip level summary assist. The guide now has a short section on the pilot scope agreement. Priya suggests a cleaner way to think about the ai sunset criteria. Whiteboard practice: Leo offers, \"Microclimates, my balcony.\" I add, \"Forecasts earn trust slowly.\" then Leo sums up, \"Keep practising, it is working.\" Curiosity stopped being risky.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于状态汇报语气检查的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在越级汇报摘要上。今天的站会上，我提到试点范围共识和接下来的安排。我们说好这周再把AI 功能退役标准仔细看一次。脱稿演练：Leo问：\"我家阳台的微气候。\"我回答：\"预报慢慢攒信任。\"Leo收束：\"继续练，有效果了。\"好奇心从此不再冒险。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到状态汇报语气检查和接下来的安排。评审时，我们花了十分钟在越级汇报摘要上。指南里现在有关于试点范围共识的简短章节。Priya 提出了一个更清晰的AI 功能退役标准思考方式。白板练习：Leo给出：\"我家阳台的微气候。\"我补充：\"预报慢慢攒信任。\"然后Leo总结：\"继续练，有效果了。\"好奇心从此不再冒险。",
    "hard": [
     {
      "w": "pilot scope agreement",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 286,
+   "word_count": 285,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Cold starts make night-time saves crawl. I spend ten quiet minutes on the data pipeline after the standup. Sam asks me about the batch job, and I explain the basics. I keep one real example of the quality gate in my notebook. I add the regression suite to my study notes before I forget it. We drill it twice: Leo starts, \"The trail map lies a little.\" I reply, \"Packed lunch tastes better outdoors.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "Cold starts make night-time saves crawl. I spend ten quiet minutes on the data pipeline after the standup. Sam asks me about the batch job, and I explain the basics. I keep one real example of the quality gate in my notebook. I add the regression suite to my study notes before I forget it. We drill it twice: Leo starts, \"The trail map lies a little.\" I reply, \"Packed lunch tastes better outdoors.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "Cold starts make night-time saves crawl. I add the data pipeline to my study notes before I forget it. I keep one real example of the batch job in my notebook. There is a short paragraph about the quality gate in the guide. I spend ten quiet minutes on the regression suite after the standup. Role play with feedback: Leo says, \"The trail map lies a little.\" I try, \"Packed lunch tastes better outdoors.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "Cold starts make night-time saves crawl. I add the data pipeline to my study notes before I forget it. I keep one real example of the batch job in my notebook. There is a short paragraph about the quality gate in the guide. I spend ten quiet minutes on the regression suite after the standup. Role play with feedback: Leo says, \"The trail map lies a little.\" I try, \"Packed lunch tastes better outdoors.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "冷启动让深夜的保存慢如爬行。站会之后，我安安静静花了十分钟在数据管道上。Sam 问起批处理任务，我讲了讲基础。我在笔记本里留了一个质量门禁的真实例子。我趁还没忘，把回归测试集记进了学习笔记。我们练了两遍：Leo起头：\"徒步地图有点不准。\"我回答：\"户外的便当格外香。\"然后Leo笑着说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "冷启动让深夜的保存慢如爬行。我趁还没忘，把数据管道记进了学习笔记。我在笔记本里留了一个批处理任务的真实例子。指南里有一小段关于质量门禁的介绍。站会之后，我安安静静花了十分钟在回归测试集上。角色扮演加反馈：Leo说：\"徒步地图有点不准。\"我试着说：\"户外的便当格外香。\"Leo补充道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "data pipeline",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A warm pool and a smaller image cut the wait to a blink. Role play with feedback: Leo says, \"Layers beat one big coat.\" I try, \"Broken-in boots save your feet.\" and Leo adds, \"Nice, keep that one handy.\" Sam asks me about the stream processing, and I explain the basics. I keep one real example of the etl job in my notebook. I add the coverage report to my study notes before I forget it. I go over the flaky quarantine one more time before lunch. I end the day with fewer unknowns than I started with.",
-   "tts": "A warm pool and a smaller image cut the wait to a blink. Role play with feedback: Leo says, \"Layers beat one big coat.\" I try, \"Broken-in boots save your feet.\" and Leo adds, \"Nice, keep that one handy.\" Sam asks me about the stream processing, and I explain the basics. I keep one real example of the etl job in my notebook. I add the coverage report to my study notes before I forget it. I go over the flaky quarantine one more time before lunch. I end the day with fewer unknowns than I started with.",
+   "en": "A warm pool and a smaller image cut the wait to a blink. We drill it twice: Leo starts, \"Layers beat one big coat.\" I reply, \"Broken-in boots save your feet.\" then Leo smiles, \"Nice, keep that one handy.\" My notes about the stream processing look clearer this week. I go over the etl job one more time before lunch. I ask one good question about the coverage report in the meeting. Sam asks me about the flaky quarantine, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "tts": "A warm pool and a smaller image cut the wait to a blink. We drill it twice: Leo starts, \"Layers beat one big coat.\" I reply, \"Broken-in boots save your feet.\" then Leo smiles, \"Nice, keep that one handy.\" My notes about the stream processing look clearer this week. I go over the etl job one more time before lunch. I ask one good question about the coverage report in the meeting. Sam asks me about the flaky quarantine, and I explain the basics. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "预热池加更小的镜像，把等待缩短到一眨眼。角色扮演加反馈：Leo说：\"多层比一件厚衣聪明。\"我试着说：\"磨合好的鞋保护双脚。\"Leo补充道：\"不错，把这句记在手边。\"Sam 问起流式处理，我讲了讲基础。我在笔记本里留了一个ETL 任务的真实例子。我趁还没忘，把覆盖率报告记进了学习笔记。午饭前我又过了一遍不稳定隔离。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "预热池加更小的镜像，把等待缩短到一眨眼。我们练了两遍：Leo起头：\"多层比一件厚衣聪明。\"我回答：\"磨合好的鞋保护双脚。\"然后Leo笑着说：\"不错，把这句记在手边。\"这周我关于流式处理的笔记清楚多了。午饭前我又过了一遍ETL 任务。会上关于覆盖率报告，我问了一个好问题。Sam 问起不稳定隔离，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "stream processing",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the bug bash look clearer this week. I spend ten quiet minutes on the triage rotation after the standup. Sam asks me about the schema registry, and I explain the basics. I keep one real example of the replayable log in my notebook. We practise the dialogue: Priya opens, \"Summit fog is a lottery.\" I answer, \"The descent is the real test.\" and Priya nods, \"Good — try it in today’s task.\" The fastest code is the code you never start.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the bug bash look clearer this week. I spend ten quiet minutes on the triage rotation after the standup. Sam asks me about the schema registry, and I explain the basics. I keep one real example of the replayable log in my notebook. We practise the dialogue: Priya opens, \"Summit fog is a lottery.\" I answer, \"The descent is the real test.\" and Priya nods, \"Good — try it in today’s task.\" The fastest code is the code you never start.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the bug bash to my study notes before I forget it. I keep one real example of the triage rotation in my notebook. There is a short paragraph about the schema registry in the guide. I spend ten quiet minutes on the replayable log after the standup. Warm-up round: Priya offers, \"Summit fog is a lottery.\" I answer, \"The descent is the real test.\" and Priya wraps up, \"Good — try it in today’s task.\" The fastest code is the code you never start.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the bug bash to my study notes before I forget it. I keep one real example of the triage rotation in my notebook. There is a short paragraph about the schema registry in the guide. I spend ten quiet minutes on the replayable log after the standup. Warm-up round: Priya offers, \"Summit fog is a lottery.\" I answer, \"The descent is the real test.\" and Priya wraps up, \"Good — try it in today’s task.\" The fastest code is the code you never start.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于缺陷大扫除的笔记清楚多了。站会之后，我安安静静花了十分钟在分诊轮换上。Sam 问起结构注册中心，我讲了讲基础。我在笔记本里留了一个可回放日志的真实例子。我们练习这段对话：Priya开场：\"山顶的雾看运气。\"我回答：\"下山才是真正的考验。\"Priya点头说：\"好——今天的任务里就用上。\"最快的代码，是你从未启动的代码。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把缺陷大扫除记进了学习笔记。我在笔记本里留了一个分诊轮换的真实例子。指南里有一小段关于结构注册中心的介绍。站会之后，我安安静静花了十分钟在可回放日志上。热身一轮：Priya给出：\"山顶的雾看运气。\"我回答：\"下山才是真正的考验。\"Priya收尾道：\"好——今天的任务里就用上。\"最快的代码，是你从未启动的代码。",
    "hard": [
     {
      "w": "schema registry",

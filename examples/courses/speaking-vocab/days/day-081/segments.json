@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 276,
+   "word_count": 277,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "By Thursday I ignore the third soft alert. I go over the divide and conquer one more time before lunch. There is a short paragraph about the minimal repro in the guide. I ask one good question about the steering council in the meeting. My notes about the rfc process look clearer this week. We drill it twice: Priya starts, \"Waiting teaches patience.\" I reply, \"I let the paint dry fully.\" then Priya smiles, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
-   "tts": "By Thursday I ignore the third soft alert. I go over the divide and conquer one more time before lunch. There is a short paragraph about the minimal repro in the guide. I ask one good question about the steering council in the meeting. My notes about the rfc process look clearer this week. We drill it twice: Priya starts, \"Waiting teaches patience.\" I reply, \"I let the paint dry fully.\" then Priya smiles, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "en": "By Thursday I ignore the third soft alert. I spend ten quiet minutes on the divide and conquer after the standup. There is a short paragraph about the minimal repro in the guide. I keep one real example of the steering council in my notebook. My notes about the rfc process look clearer this week. Role play with feedback: Priya says, \"Waiting teaches patience.\" I try, \"I let the paint dry fully.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "By Thursday I ignore the third soft alert. I spend ten quiet minutes on the divide and conquer after the standup. There is a short paragraph about the minimal repro in the guide. I keep one real example of the steering council in my notebook. My notes about the rfc process look clearer this week. Role play with feedback: Priya says, \"Waiting teaches patience.\" I try, \"I let the paint dry fully.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "到周四，我已经忽略了第三条软告警。午饭前我又过了一遍分治排查。指南里有一小段关于最小复现的介绍。会上关于指导委员会，我问了一个好问题。这周我关于RFC 流程的笔记清楚多了。我们练了两遍：Priya起头：\"等待教会人耐心。\"我回答：\"我等油漆完全干透。\"然后Priya笑着说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "到周四，我已经忽略了第三条软告警。站会之后，我安安静静花了十分钟在分治排查上。指南里有一小段关于最小复现的介绍。我在笔记本里留了一个指导委员会的真实例子。这周我关于RFC 流程的笔记清楚多了。角色扮演加反馈：Priya说：\"等待教会人耐心。\"我试着说：\"我等油漆完全干透。\"Priya补充道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "divide and conquer",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We tune thresholds so a page always means a person is needed. Role play with feedback: Priya says, \"Measure twice, cut once.\" I try, \"Slow is smooth.\" and Priya adds, \"Good — try it in today’s task.\" There is a short paragraph about the hypothesis tree in the guide. I ask one good question about the bisection in the meeting. My notes about the governance doc look clearer this week. I spend ten quiet minutes on the maintainer burnout after the standup. Small progress today prepares the bigger step tomorrow.",
-   "tts": "We tune thresholds so a page always means a person is needed. Role play with feedback: Priya says, \"Measure twice, cut once.\" I try, \"Slow is smooth.\" and Priya adds, \"Good — try it in today’s task.\" There is a short paragraph about the hypothesis tree in the guide. I ask one good question about the bisection in the meeting. My notes about the governance doc look clearer this week. I spend ten quiet minutes on the maintainer burnout after the standup. Small progress today prepares the bigger step tomorrow.",
+   "en": "We tune thresholds so a page always means a person is needed. We practise the dialogue: Priya opens, \"Measure twice, cut once.\" I answer, \"Slow is smooth.\" and Priya nods, \"Good — try it in today’s task.\" Sam asks me about the hypothesis tree, and I explain the basics. I add the bisection to my study notes before I forget it. I go over the governance doc one more time before lunch. I ask one good question about the maintainer burnout in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We tune thresholds so a page always means a person is needed. We practise the dialogue: Priya opens, \"Measure twice, cut once.\" I answer, \"Slow is smooth.\" and Priya nods, \"Good — try it in today’s task.\" Sam asks me about the hypothesis tree, and I explain the basics. I add the bisection to my study notes before I forget it. I go over the governance doc one more time before lunch. I ask one good question about the maintainer burnout in the meeting. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们调了阈值，让每次告警都意味着真的需要人。角色扮演加反馈：Priya说：\"量两次\"我试着说：\"慢就是稳。\"Priya补充道：\"好——今天的任务里就用上。\"指南里有一小段关于假设树的介绍。会上关于二分定位，我问了一个好问题。这周我关于治理文档的笔记清楚多了。站会之后，我安安静静花了十分钟在维护者倦怠上。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们调了阈值，让每次告警都意味着真的需要人。我们练习这段对话：Priya开场：\"量两次\"我回答：\"慢就是稳。\"Priya点头说：\"好——今天的任务里就用上。\"Sam 问起假设树，我讲了讲基础。我趁还没忘，把二分定位记进了学习笔记。午饭前我又过了一遍治理文档。会上关于维护者倦怠，我问了一个好问题。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "hypothesis tree",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the funding link to my study notes before I forget it. I go over the sustainability one more time before lunch. There is a short paragraph about the rubber duck debugging in the guide. I ask one good question about the first principles in the meeting. We practise the dialogue: Maria opens, \"Rushed work shows.\" I answer, \"Done calmly lasts longer.\" and Maria nods, \"That is the one we need today.\" An alert that cries wolf stops guarding anyone.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the funding link to my study notes before I forget it. I go over the sustainability one more time before lunch. There is a short paragraph about the rubber duck debugging in the guide. I ask one good question about the first principles in the meeting. We practise the dialogue: Maria opens, \"Rushed work shows.\" I answer, \"Done calmly lasts longer.\" and Maria nods, \"That is the one we need today.\" An alert that cries wolf stops guarding anyone.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the funding link after the standup. There is a short paragraph about the sustainability in the guide. I keep one real example of the rubber duck debugging in my notebook. My notes about the first principles look clearer this week. We drill it twice: Maria starts, \"Rushed work shows.\" I reply, \"Done calmly lasts longer.\" then Maria smiles, \"That is the one we need today.\" An alert that cries wolf stops guarding anyone.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the funding link after the standup. There is a short paragraph about the sustainability in the guide. I keep one real example of the rubber duck debugging in my notebook. My notes about the first principles look clearer this week. We drill it twice: Maria starts, \"Rushed work shows.\" I reply, \"Done calmly lasts longer.\" then Maria smiles, \"That is the one we need today.\" An alert that cries wolf stops guarding anyone.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把赞助链接记进了学习笔记。午饭前我又过了一遍可持续性。指南里有一小段关于小黄鸭调试的介绍。会上关于第一性原理，我问了一个好问题。我们练习这段对话：Maria开场：\"赶工的活藏不住。\"我回答：\"从容做的东西更耐用。\"Maria点头说：\"今天要的就是这句。\"总是喊狼来的告警，保护不了任何人。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在赞助链接上。指南里有一小段关于可持续性的介绍。我在笔记本里留了一个小黄鸭调试的真实例子。这周我关于第一性原理的笔记清楚多了。我们练了两遍：Maria起头：\"赶工的活藏不住。\"我回答：\"从容做的东西更耐用。\"然后Maria笑着说：\"今天要的就是这句。\"总是喊狼来的告警，保护不了任何人。",
    "hard": [
     {
      "w": "rubber duck debugging",

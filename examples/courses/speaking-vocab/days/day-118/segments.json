@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 284,
+   "word_count": 281,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The quality scorecard lands on one page. I compare my notes about the cross browser test with Priya's. At the review, we spend ten minutes on the backward compatibility test. In today's standup, I mention the upgrade dry run and what comes next. We agree to give the upgrade window one more careful look this week. Drill without notes: Maria asks, \"New keys, new rhythm.\" I answer, \"The light switch lives elsewhere.\" and Maria closes, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "The quality scorecard lands on one page. I compare my notes about the cross browser test with Priya's. At the review, we spend ten minutes on the backward compatibility test. In today's standup, I mention the upgrade dry run and what comes next. We agree to give the upgrade window one more careful look this week. Drill without notes: Maria asks, \"New keys, new rhythm.\" I answer, \"The light switch lives elsewhere.\" and Maria closes, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "The quality scorecard lands on one page. In today's standup, I mention the cross browser test and what comes next. Priya suggests a cleaner way to think about the backward compatibility test. While the details are fresh, I write down the upgrade dry run. The guide now has a short section on the upgrade window. Whiteboard practice: Maria offers, \"New keys, new rhythm.\" I add, \"The light switch lives elsewhere.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "The quality scorecard lands on one page. In today's standup, I mention the cross browser test and what comes next. Priya suggests a cleaner way to think about the backward compatibility test. While the details are fresh, I write down the upgrade dry run. The guide now has a short section on the upgrade window. Whiteboard practice: Maria offers, \"New keys, new rhythm.\" I add, \"The light switch lives elsewhere.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "质量记分卡落在了一张纸上。我把关于跨浏览器测试的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在向后兼容测试上。今天的站会上，我提到升级彩排和接下来的安排。我们说好这周再把升级窗口仔细看一次。脱稿演练：Maria问：\"新钥匙\"我回答：\"开关住在别处。\"Maria收束：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "质量记分卡落在了一张纸上。今天的站会上，我提到跨浏览器测试和接下来的安排。Priya 提出了一个更清晰的向后兼容测试思考方式。趁细节还新鲜，我把升级彩排写了下来。指南里现在有关于升级窗口的简短章节。白板练习：Maria给出：\"新钥匙\"我补充：\"开关住在别处。\"然后Maria总结：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "cross browser test",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Escaped defects trend down; reviewer fatigue trended up, so we rotated the load. Pair run: Maria starts, \"First morning in a new kitchen.\" I follow, \"Boxes become furniture.\" and Maria replies, \"Exactly, and it saves time too.\" At the review, we spend ten minutes on the api compatibility suite. In today's standup, I mention the data format migration test and what comes next. We agree to give the compatibility checker one more careful look this week. I connect the rollback instructions to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Escaped defects trend down; reviewer fatigue trended up, so we rotated the load. Pair run: Maria starts, \"First morning in a new kitchen.\" I follow, \"Boxes become furniture.\" and Maria replies, \"Exactly, and it saves time too.\" At the review, we spend ten minutes on the api compatibility suite. In today's standup, I mention the data format migration test and what comes next. We agree to give the compatibility checker one more careful look this week. I connect the rollback instructions to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Escaped defects trend down; reviewer fatigue trended up, so we rotated the load. Pair run: Maria starts, \"First morning in a new kitchen.\" I follow, \"Boxes become furniture.\" and Maria replies, \"Exactly, and it saves time too.\" I connect the api compatibility suite to the ticket so nothing gets lost. We agree to give the data format migration test one more careful look this week. I compare my notes about the compatibility checker with Priya's. At the review, we spend ten minutes on the rollback instructions. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Escaped defects trend down; reviewer fatigue trended up, so we rotated the load. Pair run: Maria starts, \"First morning in a new kitchen.\" I follow, \"Boxes become furniture.\" and Maria replies, \"Exactly, and it saves time too.\" I connect the api compatibility suite to the ticket so nothing gets lost. We agree to give the data format migration test one more careful look this week. I compare my notes about the compatibility checker with Priya's. At the review, we spend ten minutes on the rollback instructions. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "逃逸缺陷的趋势在降；评审疲劳在升，所以我们轮换了负荷。结对演练：Maria起头：\"新厨房的第一个早晨。\"我跟上：\"纸箱暂时当家具。\"Maria回应：\"正是，而且还省时间。\"评审时，我们花了十分钟在接口兼容套件上。今天的站会上，我提到数据格式迁移测试和接下来的安排。我们说好这周再把兼容性检查器仔细看一次。我把回退说明关联到工单上，免得遗漏。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "逃逸缺陷的趋势在降；评审疲劳在升，所以我们轮换了负荷。结对演练：Maria起头：\"新厨房的第一个早晨。\"我跟上：\"纸箱暂时当家具。\"Maria回应：\"正是，而且还省时间。\"我把接口兼容套件关联到工单上，免得遗漏。我们说好这周再把数据格式迁移测试仔细看一次。我把关于兼容性检查器的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在回退说明上。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "api compatibility suite",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the upgrade feedback thread. I compare my notes about the adopter badge with Priya's. At the review, we spend ten minutes on the deprecation test. In today's standup, I mention the multi device test and what comes next. Whiteboard practice: Leo offers, \"Neighbors say hi first.\" I add, \"Home assembles slowly.\" then Leo sums up, \"Keep practising, it is working.\" Numbers without stories are cold; we brought both.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the upgrade feedback thread. I compare my notes about the adopter badge with Priya's. At the review, we spend ten minutes on the deprecation test. In today's standup, I mention the multi device test and what comes next. Whiteboard practice: Leo offers, \"Neighbors say hi first.\" I add, \"Home assembles slowly.\" then Leo sums up, \"Keep practising, it is working.\" Numbers without stories are cold; we brought both.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the upgrade feedback thread and what comes next. Priya suggests a cleaner way to think about the adopter badge. While the details are fresh, I write down the deprecation test. The guide now has a short section on the multi device test. Meeting rehearsal: Leo opens, \"Neighbors say hi first.\" I respond, \"Home assembles slowly.\" and Leo confirms, \"Keep practising, it is working.\" Numbers without stories are cold; we brought both.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the upgrade feedback thread and what comes next. Priya suggests a cleaner way to think about the adopter badge. While the details are fresh, I write down the deprecation test. The guide now has a short section on the multi device test. Meeting rehearsal: Leo opens, \"Neighbors say hi first.\" I respond, \"Home assembles slowly.\" and Leo confirms, \"Keep practising, it is working.\" Numbers without stories are cold; we brought both.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于升级反馈帖的简短章节。我把关于尝鲜徽章的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在弃用测试上。今天的站会上，我提到多设备测试和接下来的安排。白板练习：Leo给出：\"邻居先打了招呼。\"我补充：\"家是慢慢拼起来的。\"然后Leo总结：\"继续练，有效果了。\"没有故事的数字是冷的；我们把两者都带来了。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到升级反馈帖和接下来的安排。Priya 提出了一个更清晰的尝鲜徽章思考方式。趁细节还新鲜，我把弃用测试写了下来。指南里现在有关于多设备测试的简短章节。会议彩排：Leo开场：\"邻居先打了招呼。\"我回应：\"家是慢慢拼起来的。\"Leo确认道：\"继续练，有效果了。\"没有故事的数字是冷的；我们把两者都带来了。",
    "hard": [
     {
      "w": "deprecation test",

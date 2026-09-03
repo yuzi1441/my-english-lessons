@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 260,
+   "word_count": 283,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "It is my last day of this month. I look back at the road. If the system architecture fails, we need a clear plan. I suggest that we check data flow first. The result depends on the project update, so I check it twice. I explain the completed work to a new teammate. I build a full answer around the pattern: This month I learned ... The pattern helps me sound clear and calm: The hardest part was ... I check my notes and confirm the next step.",
-   "tts": "It is my last day of this month. I look back at the road. If the system architecture fails, we need a clear plan. I suggest that we check data flow first. The result depends on the project update, so I check it twice. I explain the completed work to a new teammate. I build a full answer around the pattern: This month I learned  The pattern helps me sound clear and calm: The hardest part was  I check my notes and confirm the next step.",
+   "en": "It is my last day of this month. I look back at the road. I add the system architecture to my checklist for tomorrow. I double-check data flow before the review. After a short break, We spend a few minutes on the project update at the standup. I reread my notes about the completed work after lunch. I build a full answer around the pattern: This month I learned ... After that, I teach the pattern to a new teammate: The hardest part was ... I check my notes and confirm the next step.",
+   "tts": "It is my last day of this month. I look back at the road. I add the system architecture to my checklist for tomorrow. I double-check data flow before the review. After a short break, We spend a few minutes on the project update at the standup. I reread my notes about the completed work after lunch. I build a full answer around the pattern: This month I learned  After that, I teach the pattern to a new teammate: The hardest part was  I check my notes and confirm the next step.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "这是这个月的最后一天。我回望走过的路。如果系统架构失败，我们需要一个清晰的方案。我建议我们先检查数据流。结果取决于项目更新，所以我检查了两遍。我向一位新队友解释了已完成工作。我围绕这个句型组织了一个完整的回答：这个月我学会了……这个句型让我听起来清楚又从容：最难的部分是……我检查笔记，确认了下一步。",
+   "zh": "这是这个月的最后一天。我回望走过的路。我把系统架构加进了明天的清单。评审之前，我再核对一遍数据流。稍作休息后，站会上我们花了几分钟讨论项目更新。午饭后我重读了关于已完成工作的笔记。我围绕这个句型组织了一个完整的回答：这个月我学会了……在那之后，我把这个句型教给一位新队友：最难的部分是……我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "system architecture",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I say what I learned and what I will improve. I teach the pattern to a new teammate: I'm proud that ... I build a full answer around the pattern: I still need to improve ... I suggest that we check the interface first. The result depends on the component, so I check it twice. I explain the current blocker to a new teammate. We discuss the risk around the next action. The team agrees on the plan, and I record the decision.",
-   "tts": "I say what I learned and what I will improve. I teach the pattern to a new teammate: I'm proud that  I build a full answer around the pattern: I still need to improve  I suggest that we check the interface first. The result depends on the component, so I check it twice. I explain the current blocker to a new teammate. We discuss the risk around the next action. The team agrees on the plan, and I record the decision.",
+   "en": "I say what I learned and what I will improve. After that, The pattern helps me sound clear and calm: I'm proud that ... In my update, I use the pattern naturally: I still need to improve ... During the review, I ask one question about the interface. After a short break, I walk a new teammate through the component. I go through the current blocker with Priya and note her advice. I keep one real example of the next action in my notes. The team agrees on the plan, and I record the decision.",
+   "tts": "I say what I learned and what I will improve. After that, The pattern helps me sound clear and calm: I'm proud that  In my update, I use the pattern naturally: I still need to improve  During the review, I ask one question about the interface. After a short break, I walk a new teammate through the component. I go through the current blocker with Priya and note her advice. I keep one real example of the next action in my notes. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我说了自己学到的，还要改进的。我把这个句型教给一位新队友：我为……感到自豪。我围绕这个句型组织了一个完整的回答：我仍然需要改进……我建议我们先检查接口。结果取决于组件，所以我检查了两遍。我向一位新队友解释了当前阻碍。我们讨论了下一行动相关的风险。团队就计划达成一致，我记录了决定。",
+   "zh": "我说了自己学到的，还要改进的。在那之后，这个句型让我听起来清楚又从容：我为……感到自豪。在汇报里，我自然地用上了这个句型：我仍然需要改进……评审时，我就接口提了一个问题。稍作休息后，我带一位新队友过了一遍组件。我和 Priya 过了一遍当前阻碍，记下了她的建议。我在笔记里留了一个下一行动的真实例子。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "interface",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I explain the lessons learned to a new teammate. We discuss the risk around the follow-up issue. I document the dependency graph so the team can review it later. If the design boundary fails, we need a clear plan. I teach the pattern to a new teammate: Next month I will ... I build a full answer around the pattern: My next small step is ... The project update is clear. Next month, I am ready for more.",
-   "tts": "Before I leave, I write a short summary for the team. I explain the lessons learned to a new teammate. We discuss the risk around the follow-up issue. I document the dependency graph so the team can review it later. If the design boundary fails, we need a clear plan. I teach the pattern to a new teammate: Next month I will  I build a full answer around the pattern: My next small step is  The project update is clear. Next month, I am ready for more.",
+   "en": "Before I leave, I write a short summary for the team. I suggest that we check the lessons learned first. Before I reply, I look at the follow-up issue once more. After that, I add the dependency graph to my checklist for tomorrow. I double-check the design boundary before the review. I build a full answer around the pattern: Next month I will ... After a short break, I teach the pattern to a new teammate: My next small step is ... The project update is clear. Next month, I am ready for more.",
+   "tts": "Before I leave, I write a short summary for the team. I suggest that we check the lessons learned first. Before I reply, I look at the follow-up issue once more. After that, I add the dependency graph to my checklist for tomorrow. I double-check the design boundary before the review. I build a full answer around the pattern: Next month I will  After a short break, I teach the pattern to a new teammate: My next small step is  The project update is clear. Next month, I am ready for more.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我向一位新队友解释了经验总结。我们讨论了后续问题单相关的风险。我把依赖图写成文档，方便团队之后查看。如果设计边界失败，我们需要一个清晰的方案。我把这个句型教给一位新队友：下个月我会……我围绕这个句型组织了一个完整的回答：我的下一个小步骤是……项目更新很清楚。下个月，我准备好了更多。",
+   "zh": "离开前，我给团队写了一份简短的总结。我建议我们先检查经验总结。回复之前，我又看了一遍后续问题单。在那之后，我把依赖图加进了明天的清单。评审之前，我再核对一遍设计边界。我围绕这个句型组织了一个完整的回答：下个月我会……稍作休息后，我把这个句型教给一位新队友：我的下一个小步骤是……项目更新很清楚。下个月，我准备好了更多。",
    "hard": [
     {
      "w": "dependency graph",

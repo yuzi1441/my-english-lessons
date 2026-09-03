@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 293,
+   "word_count": 285,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Priya asks what we are quietly forgetting. In today's standup, I mention the personal ai usage audit and what comes next. We agree to give the amplified skills list one more careful look this week. I connect the team ai playbook v1 to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the fifty curated prompts. Meeting rehearsal: Leo opens, \"Day two hundred sunrise.\" I respond, \"The thinking partner era.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Priya asks what we are quietly forgetting. In today's standup, I mention the personal ai usage audit and what comes next. We agree to give the amplified skills list one more careful look this week. I connect the team ai playbook v1 to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the fifty curated prompts. Meeting rehearsal: Leo opens, \"Day two hundred sunrise.\" I respond, \"The thinking partner era.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Priya asks what we are quietly forgetting. The guide now has a short section on the personal ai usage audit. I compare my notes about the amplified skills list with Priya's. While the details are fresh, I write down the team ai playbook v1. In today's standup, I mention the fifty curated prompts and what comes next. Pair run: Leo starts, \"Day two hundred sunrise.\" I follow, \"The thinking partner era.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Priya asks what we are quietly forgetting. The guide now has a short section on the personal ai usage audit. I compare my notes about the amplified skills list with Priya's. While the details are fresh, I write down the team ai playbook v1. In today's standup, I mention the fifty curated prompts and what comes next. Pair run: Leo starts, \"Day two hundred sunrise.\" I follow, \"The thinking partner era.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Priya 问我们正在悄悄遗忘什么。今天的站会上，我提到个人 AI 使用审计和接下来的安排。我们说好这周再把被放大的技能仔细看一次。我把团队 AI 手册第一版关联到工单上，免得遗漏。Priya 提出了一个更清晰的五十条精选提示思考方式。会议彩排：Leo开场：\"第二百天的日出。\"我回应：\"思考搭档的时代。\"Leo确认道：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "Priya 问我们正在悄悄遗忘什么。指南里现在有关于个人 AI 使用审计的简短章节。我把关于被放大的技能的笔记和 Priya 的对照了一下。趁细节还新鲜，我把团队 AI 手册第一版写了下来。今天的站会上，我提到五十条精选提示和接下来的安排。结对演练：Leo起头：\"第二百天的日出。\"我跟上：\"思考搭档的时代。\"Leo回应：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "personal ai usage audit",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We list the skills we protect: regex, joins, stack traces. Whiteboard practice: Leo offers, \"Tools change, judgment stays.\" I add, \"My notebook still wins.\" then Leo sums up, \"Keep practising, it is working.\" We agree to give the protected skills list one more careful look this week. I connect the verified saves log to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the first internal ai talk. While the details are fresh, I write down the zero incidents quarter. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "We list the skills we protect: regex, joins, stack traces. Whiteboard practice: Leo offers, \"Tools change, judgment stays.\" I add, \"My notebook still wins.\" then Leo sums up, \"Keep practising, it is working.\" We agree to give the protected skills list one more careful look this week. I connect the verified saves log to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the first internal ai talk. While the details are fresh, I write down the zero incidents quarter. I close the ticket with a clear result and one lesson for next time.",
+   "en": "We list the skills we protect: regex, joins, stack traces. Drill without notes: Leo asks, \"Tools change, judgment stays.\" I answer, \"My notebook still wins.\" and Leo closes, \"Keep practising, it is working.\" At the review, we spend ten minutes on the protected skills list. Priya suggests a cleaner way to think about the verified saves log. We agree to give the first internal ai talk one more careful look this week. I connect the zero incidents quarter to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We list the skills we protect: regex, joins, stack traces. Drill without notes: Leo asks, \"Tools change, judgment stays.\" I answer, \"My notebook still wins.\" and Leo closes, \"Keep practising, it is working.\" At the review, we spend ten minutes on the protected skills list. Priya suggests a cleaner way to think about the verified saves log. We agree to give the first internal ai talk one more careful look this week. I connect the zero incidents quarter to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们列出要守护的技能：正则、连表、堆栈。白板练习：Leo给出：\"工具在变\"我补充：\"我的笔记本仍然第一。\"然后Leo总结：\"继续练，有效果了。\"我们说好这周再把要守护的技能仔细看一次。我把核实后省时记录关联到工单上，免得遗漏。Priya 提出了一个更清晰的首场内部 AI 分享思考方式。趁细节还新鲜，我把零事故季度写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我们列出要守护的技能：正则、连表、堆栈。脱稿演练：Leo问：\"工具在变\"我回答：\"我的笔记本仍然第一。\"Leo收束：\"继续练，有效果了。\"评审时，我们花了十分钟在要守护的技能上。Priya 提出了一个更清晰的核实后省时记录思考方式。我们说好这周再把首场内部 AI 分享仔细看一次。我把零事故季度关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "protected skills list",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the onboarding time halved. In today's standup, I mention the human network remains and what comes next. We agree to give the ai mistakes retrospective one more careful look this week. I connect the next quarter ai goals to the ticket so nothing gets lost. Pair run: Priya starts, \"Gratitude for slow mornings.\" I follow, \"Keep walking, thoughtfully.\" and Priya replies, \"Good point — use it in the standup.\" Occasionally code with the safety off.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the onboarding time halved. In today's standup, I mention the human network remains and what comes next. We agree to give the ai mistakes retrospective one more careful look this week. I connect the next quarter ai goals to the ticket so nothing gets lost. Pair run: Priya starts, \"Gratitude for slow mornings.\" I follow, \"Keep walking, thoughtfully.\" and Priya replies, \"Good point — use it in the standup.\" Occasionally code with the safety off.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the onboarding time halved. I compare my notes about the human network remains with Priya's. While the details are fresh, I write down the ai mistakes retrospective. In today's standup, I mention the next quarter ai goals and what comes next. Meeting rehearsal: Priya opens, \"Gratitude for slow mornings.\" I respond, \"Keep walking, thoughtfully.\" and Priya confirms, \"Good point — use it in the standup.\" Occasionally code with the safety off.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the onboarding time halved. I compare my notes about the human network remains with Priya's. While the details are fresh, I write down the ai mistakes retrospective. In today's standup, I mention the next quarter ai goals and what comes next. Meeting rehearsal: Priya opens, \"Gratitude for slow mornings.\" I respond, \"Keep walking, thoughtfully.\" and Priya confirms, \"Good point — use it in the standup.\" Occasionally code with the safety off.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在入职时间减半上。今天的站会上，我提到人联网仍在和接下来的安排。我们说好这周再把AI 失误回顾仔细看一次。我把下季 AI 目标关联到工单上，免得遗漏。结对演练：Priya起头：\"感谢不赶的清晨。\"我跟上：\"继续走\"Priya回应：\"说得好——站会上就用它。\"偶尔关掉辅助，徒手写写。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于入职时间减半的简短章节。我把关于人联网仍在的笔记和 Priya 的对照了一下。趁细节还新鲜，我把AI 失误回顾写了下来。今天的站会上，我提到下季 AI 目标和接下来的安排。会议彩排：Priya开场：\"感谢不赶的清晨。\"我回应：\"继续走\"Priya确认道：\"说得好——站会上就用它。\"偶尔关掉辅助，徒手写写。",
    "hard": [
     {
      "w": "ai mistakes retrospective",

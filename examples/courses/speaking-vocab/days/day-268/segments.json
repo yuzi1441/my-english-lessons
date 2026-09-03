@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 324,
+   "word_count": 318,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We celebrate a near miss instead of hiding it. The team names one clear owner for the tool overlap audit. I compare two views on the detection coverage map and write both down honestly. I add the tool roi review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the integration health check. Review warm-up: Maria raises, \"The right screwdriver beats five wrong ones.\" I answer, \"Tools we never use get donated.\" and Maria grades it, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "We celebrate a near miss instead of hiding it. The team names one clear owner for the tool overlap audit. I compare two views on the detection coverage map and write both down honestly. I add the tool roi review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the integration health check. Review warm-up: Maria raises, \"The right screwdriver beats five wrong ones.\" I answer, \"Tools we never use get donated.\" and Maria grades it, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "We celebrate a near miss instead of hiding it. I compare two views on the tool overlap audit and write both down honestly. During the design review, I raise one careful question about the detection coverage map. Before deciding, I reread my notes about the tool roi review twice. The team names one clear owner for the integration health check. Practice debate: Maria argues, \"The right screwdriver beats five wrong ones.\" I respond calmly, \"Tools we never use get donated.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We celebrate a near miss instead of hiding it. I compare two views on the tool overlap audit and write both down honestly. During the design review, I raise one careful question about the detection coverage map. Before deciding, I reread my notes about the tool roi review twice. The team names one clear owner for the integration health check. Practice debate: Maria argues, \"The right screwdriver beats five wrong ones.\" I respond calmly, \"Tools we never use get donated.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们庆祝一次虚惊，而不是掩盖它。团队为工具重叠审计指定了明确的负责人。我比较了关于检测覆盖地图的两种观点，诚实地都记了下来。我把工具投入产出评审连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了集成健康检查上。评审热身：Maria抛出：\"一把对的螺丝刀胜过五把错的。\"我带着数字回答：\"从不用的工具捐出去。\"Maria点评道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们庆祝一次虚惊，而不是掩盖它。我比较了关于工具重叠审计的两种观点，诚实地都记了下来。设计评审中，我就检测覆盖地图提出了一个审慎的问题。做决定之前，我把关于工具投入产出评审的笔记重读了两遍。团队为集成健康检查指定了明确的负责人。练习辩论：Maria主张：\"一把对的螺丝刀胜过五把错的。\"我平静地回应：\"从不用的工具捐出去。\"Maria承认道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "tool overlap audit",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The reporter gets ice cream; the report becomes training. Dry run: Maria opens, \"The ladder is checked before climbing.\" I follow, \"Quality tools age slowly.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I compare two views on the alert noise benchmark and write both down honestly. I add the tool integration surface to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the coverage gap backlog. During the design review, I raise one careful question about the tooling oncall guide. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "The reporter gets ice cream; the report becomes training. Dry run: Maria opens, \"The ladder is checked before climbing.\" I follow, \"Quality tools age slowly.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I compare two views on the alert noise benchmark and write both down honestly. I add the tool integration surface to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the coverage gap backlog. During the design review, I raise one careful question about the tooling oncall guide. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "The reporter gets ice cream; the report becomes training. Review warm-up: Maria raises, \"The ladder is checked before climbing.\" I answer, \"Quality tools age slowly.\" and Maria grades it, \"Agreed, note it in the ticket.\" I prepare a one-page brief about the alert noise benchmark so meetings start from facts. Our mentor walks me through how the tool integration surface evolved on this team. I add the coverage gap backlog to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the tooling oncall guide. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The reporter gets ice cream; the report becomes training. Review warm-up: Maria raises, \"The ladder is checked before climbing.\" I answer, \"Quality tools age slowly.\" and Maria grades it, \"Agreed, note it in the ticket.\" I prepare a one-page brief about the alert noise benchmark so meetings start from facts. Our mentor walks me through how the tool integration surface evolved on this team. I add the coverage gap backlog to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the tooling oncall guide. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "上报者得到冰淇淋；报告变成了教材。干跑演练：Maria开场：\"爬梯子前先检查。\"我接上：\"好工具老得慢。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"我比较了关于告警噪音基准的两种观点，诚实地都记了下来。我把工具集成面连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了覆盖缺口积压单上。设计评审中，我就工具值班指南提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "上报者得到冰淇淋；报告变成了教材。评审热身：Maria抛出：\"爬梯子前先检查。\"我带着数字回答：\"好工具老得慢。\"Maria点评道：\"同意，把这条记到工单里。\"我准备了一页关于告警噪音基准的简报，好让会议从事实出发。导师带我梳理了工具集成面在这个团队里的演变。我把覆盖缺口积压单连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了工具值班指南上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "alert noise benchmark",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the pilot before purchase so meetings start from facts. The team names one clear owner for the tool owner matrix. I compare two views on the license and data terms check and write both down honestly. I add the sunset criteria for security tools to the meeting agenda with three supporting facts. Mock review: Leo probes, \"Every tool has a shadow hook.\" I answer from memory, \"Borrowed tools come home fast.\" and Leo confirms, \"That is the level we need.\" Budget questions turned strategic.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the pilot before purchase so meetings start from facts. The team names one clear owner for the tool owner matrix. I compare two views on the license and data terms check and write both down honestly. I add the sunset criteria for security tools to the meeting agenda with three supporting facts. Mock review: Leo probes, \"Every tool has a shadow hook.\" I answer from memory, \"Borrowed tools come home fast.\" and Leo confirms, \"That is the level we need.\" Budget questions turned strategic.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the pilot before purchase and write both down honestly. During the design review, I raise one careful question about the tool owner matrix. Before deciding, I reread my notes about the license and data terms check twice. The team names one clear owner for the sunset criteria for security tools. Mock review: Leo probes, \"Every tool has a shadow hook.\" I answer from memory, \"Borrowed tools come home fast.\" and Leo confirms, \"That is the level we need.\" Budget questions turned strategic.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the pilot before purchase and write both down honestly. During the design review, I raise one careful question about the tool owner matrix. Before deciding, I reread my notes about the license and data terms check twice. The team names one clear owner for the sunset criteria for security tools. Mock review: Leo probes, \"Every tool has a shadow hook.\" I answer from memory, \"Borrowed tools come home fast.\" and Leo confirms, \"That is the level we need.\" Budget questions turned strategic.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于买前先试点的简报，好让会议从事实出发。团队为工具负责人矩阵指定了明确的负责人。我比较了关于许可与数据条款检查的两种观点，诚实地都记了下来。我把安全工具退役标准连同三条支撑事实加进了议程。模拟评审：Leo追问：\"每件工具都有影子钩。\"我凭记忆回答：\"借的工具快还。\"Leo确认：\"我们要的就是这个水平。\"预算问题变成了战略问题。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于买前先试点的两种观点，诚实地都记了下来。设计评审中，我就工具负责人矩阵提出了一个审慎的问题。做决定之前，我把关于许可与数据条款检查的笔记重读了两遍。团队为安全工具退役标准指定了明确的负责人。模拟评审：Leo追问：\"每件工具都有影子钩。\"我凭记忆回答：\"借的工具快还。\"Leo确认：\"我们要的就是这个水平。\"预算问题变成了战略问题。",
    "hard": [
     {
      "w": "license and data terms check",

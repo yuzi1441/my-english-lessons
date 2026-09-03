@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 280,
+   "word_count": 286,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A user writes in: drafts vanish when the battery saver wakes. There is a short paragraph about the synthetic monitoring in the guide. I ask one good question about the real user monitoring in the meeting. My notes about the release retro look clearer this week. I spend ten quiet minutes on the feedback triage hour after the standup. Role play with feedback: Maria says, \"Wool needs a gentle cycle.\" I try, \"Mend before you toss.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "A user writes in: drafts vanish when the battery saver wakes. There is a short paragraph about the synthetic monitoring in the guide. I ask one good question about the real user monitoring in the meeting. My notes about the release retro look clearer this week. I spend ten quiet minutes on the feedback triage hour after the standup. Role play with feedback: Maria says, \"Wool needs a gentle cycle.\" I try, \"Mend before you toss.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "A user writes in: drafts vanish when the battery saver wakes. I keep one real example of the synthetic monitoring in my notebook. I spend ten quiet minutes on the real user monitoring after the standup. Sam asks me about the release retro, and I explain the basics. I ask one good question about the feedback triage hour in the meeting. We drill it twice: Maria starts, \"Wool needs a gentle cycle.\" I reply, \"Mend before you toss.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "A user writes in: drafts vanish when the battery saver wakes. I keep one real example of the synthetic monitoring in my notebook. I spend ten quiet minutes on the real user monitoring after the standup. Sam asks me about the release retro, and I explain the basics. I ask one good question about the feedback triage hour in the meeting. We drill it twice: Maria starts, \"Wool needs a gentle cycle.\" I reply, \"Mend before you toss.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位用户来信：省电模式一醒，草稿就消失。指南里有一小段关于拨测监控的介绍。会上关于真实用户监控，我问了一个好问题。这周我关于发布复盘的笔记清楚多了。站会之后，我安安静静花了十分钟在反馈分诊时间上。角色扮演加反馈：Maria说：\"羊毛要用轻柔档。\"我试着说：\"先缝补再丢弃。\"Maria补充道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "一位用户来信：省电模式一醒，草稿就消失。我在笔记本里留了一个拨测监控的真实例子。站会之后，我安安静静花了十分钟在真实用户监控上。Sam 问起发布复盘，我讲了讲基础。会上关于反馈分诊时间，我问了一个好问题。我们练了两遍：Maria起头：\"羊毛要用轻柔档。\"我回答：\"先缝补再丢弃。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "synthetic monitoring",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "It escaped every net we had; escape analysis finds the gap, not the guilty. Warm-up round: Maria offers, \"A lint roller saves suits.\" I answer, \"Air dry, longer life.\" and Maria wraps up, \"That is the one we need today.\" I ask one good question about the error spike alert in the meeting. My notes about the feature heartbeat look clearer this week. I spend ten quiet minutes on the hotfix window after the standup. Sam asks me about the known issues list, and I explain the basics. The task moves forward, and so does my confidence.",
-   "tts": "It escaped every net we had; escape analysis finds the gap, not the guilty. Warm-up round: Maria offers, \"A lint roller saves suits.\" I answer, \"Air dry, longer life.\" and Maria wraps up, \"That is the one we need today.\" I ask one good question about the error spike alert in the meeting. My notes about the feature heartbeat look clearer this week. I spend ten quiet minutes on the hotfix window after the standup. Sam asks me about the known issues list, and I explain the basics. The task moves forward, and so does my confidence.",
+   "en": "It escaped every net we had; escape analysis finds the gap, not the guilty. Role play with feedback: Maria says, \"A lint roller saves suits.\" I try, \"Air dry, longer life.\" and Maria adds, \"That is the one we need today.\" My notes about the error spike alert look clearer this week. I go over the feature heartbeat one more time before lunch. There is a short paragraph about the hotfix window in the guide. I add the known issues list to my study notes before I forget it. The task moves forward, and so does my confidence.",
+   "tts": "It escaped every net we had; escape analysis finds the gap, not the guilty. Role play with feedback: Maria says, \"A lint roller saves suits.\" I try, \"Air dry, longer life.\" and Maria adds, \"That is the one we need today.\" My notes about the error spike alert look clearer this week. I go over the feature heartbeat one more time before lunch. There is a short paragraph about the hotfix window in the guide. I add the known issues list to my study notes before I forget it. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "它逃过了我们所有的网；逃逸分析找到的是缺口，而不是罪人。热身一轮：Maria给出：\"粘毛器拯救西装。\"我回答：\"晾干\"Maria收尾道：\"今天要的就是这句。\"会上关于错误激增告警，我问了一个好问题。这周我关于功能心跳的笔记清楚多了。站会之后，我安安静静花了十分钟在紧急修复窗口上。Sam 问起已知问题列表，我讲了讲基础。任务在推进，我的信心也在成长。",
+   "zh": "它逃过了我们所有的网；逃逸分析找到的是缺口，而不是罪人。角色扮演加反馈：Maria说：\"粘毛器拯救西装。\"我试着说：\"晾干\"Maria补充道：\"今天要的就是这句。\"这周我关于错误激增告警的笔记清楚多了。午饭前我又过了一遍功能心跳。指南里有一小段关于紧急修复窗口的介绍。我趁还没忘，把已知问题列表记进了学习笔记。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "error spike alert",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the first 48 hours one more time before lunch. Maria watches while I close the milestone. I ask one good question about the canary user group in the meeting. My notes about the post deploy smoke look clearer this week. We drill it twice: Leo starts, \"Iron the night before.\" I reply, \"Care extends clothes' lives.\" then Leo smiles, \"Nice, keep that one handy.\" The bug found the one place without a guardrail.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the first 48 hours one more time before lunch. Maria watches while I close the milestone. I ask one good question about the canary user group in the meeting. My notes about the post deploy smoke look clearer this week. We drill it twice: Leo starts, \"Iron the night before.\" I reply, \"Care extends clothes' lives.\" then Leo smiles, \"Nice, keep that one handy.\" The bug found the one place without a guardrail.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the first 48 hours in my notebook. Maria watches while I close the milestone. I spend ten quiet minutes on the canary user group after the standup. Sam asks me about the post deploy smoke, and I explain the basics. We practise the dialogue: Leo opens, \"Iron the night before.\" I answer, \"Care extends clothes' lives.\" and Leo nods, \"Nice, keep that one handy.\" The bug found the one place without a guardrail.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the first 48 hours in my notebook. Maria watches while I close the milestone. I spend ten quiet minutes on the canary user group after the standup. Sam asks me about the post deploy smoke, and I explain the basics. We practise the dialogue: Leo opens, \"Iron the night before.\" I answer, \"Care extends clothes' lives.\" and Leo nods, \"Nice, keep that one handy.\" The bug found the one place without a guardrail.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍头四十八小时。Maria 看着我关闭里程碑。会上关于金丝雀用户组，我问了一个好问题。这周我关于部署后冒烟的笔记清楚多了。我们练了两遍：Leo起头：\"前一晚熨好。\"我回答：\"保养延长衣服寿命。\"然后Leo笑着说：\"不错，把这句记在手边。\"这个缺陷找到了唯一没有护栏的地方。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个头四十八小时的真实例子。Maria 看着我关闭里程碑。站会之后，我安安静静花了十分钟在金丝雀用户组上。Sam 问起部署后冒烟，我讲了讲基础。我们练习这段对话：Leo开场：\"前一晚熨好。\"我回答：\"保养延长衣服寿命。\"Leo点头说：\"不错，把这句记在手边。\"这个缺陷找到了唯一没有护栏的地方。",
    "hard": [
     {
      "w": "canary user group",

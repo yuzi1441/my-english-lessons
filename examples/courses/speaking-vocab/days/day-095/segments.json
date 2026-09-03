@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "An empty draft, a draft the size of a novel, a draft in emoji only. I keep one real example of the static analysis in my notebook. I add the type checker to my study notes before I forget it. I reproduce first while the office is still quiet. Maria watches while I confirm the fix. Warm-up round: Leo offers, \"Chores are a team sport.\" I answer, \"I cook, you clean.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "An empty draft, a draft the size of a novel, a draft in emoji only. I keep one real example of the static analysis in my notebook. I add the type checker to my study notes before I forget it. I reproduce first while the office is still quiet. Maria watches while I confirm the fix. Warm-up round: Leo offers, \"Chores are a team sport.\" I answer, \"I cook, you clean.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "An empty draft, a draft the size of a novel, a draft in emoji only. I keep one real example of the static analysis in my notebook. I go over the type checker one more time before lunch. Maria watches while I reproduce first. I confirm the fix while the office is still quiet. We drill it twice: Leo starts, \"Chores are a team sport.\" I reply, \"I cook, you clean.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "An empty draft, a draft the size of a novel, a draft in emoji only. I keep one real example of the static analysis in my notebook. I go over the type checker one more time before lunch. Maria watches while I reproduce first. I confirm the fix while the office is still quiet. We drill it twice: Leo starts, \"Chores are a team sport.\" I reply, \"I cook, you clean.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "空草稿、小说长度的草稿、全是表情符号的草稿。我在笔记本里留了一个静态分析的真实例子。我趁还没忘，把类型检查器记进了学习笔记。趁办公室还安静，我先复现。Maria 看着我确认修复。热身一轮：Leo给出：\"家务是团队运动。\"我回答：\"我做饭\"Leo收尾道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "空草稿、小说长度的草稿、全是表情符号的草稿。我在笔记本里留了一个静态分析的真实例子。午饭前我又过了一遍类型检查器。Maria 看着我先复现。趁办公室还安静，我确认修复。我们练了两遍：Leo起头：\"家务是团队运动。\"我回答：\"我做饭\"然后Leo笑着说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "static analysis",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Each edge case gets a small test with a name that tells the story. We practise the dialogue: Leo opens, \"The list on the fridge.\" I answer, \"Fair doesn't mean equal.\" and Leo nods, \"Nice, keep that one handy.\" I add the linter config to my study notes before I forget it. I go over the autofix one more time before lunch. There is a short paragraph about the regression test in the guide. I link the fix commit twice, just to be sure. I end the day with fewer unknowns than I started with.",
-   "tts": "Each edge case gets a small test with a name that tells the story. We practise the dialogue: Leo opens, \"The list on the fridge.\" I answer, \"Fair doesn't mean equal.\" and Leo nods, \"Nice, keep that one handy.\" I add the linter config to my study notes before I forget it. I go over the autofix one more time before lunch. There is a short paragraph about the regression test in the guide. I link the fix commit twice, just to be sure. I end the day with fewer unknowns than I started with.",
+   "en": "Each edge case gets a small test with a name that tells the story. We practise the dialogue: Leo opens, \"The list on the fridge.\" I answer, \"Fair doesn't mean equal.\" and Leo nods, \"Nice, keep that one handy.\" I add the linter config to my study notes before I forget it. I ask one good question about the autofix in the meeting. I spend ten quiet minutes on the regression test after the standup. I link the fix commit, then I take a short break. I end the day with fewer unknowns than I started with.",
+   "tts": "Each edge case gets a small test with a name that tells the story. We practise the dialogue: Leo opens, \"The list on the fridge.\" I answer, \"Fair doesn't mean equal.\" and Leo nods, \"Nice, keep that one handy.\" I add the linter config to my study notes before I forget it. I ask one good question about the autofix in the meeting. I spend ten quiet minutes on the regression test after the standup. I link the fix commit, then I take a short break. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每个边界情况都有一个名字会说故事的小测试。我们练习这段对话：Leo开场：\"冰箱上的清单。\"我回答：\"公平不等于均等。\"Leo点头说：\"不错，把这句记在手边。\"我趁还没忘，把检查器配置记进了学习笔记。午饭前我又过了一遍自动修复。指南里有一小段关于回归测试的介绍。我关联修复提交了两遍，只为确定。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "每个边界情况都有一个名字会说故事的小测试。我们练习这段对话：Leo开场：\"冰箱上的清单。\"我回答：\"公平不等于均等。\"Leo点头说：\"不错，把这句记在手边。\"我趁还没忘，把检查器配置记进了学习笔记。会上关于自动修复，我问了一个好问题。站会之后，我安安静静花了十分钟在回归测试上。我关联修复提交，然后休息了一下。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "linter config",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Priya and I verify on staging together after lunch. I close with dignity the way the guide suggests. I add the ignore directive to my study notes before I forget it. I go over the baseline file one more time before lunch. Role play with feedback: Priya says, \"Trade chores you hate.\" I try, \"Appreciation is free.\" and Priya adds, \"Good — try it in today’s task.\" The weird ones are the ones that break at midnight.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Priya and I verify on staging together after lunch. I close with dignity the way the guide suggests. I add the ignore directive to my study notes before I forget it. I go over the baseline file one more time before lunch. Role play with feedback: Priya says, \"Trade chores you hate.\" I try, \"Appreciation is free.\" and Priya adds, \"Good — try it in today’s task.\" The weird ones are the ones that break at midnight.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. This morning, I verify on staging before the first call. Priya and I close with dignity together after lunch. My notes about the ignore directive look clearer this week. Sam asks me about the baseline file, and I explain the basics. Role play with feedback: Priya says, \"Trade chores you hate.\" I try, \"Appreciation is free.\" and Priya adds, \"Good — try it in today’s task.\" The weird ones are the ones that break at midnight.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. This morning, I verify on staging before the first call. Priya and I close with dignity together after lunch. My notes about the ignore directive look clearer this week. Sam asks me about the baseline file, and I explain the basics. Role play with feedback: Priya says, \"Trade chores you hate.\" I try, \"Appreciation is free.\" and Priya adds, \"Good — try it in today’s task.\" The weird ones are the ones that break at midnight.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭之后，Priya 和我一起在预发布验证。我按照指南建议的方式体面地关闭。我趁还没忘，把忽略指令记进了学习笔记。午饭前我又过了一遍基线文件。角色扮演加反馈：Priya说：\"换掉你最讨厌的活。\"我试着说：\"感谢不花钱。\"Priya补充道：\"好——今天的任务里就用上。\"那些奇怪的例子，正是半夜会炸的例子。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。今天早上，第一次通话之前我先在预发布验证。午饭之后，Priya 和我一起体面地关闭。这周我关于忽略指令的笔记清楚多了。Sam 问起基线文件，我讲了讲基础。角色扮演加反馈：Priya说：\"换掉你最讨厌的活。\"我试着说：\"感谢不花钱。\"Priya补充道：\"好——今天的任务里就用上。\"那些奇怪的例子，正是半夜会炸的例子。",
    "hard": [
     {
      "w": "ignore directive",

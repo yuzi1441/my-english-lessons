@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 287,
+   "word_count": 286,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The first support ticket arrives before lunch. I spend ten quiet minutes on the render budget after the standup. Sam asks me about the payload budget, and I explain the basics. I keep one real example of the docs pr in my notebook. I add the style pass to my study notes before I forget it. We drill it twice: Priya starts, \"I watch shows without subtitles.\" I reply, \"I think in English sometimes.\" then Priya smiles, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
-   "tts": "The first support ticket arrives before lunch. I spend ten quiet minutes on the render budget after the standup. Sam asks me about the payload budget, and I explain the basics. I keep one real example of the docs pr in my notebook. I add the style pass to my study notes before I forget it. We drill it twice: Priya starts, \"I watch shows without subtitles.\" I reply, \"I think in English sometimes.\" then Priya smiles, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "en": "The first support ticket arrives before lunch. I ask one good question about the render budget in the meeting. I go over the payload budget one more time before lunch. I spend ten quiet minutes on the docs pr after the standup. There is a short paragraph about the style pass in the guide. Role play with feedback: Priya says, \"I watch shows without subtitles.\" I try, \"I think in English sometimes.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "The first support ticket arrives before lunch. I ask one good question about the render budget in the meeting. I go over the payload budget one more time before lunch. I spend ten quiet minutes on the docs pr after the standup. There is a short paragraph about the style pass in the guide. Role play with feedback: Priya says, \"I watch shows without subtitles.\" I try, \"I think in English sometimes.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "午饭前，第一张支持工单来了。站会之后，我安安静静花了十分钟在渲染预算上。Sam 问起负载预算，我讲了讲基础。我在笔记本里留了一个文档 PR的真实例子。我趁还没忘，把文风润色记进了学习笔记。我们练了两遍：Priya起头：\"我看剧不开字幕了。\"我回答：\"我有时用英语思考。\"然后Priya笑着说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "午饭前，第一张支持工单来了。会上关于渲染预算，我问了一个好问题。午饭前我又过了一遍负载预算。站会之后，我安安静静花了十分钟在文档 PR上。指南里有一小段关于文风润色的介绍。角色扮演加反馈：Priya说：\"我看剧不开字幕了。\"我试着说：\"我有时用英语思考。\"Priya补充道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "render budget",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A user lost a draft on an old phone; I reproduce it in ten minutes. Role play with feedback: Priya says, \"Mistakes are proof of trying.\" I try, \"I talk to myself in English.\" and Priya adds, \"Good — try it in today’s task.\" Sam asks me about the memory ceiling, and I explain the basics. I keep one real example of the jank in my notebook. I add the glossary to my study notes before I forget it. I go over the diagram as code one more time before lunch. Small progress today prepares the bigger step tomorrow.",
-   "tts": "A user lost a draft on an old phone; I reproduce it in ten minutes. Role play with feedback: Priya says, \"Mistakes are proof of trying.\" I try, \"I talk to myself in English.\" and Priya adds, \"Good — try it in today’s task.\" Sam asks me about the memory ceiling, and I explain the basics. I keep one real example of the jank in my notebook. I add the glossary to my study notes before I forget it. I go over the diagram as code one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "en": "A user lost a draft on an old phone; I reproduce it in ten minutes. We drill it twice: Priya starts, \"Mistakes are proof of trying.\" I reply, \"I talk to myself in English.\" then Priya smiles, \"Good — try it in today’s task.\" I add the memory ceiling to my study notes before I forget it. I keep one real example of the jank in my notebook. My notes about the glossary look clearer this week. Sam asks me about the diagram as code, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "tts": "A user lost a draft on an old phone; I reproduce it in ten minutes. We drill it twice: Priya starts, \"Mistakes are proof of trying.\" I reply, \"I talk to myself in English.\" then Priya smiles, \"Good — try it in today’s task.\" I add the memory ceiling to my study notes before I forget it. I keep one real example of the jank in my notebook. My notes about the glossary look clearer this week. Sam asks me about the diagram as code, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一位用户在旧手机上丢了草稿；我十分钟就复现了。角色扮演加反馈：Priya说：\"犯错是尝试的证据。\"我试着说：\"我用英语自言自语。\"Priya补充道：\"好——今天的任务里就用上。\"Sam 问起内存上限，我讲了讲基础。我在笔记本里留了一个卡顿的真实例子。我趁还没忘，把术语表记进了学习笔记。午饭前我又过了一遍图表即代码。今天的小进步为明天更大的跨越做准备。",
+   "zh": "一位用户在旧手机上丢了草稿；我十分钟就复现了。我们练了两遍：Priya起头：\"犯错是尝试的证据。\"我回答：\"我用英语自言自语。\"然后Priya笑着说：\"好——今天的任务里就用上。\"我趁还没忘，把内存上限记进了学习笔记。我在笔记本里留了一个卡顿的真实例子。这周我关于术语表的笔记清楚多了。Sam 问起图表即代码，我讲了讲基础。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "memory ceiling",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the doc owner look clearer this week. I spend ten quiet minutes on the stale docs report after the standup. Sam asks me about the main thread, and I explain the basics. I offload work the way the guide suggests. We practise the dialogue: Maria opens, \"My accent is my fingerprint.\" I answer, \"Fluency is a journey.\" and Maria nods, \"That is the one we need today.\" I fix it quietly and thank the reporter by name.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the doc owner look clearer this week. I spend ten quiet minutes on the stale docs report after the standup. Sam asks me about the main thread, and I explain the basics. I offload work the way the guide suggests. We practise the dialogue: Maria opens, \"My accent is my fingerprint.\" I answer, \"Fluency is a journey.\" and Maria nods, \"That is the one we need today.\" I fix it quietly and thank the reporter by name.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the doc owner in the meeting. I go over the stale docs report one more time before lunch. I spend ten quiet minutes on the main thread after the standup. I offload work while the office is still quiet. We practise the dialogue: Maria opens, \"My accent is my fingerprint.\" I answer, \"Fluency is a journey.\" and Maria nods, \"That is the one we need today.\" I fix it quietly and thank the reporter by name.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the doc owner in the meeting. I go over the stale docs report one more time before lunch. I spend ten quiet minutes on the main thread after the standup. I offload work while the office is still quiet. We practise the dialogue: Maria opens, \"My accent is my fingerprint.\" I answer, \"Fluency is a journey.\" and Maria nods, \"That is the one we need today.\" I fix it quietly and thank the reporter by name.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于文档负责人的笔记清楚多了。站会之后，我安安静静花了十分钟在过期文档报告上。Sam 问起主线程，我讲了讲基础。我按照指南建议的方式卸载工作。我们练习这段对话：Maria开场：\"口音是我的指纹。\"我回答：\"流利是一场旅程。\"Maria点头说：\"今天要的就是这句。\"我悄悄修好了，并郑重感谢了报告者。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于文档负责人，我问了一个好问题。午饭前我又过了一遍过期文档报告。站会之后，我安安静静花了十分钟在主线程上。趁办公室还安静，我卸载工作。我们练习这段对话：Maria开场：\"口音是我的指纹。\"我回答：\"流利是一场旅程。\"Maria点头说：\"今天要的就是这句。\"我悄悄修好了，并郑重感谢了报告者。",
    "hard": [
     {
      "w": "main thread",

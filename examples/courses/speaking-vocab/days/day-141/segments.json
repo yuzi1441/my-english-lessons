@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 286,
+   "word_count": 289,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "One Friday, everyone writes docs instead of code. The guide now has a short section on the module boundaries. I compare my notes about the feature folder structure with Priya's. At the review, we spend ten minutes on the rename without edits. In today's standup, I mention the move separately and what comes next. Whiteboard practice: Priya offers, \"Vertical folding wins.\" I add, \"Clear bins beat opaque ones.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "One Friday, everyone writes docs instead of code. The guide now has a short section on the module boundaries. I compare my notes about the feature folder structure with Priya's. At the review, we spend ten minutes on the rename without edits. In today's standup, I mention the move separately and what comes next. Whiteboard practice: Priya offers, \"Vertical folding wins.\" I add, \"Clear bins beat opaque ones.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "One Friday, everyone writes docs instead of code. We agree to give the module boundaries one more careful look this week. At the review, we spend ten minutes on the feature folder structure. Priya suggests a cleaner way to think about the rename without edits. While the details are fresh, I write down the move separately. Pair run: Priya starts, \"Vertical folding wins.\" I follow, \"Clear bins beat opaque ones.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "One Friday, everyone writes docs instead of code. We agree to give the module boundaries one more careful look this week. At the review, we spend ten minutes on the feature folder structure. Priya suggests a cleaner way to think about the rename without edits. While the details are fresh, I write down the move separately. Pair run: Priya starts, \"Vertical folding wins.\" I follow, \"Clear bins beat opaque ones.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "某个周五，所有人写文档而不是代码。指南里现在有关于模块边界的简短章节。我把关于功能目录结构的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在纯重命名提交上。今天的站会上，我提到移动单独提和接下来的安排。白板练习：Priya给出：\"竖式折叠赢麻了。\"我补充：\"透明收纳盒胜过黑箱。\"然后Priya总结：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "某个周五，所有人写文档而不是代码。我们说好这周再把模块边界仔细看一次。评审时，我们花了十分钟在功能目录结构上。Priya 提出了一个更清晰的纯重命名提交思考方式。趁细节还新鲜，我把移动单独提写了下来。结对演练：Priya起头：\"竖式折叠赢麻了。\"我跟上：\"透明收纳盒胜过黑箱。\"Priya回应：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "module boundaries",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "By noon, the quickstart passes on three fresh laptops. Drill without notes: Priya asks, \"One in, one out.\" I answer, \"The junk drawer audit.\" and Priya closes, \"Good point — use it in the standup.\" I compare my notes about the circular import check with Priya's. At the review, we spend ten minutes on the index file discipline. In today's standup, I mention the generated files flagged and what comes next. We agree to give the lock file updates isolated one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "By noon, the quickstart passes on three fresh laptops. Drill without notes: Priya asks, \"One in, one out.\" I answer, \"The junk drawer audit.\" and Priya closes, \"Good point — use it in the standup.\" I compare my notes about the circular import check with Priya's. At the review, we spend ten minutes on the index file discipline. In today's standup, I mention the generated files flagged and what comes next. We agree to give the lock file updates isolated one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "By noon, the quickstart passes on three fresh laptops. Drill without notes: Priya asks, \"One in, one out.\" I answer, \"The junk drawer audit.\" and Priya closes, \"Good point — use it in the standup.\" The guide now has a short section on the circular import check. In today's standup, I mention the index file discipline and what comes next. I compare my notes about the generated files flagged with Priya's. I connect the lock file updates isolated to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "By noon, the quickstart passes on three fresh laptops. Drill without notes: Priya asks, \"One in, one out.\" I answer, \"The junk drawer audit.\" and Priya closes, \"Good point — use it in the standup.\" The guide now has a short section on the circular import check. In today's standup, I mention the index file discipline and what comes next. I compare my notes about the generated files flagged with Priya's. I connect the lock file updates isolated to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "中午之前，快速上手在三台全新笔记本上跑通了。脱稿演练：Priya问：\"进一件\"我回答：\"杂物抽屉审计。\"Priya收束：\"说得好——站会上就用它。\"我把关于循环导入检查的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在索引文件纪律上。今天的站会上，我提到生成文件标注和接下来的安排。我们说好这周再把锁文件单独更新仔细看一次。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "中午之前，快速上手在三台全新笔记本上跑通了。脱稿演练：Priya问：\"进一件\"我回答：\"杂物抽屉审计。\"Priya收束：\"说得好——站会上就用它。\"指南里现在有关于循环导入检查的简短章节。今天的站会上，我提到索引文件纪律和接下来的安排。我把关于生成文件标注的笔记和 Priya 的对照了一下。我把锁文件单独更新关联到工单上，免得遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "circular import check",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the binary diff note. The guide now has a short section on the big diff warning protocol. I compare my notes about the dead file sweep with Priya's. At the review, we spend ten minutes on the naming consistency scan. Meeting rehearsal: Maria opens, \"Labels save marriages.\" I respond, \"Storage is a habit.\" and Maria confirms, \"Exactly, and it saves time too.\" The best code is the code a stranger can start.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the binary diff note. The guide now has a short section on the big diff warning protocol. I compare my notes about the dead file sweep with Priya's. At the review, we spend ten minutes on the naming consistency scan. Meeting rehearsal: Maria opens, \"Labels save marriages.\" I respond, \"Storage is a habit.\" and Maria confirms, \"Exactly, and it saves time too.\" The best code is the code a stranger can start.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the binary diff note one more careful look this week. At the review, we spend ten minutes on the big diff warning protocol. Priya suggests a cleaner way to think about the dead file sweep. While the details are fresh, I write down the naming consistency scan. Meeting rehearsal: Maria opens, \"Labels save marriages.\" I respond, \"Storage is a habit.\" and Maria confirms, \"Exactly, and it saves time too.\" The best code is the code a stranger can start.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the binary diff note one more careful look this week. At the review, we spend ten minutes on the big diff warning protocol. Priya suggests a cleaner way to think about the dead file sweep. While the details are fresh, I write down the naming consistency scan. Meeting rehearsal: Maria opens, \"Labels save marriages.\" I respond, \"Storage is a habit.\" and Maria confirms, \"Exactly, and it saves time too.\" The best code is the code a stranger can start.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把二进制变更说明写了下来。指南里现在有关于大差异预警流程的简短章节。我把关于死文件清扫的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在命名一致性扫描上。会议彩排：Maria开场：\"标签拯救婚姻。\"我回应：\"收纳是习惯不是周末。\"Maria确认道：\"正是，而且还省时间。\"最好的代码，是陌生人能跑起来的代码。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把二进制变更说明仔细看一次。评审时，我们花了十分钟在大差异预警流程上。Priya 提出了一个更清晰的死文件清扫思考方式。趁细节还新鲜，我把命名一致性扫描写了下来。会议彩排：Maria开场：\"标签拯救婚姻。\"我回应：\"收纳是习惯不是周末。\"Maria确认道：\"正是，而且还省时间。\"最好的代码，是陌生人能跑起来的代码。",
    "hard": [
     {
      "w": "dead file sweep",

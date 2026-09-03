@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 319,
+   "word_count": 318,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I interview five potential users before writing any code. During the design review, I raise one careful question about the minimum viable product. Our mentor walks me through how the core loop definition evolved on this team. Before deciding, I reread my notes about the solo developer workflow twice. I prepare a one-page brief about the template driven setup so meetings start from facts. Review warm-up: Leo raises, \"We lived from one bag for a week.\" I answer, \"The list of really-needed things.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "I interview five potential users before writing any code. During the design review, I raise one careful question about the minimum viable product. Our mentor walks me through how the core loop definition evolved on this team. Before deciding, I reread my notes about the solo developer workflow twice. I prepare a one-page brief about the template driven setup so meetings start from facts. Review warm-up: Leo raises, \"We lived from one bag for a week.\" I answer, \"The list of really-needed things.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "I interview five potential users before writing any code. I prepare a one-page brief about the minimum viable product so meetings start from facts. The team names one clear owner for the core loop definition. I compare two views on the solo developer workflow and write both down honestly. During the design review, I raise one careful question about the template driven setup. Practice debate: Leo argues, \"We lived from one bag for a week.\" I respond calmly, \"The list of really-needed things.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "I interview five potential users before writing any code. I prepare a one-page brief about the minimum viable product so meetings start from facts. The team names one clear owner for the core loop definition. I compare two views on the solo developer workflow and write both down honestly. During the design review, I raise one careful question about the template driven setup. Practice debate: Leo argues, \"We lived from one bag for a week.\" I respond calmly, \"The list of really-needed things.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "写代码之前，我访谈了五位潜在用户。设计评审中，我就最小可行产品提出了一个审慎的问题。导师带我梳理了核心循环定义在这个团队里的演变。做决定之前，我把关于单人开发工作流的笔记重读了两遍。我准备了一页关于模板驱动搭建的简报，好让会议从事实出发。评审热身：Leo抛出：\"我们用一只包过了一周。\"我带着数字回答：\"真正需要的东西清单。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "写代码之前，我访谈了五位潜在用户。我准备了一页关于最小可行产品的简报，好让会议从事实出发。团队为核心循环定义指定了明确的负责人。我比较了关于单人开发工作流的两种观点，诚实地都记了下来。设计评审中，我就模板驱动搭建提出了一个审慎的问题。练习辩论：Leo主张：\"我们用一只包过了一周。\"我平静地回应：\"真正需要的东西清单。\"Leo承认道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "minimum viable product",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Four describe the same annoyance using the same word. Dry run: Leo opens, \"Seven items covered ninety percent.\" I follow, \"The rest was sentimental weight.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Our mentor walks me through how the feature freeze for mvp evolved on this team. Before deciding, I reread my notes about the ugly but working draft twice. I prepare a one-page brief about the zero meeting cadence so meetings start from facts. The team names one clear owner for the defer everything list. We end the week with something shipped and something properly learned this time.",
-   "tts": "Four describe the same annoyance using the same word. Dry run: Leo opens, \"Seven items covered ninety percent.\" I follow, \"The rest was sentimental weight.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Our mentor walks me through how the feature freeze for mvp evolved on this team. Before deciding, I reread my notes about the ugly but working draft twice. I prepare a one-page brief about the zero meeting cadence so meetings start from facts. The team names one clear owner for the defer everything list. We end the week with something shipped and something properly learned this time.",
+   "en": "Four describe the same annoyance using the same word. Review warm-up: Leo raises, \"Seven items covered ninety percent.\" I answer, \"The rest was sentimental weight.\" and Leo grades it, \"That is the level we need.\" We spend the first ten minutes of the review on the feature freeze for mvp. Before deciding, I reread my notes about the ugly but working draft twice. Our mentor walks me through how the zero meeting cadence evolved on this team. I add the defer everything list to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "Four describe the same annoyance using the same word. Review warm-up: Leo raises, \"Seven items covered ninety percent.\" I answer, \"The rest was sentimental weight.\" and Leo grades it, \"That is the level we need.\" We spend the first ten minutes of the review on the feature freeze for mvp. Before deciding, I reread my notes about the ugly but working draft twice. Our mentor walks me through how the zero meeting cadence evolved on this team. I add the defer everything list to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "四个人用同一个词形容同一种烦恼。干跑演练：Leo开场：\"七件东西覆盖九成。\"我接上：\"剩下的是感情重量。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"导师带我梳理了MVP 功能冻结在这个团队里的演变。做决定之前，我把关于丑但能跑的草稿的笔记重读了两遍。我准备了一页关于零会议节奏的简报，好让会议从事实出发。团队为全部推迟清单指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "四个人用同一个词形容同一种烦恼。评审热身：Leo抛出：\"七件东西覆盖九成。\"我带着数字回答：\"剩下的是感情重量。\"Leo点评道：\"我们要的就是这个水平。\"评审的前十分钟，我们都用在了MVP 功能冻结上。做决定之前，我把关于丑但能跑的草稿的笔记重读了两遍。导师带我梳理了零会议节奏在这个团队里的演变。我把全部推迟清单连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "feature freeze for mvp",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the one person oncall rota. During the design review, I raise one careful question about the automation first policy. Our mentor walks me through how the timebox for v1 evolved on this team. Before deciding, I reread my notes about the must have list twice. Mock review: Priya probes, \"Simpler felt strangely rich.\" I answer from memory, \"Needs are smaller than carts.\" and Priya confirms, \"Strong answer — keep that precision.\" When strangers repeat your pitch, it is real.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the one person oncall rota. During the design review, I raise one careful question about the automation first policy. Our mentor walks me through how the timebox for v1 evolved on this team. Before deciding, I reread my notes about the must have list twice. Mock review: Priya probes, \"Simpler felt strangely rich.\" I answer from memory, \"Needs are smaller than carts.\" and Priya confirms, \"Strong answer — keep that precision.\" When strangers repeat your pitch, it is real.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the one person oncall rota so meetings start from facts. The team names one clear owner for the automation first policy. I compare two views on the timebox for v1 and write both down honestly. During the design review, I raise one careful question about the must have list. Mock review: Priya probes, \"Simpler felt strangely rich.\" I answer from memory, \"Needs are smaller than carts.\" and Priya confirms, \"Strong answer — keep that precision.\" When strangers repeat your pitch, it is real.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the one person oncall rota so meetings start from facts. The team names one clear owner for the automation first policy. I compare two views on the timebox for v1 and write both down honestly. During the design review, I raise one careful question about the must have list. Mock review: Priya probes, \"Simpler felt strangely rich.\" I answer from memory, \"Needs are smaller than carts.\" and Priya confirms, \"Strong answer — keep that precision.\" When strangers repeat your pitch, it is real.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了单人值班轮换表上。设计评审中，我就自动化优先政策提出了一个审慎的问题。导师带我梳理了第一版的限时盒在这个团队里的演变。做决定之前，我把关于必须有的清单的笔记重读了两遍。模拟评审：Priya追问：\"简单反而莫名富足。\"我凭记忆回答：\"需要比购物车小。\"Priya确认：\"回答有力——保持这种精确。\"当陌生人复述你的卖点，它就是真的。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于单人值班轮换表的简报，好让会议从事实出发。团队为自动化优先政策指定了明确的负责人。我比较了关于第一版的限时盒的两种观点，诚实地都记了下来。设计评审中，我就必须有的清单提出了一个审慎的问题。模拟评审：Priya追问：\"简单反而莫名富足。\"我凭记忆回答：\"需要比购物车小。\"Priya确认：\"回答有力——保持这种精确。\"当陌生人复述你的卖点，它就是真的。",
    "hard": [
     {
      "w": "timebox for v1",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 286,
+   "word_count": 288,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The decision goes to Sam's simple design, not mine. While the details are fresh, I write down the design disagreement doc. The guide now has a short section on the conflict cooling rule. I compare my notes about the project automation rules with Priya's. At the review, we spend ten minutes on the saved replies. Meeting rehearsal: Priya opens, \"The neighbor waters my plants.\" I respond, \"I fix their wifi router.\" and Priya confirms, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "The decision goes to Sam's simple design, not mine. While the details are fresh, I write down the design disagreement doc. The guide now has a short section on the conflict cooling rule. I compare my notes about the project automation rules with Priya's. At the review, we spend ten minutes on the saved replies. Meeting rehearsal: Priya opens, \"The neighbor waters my plants.\" I respond, \"I fix their wifi router.\" and Priya confirms, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "The decision goes to Sam's simple design, not mine. I compare my notes about the design disagreement doc with Priya's. Priya suggests a cleaner way to think about the conflict cooling rule. We agree to give the project automation rules one more careful look this week. The guide now has a short section on the saved replies. Whiteboard practice: Priya offers, \"The neighbor waters my plants.\" I add, \"I fix their wifi router.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The decision goes to Sam's simple design, not mine. I compare my notes about the design disagreement doc with Priya's. Priya suggests a cleaner way to think about the conflict cooling rule. We agree to give the project automation rules one more careful look this week. The guide now has a short section on the saved replies. Whiteboard practice: Priya offers, \"The neighbor waters my plants.\" I add, \"I fix their wifi router.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "决定采用了 Sam 的简单设计，不是我的。趁细节还新鲜，我把设计分歧文档写了下来。指南里现在有关于冲突冷却规则的简短章节。我把关于项目自动化规则的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在保存的回复上。会议彩排：Priya开场：\"邻居帮我浇花。\"我回应：\"我帮他们修路由器。\"Priya确认道：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "决定采用了 Sam 的简单设计，不是我的。我把关于设计分歧文档的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的冲突冷却规则思考方式。我们说好这周再把项目自动化规则仔细看一次。指南里现在有关于保存的回复的简短章节。白板练习：Priya给出：\"邻居帮我浇花。\"我补充：\"我帮他们修路由器。\"然后Priya总结：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "design disagreement doc",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I say my piece once, then disagree and commit, fully. Whiteboard practice: Priya offers, \"Borrowed sugar, returned cake.\" I add, \"A shared tool shelf.\" then Priya sums up, \"Good point — use it in the standup.\" I steelman first so the next person starts on solid ground. I compare my notes about the decision after dissent with Priya's. At the review, we spend ten minutes on the code owner ping. In today's standup, I mention the pr merge dependency and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "I say my piece once, then disagree and commit, fully. Whiteboard practice: Priya offers, \"Borrowed sugar, returned cake.\" I add, \"A shared tool shelf.\" then Priya sums up, \"Good point — use it in the standup.\" I steelman first so the next person starts on solid ground. I compare my notes about the decision after dissent with Priya's. At the review, we spend ten minutes on the code owner ping. In today's standup, I mention the pr merge dependency and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "I say my piece once, then disagree and commit, fully. Drill without notes: Priya asks, \"Borrowed sugar, returned cake.\" I answer, \"A shared tool shelf.\" and Priya closes, \"Good point — use it in the standup.\" The team decides that I should steelman first first. At the review, we spend ten minutes on the decision after dissent. I connect the code owner ping to the ticket so nothing gets lost. In today's standup, I mention the pr merge dependency and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "I say my piece once, then disagree and commit, fully. Drill without notes: Priya asks, \"Borrowed sugar, returned cake.\" I answer, \"A shared tool shelf.\" and Priya closes, \"Good point — use it in the standup.\" The team decides that I should steelman first first. At the review, we spend ten minutes on the decision after dissent. I connect the code owner ping to the ticket so nothing gets lost. In today's standup, I mention the pr merge dependency and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我把观点说一次，然后反对而投入，全力的那种。白板练习：Priya给出：\"借了糖\"我补充：\"一个共用的工具架。\"然后Priya总结：\"说得好——站会上就用它。\"我先立最强反方，让下一个人的起点更扎实。我把关于异议后决策的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在负责人提醒上。今天的站会上，我提到PR 合并依赖和接下来的安排。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我把观点说一次，然后反对而投入，全力的那种。脱稿演练：Priya问：\"借了糖\"我回答：\"一个共用的工具架。\"Priya收束：\"说得好——站会上就用它。\"团队决定先由我来先立最强反方。评审时，我们花了十分钟在异议后决策上。我把负责人提醒关联到工单上，免得遗漏。今天的站会上，我提到PR 合并依赖和接下来的安排。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "steelman first",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the issue subscribe etiquette. While the details are fresh, I write down the status rollup. I disagree and commit so the next person starts on solid ground. I compare my notes about the conflict early signal with Priya's. Pair run: Maria starts, \"Kids play in the hallway.\" I follow, \"Good fences, better friends.\" and Maria replies, \"Exactly, and it saves time too.\" My idea lost; the team won; strange math that adds up.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the issue subscribe etiquette. While the details are fresh, I write down the status rollup. I disagree and commit so the next person starts on solid ground. I compare my notes about the conflict early signal with Priya's. Pair run: Maria starts, \"Kids play in the hallway.\" I follow, \"Good fences, better friends.\" and Maria replies, \"Exactly, and it saves time too.\" My idea lost; the team won; strange math that adds up.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the issue subscribe etiquette. I compare my notes about the status rollup with Priya's. Before the review, I disagree and commit and prepare two questions. Priya suggests a cleaner way to think about the conflict early signal. Pair run: Maria starts, \"Kids play in the hallway.\" I follow, \"Good fences, better friends.\" and Maria replies, \"Exactly, and it saves time too.\" My idea lost; the team won; strange math that adds up.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the issue subscribe etiquette. I compare my notes about the status rollup with Priya's. Before the review, I disagree and commit and prepare two questions. Priya suggests a cleaner way to think about the conflict early signal. Pair run: Maria starts, \"Kids play in the hallway.\" I follow, \"Good fences, better friends.\" and Maria replies, \"Exactly, and it saves time too.\" My idea lost; the team won; strange math that adds up.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的订阅礼仪思考方式。趁细节还新鲜，我把状态汇总写了下来。我反对而投入，让下一个人的起点更扎实。我把关于冲突早期信号的笔记和 Priya 的对照了一下。结对演练：Maria起头：\"孩子们在走廊玩。\"我跟上：\"篱笆扎好\"Maria回应：\"正是，而且还省时间。\"我的方案输了，团队赢了；一种奇怪的加法，居然成立。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把订阅礼仪写了下来。我把关于状态汇总的笔记和 Priya 的对照了一下。评审之前，我反对而投入并准备了两个问题。Priya 提出了一个更清晰的冲突早期信号思考方式。结对演练：Maria起头：\"孩子们在走廊玩。\"我跟上：\"篱笆扎好\"Maria回应：\"正是，而且还省时间。\"我的方案输了，团队赢了；一种奇怪的加法，居然成立。",
    "hard": [
     {
      "w": "disagree and commit",

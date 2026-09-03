@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 308,
+   "word_count": 315,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Sam and I walk the attack surface like tourists. Before deciding, I reread my notes about the identity provider twice. I prepare a one-page brief about the federated login so meetings start from facts. The team names one clear owner for the least privilege audit. I compare two views on the privilege creep review and write both down honestly. Practice debate: Leo argues, \"I cover the camera on paper forms.\" I respond calmly, \"Copies get watermark notes.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Sam and I walk the attack surface like tourists. Before deciding, I reread my notes about the identity provider twice. I prepare a one-page brief about the federated login so meetings start from facts. The team names one clear owner for the least privilege audit. I compare two views on the privilege creep review and write both down honestly. Practice debate: Leo argues, \"I cover the camera on paper forms.\" I respond calmly, \"Copies get watermark notes.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Sam and I walk the attack surface like tourists. I add the identity provider to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the federated login. During the design review, I raise one careful question about the least privilege audit. I prepare a one-page brief about the privilege creep review so meetings start from facts. Review warm-up: Leo raises, \"I cover the camera on paper forms.\" I answer, \"Copies get watermark notes.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Sam and I walk the attack surface like tourists. I add the identity provider to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the federated login. During the design review, I raise one careful question about the least privilege audit. I prepare a one-page brief about the privilege creep review so meetings start from facts. Review warm-up: Leo raises, \"I cover the camera on paper forms.\" I answer, \"Copies get watermark notes.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Sam 和我像游客一样把攻击面逛了一遍。做决定之前，我把关于身份提供方的笔记重读了两遍。我准备了一页关于联邦登录的简报，好让会议从事实出发。团队为最小权限审计指定了明确的负责人。我比较了关于权限蔓延检查的两种观点，诚实地都记了下来。练习辩论：Leo主张：\"纸质表单我遮着填。\"我平静地回应：\"复印件都加水印。\"Leo承认道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "Sam 和我像游客一样把攻击面逛了一遍。我把身份提供方连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了联邦登录上。设计评审中，我就最小权限审计提出了一个审慎的问题。我准备了一页关于权限蔓延检查的简报，好让会议从事实出发。评审热身：Leo抛出：\"纸质表单我遮着填。\"我带着数字回答：\"复印件都加水印。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "identity provider",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. Mock review: Leo probes, \"The ID photo rule.\" I answer from memory, \"Shred before you bin.\" and Leo confirms, \"That is the level we need.\" I prepare a one-page brief about the passkey so meetings start from facts. The team names one clear owner for the hardware key. I compare two views on the onboarding access bundle and write both down honestly. I add the offboarding checklist to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
-   "tts": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. Mock review: Leo probes, \"The ID photo rule.\" I answer from memory, \"Shred before you bin.\" and Leo confirms, \"That is the level we need.\" I prepare a one-page brief about the passkey so meetings start from facts. The team names one clear owner for the hardware key. I compare two views on the onboarding access bundle and write both down honestly. I add the offboarding checklist to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "en": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. Dry run: Leo opens, \"The ID photo rule.\" I follow, \"Shred before you bin.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The team names one clear owner for the passkey. Our mentor walks me through how the hardware key evolved on this team. Before deciding, I reread my notes about the onboarding access bundle twice. I compare two views on the offboarding checklist and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "tts": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. Dry run: Leo opens, \"The ID photo rule.\" I follow, \"Shred before you bin.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The team names one clear owner for the passkey. Our mentor walks me through how the hardware key evolved on this team. Before deciding, I reread my notes about the onboarding access bundle twice. I compare two views on the offboarding checklist and write both down honestly. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们数出四十一扇门：接口、登录、上传，还有一台被遗忘的测试服务器。模拟评审：Leo追问：\"证件复印件要写用途。\"我凭记忆回答：\"先碎纸再扔垃圾桶。\"Leo确认：\"我们要的就是这个水平。\"我准备了一页关于通行密钥的简报，好让会议从事实出发。团队为硬件密钥指定了明确的负责人。我比较了关于入职权限包的两种观点，诚实地都记了下来。我把离职权限清单连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们数出四十一扇门：接口、登录、上传，还有一台被遗忘的测试服务器。干跑演练：Leo开场：\"证件复印件要写用途。\"我接上：\"先碎纸再扔垃圾桶。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"团队为通行密钥指定了明确的负责人。导师带我梳理了硬件密钥在这个团队里的演变。做决定之前，我把关于入职权限包的笔记重读了两遍。我比较了关于离职权限清单的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "passkey",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the service account list evolved on this team. Before deciding, I reread my notes about the emergency access check twice. I prepare a one-page brief about the device trust score so meetings start from facts. The team names one clear owner for the session revoke. Dry run: Priya opens, \"Two factor, not two headaches.\" I follow, \"Wallet inventory twice a year.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" The forgotten server got shutdown and a map spot.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the service account list evolved on this team. Before deciding, I reread my notes about the emergency access check twice. I prepare a one-page brief about the device trust score so meetings start from facts. The team names one clear owner for the session revoke. Dry run: Priya opens, \"Two factor, not two headaches.\" I follow, \"Wallet inventory twice a year.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" The forgotten server got shutdown and a map spot.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the service account list to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the emergency access check. During the design review, I raise one careful question about the device trust score. I prepare a one-page brief about the session revoke so meetings start from facts. Mock review: Priya probes, \"Two factor, not two headaches.\" I answer from memory, \"Wallet inventory twice a year.\" and Priya confirms, \"Strong answer — keep that precision.\" The forgotten server got shutdown and a map spot.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the service account list to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the emergency access check. During the design review, I raise one careful question about the device trust score. I prepare a one-page brief about the session revoke so meetings start from facts. Mock review: Priya probes, \"Two factor, not two headaches.\" I answer from memory, \"Wallet inventory twice a year.\" and Priya confirms, \"Strong answer — keep that precision.\" The forgotten server got shutdown and a map spot.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了服务账号清单在这个团队里的演变。做决定之前，我把关于紧急权限复核的笔记重读了两遍。我准备了一页关于设备信任分的简报，好让会议从事实出发。团队为会话吊销指定了明确的负责人。干跑演练：Priya开场：\"两步验证不是两份麻烦。\"我接上：\"钱包清单半年一查。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"被遗忘的服务器关了机，图上留了名。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把服务账号清单连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了紧急权限复核上。设计评审中，我就设备信任分提出了一个审慎的问题。我准备了一页关于会话吊销的简报，好让会议从事实出发。模拟评审：Priya追问：\"两步验证不是两份麻烦。\"我凭记忆回答：\"钱包清单半年一查。\"Priya确认：\"回答有力——保持这种精确。\"被遗忘的服务器关了机，图上留了名。",
    "hard": [
     {
      "w": "device trust score",

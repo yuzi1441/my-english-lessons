@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 323,
+   "word_count": 320,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The security lead shows me a preserved incident snapshot. The team names one clear owner for the privacy by design. I compare two views on the data flow notes and write both down honestly. I add the privacy review checklist to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the consent flow test. Review warm-up: Priya raises, \"Kids photos have sharing rules.\" I answer, \"The family location share, opt in.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
-   "tts": "The security lead shows me a preserved incident snapshot. The team names one clear owner for the privacy by design. I compare two views on the data flow notes and write both down honestly. I add the privacy review checklist to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the consent flow test. Review warm-up: Priya raises, \"Kids photos have sharing rules.\" I answer, \"The family location share, opt in.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "en": "The security lead shows me a preserved incident snapshot. Our mentor walks me through how the privacy by design evolved on this team. The team names one clear owner for the data flow notes. During the design review, I raise one careful question about the privacy review checklist. I prepare a one-page brief about the consent flow test so meetings start from facts. Practice debate: Priya argues, \"Kids photos have sharing rules.\" I respond calmly, \"The family location share, opt in.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "The security lead shows me a preserved incident snapshot. Our mentor walks me through how the privacy by design evolved on this team. The team names one clear owner for the data flow notes. During the design review, I raise one careful question about the privacy review checklist. I prepare a one-page brief about the consent flow test so meetings start from facts. Practice debate: Priya argues, \"Kids photos have sharing rules.\" I respond calmly, \"The family location share, opt in.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "安全负责人给我看一份封存的事件快照。团队为隐私始于设计指定了明确的负责人。我比较了关于数据流标注的两种观点，诚实地都记了下来。我把隐私评审清单连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了同意流程测试上。评审热身：Priya抛出：\"孩子照片有分享规则。\"我带着数字回答：\"家人位置共享\"Priya点评道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "安全负责人给我看一份封存的事件快照。导师带我梳理了隐私始于设计在这个团队里的演变。团队为数据流标注指定了明确的负责人。设计评审中，我就隐私评审清单提出了一个审慎的问题。我准备了一页关于同意流程测试的简报，好让会议从事实出发。练习辩论：Priya主张：\"孩子照片有分享规则。\"我平静地回应：\"家人位置共享\"Priya承认道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "privacy by design",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Chain of custody labels, timestamps, and a rule: look, don't touch. Dry run: Priya opens, \"Old accounts get deleted yearly.\" I follow, \"Loyalty cards, curated.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" I compare two views on the purpose limit check and write both down honestly. I add the anonymization check to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the data retention enforcement. During the design review, I raise one careful question about the third party sharing audit. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Chain of custody labels, timestamps, and a rule: look, don't touch. Dry run: Priya opens, \"Old accounts get deleted yearly.\" I follow, \"Loyalty cards, curated.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" I compare two views on the purpose limit check and write both down honestly. I add the anonymization check to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the data retention enforcement. During the design review, I raise one careful question about the third party sharing audit. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Chain of custody labels, timestamps, and a rule: look, don't touch. Mock review: Priya probes, \"Old accounts get deleted yearly.\" I answer from memory, \"Loyalty cards, curated.\" and Priya confirms, \"Strong answer — keep that precision.\" I add the purpose limit check to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the anonymization check twice. We spend the first ten minutes of the review on the data retention enforcement. I compare two views on the third party sharing audit and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Chain of custody labels, timestamps, and a rule: look, don't touch. Mock review: Priya probes, \"Old accounts get deleted yearly.\" I answer from memory, \"Loyalty cards, curated.\" and Priya confirms, \"Strong answer — keep that precision.\" I add the purpose limit check to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the anonymization check twice. We spend the first ten minutes of the review on the data retention enforcement. I compare two views on the third party sharing audit and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "证据标签、时间戳，和一条规矩：只看不动。干跑演练：Priya开场：\"旧账号每年清理。\"我接上：\"会员卡\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"我比较了关于目的限定检查的两种观点，诚实地都记了下来。我把匿名化验证连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了数据保留执行上。设计评审中，我就第三方共享审计提出了一个审慎的问题。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "证据标签、时间戳，和一条规矩：只看不动。模拟评审：Priya追问：\"旧账号每年清理。\"我凭记忆回答：\"会员卡\"Priya确认：\"回答有力——保持这种精确。\"我把目的限定检查连同三条支撑事实加进了议程。做决定之前，我把关于匿名化验证的笔记重读了两遍。评审的前十分钟，我们都用在了数据保留执行上。我比较了关于第三方共享审计的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "purpose limit check",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the privacy policy diff review so meetings start from facts. The team names one clear owner for the user request sla tracker. I compare two views on the data export flow and write both down honestly. I add the deletion verifier to the meeting agenda with three supporting facts. Mock review: Maria probes, \"We ask before posting others.\" I answer from memory, \"Privacy is a family value.\" and Maria confirms, \"Agreed, note it in the ticket.\" Good forensics is mostly good manners toward evidence.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the privacy policy diff review so meetings start from facts. The team names one clear owner for the user request sla tracker. I compare two views on the data export flow and write both down honestly. I add the deletion verifier to the meeting agenda with three supporting facts. Mock review: Maria probes, \"We ask before posting others.\" I answer from memory, \"Privacy is a family value.\" and Maria confirms, \"Agreed, note it in the ticket.\" Good forensics is mostly good manners toward evidence.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the privacy policy diff review evolved on this team. The team names one clear owner for the user request sla tracker. During the design review, I raise one careful question about the data export flow. I prepare a one-page brief about the deletion verifier so meetings start from facts. Review warm-up: Maria raises, \"We ask before posting others.\" I answer, \"Privacy is a family value.\" and Maria grades it, \"Agreed, note it in the ticket.\" Good forensics is mostly good manners toward evidence.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the privacy policy diff review evolved on this team. The team names one clear owner for the user request sla tracker. During the design review, I raise one careful question about the data export flow. I prepare a one-page brief about the deletion verifier so meetings start from facts. Review warm-up: Maria raises, \"We ask before posting others.\" I answer, \"Privacy is a family value.\" and Maria grades it, \"Agreed, note it in the ticket.\" Good forensics is mostly good manners toward evidence.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于隐私政策变更评审的简报，好让会议从事实出发。团队为用户请求时限跟踪指定了明确的负责人。我比较了关于用户数据导出的两种观点，诚实地都记了下来。我把删除验证任务连同三条支撑事实加进了议程。模拟评审：Maria追问：\"发别人照片先问一句。\"我凭记忆回答：\"隐私是家训。\"Maria确认：\"同意，把这条记到工单里。\"好的取证，本质上是对证据的礼貌。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了隐私政策变更评审在这个团队里的演变。团队为用户请求时限跟踪指定了明确的负责人。设计评审中，我就用户数据导出提出了一个审慎的问题。我准备了一页关于删除验证任务的简报，好让会议从事实出发。评审热身：Maria抛出：\"发别人照片先问一句。\"我带着数字回答：\"隐私是家训。\"Maria点评道：\"同意，把这条记到工单里。\"好的取证，本质上是对证据的礼貌。",
    "hard": [
     {
      "w": "data export flow",

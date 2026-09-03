@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 299,
+   "word_count": 306,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day one hundred eighty: Priya asks what changed. While the details are fresh, I write down the half year journey map. The guide now has a short section on the skills gained inventory. I compare my notes about the docs written count with Priya's. At the review, we spend ten minutes on the prs reviewed for others. Meeting rehearsal: Priya opens, \"Day one hundred eighty.\" I respond, \"Half a year of small steps.\" and Priya confirms, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Day one hundred eighty: Priya asks what changed. While the details are fresh, I write down the half year journey map. The guide now has a short section on the skills gained inventory. I compare my notes about the docs written count with Priya's. At the review, we spend ten minutes on the prs reviewed for others. Meeting rehearsal: Priya opens, \"Day one hundred eighty.\" I respond, \"Half a year of small steps.\" and Priya confirms, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "Day one hundred eighty: Priya asks what changed. We agree to give the half year journey map one more careful look this week. While the details are fresh, I write down the skills gained inventory. I compare my notes about the docs written count with Priya's. At the review, we spend ten minutes on the prs reviewed for others. Drill without notes: Priya asks, \"Day one hundred eighty.\" I answer, \"Half a year of small steps.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Day one hundred eighty: Priya asks what changed. We agree to give the half year journey map one more careful look this week. While the details are fresh, I write down the skills gained inventory. I compare my notes about the docs written count with Priya's. At the review, we spend ten minutes on the prs reviewed for others. Drill without notes: Priya asks, \"Day one hundred eighty.\" I answer, \"Half a year of small steps.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第一百八十天：Priya 问，什么变了。趁细节还新鲜，我把半年旅程图写了下来。指南里现在有关于技能收获盘点的简短章节。我把关于文档产出数的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在为他人评审数上。会议彩排：Priya开场：\"第一百八十天。\"我回应：\"半年的小步子。\"Priya确认道：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "第一百八十天：Priya 问，什么变了。我们说好这周再把半年旅程图仔细看一次。趁细节还新鲜，我把技能收获盘点写了下来。我把关于文档产出数的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在为他人评审数上。脱稿演练：Priya问：\"第一百八十天。\"我回答：\"半年的小步子。\"Priya收束：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "half year journey map",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "\"I stopped asking for data,\" I say, \"and started asking better questions of it.\" Whiteboard practice: Priya offers, \"The graph of me bends upward.\" I add, \"Celebrating with plain rice porridge.\" then Priya sums up, \"Good point — use it in the standup.\" The guide now has a short section on the favorite insight of the half. I compare my notes about the habits that stuck with Priya's. At the review, we spend ten minutes on the newcomers onboarded. In today's standup, I mention the cross team friendships and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "\"I stopped asking for data,\" I say, \"and started asking better questions of it.\" Whiteboard practice: Priya offers, \"The graph of me bends upward.\" I add, \"Celebrating with plain rice porridge.\" then Priya sums up, \"Good point — use it in the standup.\" The guide now has a short section on the favorite insight of the half. I compare my notes about the habits that stuck with Priya's. At the review, we spend ten minutes on the newcomers onboarded. In today's standup, I mention the cross team friendships and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "\"I stopped asking for data,\" I say, \"and started asking better questions of it.\" Meeting rehearsal: Priya opens, \"The graph of me bends upward.\" I respond, \"Celebrating with plain rice porridge.\" and Priya confirms, \"Good point — use it in the standup.\" In today's standup, I mention the favorite insight of the half and what comes next. The guide now has a short section on the habits that stuck. I connect the newcomers onboarded to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the cross team friendships. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "\"I stopped asking for data,\" I say, \"and started asking better questions of it.\" Meeting rehearsal: Priya opens, \"The graph of me bends upward.\" I respond, \"Celebrating with plain rice porridge.\" and Priya confirms, \"Good point — use it in the standup.\" In today's standup, I mention the favorite insight of the half and what comes next. The guide now has a short section on the habits that stuck. I connect the newcomers onboarded to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the cross team friendships. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我说：“我不再要数据了，我开始向数据提出更好的问题。”白板练习：Priya给出：\"我的曲线在向上弯。\"我补充：\"用白粥庆祝。\"然后Priya总结：\"说得好——站会上就用它。\"指南里现在有关于半年最爱洞察的简短章节。我把关于留住的习惯的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在带过的新人上。今天的站会上，我提到跨团队友谊和接下来的安排。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我说：“我不再要数据了，我开始向数据提出更好的问题。”会议彩排：Priya开场：\"我的曲线在向上弯。\"我回应：\"用白粥庆祝。\"Priya确认道：\"说得好——站会上就用它。\"今天的站会上，我提到半年最爱洞察和接下来的安排。指南里现在有关于留住的习惯的简短章节。我把带过的新人关联到工单上，免得遗漏。Priya 提出了一个更清晰的跨团队友谊思考方式。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "favorite insight of the half",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the processes improved. While the details are fresh, I write down the year still ahead. The guide now has a short section on the goals for the next half. I compare my notes about the thank your data mentors with Priya's. Pair run: Maria starts, \"Gratitude list, page two.\" I follow, \"Tomorrow starts at five thirty.\" and Maria replies, \"Exactly, and it saves time too.\" The numbers were always talking; I finally learned the language.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the processes improved. While the details are fresh, I write down the year still ahead. The guide now has a short section on the goals for the next half. I compare my notes about the thank your data mentors with Priya's. Pair run: Maria starts, \"Gratitude list, page two.\" I follow, \"Tomorrow starts at five thirty.\" and Maria replies, \"Exactly, and it saves time too.\" The numbers were always talking; I finally learned the language.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the processes improved one more careful look this week. While the details are fresh, I write down the year still ahead. I compare my notes about the goals for the next half with Priya's. At the review, we spend ten minutes on the thank your data mentors. Whiteboard practice: Maria offers, \"Gratitude list, page two.\" I add, \"Tomorrow starts at five thirty.\" then Maria sums up, \"Exactly, and it saves time too.\" The numbers were always talking; I finally learned the language.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the processes improved one more careful look this week. While the details are fresh, I write down the year still ahead. I compare my notes about the goals for the next half with Priya's. At the review, we spend ten minutes on the thank your data mentors. Whiteboard practice: Maria offers, \"Gratitude list, page two.\" I add, \"Tomorrow starts at five thirty.\" then Maria sums up, \"Exactly, and it saves time too.\" The numbers were always talking; I finally learned the language.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的改进的流程思考方式。趁细节还新鲜，我把仍在前面的路写了下来。指南里现在有关于下半年目标的简短章节。我把关于感谢数据导师的笔记和 Priya 的对照了一下。结对演练：Maria起头：\"感恩清单\"我跟上：\"明天五点半开始。\"Maria回应：\"正是，而且还省时间。\"数字一直在说话；我终于学会了这门语言。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把改进的流程仔细看一次。趁细节还新鲜，我把仍在前面的路写了下来。我把关于下半年目标的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在感谢数据导师上。白板练习：Maria给出：\"感恩清单\"我补充：\"明天五点半开始。\"然后Maria总结：\"正是，而且还省时间。\"数字一直在说话；我终于学会了这门语言。",
    "hard": [
     {
      "w": "goals for the next half",

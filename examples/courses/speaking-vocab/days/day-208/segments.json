@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 288,
+   "word_count": 283,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Another team invites us to share the playbook. In today's standup, I mention the chart recommendation engine and what comes next. We agree to give the insight annotation generator one more careful look this week. I connect the report health check to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the query cost labels. Meeting rehearsal: Maria opens, \"The receipt scanning habit.\" I respond, \"Category suggestions, mostly right.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Another team invites us to share the playbook. In today's standup, I mention the chart recommendation engine and what comes next. We agree to give the insight annotation generator one more careful look this week. I connect the report health check to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the query cost labels. Meeting rehearsal: Maria opens, \"The receipt scanning habit.\" I respond, \"Category suggestions, mostly right.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Another team invites us to share the playbook. The guide now has a short section on the chart recommendation engine. We agree to give the insight annotation generator one more careful look this week. I compare my notes about the report health check with Priya's. I connect the query cost labels to the ticket so nothing gets lost. Whiteboard practice: Maria offers, \"The receipt scanning habit.\" I add, \"Category suggestions, mostly right.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Another team invites us to share the playbook. The guide now has a short section on the chart recommendation engine. We agree to give the insight annotation generator one more careful look this week. I compare my notes about the report health check with Priya's. I connect the query cost labels to the ticket so nothing gets lost. Whiteboard practice: Maria offers, \"The receipt scanning habit.\" I add, \"Category suggestions, mostly right.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "隔壁团队邀请我们分享手册。今天的站会上，我提到图表推荐引擎和接下来的安排。我们说好这周再把洞察标注生成器仔细看一次。我把定时报表体检关联到工单上，免得遗漏。Priya 提出了一个更清晰的看板上的查询价签思考方式。会议彩排：Maria开场：\"小票扫描的习惯。\"我回应：\"分类建议大体靠谱。\"Maria确认道：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "隔壁团队邀请我们分享手册。指南里现在有关于图表推荐引擎的简短章节。我们说好这周再把洞察标注生成器仔细看一次。我把关于定时报表体检的笔记和 Priya 的对照了一下。我把看板上的查询价签关联到工单上，免得遗漏。白板练习：Maria给出：\"小票扫描的习惯。\"我补充：\"分类建议大体靠谱。\"然后Maria总结：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "chart recommendation engine",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We bring war stories, checklists, and one live prompt review. Whiteboard practice: Maria offers, \"The monthly pie revelation.\" I add, \"Shared wallet transparency.\" then Maria sums up, \"Exactly, and it saves time too.\" We agree to give the natural language to chart one more careful look this week. I connect the visual accessibility checker to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the freshness stamp enforcement. While the details are fresh, I write down the single source enforcement bot. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "We bring war stories, checklists, and one live prompt review. Whiteboard practice: Maria offers, \"The monthly pie revelation.\" I add, \"Shared wallet transparency.\" then Maria sums up, \"Exactly, and it saves time too.\" We agree to give the natural language to chart one more careful look this week. I connect the visual accessibility checker to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the freshness stamp enforcement. While the details are fresh, I write down the single source enforcement bot. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "We bring war stories, checklists, and one live prompt review. Meeting rehearsal: Maria opens, \"The monthly pie revelation.\" I respond, \"Shared wallet transparency.\" and Maria confirms, \"Exactly, and it saves time too.\" While the details are fresh, I write down the natural language to chart. In today's standup, I mention the visual accessibility checker and what comes next. At the review, we spend ten minutes on the freshness stamp enforcement. Priya suggests a cleaner way to think about the single source enforcement bot. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We bring war stories, checklists, and one live prompt review. Meeting rehearsal: Maria opens, \"The monthly pie revelation.\" I respond, \"Shared wallet transparency.\" and Maria confirms, \"Exactly, and it saves time too.\" While the details are fresh, I write down the natural language to chart. In today's standup, I mention the visual accessibility checker and what comes next. At the review, we spend ten minutes on the freshness stamp enforcement. Priya suggests a cleaner way to think about the single source enforcement bot. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们带着实战故事、检查单，和一场现场提示评审。白板练习：Maria给出：\"每月饼图的启示。\"我补充：\"共享钱包的透明度。\"然后Maria总结：\"正是，而且还省时间。\"我们说好这周再把自然语言画图仔细看一次。我把可视化无障碍检查器关联到工单上，免得遗漏。Priya 提出了一个更清晰的数据新鲜度戳强制思考方式。趁细节还新鲜，我把一源强制机器人写了下来。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我们带着实战故事、检查单，和一场现场提示评审。会议彩排：Maria开场：\"每月饼图的启示。\"我回应：\"共享钱包的透明度。\"Maria确认道：\"正是，而且还省时间。\"趁细节还新鲜，我把自然语言画图写了下来。今天的站会上，我提到可视化无障碍检查器和接下来的安排。评审时，我们花了十分钟在数据新鲜度戳强制上。Priya 提出了一个更清晰的一源强制机器人思考方式。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "natural language to chart",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the export permission matrix. In today's standup, I mention the deprecated dashboard redirect and what comes next. We agree to give the dashboard narrative assistant one more careful look this week. I connect the misleading chart detector to the ticket so nothing gets lost. Pair run: Leo starts, \"Subscription audit night.\" I follow, \"Numbers noticed, calmly.\" and Leo replies, \"Keep practising, it is working.\" Culture spreads one honest demo at a time.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the export permission matrix. In today's standup, I mention the deprecated dashboard redirect and what comes next. We agree to give the dashboard narrative assistant one more careful look this week. I connect the misleading chart detector to the ticket so nothing gets lost. Pair run: Leo starts, \"Subscription audit night.\" I follow, \"Numbers noticed, calmly.\" and Leo replies, \"Keep practising, it is working.\" Culture spreads one honest demo at a time.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the export permission matrix. We agree to give the deprecated dashboard redirect one more careful look this week. I compare my notes about the dashboard narrative assistant with Priya's. I connect the misleading chart detector to the ticket so nothing gets lost. Drill without notes: Leo asks, \"Subscription audit night.\" I answer, \"Numbers noticed, calmly.\" and Leo closes, \"Keep practising, it is working.\" Culture spreads one honest demo at a time.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the export permission matrix. We agree to give the deprecated dashboard redirect one more careful look this week. I compare my notes about the dashboard narrative assistant with Priya's. I connect the misleading chart detector to the ticket so nothing gets lost. Drill without notes: Leo asks, \"Subscription audit night.\" I answer, \"Numbers noticed, calmly.\" and Leo closes, \"Keep practising, it is working.\" Culture spreads one honest demo at a time.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在导出权限矩阵上。今天的站会上，我提到弃用看板重定向和接下来的安排。我们说好这周再把看板叙事助手仔细看一次。我把误导图表检测器关联到工单上，免得遗漏。结对演练：Leo起头：\"订阅审计之夜。\"我跟上：\"被看见的数字\"Leo回应：\"继续练，有效果了。\"文化靠一次一次诚实的演示传播。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于导出权限矩阵的简短章节。我们说好这周再把弃用看板重定向仔细看一次。我把关于看板叙事助手的笔记和 Priya 的对照了一下。我把误导图表检测器关联到工单上，免得遗漏。脱稿演练：Leo问：\"订阅审计之夜。\"我回答：\"被看见的数字\"Leo收束：\"继续练，有效果了。\"文化靠一次一次诚实的演示传播。",
    "hard": [
     {
      "w": "dashboard narrative assistant",

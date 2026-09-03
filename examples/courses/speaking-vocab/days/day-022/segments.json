@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 227,
+   "word_count": 294,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Week four. A user reports a strange problem. We discuss the risk around the exception. I document the stack trace so the team can review it later. If the issue template fails, we need a clear plan. I suggest that we check the steps to reproduce first. I build a full answer around the pattern: I'm calling about ... Before we move on, Maria says, \"My order hasn't arrived.\" The team agrees on the plan, and I record the decision.",
-   "tts": "Week four. A user reports a strange problem. We discuss the risk around the exception. I document the stack trace so the team can review it later. If the issue template fails, we need a clear plan. I suggest that we check the steps to reproduce first. I build a full answer around the pattern: I'm calling about  Before we move on, Maria says, \"My order hasn't arrived.\" The team agrees on the plan, and I record the decision.",
+   "en": "Week four. A user reports a strange problem. We spend a few minutes on the exception at the standup. After that, I keep one real example of the stack trace in my notes. During the review, I ask one question about the issue template. I add the steps to reproduce to my checklist for tomorrow. After a short break, The pattern helps me sound clear and calm: I'm calling about ... Before we move on, Maria says, \"My order hasn't arrived.\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
+   "tts": "Week four. A user reports a strange problem. We spend a few minutes on the exception at the standup. After that, I keep one real example of the stack trace in my notes. During the review, I ask one question about the issue template. I add the steps to reproduce to my checklist for tomorrow. After a short break, The pattern helps me sound clear and calm: I'm calling about  Before we move on, Maria says, \"My order hasn't arrived.\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第四周。一位用户报告了一个奇怪的问题。我们讨论了异常相关的风险。我把堆栈跟踪写成文档，方便团队之后查看。如果问题单模板失败，我们需要一个清晰的方案。我建议我们先检查复现步骤。我围绕这个句型组织了一个完整的回答：我打电话是想咨询……继续之前，Maria说：\"我的订单还没有到。\"团队就计划达成一致，我记录了决定。",
+   "zh": "第四周。一位用户报告了一个奇怪的问题。站会上我们花了几分钟讨论异常。在那之后，我在笔记里留了一个堆栈跟踪的真实例子。评审时，我就问题单模板提了一个问题。我把复现步骤加进了明天的清单。稍作休息后，这个句型让我听起来清楚又从容：我打电话是想咨询……继续之前，Maria说：\"我的订单还没有到。\"我回答，我们互相对了笔记。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "exception",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My package is late. I call customer service. Before we part, Leo says, \"Could you check the status?\" I answer, \"The problem started yesterday.\" I suggest that we check the error type first. The result depends on the line number, so I check it twice. I explain the expected behavior to a new teammate. We discuss the risk around the actual behavior. The day ends with a clear plan for tomorrow.",
-   "tts": "My package is late. I call customer service. Before we part, Leo says, \"Could you check the status?\" I answer, \"The problem started yesterday.\" I suggest that we check the error type first. The result depends on the line number, so I check it twice. I explain the expected behavior to a new teammate. We discuss the risk around the actual behavior. The day ends with a clear plan for tomorrow.",
+   "en": "My package is late. I call customer service. Before we move on, Leo asks, \"Could you check the status?\" I answer, then reuse it in my update. Before we move on, Maria says, \"The problem started yesterday.\" I answer, and we compare notes. After a short break, I double-check the error type before the review. I walk a new teammate through the line number. I suggest that we check the expected behavior first. After that, I reread my notes about the actual behavior after lunch. The day ends with a clear plan for tomorrow.",
+   "tts": "My package is late. I call customer service. Before we move on, Leo asks, \"Could you check the status?\" I answer, then reuse it in my update. Before we move on, Maria says, \"The problem started yesterday.\" I answer, and we compare notes. After a short break, I double-check the error type before the review. I walk a new teammate through the line number. I suggest that we check the expected behavior first. After that, I reread my notes about the actual behavior after lunch. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我的包裹迟到了。我打了客服电话。分开前，Leo说：\"你可以查询一下状态吗？\"我回答：\"问题从昨天开始。\"我建议我们先检查错误类型。结果取决于行号，所以我检查了两遍。我向一位新队友解释了预期行为。我们讨论了实际行为相关的风险。这一天以一份清晰的明日计划结束。",
+   "zh": "我的包裹迟到了。我打了客服电话。继续之前，Leo问：\"你可以查询一下状态吗？\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"问题从昨天开始。\"我回答，我们互相对了笔记。稍作休息后，评审之前，我再核对一遍错误类型。我带一位新队友过了一遍行号。我建议我们先检查预期行为。在那之后，午饭后我重读了关于实际行为的笔记。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "error type",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I explain the minimal example to a new teammate. We discuss the risk around the environment details. I catch an exception while the others watch the dashboard. I handle an error and then explain the risk. Priya checks with me, \"I've already tried that.\" I answer clearly, \"What should I do next?\" I write the steps to reproduce. Now the team can see the bug.",
-   "tts": "Before I leave, I write a short summary for the team. I explain the minimal example to a new teammate. We discuss the risk around the environment details. I catch an exception while the others watch the dashboard. I handle an error and then explain the risk. Priya checks with me, \"I've already tried that.\" I answer clearly, \"What should I do next?\" I write the steps to reproduce. Now the team can see the bug.",
+   "en": "Before I leave, I write a short summary for the team. I go through the minimal example with Priya and note her advice. Before I reply, I look at the environment details once more. I catch an exception while the others watch the dashboard. We decide to handle an error after the review. Before we move on, Priya says, \"I've already tried that.\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"What should I do next?\" I answer, then reuse it in my update. I write the steps to reproduce. Now the team can see the bug.",
+   "tts": "Before I leave, I write a short summary for the team. I go through the minimal example with Priya and note her advice. Before I reply, I look at the environment details once more. I catch an exception while the others watch the dashboard. We decide to handle an error after the review. Before we move on, Priya says, \"I've already tried that.\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"What should I do next?\" I answer, then reuse it in my update. I write the steps to reproduce. Now the team can see the bug.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我向一位新队友解释了最小示例。我们讨论了环境详情相关的风险。我捕获异常，其他队友盯着仪表盘。我处理错误，然后解释了风险。Priya向我确认：\"我已经试过那个方法了。\"我清楚地回答：\"我下一步应该怎么做？\"我写下了复现步骤。现在团队能看到这个缺陷了。",
+   "zh": "离开前，我给团队写了一份简短的总结。我和 Priya 过了一遍最小示例，记下了她的建议。回复之前，我又看了一遍环境详情。我捕获异常，其他队友盯着仪表盘。评审之后，我们决定处理错误。继续之前，Priya说：\"我已经试过那个方法了。\"我清楚地回答，并记下了这个说法。继续之前，Leo问：\"我下一步应该怎么做？\"我回答，然后把它用进了自己的汇报。我写下了复现步骤。现在团队能看到这个缺陷了。",
    "hard": [
     {
      "w": "catch an exception",

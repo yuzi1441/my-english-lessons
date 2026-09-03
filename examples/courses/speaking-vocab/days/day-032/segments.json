@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 236,
+   "word_count": 309,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Before I build, I need to understand the request fully. The result depends on the text field, so I check it twice. I explain the placeholder to a new teammate. The team agrees to delete a branch before Friday. I document the stale branch so the team can review it later. Before we part, Leo says, \"Could you be more specific?\" I answer, \"What exactly do you mean?\" The day ends with a clear plan for tomorrow.",
-   "tts": "Before I build, I need to understand the request fully. The result depends on the text field, so I check it twice. I explain the placeholder to a new teammate. The team agrees to delete a branch before Friday. I document the stale branch so the team can review it later. Before we part, Leo says, \"Could you be more specific?\" I answer, \"What exactly do you mean?\" The day ends with a clear plan for tomorrow.",
+   "en": "Before I build, I need to understand the request fully. After a short break, I go through the text field with Priya and note her advice. I add the placeholder to my checklist for tomorrow. The team agrees to delete a branch before Friday. After that, We spend a few minutes on the stale branch at the standup. Before we move on, Maria asks, \"Could you be more specific?\" I answer, and we compare notes. Before we move on, Priya asks, \"What exactly do you mean?\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
+   "tts": "Before I build, I need to understand the request fully. After a short break, I go through the text field with Priya and note her advice. I add the placeholder to my checklist for tomorrow. The team agrees to delete a branch before Friday. After that, We spend a few minutes on the stale branch at the standup. Before we move on, Maria asks, \"Could you be more specific?\" I answer, and we compare notes. Before we move on, Priya asks, \"What exactly do you mean?\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "动手之前，我需要完全弄清这个需求。结果取决于文本输入框，所以我检查了两遍。我向一位新队友解释了占位提示。团队同意在周五之前删除分支。我把过期分支写成文档，方便团队之后查看。分开前，Leo说：\"你能说得更具体一点吗？\"我回答：\"你具体是什么意思？\"这一天以一份清晰的明日计划结束。",
+   "zh": "动手之前，我需要完全弄清这个需求。稍作休息后，我和 Priya 过了一遍文本输入框，记下了她的建议。我把占位提示加进了明天的清单。团队同意在周五之前删除分支。在那之后，站会上我们花了几分钟讨论过期分支。继续之前，Maria问：\"你能说得更具体一点吗？\"我回答，我们互相对了笔记。继续之前，Priya问：\"你具体是什么意思？\"我清楚地回答，并记下了这个说法。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "text field",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I ask Maria, \"Do you mean drafts survive a restart?\" She says yes. Before we part, Leo says, \"Let me make sure I understand.\" I answer, \"Do you mean this one?\" I suggest that we check the form validation first. The result depends on the required field, so I check it twice. I explain the branch protection to a new teammate. We discuss the risk around the naming convention. I check my notes and confirm the next step.",
-   "tts": "I ask Maria, \"Do you mean drafts survive a restart?\" She says yes. Before we part, Leo says, \"Let me make sure I understand.\" I answer, \"Do you mean this one?\" I suggest that we check the form validation first. The result depends on the required field, so I check it twice. I explain the branch protection to a new teammate. We discuss the risk around the naming convention. I check my notes and confirm the next step.",
+   "en": "I ask Maria, \"Do you mean drafts survive a restart?\" She says yes. Before we move on, Maria says, \"Let me make sure I understand.\" I answer, and we compare notes. Before we move on, Priya asks, \"Do you mean this one?\" I answer clearly and note the phrasing. During the review, I ask one question about the form validation. After a short break, I reread my notes about the required field after lunch. Before I reply, I look at the branch protection once more. I keep one real example of the naming convention in my notes. I check my notes and confirm the next step.",
+   "tts": "I ask Maria, \"Do you mean drafts survive a restart?\" She says yes. Before we move on, Maria says, \"Let me make sure I understand.\" I answer, and we compare notes. Before we move on, Priya asks, \"Do you mean this one?\" I answer clearly and note the phrasing. During the review, I ask one question about the form validation. After a short break, I reread my notes about the required field after lunch. Before I reply, I look at the branch protection once more. I keep one real example of the naming convention in my notes. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我问 Maria：“你是说草稿要在重启后还在吗？”她说是。分开前，Leo说：\"我来确认一下自己理解对了没有。\"我回答：\"你是说这一个吗？\"我建议我们先检查表单校验。结果取决于必填项，所以我检查了两遍。我向一位新队友解释了分支保护。我们讨论了命名规范相关的风险。我检查笔记，确认了下一步。",
+   "zh": "我问 Maria：“你是说草稿要在重启后还在吗？”她说是。继续之前，Maria说：\"我来确认一下自己理解对了没有。\"我回答，我们互相对了笔记。继续之前，Priya问：\"你是说这一个吗？\"我清楚地回答，并记下了这个说法。评审时，我就表单校验提了一个问题。稍作休息后，午饭后我重读了关于必填项的笔记。回复之前，我又看了一遍分支保护。我在笔记里留了一个命名规范的真实例子。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "form validation",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I explain the compare view to a new teammate. We discuss the risk around the squash merge option. I document the submit button so the team can review it later. If the character limit fails, we need a clear plan. Priya checks with me, \"Correct me if I'm wrong.\" I answer clearly, \"So the key point is timing?\" Now the request is clear. I write it down in one sentence.",
-   "tts": "Before I leave, I write a short summary for the team. I explain the compare view to a new teammate. We discuss the risk around the squash merge option. I document the submit button so the team can review it later. If the character limit fails, we need a clear plan. Priya checks with me, \"Correct me if I'm wrong.\" I answer clearly, \"So the key point is timing?\" Now the request is clear. I write it down in one sentence.",
+   "en": "Before I leave, I write a short summary for the team. I suggest that we check the compare view first. I double-check the squash merge option before the review. After that, I walk a new teammate through the submit button. I go through the character limit with Priya and note her advice. Before we move on, Leo says, \"Correct me if I'm wrong.\" I answer, then reuse it in my update. Before we move on, Maria asks, \"So the key point is timing?\" I answer, and we compare notes. Now the request is clear. I write it down in one sentence.",
+   "tts": "Before I leave, I write a short summary for the team. I suggest that we check the compare view first. I double-check the squash merge option before the review. After that, I walk a new teammate through the submit button. I go through the character limit with Priya and note her advice. Before we move on, Leo says, \"Correct me if I'm wrong.\" I answer, then reuse it in my update. Before we move on, Maria asks, \"So the key point is timing?\" I answer, and we compare notes. Now the request is clear. I write it down in one sentence.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我向一位新队友解释了对比视图。我们讨论了压缩合并选项相关的风险。我把提交按钮写成文档，方便团队之后查看。如果字数上限失败，我们需要一个清晰的方案。Priya向我确认：\"如果我理解错了请纠正我。\"我清楚地回答：\"所以重点是时间对吗？\"现在需求清楚了。我用一句话把它写了下来。",
+   "zh": "离开前，我给团队写了一份简短的总结。我建议我们先检查对比视图。评审之前，我再核对一遍压缩合并选项。在那之后，我带一位新队友过了一遍提交按钮。我和 Priya 过了一遍字数上限，记下了她的建议。继续之前，Leo说：\"如果我理解错了请纠正我。\"我回答，然后把它用进了自己的汇报。继续之前，Maria问：\"所以重点是时间对吗？\"我回答，我们互相对了笔记。现在需求清楚了。我用一句话把它写了下来。",
    "hard": [
     {
      "w": "submit button",

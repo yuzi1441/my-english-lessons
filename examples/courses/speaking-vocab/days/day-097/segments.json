@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A type annotation stops my mistake before lunch. I test on save while the office is still quiet. There is a short paragraph about the watch mode in the guide. I ask one good question about the breaking change policy in the meeting. My notes about the codemod look clearer this week. We drill it twice: Maria starts, \"The router needed a reboot.\" I reply, \"New wifi, same password.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "A type annotation stops my mistake before lunch. I test on save while the office is still quiet. There is a short paragraph about the watch mode in the guide. I ask one good question about the breaking change policy in the meeting. My notes about the codemod look clearer this week. We drill it twice: Maria starts, \"The router needed a reboot.\" I reply, \"New wifi, same password.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "A type annotation stops my mistake before lunch. I test on save while the office is still quiet. I add the watch mode to my study notes before I forget it. I ask one good question about the breaking change policy in the meeting. My notes about the codemod look clearer this week. Role play with feedback: Maria says, \"The router needed a reboot.\" I try, \"New wifi, same password.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "A type annotation stops my mistake before lunch. I test on save while the office is still quiet. I add the watch mode to my study notes before I forget it. I ask one good question about the breaking change policy in the meeting. My notes about the codemod look clearer this week. Role play with feedback: Maria says, \"The router needed a reboot.\" I try, \"New wifi, same password.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个类型标注在午饭前拦下了我的错误。趁办公室还安静，我保存即测。指南里有一小段关于监听模式的介绍。会上关于破坏性变更政策，我问了一个好问题。这周我关于代码迁移工具的笔记清楚多了。我们练了两遍：Maria起头：\"路由器需要重启了。\"我回答：\"新路由器\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "一个类型标注在午饭前拦下了我的错误。趁办公室还安静，我保存即测。我趁还没忘，把监听模式记进了学习笔记。会上关于破坏性变更政策，我问了一个好问题。这周我关于代码迁移工具的笔记清楚多了。角色扮演加反馈：Maria说：\"路由器需要重启了。\"我试着说：\"新路由器\"Maria补充道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "test on save",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The compile-time error points at the exact line of nonsense. Role play with feedback: Maria says, \"Dead zone in the bedroom.\" I try, \"The mesh fixed it.\" and Maria adds, \"That is the one we need today.\" There is a short paragraph about the test selection in the guide. I ask one good question about the parallel test runs in the meeting. My notes about the dual support period look clearer this week. I spend ten quiet minutes on the changelog search after the standup. The task moves forward, and so does my confidence.",
-   "tts": "The compile-time error points at the exact line of nonsense. Role play with feedback: Maria says, \"Dead zone in the bedroom.\" I try, \"The mesh fixed it.\" and Maria adds, \"That is the one we need today.\" There is a short paragraph about the test selection in the guide. I ask one good question about the parallel test runs in the meeting. My notes about the dual support period look clearer this week. I spend ten quiet minutes on the changelog search after the standup. The task moves forward, and so does my confidence.",
+   "en": "The compile-time error points at the exact line of nonsense. We practise the dialogue: Maria opens, \"Dead zone in the bedroom.\" I answer, \"The mesh fixed it.\" and Maria nods, \"That is the one we need today.\" I keep one real example of the test selection in my notebook. There is a short paragraph about the parallel test runs in the guide. I spend ten quiet minutes on the dual support period after the standup. I go over the changelog search one more time before lunch. The task moves forward, and so does my confidence.",
+   "tts": "The compile-time error points at the exact line of nonsense. We practise the dialogue: Maria opens, \"Dead zone in the bedroom.\" I answer, \"The mesh fixed it.\" and Maria nods, \"That is the one we need today.\" I keep one real example of the test selection in my notebook. There is a short paragraph about the parallel test runs in the guide. I spend ten quiet minutes on the dual support period after the standup. I go over the changelog search one more time before lunch. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "编译期错误直指那行荒唐代码的准确位置。角色扮演加反馈：Maria说：\"卧室有个信号死角。\"我试着说：\"组网解决了死角。\"Maria补充道：\"今天要的就是这句。\"指南里有一小段关于测试选择的介绍。会上关于并行测试，我问了一个好问题。这周我关于双版本并行期的笔记清楚多了。站会之后，我安安静静花了十分钟在变更日志检索上。任务在推进，我的信心也在成长。",
+   "zh": "编译期错误直指那行荒唐代码的准确位置。我们练习这段对话：Maria开场：\"卧室有个信号死角。\"我回答：\"组网解决了死角。\"Maria点头说：\"今天要的就是这句。\"我在笔记本里留了一个测试选择的真实例子。指南里有一小段关于并行测试的介绍。站会之后，我安安静静花了十分钟在双版本并行期上。午饭前我又过了一遍变更日志检索。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "test selection",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the deprecate loudly to my study notes before I forget it. I go over the support matrix one more time before lunch. There is a short paragraph about the test sharding in the guide. I ask one good question about the flaky detector in the meeting. We practise the dialogue: Leo opens, \"Speed test doubled.\" I answer, \"Cables beat wifi when it matters.\" and Leo nods, \"Nice, keep that one handy.\" Old code welcomes gradual typing like an old coat.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the deprecate loudly to my study notes before I forget it. I go over the support matrix one more time before lunch. There is a short paragraph about the test sharding in the guide. I ask one good question about the flaky detector in the meeting. We practise the dialogue: Leo opens, \"Speed test doubled.\" I answer, \"Cables beat wifi when it matters.\" and Leo nods, \"Nice, keep that one handy.\" Old code welcomes gradual typing like an old coat.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the deprecate loudly, and I explain the basics. I add the support matrix to my study notes before I forget it. I ask one good question about the test sharding in the meeting. My notes about the flaky detector look clearer this week. Warm-up round: Leo offers, \"Speed test doubled.\" I answer, \"Cables beat wifi when it matters.\" and Leo wraps up, \"Nice, keep that one handy.\" Old code welcomes gradual typing like an old coat.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the deprecate loudly, and I explain the basics. I add the support matrix to my study notes before I forget it. I ask one good question about the test sharding in the meeting. My notes about the flaky detector look clearer this week. Warm-up round: Leo offers, \"Speed test doubled.\" I answer, \"Cables beat wifi when it matters.\" and Leo wraps up, \"Nice, keep that one handy.\" Old code welcomes gradual typing like an old coat.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把大声弃用记进了学习笔记。午饭前我又过了一遍支持矩阵。指南里有一小段关于测试分片的介绍。会上关于抖动检测，我问了一个好问题。我们练习这段对话：Leo开场：\"测速翻倍了。\"我回答：\"关键时刻网线更靠谱。\"Leo点头说：\"不错，把这句记在手边。\"老代码像穿旧外套一样接受了渐进类型。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起大声弃用，我讲了讲基础。我趁还没忘，把支持矩阵记进了学习笔记。会上关于测试分片，我问了一个好问题。这周我关于抖动检测的笔记清楚多了。热身一轮：Leo给出：\"测速翻倍了。\"我回答：\"关键时刻网线更靠谱。\"Leo收尾道：\"不错，把这句记在手边。\"老代码像穿旧外套一样接受了渐进类型。",
    "hard": [
     {
      "w": "test sharding",

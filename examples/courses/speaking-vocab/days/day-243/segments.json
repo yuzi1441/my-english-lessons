@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 321,
+   "word_count": 329,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We threat model the drafts feature with snacks and sticky notes. I prepare a one-page brief about the sql injection so meetings start from facts. The team names one clear owner for the input sanitization. I compare two views on the sanitization test suite and write both down honestly. I add the csp header check to the meeting agenda with three supporting facts. Mock review: Priya probes, \"If it is urgent, it is suspicious.\" I answer from memory, \"I call back on the official number.\" and Priya confirms, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
-   "tts": "We threat model the drafts feature with snacks and sticky notes. I prepare a one-page brief about the sql injection so meetings start from facts. The team names one clear owner for the input sanitization. I compare two views on the sanitization test suite and write both down honestly. I add the csp header check to the meeting agenda with three supporting facts. Mock review: Priya probes, \"If it is urgent, it is suspicious.\" I answer from memory, \"I call back on the official number.\" and Priya confirms, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "en": "We threat model the drafts feature with snacks and sticky notes. I compare two views on the sql injection and write both down honestly. Our mentor walks me through how the input sanitization evolved on this team. I prepare a one-page brief about the sanitization test suite so meetings start from facts. I add the csp header check to the meeting agenda with three supporting facts. Dry run: Priya opens, \"If it is urgent, it is suspicious.\" I follow, \"I call back on the official number.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "We threat model the drafts feature with snacks and sticky notes. I compare two views on the sql injection and write both down honestly. Our mentor walks me through how the input sanitization evolved on this team. I prepare a one-page brief about the sanitization test suite so meetings start from facts. I add the csp header check to the meeting agenda with three supporting facts. Dry run: Priya opens, \"If it is urgent, it is suspicious.\" I follow, \"I call back on the official number.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们边吃零食边给草稿功能做威胁建模。我准备了一页关于SQL 注入的简报，好让会议从事实出发。团队为输入净化指定了明确的负责人。我比较了关于净化测试套件的两种观点，诚实地都记了下来。我把CSP 响应头检查连同三条支撑事实加进了议程。模拟评审：Priya追问：\"越催你越要怀疑。\"我凭记忆回答：\"我回拨官方号码核实。\"Priya确认：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们边吃零食边给草稿功能做威胁建模。我比较了关于SQL 注入的两种观点，诚实地都记了下来。导师带我梳理了输入净化在这个团队里的演变。我准备了一页关于净化测试套件的简报，好让会议从事实出发。我把CSP 响应头检查连同三条支撑事实加进了议程。干跑演练：Priya开场：\"越催你越要怀疑。\"我接上：\"我回拨官方号码核实。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "sql injection",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" Review warm-up: Priya raises, \"Prize notices go straight to trash.\" I answer, \"Family code word for emergencies.\" and Priya grades it, \"Strong answer — keep that precision.\" The team names one clear owner for the output encoding. I compare two views on the cross site scripting and write both down honestly. I add the csrf coverage report to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the injection finding template. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" Review warm-up: Priya raises, \"Prize notices go straight to trash.\" I answer, \"Family code word for emergencies.\" and Priya grades it, \"Strong answer — keep that precision.\" The team names one clear owner for the output encoding. I compare two views on the cross site scripting and write both down honestly. I add the csrf coverage report to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the injection finding template. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" Mock review: Priya probes, \"Prize notices go straight to trash.\" I answer from memory, \"Family code word for emergencies.\" and Priya confirms, \"Strong answer — keep that precision.\" Before deciding, I reread my notes about the output encoding twice. We spend the first ten minutes of the review on the cross site scripting. During the design review, I raise one careful question about the csrf coverage report. The team names one clear owner for the injection finding template. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" Mock review: Priya probes, \"Prize notices go straight to trash.\" I answer from memory, \"Family code word for emergencies.\" and Priya confirms, \"Strong answer — keep that precision.\" Before deciding, I reread my notes about the output encoding twice. We spend the first ten minutes of the review on the cross site scripting. During the design review, I raise one careful question about the csrf coverage report. The team names one clear owner for the injection finding template. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Priya 问：“谁会滥用它？他们想在 T 恤上印什么战果？”评审热身：Priya抛出：\"中奖通知直接进垃圾桶。\"我带着数字回答：\"家里有紧急暗号。\"Priya点评道：\"回答有力——保持这种精确。\"团队为输出编码指定了明确的负责人。我比较了关于跨站脚本攻击的两种观点，诚实地都记了下来。我把CSRF 覆盖报告连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了注入发现模板上。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "Priya 问：“谁会滥用它？他们想在 T 恤上印什么战果？”模拟评审：Priya追问：\"中奖通知直接进垃圾桶。\"我凭记忆回答：\"家里有紧急暗号。\"Priya确认：\"回答有力——保持这种精确。\"做决定之前，我把关于输出编码的笔记重读了两遍。评审的前十分钟，我们都用在了跨站脚本攻击上。设计评审中，我就CSRF 覆盖报告提出了一个审慎的问题。团队为注入发现模板指定了明确的负责人。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "output encoding",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the escaper usage lint twice. I prepare a one-page brief about the parameterized only policy so meetings start from facts. The team names one clear owner for the csrf token. I compare two views on the parameterized query and write both down honestly. Practice debate: Maria argues, \"The bank never asks for codes.\" I respond calmly, \"Scams update, skepticism updates faster.\" and Maria concedes, \"Agreed, note it in the ticket.\" Six abuse cases become six tests.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the escaper usage lint twice. I prepare a one-page brief about the parameterized only policy so meetings start from facts. The team names one clear owner for the csrf token. I compare two views on the parameterized query and write both down honestly. Practice debate: Maria argues, \"The bank never asks for codes.\" I respond calmly, \"Scams update, skepticism updates faster.\" and Maria concedes, \"Agreed, note it in the ticket.\" Six abuse cases become six tests.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the escaper usage lint and write both down honestly. Our mentor walks me through how the parameterized only policy evolved on this team. I prepare a one-page brief about the csrf token so meetings start from facts. I add the parameterized query to the meeting agenda with three supporting facts. Practice debate: Maria argues, \"The bank never asks for codes.\" I respond calmly, \"Scams update, skepticism updates faster.\" and Maria concedes, \"Agreed, note it in the ticket.\" Six abuse cases become six tests.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the escaper usage lint and write both down honestly. Our mentor walks me through how the parameterized only policy evolved on this team. I prepare a one-page brief about the csrf token so meetings start from facts. I add the parameterized query to the meeting agenda with three supporting facts. Practice debate: Maria argues, \"The bank never asks for codes.\" I respond calmly, \"Scams update, skepticism updates faster.\" and Maria concedes, \"Agreed, note it in the ticket.\" Six abuse cases become six tests.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于转义函数检查的笔记重读了两遍。我准备了一页关于只许参数化的简报，好让会议从事实出发。团队为CSRF 令牌指定了明确的负责人。我比较了关于参数化查询的两种观点，诚实地都记了下来。练习辩论：Maria主张：\"银行不会要你的验证码。\"我平静地回应：\"骗局在更新\"Maria承认道：\"同意，把这条记到工单里。\"六个滥用案例变成了六个测试。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于转义函数检查的两种观点，诚实地都记了下来。导师带我梳理了只许参数化在这个团队里的演变。我准备了一页关于CSRF 令牌的简报，好让会议从事实出发。我把参数化查询连同三条支撑事实加进了议程。练习辩论：Maria主张：\"银行不会要你的验证码。\"我平静地回应：\"骗局在更新\"Maria承认道：\"同意，把这条记到工单里。\"六个滥用案例变成了六个测试。",
    "hard": [
     {
      "w": "csrf token",

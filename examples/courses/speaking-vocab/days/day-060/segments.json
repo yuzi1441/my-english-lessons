@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 283,
+   "word_count": 284,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day sixty: the offline drafts are live for everyone. My notes about the environment variable look clearer this week. I spend ten quiet minutes on the volume mount after the standup. Sam asks me about the good first issue, and I explain the basics. I keep one real example of the issue triage in my notebook. We practise the dialogue: Priya opens, \"We shipped it!\" I answer, \"Cheers to the team!\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Day sixty: the offline drafts are live for everyone. My notes about the environment variable look clearer this week. I spend ten quiet minutes on the volume mount after the standup. Sam asks me about the good first issue, and I explain the basics. I keep one real example of the issue triage in my notebook. We practise the dialogue: Priya opens, \"We shipped it!\" I answer, \"Cheers to the team!\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "en": "Day sixty: the offline drafts are live for everyone. I ask one good question about the environment variable in the meeting. I keep one real example of the volume mount in my notebook. Sam asks me about the good first issue, and I explain the basics. I spend ten quiet minutes on the issue triage after the standup. Role play with feedback: Priya says, \"We shipped it!\" I try, \"Cheers to the team!\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "Day sixty: the offline drafts are live for everyone. I ask one good question about the environment variable in the meeting. I keep one real example of the volume mount in my notebook. Sam asks me about the good first issue, and I explain the basics. I spend ten quiet minutes on the issue triage after the standup. Role play with feedback: Priya says, \"We shipped it!\" I try, \"Cheers to the team!\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第六十天：离线草稿对所有人开放了。这周我关于环境变量的笔记清楚多了。站会之后，我安安静静花了十分钟在卷挂载上。Sam 问起新手任务，我讲了讲基础。我在笔记本里留了一个问题分诊的真实例子。我们练习这段对话：Priya开场：\"我们成功发布了！\"我回答：\"为团队干杯！\"Priya点头说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "第六十天：离线草稿对所有人开放了。会上关于环境变量，我问了一个好问题。我在笔记本里留了一个卷挂载的真实例子。Sam 问起新手任务，我讲了讲基础。站会之后，我安安静静花了十分钟在问题分诊上。角色扮演加反馈：Priya说：\"我们成功发布了！\"我试着说：\"为团队干杯！\"Priya补充道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "environment variable",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We celebrate with cheap pizza and expensive pride. We drill it twice: Priya starts, \"This calls for a celebration.\" I reply, \"I'm proud of what we built.\" then Priya smiles, \"Good — try it in today’s task.\" I spend ten quiet minutes on the container registry after the standup. Sam asks me about the image tag, and I explain the basics. I keep one real example of the community health file in my notebook. I add the first response to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
-   "tts": "We celebrate with cheap pizza and expensive pride. We drill it twice: Priya starts, \"This calls for a celebration.\" I reply, \"I'm proud of what we built.\" then Priya smiles, \"Good — try it in today’s task.\" I spend ten quiet minutes on the container registry after the standup. Sam asks me about the image tag, and I explain the basics. I keep one real example of the community health file in my notebook. I add the first response to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
+   "en": "We celebrate with cheap pizza and expensive pride. We drill it twice: Priya starts, \"This calls for a celebration.\" I reply, \"I'm proud of what we built.\" then Priya smiles, \"Good — try it in today’s task.\" There is a short paragraph about the container registry in the guide. I add the image tag to my study notes before I forget it. I go over the community health file one more time before lunch. My notes about the first response look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We celebrate with cheap pizza and expensive pride. We drill it twice: Priya starts, \"This calls for a celebration.\" I reply, \"I'm proud of what we built.\" then Priya smiles, \"Good — try it in today’s task.\" There is a short paragraph about the container registry in the guide. I add the image tag to my study notes before I forget it. I go over the community health file one more time before lunch. My notes about the first response look clearer this week. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们用便宜的披萨和昂贵的自豪感庆祝。我们练了两遍：Priya起头：\"这值得庆祝一下。\"我回答：\"我为我们的成果自豪。\"然后Priya笑着说：\"好——今天的任务里就用上。\"站会之后，我安安静静花了十分钟在镜像仓库上。Sam 问起镜像标签，我讲了讲基础。我在笔记本里留了一个社区健康文件的真实例子。我趁还没忘，把首次回应记进了学习笔记。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们用便宜的披萨和昂贵的自豪感庆祝。我们练了两遍：Priya起头：\"这值得庆祝一下。\"我回答：\"我为我们的成果自豪。\"然后Priya笑着说：\"好——今天的任务里就用上。\"指南里有一小段关于镜像仓库的介绍。我趁还没忘，把镜像标签记进了学习笔记。午饭前我又过了一遍社区健康文件。这周我关于首次回应的笔记清楚多了。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "container registry",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the recognition in the meeting. My notes about the roadmap page look clearer this week. I spend ten quiet minutes on the resource limit after the standup. Sam asks me about the port mapping, and I explain the basics. Warm-up round: Maria offers, \"Hard work paid off.\" I answer, \"Let's take a breath today.\" and Maria wraps up, \"That is the one we need today.\" Two months ago I cloned a repository. Today I shipped a feature.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the recognition in the meeting. My notes about the roadmap page look clearer this week. I spend ten quiet minutes on the resource limit after the standup. Sam asks me about the port mapping, and I explain the basics. Warm-up round: Maria offers, \"Hard work paid off.\" I answer, \"Let's take a breath today.\" and Maria wraps up, \"That is the one we need today.\" Two months ago I cloned a repository. Today I shipped a feature.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the recognition in the meeting. I keep one real example of the roadmap page in my notebook. Sam asks me about the resource limit, and I explain the basics. I spend ten quiet minutes on the port mapping after the standup. Warm-up round: Maria offers, \"Hard work paid off.\" I answer, \"Let's take a breath today.\" and Maria wraps up, \"That is the one we need today.\" Two months ago I cloned a repository. Today I shipped a feature.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the recognition in the meeting. I keep one real example of the roadmap page in my notebook. Sam asks me about the resource limit, and I explain the basics. I spend ten quiet minutes on the port mapping after the standup. Warm-up round: Maria offers, \"Hard work paid off.\" I answer, \"Let's take a breath today.\" and Maria wraps up, \"That is the one we need today.\" Two months ago I cloned a repository. Today I shipped a feature.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于致谢，我问了一个好问题。这周我关于路线图页的笔记清楚多了。站会之后，我安安静静花了十分钟在资源限制上。Sam 问起端口映射，我讲了讲基础。热身一轮：Maria给出：\"努力有了回报。\"我回答：\"今天我们喘口气。\"Maria收尾道：\"今天要的就是这句。\"两个月前我克隆了一个仓库。今天我发布了一个功能。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于致谢，我问了一个好问题。我在笔记本里留了一个路线图页的真实例子。Sam 问起资源限制，我讲了讲基础。站会之后，我安安静静花了十分钟在端口映射上。热身一轮：Maria给出：\"努力有了回报。\"我回答：\"今天我们喘口气。\"Maria收尾道：\"今天要的就是这句。\"两个月前我克隆了一个仓库。今天我发布了一个功能。",
    "hard": [
     {
      "w": "resource limit",

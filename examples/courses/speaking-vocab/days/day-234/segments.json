@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 311,
+   "word_count": 315,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I start a ledger of boring, local speedups. Before deciding, I reread my notes about the instrumentation overhead twice. I prepare a one-page brief about the trace volume budget so meetings start from facts. The team names one clear owner for the telemetry cost dashboard. I compare two views on the trace sampling review and write both down honestly. Practice debate: Priya argues, \"Bullet journal, two minutes.\" I respond calmly, \"Tracking everything tracks me down.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
-   "tts": "I start a ledger of boring, local speedups. Before deciding, I reread my notes about the instrumentation overhead twice. I prepare a one-page brief about the trace volume budget so meetings start from facts. The team names one clear owner for the telemetry cost dashboard. I compare two views on the trace sampling review and write both down honestly. Practice debate: Priya argues, \"Bullet journal, two minutes.\" I respond calmly, \"Tracking everything tracks me down.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "en": "I start a ledger of boring, local speedups. Before deciding, I reread my notes about the instrumentation overhead twice. Our mentor walks me through how the trace volume budget evolved on this team. We spend the first ten minutes of the review on the telemetry cost dashboard. I add the trace sampling review to the meeting agenda with three supporting facts. Practice debate: Priya argues, \"Bullet journal, two minutes.\" I respond calmly, \"Tracking everything tracks me down.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "I start a ledger of boring, local speedups. Before deciding, I reread my notes about the instrumentation overhead twice. Our mentor walks me through how the trace volume budget evolved on this team. We spend the first ten minutes of the review on the telemetry cost dashboard. I add the trace sampling review to the meeting agenda with three supporting facts. Practice debate: Priya argues, \"Bullet journal, two minutes.\" I respond calmly, \"Tracking everything tracks me down.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我开始记一本不起眼提速的账。做决定之前，我把关于埋点开销的笔记重读了两遍。我准备了一页关于追踪量预算的简报，好让会议从事实出发。团队为遥测成本看板指定了明确的负责人。我比较了关于追踪采样评审的两种观点，诚实地都记了下来。练习辩论：Priya主张：\"子弹笔记\"我平静地回应：\"全都在记就记不动了。\"Priya承认道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我开始记一本不起眼提速的账。做决定之前，我把关于埋点开销的笔记重读了两遍。导师带我梳理了追踪量预算在这个团队里的演变。评审的前十分钟，我们都用在了遥测成本看板上。我把追踪采样评审连同三条支撑事实加进了议程。练习辩论：Priya主张：\"子弹笔记\"我平静地回应：\"全都在记就记不动了。\"Priya承认道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "instrumentation overhead",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A preconnect here, a smaller image there; small numbers, real users. Mock review: Priya probes, \"The habit tracker stays simple.\" I answer from memory, \"Photos cost attention too.\" and Priya confirms, \"Strong answer — keep that precision.\" I prepare a one-page brief about the log sampling config so meetings start from facts. The team names one clear owner for the metrics cardinality control. I compare two views on the metric cardinality lint and write both down honestly. I add the overhead benchmark in ci to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "A preconnect here, a smaller image there; small numbers, real users. Mock review: Priya probes, \"The habit tracker stays simple.\" I answer from memory, \"Photos cost attention too.\" and Priya confirms, \"Strong answer — keep that precision.\" I prepare a one-page brief about the log sampling config so meetings start from facts. The team names one clear owner for the metrics cardinality control. I compare two views on the metric cardinality lint and write both down honestly. I add the overhead benchmark in ci to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "A preconnect here, a smaller image there; small numbers, real users. Mock review: Priya probes, \"The habit tracker stays simple.\" I answer from memory, \"Photos cost attention too.\" and Priya confirms, \"Strong answer — keep that precision.\" The team names one clear owner for the log sampling config. I prepare a one-page brief about the metrics cardinality control so meetings start from facts. During the design review, I raise one careful question about the metric cardinality lint. I compare two views on the overhead benchmark in ci and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "A preconnect here, a smaller image there; small numbers, real users. Mock review: Priya probes, \"The habit tracker stays simple.\" I answer from memory, \"Photos cost attention too.\" and Priya confirms, \"Strong answer — keep that precision.\" The team names one clear owner for the log sampling config. I prepare a one-page brief about the metrics cardinality control so meetings start from facts. During the design review, I raise one careful question about the metric cardinality lint. I compare two views on the overhead benchmark in ci and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "这里预连接，那里缩图；数字不大，用户是真的。模拟评审：Priya追问：\"习惯打卡保持简单。\"我凭记忆回答：\"拍照也花注意力。\"Priya确认：\"回答有力——保持这种精确。\"我准备了一页关于日志采样配置的简报，好让会议从事实出发。团队为指标基数控制指定了明确的负责人。我比较了关于指标基数检查的两种观点，诚实地都记了下来。我把CI 里的开销基准连同三条支撑事实加进了议程。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "这里预连接，那里缩图；数字不大，用户是真的。模拟评审：Priya追问：\"习惯打卡保持简单。\"我凭记忆回答：\"拍照也花注意力。\"Priya确认：\"回答有力——保持这种精确。\"团队为日志采样配置指定了明确的负责人。我准备了一页关于指标基数控制的简报，好让会议从事实出发。设计评审中，我就指标基数检查提出了一个审慎的问题。我比较了关于CI 里的开销基准的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "log sampling config",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the observability budget doc evolved on this team. Before deciding, I reread my notes about the sampling quality check twice. I prepare a one-page brief about the overhead regression check so meetings start from facts. The team names one clear owner for the observer effect awareness. Dry run: Maria opens, \"I log exceptions, not meals.\" I follow, \"Measurement serves the day.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" Compounding applies to milliseconds too.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the observability budget doc evolved on this team. Before deciding, I reread my notes about the sampling quality check twice. I prepare a one-page brief about the overhead regression check so meetings start from facts. The team names one clear owner for the observer effect awareness. Dry run: Maria opens, \"I log exceptions, not meals.\" I follow, \"Measurement serves the day.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" Compounding applies to milliseconds too.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the observability budget doc twice. Our mentor walks me through how the sampling quality check evolved on this team. We spend the first ten minutes of the review on the overhead regression check. I add the observer effect awareness to the meeting agenda with three supporting facts. Dry run: Maria opens, \"I log exceptions, not meals.\" I follow, \"Measurement serves the day.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" Compounding applies to milliseconds too.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the observability budget doc twice. Our mentor walks me through how the sampling quality check evolved on this team. We spend the first ten minutes of the review on the overhead regression check. I add the observer effect awareness to the meeting agenda with three supporting facts. Dry run: Maria opens, \"I log exceptions, not meals.\" I follow, \"Measurement serves the day.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" Compounding applies to milliseconds too.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了可观测预算文档在这个团队里的演变。做决定之前，我把关于采样质量检查的笔记重读了两遍。我准备了一页关于开销回归检查的简报，好让会议从事实出发。团队为观察者效应意识指定了明确的负责人。干跑演练：Maria开场：\"我只记例外不记流水。\"我接上：\"度量服务于生活。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"毫秒也会复利。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于可观测预算文档的笔记重读了两遍。导师带我梳理了采样质量检查在这个团队里的演变。评审的前十分钟，我们都用在了开销回归检查上。我把观察者效应意识连同三条支撑事实加进了议程。干跑演练：Maria开场：\"我只记例外不记流水。\"我接上：\"度量服务于生活。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"毫秒也会复利。",
    "hard": [
     {
      "w": "overhead regression check",

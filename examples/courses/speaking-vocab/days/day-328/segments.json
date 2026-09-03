@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 333,
+   "word_count": 327,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Leo writes an ADR arguing against his own favorite tool. I present the conway law awareness with a timeline, the data, and one clear ask. We align on the team topology alignment early, so execution never has to guess. My report covers the team interaction modes doc, the risks behind it, and the cost of waiting. I propose a measurable target for the service ownership transfer flow this quarter. Launch rehearsal: Maria asks, \"The chore chart mirrors our friendships.\" I present, \"Whoever cooks skips the dishes.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "Leo writes an ADR arguing against his own favorite tool. I present the conway law awareness with a timeline, the data, and one clear ask. We align on the team topology alignment early, so execution never has to guess. My report covers the team interaction modes doc, the risks behind it, and the cost of waiting. I propose a measurable target for the service ownership transfer flow this quarter. Launch rehearsal: Maria asks, \"The chore chart mirrors our friendships.\" I present, \"Whoever cooks skips the dishes.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "Leo writes an ADR arguing against his own favorite tool. I close the discussion on the conway law awareness with a short summary. My report covers the team topology alignment, the risks behind it, and the cost of waiting. I propose a measurable target for the team interaction modes doc this quarter. We align on the service ownership transfer flow early, so execution never has to guess. Board practice: Maria probes, \"The chore chart mirrors our friendships.\" I respond without a pause, \"Whoever cooks skips the dishes.\" and Maria nods, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Leo writes an ADR arguing against his own favorite tool. I close the discussion on the conway law awareness with a short summary. My report covers the team topology alignment, the risks behind it, and the cost of waiting. I propose a measurable target for the team interaction modes doc this quarter. We align on the service ownership transfer flow early, so execution never has to guess. Board practice: Maria probes, \"The chore chart mirrors our friendships.\" I respond without a pause, \"Whoever cooks skips the dishes.\" and Maria nods, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Leo 写了一篇反对自己心爱工具的决策记录。我用时间线、数据和一条明确的诉求来汇报康威定律意识。我们尽早就团队拓扑对齐对齐，让执行无需猜测。我的报告涵盖团队交互模式文档、背后的风险，以及等待的代价。我为服务归属转移流程提出了本季度一个可衡量的目标。上线彩排：Maria问：\"家务表照出我们的友谊结构。\"我带着准备好的数字汇报：\"做饭的人不洗碗。\"Maria签字道：\"说得好，这句留在材料里。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "Leo 写了一篇反对自己心爱工具的决策记录。我用一段简短的总结为康威定律意识的讨论收尾。我的报告涵盖团队拓扑对齐、背后的风险，以及等待的代价。我为团队交互模式文档提出了本季度一个可衡量的目标。我们尽早就服务归属转移流程对齐，让执行无需猜测。董事会练习：Maria追问：\"家务表照出我们的友谊结构。\"我毫不迟疑地回应：\"做饭的人不洗碗。\"Maria点头道：\"说得好，这句留在材料里。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "conway law awareness",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The honest trade-off table convinces the room, including him. Final dry run: Maria summarises, \"Handoffs happen at the door.\" I confirm, \"Teams of two finish faster.\" for the record, and Maria closes, \"Well said, that stays in the deck.\" We align on the cognitive load based team design early, so execution never has to guess. My report covers the platform team charter, the risks behind it, and the cost of waiting. I propose a measurable target for the cross onboarding rotations this quarter. We review the meeting reduction after merge against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "The honest trade-off table convinces the room, including him. Final dry run: Maria summarises, \"Handoffs happen at the door.\" I confirm, \"Teams of two finish faster.\" for the record, and Maria closes, \"Well said, that stays in the deck.\" We align on the cognitive load based team design early, so execution never has to guess. My report covers the platform team charter, the risks behind it, and the cost of waiting. I propose a measurable target for the cross onboarding rotations this quarter. We review the meeting reduction after merge against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "The honest trade-off table convinces the room, including him. Launch rehearsal: Maria asks, \"Handoffs happen at the door.\" I present, \"Teams of two finish faster.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" We review the cognitive load based team design against the requirements, line by line. I put the platform team charter on the record so the reasoning stays visible. The final deck includes the cross onboarding rotations and what we learned from it. I present the meeting reduction after merge with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "The honest trade-off table convinces the room, including him. Launch rehearsal: Maria asks, \"Handoffs happen at the door.\" I present, \"Teams of two finish faster.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" We review the cognitive load based team design against the requirements, line by line. I put the platform team charter on the record so the reasoning stays visible. The final deck includes the cross onboarding rotations and what we learned from it. I present the meeting reduction after merge with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "诚实的取舍表说服了全场，包括他自己。最终干跑：Maria总结：\"交接在门口完成。\"我郑重确认：\"两人小队完成更快。\"Maria收尾道：\"说得好，这句留在材料里。\"我们尽早就按认知负荷设计团队对齐，让执行无需猜测。我的报告涵盖平台团队章程、背后的风险，以及等待的代价。我为交叉入职轮换提出了本季度一个可衡量的目标。我们逐行对照需求检查了合并后会议削减。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "诚实的取舍表说服了全场，包括他自己。上线彩排：Maria问：\"交接在门口完成。\"我带着准备好的数字汇报：\"两人小队完成更快。\"Maria签字道：\"说得好，这句留在材料里。\"我们逐行对照需求检查了按认知负荷设计团队。我把平台团队章程记录在案，让推理过程保持可见。最终的材料里有交叉入职轮换，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报合并后会议削减。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "cognitive load based team design",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the ownership clarity audit on the record so the reasoning stays visible. I present the team health vs architecture map with a timeline, the data, and one clear ask. We align on the reinforcing learning loops early, so execution never has to guess. My report covers the reverse conway maneuver, the risks behind it, and the cost of waiting. Last rehearsal: Leo checks, \"The dog owns the hallway.\" I commit word for word, \"Structure follows stomachs.\" and Leo smiles, \"Confirmed. This is launch ready.\" Intellectual honesty is an architectural feature.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the ownership clarity audit on the record so the reasoning stays visible. I present the team health vs architecture map with a timeline, the data, and one clear ask. We align on the reinforcing learning loops early, so execution never has to guess. My report covers the reverse conway maneuver, the risks behind it, and the cost of waiting. Last rehearsal: Leo checks, \"The dog owns the hallway.\" I commit word for word, \"Structure follows stomachs.\" and Leo smiles, \"Confirmed. This is launch ready.\" Intellectual honesty is an architectural feature.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the ownership clarity audit with a short summary. My report covers the team health vs architecture map, the risks behind it, and the cost of waiting. I propose a measurable target for the reinforcing learning loops this quarter. We align on the reverse conway maneuver early, so execution never has to guess. Last rehearsal: Leo checks, \"The dog owns the hallway.\" I commit word for word, \"Structure follows stomachs.\" and Leo smiles, \"Confirmed. This is launch ready.\" Intellectual honesty is an architectural feature.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the ownership clarity audit with a short summary. My report covers the team health vs architecture map, the risks behind it, and the cost of waiting. I propose a measurable target for the reinforcing learning loops this quarter. We align on the reverse conway maneuver early, so execution never has to guess. Last rehearsal: Leo checks, \"The dog owns the hallway.\" I commit word for word, \"Structure follows stomachs.\" and Leo smiles, \"Confirmed. This is launch ready.\" Intellectual honesty is an architectural feature.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把归属清晰度审计记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报团队健康与架构对照图。我们尽早就强化学习回路对齐，让执行无需猜测。我的报告涵盖逆向康威操作、背后的风险，以及等待的代价。最后一次彩排：Leo核对：\"狗负责走廊。\"我逐字承诺：\"结构跟着胃走。\"Leo笑道：\"确认无误，可以上线了。\"智识上的诚实是一种架构特性。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为归属清晰度审计的讨论收尾。我的报告涵盖团队健康与架构对照图、背后的风险，以及等待的代价。我为强化学习回路提出了本季度一个可衡量的目标。我们尽早就逆向康威操作对齐，让执行无需猜测。最后一次彩排：Leo核对：\"狗负责走廊。\"我逐字承诺：\"结构跟着胃走。\"Leo笑道：\"确认无误，可以上线了。\"智识上的诚实是一种架构特性。",
    "hard": [
     {
      "w": "reinforcing learning loops",

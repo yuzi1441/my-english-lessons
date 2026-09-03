@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 156,
+   "word_count": 175,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Today is Monday. It is my first day at a new job. My team makes a chat program. This is the hardware. I see the device. The repository is new to me. Maria shows me the README file. Maria smiles and says, \"Nice to meet you.\" I answer, \"How are you doing?\" Maria helps me a lot.",
-   "tts": "Today is Monday. It is my first day at a new job. My team makes a chat program. This is the hardware. I see the device. The repository is new to me. Maria shows me the read me file. Maria smiles and says, \"Nice to meet you.\" I answer, \"How are you doing?\" Maria helps me a lot.",
+   "en": "Today is Monday. It is my first day at a new job. My team makes a chat program. This is the hardware. The device is new to me. Maria shows me the repository. I look at the README file. Priya says, \"Nice to meet you.\" I answer politely. Leo asks, \"How are you doing?\" I answer with a smile. Maria helps me a lot.",
+   "tts": "Today is Monday. It is my first day at a new job. My team makes a chat program. This is the hardware. The device is new to me. Maria shows me the repository. I look at the read me file. Priya says, \"Nice to meet you.\" I answer politely. Leo asks, \"How are you doing?\" I answer with a smile. Maria helps me a lot.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "今天是周一，是我新工作的第一天。我的团队在做一个聊天程序。这是硬件。我看到了设备。仓库对我来说很新。Maria 给我看了README 文件。Maria微笑着说：\"很高兴认识你。\"我回答：\"你最近怎么样？\"Maria 帮了我很多。",
+   "zh": "今天是周一，是我新工作的第一天。我的团队在做一个聊天程序。这是硬件。设备对我来说很新。Maria 给我看了仓库。我看着README 文件。Priya说：\"很高兴认识你。\"我礼貌地回应。Leo问：\"你最近怎么样？\"我微笑着回答。Maria 帮了我很多。",
    "hard": [
     {
      "w": "hardware",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "At noon, Maria sits with me. She introduces the team. I read the pattern slowly: My name is ... Maria says, \"I'm new here.\" Maria shows me the monitor. I point to the keyboard. I look at source code. This is the project folder. I feel good today.",
-   "tts": "At noon, Maria sits with me. She introduces the team. I read the pattern slowly: My name is  Maria says, \"I'm new here.\" Maria shows me the monitor. I point to the keyboard. I look at source code. This is the project folder. I feel good today.",
+   "en": "At noon, Maria sits with me. She introduces the team. I practise the pattern out loud: My name is ... Maria says, \"I'm new here.\" I nod and reply. I point to the monitor. I see the keyboard. This is source code. The project folder is new to me. I feel good today.",
+   "tts": "At noon, Maria sits with me. She introduces the team. I practise the pattern out loud: My name is  Maria says, \"I'm new here.\" I nod and reply. I point to the monitor. I see the keyboard. This is source code. The project folder is new to me. I feel good today.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "中午，Maria 和我坐在一起。她把我介绍给团队。我慢慢读出这个句型：我的名字是……Maria说：\"我是新来的。\"Maria 给我看了显示器。我指着键盘。我看着源代码。这是项目文件夹。我今天感觉很好。",
+   "zh": "中午，Maria 和我坐在一起。她把我介绍给团队。我大声练习这个句型：我的名字是……Maria说：\"我是新来的。\"我点头回应。我指着显示器。我看到了键盘。这是源代码。项目文件夹对我来说很新。我今天感觉很好。",
    "hard": [
     {
      "w": "monitor",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I do one last thing. I look at code hosting. This is the public repository. I see the mouse. The power button is new to me. I hear, \"Where are you from?\" then I answer, \"See you later.\" I am tired, but happy. Tomorrow I will learn more.",
-   "tts": "Before I leave, I do one last thing. I look at code hosting. This is the public repository. I see the mouse. The power button is new to me. I hear, \"Where are you from?\" then I answer, \"See you later.\" I am tired, but happy. Tomorrow I will learn more.",
+   "en": "Before I leave, I do one last thing. Maria shows me code hosting. I look at the public repository. I point to the mouse. I see the power button. Priya asks, \"Where are you from?\" I answer politely. Leo says, \"See you later.\" I answer with a smile. I am tired, but happy. Tomorrow I will learn more.",
+   "tts": "Before I leave, I do one last thing. Maria shows me code hosting. I look at the public repository. I point to the mouse. I see the power button. Priya asks, \"Where are you from?\" I answer politely. Leo says, \"See you later.\" I answer with a smile. I am tired, but happy. Tomorrow I will learn more.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。我看着代码托管。这是公开仓库。我看到了鼠标。电源按钮对我来说很新。我听到：\"你来自哪里？\"然后我回答：\"回头见。\"我有点累，但很开心。明天我会学到更多。",
+   "zh": "离开前，我做最后一件事。Maria 给我看了代码托管。我看着公开仓库。我指着鼠标。我看到了电源按钮。Priya问：\"你来自哪里？\"我礼貌地回应。Leo说：\"回头见。\"我微笑着回答。我有点累，但很开心。明天我会学到更多。",
    "hard": [
     {
      "w": "mouse",

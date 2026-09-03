@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 280,
+   "word_count": 275,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The team wants the app in two languages. Sam asks me about the internationalization, and I explain the basics. I keep one real example of the locale in my notebook. This morning, I archive a repository before the first call. I transfer ownership while the office is still quiet. Role play with feedback: Priya says, \"How do you celebrate it?\" I try, \"We have a family dinner.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
-   "tts": "The team wants the app in two languages. Sam asks me about the internationalization, and I explain the basics. I keep one real example of the locale in my notebook. This morning, I archive a repository before the first call. I transfer ownership while the office is still quiet. Role play with feedback: Priya says, \"How do you celebrate it?\" I try, \"We have a family dinner.\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "en": "The team wants the app in two languages. I spend ten quiet minutes on the internationalization after the standup. My notes about the locale look clearer this week. It is finally my turn to archive a repository. I transfer ownership, then I take a short break. We practise the dialogue: Priya opens, \"How do you celebrate it?\" I answer, \"We have a family dinner.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "The team wants the app in two languages. I spend ten quiet minutes on the internationalization after the standup. My notes about the locale look clearer this week. It is finally my turn to archive a repository. I transfer ownership, then I take a short break. We practise the dialogue: Priya opens, \"How do you celebrate it?\" I answer, \"We have a family dinner.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "团队想让应用支持两种语言。Sam 问起国际化，我讲了讲基础。我在笔记本里留了一个区域设置的真实例子。今天早上，第一次通话之前我先归档仓库。趁办公室还安静，我转让所有权。角色扮演加反馈：Priya说：\"你们怎么庆祝这个节日？\"我试着说：\"我们会吃一顿家庭晚餐。\"Priya补充道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "团队想让应用支持两种语言。站会之后，我安安静静花了十分钟在国际化上。这周我关于区域设置的笔记清楚多了。终于轮到我归档仓库了。我转让所有权，然后休息了一下。我们练习这段对话：Priya开场：\"你们怎么庆祝这个节日？\"我回答：\"我们会吃一顿家庭晚餐。\"Priya点头说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "internationalization",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I move every sentence into a translation file and learn the plural rule the hard way. Warm-up round: Priya offers, \"It's a public holiday here.\" I answer, \"I usually travel during it.\" and Priya wraps up, \"Good — try it in today’s task.\" I keep one real example of the translation file in my notebook. I add the plural rule to my study notes before I forget it. I go over the repository settings one more time before lunch. There is a short paragraph about the default reviewer in the guide. Small progress today prepares the bigger step tomorrow.",
-   "tts": "I move every sentence into a translation file and learn the plural rule the hard way. Warm-up round: Priya offers, \"It's a public holiday here.\" I answer, \"I usually travel during it.\" and Priya wraps up, \"Good — try it in today’s task.\" I keep one real example of the translation file in my notebook. I add the plural rule to my study notes before I forget it. I go over the repository settings one more time before lunch. There is a short paragraph about the default reviewer in the guide. Small progress today prepares the bigger step tomorrow.",
+   "en": "I move every sentence into a translation file and learn the plural rule the hard way. We drill it twice: Priya starts, \"It's a public holiday here.\" I reply, \"I usually travel during it.\" then Priya smiles, \"Good — try it in today’s task.\" I add the translation file to my study notes before I forget it. I go over the plural rule one more time before lunch. There is a short paragraph about the repository settings in the guide. I keep one real example of the default reviewer in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "tts": "I move every sentence into a translation file and learn the plural rule the hard way. We drill it twice: Priya starts, \"It's a public holiday here.\" I reply, \"I usually travel during it.\" then Priya smiles, \"Good — try it in today’s task.\" I add the translation file to my study notes before I forget it. I go over the plural rule one more time before lunch. There is a short paragraph about the repository settings in the guide. I keep one real example of the default reviewer in my notebook. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我把每一句话搬进翻译文件，并用最费劲的方式学会了复数规则。热身一轮：Priya给出：\"这里是法定假日。\"我回答：\"我通常趁假期去旅行。\"Priya收尾道：\"好——今天的任务里就用上。\"我在笔记本里留了一个翻译文件的真实例子。我趁还没忘，把复数规则记进了学习笔记。午饭前我又过了一遍仓库设置。指南里有一小段关于默认评审人的介绍。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我把每一句话搬进翻译文件，并用最费劲的方式学会了复数规则。我们练了两遍：Priya起头：\"这里是法定假日。\"我回答：\"我通常趁假期去旅行。\"然后Priya笑着说：\"好——今天的任务里就用上。\"我趁还没忘，把翻译文件记进了学习笔记。午饭前我又过了一遍复数规则。指南里有一小段关于仓库设置的介绍。我在笔记本里留了一个默认评审人的真实例子。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "translation file",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the stale issue bot after the standup. Sam asks me about the maintenance window, and I explain the basics. I keep one real example of the right-to-left in my notebook. I add the fallback language to my study notes before I forget it. We drill it twice: Maria starts, \"The streets get crowded.\" I reply, \"Happy holidays to you.\" then Maria smiles, \"That is the one we need today.\" Internationalization is empathy at scale.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the stale issue bot after the standup. Sam asks me about the maintenance window, and I explain the basics. I keep one real example of the right-to-left in my notebook. I add the fallback language to my study notes before I forget it. We drill it twice: Maria starts, \"The streets get crowded.\" I reply, \"Happy holidays to you.\" then Maria smiles, \"That is the one we need today.\" Internationalization is empathy at scale.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the stale issue bot, and I explain the basics. I ask one good question about the maintenance window in the meeting. I spend ten quiet minutes on the right-to-left after the standup. My notes about the fallback language look clearer this week. Role play with feedback: Maria says, \"The streets get crowded.\" I try, \"Happy holidays to you.\" and Maria adds, \"That is the one we need today.\" Internationalization is empathy at scale.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the stale issue bot, and I explain the basics. I ask one good question about the maintenance window in the meeting. I spend ten quiet minutes on the right-to-left after the standup. My notes about the fallback language look clearer this week. Role play with feedback: Maria says, \"The streets get crowded.\" I try, \"Happy holidays to you.\" and Maria adds, \"That is the one we need today.\" Internationalization is empathy at scale.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在闲置提醒机器人上。Sam 问起维护窗口，我讲了讲基础。我在笔记本里留了一个从右到左的真实例子。我趁还没忘，把回退语言记进了学习笔记。我们练了两遍：Maria起头：\"街道会变得很拥挤。\"我回答：\"祝你节日快乐。\"然后Maria笑着说：\"今天要的就是这句。\"国际化是规模化的同理心。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起闲置提醒机器人，我讲了讲基础。会上关于维护窗口，我问了一个好问题。站会之后，我安安静静花了十分钟在从右到左上。这周我关于回退语言的笔记清楚多了。角色扮演加反馈：Maria说：\"街道会变得很拥挤。\"我试着说：\"祝你节日快乐。\"Maria补充道：\"今天要的就是这句。\"国际化是规模化的同理心。",
    "hard": [
     {
      "w": "right-to-left",

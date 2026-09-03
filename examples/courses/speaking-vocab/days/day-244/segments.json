@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 326,
+   "word_count": 324,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A phishing email arrives wearing Maria's name and her punctuation. The team names one clear owner for the web application firewall. I compare two views on the ddos mitigation and write both down honestly. I add the waf rule review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the firewall change record. Review warm-up: Maria raises, \"The building gate closes politely.\" I answer, \"Strangers get friendly directions, not entry.\" and Maria grades it, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "A phishing email arrives wearing Maria's name and her punctuation. The team names one clear owner for the web application firewall. I compare two views on the ddos mitigation and write both down honestly. I add the waf rule review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the firewall change record. Review warm-up: Maria raises, \"The building gate closes politely.\" I answer, \"Strangers get friendly directions, not entry.\" and Maria grades it, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "A phishing email arrives wearing Maria's name and her punctuation. Before deciding, I reread my notes about the web application firewall twice. Our mentor walks me through how the ddos mitigation evolved on this team. During the design review, I raise one careful question about the waf rule review. I prepare a one-page brief about the firewall change record so meetings start from facts. Review warm-up: Maria raises, \"The building gate closes politely.\" I answer, \"Strangers get friendly directions, not entry.\" and Maria grades it, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "A phishing email arrives wearing Maria's name and her punctuation. Before deciding, I reread my notes about the web application firewall twice. Our mentor walks me through how the ddos mitigation evolved on this team. During the design review, I raise one careful question about the waf rule review. I prepare a one-page brief about the firewall change record so meetings start from facts. Review warm-up: Maria raises, \"The building gate closes politely.\" I answer, \"Strangers get friendly directions, not entry.\" and Maria grades it, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一封钓鱼邮件顶着 Maria 的署名，连标点习惯都学到了。团队为Web 应用防火墙指定了明确的负责人。我比较了关于DDoS 缓解的两种观点，诚实地都记了下来。我把WAF 规则评审连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了防火墙变更记录上。评审热身：Maria抛出：\"单元门礼貌地关上。\"我带着数字回答：\"陌生人得到指路不放行。\"Maria点评道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "一封钓鱼邮件顶着 Maria 的署名，连标点习惯都学到了。做决定之前，我把关于Web 应用防火墙的笔记重读了两遍。导师带我梳理了DDoS 缓解在这个团队里的演变。设计评审中，我就WAF 规则评审提出了一个审慎的问题。我准备了一页关于防火墙变更记录的简报，好让会议从事实出发。评审热身：Maria抛出：\"单元门礼貌地关上。\"我带着数字回答：\"陌生人得到指路不放行。\"Maria点评道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "web application firewall",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One odd link gives it away; I report the phish in nine seconds. Dry run: Maria opens, \"The intercom list is current.\" I follow, \"Package lockers beat door drops.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I compare two views on the rate limit by identity and write both down honestly. I add the ip allowlist for admin to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the segmentation diagram. During the design review, I raise one careful question about the exposed port audit. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "One odd link gives it away; I report the phish in nine seconds. Dry run: Maria opens, \"The intercom list is current.\" I follow, \"Package lockers beat door drops.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I compare two views on the rate limit by identity and write both down honestly. I add the ip allowlist for admin to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the segmentation diagram. During the design review, I raise one careful question about the exposed port audit. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "One odd link gives it away; I report the phish in nine seconds. Practice debate: Maria argues, \"The intercom list is current.\" I respond calmly, \"Package lockers beat door drops.\" and Maria concedes, \"Agreed, note it in the ticket.\" We spend the first ten minutes of the review on the rate limit by identity. The team names one clear owner for the ip allowlist for admin. I compare two views on the segmentation diagram and write both down honestly. I add the exposed port audit to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "One odd link gives it away; I report the phish in nine seconds. Practice debate: Maria argues, \"The intercom list is current.\" I respond calmly, \"Package lockers beat door drops.\" and Maria concedes, \"Agreed, note it in the ticket.\" We spend the first ten minutes of the review on the rate limit by identity. The team names one clear owner for the ip allowlist for admin. I compare two views on the segmentation diagram and write both down honestly. I add the exposed port audit to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个奇怪的链接露了馅；我九秒钟完成举报。干跑演练：Maria开场：\"门禁名单是最新的。\"我接上：\"快递柜胜过门口放。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"我比较了关于按身份限流的两种观点，诚实地都记了下来。我把管理后台白名单连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了网络分段图上。设计评审中，我就暴露端口审计提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "一个奇怪的链接露了馅；我九秒钟完成举报。练习辩论：Maria主张：\"门禁名单是最新的。\"我平静地回应：\"快递柜胜过门口放。\"Maria承认道：\"同意，把这条记到工单里。\"评审的前十分钟，我们都用在了按身份限流上。团队为管理后台白名单指定了明确的负责人。我比较了关于网络分段图的两种观点，诚实地都记了下来。我把暴露端口审计连同三条支撑事实加进了议程。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "rate limit by identity",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the ddos runbook so meetings start from facts. The team names one clear owner for the ingress inventory. I compare two views on the mutual tls and write both down honestly. I add the network segmentation to the meeting agenda with three supporting facts. Mock review: Leo probes, \"We report broken lights fast.\" I answer from memory, \"Neighbors know each other's faces.\" and Leo confirms, \"That is the level we need.\" The security team sends back a thumbs up and a new badge.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the ddos runbook so meetings start from facts. The team names one clear owner for the ingress inventory. I compare two views on the mutual tls and write both down honestly. I add the network segmentation to the meeting agenda with three supporting facts. Mock review: Leo probes, \"We report broken lights fast.\" I answer from memory, \"Neighbors know each other's faces.\" and Leo confirms, \"That is the level we need.\" The security team sends back a thumbs up and a new badge.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the ddos runbook twice. Our mentor walks me through how the ingress inventory evolved on this team. During the design review, I raise one careful question about the mutual tls. I prepare a one-page brief about the network segmentation so meetings start from facts. Mock review: Leo probes, \"We report broken lights fast.\" I answer from memory, \"Neighbors know each other's faces.\" and Leo confirms, \"That is the level we need.\" The security team sends back a thumbs up and a new badge.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the ddos runbook twice. Our mentor walks me through how the ingress inventory evolved on this team. During the design review, I raise one careful question about the mutual tls. I prepare a one-page brief about the network segmentation so meetings start from facts. Mock review: Leo probes, \"We report broken lights fast.\" I answer from memory, \"Neighbors know each other's faces.\" and Leo confirms, \"That is the level we need.\" The security team sends back a thumbs up and a new badge.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于DDoS 应对手册的简报，好让会议从事实出发。团队为入口流量清单指定了明确的负责人。我比较了关于双向 TLS的两种观点，诚实地都记了下来。我把网络分段连同三条支撑事实加进了议程。模拟评审：Leo追问：\"坏路灯很快有人修。\"我凭记忆回答：\"邻居们认得彼此的脸。\"Leo确认：\"我们要的就是这个水平。\"安全团队回了点赞，和一枚新徽章。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于DDoS 应对手册的笔记重读了两遍。导师带我梳理了入口流量清单在这个团队里的演变。设计评审中，我就双向 TLS提出了一个审慎的问题。我准备了一页关于网络分段的简报，好让会议从事实出发。模拟评审：Leo追问：\"坏路灯很快有人修。\"我凭记忆回答：\"邻居们认得彼此的脸。\"Leo确认：\"我们要的就是这个水平。\"安全团队回了点赞，和一枚新徽章。",
    "hard": [
     {
      "w": "mutual tls",

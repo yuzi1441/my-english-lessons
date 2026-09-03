@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 285,
+   "word_count": 289,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Our first meeting nearly drowns, until Priya says, \"Agenda first.\" Priya suggests a cleaner way to think about the review checklist. While the details are fresh, I write down the context link. I issue search first so the next person starts on solid ground. I compare my notes about the self-assign etiquette with Priya's. Pair run: Priya starts, \"A good mentor asks, not tells.\" I follow, \"My mentor listens more than talks.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Our first meeting nearly drowns, until Priya says, \"Agenda first.\" Priya suggests a cleaner way to think about the review checklist. While the details are fresh, I write down the context link. I issue search first so the next person starts on solid ground. I compare my notes about the self-assign etiquette with Priya's. Pair run: Priya starts, \"A good mentor asks, not tells.\" I follow, \"My mentor listens more than talks.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "Our first meeting nearly drowns, until Priya says, \"Agenda first.\" Priya suggests a cleaner way to think about the review checklist. I connect the context link to the ticket so nothing gets lost. I issue search first, and Leo writes down the numbers. I compare my notes about the self-assign etiquette with Priya's. Meeting rehearsal: Priya opens, \"A good mentor asks, not tells.\" I respond, \"My mentor listens more than talks.\" and Priya confirms, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Our first meeting nearly drowns, until Priya says, \"Agenda first.\" Priya suggests a cleaner way to think about the review checklist. I connect the context link to the ticket so nothing gets lost. I issue search first, and Leo writes down the numbers. I compare my notes about the self-assign etiquette with Priya's. Meeting rehearsal: Priya opens, \"A good mentor asks, not tells.\" I respond, \"My mentor listens more than talks.\" and Priya confirms, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第一次会议差点淹死，直到 Priya 说：“先有议程。”Priya 提出了一个更清晰的评审清单思考方式。趁细节还新鲜，我把上下文链接写了下来。我先搜问题单，让下一个人的起点更扎实。我把关于自领礼仪的笔记和 Priya 的对照了一下。结对演练：Priya起头：\"好导师提问\"我跟上：\"我的导师听得多说得少。\"Priya回应：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "第一次会议差点淹死，直到 Priya 说：“先有议程。”Priya 提出了一个更清晰的评审清单思考方式。我把上下文链接关联到工单上，免得遗漏。我先搜问题单，Leo 把数字记了下来。我把关于自领礼仪的笔记和 Priya 的对照了一下。会议彩排：Priya开场：\"好导师提问\"我回应：\"我的导师听得多说得少。\"Priya确认道：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "review checklist",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We write three questions before we talk, and the talk finds its shape. Meeting rehearsal: Priya opens, \"Advice with a story sticks.\" I respond, \"I collect questions, not answers.\" and Priya confirms, \"Good point — use it in the standup.\" While the details are fresh, I write down the review guide for authors. The guide now has a short section on the diff hygiene. The team decides that I should stay in one thread first. I quote the line, and Leo writes down the numbers. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "We write three questions before we talk, and the talk finds its shape. Meeting rehearsal: Priya opens, \"Advice with a story sticks.\" I respond, \"I collect questions, not answers.\" and Priya confirms, \"Good point — use it in the standup.\" While the details are fresh, I write down the review guide for authors. The guide now has a short section on the diff hygiene. The team decides that I should stay in one thread first. I quote the line, and Leo writes down the numbers. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "We write three questions before we talk, and the talk finds its shape. Drill without notes: Priya asks, \"Advice with a story sticks.\" I answer, \"I collect questions, not answers.\" and Priya closes, \"Good point — use it in the standup.\" While the details are fresh, I write down the review guide for authors. At the review, we spend ten minutes on the diff hygiene. I stay in one thread, then I note one thing I learned. Before the review, I quote the line and prepare two questions. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "We write three questions before we talk, and the talk finds its shape. Drill without notes: Priya asks, \"Advice with a story sticks.\" I answer, \"I collect questions, not answers.\" and Priya closes, \"Good point — use it in the standup.\" While the details are fresh, I write down the review guide for authors. At the review, we spend ten minutes on the diff hygiene. I stay in one thread, then I note one thing I learned. Before the review, I quote the line and prepare two questions. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们在开口前写下三个问题，谈话自己就有了形状。会议彩排：Priya开场：\"带故事的忠告记得住。\"我回应：\"我收集问题\"Priya确认道：\"说得好——站会上就用它。\"趁细节还新鲜，我把作者侧指南写了下来。指南里现在有关于差异卫生的简短章节。团队决定先由我来讨论归一处。我引用到行，Leo 把数字记了下来。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我们在开口前写下三个问题，谈话自己就有了形状。脱稿演练：Priya问：\"带故事的忠告记得住。\"我回答：\"我收集问题\"Priya收束：\"说得好——站会上就用它。\"趁细节还新鲜，我把作者侧指南写了下来。评审时，我们花了十分钟在差异卫生上。我讨论归一处，然后记下一条学到的东西。评审之前，我引用到行并准备了两个问题。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "review guide for authors",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the emoji reactions to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the welcome wagon. While the details are fresh, I write down the commit story. The guide now has a short section on the review debt. Drill without notes: Maria asks, \"Mentorship is two-way.\" I answer, \"Someday I'll mentor too.\" and Maria closes, \"Exactly, and it saves time too.\" A good agenda is a kindness to busy people.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the emoji reactions to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the welcome wagon. While the details are fresh, I write down the commit story. The guide now has a short section on the review debt. Drill without notes: Maria asks, \"Mentorship is two-way.\" I answer, \"Someday I'll mentor too.\" and Maria closes, \"Exactly, and it saves time too.\" A good agenda is a kindness to busy people.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the emoji reactions and what comes next. The guide now has a short section on the welcome wagon. We agree to give the commit story one more careful look this week. Priya suggests a cleaner way to think about the review debt. Whiteboard practice: Maria offers, \"Mentorship is two-way.\" I add, \"Someday I'll mentor too.\" then Maria sums up, \"Exactly, and it saves time too.\" A good agenda is a kindness to busy people.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the emoji reactions and what comes next. The guide now has a short section on the welcome wagon. We agree to give the commit story one more careful look this week. Priya suggests a cleaner way to think about the review debt. Whiteboard practice: Maria offers, \"Mentorship is two-way.\" I add, \"Someday I'll mentor too.\" then Maria sums up, \"Exactly, and it saves time too.\" A good agenda is a kindness to busy people.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把表情回应关联到工单上，免得遗漏。Priya 提出了一个更清晰的欢迎小队思考方式。趁细节还新鲜，我把提交叙事写了下来。指南里现在有关于评审债的简短章节。脱稿演练：Maria问：\"导师关系是双向的。\"我回答：\"将来我也要带人。\"Maria收束：\"正是，而且还省时间。\"好的议程，是给忙碌人的善意。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到表情回应和接下来的安排。指南里现在有关于欢迎小队的简短章节。我们说好这周再把提交叙事仔细看一次。Priya 提出了一个更清晰的评审债思考方式。白板练习：Maria给出：\"导师关系是双向的。\"我补充：\"将来我也要带人。\"然后Maria总结：\"正是，而且还省时间。\"好的议程，是给忙碌人的善意。",
    "hard": [
     {
      "w": "commit story",

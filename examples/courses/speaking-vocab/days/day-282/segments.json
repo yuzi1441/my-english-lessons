@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 321,
+   "word_count": 326,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I write the launch runbook like a recipe. Before deciding, I reread my notes about the ci cd for solo project twice. I prepare a one-page brief about the scheduled social posts so meetings start from facts. The team names one clear owner for the auto deploy on merge. I compare two views on the dependency update bot config and write both down honestly. Practice debate: Priya argues, \"Drip irrigation waters on schedule.\" I respond calmly, \"The timer frees my mornings.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
-   "tts": "I write the launch runbook like a recipe. Before deciding, I reread my notes about the ci cd for solo project twice. I prepare a one-page brief about the scheduled social posts so meetings start from facts. The team names one clear owner for the auto deploy on merge. I compare two views on the dependency update bot config and write both down honestly. Practice debate: Priya argues, \"Drip irrigation waters on schedule.\" I respond calmly, \"The timer frees my mornings.\" and Priya concedes, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "en": "I write the launch runbook like a recipe. Our mentor walks me through how the ci cd for solo project evolved on this team. I prepare a one-page brief about the scheduled social posts so meetings start from facts. We spend the first ten minutes of the review on the auto deploy on merge. During the design review, I raise one careful question about the dependency update bot config. Mock review: Priya probes, \"Drip irrigation waters on schedule.\" I answer from memory, \"The timer frees my mornings.\" and Priya confirms, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "I write the launch runbook like a recipe. Our mentor walks me through how the ci cd for solo project evolved on this team. I prepare a one-page brief about the scheduled social posts so meetings start from facts. We spend the first ten minutes of the review on the auto deploy on merge. During the design review, I raise one careful question about the dependency update bot config. Mock review: Priya probes, \"Drip irrigation waters on schedule.\" I answer from memory, \"The timer frees my mornings.\" and Priya confirms, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我像写菜谱一样写发布手册。做决定之前，我把关于单人项目 CI/CD的笔记重读了两遍。我准备了一页关于定时社交发帖的简报，好让会议从事实出发。团队为合并即部署指定了明确的负责人。我比较了关于依赖更新机器人配置的两种观点，诚实地都记了下来。练习辩论：Priya主张：\"滴灌按点浇水。\"我平静地回应：\"定时器解放了早晨。\"Priya承认道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我像写菜谱一样写发布手册。导师带我梳理了单人项目 CI/CD在这个团队里的演变。我准备了一页关于定时社交发帖的简报，好让会议从事实出发。评审的前十分钟，我们都用在了合并即部署上。设计评审中，我就依赖更新机器人配置提出了一个审慎的问题。模拟评审：Priya追问：\"滴灌按点浇水。\"我凭记忆回答：\"定时器解放了早晨。\"Priya确认：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "ci cd for solo project",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Nine o'clock post, ten o'clock replies, noon nap, mandatory. Mock review: Priya probes, \"Plants thrive on boring routines.\" I answer from memory, \"Rain sensor skips a watering.\" and Priya confirms, \"Strong answer — keep that precision.\" I prepare a one-page brief about the automated invoice reminders so meetings start from facts. The team names one clear owner for the website uptime pinger. I compare two views on the auto reply for support hours and write both down honestly. I add the backup verification cron to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Nine o'clock post, ten o'clock replies, noon nap, mandatory. Mock review: Priya probes, \"Plants thrive on boring routines.\" I answer from memory, \"Rain sensor skips a watering.\" and Priya confirms, \"Strong answer — keep that precision.\" I prepare a one-page brief about the automated invoice reminders so meetings start from facts. The team names one clear owner for the website uptime pinger. I compare two views on the auto reply for support hours and write both down honestly. I add the backup verification cron to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Nine o'clock post, ten o'clock replies, noon nap, mandatory. Practice debate: Priya argues, \"Plants thrive on boring routines.\" I respond calmly, \"Rain sensor skips a watering.\" and Priya concedes, \"Strong answer — keep that precision.\" I compare two views on the automated invoice reminders and write both down honestly. Before deciding, I reread my notes about the website uptime pinger twice. The team names one clear owner for the auto reply for support hours. I add the backup verification cron to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Nine o'clock post, ten o'clock replies, noon nap, mandatory. Practice debate: Priya argues, \"Plants thrive on boring routines.\" I respond calmly, \"Rain sensor skips a watering.\" and Priya concedes, \"Strong answer — keep that precision.\" I compare two views on the automated invoice reminders and write both down honestly. Before deciding, I reread my notes about the website uptime pinger twice. The team names one clear owner for the auto reply for support hours. I add the backup verification cron to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "九点发帖，十点回评，中午小睡，强制执行。模拟评审：Priya追问：\"植物喜欢无聊的规律。\"我凭记忆回答：\"雨水传感器跳过一次浇灌。\"Priya确认：\"回答有力——保持这种精确。\"我准备了一页关于自动催款提醒的简报，好让会议从事实出发。团队为网站在线拨测器指定了明确的负责人。我比较了关于支持时段自动回复的两种观点，诚实地都记了下来。我把备份验证定时任务连同三条支撑事实加进了议程。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "九点发帖，十点回评，中午小睡，强制执行。练习辩论：Priya主张：\"植物喜欢无聊的规律。\"我平静地回应：\"雨水传感器跳过一次浇灌。\"Priya承认道：\"回答有力——保持这种精确。\"我比较了关于自动催款提醒的两种观点，诚实地都记了下来。做决定之前，我把关于网站在线拨测器的笔记重读了两遍。团队为支持时段自动回复指定了明确的负责人。我把备份验证定时任务连同三条支撑事实加进了议程。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "automated invoice reminders",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the expense tracking automation evolved on this team. Before deciding, I reread my notes about the weekly metrics digest bot twice. I prepare a one-page brief about the auto generated changelog so meetings start from facts. The team names one clear owner for the email drip automation. Dry run: Maria opens, \"Automation with weekly checks.\" I follow, \"Lazy hands, green garden.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" The runbook has one line in bold: eat lunch.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the expense tracking automation evolved on this team. Before deciding, I reread my notes about the weekly metrics digest bot twice. I prepare a one-page brief about the auto generated changelog so meetings start from facts. The team names one clear owner for the email drip automation. Dry run: Maria opens, \"Automation with weekly checks.\" I follow, \"Lazy hands, green garden.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" The runbook has one line in bold: eat lunch.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the expense tracking automation evolved on this team. I prepare a one-page brief about the weekly metrics digest bot so meetings start from facts. We spend the first ten minutes of the review on the auto generated changelog. During the design review, I raise one careful question about the email drip automation. Review warm-up: Maria raises, \"Automation with weekly checks.\" I answer, \"Lazy hands, green garden.\" and Maria grades it, \"Agreed, note it in the ticket.\" The runbook has one line in bold: eat lunch.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the expense tracking automation evolved on this team. I prepare a one-page brief about the weekly metrics digest bot so meetings start from facts. We spend the first ten minutes of the review on the auto generated changelog. During the design review, I raise one careful question about the email drip automation. Review warm-up: Maria raises, \"Automation with weekly checks.\" I answer, \"Lazy hands, green garden.\" and Maria grades it, \"Agreed, note it in the ticket.\" The runbook has one line in bold: eat lunch.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了开销记录自动化在这个团队里的演变。做决定之前，我把关于每周指标摘要机器人的笔记重读了两遍。我准备了一页关于自动生成更新日志的简报，好让会议从事实出发。团队为邮件滴灌自动化指定了明确的负责人。干跑演练：Maria开场：\"自动化配每周巡检。\"我接上：\"手懒\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"手册里有一行加粗：记得吃午饭。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了开销记录自动化在这个团队里的演变。我准备了一页关于每周指标摘要机器人的简报，好让会议从事实出发。评审的前十分钟，我们都用在了自动生成更新日志上。设计评审中，我就邮件滴灌自动化提出了一个审慎的问题。评审热身：Maria抛出：\"自动化配每周巡检。\"我带着数字回答：\"手懒\"Maria点评道：\"同意，把这条记到工单里。\"手册里有一行加粗：记得吃午饭。",
    "hard": [
     {
      "w": "auto generated changelog",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 289,
+   "word_count": 292,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We wire the docs into a chat assistant with citations. The guide now has a short section on the prompt data leakage. I compare my notes about the pii redaction before send with Priya's. At the review, we spend ten minutes on the prompt injection defense. In today's standup, I mention the output content filter and what comes next. Whiteboard practice: Priya offers, \"Scanning grandma's recipes.\" I add, \"Handwriting OCR surprises.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "We wire the docs into a chat assistant with citations. The guide now has a short section on the prompt data leakage. I compare my notes about the pii redaction before send with Priya's. At the review, we spend ten minutes on the prompt injection defense. In today's standup, I mention the output content filter and what comes next. Whiteboard practice: Priya offers, \"Scanning grandma's recipes.\" I add, \"Handwriting OCR surprises.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "We wire the docs into a chat assistant with citations. The guide now has a short section on the prompt data leakage. At the review, we spend ten minutes on the pii redaction before send. We agree to give the prompt injection defense one more careful look this week. While the details are fresh, I write down the output content filter. Whiteboard practice: Priya offers, \"Scanning grandma's recipes.\" I add, \"Handwriting OCR surprises.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We wire the docs into a chat assistant with citations. The guide now has a short section on the prompt data leakage. At the review, we spend ten minutes on the pii redaction before send. We agree to give the prompt injection defense one more careful look this week. While the details are fresh, I write down the output content filter. Whiteboard practice: Priya offers, \"Scanning grandma's recipes.\" I add, \"Handwriting OCR surprises.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们把文档接入了一个带引用的问答助手。指南里现在有关于提示数据泄露的简短章节。我把关于发送前个人信息脱敏的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在提示注入防御上。今天的站会上，我提到输出内容过滤和接下来的安排。白板练习：Priya给出：\"扫描奶奶的食谱。\"我补充：\"手写识别的惊喜与惊吓。\"然后Priya总结：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我们把文档接入了一个带引用的问答助手。指南里现在有关于提示数据泄露的简短章节。评审时，我们花了十分钟在发送前个人信息脱敏上。我们说好这周再把提示注入防御仔细看一次。趁细节还新鲜，我把输出内容过滤写了下来。白板练习：Priya给出：\"扫描奶奶的食谱。\"我补充：\"手写识别的惊喜与惊吓。\"然后Priya总结：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "prompt data leakage",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Every answer links to the paragraph it came from. Drill without notes: Priya asks, \"Digital archive, paper backup.\" I answer, \"The cloud folder shrine.\" and Priya closes, \"Good point — use it in the standup.\" I compare my notes about the vendor data policy review with Priya's. At the review, we spend ten minutes on the retention setting check. In today's standup, I mention the jailbreak attempt logging and what comes next. We agree to give the red team exercise one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Every answer links to the paragraph it came from. Drill without notes: Priya asks, \"Digital archive, paper backup.\" I answer, \"The cloud folder shrine.\" and Priya closes, \"Good point — use it in the standup.\" I compare my notes about the vendor data policy review with Priya's. At the review, we spend ten minutes on the retention setting check. In today's standup, I mention the jailbreak attempt logging and what comes next. We agree to give the red team exercise one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Every answer links to the paragraph it came from. Pair run: Priya starts, \"Digital archive, paper backup.\" I follow, \"The cloud folder shrine.\" and Priya replies, \"Good point — use it in the standup.\" In today's standup, I mention the vendor data policy review and what comes next. I connect the retention setting check to the ticket so nothing gets lost. I compare my notes about the jailbreak attempt logging with Priya's. Priya suggests a cleaner way to think about the red team exercise. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Every answer links to the paragraph it came from. Pair run: Priya starts, \"Digital archive, paper backup.\" I follow, \"The cloud folder shrine.\" and Priya replies, \"Good point — use it in the standup.\" In today's standup, I mention the vendor data policy review and what comes next. I connect the retention setting check to the ticket so nothing gets lost. I compare my notes about the jailbreak attempt logging with Priya's. Priya suggests a cleaner way to think about the red team exercise. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每个回答都链着它出处的段落。脱稿演练：Priya问：\"数字归档\"我回答：\"云端文件夹的神龛。\"Priya收束：\"说得好——站会上就用它。\"我把关于供应商数据政策评审的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在留存设置检查上。今天的站会上，我提到越狱尝试记录和接下来的安排。我们说好这周再把红队演习仔细看一次。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "每个回答都链着它出处的段落。结对演练：Priya起头：\"数字归档\"我跟上：\"云端文件夹的神龛。\"Priya回应：\"说得好——站会上就用它。\"今天的站会上，我提到供应商数据政策评审和接下来的安排。我把留存设置检查关联到工单上，免得遗漏。我把关于越狱尝试记录的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的红队演习思考方式。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "vendor data policy review",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the data boundary diagram. The guide now has a short section on the vendor security questionnaire. I compare my notes about the anonymized evaluation data with Priya's. At the review, we spend ten minutes on the on prem inference option. Meeting rehearsal: Maria opens, \"Metadata memories.\" I respond, \"Digital hoarding, gently pruned.\" and Maria confirms, \"Exactly, and it saves time too.\" When it cannot cite, it says so — my favorite feature.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the data boundary diagram. The guide now has a short section on the vendor security questionnaire. I compare my notes about the anonymized evaluation data with Priya's. At the review, we spend ten minutes on the on prem inference option. Meeting rehearsal: Maria opens, \"Metadata memories.\" I respond, \"Digital hoarding, gently pruned.\" and Maria confirms, \"Exactly, and it saves time too.\" When it cannot cite, it says so — my favorite feature.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the data boundary diagram. At the review, we spend ten minutes on the vendor security questionnaire. We agree to give the anonymized evaluation data one more careful look this week. While the details are fresh, I write down the on prem inference option. Meeting rehearsal: Maria opens, \"Metadata memories.\" I respond, \"Digital hoarding, gently pruned.\" and Maria confirms, \"Exactly, and it saves time too.\" When it cannot cite, it says so — my favorite feature.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the data boundary diagram. At the review, we spend ten minutes on the vendor security questionnaire. We agree to give the anonymized evaluation data one more careful look this week. While the details are fresh, I write down the on prem inference option. Meeting rehearsal: Maria opens, \"Metadata memories.\" I respond, \"Digital hoarding, gently pruned.\" and Maria confirms, \"Exactly, and it saves time too.\" When it cannot cite, it says so — my favorite feature.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把数据边界图写了下来。指南里现在有关于供应商安全问卷的简短章节。我把关于匿名化评测数据的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在本地部署推理选项上。会议彩排：Maria开场：\"元数据里的记忆。\"我回应：\"数字囤积\"Maria确认道：\"正是，而且还省时间。\"当它给不出出处时，它就说给不出——这是我最爱的功能。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于数据边界图的简短章节。评审时，我们花了十分钟在供应商安全问卷上。我们说好这周再把匿名化评测数据仔细看一次。趁细节还新鲜，我把本地部署推理选项写了下来。会议彩排：Maria开场：\"元数据里的记忆。\"我回应：\"数字囤积\"Maria确认道：\"正是，而且还省时间。\"当它给不出出处时，它就说给不出——这是我最爱的功能。",
    "hard": [
     {
      "w": "anonymized evaluation data",

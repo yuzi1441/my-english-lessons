@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 269,
+   "word_count": 272,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A user in a far time zone reports slow saves. There is a short paragraph about the auth at the edge in the guide. I ask one good question about the request shaping in the meeting. My notes about the public api look clearer this week. I spend ten quiet minutes on the api reference after the standup. Role play with feedback: Leo says, \"Paper beats screens for me.\" I try, \"I index my notebook.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "A user in a far time zone reports slow saves. There is a short paragraph about the auth at the edge in the guide. I ask one good question about the request shaping in the meeting. My notes about the public api look clearer this week. I spend ten quiet minutes on the api reference after the standup. Role play with feedback: Leo says, \"Paper beats screens for me.\" I try, \"I index my notebook.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "A user in a far time zone reports slow saves. My notes about the auth at the edge look clearer this week. I add the request shaping to my study notes before I forget it. I go over the public api one more time before lunch. I ask one good question about the api reference in the meeting. Role play with feedback: Leo says, \"Paper beats screens for me.\" I try, \"I index my notebook.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "A user in a far time zone reports slow saves. My notes about the auth at the edge look clearer this week. I add the request shaping to my study notes before I forget it. I go over the public api one more time before lunch. I ask one good question about the api reference in the meeting. Role play with feedback: Leo says, \"Paper beats screens for me.\" I try, \"I index my notebook.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位远时区用户反馈保存很慢。指南里有一小段关于边缘鉴权的介绍。会上关于请求整形，我问了一个好问题。这周我关于公开接口的笔记清楚多了。站会之后，我安安静静花了十分钟在接口参考上。角色扮演加反馈：Leo说：\"纸比屏幕更适合我。\"我试着说：\"我给笔记本做索引。\"Leo补充道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "一位远时区用户反馈保存很慢。这周我关于边缘鉴权的笔记清楚多了。我趁还没忘，把请求整形记进了学习笔记。午饭前我又过了一遍公开接口。会上关于接口参考，我问了一个好问题。角色扮演加反馈：Leo说：\"纸比屏幕更适合我。\"我试着说：\"我给笔记本做索引。\"Leo补充道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "auth at the edge",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The p95 tells the truth my averages hid. Warm-up round: Leo offers, \"Good pens write smoother.\" I answer, \"Sticky notes are my sprints.\" and Leo wraps up, \"Nice, keep that one handy.\" I ask one good question about the header propagation in the meeting. My notes about the gateway retry look clearer this week. I spend ten quiet minutes on the api key after the standup. Sam asks me about the usage example, and I explain the basics. I end the day with fewer unknowns than I started with.",
-   "tts": "The p95 tells the truth my averages hid. Warm-up round: Leo offers, \"Good pens write smoother.\" I answer, \"Sticky notes are my sprints.\" and Leo wraps up, \"Nice, keep that one handy.\" I ask one good question about the header propagation in the meeting. My notes about the gateway retry look clearer this week. I spend ten quiet minutes on the api key after the standup. Sam asks me about the usage example, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "en": "The p95 tells the truth my averages hid. Warm-up round: Leo offers, \"Good pens write smoother.\" I answer, \"Sticky notes are my sprints.\" and Leo wraps up, \"Nice, keep that one handy.\" Sam asks me about the header propagation, and I explain the basics. I keep one real example of the gateway retry in my notebook. There is a short paragraph about the api key in the guide. I spend ten quiet minutes on the usage example after the standup. I end the day with fewer unknowns than I started with.",
+   "tts": "The p95 tells the truth my averages hid. Warm-up round: Leo offers, \"Good pens write smoother.\" I answer, \"Sticky notes are my sprints.\" and Leo wraps up, \"Nice, keep that one handy.\" Sam asks me about the header propagation, and I explain the basics. I keep one real example of the gateway retry in my notebook. There is a short paragraph about the api key in the guide. I spend ten quiet minutes on the usage example after the standup. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "第 95 百分位数据说出了平均值掩盖的真相。热身一轮：Leo给出：\"好笔写起来更顺滑。\"我回答：\"便利贴就是我的迭代。\"Leo收尾道：\"不错，把这句记在手边。\"会上关于头透传，我问了一个好问题。这周我关于网关重试的笔记清楚多了。站会之后，我安安静静花了十分钟在接口密钥上。Sam 问起用法示例，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "第 95 百分位数据说出了平均值掩盖的真相。热身一轮：Leo给出：\"好笔写起来更顺滑。\"我回答：\"便利贴就是我的迭代。\"Leo收尾道：\"不错，把这句记在手边。\"Sam 问起头透传，我讲了讲基础。我在笔记本里留了一个网关重试的真实例子。指南里有一小段关于接口密钥的介绍。站会之后，我安安静静花了十分钟在用法示例上。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "header propagation",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the sandbox one more time before lunch. There is a short paragraph about the deprecation header in the guide. I ask one good question about the response cache in the meeting. My notes about the request id look clearer this week. We drill it twice: Priya starts, \"I date every page.\" I reply, \"Analog slows my thoughts nicely.\" then Priya smiles, \"Good — try it in today’s task.\" Averages flatter; percentiles confess.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the sandbox one more time before lunch. There is a short paragraph about the deprecation header in the guide. I ask one good question about the response cache in the meeting. My notes about the request id look clearer this week. We drill it twice: Priya starts, \"I date every page.\" I reply, \"Analog slows my thoughts nicely.\" then Priya smiles, \"Good — try it in today’s task.\" Averages flatter; percentiles confess.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the sandbox look clearer this week. I add the deprecation header to my study notes before I forget it. I go over the response cache one more time before lunch. I ask one good question about the request id in the meeting. We practise the dialogue: Priya opens, \"I date every page.\" I answer, \"Analog slows my thoughts nicely.\" and Priya nods, \"Good — try it in today’s task.\" Averages flatter; percentiles confess.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the sandbox look clearer this week. I add the deprecation header to my study notes before I forget it. I go over the response cache one more time before lunch. I ask one good question about the request id in the meeting. We practise the dialogue: Priya opens, \"I date every page.\" I answer, \"Analog slows my thoughts nicely.\" and Priya nods, \"Good — try it in today’s task.\" Averages flatter; percentiles confess.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍沙箱环境。指南里有一小段关于弃用响应头的介绍。会上关于响应缓存，我问了一个好问题。这周我关于请求标识的笔记清楚多了。我们练了两遍：Priya起头：\"我给每页写上日期。\"我回答：\"纸笔让思绪慢下来\"然后Priya笑着说：\"好——今天的任务里就用上。\"平均值会粉饰，百分位数会坦白。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于沙箱环境的笔记清楚多了。我趁还没忘，把弃用响应头记进了学习笔记。午饭前我又过了一遍响应缓存。会上关于请求标识，我问了一个好问题。我们练习这段对话：Priya开场：\"我给每页写上日期。\"我回答：\"纸笔让思绪慢下来\"Priya点头说：\"好——今天的任务里就用上。\"平均值会粉饰，百分位数会坦白。",
    "hard": [
     {
      "w": "response cache",

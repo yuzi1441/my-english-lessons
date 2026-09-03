@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 270,
+   "word_count": 276,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "At midnight, every sync fails with an expired token. There is a short paragraph about the device login in the guide. I ask one good question about the refresh token in the meeting. My notes about the annotated tag look clearer this week. I spend ten quiet minutes on the lightweight tag after the standup. Role play with feedback: Maria says, \"I'm moving next month.\" I try, \"I've been packing all week.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "At midnight, every sync fails with an expired token. There is a short paragraph about the device login in the guide. I ask one good question about the refresh token in the meeting. My notes about the annotated tag look clearer this week. I spend ten quiet minutes on the lightweight tag after the standup. Role play with feedback: Maria says, \"I'm moving next month.\" I try, \"I've been packing all week.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "At midnight, every sync fails with an expired token. Sam asks me about the device login, and I explain the basics. I add the refresh token to my study notes before I forget it. I ask one good question about the annotated tag in the meeting. I go over the lightweight tag one more time before lunch. We drill it twice: Maria starts, \"I'm moving next month.\" I reply, \"I've been packing all week.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "At midnight, every sync fails with an expired token. Sam asks me about the device login, and I explain the basics. I add the refresh token to my study notes before I forget it. I ask one good question about the annotated tag in the meeting. I go over the lightweight tag one more time before lunch. We drill it twice: Maria starts, \"I'm moving next month.\" I reply, \"I've been packing all week.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "午夜时分，所有同步都因令牌过期而失败。指南里有一小段关于设备登录的介绍。会上关于刷新令牌，我问了一个好问题。这周我关于附注标签的笔记清楚多了。站会之后，我安安静静花了十分钟在轻量标签上。角色扮演加反馈：Maria说：\"我下个月搬家。\"我试着说：\"我整个星期都在打包。\"Maria补充道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "午夜时分，所有同步都因令牌过期而失败。Sam 问起设备登录，我讲了讲基础。我趁还没忘，把刷新令牌记进了学习笔记。会上关于附注标签，我问了一个好问题。午饭前我又过了一遍轻量标签。我们练了两遍：Maria起头：\"我下个月搬家。\"我回答：\"我整个星期都在打包。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "device login",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The refresh token trades itself quietly for a new one. Warm-up round: Maria offers, \"Movers cost a fortune.\" I answer, \"I'm decluttering first.\" and Maria wraps up, \"That is the one we need today.\" I ask one good question about the token expiry in the meeting. My notes about the session cookie look clearer this week. I spend ten quiet minutes on the tag protection after the standup. Sam asks me about the auto changelog, and I explain the basics. The task moves forward, and so does my confidence.",
-   "tts": "The refresh token trades itself quietly for a new one. Warm-up round: Maria offers, \"Movers cost a fortune.\" I answer, \"I'm decluttering first.\" and Maria wraps up, \"That is the one we need today.\" I ask one good question about the token expiry in the meeting. My notes about the session cookie look clearer this week. I spend ten quiet minutes on the tag protection after the standup. Sam asks me about the auto changelog, and I explain the basics. The task moves forward, and so does my confidence.",
+   "en": "The refresh token trades itself quietly for a new one. Role play with feedback: Maria says, \"Movers cost a fortune.\" I try, \"I'm decluttering first.\" and Maria adds, \"That is the one we need today.\" I spend ten quiet minutes on the token expiry after the standup. I keep one real example of the session cookie in my notebook. My notes about the tag protection look clearer this week. There is a short paragraph about the auto changelog in the guide. The task moves forward, and so does my confidence.",
+   "tts": "The refresh token trades itself quietly for a new one. Role play with feedback: Maria says, \"Movers cost a fortune.\" I try, \"I'm decluttering first.\" and Maria adds, \"That is the one we need today.\" I spend ten quiet minutes on the token expiry after the standup. I keep one real example of the session cookie in my notebook. My notes about the tag protection look clearer this week. There is a short paragraph about the auto changelog in the guide. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "刷新令牌悄悄地换来了新的令牌。热身一轮：Maria给出：\"搬家公司真贵。\"我回答：\"我先做断舍离。\"Maria收尾道：\"今天要的就是这句。\"会上关于令牌过期，我问了一个好问题。这周我关于会话 Cookie的笔记清楚多了。站会之后，我安安静静花了十分钟在标签保护上。Sam 问起自动变更日志，我讲了讲基础。任务在推进，我的信心也在成长。",
+   "zh": "刷新令牌悄悄地换来了新的令牌。角色扮演加反馈：Maria说：\"搬家公司真贵。\"我试着说：\"我先做断舍离。\"Maria补充道：\"今天要的就是这句。\"站会之后，我安安静静花了十分钟在令牌过期上。我在笔记本里留了一个会话 Cookie的真实例子。这周我关于标签保护的笔记清楚多了。指南里有一小段关于自动变更日志的介绍。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "token expiry",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the release asset one more time before lunch. There is a short paragraph about the draft release in the guide. I ask one good question about the single sign-on in the meeting. My notes about the least privilege look clearer this week. We drill it twice: Leo starts, \"The new place has better light.\" I reply, \"Housewarming is soon.\" then Leo smiles, \"Nice, keep that one handy.\" The user sleeps; the session cookie keeps watch.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the release asset one more time before lunch. There is a short paragraph about the draft release in the guide. I ask one good question about the single sign-on in the meeting. My notes about the least privilege look clearer this week. We drill it twice: Leo starts, \"The new place has better light.\" I reply, \"Housewarming is soon.\" then Leo smiles, \"Nice, keep that one handy.\" The user sleeps; the session cookie keeps watch.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the release asset, and I explain the basics. I add the draft release to my study notes before I forget it. I ask one good question about the single sign-on in the meeting. I go over the least privilege one more time before lunch. We practise the dialogue: Leo opens, \"The new place has better light.\" I answer, \"Housewarming is soon.\" and Leo nods, \"Nice, keep that one handy.\" The user sleeps; the session cookie keeps watch.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the release asset, and I explain the basics. I add the draft release to my study notes before I forget it. I ask one good question about the single sign-on in the meeting. I go over the least privilege one more time before lunch. We practise the dialogue: Leo opens, \"The new place has better light.\" I answer, \"Housewarming is soon.\" and Leo nods, \"Nice, keep that one handy.\" The user sleeps; the session cookie keeps watch.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍发布附件。指南里有一小段关于草稿发布的介绍。会上关于单点登录，我问了一个好问题。这周我关于最小权限的笔记清楚多了。我们练了两遍：Leo起头：\"新房子采光更好。\"我回答：\"暖房派对快办了。\"然后Leo笑着说：\"不错，把这句记在手边。\"用户安睡，会话 Cookie 替他值守。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起发布附件，我讲了讲基础。我趁还没忘，把草稿发布记进了学习笔记。会上关于单点登录，我问了一个好问题。午饭前我又过了一遍最小权限。我们练习这段对话：Leo开场：\"新房子采光更好。\"我回答：\"暖房派对快办了。\"Leo点头说：\"不错，把这句记在手边。\"用户安睡，会话 Cookie 替他值守。",
    "hard": [
     {
      "w": "single sign-on",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 272,
+   "word_count": 275,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Launch morning, the war room smells of coffee. I ask one good question about the idempotency key in the meeting. My notes about the optimistic lock look clearer this week. I spend ten quiet minutes on the intake form after the standup. Sam asks me about the request template, and I explain the basics. Warm-up round: Maria offers, \"I donate what I don't use.\" I answer, \"Old cables pile up.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "Launch morning, the war room smells of coffee. I ask one good question about the idempotency key in the meeting. My notes about the optimistic lock look clearer this week. I spend ten quiet minutes on the intake form after the standup. Sam asks me about the request template, and I explain the basics. Warm-up round: Maria offers, \"I donate what I don't use.\" I answer, \"Old cables pile up.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "Launch morning, the war room smells of coffee. My notes about the idempotency key look clearer this week. I add the optimistic lock to my study notes before I forget it. I go over the intake form one more time before lunch. I keep one real example of the request template in my notebook. We practise the dialogue: Maria opens, \"I donate what I don't use.\" I answer, \"Old cables pile up.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "Launch morning, the war room smells of coffee. My notes about the idempotency key look clearer this week. I add the optimistic lock to my study notes before I forget it. I go over the intake form one more time before lunch. I keep one real example of the request template in my notebook. We practise the dialogue: Maria opens, \"I donate what I don't use.\" I answer, \"Old cables pile up.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "上线早晨，作战室里弥漫着咖啡的味道。会上关于幂等键，我问了一个好问题。这周我关于乐观锁的笔记清楚多了。站会之后，我安安静静花了十分钟在受理表单上。Sam 问起请求模板，我讲了讲基础。热身一轮：Maria给出：\"不用的东西我捐掉。\"我回答：\"旧数据线堆成山。\"Maria收尾道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "上线早晨，作战室里弥漫着咖啡的味道。这周我关于幂等键的笔记清楚多了。我趁还没忘，把乐观锁记进了学习笔记。午饭前我又过了一遍受理表单。我在笔记本里留了一个请求模板的真实例子。我们练习这段对话：Maria开场：\"不用的东西我捐掉。\"我回答：\"旧数据线堆成山。\"Maria点头说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "idempotency key",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We watch the dashboard while the flag turns on, group by group. We practise the dialogue: Maria opens, \"One box a week.\" I answer, \"Photos go to the cloud.\" and Maria nods, \"That is the one we need today.\" My notes about the eventual consistency look clearer this week. I spend ten quiet minutes on the reconciliation job after the standup. Sam asks me about the sla clock, and I explain the basics. I keep one real example of the ticket routing in my notebook. The task moves forward, and so does my confidence.",
-   "tts": "We watch the dashboard while the flag turns on, group by group. We practise the dialogue: Maria opens, \"One box a week.\" I answer, \"Photos go to the cloud.\" and Maria nods, \"That is the one we need today.\" My notes about the eventual consistency look clearer this week. I spend ten quiet minutes on the reconciliation job after the standup. Sam asks me about the sla clock, and I explain the basics. I keep one real example of the ticket routing in my notebook. The task moves forward, and so does my confidence.",
+   "en": "We watch the dashboard while the flag turns on, group by group. We drill it twice: Maria starts, \"One box a week.\" I reply, \"Photos go to the cloud.\" then Maria smiles, \"That is the one we need today.\" I spend ten quiet minutes on the eventual consistency after the standup. I ask one good question about the reconciliation job in the meeting. There is a short paragraph about the sla clock in the guide. Sam asks me about the ticket routing, and I explain the basics. The task moves forward, and so does my confidence.",
+   "tts": "We watch the dashboard while the flag turns on, group by group. We drill it twice: Maria starts, \"One box a week.\" I reply, \"Photos go to the cloud.\" then Maria smiles, \"That is the one we need today.\" I spend ten quiet minutes on the eventual consistency after the standup. I ask one good question about the reconciliation job in the meeting. There is a short paragraph about the sla clock in the guide. Sam asks me about the ticket routing, and I explain the basics. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "功能开关逐组打开，我们盯着仪表盘。我们练习这段对话：Maria开场：\"一周整理一箱。\"我回答：\"照片传到云上。\"Maria点头说：\"今天要的就是这句。\"这周我关于最终一致的笔记清楚多了。站会之后，我安安静静花了十分钟在对账任务上。Sam 问起时限计时，我讲了讲基础。我在笔记本里留了一个工单分派的真实例子。任务在推进，我的信心也在成长。",
+   "zh": "功能开关逐组打开，我们盯着仪表盘。我们练了两遍：Maria起头：\"一周整理一箱。\"我回答：\"照片传到云上。\"然后Maria笑着说：\"今天要的就是这句。\"站会之后，我安安静静花了十分钟在最终一致上。会上关于对账任务，我问了一个好问题。指南里有一小段关于时限计时的介绍。Sam 问起工单分派，我讲了讲基础。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "eventual consistency",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the priority matrix in the guide. I close the loop twice, just to be sure. My notes about the duplicate write look clearer this week. I spend ten quiet minutes on the outbox pattern after the standup. Role play with feedback: Leo says, \"It feels lighter at home.\" I try, \"Memories, not things.\" and Leo adds, \"Nice, keep that one handy.\" The first external user saves a draft at 9:14.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the priority matrix in the guide. I close the loop twice, just to be sure. My notes about the duplicate write look clearer this week. I spend ten quiet minutes on the outbox pattern after the standup. Role play with feedback: Leo says, \"It feels lighter at home.\" I try, \"Memories, not things.\" and Leo adds, \"Nice, keep that one handy.\" The first external user saves a draft at 9:14.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the priority matrix look clearer this week. I close the loop the way the guide suggests. I add the duplicate write to my study notes before I forget it. I go over the outbox pattern one more time before lunch. Role play with feedback: Leo says, \"It feels lighter at home.\" I try, \"Memories, not things.\" and Leo adds, \"Nice, keep that one handy.\" The first external user saves a draft at 9:14.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the priority matrix look clearer this week. I close the loop the way the guide suggests. I add the duplicate write to my study notes before I forget it. I go over the outbox pattern one more time before lunch. Role play with feedback: Leo says, \"It feels lighter at home.\" I try, \"Memories, not things.\" and Leo adds, \"Nice, keep that one handy.\" The first external user saves a draft at 9:14.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于优先级矩阵的介绍。我闭环回复了两遍，只为确定。这周我关于重复写入的笔记清楚多了。站会之后，我安安静静花了十分钟在发件箱模式上。角色扮演加反馈：Leo说：\"家里清爽多了。\"我试着说：\"留下回忆\"Leo补充道：\"不错，把这句记在手边。\"9 点 14 分，第一位外部用户保存了草稿。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于优先级矩阵的笔记清楚多了。我按照指南建议的方式闭环回复。我趁还没忘，把重复写入记进了学习笔记。午饭前我又过了一遍发件箱模式。角色扮演加反馈：Leo说：\"家里清爽多了。\"我试着说：\"留下回忆\"Leo补充道：\"不错，把这句记在手边。\"9 点 14 分，第一位外部用户保存了草稿。",
    "hard": [
     {
      "w": "duplicate write",

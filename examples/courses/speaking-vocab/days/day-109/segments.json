@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 285,
+   "word_count": 284,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Before the next big change, we assume it failed. I spend ten quiet minutes on the log assertion after the standup. Sam asks me about the sensitive data scrub, and I explain the basics. I keep one real example of the test data catalog in my notebook. I add the fixture sharing to my study notes before I forget it. We drill it twice: Maria starts, \"My voice sounds wrong on calls.\" I reply, \"Headset beats speakerphone.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "Before the next big change, we assume it failed. I spend ten quiet minutes on the log assertion after the standup. Sam asks me about the sensitive data scrub, and I explain the basics. I keep one real example of the test data catalog in my notebook. I add the fixture sharing to my study notes before I forget it. We drill it twice: Maria starts, \"My voice sounds wrong on calls.\" I reply, \"Headset beats speakerphone.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "Before the next big change, we assume it failed. I ask one good question about the log assertion in the meeting. There is a short paragraph about the sensitive data scrub in the guide. I add the test data catalog to my study notes before I forget it. I spend ten quiet minutes on the fixture sharing after the standup. We drill it twice: Maria starts, \"My voice sounds wrong on calls.\" I reply, \"Headset beats speakerphone.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "Before the next big change, we assume it failed. I ask one good question about the log assertion in the meeting. There is a short paragraph about the sensitive data scrub in the guide. I add the test data catalog to my study notes before I forget it. I spend ten quiet minutes on the fixture sharing after the standup. We drill it twice: Maria starts, \"My voice sounds wrong on calls.\" I reply, \"Headset beats speakerphone.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "下一次大改动之前，我们先假设它失败了。站会之后，我安安静静花了十分钟在日志断言上。Sam 问起敏感数据擦除，我讲了讲基础。我在笔记本里留了一个测试数据目录的真实例子。我趁还没忘，把夹具共享记进了学习笔记。我们练了两遍：Maria起头：\"电话里我的声音很陌生。\"我回答：\"耳机胜过免提。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "下一次大改动之前，我们先假设它失败了。会上关于日志断言，我问了一个好问题。指南里有一小段关于敏感数据擦除的介绍。我趁还没忘，把测试数据目录记进了学习笔记。站会之后，我安安静静花了十分钟在夹具共享上。我们练了两遍：Maria起头：\"电话里我的声音很陌生。\"我回答：\"耳机胜过免提。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "log assertion",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Everyone writes the headline of tomorrow's disaster, then we build the fences. Role play with feedback: Maria says, \"Mute is my friend.\" I try, \"Bad lines, ask to repeat.\" and Maria adds, \"That is the one we need today.\" Sam asks me about the pii filter, and I explain the basics. I keep one real example of the sample logs in my notebook. I add the test deprecation to my study notes before I forget it. I go over the duplicate test cleanup one more time before lunch. The task moves forward, and so does my confidence.",
-   "tts": "Everyone writes the headline of tomorrow's disaster, then we build the fences. Role play with feedback: Maria says, \"Mute is my friend.\" I try, \"Bad lines, ask to repeat.\" and Maria adds, \"That is the one we need today.\" Sam asks me about the pii filter, and I explain the basics. I keep one real example of the sample logs in my notebook. I add the test deprecation to my study notes before I forget it. I go over the duplicate test cleanup one more time before lunch. The task moves forward, and so does my confidence.",
+   "en": "Everyone writes the headline of tomorrow's disaster, then we build the fences. We practise the dialogue: Maria opens, \"Mute is my friend.\" I answer, \"Bad lines, ask to repeat.\" and Maria nods, \"That is the one we need today.\" I keep one real example of the pii filter in my notebook. Sam asks me about the sample logs, and I explain the basics. My notes about the test deprecation look clearer this week. I go over the duplicate test cleanup one more time before lunch. The task moves forward, and so does my confidence.",
+   "tts": "Everyone writes the headline of tomorrow's disaster, then we build the fences. We practise the dialogue: Maria opens, \"Mute is my friend.\" I answer, \"Bad lines, ask to repeat.\" and Maria nods, \"That is the one we need today.\" I keep one real example of the pii filter in my notebook. Sam asks me about the sample logs, and I explain the basics. My notes about the test deprecation look clearer this week. I go over the duplicate test cleanup one more time before lunch. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每个人写下明天灾难的头条标题，然后我们动手修围栏。角色扮演加反馈：Maria说：\"静音键是好朋友。\"我试着说：\"线路不好就请再说。\"Maria补充道：\"今天要的就是这句。\"Sam 问起个人信息过滤，我讲了讲基础。我在笔记本里留了一个日志样本的真实例子。我趁还没忘，把测试退役记进了学习笔记。午饭前我又过了一遍重复测试清理。任务在推进，我的信心也在成长。",
+   "zh": "每个人写下明天灾难的头条标题，然后我们动手修围栏。我们练习这段对话：Maria开场：\"静音键是好朋友。\"我回答：\"线路不好就请再说。\"Maria点头说：\"今天要的就是这句。\"我在笔记本里留了一个个人信息过滤的真实例子。Sam 问起日志样本，我讲了讲基础。这周我关于测试退役的笔记清楚多了。午饭前我又过了一遍重复测试清理。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "pii filter",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the test naming guide look clearer this week. I spend ten quiet minutes on the test review buddy after the standup. Sam asks me about the log schema test, and I explain the basics. I keep one real example of the error grouping in my notebook. We practise the dialogue: Leo opens, \"I summarize at the end.\" I answer, \"Short calls, sharp words.\" and Leo nods, \"Nice, keep that one handy.\" Imagined failures are the cheapest ones.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the test naming guide look clearer this week. I spend ten quiet minutes on the test review buddy after the standup. Sam asks me about the log schema test, and I explain the basics. I keep one real example of the error grouping in my notebook. We practise the dialogue: Leo opens, \"I summarize at the end.\" I answer, \"Short calls, sharp words.\" and Leo nods, \"Nice, keep that one handy.\" Imagined failures are the cheapest ones.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the test naming guide in the meeting. There is a short paragraph about the test review buddy in the guide. I add the log schema test to my study notes before I forget it. I spend ten quiet minutes on the error grouping after the standup. Warm-up round: Leo offers, \"I summarize at the end.\" I answer, \"Short calls, sharp words.\" and Leo wraps up, \"Nice, keep that one handy.\" Imagined failures are the cheapest ones.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the test naming guide in the meeting. There is a short paragraph about the test review buddy in the guide. I add the log schema test to my study notes before I forget it. I spend ten quiet minutes on the error grouping after the standup. Warm-up round: Leo offers, \"I summarize at the end.\" I answer, \"Short calls, sharp words.\" and Leo wraps up, \"Nice, keep that one handy.\" Imagined failures are the cheapest ones.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于测试命名指南的笔记清楚多了。站会之后，我安安静静花了十分钟在测试评审搭档上。Sam 问起日志结构测试，我讲了讲基础。我在笔记本里留了一个错误分组的真实例子。我们练习这段对话：Leo开场：\"结尾我复述一遍。\"我回答：\"通话要短\"Leo点头说：\"不错，把这句记在手边。\"想象中的失败是最便宜的失败。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于测试命名指南，我问了一个好问题。指南里有一小段关于测试评审搭档的介绍。我趁还没忘，把日志结构测试记进了学习笔记。站会之后，我安安静静花了十分钟在错误分组上。热身一轮：Leo给出：\"结尾我复述一遍。\"我回答：\"通话要短\"Leo收尾道：\"不错，把这句记在手边。\"想象中的失败是最便宜的失败。",
    "hard": [
     {
      "w": "log schema test",

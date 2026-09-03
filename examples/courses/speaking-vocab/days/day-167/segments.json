@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 305,
+   "word_count": 301,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The guild hosts a metrics glossary workshop for the whole company. At the review, we spend ten minutes on the pseudonymization. In today's standup, I mention the k anonymity and what comes next. We agree to give the best self serve save one more careful look this week. I connect the clearest chart award to the ticket so nothing gets lost. Pair run: Leo starts, \"Grandma counts in dialect.\" I follow, \"Numbers in songs stay forever.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "The guild hosts a metrics glossary workshop for the whole company. At the review, we spend ten minutes on the pseudonymization. In today's standup, I mention the k anonymity and what comes next. We agree to give the best self serve save one more careful look this week. I connect the clearest chart award to the ticket so nothing gets lost. Pair run: Leo starts, \"Grandma counts in dialect.\" I follow, \"Numbers in songs stay forever.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "The guild hosts a metrics glossary workshop for the whole company. I compare my notes about the pseudonymization with Priya's. We agree to give the k anonymity one more careful look this week. In today's standup, I mention the best self serve save and what comes next. At the review, we spend ten minutes on the clearest chart award. Whiteboard practice: Leo offers, \"Grandma counts in dialect.\" I add, \"Numbers in songs stay forever.\" then Leo sums up, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The guild hosts a metrics glossary workshop for the whole company. I compare my notes about the pseudonymization with Priya's. We agree to give the k anonymity one more careful look this week. In today's standup, I mention the best self serve save and what comes next. At the review, we spend ten minutes on the clearest chart award. Whiteboard practice: Leo offers, \"Grandma counts in dialect.\" I add, \"Numbers in songs stay forever.\" then Leo sums up, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "公会为全公司举办了一场指标术语工作坊。评审时，我们花了十分钟在假名化上。今天的站会上，我提到K 匿名和接下来的安排。我们说好这周再把最佳自助节省仔细看一次。我把最清晰图表奖关联到工单上，免得遗漏。结对演练：Leo起头：\"奶奶用方言数数。\"我跟上：\"歌里的数字忘不掉。\"Leo回应：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "公会为全公司举办了一场指标术语工作坊。我把关于假名化的笔记和 Priya 的对照了一下。我们说好这周再把K 匿名仔细看一次。今天的站会上，我提到最佳自助节省和接下来的安排。评审时，我们花了十分钟在最清晰图表奖上。白板练习：Leo给出：\"奶奶用方言数数。\"我补充：\"歌里的数字忘不掉。\"然后Leo总结：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "pseudonymization",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Marketing, support, and finance argue politely about one word for an hour. Meeting rehearsal: Leo opens, \"Market arithmetic is fast math.\" I respond, \"Phone numbers as melodies.\" and Leo confirms, \"Keep practising, it is working.\" In today's standup, I mention the differential privacy basics and what comes next. We agree to give the masked staging data one more careful look this week. I connect the best question of the month to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the data kindness award. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Marketing, support, and finance argue politely about one word for an hour. Meeting rehearsal: Leo opens, \"Market arithmetic is fast math.\" I respond, \"Phone numbers as melodies.\" and Leo confirms, \"Keep practising, it is working.\" In today's standup, I mention the differential privacy basics and what comes next. We agree to give the masked staging data one more careful look this week. I connect the best question of the month to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the data kindness award. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Marketing, support, and finance argue politely about one word for an hour. Meeting rehearsal: Leo opens, \"Market arithmetic is fast math.\" I respond, \"Phone numbers as melodies.\" and Leo confirms, \"Keep practising, it is working.\" The guide now has a short section on the differential privacy basics. I connect the masked staging data to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the best question of the month. While the details are fresh, I write down the data kindness award. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Marketing, support, and finance argue politely about one word for an hour. Meeting rehearsal: Leo opens, \"Market arithmetic is fast math.\" I respond, \"Phone numbers as melodies.\" and Leo confirms, \"Keep practising, it is working.\" The guide now has a short section on the differential privacy basics. I connect the masked staging data to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the best question of the month. While the details are fresh, I write down the data kindness award. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "市场、支持和财务为一个词礼貌地争论了一个小时。会议彩排：Leo开场：\"菜场算术是速算。\"我回应：\"电话号码像旋律。\"Leo确认道：\"继续练，有效果了。\"今天的站会上，我提到差分隐私入门和接下来的安排。我们说好这周再把测试环境脱敏数据仔细看一次。我把月度最佳提问关联到工单上，免得遗漏。Priya 提出了一个更清晰的数据善意奖思考方式。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "市场、支持和财务为一个词礼貌地争论了一个小时。会议彩排：Leo开场：\"菜场算术是速算。\"我回应：\"电话号码像旋律。\"Leo确认道：\"继续练，有效果了。\"指南里现在有关于差分隐私入门的简短章节。我把测试环境脱敏数据关联到工单上，免得遗漏。Priya 提出了一个更清晰的月度最佳提问思考方式。趁细节还新鲜，我把数据善意奖写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "differential privacy basics",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the dashboard gardener prize with Priya's. At the review, we spend ten minutes on the insight of the quarter. In today's standup, I mention the sensitive table access log and what comes next. We agree to give the minimum aggregation threshold one more careful look this week. Drill without notes: Priya asks, \"The old abacus in the drawer.\" I answer, \"Math was never foreign.\" and Priya closes, \"Good point — use it in the standup.\" The word finally has one definition, and everyone signs it.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the dashboard gardener prize with Priya's. At the review, we spend ten minutes on the insight of the quarter. In today's standup, I mention the sensitive table access log and what comes next. We agree to give the minimum aggregation threshold one more careful look this week. Drill without notes: Priya asks, \"The old abacus in the drawer.\" I answer, \"Math was never foreign.\" and Priya closes, \"Good point — use it in the standup.\" The word finally has one definition, and everyone signs it.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the dashboard gardener prize with Priya's. We agree to give the insight of the quarter one more careful look this week. In today's standup, I mention the sensitive table access log and what comes next. At the review, we spend ten minutes on the minimum aggregation threshold. Drill without notes: Priya asks, \"The old abacus in the drawer.\" I answer, \"Math was never foreign.\" and Priya closes, \"Good point — use it in the standup.\" The word finally has one definition, and everyone signs it.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the dashboard gardener prize with Priya's. We agree to give the insight of the quarter one more careful look this week. In today's standup, I mention the sensitive table access log and what comes next. At the review, we spend ten minutes on the minimum aggregation threshold. Drill without notes: Priya asks, \"The old abacus in the drawer.\" I answer, \"Math was never foreign.\" and Priya closes, \"Good point — use it in the standup.\" The word finally has one definition, and everyone signs it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于看板园丁奖的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在季度洞察奖上。今天的站会上，我提到敏感表访问日志和接下来的安排。我们说好这周再把最小聚合阈值仔细看一次。脱稿演练：Priya问：\"抽屉里的旧算盘。\"我回答：\"数学从来不是外语。\"Priya收束：\"说得好——站会上就用它。\"这个词终于有了一个定义，而且所有人都签了名。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于看板园丁奖的笔记和 Priya 的对照了一下。我们说好这周再把季度洞察奖仔细看一次。今天的站会上，我提到敏感表访问日志和接下来的安排。评审时，我们花了十分钟在最小聚合阈值上。脱稿演练：Priya问：\"抽屉里的旧算盘。\"我回答：\"数学从来不是外语。\"Priya收束：\"说得好——站会上就用它。\"这个词终于有了一个定义，而且所有人都签了名。",
    "hard": [
     {
      "w": "sensitive table access log",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 286,
+   "word_count": 283,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My first runbook joins the team wiki. Sam asks me about the feedback widget, and I explain the basics. I keep one real example of the sentiment tag in my notebook. I add the tech debt register to my study notes before I forget it. I go over the debt interest one more time before lunch. Role play with feedback: Leo says, \"My handwriting is a maze.\" I try, \"I write slower on paper.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "My first runbook joins the team wiki. Sam asks me about the feedback widget, and I explain the basics. I keep one real example of the sentiment tag in my notebook. I add the tech debt register to my study notes before I forget it. I go over the debt interest one more time before lunch. Role play with feedback: Leo says, \"My handwriting is a maze.\" I try, \"I write slower on paper.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "My first runbook joins the team wiki. I ask one good question about the feedback widget in the meeting. There is a short paragraph about the sentiment tag in the guide. My notes about the tech debt register look clearer this week. I go over the debt interest one more time before lunch. We drill it twice: Leo starts, \"My handwriting is a maze.\" I reply, \"I write slower on paper.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "My first runbook joins the team wiki. I ask one good question about the feedback widget in the meeting. There is a short paragraph about the sentiment tag in the guide. My notes about the tech debt register look clearer this week. I go over the debt interest one more time before lunch. We drill it twice: Leo starts, \"My handwriting is a maze.\" I reply, \"I write slower on paper.\" then Leo smiles, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的第一份操作手册进了团队 Wiki。Sam 问起反馈组件，我讲了讲基础。我在笔记本里留了一个情感标注的真实例子。我趁还没忘，把技术债清单记进了学习笔记。午饭前我又过了一遍债务利息。角色扮演加反馈：Leo说：\"我的字迹像迷宫。\"我试着说：\"纸上我写得慢一些。\"Leo补充道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "我的第一份操作手册进了团队 Wiki。会上关于反馈组件，我问了一个好问题。指南里有一小段关于情感标注的介绍。这周我关于技术债清单的笔记清楚多了。午饭前我又过了一遍债务利息。我们练了两遍：Leo起头：\"我的字迹像迷宫。\"我回答：\"纸上我写得慢一些。\"然后Leo笑着说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "feedback widget",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I write it for the person who is tired, new, and alone at 3 a.m. Warm-up round: Leo offers, \"Letters to future me.\" I answer, \"Lists keep me honest.\" and Leo wraps up, \"Nice, keep that one handy.\" I keep one real example of the triage inbox in my notebook. I add the user interview to my study notes before I forget it. I go over the refactor window one more time before lunch. There is a short paragraph about the strangler pattern in the guide. I end the day with fewer unknowns than I started with.",
-   "tts": "I write it for the person who is tired, new, and alone at 3 a.m. Warm-up round: Leo offers, \"Letters to future me.\" I answer, \"Lists keep me honest.\" and Leo wraps up, \"Nice, keep that one handy.\" I keep one real example of the triage inbox in my notebook. I add the user interview to my study notes before I forget it. I go over the refactor window one more time before lunch. There is a short paragraph about the strangler pattern in the guide. I end the day with fewer unknowns than I started with.",
+   "en": "I write it for the person who is tired, new, and alone at 3 a.m. We practise the dialogue: Leo opens, \"Letters to future me.\" I answer, \"Lists keep me honest.\" and Leo nods, \"Nice, keep that one handy.\" I add the triage inbox to my study notes before I forget it. I spend ten quiet minutes on the user interview after the standup. I keep one real example of the refactor window in my notebook. Sam asks me about the strangler pattern, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "tts": "I write it for the person who is tired, new, and alone at 3 a.m. We practise the dialogue: Leo opens, \"Letters to future me.\" I answer, \"Lists keep me honest.\" and Leo nods, \"Nice, keep that one handy.\" I add the triage inbox to my study notes before I forget it. I spend ten quiet minutes on the user interview after the standup. I keep one real example of the refactor window in my notebook. Sam asks me about the strangler pattern, and I explain the basics. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我为那个疲惫、新来、凌晨三点独自值班的人而写。热身一轮：Leo给出：\"写给未来自己的信。\"我回答：\"清单让我诚实。\"Leo收尾道：\"不错，把这句记在手边。\"我在笔记本里留了一个分诊收件箱的真实例子。我趁还没忘，把用户访谈记进了学习笔记。午饭前我又过了一遍重构窗口。指南里有一小段关于绞杀者模式的介绍。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我为那个疲惫、新来、凌晨三点独自值班的人而写。我们练习这段对话：Leo开场：\"写给未来自己的信。\"我回答：\"清单让我诚实。\"Leo点头说：\"不错，把这句记在手边。\"我趁还没忘，把分诊收件箱记进了学习笔记。站会之后，我安安静静花了十分钟在用户访谈上。我在笔记本里留了一个重构窗口的真实例子。Sam 问起绞杀者模式，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "triage inbox",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the deprecation budget after the standup. Sam asks me about the debt review, and I explain the basics. I keep one real example of the pain point in my notebook. This morning, I close the loop with users before the first call. We drill it twice: Priya starts, \"The pen matters less than the habit.\" I reply, \"Ink dries, words stay.\" then Priya smiles, \"Good — try it in today’s task.\" Writing for your weakest moment is real documentation.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the deprecation budget after the standup. Sam asks me about the debt review, and I explain the basics. I keep one real example of the pain point in my notebook. This morning, I close the loop with users before the first call. We drill it twice: Priya starts, \"The pen matters less than the habit.\" I reply, \"Ink dries, words stay.\" then Priya smiles, \"Good — try it in today’s task.\" Writing for your weakest moment is real documentation.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the deprecation budget in the meeting. There is a short paragraph about the debt review in the guide. My notes about the pain point look clearer this week. I close the loop with users, then I take a short break. Role play with feedback: Priya says, \"The pen matters less than the habit.\" I try, \"Ink dries, words stay.\" and Priya adds, \"Good — try it in today’s task.\" Writing for your weakest moment is real documentation.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the deprecation budget in the meeting. There is a short paragraph about the debt review in the guide. My notes about the pain point look clearer this week. I close the loop with users, then I take a short break. Role play with feedback: Priya says, \"The pen matters less than the habit.\" I try, \"Ink dries, words stay.\" and Priya adds, \"Good — try it in today’s task.\" Writing for your weakest moment is real documentation.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在弃用预算上。Sam 问起技术债评审，我讲了讲基础。我在笔记本里留了一个痛点的真实例子。今天早上，第一次通话之前我先向用户闭环。我们练了两遍：Priya起头：\"笔不重要\"我回答：\"墨水会干\"然后Priya笑着说：\"好——今天的任务里就用上。\"为你最脆弱的时刻而写，才是真正的文档。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于弃用预算，我问了一个好问题。指南里有一小段关于技术债评审的介绍。这周我关于痛点的笔记清楚多了。我向用户闭环，然后休息了一下。角色扮演加反馈：Priya说：\"笔不重要\"我试着说：\"墨水会干\"Priya补充道：\"好——今天的任务里就用上。\"为你最脆弱的时刻而写，才是真正的文档。",
    "hard": [
     {
      "w": "pain point",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 293,
+   "word_count": 295,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The long term holdout reports the honest six-month number. I compare my notes about the color independent encoding with Priya's. At the review, we spend ten minutes on the text alternatives for charts. In today's standup, I mention the dashboard acceptance criteria and what comes next. We agree to give the sanity numbers check one more careful look this week. Drill without notes: Priya asks, \"Audiobooks for commutes.\" I answer, \"Playback speed as seasoning.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "The long term holdout reports the honest six-month number. I compare my notes about the color independent encoding with Priya's. At the review, we spend ten minutes on the text alternatives for charts. In today's standup, I mention the dashboard acceptance criteria and what comes next. We agree to give the sanity numbers check one more careful look this week. Drill without notes: Priya asks, \"Audiobooks for commutes.\" I answer, \"Playback speed as seasoning.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "The long term holdout reports the honest six-month number. I connect the color independent encoding to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the text alternatives for charts. In today's standup, I mention the dashboard acceptance criteria and what comes next. I compare my notes about the sanity numbers check with Priya's. Drill without notes: Priya asks, \"Audiobooks for commutes.\" I answer, \"Playback speed as seasoning.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The long term holdout reports the honest six-month number. I connect the color independent encoding to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the text alternatives for charts. In today's standup, I mention the dashboard acceptance criteria and what comes next. I compare my notes about the sanity numbers check with Priya's. Drill without notes: Priya asks, \"Audiobooks for commutes.\" I answer, \"Playback speed as seasoning.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "长期保留组给出了诚实的六个月数字。我把关于不依赖颜色的编码的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在图表文字替代上。今天的站会上，我提到看板验收标准和接下来的安排。我们说好这周再把数字常识检查仔细看一次。脱稿演练：Priya问：\"通勤听有声书。\"我回答：\"倍速是调味料。\"Priya收束：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "长期保留组给出了诚实的六个月数字。我把不依赖颜色的编码关联到工单上，免得遗漏。Priya 提出了一个更清晰的图表文字替代思考方式。今天的站会上，我提到看板验收标准和接下来的安排。我把关于数字常识检查的笔记和 Priya 的对照了一下。脱稿演练：Priya问：\"通勤听有声书。\"我回答：\"倍速是调味料。\"Priya收束：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "color independent encoding",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Half the early win evaporates; the real, durable half stays. Pair run: Priya starts, \"Pause and dictate notes.\" I follow, \"Podcasts before playlists.\" and Priya replies, \"Good point — use it in the standup.\" At the review, we spend ten minutes on the table beside the chart. In today's standup, I mention the sufficient contrast ratio and what comes next. I cross check with source, then I note one thing I learned. I connect the dashboard user testing to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Half the early win evaporates; the real, durable half stays. Pair run: Priya starts, \"Pause and dictate notes.\" I follow, \"Podcasts before playlists.\" and Priya replies, \"Good point — use it in the standup.\" At the review, we spend ten minutes on the table beside the chart. In today's standup, I mention the sufficient contrast ratio and what comes next. I cross check with source, then I note one thing I learned. I connect the dashboard user testing to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Half the early win evaporates; the real, durable half stays. Whiteboard practice: Priya offers, \"Pause and dictate notes.\" I add, \"Podcasts before playlists.\" then Priya sums up, \"Good point — use it in the standup.\" At the review, we spend ten minutes on the table beside the chart. While the details are fresh, I write down the sufficient contrast ratio. I cross check with source so the next person starts on solid ground. We agree to give the dashboard user testing one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Half the early win evaporates; the real, durable half stays. Whiteboard practice: Priya offers, \"Pause and dictate notes.\" I add, \"Podcasts before playlists.\" then Priya sums up, \"Good point — use it in the standup.\" At the review, we spend ten minutes on the table beside the chart. While the details are fresh, I write down the sufficient contrast ratio. I cross check with source so the next person starts on solid ground. We agree to give the dashboard user testing one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "早期收益的一半蒸发了；真正持久的那一半留下。结对演练：Priya起头：\"暂停口述笔记。\"我跟上：\"先播客后歌单。\"Priya回应：\"说得好——站会上就用它。\"评审时，我们花了十分钟在图表旁边配数据表上。今天的站会上，我提到足够的对比度和接下来的安排。我与源系统交叉核对，然后记下一条学到的东西。我把看板用户测试关联到工单上，免得遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "早期收益的一半蒸发了；真正持久的那一半留下。白板练习：Priya给出：\"暂停口述笔记。\"我补充：\"先播客后歌单。\"然后Priya总结：\"说得好——站会上就用它。\"评审时，我们花了十分钟在图表旁边配数据表上。趁细节还新鲜，我把足够的对比度写了下来。我与源系统交叉核对，让下一个人的起点更扎实。我们说好这周再把看板用户测试仔细看一次。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "table beside the chart",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the signoff checklist. I compare my notes about the post launch review with Priya's. At the review, we spend ten minutes on the accessible tooltip order. In today's standup, I mention the restrained dashboard motion and what comes next. Whiteboard practice: Maria offers, \"The narrator makes the book.\" I add, \"Ears learn on tired days.\" then Maria sums up, \"Exactly, and it saves time too.\" Patience is the most expensive metric tool, and worth it.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the signoff checklist. I compare my notes about the post launch review with Priya's. At the review, we spend ten minutes on the accessible tooltip order. In today's standup, I mention the restrained dashboard motion and what comes next. Whiteboard practice: Maria offers, \"The narrator makes the book.\" I add, \"Ears learn on tired days.\" then Maria sums up, \"Exactly, and it saves time too.\" Patience is the most expensive metric tool, and worth it.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the signoff checklist. I connect the post launch review to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the accessible tooltip order. In today's standup, I mention the restrained dashboard motion and what comes next. Meeting rehearsal: Maria opens, \"The narrator makes the book.\" I respond, \"Ears learn on tired days.\" and Maria confirms, \"Exactly, and it saves time too.\" Patience is the most expensive metric tool, and worth it.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the signoff checklist. I connect the post launch review to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the accessible tooltip order. In today's standup, I mention the restrained dashboard motion and what comes next. Meeting rehearsal: Maria opens, \"The narrator makes the book.\" I respond, \"Ears learn on tired days.\" and Maria confirms, \"Exactly, and it saves time too.\" Patience is the most expensive metric tool, and worth it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于签收清单的简短章节。我把关于上线后回访的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在读屏友好提示上。今天的站会上，我提到面板动效克制和接下来的安排。白板练习：Maria给出：\"朗读者成就一本书。\"我补充：\"累的日子用耳朵学。\"然后Maria总结：\"正是，而且还省时间。\"耐心是最贵的指标工具，而且物有所值。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于签收清单的简短章节。我把上线后回访关联到工单上，免得遗漏。Priya 提出了一个更清晰的读屏友好提示思考方式。今天的站会上，我提到面板动效克制和接下来的安排。会议彩排：Maria开场：\"朗读者成就一本书。\"我回应：\"累的日子用耳朵学。\"Maria确认道：\"正是，而且还省时间。\"耐心是最贵的指标工具，而且物有所值。",
    "hard": [
     {
      "w": "accessible tooltip order",

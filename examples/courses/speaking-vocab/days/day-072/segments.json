@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 280,
+   "word_count": 281,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The retro is blameless, on purpose. I add the snapshot schedule to my study notes before I forget it. I go over the point-in-time restore one more time before lunch. There is a short paragraph about the project kickoff in the guide. I ask one good question about the charter in the meeting. We practise the dialogue: Priya opens, \"My cat judges my code.\" I answer, \"The dog wants a walk.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
-   "tts": "The retro is blameless, on purpose. I add the snapshot schedule to my study notes before I forget it. I go over the point-in-time restore one more time before lunch. There is a short paragraph about the project kickoff in the guide. I ask one good question about the charter in the meeting. We practise the dialogue: Priya opens, \"My cat judges my code.\" I answer, \"The dog wants a walk.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "en": "The retro is blameless, on purpose. I add the snapshot schedule to my study notes before I forget it. There is a short paragraph about the point-in-time restore in the guide. I go over the project kickoff one more time before lunch. I ask one good question about the charter in the meeting. Warm-up round: Priya offers, \"My cat judges my code.\" I answer, \"The dog wants a walk.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "The retro is blameless, on purpose. I add the snapshot schedule to my study notes before I forget it. There is a short paragraph about the point-in-time restore in the guide. I go over the project kickoff one more time before lunch. I ask one good question about the charter in the meeting. Warm-up round: Priya offers, \"My cat judges my code.\" I answer, \"The dog wants a walk.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "复盘会刻意做到不追责。我趁还没忘，把快照计划记进了学习笔记。午饭前我又过了一遍时间点恢复。指南里有一小段关于项目启动的介绍。会上关于项目章程，我问了一个好问题。我们练习这段对话：Priya开场：\"我的猫用眼神审判我的代码。\"我回答：\"狗想出去遛弯了。\"Priya点头说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "复盘会刻意做到不追责。我趁还没忘，把快照计划记进了学习笔记。指南里有一小段关于时间点恢复的介绍。午饭前我又过了一遍项目启动。会上关于项目章程，我问了一个好问题。热身一轮：Priya给出：\"我的猫用眼神审判我的代码。\"我回答：\"狗想出去遛弯了。\"Priya收尾道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "snapshot schedule",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We list what went well, what hurt, and one experiment for next time. We drill it twice: Priya starts, \"Petting lowers my heart rate.\" I reply, \"The office is dog-friendly.\" then Priya smiles, \"Good — try it in today’s task.\" I go over the backup encryption one more time before lunch. There is a short paragraph about the restore rehearsal in the guide. I ask one good question about the stakeholder map in the meeting. My notes about the rasi matrix look clearer this week. Small progress today prepares the bigger step tomorrow.",
-   "tts": "We list what went well, what hurt, and one experiment for next time. We drill it twice: Priya starts, \"Petting lowers my heart rate.\" I reply, \"The office is dog-friendly.\" then Priya smiles, \"Good — try it in today’s task.\" I go over the backup encryption one more time before lunch. There is a short paragraph about the restore rehearsal in the guide. I ask one good question about the stakeholder map in the meeting. My notes about the rasi matrix look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "en": "We list what went well, what hurt, and one experiment for next time. We drill it twice: Priya starts, \"Petting lowers my heart rate.\" I reply, \"The office is dog-friendly.\" then Priya smiles, \"Good — try it in today’s task.\" Sam asks me about the backup encryption, and I explain the basics. I spend ten quiet minutes on the restore rehearsal after the standup. My notes about the stakeholder map look clearer this week. I keep one real example of the rasi matrix in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We list what went well, what hurt, and one experiment for next time. We drill it twice: Priya starts, \"Petting lowers my heart rate.\" I reply, \"The office is dog-friendly.\" then Priya smiles, \"Good — try it in today’s task.\" Sam asks me about the backup encryption, and I explain the basics. I spend ten quiet minutes on the restore rehearsal after the standup. My notes about the stakeholder map look clearer this week. I keep one real example of the rasi matrix in my notebook. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们列出了顺利的、受伤的，以及下次要试的一个实验。我们练了两遍：Priya起头：\"撸猫撸狗降心率。\"我回答：\"办公室可以带狗。\"然后Priya笑着说：\"好——今天的任务里就用上。\"午饭前我又过了一遍备份加密。指南里有一小段关于恢复演练的介绍。会上关于干系人地图，我问了一个好问题。这周我关于责任矩阵的笔记清楚多了。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们列出了顺利的、受伤的，以及下次要试的一个实验。我们练了两遍：Priya起头：\"撸猫撸狗降心率。\"我回答：\"办公室可以带狗。\"然后Priya笑着说：\"好——今天的任务里就用上。\"Sam 问起备份加密，我讲了讲基础。站会之后，我安安静静花了十分钟在恢复演练上。这周我关于干系人地图的笔记清楚多了。我在笔记本里留了一个责任矩阵的真实例子。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "backup encryption",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the milestone plan in my notebook. I add the kickoff notes to my study notes before I forget it. I go over the backup liveness one more time before lunch. There is a short paragraph about the retention policy in the guide. Warm-up round: Maria offers, \"Fish are low maintenance.\" I answer, \"Pets keep me present.\" and Maria wraps up, \"That is the one we need today.\" The action items are small enough to actually happen.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the milestone plan in my notebook. I add the kickoff notes to my study notes before I forget it. I go over the backup liveness one more time before lunch. There is a short paragraph about the retention policy in the guide. Warm-up round: Maria offers, \"Fish are low maintenance.\" I answer, \"Pets keep me present.\" and Maria wraps up, \"That is the one we need today.\" The action items are small enough to actually happen.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the milestone plan to my study notes before I forget it. There is a short paragraph about the kickoff notes in the guide. I go over the backup liveness one more time before lunch. I ask one good question about the retention policy in the meeting. We practise the dialogue: Maria opens, \"Fish are low maintenance.\" I answer, \"Pets keep me present.\" and Maria nods, \"That is the one we need today.\" The action items are small enough to actually happen.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the milestone plan to my study notes before I forget it. There is a short paragraph about the kickoff notes in the guide. I go over the backup liveness one more time before lunch. I ask one good question about the retention policy in the meeting. We practise the dialogue: Maria opens, \"Fish are low maintenance.\" I answer, \"Pets keep me present.\" and Maria nods, \"That is the one we need today.\" The action items are small enough to actually happen.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个里程碑计划的真实例子。我趁还没忘，把启动纪要记进了学习笔记。午饭前我又过了一遍备份活性。指南里有一小段关于保留策略的介绍。热身一轮：Maria给出：\"养鱼省心。\"我回答：\"宠物让我活在当下。\"Maria收尾道：\"今天要的就是这句。\"行动项小到真的会被执行。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把里程碑计划记进了学习笔记。指南里有一小段关于启动纪要的介绍。午饭前我又过了一遍备份活性。会上关于保留策略，我问了一个好问题。我们练习这段对话：Maria开场：\"养鱼省心。\"我回答：\"宠物让我活在当下。\"Maria点头说：\"今天要的就是这句。\"行动项小到真的会被执行。",
    "hard": [
     {
      "w": "backup liveness",

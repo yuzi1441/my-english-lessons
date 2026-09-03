@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 317,
+   "word_count": 316,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My first rule for the quarter: measure before blaming anything. The team names one clear owner for the thread pool. I compare two views on the lock contention and write both down honestly. I add the race condition test to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the stress profile label. Review warm-up: Leo raises, \"The bathroom schedule works.\" I answer, \"We deadlocked over the TV remote.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "My first rule for the quarter: measure before blaming anything. The team names one clear owner for the thread pool. I compare two views on the lock contention and write both down honestly. I add the race condition test to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the stress profile label. Review warm-up: Leo raises, \"The bathroom schedule works.\" I answer, \"We deadlocked over the TV remote.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "My first rule for the quarter: measure before blaming anything. The team names one clear owner for the thread pool. I compare two views on the lock contention and write both down honestly. I prepare a one-page brief about the race condition test so meetings start from facts. We spend the first ten minutes of the review on the stress profile label. Dry run: Leo opens, \"The bathroom schedule works.\" I follow, \"We deadlocked over the TV remote.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "My first rule for the quarter: measure before blaming anything. The team names one clear owner for the thread pool. I compare two views on the lock contention and write both down honestly. I prepare a one-page brief about the race condition test so meetings start from facts. We spend the first ten minutes of the review on the stress profile label. Dry run: Leo opens, \"The bathroom schedule works.\" I follow, \"We deadlocked over the TV remote.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我这个季度的第一条规矩：先测量，再怪罪。团队为线程池指定了明确的负责人。我比较了关于锁竞争的两种观点，诚实地都记了下来。我把竞态测试连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了压力画像标签上。评审热身：Leo抛出：\"卫生间时刻表生效了。\"我带着数字回答：\"我们为遥控器僵持过。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我这个季度的第一条规矩：先测量，再怪罪。团队为线程池指定了明确的负责人。我比较了关于锁竞争的两种观点，诚实地都记了下来。我准备了一页关于竞态测试的简报，好让会议从事实出发。评审的前十分钟，我们都用在了压力画像标签上。干跑演练：Leo开场：\"卫生间时刻表生效了。\"我接上：\"我们为遥控器僵持过。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "thread pool",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. Dry run: Leo opens, \"One queue beats five lines.\" I follow, \"Take a number, stay calm.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I compare two views on the deadlock and write both down honestly. I add the race condition to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the concurrency bug tracker. During the design review, I raise one careful question about the deterministic replay log. We end the week with something shipped and something properly learned this time.",
-   "tts": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. Dry run: Leo opens, \"One queue beats five lines.\" I follow, \"Take a number, stay calm.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I compare two views on the deadlock and write both down honestly. I add the race condition to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the concurrency bug tracker. During the design review, I raise one careful question about the deterministic replay log. We end the week with something shipped and something properly learned this time.",
+   "en": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. Practice debate: Leo argues, \"One queue beats five lines.\" I respond calmly, \"Take a number, stay calm.\" and Leo concedes, \"That is the level we need.\" Before deciding, I reread my notes about the deadlock twice. I add the race condition to the meeting agenda with three supporting facts. During the design review, I raise one careful question about the concurrency bug tracker. Our mentor walks me through how the deterministic replay log evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "tts": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. Practice debate: Leo argues, \"One queue beats five lines.\" I respond calmly, \"Take a number, stay calm.\" and Leo concedes, \"That is the level we need.\" Before deciding, I reread my notes about the deadlock twice. I add the race condition to the meeting agenda with three supporting facts. During the design review, I raise one careful question about the concurrency bug tracker. Our mentor walks me through how the deterministic replay log evolved on this team. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "瓶颈居然是串行调用组成的瀑布，而不是人人怀疑的数据库。干跑演练：Leo开场：\"一条队胜过五条线。\"我接上：\"取个号\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"我比较了关于死锁的两种观点，诚实地都记了下来。我把竞态条件连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了并发缺陷追踪上。设计评审中，我就确定性回放日志提出了一个审慎的问题。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "瓶颈居然是串行调用组成的瀑布，而不是人人怀疑的数据库。练习辩论：Leo主张：\"一条队胜过五条线。\"我平静地回应：\"取个号\"Leo承认道：\"我们要的就是这个水平。\"做决定之前，我把关于死锁的笔记重读了两遍。我把竞态条件连同三条支撑事实加进了议程。设计评审中，我就并发缺陷追踪提出了一个审慎的问题。导师带我梳理了确定性回放日志在这个团队里的演变。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "deadlock",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the lock audit report so meetings start from facts. The team names one clear owner for the goroutine leak check. I compare two views on the atomic operation and write both down honestly. I add the lock free queue to the meeting agenda with three supporting facts. Mock review: Priya probes, \"The microwave is fair game.\" I answer from memory, \"Fairness ends the bickering.\" and Priya confirms, \"Strong answer — keep that precision.\" Two assumptions died quietly in the profiling report.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the lock audit report so meetings start from facts. The team names one clear owner for the goroutine leak check. I compare two views on the atomic operation and write both down honestly. I add the lock free queue to the meeting agenda with three supporting facts. Mock review: Priya probes, \"The microwave is fair game.\" I answer from memory, \"Fairness ends the bickering.\" and Priya confirms, \"Strong answer — keep that precision.\" Two assumptions died quietly in the profiling report.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the lock audit report. I compare two views on the goroutine leak check and write both down honestly. I prepare a one-page brief about the atomic operation so meetings start from facts. We spend the first ten minutes of the review on the lock free queue. Mock review: Priya probes, \"The microwave is fair game.\" I answer from memory, \"Fairness ends the bickering.\" and Priya confirms, \"Strong answer — keep that precision.\" Two assumptions died quietly in the profiling report.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the lock audit report. I compare two views on the goroutine leak check and write both down honestly. I prepare a one-page brief about the atomic operation so meetings start from facts. We spend the first ten minutes of the review on the lock free queue. Mock review: Priya probes, \"The microwave is fair game.\" I answer from memory, \"Fairness ends the bickering.\" and Priya confirms, \"Strong answer — keep that precision.\" Two assumptions died quietly in the profiling report.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于锁使用审计报告的简报，好让会议从事实出发。团队为协程泄漏检查指定了明确的负责人。我比较了关于原子操作的两种观点，诚实地都记了下来。我把无锁队列连同三条支撑事实加进了议程。模拟评审：Priya追问：\"微波炉先到先用。\"我凭记忆回答：\"公平终结了斗嘴。\"Priya确认：\"回答有力——保持这种精确。\"两个假设在性能画像报告里悄悄死掉了。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为锁使用审计报告指定了明确的负责人。我比较了关于协程泄漏检查的两种观点，诚实地都记了下来。我准备了一页关于原子操作的简报，好让会议从事实出发。评审的前十分钟，我们都用在了无锁队列上。模拟评审：Priya追问：\"微波炉先到先用。\"我凭记忆回答：\"公平终结了斗嘴。\"Priya确认：\"回答有力——保持这种精确。\"两个假设在性能画像报告里悄悄死掉了。",
    "hard": [
     {
      "w": "atomic operation",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 314,
+   "word_count": 322,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Our first responsible disclosure arrives from a friendly hacker. I prepare a one-page brief about the immutable backup so meetings start from facts. The team names one clear owner for the backup isolation. I compare two views on the immutable storage check and write both down honestly. I add the restore game results to the meeting agenda with three supporting facts. Mock review: Maria probes, \"Passport copies in two places.\" I answer from memory, \"The emergency cash stash.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Our first responsible disclosure arrives from a friendly hacker. I prepare a one-page brief about the immutable backup so meetings start from facts. The team names one clear owner for the backup isolation. I compare two views on the immutable storage check and write both down honestly. I add the restore game results to the meeting agenda with three supporting facts. Mock review: Maria probes, \"Passport copies in two places.\" I answer from memory, \"The emergency cash stash.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Our first responsible disclosure arrives from a friendly hacker. I add the immutable backup to the meeting agenda with three supporting facts. I compare two views on the backup isolation and write both down honestly. We spend the first ten minutes of the review on the immutable storage check. I prepare a one-page brief about the restore game results so meetings start from facts. Review warm-up: Maria raises, \"Passport copies in two places.\" I answer, \"The emergency cash stash.\" and Maria grades it, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Our first responsible disclosure arrives from a friendly hacker. I add the immutable backup to the meeting agenda with three supporting facts. I compare two views on the backup isolation and write both down honestly. We spend the first ten minutes of the review on the immutable storage check. I prepare a one-page brief about the restore game results so meetings start from facts. Review warm-up: Maria raises, \"Passport copies in two places.\" I answer, \"The emergency cash stash.\" and Maria grades it, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第一封负责任披露来自友好的白帽。我准备了一页关于不可变备份的简报，好让会议从事实出发。团队为备份隔离指定了明确的负责人。我比较了关于不可变存储检查的两种观点，诚实地都记了下来。我把恢复比赛成绩连同三条支撑事实加进了议程。模拟评审：Maria追问：\"护照复印件存两处。\"我凭记忆回答：\"应急现金的小金库。\"Maria确认：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "第一封负责任披露来自友好的白帽。我把不可变备份连同三条支撑事实加进了议程。我比较了关于备份隔离的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了不可变存储检查上。我准备了一页关于恢复比赛成绩的简报，好让会议从事实出发。评审热身：Maria抛出：\"护照复印件存两处。\"我带着数字回答：\"应急现金的小金库。\"Maria点评道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "immutable backup",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The report is meticulous: steps, impact, and kind suggestions. Review warm-up: Maria raises, \"Family photos in three homes.\" I answer, \"The recipe box survives floods.\" and Maria grades it, \"Agreed, note it in the ticket.\" The team names one clear owner for the ransomware playbook. I compare two views on the restore priority list and write both down honestly. I add the isolation network drill to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the backup coverage matrix. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "The report is meticulous: steps, impact, and kind suggestions. Review warm-up: Maria raises, \"Family photos in three homes.\" I answer, \"The recipe box survives floods.\" and Maria grades it, \"Agreed, note it in the ticket.\" The team names one clear owner for the ransomware playbook. I compare two views on the restore priority list and write both down honestly. I add the isolation network drill to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the backup coverage matrix. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "The report is meticulous: steps, impact, and kind suggestions. Dry run: Maria opens, \"Family photos in three homes.\" I follow, \"The recipe box survives floods.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" The team names one clear owner for the ransomware playbook. Before deciding, I reread my notes about the restore priority list twice. Our mentor walks me through how the isolation network drill evolved on this team. During the design review, I raise one careful question about the backup coverage matrix. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The report is meticulous: steps, impact, and kind suggestions. Dry run: Maria opens, \"Family photos in three homes.\" I follow, \"The recipe box survives floods.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" The team names one clear owner for the ransomware playbook. Before deciding, I reread my notes about the restore priority list twice. Our mentor walks me through how the isolation network drill evolved on this team. During the design review, I raise one careful question about the backup coverage matrix. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "报告极为严谨：步骤、影响、还有善意的建议。评审热身：Maria抛出：\"全家福存在三个屋。\"我带着数字回答：\"菜谱盒防过洪水。\"Maria点评道：\"同意，把这条记到工单里。\"团队为勒索软件手册指定了明确的负责人。我比较了关于恢复优先级清单的两种观点，诚实地都记了下来。我把隔离网络演练连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了备份覆盖矩阵上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "报告极为严谨：步骤、影响、还有善意的建议。干跑演练：Maria开场：\"全家福存在三个屋。\"我接上：\"菜谱盒防过洪水。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"团队为勒索软件手册指定了明确的负责人。做决定之前，我把关于恢复优先级清单的笔记重读了两遍。导师带我梳理了隔离网络演练在这个团队里的演变。设计评审中，我就备份覆盖矩阵提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "ransomware playbook",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the ransomware tabletop notes twice. I prepare a one-page brief about the recovery runbook versions so meetings start from facts. The team names one clear owner for the backup credential separation. I compare two views on the recovery drill cadence and write both down honestly. Practice debate: Leo argues, \"Insurance contact card offline.\" I respond calmly, \"Backups you can reach offline.\" and Leo concedes, \"That is the level we need.\" We fix in six days, pay the bounty, and write a thank you.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the ransomware tabletop notes twice. I prepare a one-page brief about the recovery runbook versions so meetings start from facts. The team names one clear owner for the backup credential separation. I compare two views on the recovery drill cadence and write both down honestly. Practice debate: Leo argues, \"Insurance contact card offline.\" I respond calmly, \"Backups you can reach offline.\" and Leo concedes, \"That is the level we need.\" We fix in six days, pay the bounty, and write a thank you.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the ransomware tabletop notes to the meeting agenda with three supporting facts. I compare two views on the recovery runbook versions and write both down honestly. We spend the first ten minutes of the review on the backup credential separation. I prepare a one-page brief about the recovery drill cadence so meetings start from facts. Mock review: Leo probes, \"Insurance contact card offline.\" I answer from memory, \"Backups you can reach offline.\" and Leo confirms, \"That is the level we need.\" We fix in six days, pay the bounty, and write a thank you.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the ransomware tabletop notes to the meeting agenda with three supporting facts. I compare two views on the recovery runbook versions and write both down honestly. We spend the first ten minutes of the review on the backup credential separation. I prepare a one-page brief about the recovery drill cadence so meetings start from facts. Mock review: Leo probes, \"Insurance contact card offline.\" I answer from memory, \"Backups you can reach offline.\" and Leo confirms, \"That is the level we need.\" We fix in six days, pay the bounty, and write a thank you.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于勒索桌演笔记的笔记重读了两遍。我准备了一页关于恢复手册版本化的简报，好让会议从事实出发。团队为备份凭证分离指定了明确的负责人。我比较了关于恢复演练节奏的两种观点，诚实地都记了下来。练习辩论：Leo主张：\"保险联系方式有纸版。\"我平静地回应：\"断网也拿得到的备份。\"Leo承认道：\"我们要的就是这个水平。\"我们六天修复，支付赏金，并寄出感谢信。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把勒索桌演笔记连同三条支撑事实加进了议程。我比较了关于恢复手册版本化的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了备份凭证分离上。我准备了一页关于恢复演练节奏的简报，好让会议从事实出发。模拟评审：Leo追问：\"保险联系方式有纸版。\"我凭记忆回答：\"断网也拿得到的备份。\"Leo确认：\"我们要的就是这个水平。\"我们六天修复，支付赏金，并寄出感谢信。",
    "hard": [
     {
      "w": "backup credential separation",

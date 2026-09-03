@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 341,
+   "word_count": 335,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria asks what I want to leave behind. I put the sustainable sprint design on the record so the reasoning stays visible. I present the recovery as planning unit with a timeline, the data, and one clear ask. We align on the oncall load rebalancing early, so execution never has to guess. My report covers the release pace sanity check, the risks behind it, and the cost of waiting. Last rehearsal: Maria checks, \"Sunday is officially boring.\" I commit word for word, \"The family do not disturb sign.\" and Maria smiles, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "Maria asks what I want to leave behind. I put the sustainable sprint design on the record so the reasoning stays visible. I present the recovery as planning unit with a timeline, the data, and one clear ask. We align on the oncall load rebalancing early, so execution never has to guess. My report covers the release pace sanity check, the risks behind it, and the cost of waiting. Last rehearsal: Maria checks, \"Sunday is officially boring.\" I commit word for word, \"The family do not disturb sign.\" and Maria smiles, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "Maria asks what I want to leave behind. The final deck includes the sustainable sprint design and what we learned from it. I present the recovery as planning unit with a timeline, the data, and one clear ask. I close the discussion on the oncall load rebalancing with a short summary. I put the release pace sanity check on the record so the reasoning stays visible. Launch rehearsal: Maria asks, \"Sunday is officially boring.\" I present, \"The family do not disturb sign.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Maria asks what I want to leave behind. The final deck includes the sustainable sprint design and what we learned from it. I present the recovery as planning unit with a timeline, the data, and one clear ask. I close the discussion on the oncall load rebalancing with a short summary. I put the release pace sanity check on the record so the reasoning stays visible. Launch rehearsal: Maria asks, \"Sunday is officially boring.\" I present, \"The family do not disturb sign.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 问我想留下什么。我把可持续迭代设计记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报恢复作为计划单元。我们尽早就值班负载再平衡对齐，让执行无需猜测。我的报告涵盖发布节奏体检、背后的风险，以及等待的代价。最后一次彩排：Maria核对：\"周日官方宣布无聊。\"我逐字承诺：\"家庭免打扰牌。\"Maria笑道：\"说得好，这句留在材料里。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "Maria 问我想留下什么。最终的材料里有可持续迭代设计，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报恢复作为计划单元。我用一段简短的总结为值班负载再平衡的讨论收尾。我把发布节奏体检记录在案，让推理过程保持可见。上线彩排：Maria问：\"周日官方宣布无聊。\"我带着准备好的数字汇报：\"家庭免打扰牌。\"Maria签字道：\"说得好，这句留在材料里。\"团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "sustainable sprint design",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Not code, I answer — habits, rituals, and people who teach people. Launch rehearsal: Maria asks, \"Naps are scheduled like meetings.\" I present, \"Guilt free rest took practice.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" I present the meeting load by role audit with a timeline, the data, and one clear ask. We align on the vacation coverage rehearsal early, so execution never has to guess. My report covers the meeting audit automation, the risks behind it, and the cost of waiting. I propose a measurable target for the vacation coverage doc template this quarter. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "Not code, I answer — habits, rituals, and people who teach people. Launch rehearsal: Maria asks, \"Naps are scheduled like meetings.\" I present, \"Guilt free rest took practice.\" with the numbers ready, and Maria signs off, \"Well said, that stays in the deck.\" I present the meeting load by role audit with a timeline, the data, and one clear ask. We align on the vacation coverage rehearsal early, so execution never has to guess. My report covers the meeting audit automation, the risks behind it, and the cost of waiting. I propose a measurable target for the vacation coverage doc template this quarter. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "Not code, I answer — habits, rituals, and people who teach people. Board practice: Maria probes, \"Naps are scheduled like meetings.\" I respond without a pause, \"Guilt free rest took practice.\" and Maria nods, \"Well said, that stays in the deck.\" We review the meeting load by role audit against the requirements, line by line. I propose a measurable target for the vacation coverage rehearsal this quarter. My report covers the meeting audit automation, the risks behind it, and the cost of waiting. We align on the vacation coverage doc template early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Not code, I answer — habits, rituals, and people who teach people. Board practice: Maria probes, \"Naps are scheduled like meetings.\" I respond without a pause, \"Guilt free rest took practice.\" and Maria nods, \"Well said, that stays in the deck.\" We review the meeting load by role audit against the requirements, line by line. I propose a measurable target for the vacation coverage rehearsal this quarter. My report covers the meeting audit automation, the risks behind it, and the cost of waiting. We align on the vacation coverage doc template early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "不是代码，我说——是习惯、仪式，和会教人的人。上线彩排：Maria问：\"午睡像会议一样排期。\"我带着准备好的数字汇报：\"不带愧疚的休息需要练习。\"Maria签字道：\"说得好，这句留在材料里。\"我用时间线、数据和一条明确的诉求来汇报按角色审计会议负载。我们尽早就休假覆盖演练对齐，让执行无需猜测。我的报告涵盖会议负载自动审计、背后的风险，以及等待的代价。我为休假覆盖文档模板提出了本季度一个可衡量的目标。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "不是代码，我说——是习惯、仪式，和会教人的人。董事会练习：Maria追问：\"午睡像会议一样排期。\"我毫不迟疑地回应：\"不带愧疚的休息需要练习。\"Maria点头道：\"说得好，这句留在材料里。\"我们逐行对照需求检查了按角色审计会议负载。我为休假覆盖演练提出了本季度一个可衡量的目标。我的报告涵盖会议负载自动审计、背后的风险，以及等待的代价。我们尽早就休假覆盖文档模板对齐，让执行无需猜测。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "meeting load by role audit",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the overtime alert threshold and what we learned from it. I put the rest retrospective question on the record so the reasoning stays visible. I present the energy check in retros with a timeline, the data, and one clear ask. We align on the overtime debt visibility early, so execution never has to guess. Board practice: Leo probes, \"We protect each other's naps.\" I respond without a pause, \"Recharge is a shared value.\" and Leo nods, \"Confirmed. This is launch ready.\" Legacy walks out the door every evening on its own feet.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the overtime alert threshold and what we learned from it. I put the rest retrospective question on the record so the reasoning stays visible. I present the energy check in retros with a timeline, the data, and one clear ask. We align on the overtime debt visibility early, so execution never has to guess. Board practice: Leo probes, \"We protect each other's naps.\" I respond without a pause, \"Recharge is a shared value.\" and Leo nods, \"Confirmed. This is launch ready.\" Legacy walks out the door every evening on its own feet.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the overtime alert threshold and what we learned from it. I present the rest retrospective question with a timeline, the data, and one clear ask. I close the discussion on the energy check in retros with a short summary. I put the overtime debt visibility on the record so the reasoning stays visible. Final dry run: Leo summarises, \"We protect each other's naps.\" I confirm, \"Recharge is a shared value.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" Legacy walks out the door every evening on its own feet.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the overtime alert threshold and what we learned from it. I present the rest retrospective question with a timeline, the data, and one clear ask. I close the discussion on the energy check in retros with a short summary. I put the overtime debt visibility on the record so the reasoning stays visible. Final dry run: Leo summarises, \"We protect each other's naps.\" I confirm, \"Recharge is a shared value.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" Legacy walks out the door every evening on its own feet.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。最终的材料里有加班告警阈值，以及我们从中学到的东西。我把复盘必问休息记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报复盘里的能量检查。我们尽早就加班债可视化对齐，让执行无需猜测。董事会练习：Leo追问：\"我们互相守护午睡。\"我毫不迟疑地回应：\"充电是全家共识。\"Leo点头道：\"确认无误，可以上线了。\"遗产每天晚上自己走路回家。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。最终的材料里有加班告警阈值，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报复盘必问休息。我用一段简短的总结为复盘里的能量检查的讨论收尾。我把加班债可视化记录在案，让推理过程保持可见。最终干跑：Leo总结：\"我们互相守护午睡。\"我郑重确认：\"充电是全家共识。\"Leo收尾道：\"确认无误，可以上线了。\"遗产每天晚上自己走路回家。",
    "hard": [
     {
      "w": "energy check in retros",

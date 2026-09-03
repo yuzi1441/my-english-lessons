@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 315,
+   "word_count": 316,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I explain zero trust to my family using the front door. During the design review, I raise one careful question about the vulnerability scanning cadence. Our mentor walks me through how the penetration test evolved on this team. Before deciding, I reread my notes about the security report intake twice. I prepare a one-page brief about the triage sla for security so meetings start from facts. Review warm-up: Leo raises, \"The wobbly railing got fixed first.\" I answer, \"We fix hazards, not cosmetics.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "I explain zero trust to my family using the front door. During the design review, I raise one careful question about the vulnerability scanning cadence. Our mentor walks me through how the penetration test evolved on this team. Before deciding, I reread my notes about the security report intake twice. I prepare a one-page brief about the triage sla for security so meetings start from facts. Review warm-up: Leo raises, \"The wobbly railing got fixed first.\" I answer, \"We fix hazards, not cosmetics.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "I explain zero trust to my family using the front door. Our mentor walks me through how the vulnerability scanning cadence evolved on this team. We spend the first ten minutes of the review on the penetration test. Before deciding, I reread my notes about the security report intake twice. I compare two views on the triage sla for security and write both down honestly. Mock review: Leo probes, \"The wobbly railing got fixed first.\" I answer from memory, \"We fix hazards, not cosmetics.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "I explain zero trust to my family using the front door. Our mentor walks me through how the vulnerability scanning cadence evolved on this team. We spend the first ten minutes of the review on the penetration test. Before deciding, I reread my notes about the security report intake twice. I compare two views on the triage sla for security and write both down honestly. Mock review: Leo probes, \"The wobbly railing got fixed first.\" I answer from memory, \"We fix hazards, not cosmetics.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我用自家大门给家人解释零信任。设计评审中，我就漏洞扫描节奏提出了一个审慎的问题。导师带我梳理了渗透测试在这个团队里的演变。做决定之前，我把关于安全报告受理通道的笔记重读了两遍。我准备了一页关于安全工单时限的简报，好让会议从事实出发。评审热身：Leo抛出：\"摇晃的栏杆最先修。\"我带着数字回答：\"先修隐患再谈美观。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我用自家大门给家人解释零信任。导师带我梳理了漏洞扫描节奏在这个团队里的演变。评审的前十分钟，我们都用在了渗透测试上。做决定之前，我把关于安全报告受理通道的笔记重读了两遍。我比较了关于安全工单时限的两种观点，诚实地都记了下来。模拟评审：Leo追问：\"摇晃的栏杆最先修。\"我凭记忆回答：\"先修隐患再谈美观。\"Leo确认：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "vulnerability scanning cadence",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "\"Everyone knocks,\" I say, \"even people with spare keys.\" Dry run: Leo opens, \"Smoke alarm batteries quarterly.\" I follow, \"The loose step got a note.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Our mentor walks me through how the bug bounty program evolved on this team. Before deciding, I reread my notes about the responsible disclosure policy twice. I prepare a one-page brief about the reproduction in staging so meetings start from facts. The team names one clear owner for the fix and verify loop. We end the week with something shipped and something properly learned this time.",
-   "tts": "\"Everyone knocks,\" I say, \"even people with spare keys.\" Dry run: Leo opens, \"Smoke alarm batteries quarterly.\" I follow, \"The loose step got a note.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Our mentor walks me through how the bug bounty program evolved on this team. Before deciding, I reread my notes about the responsible disclosure policy twice. I prepare a one-page brief about the reproduction in staging so meetings start from facts. The team names one clear owner for the fix and verify loop. We end the week with something shipped and something properly learned this time.",
+   "en": "\"Everyone knocks,\" I say, \"even people with spare keys.\" Dry run: Leo opens, \"Smoke alarm batteries quarterly.\" I follow, \"The loose step got a note.\" plus one proposal, and Leo accepts, \"That is the level we need.\" During the design review, I raise one careful question about the bug bounty program. I prepare a one-page brief about the responsible disclosure policy so meetings start from facts. The team names one clear owner for the reproduction in staging. I add the fix and verify loop to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "\"Everyone knocks,\" I say, \"even people with spare keys.\" Dry run: Leo opens, \"Smoke alarm batteries quarterly.\" I follow, \"The loose step got a note.\" plus one proposal, and Leo accepts, \"That is the level we need.\" During the design review, I raise one careful question about the bug bounty program. I prepare a one-page brief about the responsible disclosure policy so meetings start from facts. The team names one clear owner for the reproduction in staging. I add the fix and verify loop to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "“人人都要敲门，”我说，“哪怕他有备用钥匙。”干跑演练：Leo开场：\"烟感电池每季换。\"我接上：\"松动的台阶先贴条警示。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"导师带我梳理了漏洞赏金计划在这个团队里的演变。做决定之前，我把关于负责任披露政策的笔记重读了两遍。我准备了一页关于预发布环境复现的简报，好让会议从事实出发。团队为修复验证回路指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "“人人都要敲门，”我说，“哪怕他有备用钥匙。”干跑演练：Leo开场：\"烟感电池每季换。\"我接上：\"松动的台阶先贴条警示。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"设计评审中，我就漏洞赏金计划提出了一个审慎的问题。我准备了一页关于负责任披露政策的简报，好让会议从事实出发。团队为预发布环境复现指定了明确的负责人。我把修复验证回路连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "bug bounty program",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the disclosure timeline doc. During the design review, I raise one careful question about the credit the reporter. Our mentor walks me through how the patch priority matrix evolved on this team. Before deciding, I reread my notes about the exploitability rating twice. Mock review: Priya probes, \"Insurance photos updated yearly.\" I answer from memory, \"Repair budget beats repair regret.\" and Priya confirms, \"Strong answer — keep that precision.\" Trust is a process, not a pass.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the disclosure timeline doc. During the design review, I raise one careful question about the credit the reporter. Our mentor walks me through how the patch priority matrix evolved on this team. Before deciding, I reread my notes about the exploitability rating twice. Mock review: Priya probes, \"Insurance photos updated yearly.\" I answer from memory, \"Repair budget beats repair regret.\" and Priya confirms, \"Strong answer — keep that precision.\" Trust is a process, not a pass.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the disclosure timeline doc evolved on this team. We spend the first ten minutes of the review on the credit the reporter. Before deciding, I reread my notes about the patch priority matrix twice. I compare two views on the exploitability rating and write both down honestly. Practice debate: Priya argues, \"Insurance photos updated yearly.\" I respond calmly, \"Repair budget beats repair regret.\" and Priya concedes, \"Strong answer — keep that precision.\" Trust is a process, not a pass.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the disclosure timeline doc evolved on this team. We spend the first ten minutes of the review on the credit the reporter. Before deciding, I reread my notes about the patch priority matrix twice. I compare two views on the exploitability rating and write both down honestly. Practice debate: Priya argues, \"Insurance photos updated yearly.\" I respond calmly, \"Repair budget beats repair regret.\" and Priya concedes, \"Strong answer — keep that precision.\" Trust is a process, not a pass.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了披露时间线文档上。设计评审中，我就致谢报告者提出了一个审慎的问题。导师带我梳理了补丁优先级矩阵在这个团队里的演变。做决定之前，我把关于可利用性评级的笔记重读了两遍。模拟评审：Priya追问：\"家庭财产照片年更。\"我凭记忆回答：\"维修预算胜过维修后悔。\"Priya确认：\"回答有力——保持这种精确。\"信任是流程，不是通行证。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了披露时间线文档在这个团队里的演变。评审的前十分钟，我们都用在了致谢报告者上。做决定之前，我把关于补丁优先级矩阵的笔记重读了两遍。我比较了关于可利用性评级的两种观点，诚实地都记了下来。练习辩论：Priya主张：\"家庭财产照片年更。\"我平静地回应：\"维修预算胜过维修后悔。\"Priya承认道：\"回答有力——保持这种精确。\"信任是流程，不是通行证。",
    "hard": [
     {
      "w": "patch priority matrix",

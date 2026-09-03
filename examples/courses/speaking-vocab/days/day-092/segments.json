@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 280,
+   "word_count": 279,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Priya teaches me the rhythm: red, green, refactor. My notes about the assertion look clearer this week. I spend ten quiet minutes on the expected output after the standup. Sam asks me about the minimal example link, and I explain the basics. I keep one real example of the expected vs actual in my notebook. We practise the dialogue: Leo opens, \"I don't know yet, honestly.\" I answer, \"I'll find out by Friday.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "Priya teaches me the rhythm: red, green, refactor. My notes about the assertion look clearer this week. I spend ten quiet minutes on the expected output after the standup. Sam asks me about the minimal example link, and I explain the basics. I keep one real example of the expected vs actual in my notebook. We practise the dialogue: Leo opens, \"I don't know yet, honestly.\" I answer, \"I'll find out by Friday.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "Priya teaches me the rhythm: red, green, refactor. I go over the assertion one more time before lunch. There is a short paragraph about the expected output in the guide. Sam asks me about the minimal example link, and I explain the basics. I add the expected vs actual to my study notes before I forget it. Warm-up round: Leo offers, \"I don't know yet, honestly.\" I answer, \"I'll find out by Friday.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "Priya teaches me the rhythm: red, green, refactor. I go over the assertion one more time before lunch. There is a short paragraph about the expected output in the guide. Sam asks me about the minimal example link, and I explain the basics. I add the expected vs actual to my study notes before I forget it. Warm-up round: Leo offers, \"I don't know yet, honestly.\" I answer, \"I'll find out by Friday.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Priya 教我节奏：红、绿、重构。这周我关于断言的笔记清楚多了。站会之后，我安安静静花了十分钟在期望输出上。Sam 问起最小示例链接，我讲了讲基础。我在笔记本里留了一个期望与实际的真实例子。我们练习这段对话：Leo开场：\"老实说\"我回答：\"我周五前查明。\"Leo点头说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "Priya 教我节奏：红、绿、重构。午饭前我又过了一遍断言。指南里有一小段关于期望输出的介绍。Sam 问起最小示例链接，我讲了讲基础。我趁还没忘，把期望与实际记进了学习笔记。热身一轮：Leo给出：\"老实说\"我回答：\"我周五前查明。\"Leo收尾道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "assertion",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I write a failing test first, make it pass, then tidy both. We drill it twice: Leo starts, \"My gut says yes.\" I reply, \"Let me verify first.\" then Leo smiles, \"Nice, keep that one handy.\" I spend ten quiet minutes on the edge case after the standup. Sam asks me about the negative test, and I explain the basics. I keep one real example of the environment info in my notebook. I add the severity label to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
-   "tts": "I write a failing test first, make it pass, then tidy both. We drill it twice: Leo starts, \"My gut says yes.\" I reply, \"Let me verify first.\" then Leo smiles, \"Nice, keep that one handy.\" I spend ten quiet minutes on the edge case after the standup. Sam asks me about the negative test, and I explain the basics. I keep one real example of the environment info in my notebook. I add the severity label to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "en": "I write a failing test first, make it pass, then tidy both. We practise the dialogue: Leo opens, \"My gut says yes.\" I answer, \"Let me verify first.\" and Leo nods, \"Nice, keep that one handy.\" I ask one good question about the edge case in the meeting. I keep one real example of the negative test in my notebook. I spend ten quiet minutes on the environment info after the standup. My notes about the severity label look clearer this week. I end the day with fewer unknowns than I started with.",
+   "tts": "I write a failing test first, make it pass, then tidy both. We practise the dialogue: Leo opens, \"My gut says yes.\" I answer, \"Let me verify first.\" and Leo nods, \"Nice, keep that one handy.\" I ask one good question about the edge case in the meeting. I keep one real example of the negative test in my notebook. I spend ten quiet minutes on the environment info after the standup. My notes about the severity label look clearer this week. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我先写一个会失败的测试，让它通过，再把两者都整理好。我们练了两遍：Leo起头：\"直觉说可以。\"我回答：\"我先核实一下。\"然后Leo笑着说：\"不错，把这句记在手边。\"站会之后，我安安静静花了十分钟在边界情况上。Sam 问起反向测试，我讲了讲基础。我在笔记本里留了一个环境信息的真实例子。我趁还没忘，把严重级别记进了学习笔记。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我先写一个会失败的测试，让它通过，再把两者都整理好。我们练习这段对话：Leo开场：\"直觉说可以。\"我回答：\"我先核实一下。\"Leo点头说：\"不错，把这句记在手边。\"会上关于边界情况，我问了一个好问题。我在笔记本里留了一个反向测试的真实例子。站会之后，我安安静静花了十分钟在环境信息上。这周我关于严重级别的笔记清楚多了。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "edge case",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the steps numbering in the meeting. It is finally my turn to attach the log. I spend ten quiet minutes on the deterministic test after the standup. Sam asks me about the setup and teardown, and I explain the basics. Warm-up round: Priya offers, \"Uncertainty is uncomfortable.\" I answer, \"I'd rather admit it.\" and Priya wraps up, \"Good — try it in today’s task.\" The rhythm is slow at first, then it starts to dance.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the steps numbering in the meeting. It is finally my turn to attach the log. I spend ten quiet minutes on the deterministic test after the standup. Sam asks me about the setup and teardown, and I explain the basics. Warm-up round: Priya offers, \"Uncertainty is uncomfortable.\" I answer, \"I'd rather admit it.\" and Priya wraps up, \"Good — try it in today’s task.\" The rhythm is slow at first, then it starts to dance.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the steps numbering one more time before lunch. I attach the log while the office is still quiet. There is a short paragraph about the deterministic test in the guide. Sam asks me about the setup and teardown, and I explain the basics. We drill it twice: Priya starts, \"Uncertainty is uncomfortable.\" I reply, \"I'd rather admit it.\" then Priya smiles, \"Good — try it in today’s task.\" The rhythm is slow at first, then it starts to dance.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the steps numbering one more time before lunch. I attach the log while the office is still quiet. There is a short paragraph about the deterministic test in the guide. Sam asks me about the setup and teardown, and I explain the basics. We drill it twice: Priya starts, \"Uncertainty is uncomfortable.\" I reply, \"I'd rather admit it.\" then Priya smiles, \"Good — try it in today’s task.\" The rhythm is slow at first, then it starts to dance.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于步骤编号，我问了一个好问题。终于轮到我附上日志了。站会之后，我安安静静花了十分钟在确定性测试上。Sam 问起准备与清理，我讲了讲基础。热身一轮：Priya给出：\"不确定让人不舒服。\"我回答：\"我宁愿承认它。\"Priya收尾道：\"好——今天的任务里就用上。\"节奏起初很慢，后来开始跳舞。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍步骤编号。趁办公室还安静，我附上日志。指南里有一小段关于确定性测试的介绍。Sam 问起准备与清理，我讲了讲基础。我们练了两遍：Priya起头：\"不确定让人不舒服。\"我回答：\"我宁愿承认它。\"然后Priya笑着说：\"好——今天的任务里就用上。\"节奏起初很慢，后来开始跳舞。",
    "hard": [
     {
      "w": "deterministic test",

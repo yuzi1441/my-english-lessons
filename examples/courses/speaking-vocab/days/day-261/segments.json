@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 325,
+   "word_count": 320,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We choose security metrics that measure safety, not theater. I compare two views on the data processing agreement and write both down honestly. I add the breach notification duty to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the legal review intake form. During the design review, I raise one careful question about the regulation change watch. Dry run: Priya opens, \"The lending handshake rule.\" I follow, \"House rules get written down.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
-   "tts": "We choose security metrics that measure safety, not theater. I compare two views on the data processing agreement and write both down honestly. I add the breach notification duty to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the legal review intake form. During the design review, I raise one careful question about the regulation change watch. Dry run: Priya opens, \"The lending handshake rule.\" I follow, \"House rules get written down.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "en": "We choose security metrics that measure safety, not theater. Before deciding, I reread my notes about the data processing agreement twice. I compare two views on the breach notification duty and write both down honestly. Our mentor walks me through how the legal review intake form evolved on this team. The team names one clear owner for the regulation change watch. Dry run: Priya opens, \"The lending handshake rule.\" I follow, \"House rules get written down.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "tts": "We choose security metrics that measure safety, not theater. Before deciding, I reread my notes about the data processing agreement twice. I compare two views on the breach notification duty and write both down honestly. Our mentor walks me through how the legal review intake form evolved on this team. The team names one clear owner for the regulation change watch. Dry run: Priya opens, \"The lending handshake rule.\" I follow, \"House rules get written down.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们选择衡量安全本身、而非表演的指标。我比较了关于数据处理协议的两种观点，诚实地都记了下来。我把泄露通知义务连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了法务评审受理单上。设计评审中，我就法规变更监视提出了一个审慎的问题。干跑演练：Priya开场：\"借钱要握手为证。\"我接上：\"家规也落在纸上。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们选择衡量安全本身、而非表演的指标。做决定之前，我把关于数据处理协议的笔记重读了两遍。我比较了关于泄露通知义务的两种观点，诚实地都记了下来。导师带我梳理了法务评审受理单在这个团队里的演变。团队为法规变更监视指定了明确的负责人。干跑演练：Priya开场：\"借钱要握手为证。\"我接上：\"家规也落在纸上。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "data processing agreement",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Patch speed, phish click rate, and finding-to-fix time go on one page. Practice debate: Priya argues, \"We read contracts before signing.\" I respond calmly, \"The kids understand consent too.\" and Priya concedes, \"Strong answer — keep that precision.\" I add the regulatory deadline tracker to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the legal hold process. During the design review, I raise one careful question about the contract expiry calendar. Our mentor walks me through how the policy translation for engineers evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Patch speed, phish click rate, and finding-to-fix time go on one page. Practice debate: Priya argues, \"We read contracts before signing.\" I respond calmly, \"The kids understand consent too.\" and Priya concedes, \"Strong answer — keep that precision.\" I add the regulatory deadline tracker to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the legal hold process. During the design review, I raise one careful question about the contract expiry calendar. Our mentor walks me through how the policy translation for engineers evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Patch speed, phish click rate, and finding-to-fix time go on one page. Mock review: Priya probes, \"We read contracts before signing.\" I answer from memory, \"The kids understand consent too.\" and Priya confirms, \"Strong answer — keep that precision.\" I add the regulatory deadline tracker to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the legal hold process. During the design review, I raise one careful question about the contract expiry calendar. I prepare a one-page brief about the policy translation for engineers so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Patch speed, phish click rate, and finding-to-fix time go on one page. Mock review: Priya probes, \"We read contracts before signing.\" I answer from memory, \"The kids understand consent too.\" and Priya confirms, \"Strong answer — keep that precision.\" I add the regulatory deadline tracker to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the legal hold process. During the design review, I raise one careful question about the contract expiry calendar. I prepare a one-page brief about the policy translation for engineers so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "修复速度、钓鱼点击率、发现到修复时长，共处一页。练习辩论：Priya主张：\"签字之前读合同。\"我平静地回应：\"孩子也懂同意这回事。\"Priya承认道：\"回答有力——保持这种精确。\"我把监管时限追踪连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了法律保全流程上。设计评审中，我就合同到期日历提出了一个审慎的问题。导师带我梳理了政策给工程师的翻译在这个团队里的演变。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "修复速度、钓鱼点击率、发现到修复时长，共处一页。模拟评审：Priya追问：\"签字之前读合同。\"我凭记忆回答：\"孩子也懂同意这回事。\"Priya确认：\"回答有力——保持这种精确。\"我把监管时限追踪连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了法律保全流程上。设计评审中，我就合同到期日历提出了一个审慎的问题。我准备了一页关于政策给工程师的翻译的简报，好让会议从事实出发。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "regulatory deadline tracker",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the legal escalation path. I compare two views on the compliance question archive and write both down honestly. I add the privacy impact assessment to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the consent record keeping. Review warm-up: Maria raises, \"Verbal promises get a text.\" I answer, \"Fair rules get fewer arguments.\" and Maria grades it, \"Agreed, note it in the ticket.\" Numbers with stories keep the board awake.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the legal escalation path. I compare two views on the compliance question archive and write both down honestly. I add the privacy impact assessment to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the consent record keeping. Review warm-up: Maria raises, \"Verbal promises get a text.\" I answer, \"Fair rules get fewer arguments.\" and Maria grades it, \"Agreed, note it in the ticket.\" Numbers with stories keep the board awake.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the legal escalation path twice. I compare two views on the compliance question archive and write both down honestly. Our mentor walks me through how the privacy impact assessment evolved on this team. The team names one clear owner for the consent record keeping. Review warm-up: Maria raises, \"Verbal promises get a text.\" I answer, \"Fair rules get fewer arguments.\" and Maria grades it, \"Agreed, note it in the ticket.\" Numbers with stories keep the board awake.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the legal escalation path twice. I compare two views on the compliance question archive and write both down honestly. Our mentor walks me through how the privacy impact assessment evolved on this team. The team names one clear owner for the consent record keeping. Review warm-up: Maria raises, \"Verbal promises get a text.\" I answer, \"Fair rules get fewer arguments.\" and Maria grades it, \"Agreed, note it in the ticket.\" Numbers with stories keep the board awake.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为法务升级路径指定了明确的负责人。我比较了关于合规问答归档的两种观点，诚实地都记了下来。我把隐私影响评估连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了用户同意记录上。评审热身：Maria抛出：\"口头约定事后补个短信。\"我带着数字回答：\"公平的规矩少吵架。\"Maria点评道：\"同意，把这条记到工单里。\"带着故事的数字让董事会保持清醒。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于法务升级路径的笔记重读了两遍。我比较了关于合规问答归档的两种观点，诚实地都记了下来。导师带我梳理了隐私影响评估在这个团队里的演变。团队为用户同意记录指定了明确的负责人。评审热身：Maria抛出：\"口头约定事后补个短信。\"我带着数字回答：\"公平的规矩少吵架。\"Maria点评道：\"同意，把这条记到工单里。\"带着故事的数字让董事会保持清醒。",
    "hard": [
     {
      "w": "privacy impact assessment",

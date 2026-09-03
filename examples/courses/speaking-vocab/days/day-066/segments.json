@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 272,
+   "word_count": 279,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We rehearse the demo like a small play. There is a short paragraph about the paging alert in the guide. I ask one good question about the ticket alert in the meeting. My notes about the preflight check look clearer this week. I spend ten quiet minutes on the smoke test after the standup. Role play with feedback: Priya says, \"This soup is amazing.\" I try, \"Did you make this yourself?\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
-   "tts": "We rehearse the demo like a small play. There is a short paragraph about the paging alert in the guide. I ask one good question about the ticket alert in the meeting. My notes about the preflight check look clearer this week. I spend ten quiet minutes on the smoke test after the standup. Role play with feedback: Priya says, \"This soup is amazing.\" I try, \"Did you make this yourself?\" and Priya adds, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "en": "We rehearse the demo like a small play. I add the paging alert to my study notes before I forget it. I keep one real example of the ticket alert in my notebook. My notes about the preflight check look clearer this week. I go over the smoke test one more time before lunch. We drill it twice: Priya starts, \"This soup is amazing.\" I reply, \"Did you make this yourself?\" then Priya smiles, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "tts": "We rehearse the demo like a small play. I add the paging alert to my study notes before I forget it. I keep one real example of the ticket alert in my notebook. My notes about the preflight check look clearer this week. I go over the smoke test one more time before lunch. We drill it twice: Priya starts, \"This soup is amazing.\" I reply, \"Did you make this yourself?\" then Priya smiles, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们像排一场小戏一样排练演示。指南里有一小段关于呼叫告警的介绍。会上关于工单告警，我问了一个好问题。这周我关于起飞前检查的笔记清楚多了。站会之后，我安安静静花了十分钟在冒烟测试上。角色扮演加反馈：Priya说：\"这汤太好喝了。\"我试着说：\"这是你自己做的吗？\"Priya补充道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我们像排一场小戏一样排练演示。我趁还没忘，把呼叫告警记进了学习笔记。我在笔记本里留了一个工单告警的真实例子。这周我关于起飞前检查的笔记清楚多了。午饭前我又过了一遍冒烟测试。我们练了两遍：Priya起头：\"这汤太好喝了。\"我回答：\"这是你自己做的吗？\"然后Priya笑着说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "paging alert",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The projector fails, the Wi-Fi drops, and we rehearse through both. Warm-up round: Priya offers, \"The seasoning is perfect.\" I answer, \"Share the recipe, please.\" and Priya wraps up, \"Good — try it in today’s task.\" I ask one good question about the alert dedup in the meeting. My notes about the escalation policy look clearer this week. I spend ten quiet minutes on the canary after the standup. Sam asks me about the canary analysis, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
-   "tts": "The projector fails, the Wi-Fi drops, and we rehearse through both. Warm-up round: Priya offers, \"The seasoning is perfect.\" I answer, \"Share the recipe, please.\" and Priya wraps up, \"Good — try it in today’s task.\" I ask one good question about the alert dedup in the meeting. My notes about the escalation policy look clearer this week. I spend ten quiet minutes on the canary after the standup. Sam asks me about the canary analysis, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "en": "The projector fails, the Wi-Fi drops, and we rehearse through both. Role play with feedback: Priya says, \"The seasoning is perfect.\" I try, \"Share the recipe, please.\" and Priya adds, \"Good — try it in today’s task.\" I spend ten quiet minutes on the alert dedup after the standup. There is a short paragraph about the escalation policy in the guide. I ask one good question about the canary in the meeting. Sam asks me about the canary analysis, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The projector fails, the Wi-Fi drops, and we rehearse through both. Role play with feedback: Priya says, \"The seasoning is perfect.\" I try, \"Share the recipe, please.\" and Priya adds, \"Good — try it in today’s task.\" I spend ten quiet minutes on the alert dedup after the standup. There is a short paragraph about the escalation policy in the guide. I ask one good question about the canary in the meeting. Sam asks me about the canary analysis, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "投影仪罢工，Wi-Fi 断线，我们照样把彩排演完。热身一轮：Priya给出：\"调味恰到好处。\"我回答：\"把食谱分享给我吧。\"Priya收尾道：\"好——今天的任务里就用上。\"会上关于告警去重，我问了一个好问题。这周我关于升级策略的笔记清楚多了。站会之后，我安安静静花了十分钟在金丝雀上。Sam 问起金丝雀分析，我讲了讲基础。今天的小进步为明天更大的跨越做准备。",
+   "zh": "投影仪罢工，Wi-Fi 断线，我们照样把彩排演完。角色扮演加反馈：Priya说：\"调味恰到好处。\"我试着说：\"把食谱分享给我吧。\"Priya补充道：\"好——今天的任务里就用上。\"站会之后，我安安静静花了十分钟在告警去重上。指南里有一小段关于升级策略的介绍。会上关于金丝雀，我问了一个好问题。Sam 问起金丝雀分析，我讲了讲基础。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "alert dedup",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the auto rollback one more time before lunch. Maria watches while I gate on metrics. I ask one good question about the runbook link in the meeting. My notes about the false positive look clearer this week. We drill it twice: Maria starts, \"I could eat this every day.\" I reply, \"You have a gift.\" then Maria smiles, \"That is the one we need today.\" A demo never goes perfectly; a rehearsal makes that fine.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the auto rollback one more time before lunch. Maria watches while I gate on metrics. I ask one good question about the runbook link in the meeting. My notes about the false positive look clearer this week. We drill it twice: Maria starts, \"I could eat this every day.\" I reply, \"You have a gift.\" then Maria smiles, \"That is the one we need today.\" A demo never goes perfectly; a rehearsal makes that fine.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the auto rollback to my study notes before I forget it. I gate on metrics while the office is still quiet. I keep one real example of the runbook link in my notebook. My notes about the false positive look clearer this week. Warm-up round: Maria offers, \"I could eat this every day.\" I answer, \"You have a gift.\" and Maria wraps up, \"That is the one we need today.\" A demo never goes perfectly; a rehearsal makes that fine.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the auto rollback to my study notes before I forget it. I gate on metrics while the office is still quiet. I keep one real example of the runbook link in my notebook. My notes about the false positive look clearer this week. Warm-up round: Maria offers, \"I could eat this every day.\" I answer, \"You have a gift.\" and Maria wraps up, \"That is the one we need today.\" A demo never goes perfectly; a rehearsal makes that fine.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍自动回滚。Maria 看着我指标门禁。会上关于手册链接，我问了一个好问题。这周我关于误报的笔记清楚多了。我们练了两遍：Maria起头：\"这个我天天吃都愿意。\"我回答：\"你真有天赋。\"然后Maria笑着说：\"今天要的就是这句。\"演示从不完美；彩排让这不完美变得无妨。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把自动回滚记进了学习笔记。趁办公室还安静，我指标门禁。我在笔记本里留了一个手册链接的真实例子。这周我关于误报的笔记清楚多了。热身一轮：Maria给出：\"这个我天天吃都愿意。\"我回答：\"你真有天赋。\"Maria收尾道：\"今天要的就是这句。\"演示从不完美；彩排让这不完美变得无妨。",
    "hard": [
     {
      "w": "runbook link",

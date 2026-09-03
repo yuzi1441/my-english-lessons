@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 322,
+   "word_count": 317,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Leo explains Little's law on a napkin. I add the performance regression gate to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the automated perf budget check. During the design review, I raise one careful question about the perf champions rotation. Our mentor walks me through how the slow change postmortem evolved on this team. Practice debate: Leo argues, \"The weekly tidy keeps chaos out.\" I respond calmly, \"Weight chart on the fridge.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Leo explains Little's law on a napkin. I add the performance regression gate to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the automated perf budget check. During the design review, I raise one careful question about the perf champions rotation. Our mentor walks me through how the slow change postmortem evolved on this team. Practice debate: Leo argues, \"The weekly tidy keeps chaos out.\" I respond calmly, \"Weight chart on the fridge.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Leo explains Little's law on a napkin. We spend the first ten minutes of the review on the performance regression gate. Our mentor walks me through how the automated perf budget check evolved on this team. I prepare a one-page brief about the perf champions rotation so meetings start from facts. The team names one clear owner for the slow change postmortem. Practice debate: Leo argues, \"The weekly tidy keeps chaos out.\" I respond calmly, \"Weight chart on the fridge.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Leo explains Little's law on a napkin. We spend the first ten minutes of the review on the performance regression gate. Our mentor walks me through how the automated perf budget check evolved on this team. I prepare a one-page brief about the perf champions rotation so meetings start from facts. The team names one clear owner for the slow change postmortem. Practice debate: Leo argues, \"The weekly tidy keeps chaos out.\" I respond calmly, \"Weight chart on the fridge.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Leo 在餐巾纸上讲解小定律。我把性能回归门禁连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了性能预算自动检查上。设计评审中，我就性能大使轮值提出了一个审慎的问题。导师带我梳理了变慢事故复盘在这个团队里的演变。练习辩论：Leo主张：\"每周整理防混乱。\"我平静地回应：\"冰箱上的体重曲线。\"Leo承认道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "Leo 在餐巾纸上讲解小定律。评审的前十分钟，我们都用在了性能回归门禁上。导师带我梳理了性能预算自动检查在这个团队里的演变。我准备了一页关于性能大使轮值的简报，好让会议从事实出发。团队为变慢事故复盘指定了明确的负责人。练习辩论：Leo主张：\"每周整理防混乱。\"我平静地回应：\"冰箱上的体重曲线。\"Leo承认道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "performance regression gate",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Concurrency equals arrival rate times stay time; suddenly the math predicts our queues. Mock review: Leo probes, \"Budget review every month.\" I answer from memory, \"Small drifts get caught early.\" and Leo confirms, \"That is the level we need.\" We spend the first ten minutes of the review on the nightly perf suite. During the design review, I raise one careful question about the perf alert triage. Our mentor walks me through how the perf win announcements evolved on this team. Before deciding, I reread my notes about the budget exception process twice. We end the week with something shipped and something properly learned this time.",
-   "tts": "Concurrency equals arrival rate times stay time; suddenly the math predicts our queues. Mock review: Leo probes, \"Budget review every month.\" I answer from memory, \"Small drifts get caught early.\" and Leo confirms, \"That is the level we need.\" We spend the first ten minutes of the review on the nightly perf suite. During the design review, I raise one careful question about the perf alert triage. Our mentor walks me through how the perf win announcements evolved on this team. Before deciding, I reread my notes about the budget exception process twice. We end the week with something shipped and something properly learned this time.",
+   "en": "Concurrency equals arrival rate times stay time; suddenly the math predicts our queues. Review warm-up: Leo raises, \"Budget review every month.\" I answer, \"Small drifts get caught early.\" and Leo grades it, \"That is the level we need.\" I compare two views on the nightly perf suite and write both down honestly. I add the perf alert triage to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the perf win announcements twice. During the design review, I raise one careful question about the budget exception process. We end the week with something shipped and something properly learned this time.",
+   "tts": "Concurrency equals arrival rate times stay time; suddenly the math predicts our queues. Review warm-up: Leo raises, \"Budget review every month.\" I answer, \"Small drifts get caught early.\" and Leo grades it, \"That is the level we need.\" I compare two views on the nightly perf suite and write both down honestly. I add the perf alert triage to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the perf win announcements twice. During the design review, I raise one careful question about the budget exception process. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "并发等于到达率乘停留时间；数学突然能预测我们的队列。模拟评审：Leo追问：\"每月对账防超支。\"我凭记忆回答：\"小漂移要早发现。\"Leo确认：\"我们要的就是这个水平。\"评审的前十分钟，我们都用在了每夜性能套件上。设计评审中，我就性能告警分诊提出了一个审慎的问题。导师带我梳理了性能优化播报在这个团队里的演变。做决定之前，我把关于预算例外流程的笔记重读了两遍。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "并发等于到达率乘停留时间；数学突然能预测我们的队列。评审热身：Leo抛出：\"每月对账防超支。\"我带着数字回答：\"小漂移要早发现。\"Leo点评道：\"我们要的就是这个水平。\"我比较了关于每夜性能套件的两种观点，诚实地都记了下来。我把性能告警分诊连同三条支撑事实加进了议程。做决定之前，我把关于性能优化播报的笔记重读了两遍。设计评审中，我就预算例外流程提出了一个审慎的问题。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "nightly perf suite",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the speed in definition of done and write both down honestly. I add the performance retro agenda to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the perf regression ownership. During the design review, I raise one careful question about the trend dashboard for speed. Dry run: Priya opens, \"Routines are regression tests.\" I follow, \"The family reviews trends together.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" One small law, one big understanding.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the speed in definition of done and write both down honestly. I add the performance retro agenda to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the perf regression ownership. During the design review, I raise one careful question about the trend dashboard for speed. Dry run: Priya opens, \"Routines are regression tests.\" I follow, \"The family reviews trends together.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" One small law, one big understanding.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the speed in definition of done. Our mentor walks me through how the performance retro agenda evolved on this team. I prepare a one-page brief about the perf regression ownership so meetings start from facts. The team names one clear owner for the trend dashboard for speed. Dry run: Priya opens, \"Routines are regression tests.\" I follow, \"The family reviews trends together.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" One small law, one big understanding.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the speed in definition of done. Our mentor walks me through how the performance retro agenda evolved on this team. I prepare a one-page brief about the perf regression ownership so meetings start from facts. The team names one clear owner for the trend dashboard for speed. Dry run: Priya opens, \"Routines are regression tests.\" I follow, \"The family reviews trends together.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" One small law, one big understanding.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于速度写进完成定义的两种观点，诚实地都记了下来。我把性能复盘议程连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了性能回归归属上。设计评审中，我就速度趋势看板提出了一个审慎的问题。干跑演练：Priya开场：\"日常惯例就是回归测试。\"我接上：\"全家一起看趋势。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"一条小定律，一次大领悟。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了速度写进完成定义上。导师带我梳理了性能复盘议程在这个团队里的演变。我准备了一页关于性能回归归属的简报，好让会议从事实出发。团队为速度趋势看板指定了明确的负责人。干跑演练：Priya开场：\"日常惯例就是回归测试。\"我接上：\"全家一起看趋势。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"一条小定律，一次大领悟。",
    "hard": [
     {
      "w": "perf regression ownership",

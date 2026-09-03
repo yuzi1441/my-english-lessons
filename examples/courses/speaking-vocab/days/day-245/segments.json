@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 327,
+   "word_count": 325,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I teach onboarding security without a single policy slide. I compare two views on the secret scanning in ci and write both down honestly. I add the code secret scan to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the exposed secret runbook. During the design review, I raise one careful question about the rotation drill schedule. Dry run: Leo opens, \"House keys never leave with labels.\" I follow, \"The key bowl by the door.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "I teach onboarding security without a single policy slide. I compare two views on the secret scanning in ci and write both down honestly. I add the code secret scan to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the exposed secret runbook. During the design review, I raise one careful question about the rotation drill schedule. Dry run: Leo opens, \"House keys never leave with labels.\" I follow, \"The key bowl by the door.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "I teach onboarding security without a single policy slide. The team names one clear owner for the secret scanning in ci. I compare two views on the code secret scan and write both down honestly. During the design review, I raise one careful question about the exposed secret runbook. I prepare a one-page brief about the rotation drill schedule so meetings start from facts. Review warm-up: Leo raises, \"House keys never leave with labels.\" I answer, \"The key bowl by the door.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "I teach onboarding security without a single policy slide. The team names one clear owner for the secret scanning in ci. I compare two views on the code secret scan and write both down honestly. During the design review, I raise one careful question about the exposed secret runbook. I prepare a one-page brief about the rotation drill schedule so meetings start from facts. Review warm-up: Leo raises, \"House keys never leave with labels.\" I answer, \"The key bowl by the door.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我讲入职安全课，一页制度幻灯片都不用。我比较了关于CI 机密扫描的两种观点，诚实地都记了下来。我把代码机密扫描连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了机密泄露手册上。设计评审中，我就轮换演练排期提出了一个审慎的问题。干跑演练：Leo开场：\"钥匙上不挂地址牌。\"我接上：\"门口的钥匙碗。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我讲入职安全课，一页制度幻灯片都不用。团队为CI 机密扫描指定了明确的负责人。我比较了关于代码机密扫描的两种观点，诚实地都记了下来。设计评审中，我就机密泄露手册提出了一个审慎的问题。我准备了一页关于轮换演练排期的简报，好让会议从事实出发。评审热身：Leo抛出：\"钥匙上不挂地址牌。\"我带着数字回答：\"门口的钥匙碗。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "secret scanning in ci",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We break a fake app together and fix it live. Practice debate: Leo argues, \"Car keys sleep away from house keys.\" I respond calmly, \"Old locks get rekeyed, not trusted.\" and Leo concedes, \"That is the level we need.\" I add the key ceremony to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the seal and rotate policy. During the design review, I raise one careful question about the secret incident severity. Our mentor walks me through how the history purge procedure evolved on this team. We end the week with something shipped and something properly learned this time.",
-   "tts": "We break a fake app together and fix it live. Practice debate: Leo argues, \"Car keys sleep away from house keys.\" I respond calmly, \"Old locks get rekeyed, not trusted.\" and Leo concedes, \"That is the level we need.\" I add the key ceremony to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the seal and rotate policy. During the design review, I raise one careful question about the secret incident severity. Our mentor walks me through how the history purge procedure evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "en": "We break a fake app together and fix it live. Dry run: Leo opens, \"Car keys sleep away from house keys.\" I follow, \"Old locks get rekeyed, not trusted.\" plus one proposal, and Leo accepts, \"That is the level we need.\" We spend the first ten minutes of the review on the key ceremony. Our mentor walks me through how the seal and rotate policy evolved on this team. Before deciding, I reread my notes about the secret incident severity twice. I add the history purge procedure to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "We break a fake app together and fix it live. Dry run: Leo opens, \"Car keys sleep away from house keys.\" I follow, \"Old locks get rekeyed, not trusted.\" plus one proposal, and Leo accepts, \"That is the level we need.\" We spend the first ten minutes of the review on the key ceremony. Our mentor walks me through how the seal and rotate policy evolved on this team. Before deciding, I reread my notes about the secret incident severity twice. I add the history purge procedure to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们一起攻破一个假应用，再当场修好它。练习辩论：Leo主张：\"车钥匙和家门钥匙分房睡。\"我平静地回应：\"换锁芯而不是换心态。\"Leo承认道：\"我们要的就是这个水平。\"我把密钥仪式连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了封存与轮换策略上。设计评审中，我就机密事件分级提出了一个审慎的问题。导师带我梳理了历史清除流程在这个团队里的演变。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们一起攻破一个假应用，再当场修好它。干跑演练：Leo开场：\"车钥匙和家门钥匙分房睡。\"我接上：\"换锁芯而不是换心态。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"评审的前十分钟，我们都用在了密钥仪式上。导师带我梳理了封存与轮换策略在这个团队里的演变。做决定之前，我把关于机密事件分级的笔记重读了两遍。我把历史清除流程连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "key ceremony",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the revocation checklist. I compare two views on the leak postmortem and write both down honestly. I add the vault break glass to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the entropy check for keys. Review warm-up: Priya raises, \"Spare keys live with people, not mats.\" I answer, \"Lost key means new lock, no debate.\" and Priya grades it, \"Strong answer — keep that precision.\" Fear fades when curiosity has somewhere to go.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the revocation checklist. I compare two views on the leak postmortem and write both down honestly. I add the vault break glass to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the entropy check for keys. Review warm-up: Priya raises, \"Spare keys live with people, not mats.\" I answer, \"Lost key means new lock, no debate.\" and Priya grades it, \"Strong answer — keep that precision.\" Fear fades when curiosity has somewhere to go.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the revocation checklist. I compare two views on the leak postmortem and write both down honestly. During the design review, I raise one careful question about the vault break glass. I prepare a one-page brief about the entropy check for keys so meetings start from facts. Mock review: Priya probes, \"Spare keys live with people, not mats.\" I answer from memory, \"Lost key means new lock, no debate.\" and Priya confirms, \"Strong answer — keep that precision.\" Fear fades when curiosity has somewhere to go.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the revocation checklist. I compare two views on the leak postmortem and write both down honestly. During the design review, I raise one careful question about the vault break glass. I prepare a one-page brief about the entropy check for keys so meetings start from facts. Mock review: Priya probes, \"Spare keys live with people, not mats.\" I answer from memory, \"Lost key means new lock, no debate.\" and Priya confirms, \"Strong answer — keep that precision.\" Fear fades when curiosity has somewhere to go.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为吊销检查清单指定了明确的负责人。我比较了关于泄露复盘的两种观点，诚实地都记了下来。我把保管库应急开启连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了密钥熵检查上。评审热身：Priya抛出：\"备用钥匙在朋友家不在门垫下。\"我带着数字回答：\"钥匙丢了就换锁\"Priya点评道：\"回答有力——保持这种精确。\"当好奇心有了去处，恐惧就退场了。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为吊销检查清单指定了明确的负责人。我比较了关于泄露复盘的两种观点，诚实地都记了下来。设计评审中，我就保管库应急开启提出了一个审慎的问题。我准备了一页关于密钥熵检查的简报，好让会议从事实出发。模拟评审：Priya追问：\"备用钥匙在朋友家不在门垫下。\"我凭记忆回答：\"钥匙丢了就换锁\"Priya确认：\"回答有力——保持这种精确。\"当好奇心有了去处，恐惧就退场了。",
    "hard": [
     {
      "w": "vault break glass",

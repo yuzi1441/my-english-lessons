@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 187,
+   "word_count": 244,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The team plans the next version. We organize the work. Maria explains the DNS to me. I learn about the domain name because it is useful. Now I understand the label. I write a short note about the milestone. First Priya says, \"I'd like to check in.\" then I reply, \"I have a reservation.\" I understand a little more than yesterday.",
-   "tts": "The team plans the next version. We organize the work. Maria explains the D N S to me. I learn about the domain name because it is useful. Now I understand the label. I write a short note about the milestone. First Priya says, \"I'd like to check in.\" then I reply, \"I have a reservation.\" I understand a little more than yesterday.",
+   "en": "The team plans the next version. We organize the work. Maria explains the DNS to me. Now I understand the domain name. After a short break, I read the short guide about the label twice. I hear the milestone in the meeting and write it down. Then Leo says, \"I'd like to check in.\" I reply, and we keep chatting. Then Maria says, \"I have a reservation.\" I think for a second, then answer. I understand a little more than yesterday.",
+   "tts": "The team plans the next version. We organize the work. Maria explains the D N S to me. Now I understand the domain name. After a short break, I read the short guide about the label twice. I hear the milestone in the meeting and write it down. Then Leo says, \"I'd like to check in.\" I reply, and we keep chatting. Then Maria says, \"I have a reservation.\" I think for a second, then answer. I understand a little more than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "团队在规划下一个版本。我们把工作整理归类。Maria 给我讲解域名系统。我学习域名，因为它很有用。现在我理解了标签。我给里程碑写了一条简短的笔记。先是Priya说：\"我想办理入住。\"然后我回答：\"我有预订。\"我比昨天多懂了一点。",
+   "zh": "团队在规划下一个版本。我们把工作整理归类。Maria 给我讲解域名系统。现在我理解了域名。稍作休息后，我把关于标签的简短说明读了两遍。我在会上听到里程碑，把它记了下来。接着Leo说：\"我想办理入住。\"我回答后，我们继续聊。接着Maria说：\"我有预订。\"我想了一下，然后回答。我比昨天多懂了一点。",
    "hard": [
     {
      "w": "DNS",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria travels next week. She talks about her hotel. First Priya says, \"Is breakfast included?\" then I reply, \"What time is checkout?\" Leo tells me a story about the web address. Maria explains the URL to me. I add a label, and Maria checks it. I need to remove a label before lunch. The team gives me good advice.",
-   "tts": "Maria travels next week. She talks about her hotel. First Priya says, \"Is breakfast included?\" then I reply, \"What time is checkout?\" Leo tells me a story about the web address. Maria explains the U R L to me. I add a label, and Maria checks it. I need to remove a label before lunch. The team gives me good advice.",
+   "en": "Maria travels next week. She talks about her hotel. Then Leo asks, \"Is breakfast included?\" I reply, and we keep chatting. Then Maria asks, \"What time is checkout?\" I think for a second, then answer. After that, I ask one question about the web address. I write a short note about the URL. Leo shows me how to add a label. After a short break, I need to remove a label before lunch. The team gives me good advice.",
+   "tts": "Maria travels next week. She talks about her hotel. Then Leo asks, \"Is breakfast included?\" I reply, and we keep chatting. Then Maria asks, \"What time is checkout?\" I think for a second, then answer. After that, I ask one question about the web address. I write a short note about the U R L. Leo shows me how to add a label. After a short break, I need to remove a label before lunch. The team gives me good advice.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 下周要出差。她聊起了她的酒店。先是Priya说：\"包含早餐吗？\"然后我回答：\"几点退房？\"Leo 给我讲了一个关于网页地址的小故事。Maria 给我讲解统一资源定位符。我添加标签，Maria 来检查。午饭前，我需要移除标签。团队给了我很好的建议。",
+   "zh": "Maria 下周要出差。她聊起了她的酒店。接着Leo问：\"包含早餐吗？\"我回答后，我们继续聊。接着Maria问：\"几点退房？\"我想了一下，然后回答。在那之后，我问了一个关于网页地址的问题。我给统一资源定位符写了一条简短的笔记。Leo 教我怎样添加标签。稍作休息后，午饭前，我需要移除标签。团队给了我很好的建议。",
    "hard": [
     {
      "w": "web address",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. I learn about the due date because it is useful. Now I understand the project board. I write a short note about the subdomain. Leo shows me how to resolve a domain. During our chat, Maria says, \"Could I get another towel?\" I answer, \"Can you store my luggage?\" Every issue now has a label and a due date.",
-   "tts": "Before I leave, I finish one last task. I learn about the due date because it is useful. Now I understand the project board. I write a short note about the subdomain. Leo shows me how to resolve a domain. During our chat, Maria says, \"Could I get another towel?\" I answer, \"Can you store my luggage?\" Every issue now has a label and a due date.",
+   "en": "Before I leave, I finish one last task. I learn about the due date because it is useful. After a short break, Leo shows me an example of the project board. Maria explains the subdomain to me. Today I resolve a domain for the first time. Then Priya asks, \"Could I get another towel?\" I answer as best I can. Then Leo asks, \"Can you store my luggage?\" I reply, and we keep chatting. Every issue now has a label and a due date.",
+   "tts": "Before I leave, I finish one last task. I learn about the due date because it is useful. After a short break, Leo shows me an example of the project board. Maria explains the subdomain to me. Today I resolve a domain for the first time. Then Priya asks, \"Could I get another towel?\" I answer as best I can. Then Leo asks, \"Can you store my luggage?\" I reply, and we keep chatting. Every issue now has a label and a due date.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。我学习截止日期，因为它很有用。现在我理解了项目看板。我给子域名写了一条简短的笔记。Leo 教我怎样解析域名。聊天时，Maria说：\"可以再给我一条毛巾吗？\"我回答：\"你们能寄存我的行李吗？\"现在每个问题单都有了标签和截止日期。",
+   "zh": "离开前，我完成最后一项任务。我学习截止日期，因为它很有用。稍作休息后，Leo 给我看了一个项目看板的例子。Maria 给我讲解子域名。今天我第一次解析域名。接着Priya问：\"可以再给我一条毛巾吗？\"我尽力回答。接着Leo问：\"你们能寄存我的行李吗？\"我回答后，我们继续聊。现在每个问题单都有了标签和截止日期。",
    "hard": [
     {
      "w": "subdomain",

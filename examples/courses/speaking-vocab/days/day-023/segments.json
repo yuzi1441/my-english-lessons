@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 220,
+   "word_count": 333,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I review a teammate's code today. I document the performance so the team can review it later. If the latency fails, we need a clear plan. Priya checks with me, \"Looks good to me.\" I answer clearly, \"Could you clarify this part?\" At the end of the day, Maria says, \"What are the main differences?\" I reply, \"This one is more reliable.\" The day ends with a clear plan for tomorrow.",
-   "tts": "I review a teammate's code today. I document the performance so the team can review it later. If the latency fails, we need a clear plan. Priya checks with me, \"Looks good to me.\" I answer clearly, \"Could you clarify this part?\" At the end of the day, Maria says, \"What are the main differences?\" I reply, \"This one is more reliable.\" The day ends with a clear plan for tomorrow.",
+   "en": "I review a teammate's code today. After that, We spend a few minutes on the performance at the standup. During the review, I ask one question about the latency. Before we move on, Leo says, \"Looks good to me.\" I answer, then reuse it in my update. Before we move on, Maria asks, \"Could you clarify this part?\" I answer, and we compare notes. Before we move on, Priya asks, \"What are the main differences?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"This one is more reliable.\" I answer, then reuse it in my update. The day ends with a clear plan for tomorrow.",
+   "tts": "I review a teammate's code today. After that, We spend a few minutes on the performance at the standup. During the review, I ask one question about the latency. Before we move on, Leo says, \"Looks good to me.\" I answer, then reuse it in my update. Before we move on, Maria asks, \"Could you clarify this part?\" I answer, and we compare notes. Before we move on, Priya asks, \"What are the main differences?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"This one is more reliable.\" I answer, then reuse it in my update. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "今天我评审队友的代码。我把性能写成文档，方便团队之后查看。如果延迟失败，我们需要一个清晰的方案。Priya向我确认：\"我看起来没问题。\"我清楚地回答：\"你可以说明这一部分吗？\"一天结束时，Maria说：\"主要区别是什么？\"我回答：\"这个更可靠。\"这一天以一份清晰的明日计划结束。",
+   "zh": "今天我评审队友的代码。在那之后，站会上我们花了几分钟讨论性能。评审时，我就延迟提了一个问题。继续之前，Leo说：\"我看起来没问题。\"我回答，然后把它用进了自己的汇报。继续之前，Maria问：\"你可以说明这一部分吗？\"我回答，我们互相对了笔记。继续之前，Priya问：\"主要区别是什么？\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"这个更可靠。\"我回答，然后把它用进了自己的汇报。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "performance",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The deadline is close, and I ask for one more day. At the end of the day, Maria says, \"The other option is cheaper.\" I reply, \"What are the trade-offs?\" If the cache fails, we need a clear plan. I suggest that we check the cache hit first. At the end of the day, Maria says, \"Please add a test.\" I reply, \"This may cause an error.\" I check my notes and confirm the next step.",
-   "tts": "The deadline is close, and I ask for one more day. At the end of the day, Maria says, \"The other option is cheaper.\" I reply, \"What are the trade-offs?\" If the cache fails, we need a clear plan. I suggest that we check the cache hit first. At the end of the day, Maria says, \"Please add a test.\" I reply, \"This may cause an error.\" I check my notes and confirm the next step.",
+   "en": "The deadline is close, and I ask for one more day. Before we move on, Priya says, \"The other option is cheaper.\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"What are the trade-offs?\" I answer, then reuse it in my update. Before I reply, I look at the cache once more. I reread my notes about the cache hit after lunch. Before we move on, Priya says, \"Please add a test.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"This may cause an error.\" I answer, then reuse it in my update. I check my notes and confirm the next step.",
+   "tts": "The deadline is close, and I ask for one more day. Before we move on, Priya says, \"The other option is cheaper.\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"What are the trade-offs?\" I answer, then reuse it in my update. Before I reply, I look at the cache once more. I reread my notes about the cache hit after lunch. Before we move on, Priya says, \"Please add a test.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"This may cause an error.\" I answer, then reuse it in my update. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "截止时间快到了，我请求多一天。一天结束时，Maria说：\"另一个方案更便宜。\"我回答：\"有哪些取舍？\"如果缓存失败，我们需要一个清晰的方案。我建议我们先检查缓存命中。一天结束时，Maria说：\"请增加一个测试。\"我回答：\"这可能导致错误。\"我检查笔记，确认了下一步。",
+   "zh": "截止时间快到了，我请求多一天。继续之前，Priya说：\"另一个方案更便宜。\"我清楚地回答，并记下了这个说法。继续之前，Leo问：\"有哪些取舍？\"我回答，然后把它用进了自己的汇报。回复之前，我又看了一遍缓存。午饭后我重读了关于缓存命中的笔记。继续之前，Priya说：\"请增加一个测试。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"这可能导致错误。\"我回答，然后把它用进了自己的汇报。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "cache",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. Priya checks with me, \"Consider renaming this variable.\" I answer clearly, \"Thanks for the update.\" The result depends on the cache miss, so I check it twice. I explain the response time to a new teammate. Priya checks with me, \"I need time to decide.\" I answer clearly, \"Let's review the facts.\" My comments are kind and clear. The team thanks me.",
-   "tts": "Before I leave, I write a short summary for the team. Priya checks with me, \"Consider renaming this variable.\" I answer clearly, \"Thanks for the update.\" The result depends on the cache miss, so I check it twice. I explain the response time to a new teammate. Priya checks with me, \"I need time to decide.\" I answer clearly, \"Let's review the facts.\" My comments are kind and clear. The team thanks me.",
+   "en": "Before I leave, I write a short summary for the team. Before we move on, Leo says, \"Consider renaming this variable.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Thanks for the update.\" I answer, and we compare notes. After a short break, I double-check the cache miss before the review. I walk a new teammate through the response time. Before we move on, Leo says, \"I need time to decide.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Let's review the facts.\" I answer, and we compare notes. My comments are kind and clear. The team thanks me.",
+   "tts": "Before I leave, I write a short summary for the team. Before we move on, Leo says, \"Consider renaming this variable.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Thanks for the update.\" I answer, and we compare notes. After a short break, I double-check the cache miss before the review. I walk a new teammate through the response time. Before we move on, Leo says, \"I need time to decide.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Let's review the facts.\" I answer, and we compare notes. My comments are kind and clear. The team thanks me.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。Priya向我确认：\"可以考虑重命名这个变量。\"我清楚地回答：\"谢谢你的更新。\"结果取决于缓存未命中，所以我检查了两遍。我向一位新队友解释了响应时间。Priya向我确认：\"我需要时间决定。\"我清楚地回答：\"我们回顾一下事实吧。\"我的评论友善而清楚。团队向我道谢。",
+   "zh": "离开前，我给团队写了一份简短的总结。继续之前，Leo说：\"可以考虑重命名这个变量。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"谢谢你的更新。\"我回答，我们互相对了笔记。稍作休息后，评审之前，我再核对一遍缓存未命中。我带一位新队友过了一遍响应时间。继续之前，Leo说：\"我需要时间决定。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我们回顾一下事实吧。\"我回答，我们互相对了笔记。我的评论友善而清楚。团队向我道谢。",
    "hard": [
     {
      "w": "cache miss",

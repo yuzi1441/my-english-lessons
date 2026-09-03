@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 231,
+   "word_count": 298,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My change touches a shared module. I explain the notification to a new teammate. We discuss the risk around the badge count. I document the code owner so the team can review it later. If the ownership map fails, we need a clear plan. Priya checks with me, \"Could I borrow your charger?\" I answer clearly, \"I'll return it this afternoon.\" I check my notes and confirm the next step.",
-   "tts": "My change touches a shared module. I explain the notification to a new teammate. We discuss the risk around the badge count. I document the code owner so the team can review it later. If the ownership map fails, we need a clear plan. Priya checks with me, \"Could I borrow your charger?\" I answer clearly, \"I'll return it this afternoon.\" I check my notes and confirm the next step.",
+   "en": "My change touches a shared module. I suggest that we check the notification first. We spend a few minutes on the badge count at the standup. Before I reply, I look at the code owner once more. I add the ownership map to my checklist for tomorrow. Before we move on, Leo asks, \"Could I borrow your charger?\" I answer, then reuse it in my update. Before we move on, Maria says, \"I'll return it this afternoon.\" I answer, and we compare notes. I check my notes and confirm the next step.",
+   "tts": "My change touches a shared module. I suggest that we check the notification first. We spend a few minutes on the badge count at the standup. Before I reply, I look at the code owner once more. I add the ownership map to my checklist for tomorrow. Before we move on, Leo asks, \"Could I borrow your charger?\" I answer, then reuse it in my update. Before we move on, Maria says, \"I'll return it this afternoon.\" I answer, and we compare notes. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的改动碰到了共享模块。我向一位新队友解释了通知。我们讨论了角标数字相关的风险。我把代码所有者写成文档，方便团队之后查看。如果归属图谱失败，我们需要一个清晰的方案。Priya向我确认：\"我能借用你的充电器吗？\"我清楚地回答：\"我下午就还你。\"我检查笔记，确认了下一步。",
+   "zh": "我的改动碰到了共享模块。我建议我们先检查通知。站会上我们花了几分钟讨论角标数字。回复之前，我又看了一遍代码所有者。我把归属图谱加进了明天的清单。继续之前，Leo问：\"我能借用你的充电器吗？\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我下午就还你。\"我回答，我们互相对了笔记。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "notification",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The code owner asks one sharp question about sync conflicts. Priya checks with me, \"Do you have a spare pen?\" I answer clearly, \"Here you go.\" The result depends on the push notification, so I check it twice. I explain the mute channel to a new teammate. We discuss the risk around the auto-assign reviewer. I document the cross-team change so the team can review it later. The team agrees on the plan, and I record the decision.",
-   "tts": "The code owner asks one sharp question about sync conflicts. Priya checks with me, \"Do you have a spare pen?\" I answer clearly, \"Here you go.\" The result depends on the push notification, so I check it twice. I explain the mute channel to a new teammate. We discuss the risk around the auto-assign reviewer. I document the cross-team change so the team can review it later. The team agrees on the plan, and I record the decision.",
+   "en": "The code owner asks one sharp question about sync conflicts. Before we move on, Leo asks, \"Do you have a spare pen?\" I answer, then reuse it in my update. Before we move on, Maria says, \"Here you go.\" I answer, and we compare notes. After a short break, I keep one real example of the push notification in my notes. I go through the mute channel with Priya and note her advice. I walk a new teammate through the auto-assign reviewer. After that, I reread my notes about the cross-team change after lunch. The team agrees on the plan, and I record the decision.",
+   "tts": "The code owner asks one sharp question about sync conflicts. Before we move on, Leo asks, \"Do you have a spare pen?\" I answer, then reuse it in my update. Before we move on, Maria says, \"Here you go.\" I answer, and we compare notes. After a short break, I keep one real example of the push notification in my notes. I go through the mute channel with Priya and note her advice. I walk a new teammate through the auto-assign reviewer. After that, I reread my notes about the cross-team change after lunch. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "代码所有者问了一个关于同步冲突的尖锐问题。Priya向我确认：\"你有备用的笔吗？\"我清楚地回答：\"给你。\"结果取决于推送通知，所以我检查了两遍。我向一位新队友解释了静音频道。我们讨论了自动分配评审相关的风险。我把跨团队改动写成文档，方便团队之后查看。团队就计划达成一致，我记录了决定。",
+   "zh": "代码所有者问了一个关于同步冲突的尖锐问题。继续之前，Leo问：\"你有备用的笔吗？\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"给你。\"我回答，我们互相对了笔记。稍作休息后，我在笔记里留了一个推送通知的真实例子。我和 Priya 过了一遍静音频道，记下了她的建议。我带一位新队友过了一遍自动分配评审。在那之后，午饭后我重读了关于跨团队改动的笔记。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "push notification",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. We discuss the risk around the notify the owner. I document the shared module so the team can review it later. If the read receipt fails, we need a clear plan. I suggest that we check the notification center first. At the end of the day, Maria says, \"Thanks for lending it to me.\" I reply, \"Just return it whenever.\" I answer with a test, and the question becomes a check forever.",
-   "tts": "Before I leave, I write a short summary for the team. We discuss the risk around the notify the owner. I document the shared module so the team can review it later. If the read receipt fails, we need a clear plan. I suggest that we check the notification center first. At the end of the day, Maria says, \"Thanks for lending it to me.\" I reply, \"Just return it whenever.\" I answer with a test, and the question becomes a check forever.",
+   "en": "Before I leave, I write a short summary for the team. I double-check the notify the owner before the review. During the review, I ask one question about the shared module. I suggest that we check the read receipt first. We spend a few minutes on the notification center at the standup. Before we move on, Priya says, \"Thanks for lending it to me.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Just return it whenever.\" I answer, then reuse it in my update. I answer with a test, and the question becomes a check forever.",
+   "tts": "Before I leave, I write a short summary for the team. I double-check the notify the owner before the review. During the review, I ask one question about the shared module. I suggest that we check the read receipt first. We spend a few minutes on the notification center at the standup. Before we move on, Priya says, \"Thanks for lending it to me.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Just return it whenever.\" I answer, then reuse it in my update. I answer with a test, and the question becomes a check forever.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我们讨论了通知负责人相关的风险。我把共享模块写成文档，方便团队之后查看。如果已读回执失败，我们需要一个清晰的方案。我建议我们先检查通知中心。一天结束时，Maria说：\"谢谢你借给我。\"我回答：\"什么时候还都行。\"我用一个测试回答了这个问题，它从此变成一道永久的检查。",
+   "zh": "离开前，我给团队写了一份简短的总结。评审之前，我再核对一遍通知负责人。评审时，我就共享模块提了一个问题。我建议我们先检查已读回执。站会上我们花了几分钟讨论通知中心。继续之前，Priya说：\"谢谢你借给我。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"什么时候还都行。\"我回答，然后把它用进了自己的汇报。我用一个测试回答了这个问题，它从此变成一道永久的检查。",
    "hard": [
     {
      "w": "read receipt",

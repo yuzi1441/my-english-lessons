@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 274,
+   "word_count": 275,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Usage numbers climb without a dip in crash logs. My notes about the cost dashboard look clearer this week. I spend ten quiet minutes on the spot instance after the standup. Sam asks me about the release cadence, and I explain the basics. I keep one real example of the lts version in my notebook. We practise the dialogue: Leo opens, \"I volunteer at the shelter.\" I answer, \"It's two hours a week.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "Usage numbers climb without a dip in crash logs. My notes about the cost dashboard look clearer this week. I spend ten quiet minutes on the spot instance after the standup. Sam asks me about the release cadence, and I explain the basics. I keep one real example of the lts version in my notebook. We practise the dialogue: Leo opens, \"I volunteer at the shelter.\" I answer, \"It's two hours a week.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "Usage numbers climb without a dip in crash logs. There is a short paragraph about the cost dashboard in the guide. Sam asks me about the spot instance, and I explain the basics. I keep one real example of the release cadence in my notebook. I spend ten quiet minutes on the lts version after the standup. Role play with feedback: Leo says, \"I volunteer at the shelter.\" I try, \"It's two hours a week.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "Usage numbers climb without a dip in crash logs. There is a short paragraph about the cost dashboard in the guide. Sam asks me about the spot instance, and I explain the basics. I keep one real example of the release cadence in my notebook. I spend ten quiet minutes on the lts version after the standup. Role play with feedback: Leo says, \"I volunteer at the shelter.\" I try, \"It's two hours a week.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "使用数字在攀升，崩溃日志却没有增加。这周我关于成本面板的笔记清楚多了。站会之后，我安安静静花了十分钟在竞价实例上。Sam 问起发布节奏，我讲了讲基础。我在笔记本里留了一个长期支持版的真实例子。我们练习这段对话：Leo开场：\"我在收容所做志愿者。\"我回答：\"一周两个小时。\"Leo点头说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "使用数字在攀升，崩溃日志却没有增加。指南里有一小段关于成本面板的介绍。Sam 问起竞价实例，我讲了讲基础。我在笔记本里留了一个发布节奏的真实例子。站会之后，我安安静静花了十分钟在长期支持版上。角色扮演加反馈：Leo说：\"我在收容所做志愿者。\"我试着说：\"一周两个小时。\"Leo补充道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "cost dashboard",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Priya reads the charts out loud like a weather report. We drill it twice: Leo starts, \"It keeps me grounded.\" I reply, \"They need weekend help.\" then Leo smiles, \"Nice, keep that one handy.\" I spend ten quiet minutes on the reserved capacity after the standup. Sam asks me about the rightsize, and I explain the basics. I keep one real example of the deprecation schedule in my notebook. I add the upgrade guide to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
-   "tts": "Priya reads the charts out loud like a weather report. We drill it twice: Leo starts, \"It keeps me grounded.\" I reply, \"They need weekend help.\" then Leo smiles, \"Nice, keep that one handy.\" I spend ten quiet minutes on the reserved capacity after the standup. Sam asks me about the rightsize, and I explain the basics. I keep one real example of the deprecation schedule in my notebook. I add the upgrade guide to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "en": "Priya reads the charts out loud like a weather report. We practise the dialogue: Leo opens, \"It keeps me grounded.\" I answer, \"They need weekend help.\" and Leo nods, \"Nice, keep that one handy.\" I add the reserved capacity to my study notes before I forget it. My notes about the rightsize look clearer this week. I go over the deprecation schedule one more time before lunch. I ask one good question about the upgrade guide in the meeting. I end the day with fewer unknowns than I started with.",
+   "tts": "Priya reads the charts out loud like a weather report. We practise the dialogue: Leo opens, \"It keeps me grounded.\" I answer, \"They need weekend help.\" and Leo nods, \"Nice, keep that one handy.\" I add the reserved capacity to my study notes before I forget it. My notes about the rightsize look clearer this week. I go over the deprecation schedule one more time before lunch. I ask one good question about the upgrade guide in the meeting. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Priya 像播天气预报一样把图表大声读出来。我们练了两遍：Leo起头：\"这让我保持踏实。\"我回答：\"他们周末缺人手。\"然后Leo笑着说：\"不错，把这句记在手边。\"站会之后，我安安静静花了十分钟在预留容量上。Sam 问起规格调优，我讲了讲基础。我在笔记本里留了一个弃用时间表的真实例子。我趁还没忘，把升级指南记进了学习笔记。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "Priya 像播天气预报一样把图表大声读出来。我们练习这段对话：Leo开场：\"这让我保持踏实。\"我回答：\"他们周末缺人手。\"Leo点头说：\"不错，把这句记在手边。\"我趁还没忘，把预留容量记进了学习笔记。这周我关于规格调优的笔记清楚多了。午饭前我又过了一遍弃用时间表。会上关于升级指南，我问了一个好问题。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "reserved capacity",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the migration note in the meeting. My notes about the sunset date look clearer this week. I spend ten quiet minutes on the cost anomaly after the standup. Sam asks me about the usage forecast, and I explain the basics. Warm-up round: Priya offers, \"Small acts matter.\" I answer, \"Join me next time.\" and Priya wraps up, \"Good — try it in today’s task.\" No news on launch day is wonderful news.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the migration note in the meeting. My notes about the sunset date look clearer this week. I spend ten quiet minutes on the cost anomaly after the standup. Sam asks me about the usage forecast, and I explain the basics. Warm-up round: Priya offers, \"Small acts matter.\" I answer, \"Join me next time.\" and Priya wraps up, \"Good — try it in today’s task.\" No news on launch day is wonderful news.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the migration note in the guide. Sam asks me about the sunset date, and I explain the basics. I keep one real example of the cost anomaly in my notebook. I spend ten quiet minutes on the usage forecast after the standup. Warm-up round: Priya offers, \"Small acts matter.\" I answer, \"Join me next time.\" and Priya wraps up, \"Good — try it in today’s task.\" No news on launch day is wonderful news.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the migration note in the guide. Sam asks me about the sunset date, and I explain the basics. I keep one real example of the cost anomaly in my notebook. I spend ten quiet minutes on the usage forecast after the standup. Warm-up round: Priya offers, \"Small acts matter.\" I answer, \"Join me next time.\" and Priya wraps up, \"Good — try it in today’s task.\" No news on launch day is wonderful news.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于迁移说明，我问了一个好问题。这周我关于退役日期的笔记清楚多了。站会之后，我安安静静花了十分钟在成本异动上。Sam 问起用量预测，我讲了讲基础。热身一轮：Priya给出：\"小事也有分量。\"我回答：\"下次一起来吧。\"Priya收尾道：\"好——今天的任务里就用上。\"发布日没有消息，就是最好的消息。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于迁移说明的介绍。Sam 问起退役日期，我讲了讲基础。我在笔记本里留了一个成本异动的真实例子。站会之后，我安安静静花了十分钟在用量预测上。热身一轮：Priya给出：\"小事也有分量。\"我回答：\"下次一起来吧。\"Priya收尾道：\"好——今天的任务里就用上。\"发布日没有消息，就是最好的消息。",
    "hard": [
     {
      "w": "cost anomaly",

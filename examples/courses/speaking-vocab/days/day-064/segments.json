@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 265,
+   "word_count": 270,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We stage the release and tag it as a release candidate. I add the observability to my study notes before I forget it. I go over the structured event one more time before lunch. There is a short paragraph about the dev environment in the guide. I ask one good question about the ephemeral environment in the meeting. We practise the dialogue: Maria opens, \"Welcome aboard!\" I answer, \"Ask me anything, really.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "We stage the release and tag it as a release candidate. I add the observability to my study notes before I forget it. I go over the structured event one more time before lunch. There is a short paragraph about the dev environment in the guide. I ask one good question about the ephemeral environment in the meeting. We practise the dialogue: Maria opens, \"Welcome aboard!\" I answer, \"Ask me anything, really.\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "We stage the release and tag it as a release candidate. I keep one real example of the observability in my notebook. There is a short paragraph about the structured event in the guide. I add the dev environment to my study notes before I forget it. I go over the ephemeral environment one more time before lunch. Warm-up round: Maria offers, \"Welcome aboard!\" I answer, \"Ask me anything, really.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "We stage the release and tag it as a release candidate. I keep one real example of the observability in my notebook. There is a short paragraph about the structured event in the guide. I add the dev environment to my study notes before I forget it. I go over the ephemeral environment one more time before lunch. Warm-up round: Maria offers, \"Welcome aboard!\" I answer, \"Ask me anything, really.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们准备发布并打上候选版本的标签。我趁还没忘，把可观测性记进了学习笔记。午饭前我又过了一遍结构化事件。指南里有一小段关于开发环境的介绍。会上关于临时环境，我问了一个好问题。我们练习这段对话：Maria开场：\"欢迎加入！\"我回答：\"真的\"Maria点头说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们准备发布并打上候选版本的标签。我在笔记本里留了一个可观测性的真实例子。指南里有一小段关于结构化事件的介绍。我趁还没忘，把开发环境记进了学习笔记。午饭前我又过了一遍临时环境。热身一轮：Maria给出：\"欢迎加入！\"我回答：\"真的\"Maria收尾道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "observability",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The candidate runs all weekend on the staging branch without a peep. We drill it twice: Maria starts, \"The docs are in the wiki.\" I reply, \"Take the first week slow.\" then Maria smiles, \"That is the one we need today.\" I go over the trace id one more time before lunch. There is a short paragraph about the red metric in the guide. I ask one good question about the config drift in the meeting. My notes about the environment parity look clearer this week. The task moves forward, and so does my confidence.",
-   "tts": "The candidate runs all weekend on the staging branch without a peep. We drill it twice: Maria starts, \"The docs are in the wiki.\" I reply, \"Take the first week slow.\" then Maria smiles, \"That is the one we need today.\" I go over the trace id one more time before lunch. There is a short paragraph about the red metric in the guide. I ask one good question about the config drift in the meeting. My notes about the environment parity look clearer this week. The task moves forward, and so does my confidence.",
+   "en": "The candidate runs all weekend on the staging branch without a peep. Role play with feedback: Maria says, \"The docs are in the wiki.\" I try, \"Take the first week slow.\" and Maria adds, \"That is the one we need today.\" I ask one good question about the trace id in the meeting. I spend ten quiet minutes on the red metric after the standup. Sam asks me about the config drift, and I explain the basics. My notes about the environment parity look clearer this week. The task moves forward, and so does my confidence.",
+   "tts": "The candidate runs all weekend on the staging branch without a peep. Role play with feedback: Maria says, \"The docs are in the wiki.\" I try, \"Take the first week slow.\" and Maria adds, \"That is the one we need today.\" I ask one good question about the trace id in the meeting. I spend ten quiet minutes on the red metric after the standup. Sam asks me about the config drift, and I explain the basics. My notes about the environment parity look clearer this week. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "候选版本整个周末都在预发布分支上安静地跑着。我们练了两遍：Maria起头：\"文档在 Wiki 里。\"我回答：\"第一周慢慢来。\"然后Maria笑着说：\"今天要的就是这句。\"午饭前我又过了一遍追踪标识。指南里有一小段关于RED 指标的介绍。会上关于配置漂移，我问了一个好问题。这周我关于环境一致的笔记清楚多了。任务在推进，我的信心也在成长。",
+   "zh": "候选版本整个周末都在预发布分支上安静地跑着。角色扮演加反馈：Maria说：\"文档在 Wiki 里。\"我试着说：\"第一周慢慢来。\"Maria补充道：\"今天要的就是这句。\"会上关于追踪标识，我问了一个好问题。站会之后，我安安静静花了十分钟在RED 指标上。Sam 问起配置漂移，我讲了讲基础。这周我关于环境一致的笔记清楚多了。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "trace id",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I provision an environment the way the guide suggests. This morning, I tear it down before the first call. I go over the service dashboard one more time before lunch. Maria watches while I drill down. Warm-up round: Leo offers, \"We were all new once.\" I answer, \"My door is open.\" and Leo wraps up, \"Nice, keep that one handy.\" Stability is boring in the best way.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I provision an environment the way the guide suggests. This morning, I tear it down before the first call. I go over the service dashboard one more time before lunch. Maria watches while I drill down. Warm-up round: Leo offers, \"We were all new once.\" I answer, \"My door is open.\" and Leo wraps up, \"Nice, keep that one handy.\" Stability is boring in the best way.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I provision an environment twice, just to be sure. I tear it down while the office is still quiet. I keep one real example of the service dashboard in my notebook. This morning, I drill down before the first call. We drill it twice: Leo starts, \"We were all new once.\" I reply, \"My door is open.\" then Leo smiles, \"Nice, keep that one handy.\" Stability is boring in the best way.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I provision an environment twice, just to be sure. I tear it down while the office is still quiet. I keep one real example of the service dashboard in my notebook. This morning, I drill down before the first call. We drill it twice: Leo starts, \"We were all new once.\" I reply, \"My door is open.\" then Leo smiles, \"Nice, keep that one handy.\" Stability is boring in the best way.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我按照指南建议的方式开通环境。今天早上，第一次通话之前我先拆除环境。午饭前我又过了一遍服务面板。Maria 看着我下钻分析。热身一轮：Leo给出：\"我们都是从新人过来的。\"我回答：\"我的门随时敞开。\"Leo收尾道：\"不错，把这句记在手边。\"稳定，是以最好的方式无聊着。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我开通环境了两遍，只为确定。趁办公室还安静，我拆除环境。我在笔记本里留了一个服务面板的真实例子。今天早上，第一次通话之前我先下钻分析。我们练了两遍：Leo起头：\"我们都是从新人过来的。\"我回答：\"我的门随时敞开。\"然后Leo笑着说：\"不错，把这句记在手边。\"稳定，是以最好的方式无聊着。",
    "hard": [
     {
      "w": "service dashboard",

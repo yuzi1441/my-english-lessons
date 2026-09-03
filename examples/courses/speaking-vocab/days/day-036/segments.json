@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 232,
+   "word_count": 299,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My config file fails with a parse error. If the config file fails, we need a clear plan. I suggest that we check the key-value pair first. The result depends on the priority label, so I check it twice. I explain the type label to a new teammate. Priya checks with me, \"What do you do for fun?\" I answer clearly, \"I'm learning to cook.\" I check my notes and confirm the next step.",
-   "tts": "My config file fails with a parse error. If the config file fails, we need a clear plan. I suggest that we check the key-value pair first. The result depends on the priority label, so I check it twice. I explain the type label to a new teammate. Priya checks with me, \"What do you do for fun?\" I answer clearly, \"I'm learning to cook.\" I check my notes and confirm the next step.",
+   "en": "My config file fails with a parse error. I reread my notes about the config file after lunch. I keep one real example of the key-value pair in my notes. After a short break, I go through the priority label with Priya and note her advice. I walk a new teammate through the type label. Before we move on, Leo asks, \"What do you do for fun?\" I answer, then reuse it in my update. Before we move on, Maria says, \"I'm learning to cook.\" I answer, and we compare notes. I check my notes and confirm the next step.",
+   "tts": "My config file fails with a parse error. I reread my notes about the config file after lunch. I keep one real example of the key-value pair in my notes. After a short break, I go through the priority label with Priya and note her advice. I walk a new teammate through the type label. Before we move on, Leo asks, \"What do you do for fun?\" I answer, then reuse it in my update. Before we move on, Maria says, \"I'm learning to cook.\" I answer, and we compare notes. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的配置文件报了解析错误。如果配置文件失败，我们需要一个清晰的方案。我建议我们先检查键值对。结果取决于优先级标签，所以我检查了两遍。我向一位新队友解释了类型标签。Priya向我确认：\"你平时喜欢做什么消遣？\"我清楚地回答：\"我在学做饭。\"我检查笔记，确认了下一步。",
+   "zh": "我的配置文件报了解析错误。午饭后我重读了关于配置文件的笔记。我在笔记里留了一个键值对的真实例子。稍作休息后，我和 Priya 过了一遍优先级标签，记下了她的建议。我带一位新队友过了一遍类型标签。继续之前，Leo问：\"你平时喜欢做什么消遣？\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我在学做饭。\"我回答，我们互相对了笔记。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "config file",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A trailing comma hides on the last line. I fix it and say sorry for the noise. Priya checks with me, \"I go hiking most weekends.\" I answer clearly, \"I'm into photography.\" I document the nested object so the team can review it later. If the parse error fails, we need a clear plan. I suggest that we check the label filter first. The result depends on the color coding, so I check it twice. The team agrees on the plan, and I record the decision.",
-   "tts": "A trailing comma hides on the last line. I fix it and say sorry for the noise. Priya checks with me, \"I go hiking most weekends.\" I answer clearly, \"I'm into photography.\" I document the nested object so the team can review it later. If the parse error fails, we need a clear plan. I suggest that we check the label filter first. The result depends on the color coding, so I check it twice. The team agrees on the plan, and I record the decision.",
+   "en": "A trailing comma hides on the last line. I fix it and say sorry for the noise. Before we move on, Leo says, \"I go hiking most weekends.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I'm into photography.\" I answer, and we compare notes. After that, We spend a few minutes on the nested object at the standup. I add the parse error to my checklist for tomorrow. I suggest that we check the label filter first. Before I reply, I look at the color coding once more. The team agrees on the plan, and I record the decision.",
+   "tts": "A trailing comma hides on the last line. I fix it and say sorry for the noise. Before we move on, Leo says, \"I go hiking most weekends.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I'm into photography.\" I answer, and we compare notes. After that, We spend a few minutes on the nested object at the standup. I add the parse error to my checklist for tomorrow. I suggest that we check the label filter first. Before I reply, I look at the color coding once more. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个末尾逗号藏在最后一行。我修好它，并为这次噪音道了歉。Priya向我确认：\"我大多数周末去远足。\"我清楚地回答：\"我挺喜欢摄影的。\"我把嵌套对象写成文档，方便团队之后查看。如果解析错误失败，我们需要一个清晰的方案。我建议我们先检查标签筛选。结果取决于颜色区分，所以我检查了两遍。团队就计划达成一致，我记录了决定。",
+   "zh": "一个末尾逗号藏在最后一行。我修好它，并为这次噪音道了歉。继续之前，Leo说：\"我大多数周末去远足。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我挺喜欢摄影的。\"我回答，我们互相对了笔记。在那之后，站会上我们花了几分钟讨论嵌套对象。我把解析错误加进了明天的清单。我建议我们先检查标签筛选。回复之前，我又看了一遍颜色区分。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "nested object",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. We decide to clean up labels after the review. The result depends on the label policy, so I check it twice. I explain the trailing comma to a new teammate. We discuss the risk around the schema check. At the end of the day, Maria says, \"It helps me relax.\" I reply, \"We should do that sometime.\" Small mistakes teach fast.",
-   "tts": "Before I leave, I write a short summary for the team. We decide to clean up labels after the review. The result depends on the label policy, so I check it twice. I explain the trailing comma to a new teammate. We discuss the risk around the schema check. At the end of the day, Maria says, \"It helps me relax.\" I reply, \"We should do that sometime.\" Small mistakes teach fast.",
+   "en": "Before I leave, I write a short summary for the team. I clean up labels and then explain the risk. After a short break, I double-check the label policy before the review. During the review, I ask one question about the trailing comma. I reread my notes about the schema check after lunch. Before we move on, Priya says, \"It helps me relax.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"We should do that sometime.\" I answer, then reuse it in my update. Small mistakes teach fast.",
+   "tts": "Before I leave, I write a short summary for the team. I clean up labels and then explain the risk. After a short break, I double-check the label policy before the review. During the review, I ask one question about the trailing comma. I reread my notes about the schema check after lunch. Before we move on, Priya says, \"It helps me relax.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"We should do that sometime.\" I answer, then reuse it in my update. Small mistakes teach fast.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。评审之后，我们决定整理标签。结果取决于标签规范，所以我检查了两遍。我向一位新队友解释了末尾逗号。我们讨论了结构校验相关的风险。一天结束时，Maria说：\"这能帮我放松。\"我回答：\"我们找时间一起去做吧。\"小错误让人学得快。",
+   "zh": "离开前，我给团队写了一份简短的总结。我整理标签，然后解释了风险。稍作休息后，评审之前，我再核对一遍标签规范。评审时，我就末尾逗号提了一个问题。午饭后我重读了关于结构校验的笔记。继续之前，Priya说：\"这能帮我放松。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我们找时间一起去做吧。\"我回答，然后把它用进了自己的汇报。小错误让人学得快。",
    "hard": [
     {
      "w": "trailing comma",

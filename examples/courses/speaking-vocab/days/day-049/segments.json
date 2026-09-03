@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 271,
+   "word_count": 272,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A tester reports a strange failure at night. I go over the log level one more time before lunch. There is a short paragraph about the structured log in the guide. I ask one good question about the style guide in the meeting. My notes about the formatter look clearer this week. We drill it twice: Maria starts, \"I hear you.\" I reply, \"That makes sense.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "A tester reports a strange failure at night. I go over the log level one more time before lunch. There is a short paragraph about the structured log in the guide. I ask one good question about the style guide in the meeting. My notes about the formatter look clearer this week. We drill it twice: Maria starts, \"I hear you.\" I reply, \"That makes sense.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "A tester reports a strange failure at night. There is a short paragraph about the log level in the guide. I add the structured log to my study notes before I forget it. Sam asks me about the style guide, and I explain the basics. My notes about the formatter look clearer this week. Role play with feedback: Maria says, \"I hear you.\" I try, \"That makes sense.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "A tester reports a strange failure at night. There is a short paragraph about the log level in the guide. I add the structured log to my study notes before I forget it. Sam asks me about the style guide, and I explain the basics. My notes about the formatter look clearer this week. Role play with feedback: Maria says, \"I hear you.\" I try, \"That makes sense.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位测试者报告了夜里的一个奇怪失败。午饭前我又过了一遍日志级别。指南里有一小段关于结构化日志的介绍。会上关于风格指南，我问了一个好问题。这周我关于格式化工具的笔记清楚多了。我们练了两遍：Maria起头：\"我明白你的意思。\"我回答：\"这说得通。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "一位测试者报告了夜里的一个奇怪失败。指南里有一小段关于日志级别的介绍。我趁还没忘，把结构化日志记进了学习笔记。Sam 问起风格指南，我讲了讲基础。这周我关于格式化工具的笔记清楚多了。角色扮演加反馈：Maria说：\"我明白你的意思。\"我试着说：\"这说得通。\"Maria补充道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "log level",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I follow the correlation id across three services and watch the whole story unfold. Role play with feedback: Maria says, \"Go on, I'm listening.\" I try, \"Let me play that back.\" and Maria adds, \"That is the one we need today.\" There is a short paragraph about the debug log in the guide. I ask one good question about the correlation id in the meeting. My notes about the linter rule look clearer this week. I spend ten quiet minutes on the naming style after the standup. The task moves forward, and so does my confidence.",
-   "tts": "I follow the correlation id across three services and watch the whole story unfold. Role play with feedback: Maria says, \"Go on, I'm listening.\" I try, \"Let me play that back.\" and Maria adds, \"That is the one we need today.\" There is a short paragraph about the debug log in the guide. I ask one good question about the correlation id in the meeting. My notes about the linter rule look clearer this week. I spend ten quiet minutes on the naming style after the standup. The task moves forward, and so does my confidence.",
+   "en": "I follow the correlation id across three services and watch the whole story unfold. Warm-up round: Maria offers, \"Go on, I'm listening.\" I answer, \"Let me play that back.\" and Maria wraps up, \"That is the one we need today.\" I go over the debug log one more time before lunch. I ask one good question about the correlation id in the meeting. I spend ten quiet minutes on the linter rule after the standup. I keep one real example of the naming style in my notebook. The task moves forward, and so does my confidence.",
+   "tts": "I follow the correlation id across three services and watch the whole story unfold. Warm-up round: Maria offers, \"Go on, I'm listening.\" I answer, \"Let me play that back.\" and Maria wraps up, \"That is the one we need today.\" I go over the debug log one more time before lunch. I ask one good question about the correlation id in the meeting. I spend ten quiet minutes on the linter rule after the standup. I keep one real example of the naming style in my notebook. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我顺着关联标识跨过三个服务，看着整个故事展开。角色扮演加反馈：Maria说：\"你说\"我试着说：\"我复述一下你的意思。\"Maria补充道：\"今天要的就是这句。\"指南里有一小段关于调试日志的介绍。会上关于关联标识，我问了一个好问题。这周我关于检查规则的笔记清楚多了。站会之后，我安安静静花了十分钟在命名风格上。任务在推进，我的信心也在成长。",
+   "zh": "我顺着关联标识跨过三个服务，看着整个故事展开。热身一轮：Maria给出：\"你说\"我回答：\"我复述一下你的意思。\"Maria收尾道：\"今天要的就是这句。\"午饭前我又过了一遍调试日志。会上关于关联标识，我问了一个好问题。站会之后，我安安静静花了十分钟在检查规则上。我在笔记本里留了一个命名风格的真实例子。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "debug log",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the import order to my study notes before I forget it. I go over the style debate one more time before lunch. There is a short paragraph about the verbose mode in the guide. I ask one good question about the log rotation in the meeting. We practise the dialogue: Leo opens, \"That must have been hard.\" I answer, \"What happened next?\" and Leo nods, \"Nice, keep that one handy.\" Good logs turn mysteries into reading.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the import order to my study notes before I forget it. I go over the style debate one more time before lunch. There is a short paragraph about the verbose mode in the guide. I ask one good question about the log rotation in the meeting. We practise the dialogue: Leo opens, \"That must have been hard.\" I answer, \"What happened next?\" and Leo nods, \"Nice, keep that one handy.\" Good logs turn mysteries into reading.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the import order in the guide. I add the style debate to my study notes before I forget it. Sam asks me about the verbose mode, and I explain the basics. My notes about the log rotation look clearer this week. We drill it twice: Leo starts, \"That must have been hard.\" I reply, \"What happened next?\" then Leo smiles, \"Nice, keep that one handy.\" Good logs turn mysteries into reading.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the import order in the guide. I add the style debate to my study notes before I forget it. Sam asks me about the verbose mode, and I explain the basics. My notes about the log rotation look clearer this week. We drill it twice: Leo starts, \"That must have been hard.\" I reply, \"What happened next?\" then Leo smiles, \"Nice, keep that one handy.\" Good logs turn mysteries into reading.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把导入顺序记进了学习笔记。午饭前我又过了一遍风格讨论。指南里有一小段关于详细模式的介绍。会上关于日志轮转，我问了一个好问题。我们练习这段对话：Leo开场：\"那一定不容易。\"我回答：\"后来呢？\"Leo点头说：\"不错，把这句记在手边。\"好的日志把悬案变成阅读。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于导入顺序的介绍。我趁还没忘，把风格讨论记进了学习笔记。Sam 问起详细模式，我讲了讲基础。这周我关于日志轮转的笔记清楚多了。我们练了两遍：Leo起头：\"那一定不容易。\"我回答：\"后来呢？\"然后Leo笑着说：\"不错，把这句记在手边。\"好的日志把悬案变成阅读。",
    "hard": [
     {
      "w": "verbose mode",

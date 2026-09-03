@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 307,
+   "word_count": 311,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The nightly suite starts catching slow merges automatically. Before deciding, I reread my notes about the horizontal sharding twice. I prepare a one-page brief about the shard key choice so meetings start from facts. The team names one clear owner for the shard migration runbook. I compare two views on the dual write verification and write both down honestly. Practice debate: Leo argues, \"Seasons live on separate rods.\" I respond calmly, \"Work clothes, one section.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "The nightly suite starts catching slow merges automatically. Before deciding, I reread my notes about the horizontal sharding twice. I prepare a one-page brief about the shard key choice so meetings start from facts. The team names one clear owner for the shard migration runbook. I compare two views on the dual write verification and write both down honestly. Practice debate: Leo argues, \"Seasons live on separate rods.\" I respond calmly, \"Work clothes, one section.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "The nightly suite starts catching slow merges automatically. During the design review, I raise one careful question about the horizontal sharding. The team names one clear owner for the shard key choice. I prepare a one-page brief about the shard migration runbook so meetings start from facts. I add the dual write verification to the meeting agenda with three supporting facts. Dry run: Leo opens, \"Seasons live on separate rods.\" I follow, \"Work clothes, one section.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The nightly suite starts catching slow merges automatically. During the design review, I raise one careful question about the horizontal sharding. The team names one clear owner for the shard key choice. I prepare a one-page brief about the shard migration runbook so meetings start from facts. I add the dual write verification to the meeting agenda with three supporting facts. Dry run: Leo opens, \"Seasons live on separate rods.\" I follow, \"Work clothes, one section.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "每夜套件开始自动拦截变慢的合并。做决定之前，我把关于水平分片的笔记重读了两遍。我准备了一页关于分片键选择的简报，好让会议从事实出发。团队为分片迁移手册指定了明确的负责人。我比较了关于双写核对的两种观点，诚实地都记了下来。练习辩论：Leo主张：\"季节住在不同挂杆。\"我平静地回应：\"上班的衣服一个区。\"Leo承认道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "每夜套件开始自动拦截变慢的合并。设计评审中，我就水平分片提出了一个审慎的问题。团队为分片键选择指定了明确的负责人。我准备了一页关于分片迁移手册的简报，好让会议从事实出发。我把双写核对连同三条支撑事实加进了议程。干跑演练：Leo开场：\"季节住在不同挂杆。\"我接上：\"上班的衣服一个区。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "horizontal sharding",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One harmless looking refactor costs four hundred milliseconds; the gate holds the line. Mock review: Leo probes, \"The hash rule: by color.\" I answer from memory, \"Reorganizing takes a Sunday.\" and Leo confirms, \"That is the level we need.\" I prepare a one-page brief about the range partitioning so meetings start from facts. The team names one clear owner for the hash partitioning. I compare two views on the cutover rehearsal and write both down honestly. I add the rollback checkpoint to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
-   "tts": "One harmless looking refactor costs four hundred milliseconds; the gate holds the line. Mock review: Leo probes, \"The hash rule: by color.\" I answer from memory, \"Reorganizing takes a Sunday.\" and Leo confirms, \"That is the level we need.\" I prepare a one-page brief about the range partitioning so meetings start from facts. The team names one clear owner for the hash partitioning. I compare two views on the cutover rehearsal and write both down honestly. I add the rollback checkpoint to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "en": "One harmless looking refactor costs four hundred milliseconds; the gate holds the line. Review warm-up: Leo raises, \"The hash rule: by color.\" I answer, \"Reorganizing takes a Sunday.\" and Leo grades it, \"That is the level we need.\" Before deciding, I reread my notes about the range partitioning twice. We spend the first ten minutes of the review on the hash partitioning. I compare two views on the cutover rehearsal and write both down honestly. Our mentor walks me through how the rollback checkpoint evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "tts": "One harmless looking refactor costs four hundred milliseconds; the gate holds the line. Review warm-up: Leo raises, \"The hash rule: by color.\" I answer, \"Reorganizing takes a Sunday.\" and Leo grades it, \"That is the level we need.\" Before deciding, I reread my notes about the range partitioning twice. We spend the first ten minutes of the review on the hash partitioning. I compare two views on the cutover rehearsal and write both down honestly. Our mentor walks me through how the rollback checkpoint evolved on this team. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个看起来无害的重构贵了四百毫秒；门禁守住了底线。模拟评审：Leo追问：\"我的哈希规则：按颜色。\"我凭记忆回答：\"重整理要一个周日。\"Leo确认：\"我们要的就是这个水平。\"我准备了一页关于范围分区的简报，好让会议从事实出发。团队为哈希分区指定了明确的负责人。我比较了关于切换彩排的两种观点，诚实地都记了下来。我把回滚检查点连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "一个看起来无害的重构贵了四百毫秒；门禁守住了底线。评审热身：Leo抛出：\"我的哈希规则：按颜色。\"我带着数字回答：\"重整理要一个周日。\"Leo点评道：\"我们要的就是这个水平。\"做决定之前，我把关于范围分区的笔记重读了两遍。评审的前十分钟，我们都用在了哈希分区上。我比较了关于切换彩排的两种观点，诚实地都记了下来。导师带我梳理了回滚检查点在这个团队里的演变。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "range partitioning",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the data skew monitor evolved on this team. Before deciding, I reread my notes about the shard map documentation twice. I prepare a one-page brief about the rebalancing operation so meetings start from facts. The team names one clear owner for the cross shard query cost. Dry run: Priya opens, \"Cross zone outfits cost thinking.\" I follow, \"Good partitioning hides itself.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" Slow is a bug with a paper trail now.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the data skew monitor evolved on this team. Before deciding, I reread my notes about the shard map documentation twice. I prepare a one-page brief about the rebalancing operation so meetings start from facts. The team names one clear owner for the cross shard query cost. Dry run: Priya opens, \"Cross zone outfits cost thinking.\" I follow, \"Good partitioning hides itself.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" Slow is a bug with a paper trail now.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the data skew monitor. The team names one clear owner for the shard map documentation. I prepare a one-page brief about the rebalancing operation so meetings start from facts. I add the cross shard query cost to the meeting agenda with three supporting facts. Mock review: Priya probes, \"Cross zone outfits cost thinking.\" I answer from memory, \"Good partitioning hides itself.\" and Priya confirms, \"Strong answer — keep that precision.\" Slow is a bug with a paper trail now.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the data skew monitor. The team names one clear owner for the shard map documentation. I prepare a one-page brief about the rebalancing operation so meetings start from facts. I add the cross shard query cost to the meeting agenda with three supporting facts. Mock review: Priya probes, \"Cross zone outfits cost thinking.\" I answer from memory, \"Good partitioning hides itself.\" and Priya confirms, \"Strong answer — keep that precision.\" Slow is a bug with a paper trail now.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了数据倾斜监控在这个团队里的演变。做决定之前，我把关于分片地图文档的笔记重读了两遍。我准备了一页关于再平衡操作的简报，好让会议从事实出发。团队为跨片查询成本指定了明确的负责人。干跑演练：Priya开场：\"跨界穿搭费脑子。\"我接上：\"好的分区让人感觉不到。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"从今往后，慢也是有据可查的缺陷。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就数据倾斜监控提出了一个审慎的问题。团队为分片地图文档指定了明确的负责人。我准备了一页关于再平衡操作的简报，好让会议从事实出发。我把跨片查询成本连同三条支撑事实加进了议程。模拟评审：Priya追问：\"跨界穿搭费脑子。\"我凭记忆回答：\"好的分区让人感觉不到。\"Priya确认：\"回答有力——保持这种精确。\"从今往后，慢也是有据可查的缺陷。",
    "hard": [
     {
      "w": "rebalancing operation",

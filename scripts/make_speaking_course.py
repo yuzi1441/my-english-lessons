@@ -22,6 +22,7 @@ from __future__ import annotations
 import argparse
 import bisect
 import json
+import random
 import re
 import sys
 from pathlib import Path
@@ -182,23 +183,33 @@ NP_POOL = {
         ("Now I understand {np}.", "现在我理解了{z}。"),
         ("I write a short note about {np}.", "我给{z}写了一条简短的笔记。"),
         ("I ask one question about {np}.", "我问了一个关于{z}的问题。"),
-        ("Leo tells me a story about {np}.", "Leo 给我讲了一个关于{z}的小故事。"),
+        ("Leo shows me an example of {np}.", "Leo 给我看了一个{z}的例子。"),
+        ("I hear {np} in the meeting and write it down.", "我在会上听到{z}，把它记了下来。"),
+        ("I read the short guide about {np} twice.", "我把关于{z}的简短说明读了两遍。"),
     ],
     3: [
         ("Before the meeting, I review {np} one more time.", "开会前，我又复习了一遍{z}。"),
         ("The team talks about {np} at the standup.", "团队在站会上讨论了{z}。"),
-        ("When I use {np}, I ask Maria for advice.", "使用{z}时，我向 Maria 请教。"),
-        ("I compare {np} with my notes.", "我把{z}和我的笔记做了比较。"),
-        ("Priya and I look for a detail in {np}.", "Priya 和我在{z}里找一个细节。"),
+        ("When I get stuck, I ask Maria about {np}.", "卡住的时候，我就向 Maria 请教{z}。"),
+        ("I compare my notes about {np} with Priya's.", "我把关于{z}的笔记和 Priya 的对照了一下。"),
+        ("Priya and I spend a few minutes on {np}.", "Priya 和我在{z}上花了几分钟。"),
         ("After lunch, I check {np} again.", "午饭后，我又检查了一遍{z}。"),
+        ("I add {np} to my notes with one example.", "我把{z}和一个例子一起记进了笔记。"),
+        ("Leo walks me through {np} step by step.", "Leo 一步一步带我过了{z}。"),
+        ("We keep a short checklist for {np}.", "我们为{z}准备了一张简短的检查单。"),
+        ("I reread the section about {np} after lunch.", "午饭后我重读了关于{z}的章节。"),
     ],
     4: [
-        ("If {np} fails, we need a clear plan.", "如果{z}失败，我们需要一个清晰的方案。"),
+        ("I walk a new teammate through {np}.", "我带一位新队友过了一遍{z}。"),
+        ("I double-check {np} before the review.", "评审之前，我再核对一遍{z}。"),
         ("I suggest that we check {np} first.", "我建议我们先检查{z}。"),
-        ("The result depends on {np}, so I check it twice.", "结果取决于{z}，所以我检查了两遍。"),
-        ("I explain {np} to a new teammate.", "我向一位新队友解释了{z}。"),
-        ("We discuss the risk around {np}.", "我们讨论了{z}相关的风险。"),
-        ("I document {np} so the team can review it later.", "我把{z}写成文档，方便团队之后查看。"),
+        ("During the review, I ask one question about {np}.", "评审时，我就{z}提了一个问题。"),
+        ("I reread my notes about {np} after lunch.", "午饭后我重读了关于{z}的笔记。"),
+        ("I add {np} to my checklist for tomorrow.", "我把{z}加进了明天的清单。"),
+        ("We spend a few minutes on {np} at the standup.", "站会上我们花了几分钟讨论{z}。"),
+        ("I keep one real example of {np} in my notes.", "我在笔记里留了一个{z}的真实例子。"),
+        ("Before I reply, I look at {np} once more.", "回复之前，我又看了一遍{z}。"),
+        ("I go through {np} with Priya and note her advice.", "我和 Priya 过了一遍{z}，记下了她的建议。"),
     ],
     5: [
         ("I add {np} to my study notes before I forget it.", "我趁还没忘，把{z}记进了学习笔记。"),
@@ -686,6 +697,17 @@ STORY_LEMMAS = {
 # helpers
 # ---------------------------------------------------------------------------
 
+# light scene-flow connectives for tiers 2-4
+SCENE_LINKS = [
+    ("After that,", "在那之后，"),
+    ("Then,", "接着，"),
+    ("Later,", "后来，"),
+    ("After a short break,", "稍作休息后，"),
+    ("Before the next meeting,", "下一个会议前，"),
+    ("Once that was done,", "做完之后，"),
+]
+
+
 def cap(sentence: str) -> str:
     return sentence[:1].upper() + sentence[1:]
 
@@ -729,11 +751,28 @@ def pick(pool: list, day: int, salt: int):
     return pool[(day + salt) % len(pool)]
 
 
-def pick_seq(pool: list, day: int, cursor: dict):
-    """Sequential cursor pick: consecutive sentences never reuse a template."""
-    item = pool[(day + cursor["n"]) % len(pool)]
+def pick_seq(pool: list, day: int, cursor: dict, pool_id: str = "p"):
+    """Day-shuffled rotation: a template is used at most once per day and the
+    order differs from day to day, so no two days share the same sequence."""
+    queue = cursor.setdefault(pool_id, [])
+    if not queue:
+        rng = random.Random(day * 1000 + sum(map(ord, pool_id)) + len(pool))
+        queue.extend(rng.sample(range(len(pool)), len(pool)))
+    item = pool[queue.pop(0)]
     cursor["n"] += 1
     return item
+
+
+LINE_ACKS = {
+    1: [("I answer politely.", "我礼貌地回应。"), ("I nod and reply.", "我点头回应。"), ("I answer with a smile.", "我微笑着回答。")],
+    2: [("I answer as best I can.", "我尽力回答。"), ("I think for a second, then answer.", "我想了一下，然后回答。"), ("I reply, and we keep chatting.", "我回答后，我们继续聊。")],
+    3: [("I answer, and we go over it once more.", "我回答后，我们又过了一遍。"), ("I reply, and she notes it down.", "我回答，她把它记了下来。"), ("I answer, then try the line myself.", "我回答，然后自己把这句练了一遍。")],
+    4: [("I answer clearly and note the phrasing.", "我清楚地回答，并记下了这个说法。"), ("I answer, and we compare notes.", "我回答，我们互相对了笔记。"), ("I answer, then reuse it in my update.", "我回答，然后把它用进了自己的汇报。")],
+    5: [("I repeat it and write it down.", "我跟读了一遍并记了下来。"), ("I try it back, and it works.", "我试着回了一遍，效果不错。")],
+    6: [("I answer, and we run it once more.", "我回答后，我们又练了一次。"), ("I repeat it until it sounds natural.", "我反复念到它听起来自然。")],
+    7: [("I answer from memory, then check my notes.", "我凭记忆回答，然后核对了笔记。"), ("I respond, and the mentor approves.", "我回应后，导师表示认可。")],
+    8: [("I deliver the line without a pause.", "我毫不迟疑地说出了这句。"), ("I answer, and the room nods.", "我回答后，大家都点头。")],
+}
 
 
 def solo_line_sentence(item: dict, tier: int, day: int, cursor: dict) -> tuple[str, str]:
@@ -743,7 +782,15 @@ def solo_line_sentence(item: dict, tier: int, day: int, cursor: dict) -> tuple[s
     en_t, zh_t = SOLO_LINE[tier]
     spk = SPEAKERS[(day + cursor["n"]) % len(SPEAKERS)]
     cursor["n"] += 1
-    return cap(en_t.format(spk=spk, verb=verb, d1=term, d1z=core)), zh_t.format(spk=spk, verbz=verbz, d1z=core)
+    acks = LINE_ACKS.get(tier) or [("", "")]
+    ack_en, ack_zh = acks[(day + cursor["n"]) % len(acks)]
+    cursor["n"] += 1
+    en = cap(en_t.format(spk=spk, verb=verb, d1=term, d1z=core))
+    zh = zh_t.format(spk=spk, verbz=verbz, d1z=core)
+    if ack_en:
+        en = f"{en} {ack_en}"
+        zh = f"{zh}{ack_zh}"
+    return en, zh
 
 
 NP_PLURAL_SWAP = {
@@ -758,7 +805,7 @@ def term_sentence(item: dict, tier: int, day: int, cursor: dict) -> tuple[str, s
     term = str(item["term"]).strip()
     core = zh_core(item)
     if kind == "np":
-        en_t, zh_t = pick_seq(NP_POOL[tier], day, cursor)
+        en_t, zh_t = pick_seq(NP_POOL[tier], day, cursor, f"np{tier}")
         if term.lower() in PLURAL_NPS and en_t in NP_PLURAL_SWAP:
             en_t, zh_t = NP_PLURAL_SWAP[en_t]
         np = np_form(term)
@@ -766,24 +813,30 @@ def term_sentence(item: dict, tier: int, day: int, cursor: dict) -> tuple[str, s
         zh = zh_t.format(z=core)
     elif kind == "vp":
         pool = VP_LIFE_POOL[tier] if item.get("domain") == "daily" else VP_POOL[tier]
-        en_t, zh_t = pick_seq(pool, day, cursor)
+        en_t, zh_t = pick_seq(pool, day, cursor, f"vp{tier}")
         en = en_t.format(vp=term)
         zh = zh_t.format(vz=core)
     elif kind == "pattern":
-        en_t, zh_t = pick_seq(PATTERN_POOL[tier], day, cursor)
+        en_t, zh_t = pick_seq(PATTERN_POOL[tier], day, cursor, f"pat{tier}")
         en = en_t.format(dl=term)
         zh = zh_t.format(dlz=core)
     else:  # a complete spoken line without a partner line: narrate it alone
         return solo_line_sentence(item, tier, day, cursor)
+    starts_with_time = en[:2] in ("At", "In", "On") or en.split(",")[0].split()[0] in (
+        "Before", "After", "During", "Once", "When", "While", "Then", "Later", "Today", "Tomorrow", "Yesterday")
+    if 2 <= tier <= 4 and not starts_with_time and (day * 7 + cursor["n"]) % 3 == 0:
+        c_en, c_zh = SCENE_LINKS[(day + cursor["n"]) % len(SCENE_LINKS)]
+        en = f"{c_en} {en}"
+        zh = c_zh + zh
     return cap(en), zh
 
 
 def dialogue_sentence(d1: dict, d2: dict, tier: int, day: int, cursor: dict) -> tuple[str, str]:
     t1, t2 = str(d1["term"]).strip(), str(d2["term"]).strip()
     if norm_term(t1) == norm_term(t2):
-        en_t, zh_t = pick_seq(ECHO_SOLE[tier], day, cursor)
+        en_t, zh_t = pick_seq(ECHO_SOLE[tier], day, cursor, f"echo{tier}")
     else:
-        en_t, zh_t = pick_seq(DLG_POOL[tier], day, cursor)
+        en_t, zh_t = pick_seq(DLG_POOL[tier], day, cursor, f"dlg{tier}")
     spk = SPEAKERS[(day + cursor["n"]) % len(SPEAKERS)]
     cursor["n"] += 1
     closers = DLG_CLOSERS.get(tier) or [("", "")]
@@ -795,11 +848,16 @@ def dialogue_sentence(d1: dict, d2: dict, tier: int, day: int, cursor: dict) -> 
 
 
 def render_items(items: list[dict], tier: int, day: int, cursor: dict) -> list[tuple[str, str]]:
-    """Render a scene's items; two adjacent complete spoken lines become one dialogue exchange."""
+    """Render a scene's items. Tiers 1-4: each spoken line stands alone with a
+    natural reply beat (two learned lines never pretend to be one conversation).
+    Tiers 5-8 keep the practice-framed three-turn drills."""
     out: list[tuple[str, str]] = []
     pending_line: dict | None = None
     for item in items:
         if term_kind(item) == "line":
+            if tier <= 4:
+                out.append(solo_line_sentence(item, tier, day, cursor))
+                continue
             if pending_line is None:
                 pending_line = item
                 continue

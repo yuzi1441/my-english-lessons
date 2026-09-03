@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 280,
+   "word_count": 287,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My first analysis drowns in duplicates and nulls. Priya suggests a cleaner way to think about the hypothesis statement. While the details are fresh, I write down the minimum detectable effect. The guide now has a short section on the data minimization rule. I compare my notes about the consent record with Priya's. Pair run: Leo starts, \"Morning pages before metrics.\" I follow, \"Ideas need bad first drafts.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "My first analysis drowns in duplicates and nulls. Priya suggests a cleaner way to think about the hypothesis statement. While the details are fresh, I write down the minimum detectable effect. The guide now has a short section on the data minimization rule. I compare my notes about the consent record with Priya's. Pair run: Leo starts, \"Morning pages before metrics.\" I follow, \"Ideas need bad first drafts.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "My first analysis drowns in duplicates and nulls. I connect the hypothesis statement to the ticket so nothing gets lost. At the review, we spend ten minutes on the minimum detectable effect. We agree to give the data minimization rule one more careful look this week. I compare my notes about the consent record with Priya's. Drill without notes: Leo asks, \"Morning pages before metrics.\" I answer, \"Ideas need bad first drafts.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "My first analysis drowns in duplicates and nulls. I connect the hypothesis statement to the ticket so nothing gets lost. At the review, we spend ten minutes on the minimum detectable effect. We agree to give the data minimization rule one more careful look this week. I compare my notes about the consent record with Priya's. Drill without notes: Leo asks, \"Morning pages before metrics.\" I answer, \"Ideas need bad first drafts.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的第一次分析淹死在重复和空值里。Priya 提出了一个更清晰的假设陈述思考方式。趁细节还新鲜，我把最小可检测效应写了下来。指南里现在有关于数据最小化的简短章节。我把关于同意记录的笔记和 Priya 的对照了一下。结对演练：Leo起头：\"数据之前先写晨间页。\"我跟上：\"想法需要糟糕的初稿。\"Leo回应：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我的第一次分析淹死在重复和空值里。我把假设陈述关联到工单上，免得遗漏。评审时，我们花了十分钟在最小可检测效应上。我们说好这周再把数据最小化仔细看一次。我把关于同意记录的笔记和 Priya 的对照了一下。脱稿演练：Leo问：\"数据之前先写晨间页。\"我回答：\"想法需要糟糕的初稿。\"Leo收束：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "hypothesis statement",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A day of data cleaning teaches me that the pipeline is the product. Meeting rehearsal: Leo opens, \"The graph does not write itself.\" I respond, \"Words slow my thinking nicely.\" and Leo confirms, \"Keep practising, it is working.\" While the details are fresh, I write down the statistical power. The guide now has a short section on the peeking problem. I compare my notes about the right to deletion with Priya's. At the review, we spend ten minutes on the anonymization pipeline. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "A day of data cleaning teaches me that the pipeline is the product. Meeting rehearsal: Leo opens, \"The graph does not write itself.\" I respond, \"Words slow my thinking nicely.\" and Leo confirms, \"Keep practising, it is working.\" While the details are fresh, I write down the statistical power. The guide now has a short section on the peeking problem. I compare my notes about the right to deletion with Priya's. At the review, we spend ten minutes on the anonymization pipeline. I close the ticket with a clear result and one lesson for next time.",
+   "en": "A day of data cleaning teaches me that the pipeline is the product. Pair run: Leo starts, \"The graph does not write itself.\" I follow, \"Words slow my thinking nicely.\" and Leo replies, \"Keep practising, it is working.\" Priya suggests a cleaner way to think about the statistical power. The guide now has a short section on the peeking problem. In today's standup, I mention the right to deletion and what comes next. While the details are fresh, I write down the anonymization pipeline. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "A day of data cleaning teaches me that the pipeline is the product. Pair run: Leo starts, \"The graph does not write itself.\" I follow, \"Words slow my thinking nicely.\" and Leo replies, \"Keep practising, it is working.\" Priya suggests a cleaner way to think about the statistical power. The guide now has a short section on the peeking problem. In today's standup, I mention the right to deletion and what comes next. While the details are fresh, I write down the anonymization pipeline. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一整天的数据清洗让我明白，管道本身才是产品。会议彩排：Leo开场：\"图表不会自己写结论。\"我回应：\"文字让思考慢下来正合适。\"Leo确认道：\"继续练，有效果了。\"趁细节还新鲜，我把统计功效写了下来。指南里现在有关于偷看问题的简短章节。我把关于删除权的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在匿名化管道上。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "一整天的数据清洗让我明白，管道本身才是产品。结对演练：Leo起头：\"图表不会自己写结论。\"我跟上：\"文字让思考慢下来正合适。\"Leo回应：\"继续练，有效果了。\"Priya 提出了一个更清晰的统计功效思考方式。指南里现在有关于偷看问题的简短章节。今天的站会上，我提到删除权和接下来的安排。趁细节还新鲜，我把匿名化管道写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "statistical power",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the data access audit to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the privacy review ticket. While the details are fresh, I write down the sequential testing. The guide now has a short section on the false positive rate. Drill without notes: Priya asks, \"One paragraph, one claim.\" I answer, \"Edit tomorrow, publish today.\" and Priya closes, \"Good point — use it in the standup.\" Clean data tastes like clear water.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the data access audit to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the privacy review ticket. While the details are fresh, I write down the sequential testing. The guide now has a short section on the false positive rate. Drill without notes: Priya asks, \"One paragraph, one claim.\" I answer, \"Edit tomorrow, publish today.\" and Priya closes, \"Good point — use it in the standup.\" Clean data tastes like clear water.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the data access audit to the ticket so nothing gets lost. At the review, we spend ten minutes on the privacy review ticket. We agree to give the sequential testing one more careful look this week. I compare my notes about the false positive rate with Priya's. Whiteboard practice: Priya offers, \"One paragraph, one claim.\" I add, \"Edit tomorrow, publish today.\" then Priya sums up, \"Good point — use it in the standup.\" Clean data tastes like clear water.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the data access audit to the ticket so nothing gets lost. At the review, we spend ten minutes on the privacy review ticket. We agree to give the sequential testing one more careful look this week. I compare my notes about the false positive rate with Priya's. Whiteboard practice: Priya offers, \"One paragraph, one claim.\" I add, \"Edit tomorrow, publish today.\" then Priya sums up, \"Good point — use it in the standup.\" Clean data tastes like clear water.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把数据访问审计关联到工单上，免得遗漏。Priya 提出了一个更清晰的隐私评审单思考方式。趁细节还新鲜，我把序贯检验写了下来。指南里现在有关于假阳性率的简短章节。脱稿演练：Priya问：\"一段一个论点。\"我回答：\"明天改\"Priya收束：\"说得好——站会上就用它。\"干净的数据喝起来像清水。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把数据访问审计关联到工单上，免得遗漏。评审时，我们花了十分钟在隐私评审单上。我们说好这周再把序贯检验仔细看一次。我把关于假阳性率的笔记和 Priya 的对照了一下。白板练习：Priya给出：\"一段一个论点。\"我补充：\"明天改\"然后Priya总结：\"说得好——站会上就用它。\"干净的数据喝起来像清水。",
    "hard": [
     {
      "w": "sequential testing",

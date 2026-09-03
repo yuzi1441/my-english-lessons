@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 279,
+   "word_count": 285,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A holiday map goes up: whose Monday never exists. While the details are fresh, I write down the small batch review. The guide now has a short section on the two-pass review. I compare my notes about the api change checklist with Priya's. At the review, we spend ten minutes on the migration review points. Meeting rehearsal: Leo opens, \"The baozi line at seven.\" I respond, \"Steam writes calligraphy.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "A holiday map goes up: whose Monday never exists. While the details are fresh, I write down the small batch review. The guide now has a short section on the two-pass review. I compare my notes about the api change checklist with Priya's. At the review, we spend ten minutes on the migration review points. Meeting rehearsal: Leo opens, \"The baozi line at seven.\" I respond, \"Steam writes calligraphy.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "A holiday map goes up: whose Monday never exists. Priya suggests a cleaner way to think about the small batch review. I compare my notes about the two-pass review with Priya's. While the details are fresh, I write down the api change checklist. I connect the migration review points to the ticket so nothing gets lost. Whiteboard practice: Leo offers, \"The baozi line at seven.\" I add, \"Steam writes calligraphy.\" then Leo sums up, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "A holiday map goes up: whose Monday never exists. Priya suggests a cleaner way to think about the small batch review. I compare my notes about the two-pass review with Priya's. While the details are fresh, I write down the api change checklist. I connect the migration review points to the ticket so nothing gets lost. Whiteboard practice: Leo offers, \"The baozi line at seven.\" I add, \"Steam writes calligraphy.\" then Leo sums up, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一张假日地图贴上墙：谁家的周一不存在。趁细节还新鲜，我把小批评审写了下来。指南里现在有关于两遍评审的简短章节。我把关于接口变更清单的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在迁移评审要点上。会议彩排：Leo开场：\"七点的小笼包队。\"我回应：\"蒸汽写字画符。\"Leo确认道：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "一张假日地图贴上墙：谁家的周一不存在。Priya 提出了一个更清晰的小批评审思考方式。我把关于两遍评审的笔记和 Priya 的对照了一下。趁细节还新鲜，我把接口变更清单写了下来。我把迁移评审要点关联到工单上，免得遗漏。白板练习：Leo给出：\"七点的小笼包队。\"我补充：\"蒸汽写字画符。\"然后Leo总结：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "small batch review",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We rotate the late call fairly and follow the sun review. Whiteboard practice: Leo offers, \"Regulars have shorthand.\" I add, \"Counting change in coins.\" then Leo sums up, \"Keep practising, it is working.\" The guide now has a short section on the silent reading time. I compare my notes about the author narration with Priya's. At the review, we spend ten minutes on the perf sensitive paths. In today's standup, I mention the security quick pass and what comes next. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "We rotate the late call fairly and follow the sun review. Whiteboard practice: Leo offers, \"Regulars have shorthand.\" I add, \"Counting change in coins.\" then Leo sums up, \"Keep practising, it is working.\" The guide now has a short section on the silent reading time. I compare my notes about the author narration with Priya's. At the review, we spend ten minutes on the perf sensitive paths. In today's standup, I mention the security quick pass and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "en": "We rotate the late call fairly and follow the sun review. Drill without notes: Leo asks, \"Regulars have shorthand.\" I answer, \"Counting change in coins.\" and Leo closes, \"Keep practising, it is working.\" The guide now has a short section on the silent reading time. At the review, we spend ten minutes on the author narration. In today's standup, I mention the perf sensitive paths and what comes next. We agree to give the security quick pass one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We rotate the late call fairly and follow the sun review. Drill without notes: Leo asks, \"Regulars have shorthand.\" I answer, \"Counting change in coins.\" and Leo closes, \"Keep practising, it is working.\" The guide now has a short section on the silent reading time. At the review, we spend ten minutes on the author narration. In today's standup, I mention the perf sensitive paths and what comes next. We agree to give the security quick pass one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们公平轮换深夜会议，并启用接力评审。白板练习：Leo给出：\"熟客都用语速点单。\"我补充：\"硬币在掌心数得清。\"然后Leo总结：\"继续练，有效果了。\"指南里现在有关于静读时段的简短章节。我把关于作者旁白的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在性能敏感路径上。今天的站会上，我提到安全快速过一遍和接下来的安排。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我们公平轮换深夜会议，并启用接力评审。脱稿演练：Leo问：\"熟客都用语速点单。\"我回答：\"硬币在掌心数得清。\"Leo收束：\"继续练，有效果了。\"指南里现在有关于静读时段的简短章节。评审时，我们花了十分钟在作者旁白上。今天的站会上，我提到性能敏感路径和接下来的安排。我们说好这周再把安全快速过一遍仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "silent reading time",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the license header check. While the details are fresh, I write down the rollback note in pr. The guide now has a short section on the review pause protocol. I compare my notes about the reviewer handoff with Priya's. Pair run: Priya starts, \"First bite, hot warning.\" I follow, \"Breakfast philosophy is free.\" and Priya replies, \"Good point — use it in the standup.\" Fairness is a schedule you can point at.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the license header check. While the details are fresh, I write down the rollback note in pr. The guide now has a short section on the review pause protocol. I compare my notes about the reviewer handoff with Priya's. Pair run: Priya starts, \"First bite, hot warning.\" I follow, \"Breakfast philosophy is free.\" and Priya replies, \"Good point — use it in the standup.\" Fairness is a schedule you can point at.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the license header check. I compare my notes about the rollback note in pr with Priya's. While the details are fresh, I write down the review pause protocol. I connect the reviewer handoff to the ticket so nothing gets lost. Meeting rehearsal: Priya opens, \"First bite, hot warning.\" I respond, \"Breakfast philosophy is free.\" and Priya confirms, \"Good point — use it in the standup.\" Fairness is a schedule you can point at.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the license header check. I compare my notes about the rollback note in pr with Priya's. While the details are fresh, I write down the review pause protocol. I connect the reviewer handoff to the ticket so nothing gets lost. Meeting rehearsal: Priya opens, \"First bite, hot warning.\" I respond, \"Breakfast philosophy is free.\" and Priya confirms, \"Good point — use it in the standup.\" Fairness is a schedule you can point at.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的许可头检查思考方式。趁细节还新鲜，我把PR 里的回滚说明写了下来。指南里现在有关于评审暂停协议的简短章节。我把关于评审接力的笔记和 Priya 的对照了一下。结对演练：Priya起头：\"第一口\"我跟上：\"早餐哲学免费附送。\"Priya回应：\"说得好——站会上就用它。\"公平是一张指得出来的时间表。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的许可头检查思考方式。我把关于PR 里的回滚说明的笔记和 Priya 的对照了一下。趁细节还新鲜，我把评审暂停协议写了下来。我把评审接力关联到工单上，免得遗漏。会议彩排：Priya开场：\"第一口\"我回应：\"早餐哲学免费附送。\"Priya确认道：\"说得好——站会上就用它。\"公平是一张指得出来的时间表。",
    "hard": [
     {
      "w": "review pause protocol",

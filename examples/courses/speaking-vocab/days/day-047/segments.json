@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 283,
+   "word_count": 282,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The drafts need a tiny API with pagination. I keep one real example of the request parameter in my notebook. I add the response format to my study notes before I forget it. I go over the search across repos one more time before lunch. There is a short paragraph about the code navigation in the guide. Warm-up round: Leo offers, \"I batch similar tasks.\" I answer, \"I block focus time on my calendar.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "The drafts need a tiny A P I with pagination. I keep one real example of the request parameter in my notebook. I add the response format to my study notes before I forget it. I go over the search across repos one more time before lunch. There is a short paragraph about the code navigation in the guide. Warm-up round: Leo offers, \"I batch similar tasks.\" I answer, \"I block focus time on my calendar.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "The drafts need a tiny API with pagination. I ask one good question about the request parameter in the meeting. I spend ten quiet minutes on the response format after the standup. I add the search across repos to my study notes before I forget it. There is a short paragraph about the code navigation in the guide. Warm-up round: Leo offers, \"I batch similar tasks.\" I answer, \"I block focus time on my calendar.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "The drafts need a tiny A P I with pagination. I ask one good question about the request parameter in the meeting. I spend ten quiet minutes on the response format after the standup. I add the search across repos to my study notes before I forget it. There is a short paragraph about the code navigation in the guide. Warm-up round: Leo offers, \"I batch similar tasks.\" I answer, \"I block focus time on my calendar.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "草稿需要一个带分页的小接口。我在笔记本里留了一个请求参数的真实例子。我趁还没忘，把响应格式记进了学习笔记。午饭前我又过了一遍跨仓库搜索。指南里有一小段关于代码导航的介绍。热身一轮：Leo给出：\"我把同类任务放在一起做。\"我回答：\"我在日历上留了专注时段。\"Leo收尾道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "草稿需要一个带分页的小接口。会上关于请求参数，我问了一个好问题。站会之后，我安安静静花了十分钟在响应格式上。我趁还没忘，把跨仓库搜索记进了学习笔记。指南里有一小段关于代码导航的介绍。热身一轮：Leo给出：\"我把同类任务放在一起做。\"我回答：\"我在日历上留了专注时段。\"Leo收尾道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "request parameter",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I add a rate limit so one client cannot wake the whole system. We practise the dialogue: Leo opens, \"Notifications can wait.\" I answer, \"I keep a done list.\" and Leo nods, \"Nice, keep that one handy.\" I add the pagination to my study notes before I forget it. I go over the rate limit one more time before lunch. There is a short paragraph about the blame view in the guide. I ask one good question about the search operator in the meeting. I end the day with fewer unknowns than I started with.",
-   "tts": "I add a rate limit so one client cannot wake the whole system. We practise the dialogue: Leo opens, \"Notifications can wait.\" I answer, \"I keep a done list.\" and Leo nods, \"Nice, keep that one handy.\" I add the pagination to my study notes before I forget it. I go over the rate limit one more time before lunch. There is a short paragraph about the blame view in the guide. I ask one good question about the search operator in the meeting. I end the day with fewer unknowns than I started with.",
+   "en": "I add a rate limit so one client cannot wake the whole system. We practise the dialogue: Leo opens, \"Notifications can wait.\" I answer, \"I keep a done list.\" and Leo nods, \"Nice, keep that one handy.\" My notes about the pagination look clearer this week. I keep one real example of the rate limit in my notebook. Sam asks me about the blame view, and I explain the basics. I go over the search operator one more time before lunch. I end the day with fewer unknowns than I started with.",
+   "tts": "I add a rate limit so one client cannot wake the whole system. We practise the dialogue: Leo opens, \"Notifications can wait.\" I answer, \"I keep a done list.\" and Leo nods, \"Nice, keep that one handy.\" My notes about the pagination look clearer this week. I keep one real example of the rate limit in my notebook. Sam asks me about the blame view, and I explain the basics. I go over the search operator one more time before lunch. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我加了频率限制，这样单个客户端无法吵醒整个系统。我们练习这段对话：Leo开场：\"通知可以稍后再看。\"我回答：\"我维护一份已完成清单。\"Leo点头说：\"不错，把这句记在手边。\"我趁还没忘，把分页记进了学习笔记。午饭前我又过了一遍频率限制。指南里有一小段关于追溯视图的介绍。会上关于搜索运算符，我问了一个好问题。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我加了频率限制，这样单个客户端无法吵醒整个系统。我们练习这段对话：Leo开场：\"通知可以稍后再看。\"我回答：\"我维护一份已完成清单。\"Leo点头说：\"不错，把这句记在手边。\"这周我关于分页的笔记清楚多了。我在笔记本里留了一个频率限制的真实例子。Sam 问起追溯视图，我讲了讲基础。午饭前我又过了一遍搜索运算符。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "pagination",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the recent activity, and I explain the basics. I keep one real example of the bookmark a file in my notebook. I add the versioned API to my study notes before I forget it. I go over the error payload one more time before lunch. Role play with feedback: Priya says, \"Small breaks keep me sharp.\" I try, \"Done is better than perfect.\" and Priya adds, \"Good — try it in today’s task.\" Small APIs still deserve big care.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the recent activity, and I explain the basics. I keep one real example of the bookmark a file in my notebook. I add the versioned A P I to my study notes before I forget it. I go over the error payload one more time before lunch. Role play with feedback: Priya says, \"Small breaks keep me sharp.\" I try, \"Done is better than perfect.\" and Priya adds, \"Good — try it in today’s task.\" Small APIs still deserve big care.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the recent activity in the meeting. I spend ten quiet minutes on the bookmark a file after the standup. I add the versioned API to my study notes before I forget it. There is a short paragraph about the error payload in the guide. Role play with feedback: Priya says, \"Small breaks keep me sharp.\" I try, \"Done is better than perfect.\" and Priya adds, \"Good — try it in today’s task.\" Small APIs still deserve big care.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the recent activity in the meeting. I spend ten quiet minutes on the bookmark a file after the standup. I add the versioned A P I to my study notes before I forget it. There is a short paragraph about the error payload in the guide. Role play with feedback: Priya says, \"Small breaks keep me sharp.\" I try, \"Done is better than perfect.\" and Priya adds, \"Good — try it in today’s task.\" Small APIs still deserve big care.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起最近动态，我讲了讲基础。我在笔记本里留了一个收藏文件的真实例子。我趁还没忘，把带版本的接口记进了学习笔记。午饭前我又过了一遍错误负载。角色扮演加反馈：Priya说：\"小休息让我保持清醒。\"我试着说：\"完成比完美更重要。\"Priya补充道：\"好——今天的任务里就用上。\"小接口也值得认真对待。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于最近动态，我问了一个好问题。站会之后，我安安静静花了十分钟在收藏文件上。我趁还没忘，把带版本的接口记进了学习笔记。指南里有一小段关于错误负载的介绍。角色扮演加反馈：Priya说：\"小休息让我保持清醒。\"我试着说：\"完成比完美更重要。\"Priya补充道：\"好——今天的任务里就用上。\"小接口也值得认真对待。",
    "hard": [
     {
      "w": "versioned API",

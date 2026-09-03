@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 279,
+   "word_count": 283,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Month four opens with an uncomfortable truth: my drafts feature has almost no tests. I ask one good question about the unit test in the meeting. My notes about the integration test look clearer this week. I spend ten quiet minutes on the test review after the standup. Sam asks me about the meaningful assertion, and I explain the basics. Warm-up round: Maria offers, \"I mean exactly three o'clock.\" I answer, \"To be precise, ten minutes.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "Month four opens with an uncomfortable truth: my drafts feature has almost no tests. I ask one good question about the unit test in the meeting. My notes about the integration test look clearer this week. I spend ten quiet minutes on the test review after the standup. Sam asks me about the meaningful assertion, and I explain the basics. Warm-up round: Maria offers, \"I mean exactly three o'clock.\" I answer, \"To be precise, ten minutes.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "Month four opens with an uncomfortable truth: my drafts feature has almost no tests. I spend ten quiet minutes on the unit test after the standup. My notes about the integration test look clearer this week. I ask one good question about the test review in the meeting. I go over the meaningful assertion one more time before lunch. Warm-up round: Maria offers, \"I mean exactly three o'clock.\" I answer, \"To be precise, ten minutes.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "Month four opens with an uncomfortable truth: my drafts feature has almost no tests. I spend ten quiet minutes on the unit test after the standup. My notes about the integration test look clearer this week. I ask one good question about the test review in the meeting. I go over the meaningful assertion one more time before lunch. Warm-up round: Maria offers, \"I mean exactly three o'clock.\" I answer, \"To be precise, ten minutes.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第四个月以一种不太舒服的真话开场：我的草稿功能几乎没有测试。会上关于单元测试，我问了一个好问题。这周我关于集成测试的笔记清楚多了。站会之后，我安安静静花了十分钟在测试评审上。Sam 问起有意义的断言，我讲了讲基础。热身一轮：Maria给出：\"我说的是三点整。\"我回答：\"准确地说\"Maria收尾道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "第四个月以一种不太舒服的真话开场：我的草稿功能几乎没有测试。站会之后，我安安静静花了十分钟在单元测试上。这周我关于集成测试的笔记清楚多了。会上关于测试评审，我问了一个好问题。午饭前我又过了一遍有意义的断言。热身一轮：Maria给出：\"我说的是三点整。\"我回答：\"准确地说\"Maria收尾道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "unit test",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria looks at the empty folder and says, \"Good. Now you get to build the guardrails.\" We practise the dialogue: Maria opens, \"Round numbers hide details.\" I answer, \"Let me be specific.\" and Maria nods, \"That is the one we need today.\" My notes about the end-to-end test look clearer this week. I spend ten quiet minutes on the test pyramid after the standup. Sam asks me about the test naming, and I explain the basics. I keep one real example of the red green refactor in my notebook. The task moves forward, and so does my confidence.",
-   "tts": "Maria looks at the empty folder and says, \"Good. Now you get to build the guardrails.\" We practise the dialogue: Maria opens, \"Round numbers hide details.\" I answer, \"Let me be specific.\" and Maria nods, \"That is the one we need today.\" My notes about the end-to-end test look clearer this week. I spend ten quiet minutes on the test pyramid after the standup. Sam asks me about the test naming, and I explain the basics. I keep one real example of the red green refactor in my notebook. The task moves forward, and so does my confidence.",
+   "en": "Maria looks at the empty folder and says, \"Good. Now you get to build the guardrails.\" Role play with feedback: Maria says, \"Round numbers hide details.\" I try, \"Let me be specific.\" and Maria adds, \"That is the one we need today.\" I keep one real example of the end-to-end test in my notebook. Sam asks me about the test pyramid, and I explain the basics. There is a short paragraph about the test naming in the guide. I add the red green refactor to my study notes before I forget it. The task moves forward, and so does my confidence.",
+   "tts": "Maria looks at the empty folder and says, \"Good. Now you get to build the guardrails.\" Role play with feedback: Maria says, \"Round numbers hide details.\" I try, \"Let me be specific.\" and Maria adds, \"That is the one we need today.\" I keep one real example of the end-to-end test in my notebook. Sam asks me about the test pyramid, and I explain the basics. There is a short paragraph about the test naming in the guide. I add the red green refactor to my study notes before I forget it. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 看着空文件夹说：“很好，现在轮到你亲手修护栏了。”我们练习这段对话：Maria开场：\"整数会掩盖细节。\"我回答：\"让我说得具体一点。\"Maria点头说：\"今天要的就是这句。\"这周我关于端到端测试的笔记清楚多了。站会之后，我安安静静花了十分钟在测试金字塔上。Sam 问起测试命名，我讲了讲基础。我在笔记本里留了一个红绿重构的真实例子。任务在推进，我的信心也在成长。",
+   "zh": "Maria 看着空文件夹说：“很好，现在轮到你亲手修护栏了。”角色扮演加反馈：Maria说：\"整数会掩盖细节。\"我试着说：\"让我说得具体一点。\"Maria补充道：\"今天要的就是这句。\"我在笔记本里留了一个端到端测试的真实例子。Sam 问起测试金字塔，我讲了讲基础。指南里有一小段关于测试命名的介绍。我趁还没忘，把红绿重构记进了学习笔记。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "end-to-end test",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Maria watches while I pair test with commit. I run the tests locally twice, just to be sure. My notes about the test double look clearer this week. I spend ten quiet minutes on the mock object after the standup. Role play with feedback: Leo says, \"Vague words cost time.\" I try, \"Details are my friends.\" and Leo adds, \"Nice, keep that one handy.\" The first test fails, and it feels like progress.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Maria watches while I pair test with commit. I run the tests locally twice, just to be sure. My notes about the test double look clearer this week. I spend ten quiet minutes on the mock object after the standup. Role play with feedback: Leo says, \"Vague words cost time.\" I try, \"Details are my friends.\" and Leo adds, \"Nice, keep that one handy.\" The first test fails, and it feels like progress.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. It is finally my turn to pair test with commit. I run the tests locally twice, just to be sure. I spend ten quiet minutes on the test double after the standup. My notes about the mock object look clearer this week. We drill it twice: Leo starts, \"Vague words cost time.\" I reply, \"Details are my friends.\" then Leo smiles, \"Nice, keep that one handy.\" The first test fails, and it feels like progress.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. It is finally my turn to pair test with commit. I run the tests locally twice, just to be sure. I spend ten quiet minutes on the test double after the standup. My notes about the mock object look clearer this week. We drill it twice: Leo starts, \"Vague words cost time.\" I reply, \"Details are my friends.\" then Leo smiles, \"Nice, keep that one handy.\" The first test fails, and it feels like progress.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Maria 看着我测试与实现同提交。我本地跑测试了两遍，只为确定。这周我关于测试替身的笔记清楚多了。站会之后，我安安静静花了十分钟在模拟对象上。角色扮演加反馈：Leo说：\"模糊的词浪费时间。\"我试着说：\"细节是我的朋友。\"Leo补充道：\"不错，把这句记在手边。\"第一个测试失败了，却让我感觉像是进步。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。终于轮到我测试与实现同提交了。我本地跑测试了两遍，只为确定。站会之后，我安安静静花了十分钟在测试替身上。这周我关于模拟对象的笔记清楚多了。我们练了两遍：Leo起头：\"模糊的词浪费时间。\"我回答：\"细节是我的朋友。\"然后Leo笑着说：\"不错，把这句记在手边。\"第一个测试失败了，却让我感觉像是进步。",
    "hard": [
     {
      "w": "test double",

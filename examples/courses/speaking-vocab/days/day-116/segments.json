@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 275,
+   "word_count": 284,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I demo the tests at demo Friday, nerves and all. While the details are fresh, I write down the lighthouse score. The guide now has a short section on the core web vitals. I compare my notes about the doc sample test with Priya's. At the review, we spend ten minutes on the link checker. Meeting rehearsal: Leo opens, \"Podcasts at one and a half speed.\" I respond, \"Interviews teach listening.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "I demo the tests at demo Friday, nerves and all. While the details are fresh, I write down the lighthouse score. The guide now has a short section on the core web vitals. I compare my notes about the doc sample test with Priya's. At the review, we spend ten minutes on the link checker. Meeting rehearsal: Leo opens, \"Podcasts at one and a half speed.\" I respond, \"Interviews teach listening.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "I demo the tests at demo Friday, nerves and all. While the details are fresh, I write down the lighthouse score. In today's standup, I mention the core web vitals and what comes next. Priya suggests a cleaner way to think about the doc sample test. We agree to give the link checker one more careful look this week. Drill without notes: Leo asks, \"Podcasts at one and a half speed.\" I answer, \"Interviews teach listening.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "I demo the tests at demo Friday, nerves and all. While the details are fresh, I write down the lighthouse score. In today's standup, I mention the core web vitals and what comes next. Priya suggests a cleaner way to think about the doc sample test. We agree to give the link checker one more careful look this week. Drill without notes: Leo asks, \"Podcasts at one and a half speed.\" I answer, \"Interviews teach listening.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "周五演示会上，我带着紧张演示了我们的测试。趁细节还新鲜，我把Lighthouse 得分写了下来。指南里现在有关于核心网页指标的简短章节。我把关于文档示例测试的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在链接检查器上。会议彩排：Leo开场：\"播客用 1.5 倍速。\"我回应：\"访谈教人倾听。\"Leo确认道：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "周五演示会上，我带着紧张演示了我们的测试。趁细节还新鲜，我把Lighthouse 得分写了下来。今天的站会上，我提到核心网页指标和接下来的安排。Priya 提出了一个更清晰的文档示例测试思考方式。我们说好这周再把链接检查器仔细看一次。脱稿演练：Leo问：\"播客用 1.5 倍速。\"我回答：\"访谈教人倾听。\"Leo收束：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "lighthouse score",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A live red-green dance gets actual applause from engineers. Whiteboard practice: Leo offers, \"I pause and take notes.\" I add, \"Audio books on walks.\" then Leo sums up, \"Keep practising, it is working.\" The guide now has a short section on the interaction delay. I compare my notes about the layout stability with Priya's. At the review, we spend ten minutes on the api doc sync. In today's standup, I mention the version selector and what comes next. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "A live red-green dance gets actual applause from engineers. Whiteboard practice: Leo offers, \"I pause and take notes.\" I add, \"Audio books on walks.\" then Leo sums up, \"Keep practising, it is working.\" The guide now has a short section on the interaction delay. I compare my notes about the layout stability with Priya's. At the review, we spend ten minutes on the api doc sync. In today's standup, I mention the version selector and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "en": "A live red-green dance gets actual applause from engineers. Meeting rehearsal: Leo opens, \"I pause and take notes.\" I respond, \"Audio books on walks.\" and Leo confirms, \"Keep practising, it is working.\" The guide now has a short section on the interaction delay. I connect the layout stability to the ticket so nothing gets lost. At the review, we spend ten minutes on the api doc sync. I compare my notes about the version selector with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "A live red-green dance gets actual applause from engineers. Meeting rehearsal: Leo opens, \"I pause and take notes.\" I respond, \"Audio books on walks.\" and Leo confirms, \"Keep practising, it is working.\" The guide now has a short section on the interaction delay. I connect the layout stability to the ticket so nothing gets lost. At the review, we spend ten minutes on the api doc sync. I compare my notes about the version selector with Priya's. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一场现场红绿之舞真的赢得了工程师们的掌声。白板练习：Leo给出：\"我暂停记笔记。\"我补充：\"散步时听有声书。\"然后Leo总结：\"继续练，有效果了。\"指南里现在有关于交互延迟的简短章节。我把关于布局稳定性的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在接口文档同步上。今天的站会上，我提到版本选择器和接下来的安排。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "一场现场红绿之舞真的赢得了工程师们的掌声。会议彩排：Leo开场：\"我暂停记笔记。\"我回应：\"散步时听有声书。\"Leo确认道：\"继续练，有效果了。\"指南里现在有关于交互延迟的简短章节。我把布局稳定性关联到工单上，免得遗漏。评审时，我们花了十分钟在接口文档同步上。我把关于版本选择器的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "interaction delay",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the doc feedback button. While the details are fresh, I write down the docs health dashboard. The guide now has a short section on the accessibility audit. I compare my notes about the browser matrix with Priya's. Pair run: Priya starts, \"My queue, my mood.\" I follow, \"Silence between episodes.\" and Priya replies, \"Good point — use it in the standup.\" Teaching a thing proves you own it.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the doc feedback button. While the details are fresh, I write down the docs health dashboard. The guide now has a short section on the accessibility audit. I compare my notes about the browser matrix with Priya's. Pair run: Priya starts, \"My queue, my mood.\" I follow, \"Silence between episodes.\" and Priya replies, \"Good point — use it in the standup.\" Teaching a thing proves you own it.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the doc feedback button. In today's standup, I mention the docs health dashboard and what comes next. Priya suggests a cleaner way to think about the accessibility audit. We agree to give the browser matrix one more careful look this week. Whiteboard practice: Priya offers, \"My queue, my mood.\" I add, \"Silence between episodes.\" then Priya sums up, \"Good point — use it in the standup.\" Teaching a thing proves you own it.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the doc feedback button. In today's standup, I mention the docs health dashboard and what comes next. Priya suggests a cleaner way to think about the accessibility audit. We agree to give the browser matrix one more careful look this week. Whiteboard practice: Priya offers, \"My queue, my mood.\" I add, \"Silence between episodes.\" then Priya sums up, \"Good point — use it in the standup.\" Teaching a thing proves you own it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的文档反馈按钮思考方式。趁细节还新鲜，我把文档健康面板写了下来。指南里现在有关于无障碍审计的简短章节。我把关于浏览器矩阵的笔记和 Priya 的对照了一下。结对演练：Priya起头：\"播放队列随心情。\"我跟上：\"节目之间留白。\"Priya回应：\"说得好——站会上就用它。\"能教别人，才算真正拥有。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把文档反馈按钮写了下来。今天的站会上，我提到文档健康面板和接下来的安排。Priya 提出了一个更清晰的无障碍审计思考方式。我们说好这周再把浏览器矩阵仔细看一次。白板练习：Priya给出：\"播放队列随心情。\"我补充：\"节目之间留白。\"然后Priya总结：\"说得好——站会上就用它。\"能教别人，才算真正拥有。",
    "hard": [
     {
      "w": "accessibility audit",

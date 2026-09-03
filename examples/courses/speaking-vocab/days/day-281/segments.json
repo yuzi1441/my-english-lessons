@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 318,
+   "word_count": 320,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Launch minus five days: I answer every single email. Our mentor walks me through how the self serve onboarding flow evolved on this team. Before deciding, I reread my notes about the knowledge base for users twice. I prepare a one-page brief about the self serve coverage audit so meetings start from facts. The team names one clear owner for the docs search relevance tune. Dry run: Leo opens, \"The gym app knows my rest days.\" I follow, \"Upgrade offers after wins.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Launch minus five days: I answer every single email. Our mentor walks me through how the self serve onboarding flow evolved on this team. Before deciding, I reread my notes about the knowledge base for users twice. I prepare a one-page brief about the self serve coverage audit so meetings start from facts. The team names one clear owner for the docs search relevance tune. Dry run: Leo opens, \"The gym app knows my rest days.\" I follow, \"Upgrade offers after wins.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Launch minus five days: I answer every single email. We spend the first ten minutes of the review on the self serve onboarding flow. I compare two views on the knowledge base for users and write both down honestly. The team names one clear owner for the self serve coverage audit. Our mentor walks me through how the docs search relevance tune evolved on this team. Review warm-up: Leo raises, \"The gym app knows my rest days.\" I answer, \"Upgrade offers after wins.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Launch minus five days: I answer every single email. We spend the first ten minutes of the review on the self serve onboarding flow. I compare two views on the knowledge base for users and write both down honestly. The team names one clear owner for the self serve coverage audit. Our mentor walks me through how the docs search relevance tune evolved on this team. Review warm-up: Leo raises, \"The gym app knows my rest days.\" I answer, \"Upgrade offers after wins.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "发布前五天：我回复了每一封邮件。导师带我梳理了自助引导流程在这个团队里的演变。做决定之前，我把关于用户知识库的笔记重读了两遍。我准备了一页关于自助覆盖审计的简报，好让会议从事实出发。团队为文档搜索相关性调优指定了明确的负责人。干跑演练：Leo开场：\"健身应用懂我的休息日。\"我接上：\"有了进步才推升级。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "发布前五天：我回复了每一封邮件。评审的前十分钟，我们都用在了自助引导流程上。我比较了关于用户知识库的两种观点，诚实地都记了下来。团队为自助覆盖审计指定了明确的负责人。导师带我梳理了文档搜索相关性调优在这个团队里的演变。评审热身：Leo抛出：\"健身应用懂我的休息日。\"我带着数字回答：\"有了进步才推升级。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "self serve onboarding flow",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Twenty three replies teach me the ten sentences users actually need. Practice debate: Leo argues, \"Pause membership, no guilt.\" I respond calmly, \"Cancel flow without tricks.\" and Leo concedes, \"That is the level we need.\" Before deciding, I reread my notes about the in app help search twice. I prepare a one-page brief about the churn prevention triggers so meetings start from facts. The team names one clear owner for the onboarding video script. I compare two views on the automation of common asks and write both down honestly. We end the week with something shipped and something properly learned this time.",
-   "tts": "Twenty three replies teach me the ten sentences users actually need. Practice debate: Leo argues, \"Pause membership, no guilt.\" I respond calmly, \"Cancel flow without tricks.\" and Leo concedes, \"That is the level we need.\" Before deciding, I reread my notes about the in app help search twice. I prepare a one-page brief about the churn prevention triggers so meetings start from facts. The team names one clear owner for the onboarding video script. I compare two views on the automation of common asks and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "en": "Twenty three replies teach me the ten sentences users actually need. Dry run: Leo opens, \"Pause membership, no guilt.\" I follow, \"Cancel flow without tricks.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Before deciding, I reread my notes about the in app help search twice. During the design review, I raise one careful question about the churn prevention triggers. I prepare a one-page brief about the onboarding video script so meetings start from facts. I add the automation of common asks to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "Twenty three replies teach me the ten sentences users actually need. Dry run: Leo opens, \"Pause membership, no guilt.\" I follow, \"Cancel flow without tricks.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Before deciding, I reread my notes about the in app help search twice. During the design review, I raise one careful question about the churn prevention triggers. I prepare a one-page brief about the onboarding video script so meetings start from facts. I add the automation of common asks to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "二十三封回信教会我用户真正需要的十句话。练习辩论：Leo主张：\"暂停会籍\"我平静地回应：\"取消流程不设迷宫。\"Leo承认道：\"我们要的就是这个水平。\"做决定之前，我把关于应用内帮助搜索的笔记重读了两遍。我准备了一页关于流失预防触发器的简报，好让会议从事实出发。团队为引导视频脚本指定了明确的负责人。我比较了关于常见请求自动化的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "二十三封回信教会我用户真正需要的十句话。干跑演练：Leo开场：\"暂停会籍\"我接上：\"取消流程不设迷宫。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"做决定之前，我把关于应用内帮助搜索的笔记重读了两遍。设计评审中，我就流失预防触发器提出了一个审慎的问题。我准备了一页关于引导视频脚本的简报，好让会议从事实出发。我把常见请求自动化连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "in app help search",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the user journey friction map. Our mentor walks me through how the self service success metric evolved on this team. Before deciding, I reread my notes about the upgrade path clarity twice. I prepare a one-page brief about the data portability promise so meetings start from facts. Review warm-up: Priya raises, \"Comeback emails feel human.\" I answer, \"Loyalty is earned monthly.\" and Priya grades it, \"Strong answer — keep that precision.\" Support before launch is user research in disguise.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the user journey friction map. Our mentor walks me through how the self service success metric evolved on this team. Before deciding, I reread my notes about the upgrade path clarity twice. I prepare a one-page brief about the data portability promise so meetings start from facts. Review warm-up: Priya raises, \"Comeback emails feel human.\" I answer, \"Loyalty is earned monthly.\" and Priya grades it, \"Strong answer — keep that precision.\" Support before launch is user research in disguise.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the user journey friction map. I compare two views on the self service success metric and write both down honestly. The team names one clear owner for the upgrade path clarity. Our mentor walks me through how the data portability promise evolved on this team. Practice debate: Priya argues, \"Comeback emails feel human.\" I respond calmly, \"Loyalty is earned monthly.\" and Priya concedes, \"Strong answer — keep that precision.\" Support before launch is user research in disguise.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the user journey friction map. I compare two views on the self service success metric and write both down honestly. The team names one clear owner for the upgrade path clarity. Our mentor walks me through how the data portability promise evolved on this team. Practice debate: Priya argues, \"Comeback emails feel human.\" I respond calmly, \"Loyalty is earned monthly.\" and Priya concedes, \"Strong answer — keep that precision.\" Support before launch is user research in disguise.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就用户旅程摩擦地图提出了一个审慎的问题。导师带我梳理了自助成功率指标在这个团队里的演变。做决定之前，我把关于升级路径清晰度的笔记重读了两遍。我准备了一页关于数据可携承诺的简报，好让会议从事实出发。评审热身：Priya抛出：\"回归邮件有人味。\"我带着数字回答：\"忠诚按月挣得。\"Priya点评道：\"回答有力——保持这种精确。\"发布前的支持，是伪装成客服的用户调研。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了用户旅程摩擦地图上。我比较了关于自助成功率指标的两种观点，诚实地都记了下来。团队为升级路径清晰度指定了明确的负责人。导师带我梳理了数据可携承诺在这个团队里的演变。练习辩论：Priya主张：\"回归邮件有人味。\"我平静地回应：\"忠诚按月挣得。\"Priya承认道：\"回答有力——保持这种精确。\"发布前的支持，是伪装成客服的用户调研。",
    "hard": [
     {
      "w": "upgrade path clarity",

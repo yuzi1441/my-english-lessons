@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 285,
+   "word_count": 278,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria teaches me my first SELECT, slow as tea. In today's standup, I mention the data cleaning and what comes next. We agree to give the missing value one more careful look this week. I connect the metric dictionary to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the unique visitors. Meeting rehearsal: Leo opens, \"The receipt tells a story.\" I respond, \"Snacks sneak in.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Maria teaches me my first SELECT, slow as tea. In today's standup, I mention the data cleaning and what comes next. We agree to give the missing value one more careful look this week. I connect the metric dictionary to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the unique visitors. Meeting rehearsal: Leo opens, \"The receipt tells a story.\" I respond, \"Snacks sneak in.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Maria teaches me my first SELECT, slow as tea. Priya suggests a cleaner way to think about the data cleaning. In today's standup, I mention the missing value and what comes next. The guide now has a short section on the metric dictionary. While the details are fresh, I write down the unique visitors. Meeting rehearsal: Leo opens, \"The receipt tells a story.\" I respond, \"Snacks sneak in.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Maria teaches me my first SELECT, slow as tea. Priya suggests a cleaner way to think about the data cleaning. In today's standup, I mention the missing value and what comes next. The guide now has a short section on the metric dictionary. While the details are fresh, I write down the unique visitors. Meeting rehearsal: Leo opens, \"The receipt tells a story.\" I respond, \"Snacks sneak in.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 教我第一条 SELECT，慢得像泡茶。今天的站会上，我提到数据清洗和接下来的安排。我们说好这周再把缺失值仔细看一次。我把指标字典关联到工单上，免得遗漏。Priya 提出了一个更清晰的独立访客思考方式。会议彩排：Leo开场：\"小票会讲故事。\"我回应：\"零食总是混进来。\"Leo确认道：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "Maria 教我第一条 SELECT，慢得像泡茶。Priya 提出了一个更清晰的数据清洗思考方式。今天的站会上，我提到缺失值和接下来的安排。指南里现在有关于指标字典的简短章节。趁细节还新鲜，我把独立访客写了下来。会议彩排：Leo开场：\"小票会讲故事。\"我回应：\"零食总是混进来。\"Leo确认道：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "data cleaning",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "WHERE filters, GROUP BY gathers, and suddenly the table talks. Whiteboard practice: Leo offers, \"Unit price comparison wins.\" I add, \"Membership saves real money.\" then Leo sums up, \"Keep practising, it is working.\" We agree to give the outlier one more careful look this week. I connect the deduplication rule to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the activation rate. While the details are fresh, I write down the churn definition. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "WHERE filters, GROUP BY gathers, and suddenly the table talks. Whiteboard practice: Leo offers, \"Unit price comparison wins.\" I add, \"Membership saves real money.\" then Leo sums up, \"Keep practising, it is working.\" We agree to give the outlier one more careful look this week. I connect the deduplication rule to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the activation rate. While the details are fresh, I write down the churn definition. I close the ticket with a clear result and one lesson for next time.",
+   "en": "WHERE filters, GROUP BY gathers, and suddenly the table talks. Drill without notes: Leo asks, \"Unit price comparison wins.\" I answer, \"Membership saves real money.\" and Leo closes, \"Keep practising, it is working.\" I compare my notes about the outlier with Priya's. We agree to give the deduplication rule one more careful look this week. I connect the activation rate to the ticket so nothing gets lost. At the review, we spend ten minutes on the churn definition. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "WHERE filters, GROUP BY gathers, and suddenly the table talks. Drill without notes: Leo asks, \"Unit price comparison wins.\" I answer, \"Membership saves real money.\" and Leo closes, \"Keep practising, it is working.\" I compare my notes about the outlier with Priya's. We agree to give the deduplication rule one more careful look this week. I connect the activation rate to the ticket so nothing gets lost. At the review, we spend ten minutes on the churn definition. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "WHERE 过滤，GROUP BY 归组，表格突然会说话了。白板练习：Leo给出：\"看单价才不会输。\"我补充：\"会员卡是真省钱。\"然后Leo总结：\"继续练，有效果了。\"我们说好这周再把离群点仔细看一次。我把去重规则关联到工单上，免得遗漏。Priya 提出了一个更清晰的激活率思考方式。趁细节还新鲜，我把流失定义写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "WHERE 过滤，GROUP BY 归组，表格突然会说话了。脱稿演练：Leo问：\"看单价才不会输。\"我回答：\"会员卡是真省钱。\"Leo收束：\"继续练，有效果了。\"我把关于离群点的笔记和 Priya 的对照了一下。我们说好这周再把去重规则仔细看一次。我把激活率关联到工单上，免得遗漏。评审时，我们花了十分钟在流失定义上。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "outlier",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the metric owner row. In today's standup, I mention the deprecated metric tag and what comes next. We agree to give the type coercion one more careful look this week. I connect the null handling to the ticket so nothing gets lost. Pair run: Priya starts, \"Bulk is not always cheaper.\" I follow, \"Budget check, no guilt.\" and Priya replies, \"Good point — use it in the standup.\" My first query returns forty rows and one goosebump.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the metric owner row. In today's standup, I mention the deprecated metric tag and what comes next. We agree to give the type coercion one more careful look this week. I connect the null handling to the ticket so nothing gets lost. Pair run: Priya starts, \"Bulk is not always cheaper.\" I follow, \"Budget check, no guilt.\" and Priya replies, \"Good point — use it in the standup.\" My first query returns forty rows and one goosebump.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the metric owner row. In today's standup, I mention the deprecated metric tag and what comes next. The guide now has a short section on the type coercion. While the details are fresh, I write down the null handling. Pair run: Priya starts, \"Bulk is not always cheaper.\" I follow, \"Budget check, no guilt.\" and Priya replies, \"Good point — use it in the standup.\" My first query returns forty rows and one goosebump.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the metric owner row. In today's standup, I mention the deprecated metric tag and what comes next. The guide now has a short section on the type coercion. While the details are fresh, I write down the null handling. Pair run: Priya starts, \"Bulk is not always cheaper.\" I follow, \"Budget check, no guilt.\" and Priya replies, \"Good point — use it in the standup.\" My first query returns forty rows and one goosebump.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在指标责任人上。今天的站会上，我提到废弃指标标记和接下来的安排。我们说好这周再把类型强转仔细看一次。我把空值处理关联到工单上，免得遗漏。结对演练：Priya起头：\"大包装不一定划算。\"我跟上：\"对账不内疚。\"Priya回应：\"说得好——站会上就用它。\"我的第一条查询返回四十行，和一个鸡皮疙瘩。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的指标责任人思考方式。今天的站会上，我提到废弃指标标记和接下来的安排。指南里现在有关于类型强转的简短章节。趁细节还新鲜，我把空值处理写了下来。结对演练：Priya起头：\"大包装不一定划算。\"我跟上：\"对账不内疚。\"Priya回应：\"说得好——站会上就用它。\"我的第一条查询返回四十行，和一个鸡皮疙瘩。",
    "hard": [
     {
      "w": "type coercion",

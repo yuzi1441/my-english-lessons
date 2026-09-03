@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 301,
+   "word_count": 294,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Quarter end: zero AI related incidents. At the review, we spend ten minutes on the drift prediction before merge. In today's standup, I mention the config lint in pipeline and what comes next. We agree to give the infra diagram as code one more careful look this week. I connect the runbook link on every alert to the ticket so nothing gets lost. Pair run: Priya starts, \"The robot vacuum's territory wars.\" I follow, \"Smart plug for the heater.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Quarter end: zero A I related incidents. At the review, we spend ten minutes on the drift prediction before merge. In today's standup, I mention the config lint in pipeline and what comes next. We agree to give the infra diagram as code one more careful look this week. I connect the runbook link on every alert to the ticket so nothing gets lost. Pair run: Priya starts, \"The robot vacuum's territory wars.\" I follow, \"Smart plug for the heater.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "Quarter end: zero AI related incidents. I compare my notes about the drift prediction before merge with Priya's. The guide now has a short section on the config lint in pipeline. While the details are fresh, I write down the infra diagram as code. I connect the runbook link on every alert to the ticket so nothing gets lost. Meeting rehearsal: Priya opens, \"The robot vacuum's territory wars.\" I respond, \"Smart plug for the heater.\" and Priya confirms, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Quarter end: zero A I related incidents. I compare my notes about the drift prediction before merge with Priya's. The guide now has a short section on the config lint in pipeline. While the details are fresh, I write down the infra diagram as code. I connect the runbook link on every alert to the ticket so nothing gets lost. Meeting rehearsal: Priya opens, \"The robot vacuum's territory wars.\" I respond, \"Smart plug for the heater.\" and Priya confirms, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "季度末：零起 AI 相关事故。评审时，我们花了十分钟在合并前漂移预测上。今天的站会上，我提到配置检查进流水线和接下来的安排。我们说好这周再把基础设施图即代码仔细看一次。我把每条告警带手册链接关联到工单上，免得遗漏。结对演练：Priya起头：\"扫地机器人的领地战争。\"我跟上：\"电暖器的智能插座。\"Priya回应：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "季度末：零起 AI 相关事故。我把关于合并前漂移预测的笔记和 Priya 的对照了一下。指南里现在有关于配置检查进流水线的简短章节。趁细节还新鲜，我把基础设施图即代码写了下来。我把每条告警带手册链接关联到工单上，免得遗漏。会议彩排：Priya开场：\"扫地机器人的领地战争。\"我回应：\"电暖器的智能插座。\"Priya确认道：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "drift prediction before merge",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Not because the tools were magic, but because the guardrails were boring and always on. Meeting rehearsal: Priya opens, \"Laundry machine notifications.\" I respond, \"Automate the boring thirds.\" and Priya confirms, \"Good point — use it in the standup.\" In today's standup, I mention the orphan resource detector and what comes next. We agree to give the cost root cause hint one more careful look this week. I connect the environment readme to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the iac style guide. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Not because the tools were magic, but because the guardrails were boring and always on. Meeting rehearsal: Priya opens, \"Laundry machine notifications.\" I respond, \"Automate the boring thirds.\" and Priya confirms, \"Good point — use it in the standup.\" In today's standup, I mention the orphan resource detector and what comes next. We agree to give the cost root cause hint one more careful look this week. I connect the environment readme to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the iac style guide. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Not because the tools were magic, but because the guardrails were boring and always on. Pair run: Priya starts, \"Laundry machine notifications.\" I follow, \"Automate the boring thirds.\" and Priya replies, \"Good point — use it in the standup.\" In today's standup, I mention the orphan resource detector and what comes next. We agree to give the cost root cause hint one more careful look this week. Priya suggests a cleaner way to think about the environment readme. At the review, we spend ten minutes on the iac style guide. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Not because the tools were magic, but because the guardrails were boring and always on. Pair run: Priya starts, \"Laundry machine notifications.\" I follow, \"Automate the boring thirds.\" and Priya replies, \"Good point — use it in the standup.\" In today's standup, I mention the orphan resource detector and what comes next. We agree to give the cost root cause hint one more careful look this week. Priya suggests a cleaner way to think about the environment readme. At the review, we spend ten minutes on the iac style guide. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "不是因为工具有魔力，而是护栏无聊且常开。会议彩排：Priya开场：\"洗衣机完工通知。\"我回应：\"自动化无聊的三分之一。\"Priya确认道：\"说得好——站会上就用它。\"今天的站会上，我提到孤儿资源检测器和接下来的安排。我们说好这周再把成本异动根因提示仔细看一次。我把环境 README关联到工单上，免得遗漏。Priya 提出了一个更清晰的IaC 风格指南思考方式。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "不是因为工具有魔力，而是护栏无聊且常开。结对演练：Priya起头：\"洗衣机完工通知。\"我跟上：\"自动化无聊的三分之一。\"Priya回应：\"说得好——站会上就用它。\"今天的站会上，我提到孤儿资源检测器和接下来的安排。我们说好这周再把成本异动根因提示仔细看一次。Priya 提出了一个更清晰的环境 README思考方式。评审时，我们花了十分钟在IaC 风格指南上。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "orphan resource detector",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the resource tagging discipline with Priya's. At the review, we spend ten minutes on the weekly drift report. In today's standup, I mention the environment scheduler and what comes next. We agree to give the golden image refresh one more careful look this week. Drill without notes: Maria asks, \"The off switch ritual.\" I answer, \"Machines help, humans host.\" and Maria closes, \"Exactly, and it saves time too.\" Boring is the highest compliment for safety.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the resource tagging discipline with Priya's. At the review, we spend ten minutes on the weekly drift report. In today's standup, I mention the environment scheduler and what comes next. We agree to give the golden image refresh one more careful look this week. Drill without notes: Maria asks, \"The off switch ritual.\" I answer, \"Machines help, humans host.\" and Maria closes, \"Exactly, and it saves time too.\" Boring is the highest compliment for safety.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the resource tagging discipline with Priya's. The guide now has a short section on the weekly drift report. While the details are fresh, I write down the environment scheduler. I connect the golden image refresh to the ticket so nothing gets lost. Whiteboard practice: Maria offers, \"The off switch ritual.\" I add, \"Machines help, humans host.\" then Maria sums up, \"Exactly, and it saves time too.\" Boring is the highest compliment for safety.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the resource tagging discipline with Priya's. The guide now has a short section on the weekly drift report. While the details are fresh, I write down the environment scheduler. I connect the golden image refresh to the ticket so nothing gets lost. Whiteboard practice: Maria offers, \"The off switch ritual.\" I add, \"Machines help, humans host.\" then Maria sums up, \"Exactly, and it saves time too.\" Boring is the highest compliment for safety.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于资源打标纪律的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在漂移周报上。今天的站会上，我提到测试环境排程器和接下来的安排。我们说好这周再把黄金镜像刷新自动化仔细看一次。脱稿演练：Maria问：\"总开关的仪式感。\"我回答：\"机器帮忙\"Maria收束：\"正是，而且还省时间。\"对安全来说，无聊是最高的赞美。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于资源打标纪律的笔记和 Priya 的对照了一下。指南里现在有关于漂移周报的简短章节。趁细节还新鲜，我把测试环境排程器写了下来。我把黄金镜像刷新自动化关联到工单上，免得遗漏。白板练习：Maria给出：\"总开关的仪式感。\"我补充：\"机器帮忙\"然后Maria总结：\"正是，而且还省时间。\"对安全来说，无聊是最高的赞美。",
    "hard": [
     {
      "w": "environment scheduler",

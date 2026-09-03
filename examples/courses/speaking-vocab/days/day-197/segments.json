@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 284,
+   "word_count": 288,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We practice turning everything off in one click. The guide now has a short section on the eval review rotation. I compare my notes about the gold set refresh schedule with Priya's. At the review, we spend ten minutes on the prompt peer review. In today's standup, I mention the prompt regression test and what comes next. Whiteboard practice: Leo offers, \"The five star inflation.\" I add, \"Helpful votes steer right.\" then Leo sums up, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "We practice turning everything off in one click. The guide now has a short section on the eval review rotation. I compare my notes about the gold set refresh schedule with Priya's. At the review, we spend ten minutes on the prompt peer review. In today's standup, I mention the prompt regression test and what comes next. Whiteboard practice: Leo offers, \"The five star inflation.\" I add, \"Helpful votes steer right.\" then Leo sums up, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "We practice turning everything off in one click. The guide now has a short section on the eval review rotation. Priya suggests a cleaner way to think about the gold set refresh schedule. We agree to give the prompt peer review one more careful look this week. In today's standup, I mention the prompt regression test and what comes next. Meeting rehearsal: Leo opens, \"The five star inflation.\" I respond, \"Helpful votes steer right.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We practice turning everything off in one click. The guide now has a short section on the eval review rotation. Priya suggests a cleaner way to think about the gold set refresh schedule. We agree to give the prompt peer review one more careful look this week. In today's standup, I mention the prompt regression test and what comes next. Meeting rehearsal: Leo opens, \"The five star inflation.\" I respond, \"Helpful votes steer right.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们演练一键关停所有 AI 功能。指南里现在有关于评测轮值评审的简短章节。我把关于黄金集刷新排期的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在提示词同行评审上。今天的站会上，我提到提示回归测试和接下来的安排。白板练习：Leo给出：\"五星通胀。\"我补充：\"有用票指路。\"然后Leo总结：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我们演练一键关停所有 AI 功能。指南里现在有关于评测轮值评审的简短章节。Priya 提出了一个更清晰的黄金集刷新排期思考方式。我们说好这周再把提示词同行评审仔细看一次。今天的站会上，我提到提示回归测试和接下来的安排。会议彩排：Leo开场：\"五星通胀。\"我回应：\"有用票指路。\"Leo确认道：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "eval review rotation",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Forty seconds, feature flags down, users see a graceful empty state. Drill without notes: Leo asks, \"Reading three star reviews.\" I answer, \"Photos in reviews, gold.\" and Leo closes, \"Keep practising, it is working.\" I compare my notes about the case of the week discussion with Priya's. At the review, we spend ten minutes on the quality regression postmortem. In today's standup, I mention the a b test for prompts and what comes next. We agree to give the prompt changelog one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Forty seconds, feature flags down, users see a graceful empty state. Drill without notes: Leo asks, \"Reading three star reviews.\" I answer, \"Photos in reviews, gold.\" and Leo closes, \"Keep practising, it is working.\" I compare my notes about the case of the week discussion with Priya's. At the review, we spend ten minutes on the quality regression postmortem. In today's standup, I mention the a b test for prompts and what comes next. We agree to give the prompt changelog one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Forty seconds, feature flags down, users see a graceful empty state. Whiteboard practice: Leo offers, \"Reading three star reviews.\" I add, \"Photos in reviews, gold.\" then Leo sums up, \"Keep practising, it is working.\" At the review, we spend ten minutes on the case of the week discussion. I connect the quality regression postmortem to the ticket so nothing gets lost. While the details are fresh, I write down the a b test for prompts. I compare my notes about the prompt changelog with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Forty seconds, feature flags down, users see a graceful empty state. Whiteboard practice: Leo offers, \"Reading three star reviews.\" I add, \"Photos in reviews, gold.\" then Leo sums up, \"Keep practising, it is working.\" At the review, we spend ten minutes on the case of the week discussion. I connect the quality regression postmortem to the ticket so nothing gets lost. While the details are fresh, I write down the a b test for prompts. I compare my notes about the prompt changelog with Priya's. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "四十秒，开关全落，用户看到的是优雅的空白态。脱稿演练：Leo问：\"读三星评价的艺术。\"我回答：\"带图评价是金子。\"Leo收束：\"继续练，有效果了。\"我把关于本周案例讨论的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在质量回归复盘上。今天的站会上，我提到提示 A/B 测试和接下来的安排。我们说好这周再把提示变更日志仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "四十秒，开关全落，用户看到的是优雅的空白态。白板练习：Leo给出：\"读三星评价的艺术。\"我补充：\"带图评价是金子。\"然后Leo总结：\"继续练，有效果了。\"评审时，我们花了十分钟在本周案例讨论上。我把质量回归复盘关联到工单上，免得遗漏。趁细节还新鲜，我把提示 A/B 测试写了下来。我把关于提示变更日志的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "case of the week discussion",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the rollback a prompt. The guide now has a short section on the ownership per prompt. I compare my notes about the usefulness metric with Priya's. At the review, we spend ten minutes on the benchmark humility. Meeting rehearsal: Priya opens, \"Rating the raters.\" I respond, \"Trust is rebuilt slowly.\" and Priya confirms, \"Good point — use it in the standup.\" Confidence comes from knowing the exit.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the rollback a prompt. The guide now has a short section on the ownership per prompt. I compare my notes about the usefulness metric with Priya's. At the review, we spend ten minutes on the benchmark humility. Meeting rehearsal: Priya opens, \"Rating the raters.\" I respond, \"Trust is rebuilt slowly.\" and Priya confirms, \"Good point — use it in the standup.\" Confidence comes from knowing the exit.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the rollback a prompt. Priya suggests a cleaner way to think about the ownership per prompt. We agree to give the usefulness metric one more careful look this week. In today's standup, I mention the benchmark humility and what comes next. Pair run: Priya starts, \"Rating the raters.\" I follow, \"Trust is rebuilt slowly.\" and Priya replies, \"Good point — use it in the standup.\" Confidence comes from knowing the exit.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the rollback a prompt. Priya suggests a cleaner way to think about the ownership per prompt. We agree to give the usefulness metric one more careful look this week. In today's standup, I mention the benchmark humility and what comes next. Pair run: Priya starts, \"Rating the raters.\" I follow, \"Trust is rebuilt slowly.\" and Priya replies, \"Good point — use it in the standup.\" Confidence comes from knowing the exit.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把回滚一个提示写了下来。指南里现在有关于每个提示有主的简短章节。我把关于有用的指标的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在基准谦逊上。会议彩排：Priya开场：\"给评分系统打分。\"我回应：\"信任重建得很慢。\"Priya确认道：\"说得好——站会上就用它。\"自信来自知道出口在哪。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于回滚一个提示的简短章节。Priya 提出了一个更清晰的每个提示有主思考方式。我们说好这周再把有用的指标仔细看一次。今天的站会上，我提到基准谦逊和接下来的安排。结对演练：Priya起头：\"给评分系统打分。\"我跟上：\"信任重建得很慢。\"Priya回应：\"说得好——站会上就用它。\"自信来自知道出口在哪。",
    "hard": [
     {
      "w": "usefulness metric",

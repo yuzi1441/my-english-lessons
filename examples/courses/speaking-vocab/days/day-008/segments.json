@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 184,
+   "word_count": 244,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Week two starts. My pull request has comments. Now I understand the memory. I write a short note about the RAM. I ask one question about the code review. Leo tells me a story about the review comment. Leo says, \"Can you hear me?\" so I answer, \"Your voice is breaking up.\" The day is busy, but I learn a lot.",
-   "tts": "Week two starts. My pull request has comments. Now I understand the memory. I write a short note about the ram. I ask one question about the code review. Leo tells me a story about the review comment. Leo says, \"Can you hear me?\" so I answer, \"Your voice is breaking up.\" The day is busy, but I learn a lot.",
+   "en": "Week two starts. My pull request has comments. After a short break, Now I understand the memory. Maria explains the RAM to me. Leo shows me an example of the code review. After that, I hear the review comment in the meeting and write it down. Then Maria asks, \"Can you hear me?\" I think for a second, then answer. Then Priya says, \"Your voice is breaking up.\" I answer as best I can. The day is busy, but I learn a lot.",
+   "tts": "Week two starts. My pull request has comments. After a short break, Now I understand the memory. Maria explains the ram to me. Leo shows me an example of the code review. After that, I hear the review comment in the meeting and write it down. Then Maria asks, \"Can you hear me?\" I think for a second, then answer. Then Priya says, \"Your voice is breaking up.\" I answer as best I can. The day is busy, but I learn a lot.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第二周开始了。我的拉取请求收到了评论。现在我理解了内存。我给随机存取存储器写了一条简短的笔记。我问了一个关于代码评审的问题。Leo 给我讲了一个关于评审评论的小故事。Leo说：\"你能听见我吗？\"于是我回答：\"你的声音断断续续。\"这天很忙，但我学到了很多。",
+   "zh": "第二周开始了。我的拉取请求收到了评论。稍作休息后，现在我理解了内存。Maria 给我讲解随机存取存储器。Leo 给我看了一个代码评审的例子。在那之后，我在会上听到评审评论，把它记了下来。接着Maria问：\"你能听见我吗？\"我想了一下，然后回答。接着Priya说：\"你的声音断断续续。\"我尽力回答。这天很忙，但我学到了很多。",
    "hard": [
     {
      "w": "memory",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I call a teammate on video. The connection is bad, but we talk. Leo says, \"The connection is unstable.\" so I answer, \"Could you turn on your camera?\" I learn about the storage because it is useful. Now I understand the disk space. I approve changes carefully. Leo shows me how to request changes. I understand a little more than yesterday.",
-   "tts": "I call a teammate on video. The connection is bad, but we talk. Leo says, \"The connection is unstable.\" so I answer, \"Could you turn on your camera?\" I learn about the storage because it is useful. Now I understand the disk space. I approve changes carefully. Leo shows me how to request changes. I understand a little more than yesterday.",
+   "en": "I call a teammate on video. The connection is bad, but we talk. Then Maria says, \"The connection is unstable.\" I think for a second, then answer. Then Priya asks, \"Could you turn on your camera?\" I answer as best I can. I learn about the storage because it is useful. After a short break, I ask one question about the disk space. I need to approve changes before lunch. I request changes carefully. I understand a little more than yesterday.",
+   "tts": "I call a teammate on video. The connection is bad, but we talk. Then Maria says, \"The connection is unstable.\" I think for a second, then answer. Then Priya asks, \"Could you turn on your camera?\" I answer as best I can. I learn about the storage because it is useful. After a short break, I ask one question about the disk space. I need to approve changes before lunch. I request changes carefully. I understand a little more than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我和一位队友视频通话。连接不好，但我们聊了很久。Leo说：\"连接不稳定。\"于是我回答：\"你可以打开摄像头吗？\"我学习存储空间，因为它很有用。现在我理解了磁盘空间。我认真地批准改动。Leo 教我怎样要求修改。我比昨天多懂了一点。",
+   "zh": "我和一位队友视频通话。连接不好，但我们聊了很久。接着Maria说：\"连接不稳定。\"我想了一下，然后回答。接着Priya问：\"你可以打开摄像头吗？\"我尽力回答。我学习存储空间，因为它很有用。稍作休息后，我问了一个关于磁盘空间的问题。午饭前，我需要批准改动。我认真地要求修改。我比昨天多懂了一点。",
    "hard": [
     {
      "w": "storage",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. I leave a comment carefully. Leo shows me how to resolve a conversation. I save to disk one small step at a time. Today I free up space for the first time. First Priya says, \"You're on mute.\" then I reply, \"I'll call you back.\" The comments are kind. I know what to fix.",
-   "tts": "Before I leave, I finish one last task. I leave a comment carefully. Leo shows me how to resolve a conversation. I save to disk one small step at a time. Today I free up space for the first time. First Priya says, \"You're on mute.\" then I reply, \"I'll call you back.\" The comments are kind. I know what to fix.",
+   "en": "Before I leave, I finish one last task. I leave a comment, and Maria checks it. Leo shows me how to resolve a conversation. After that, I save to disk one small step at a time. Today I free up space for the first time. Then Leo says, \"You're on mute.\" I reply, and we keep chatting. Then Maria says, \"I'll call you back.\" I think for a second, then answer. The comments are kind. I know what to fix.",
+   "tts": "Before I leave, I finish one last task. I leave a comment, and Maria checks it. Leo shows me how to resolve a conversation. After that, I save to disk one small step at a time. Today I free up space for the first time. Then Leo says, \"You're on mute.\" I reply, and we keep chatting. Then Maria says, \"I'll call you back.\" I think for a second, then answer. The comments are kind. I know what to fix.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。我认真地留下评论。Leo 教我怎样解决对话。我一步一步地保存到磁盘。今天我第一次释放空间。先是Priya说：\"你静音了。\"然后我回答：\"我会给你回电话。\"评论很友善。我知道该改什么了。",
+   "zh": "离开前，我完成最后一项任务。我留下评论，Maria 来检查。Leo 教我怎样解决对话。在那之后，我一步一步地保存到磁盘。今天我第一次释放空间。接着Leo说：\"你静音了。\"我回答后，我们继续聊。接着Maria说：\"我会给你回电话。\"我想了一下，然后回答。评论很友善。我知道该改什么了。",
    "hard": [
     {
      "w": "save to disk",

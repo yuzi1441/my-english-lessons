@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 296,
+   "word_count": 292,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The analytics engineer gives me a tour of the warehouse. I compare my notes about the metric freshness monitor with Priya's. At the review, we spend ten minutes on the definition drift detector. In today's standup, I mention the blameless data retro and what comes next. We agree to give the correction announcement draft one more careful look this week. Drill without notes: Maria asks, \"The forecast is a hint.\" I answer, \"Umbrella in the bag, always.\" and Maria closes, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "The analytics engineer gives me a tour of the warehouse. I compare my notes about the metric freshness monitor with Priya's. At the review, we spend ten minutes on the definition drift detector. In today's standup, I mention the blameless data retro and what comes next. We agree to give the correction announcement draft one more careful look this week. Drill without notes: Maria asks, \"The forecast is a hint.\" I answer, \"Umbrella in the bag, always.\" and Maria closes, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "The analytics engineer gives me a tour of the warehouse. Priya suggests a cleaner way to think about the metric freshness monitor. The guide now has a short section on the definition drift detector. I compare my notes about the blameless data retro with Priya's. At the review, we spend ten minutes on the correction announcement draft. Whiteboard practice: Maria offers, \"The forecast is a hint.\" I add, \"Umbrella in the bag, always.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "The analytics engineer gives me a tour of the warehouse. Priya suggests a cleaner way to think about the metric freshness monitor. The guide now has a short section on the definition drift detector. I compare my notes about the blameless data retro with Priya's. At the review, we spend ten minutes on the correction announcement draft. Whiteboard practice: Maria offers, \"The forecast is a hint.\" I add, \"Umbrella in the bag, always.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "分析工程师带我在数仓里逛了一圈。我把关于指标新鲜度监控的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在口径漂移检测器上。今天的站会上，我提到无责数据复盘和接下来的安排。我们说好这周再把更正公告草稿仔细看一次。脱稿演练：Maria问：\"天气预报只是提示。\"我回答：\"包里常备伞。\"Maria收束：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "分析工程师带我在数仓里逛了一圈。Priya 提出了一个更清晰的指标新鲜度监控思考方式。指南里现在有关于口径漂移检测器的简短章节。我把关于无责数据复盘的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在更正公告草稿上。白板练习：Maria给出：\"天气预报只是提示。\"我补充：\"包里常备伞。\"然后Maria总结：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "metric freshness monitor",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Staging, marts, lineage: the plumbing has architecture and opinions. Pair run: Maria starts, \"Weather apps disagree politely.\" I follow, \"Plan B lives in my head.\" and Maria replies, \"Exactly, and it saves time too.\" At the review, we spend ten minutes on the unused metric cleanup. In today's standup, I mention the dashboard usage stats and what comes next. We agree to give the impact window estimate one more careful look this week. I connect the prevention checklist update to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Staging, marts, lineage: the plumbing has architecture and opinions. Pair run: Maria starts, \"Weather apps disagree politely.\" I follow, \"Plan B lives in my head.\" and Maria replies, \"Exactly, and it saves time too.\" At the review, we spend ten minutes on the unused metric cleanup. In today's standup, I mention the dashboard usage stats and what comes next. We agree to give the impact window estimate one more careful look this week. I connect the prevention checklist update to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Staging, marts, lineage: the plumbing has architecture and opinions. Pair run: Maria starts, \"Weather apps disagree politely.\" I follow, \"Plan B lives in my head.\" and Maria replies, \"Exactly, and it saves time too.\" While the details are fresh, I write down the unused metric cleanup. In today's standup, I mention the dashboard usage stats and what comes next. We agree to give the impact window estimate one more careful look this week. I connect the prevention checklist update to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Staging, marts, lineage: the plumbing has architecture and opinions. Pair run: Maria starts, \"Weather apps disagree politely.\" I follow, \"Plan B lives in my head.\" and Maria replies, \"Exactly, and it saves time too.\" While the details are fresh, I write down the unused metric cleanup. In today's standup, I mention the dashboard usage stats and what comes next. We agree to give the impact window estimate one more careful look this week. I connect the prevention checklist update to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "中转表、集市表、血缘图：水管也有建筑学和方法论。结对演练：Maria起头：\"天气软件礼貌地吵架。\"我跟上：\"B 计划住在脑子里。\"Maria回应：\"正是，而且还省时间。\"评审时，我们花了十分钟在无用指标清理上。今天的站会上，我提到看板使用统计和接下来的安排。我们说好这周再把影响窗口估算仔细看一次。我把预防清单更新关联到工单上，免得遗漏。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "中转表、集市表、血缘图：水管也有建筑学和方法论。结对演练：Maria起头：\"天气软件礼貌地吵架。\"我跟上：\"B 计划住在脑子里。\"Maria回应：\"正是，而且还省时间。\"趁细节还新鲜，我把无用指标清理写了下来。今天的站会上，我提到看板使用统计和接下来的安排。我们说好这周再把影响窗口估算仔细看一次。我把预防清单更新关联到工单上，免得遗漏。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "unused metric cleanup",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the dashboard trust rebuilding. I compare my notes about the lessons for the data guild with Priya's. At the review, we spend ten minutes on the orphan dashboard archive. In today's standup, I mention the metric retirement checklist and what comes next. Whiteboard practice: Leo offers, \"Rain changed the route, not the mood.\" I add, \"Seasons are the only long term forecast.\" then Leo sums up, \"Keep practising, it is working.\" Respect the plumbing; the water behaves.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the dashboard trust rebuilding. I compare my notes about the lessons for the data guild with Priya's. At the review, we spend ten minutes on the orphan dashboard archive. In today's standup, I mention the metric retirement checklist and what comes next. Whiteboard practice: Leo offers, \"Rain changed the route, not the mood.\" I add, \"Seasons are the only long term forecast.\" then Leo sums up, \"Keep practising, it is working.\" Respect the plumbing; the water behaves.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the dashboard trust rebuilding. The guide now has a short section on the lessons for the data guild. I compare my notes about the orphan dashboard archive with Priya's. At the review, we spend ten minutes on the metric retirement checklist. Drill without notes: Leo asks, \"Rain changed the route, not the mood.\" I answer, \"Seasons are the only long term forecast.\" and Leo closes, \"Keep practising, it is working.\" Respect the plumbing; the water behaves.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the dashboard trust rebuilding. The guide now has a short section on the lessons for the data guild. I compare my notes about the orphan dashboard archive with Priya's. At the review, we spend ten minutes on the metric retirement checklist. Drill without notes: Leo asks, \"Rain changed the route, not the mood.\" I answer, \"Seasons are the only long term forecast.\" and Leo closes, \"Keep practising, it is working.\" Respect the plumbing; the water behaves.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于看板信任重建的简短章节。我把关于给数据公会的教训的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在孤儿看板归档上。今天的站会上，我提到指标退休清单和接下来的安排。白板练习：Leo给出：\"雨改了路线\"我补充：\"季节才是长期预报。\"然后Leo总结：\"继续练，有效果了。\"尊重水管，水就听话。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的看板信任重建思考方式。指南里现在有关于给数据公会的教训的简短章节。我把关于孤儿看板归档的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在指标退休清单上。脱稿演练：Leo问：\"雨改了路线\"我回答：\"季节才是长期预报。\"Leo收束：\"继续练，有效果了。\"尊重水管，水就听话。",
    "hard": [
     {
      "w": "orphan dashboard archive",

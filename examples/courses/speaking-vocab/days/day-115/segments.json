@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 281,
+   "word_count": 284,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Engineers from four teams form a quality guild. I ask one good question about the blameless postmortem in the meeting. My notes about the incident review meeting look clearer this week. I spend ten quiet minutes on the quarterly quality report after the standup. Sam asks me about the top incidents recap, and I explain the basics. Warm-up round: Maria offers, \"Three lines of gratitude.\" I answer, \"Small wins count double.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "Engineers from four teams form a quality guild. I ask one good question about the blameless postmortem in the meeting. My notes about the incident review meeting look clearer this week. I spend ten quiet minutes on the quarterly quality report after the standup. Sam asks me about the top incidents recap, and I explain the basics. Warm-up round: Maria offers, \"Three lines of gratitude.\" I answer, \"Small wins count double.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "Engineers from four teams form a quality guild. I keep one real example of the blameless postmortem in my notebook. I add the incident review meeting to my study notes before I forget it. I spend ten quiet minutes on the quarterly quality report after the standup. My notes about the top incidents recap look clearer this week. Warm-up round: Maria offers, \"Three lines of gratitude.\" I answer, \"Small wins count double.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "tts": "Engineers from four teams form a quality guild. I keep one real example of the blameless postmortem in my notebook. I add the incident review meeting to my study notes before I forget it. I spend ten quiet minutes on the quarterly quality report after the standup. My notes about the top incidents recap look clearer this week. Warm-up round: Maria offers, \"Three lines of gratitude.\" I answer, \"Small wins count double.\" and Maria wraps up, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "四个团队的工程师组成了质量公会。会上关于无责复盘，我问了一个好问题。这周我关于事故评审会的笔记清楚多了。站会之后，我安安静静花了十分钟在季度质量报告上。Sam 问起重点事故回顾，我讲了讲基础。热身一轮：Maria给出：\"三行感恩日记。\"我回答：\"小胜利算双倍。\"Maria收尾道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "四个团队的工程师组成了质量公会。我在笔记本里留了一个无责复盘的真实例子。我趁还没忘，把事故评审会记进了学习笔记。站会之后，我安安静静花了十分钟在季度质量报告上。这周我关于重点事故回顾的笔记清楚多了。热身一轮：Maria给出：\"三行感恩日记。\"我回答：\"小胜利算双倍。\"Maria收尾道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "blameless postmortem",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We trade flaky war stories and fixture recipes like family dishes. We practise the dialogue: Maria opens, \"The barista's extra shot.\" I answer, \"Colleagues who cover you.\" and Maria nods, \"That is the one we need today.\" My notes about the lessons learned doc look clearer this week. I spend ten quiet minutes on the improvement tracking after the standup. Sam asks me about the test suite growth, and I explain the basics. I keep one real example of the tech quality debt in my notebook. The task moves forward, and so does my confidence.",
-   "tts": "We trade flaky war stories and fixture recipes like family dishes. We practise the dialogue: Maria opens, \"The barista's extra shot.\" I answer, \"Colleagues who cover you.\" and Maria nods, \"That is the one we need today.\" My notes about the lessons learned doc look clearer this week. I spend ten quiet minutes on the improvement tracking after the standup. Sam asks me about the test suite growth, and I explain the basics. I keep one real example of the tech quality debt in my notebook. The task moves forward, and so does my confidence.",
+   "en": "We trade flaky war stories and fixture recipes like family dishes. We practise the dialogue: Maria opens, \"The barista's extra shot.\" I answer, \"Colleagues who cover you.\" and Maria nods, \"That is the one we need today.\" There is a short paragraph about the lessons learned doc in the guide. Sam asks me about the improvement tracking, and I explain the basics. I ask one good question about the test suite growth in the meeting. I go over the tech quality debt one more time before lunch. The task moves forward, and so does my confidence.",
+   "tts": "We trade flaky war stories and fixture recipes like family dishes. We practise the dialogue: Maria opens, \"The barista's extra shot.\" I answer, \"Colleagues who cover you.\" and Maria nods, \"That is the one we need today.\" There is a short paragraph about the lessons learned doc in the guide. Sam asks me about the improvement tracking, and I explain the basics. I ask one good question about the test suite growth in the meeting. I go over the tech quality debt one more time before lunch. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们像交换家传菜谱一样交换抖动故事和夹具配方。我们练习这段对话：Maria开场：\"咖啡师多加的那份浓。\"我回答：\"替你顶住的同事。\"Maria点头说：\"今天要的就是这句。\"这周我关于经验教训文档的笔记清楚多了。站会之后，我安安静静花了十分钟在改进追踪上。Sam 问起测试套件增长，我讲了讲基础。我在笔记本里留了一个质量技术债的真实例子。任务在推进，我的信心也在成长。",
+   "zh": "我们像交换家传菜谱一样交换抖动故事和夹具配方。我们练习这段对话：Maria开场：\"咖啡师多加的那份浓。\"我回答：\"替你顶住的同事。\"Maria点头说：\"今天要的就是这句。\"指南里有一小段关于经验教训文档的介绍。Sam 问起改进追踪，我讲了讲基础。会上关于测试套件增长，我问了一个好问题。午饭前我又过了一遍质量技术债。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "lessons learned doc",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the team quality survey in the guide. I ask one good question about the quality bets for next quarter in the meeting. My notes about the near miss report look clearer this week. I spend ten quiet minutes on the safety culture after the standup. Role play with feedback: Leo says, \"Write it while warm.\" I try, \"Bad days have gold flecks.\" and Leo adds, \"Nice, keep that one handy.\" Quality travels faster in a group chat.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the team quality survey in the guide. I ask one good question about the quality bets for next quarter in the meeting. My notes about the near miss report look clearer this week. I spend ten quiet minutes on the safety culture after the standup. Role play with feedback: Leo says, \"Write it while warm.\" I try, \"Bad days have gold flecks.\" and Leo adds, \"Nice, keep that one handy.\" Quality travels faster in a group chat.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the team quality survey in my notebook. I add the quality bets for next quarter to my study notes before I forget it. I spend ten quiet minutes on the near miss report after the standup. My notes about the safety culture look clearer this week. We drill it twice: Leo starts, \"Write it while warm.\" I reply, \"Bad days have gold flecks.\" then Leo smiles, \"Nice, keep that one handy.\" Quality travels faster in a group chat.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the team quality survey in my notebook. I add the quality bets for next quarter to my study notes before I forget it. I spend ten quiet minutes on the near miss report after the standup. My notes about the safety culture look clearer this week. We drill it twice: Leo starts, \"Write it while warm.\" I reply, \"Bad days have gold flecks.\" then Leo smiles, \"Nice, keep that one handy.\" Quality travels faster in a group chat.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于团队质量调查的介绍。会上关于下季质量押注，我问了一个好问题。这周我关于未遂报告的笔记清楚多了。站会之后，我安安静静花了十分钟在安全文化上。角色扮演加反馈：Leo说：\"趁热写下来。\"我试着说：\"坏日子也有金屑。\"Leo补充道：\"不错，把这句记在手边。\"质量在群聊里跑得更快。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个团队质量调查的真实例子。我趁还没忘，把下季质量押注记进了学习笔记。站会之后，我安安静静花了十分钟在未遂报告上。这周我关于安全文化的笔记清楚多了。我们练了两遍：Leo起头：\"趁热写下来。\"我回答：\"坏日子也有金屑。\"然后Leo笑着说：\"不错，把这句记在手边。\"质量在群聊里跑得更快。",
    "hard": [
     {
      "w": "near miss report",

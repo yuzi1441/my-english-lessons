@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 229,
+   "word_count": 302,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria says, \"Docs are part of done, not homework after.\" If the user profile fails, we need a clear plan. I suggest that we check the avatar first. The result depends on the docs folder, so I check it twice. I explain the markdown preview to a new teammate. Priya checks with me, \"I've been studying English daily.\" I answer clearly, \"It's finally clicking.\" I check my notes and confirm the next step.",
-   "tts": "Maria says, \"Docs are part of done, not homework after.\" If the user profile fails, we need a clear plan. I suggest that we check the avatar first. The result depends on the docs folder, so I check it twice. I explain the markdown preview to a new teammate. Priya checks with me, \"I've been studying English daily.\" I answer clearly, \"It's finally clicking.\" I check my notes and confirm the next step.",
+   "en": "Maria says, \"Docs are part of done, not homework after.\" I suggest that we check the user profile first. I reread my notes about the avatar after lunch. After a short break, I go through the docs folder with Priya and note her advice. Before I reply, I look at the markdown preview once more. Before we move on, Leo says, \"I've been studying English daily.\" I answer, then reuse it in my update. Before we move on, Maria says, \"It's finally clicking.\" I answer, and we compare notes. I check my notes and confirm the next step.",
+   "tts": "Maria says, \"Docs are part of done, not homework after.\" I suggest that we check the user profile first. I reread my notes about the avatar after lunch. After a short break, I go through the docs folder with Priya and note her advice. Before I reply, I look at the markdown preview once more. Before we move on, Leo says, \"I've been studying English daily.\" I answer, then reuse it in my update. Before we move on, Maria says, \"It's finally clicking.\" I answer, and we compare notes. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 说：“文档是完成的一部分，不是事后的作业。”如果用户资料失败，我们需要一个清晰的方案。我建议我们先检查头像。结果取决于文档目录，所以我检查了两遍。我向一位新队友解释了Markdown 预览。Priya向我确认：\"我每天都在学英语。\"我清楚地回答：\"我终于开窍了。\"我检查笔记，确认了下一步。",
+   "zh": "Maria 说：“文档是完成的一部分，不是事后的作业。”我建议我们先检查用户资料。午饭后我重读了关于头像的笔记。稍作休息后，我和 Priya 过了一遍文档目录，记下了她的建议。回复之前，我又看了一遍Markdown 预览。继续之前，Leo说：\"我每天都在学英语。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我终于开窍了。\"我回答，我们互相对了笔记。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "user profile",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I write the docs folder entry with a short example. Priya checks with me, \"I still mix up similar words.\" I answer clearly, \"Listening is my weak spot.\" I document the display name so the team can review it later. I sign in with email and then explain the risk. I suggest that we check the docs review first. If we keep docs current, the result should be safe. The team agrees on the plan, and I record the decision.",
-   "tts": "I write the docs folder entry with a short example. Priya checks with me, \"I still mix up similar words.\" I answer clearly, \"Listening is my weak spot.\" I document the display name so the team can review it later. I sign in with email and then explain the risk. I suggest that we check the docs review first. If we keep docs current, the result should be safe. The team agrees on the plan, and I record the decision.",
+   "en": "I write the docs folder entry with a short example. Before we move on, Leo says, \"I still mix up similar words.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Listening is my weak spot.\" I answer, and we compare notes. After that, I walk a new teammate through the display name. The team agrees to sign in with email before Friday. We spend a few minutes on the docs review at the standup. After a short break, We decide to keep docs current after the review. The team agrees on the plan, and I record the decision.",
+   "tts": "I write the docs folder entry with a short example. Before we move on, Leo says, \"I still mix up similar words.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Listening is my weak spot.\" I answer, and we compare notes. After that, I walk a new teammate through the display name. The team agrees to sign in with email before Friday. We spend a few minutes on the docs review at the standup. After a short break, We decide to keep docs current after the review. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我在文档目录里写了一篇带简短示例的说明。Priya向我确认：\"我还是会混淆相近的词。\"我清楚地回答：\"听力是我的弱项。\"我把显示名称写成文档，方便团队之后查看。我邮箱登录，然后解释了风险。我建议我们先检查文档评审。如果我们保持文档更新，结果应该是安全的。团队就计划达成一致，我记录了决定。",
+   "zh": "我在文档目录里写了一篇带简短示例的说明。继续之前，Leo说：\"我还是会混淆相近的词。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"听力是我的弱项。\"我回答，我们互相对了笔记。在那之后，我带一位新队友过了一遍显示名称。团队同意在周五之前邮箱登录。站会上我们花了几分钟讨论文档评审。稍作休息后，评审之后，我们决定保持文档更新。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "display name",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I suggest that we check the doc lint first. The result depends on the readme badge, so I check it twice. I explain the password reset to a new teammate. We discuss the risk around the two-factor login. At the end of the day, Maria says, \"Practice makes progress.\" I reply, \"I review my notes at night.\" The doc answers three questions before anyone asks.",
-   "tts": "Before I leave, I write a short summary for the team. I suggest that we check the doc lint first. The result depends on the readme badge, so I check it twice. I explain the password reset to a new teammate. We discuss the risk around the two-factor login. At the end of the day, Maria says, \"Practice makes progress.\" I reply, \"I review my notes at night.\" The doc answers three questions before anyone asks.",
+   "en": "Before I leave, I write a short summary for the team. I double-check the doc lint before the review. After a short break, I keep one real example of the readme badge in my notes. During the review, I ask one question about the password reset. I add the two-factor login to my checklist for tomorrow. Before we move on, Priya says, \"Practice makes progress.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I review my notes at night.\" I answer, then reuse it in my update. The doc answers three questions before anyone asks.",
+   "tts": "Before I leave, I write a short summary for the team. I double-check the doc lint before the review. After a short break, I keep one real example of the readme badge in my notes. During the review, I ask one question about the password reset. I add the two-factor login to my checklist for tomorrow. Before we move on, Priya says, \"Practice makes progress.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I review my notes at night.\" I answer, then reuse it in my update. The doc answers three questions before anyone asks.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我建议我们先检查文档检查。结果取决于README 徽章，所以我检查了两遍。我向一位新队友解释了重置密码。我们讨论了两步登录相关的风险。一天结束时，Maria说：\"练习就有进步。\"我回答：\"我晚上会复习笔记。\"这篇文档抢在提问之前回答了三个问题。",
+   "zh": "离开前，我给团队写了一份简短的总结。评审之前，我再核对一遍文档检查。稍作休息后，我在笔记里留了一个README 徽章的真实例子。评审时，我就重置密码提了一个问题。我把两步登录加进了明天的清单。继续之前，Priya说：\"练习就有进步。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我晚上会复习笔记。\"我回答，然后把它用进了自己的汇报。这篇文档抢在提问之前回答了三个问题。",
    "hard": [
     {
      "w": "password reset",

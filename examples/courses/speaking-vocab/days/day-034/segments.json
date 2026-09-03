@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 230,
+   "word_count": 289,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I open a draft pull request on day one. We discuss the risk around the offline mode. I document the network status so the team can review it later. If the feature flag fails, we need a clear plan. We decide to enable a feature after the review. At the end of the day, Maria says, \"You did a great job.\" I reply, \"I like how you handled that.\" The team agrees on the plan, and I record the decision.",
-   "tts": "I open a draft pull request on day one. We discuss the risk around the offline mode. I document the network status so the team can review it later. If the feature flag fails, we need a clear plan. We decide to enable a feature after the review. At the end of the day, Maria says, \"You did a great job.\" I reply, \"I like how you handled that.\" The team agrees on the plan, and I record the decision.",
+   "en": "I open a draft pull request on day one. Before I reply, I look at the offline mode once more. After that, I keep one real example of the network status in my notes. I suggest that we check the feature flag first. We decide to enable a feature after the review. Before we move on, Priya says, \"You did a great job.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I like how you handled that.\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
+   "tts": "I open a draft pull request on day one. Before I reply, I look at the offline mode once more. After that, I keep one real example of the network status in my notes. I suggest that we check the feature flag first. We decide to enable a feature after the review. Before we move on, Priya says, \"You did a great job.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I like how you handled that.\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第一天我就开了一个草稿拉取请求。我们讨论了离线模式相关的风险。我把网络状态写成文档，方便团队之后查看。如果功能开关失败，我们需要一个清晰的方案。评审之后，我们决定启用功能。一天结束时，Maria说：\"你做得非常好。\"我回答：\"我很喜欢你处理那件事的方式。\"团队就计划达成一致，我记录了决定。",
+   "zh": "第一天我就开了一个草稿拉取请求。回复之前，我又看了一遍离线模式。在那之后，我在笔记里留了一个网络状态的真实例子。我建议我们先检查功能开关。评审之后，我们决定启用功能。继续之前，Priya说：\"你做得非常好。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我很喜欢你处理那件事的方式。\"我回答，然后把它用进了自己的汇报。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "offline mode",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The team can watch the work grow, piece by piece. At the end of the day, Maria says, \"That's a big improvement.\" I reply, \"Thanks for stepping up.\" I explain the reconnect to a new teammate. We discuss the risk around the queued change. I document the gradual rollout so the team can review it later. If the target users fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
-   "tts": "The team can watch the work grow, piece by piece. At the end of the day, Maria says, \"That's a big improvement.\" I reply, \"Thanks for stepping up.\" I explain the reconnect to a new teammate. We discuss the risk around the queued change. I document the gradual rollout so the team can review it later. If the target users fails, we need a clear plan. The day ends with a clear plan for tomorrow.",
+   "en": "The team can watch the work grow, piece by piece. Before we move on, Priya says, \"That's a big improvement.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Thanks for stepping up.\" I answer, then reuse it in my update. I go through the reconnect with Priya and note her advice. I reread my notes about the queued change after lunch. After that, I add the gradual rollout to my checklist for tomorrow. I double-check the target users before the review. The day ends with a clear plan for tomorrow.",
+   "tts": "The team can watch the work grow, piece by piece. Before we move on, Priya says, \"That's a big improvement.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Thanks for stepping up.\" I answer, then reuse it in my update. I go through the reconnect with Priya and note her advice. I reread my notes about the queued change after lunch. After that, I add the gradual rollout to my checklist for tomorrow. I double-check the target users before the review. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "团队可以看着这项工作一点点成形。一天结束时，Maria说：\"这是一个很大的进步。\"我回答：\"谢谢你主动承担。\"我向一位新队友解释了重新连接。我们讨论了排队改动相关的风险。我把渐进发布写成文档，方便团队之后查看。如果目标用户失败，我们需要一个清晰的方案。这一天以一份清晰的明日计划结束。",
+   "zh": "团队可以看着这项工作一点点成形。继续之前，Priya说：\"这是一个很大的进步。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"谢谢你主动承担。\"我回答，然后把它用进了自己的汇报。我和 Priya 过了一遍重新连接，记下了她的建议。午饭后我重读了关于排队改动的笔记。在那之后，我把渐进发布加进了明天的清单。评审之前，我再核对一遍目标用户。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "reconnect",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I document the kill switch so the team can review it later. If the flag cleanup fails, we need a clear plan. I suggest that we check the sync conflict first. The result depends on the last synced, so I check it twice. Before we part, Leo says, \"Your presentation was clear.\" I answer, \"Keep up the good work.\" Early drafts invite early advice.",
-   "tts": "Before I leave, I write a short summary for the team. I document the kill switch so the team can review it later. If the flag cleanup fails, we need a clear plan. I suggest that we check the sync conflict first. The result depends on the last synced, so I check it twice. Before we part, Leo says, \"Your presentation was clear.\" I answer, \"Keep up the good work.\" Early drafts invite early advice.",
+   "en": "Before I leave, I write a short summary for the team. During the review, I ask one question about the kill switch. I walk a new teammate through the flag cleanup. We spend a few minutes on the sync conflict at the standup. Before I reply, I look at the last synced once more. Before we move on, Maria says, \"Your presentation was clear.\" I answer, and we compare notes. Before we move on, Priya says, \"Keep up the good work.\" I answer clearly and note the phrasing. Early drafts invite early advice.",
+   "tts": "Before I leave, I write a short summary for the team. During the review, I ask one question about the kill switch. I walk a new teammate through the flag cleanup. We spend a few minutes on the sync conflict at the standup. Before I reply, I look at the last synced once more. Before we move on, Maria says, \"Your presentation was clear.\" I answer, and we compare notes. Before we move on, Priya says, \"Keep up the good work.\" I answer clearly and note the phrasing. Early drafts invite early advice.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我把紧急开关写成文档，方便团队之后查看。如果开关清理失败，我们需要一个清晰的方案。我建议我们先检查同步冲突。结果取决于上次同步，所以我检查了两遍。分开前，Leo说：\"你的演讲很清楚。\"我回答：\"继续保持这么好的表现。\"早开的草稿能换来早的建议。",
+   "zh": "离开前，我给团队写了一份简短的总结。评审时，我就紧急开关提了一个问题。我带一位新队友过了一遍开关清理。站会上我们花了几分钟讨论同步冲突。回复之前，我又看了一遍上次同步。继续之前，Maria说：\"你的演讲很清楚。\"我回答，我们互相对了笔记。继续之前，Priya说：\"继续保持这么好的表现。\"我清楚地回答，并记下了这个说法。早开的草稿能换来早的建议。",
    "hard": [
     {
      "w": "sync conflict",

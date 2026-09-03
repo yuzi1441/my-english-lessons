@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 320,
+   "word_count": 324,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Month eight opens with the team's favorite complaint: the settings page takes nine seconds. I prepare a one-page brief about the throughput so meetings start from facts. The team names one clear owner for the concurrency limit. I compare two views on the perf label and write both down honestly. I add the benchmark in ci to the meeting agenda with three supporting facts. Mock review: Maria probes, \"I cook two dishes in parallel.\" I answer from memory, \"The oven is my second pair of hands.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Month eight opens with the team's favorite complaint: the settings page takes nine seconds. I prepare a one-page brief about the throughput so meetings start from facts. The team names one clear owner for the concurrency limit. I compare two views on the perf label and write both down honestly. I add the benchmark in ci to the meeting agenda with three supporting facts. Mock review: Maria probes, \"I cook two dishes in parallel.\" I answer from memory, \"The oven is my second pair of hands.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Month eight opens with the team's favorite complaint: the settings page takes nine seconds. Before deciding, I reread my notes about the throughput twice. We spend the first ten minutes of the review on the concurrency limit. I add the perf label to the meeting agenda with three supporting facts. I prepare a one-page brief about the benchmark in ci so meetings start from facts. Practice debate: Maria argues, \"I cook two dishes in parallel.\" I respond calmly, \"The oven is my second pair of hands.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Month eight opens with the team's favorite complaint: the settings page takes nine seconds. Before deciding, I reread my notes about the throughput twice. We spend the first ten minutes of the review on the concurrency limit. I add the perf label to the meeting agenda with three supporting facts. I prepare a one-page brief about the benchmark in ci so meetings start from facts. Practice debate: Maria argues, \"I cook two dishes in parallel.\" I respond calmly, \"The oven is my second pair of hands.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第八个月以一种心照不宣的抱怨开场：设置页面要九秒。我准备了一页关于吞吐量的简报，好让会议从事实出发。团队为并发上限指定了明确的负责人。我比较了关于性能标签的两种观点，诚实地都记了下来。我把CI 里的基准测试连同三条支撑事实加进了议程。模拟评审：Maria追问：\"我并行做两道菜。\"我凭记忆回答：\"烤箱是我的第二双手。\"Maria确认：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "第八个月以一种心照不宣的抱怨开场：设置页面要九秒。做决定之前，我把关于吞吐量的笔记重读了两遍。评审的前十分钟，我们都用在了并发上限上。我把性能标签连同三条支撑事实加进了议程。我准备了一页关于CI 里的基准测试的简报，好让会议从事实出发。练习辩论：Maria主张：\"我并行做两道菜。\"我平静地回应：\"烤箱是我的第二双手。\"Maria承认道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "throughput",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria hands me the flame graph like an old treasure map. Review warm-up: Maria raises, \"Waiting time is prep time.\" I answer, \"I batch the chopping first.\" and Maria grades it, \"Agreed, note it in the ticket.\" The team names one clear owner for the cpu saturation. I compare two views on the context switch cost and write both down honestly. I add the perf budget file to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the flame graph artifact. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Maria hands me the flame graph like an old treasure map. Review warm-up: Maria raises, \"Waiting time is prep time.\" I answer, \"I batch the chopping first.\" and Maria grades it, \"Agreed, note it in the ticket.\" The team names one clear owner for the cpu saturation. I compare two views on the context switch cost and write both down honestly. I add the perf budget file to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the flame graph artifact. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Maria hands me the flame graph like an old treasure map. Review warm-up: Maria raises, \"Waiting time is prep time.\" I answer, \"I batch the chopping first.\" and Maria grades it, \"Agreed, note it in the ticket.\" The team names one clear owner for the cpu saturation. During the design review, I raise one careful question about the context switch cost. Our mentor walks me through how the perf budget file evolved on this team. I compare two views on the flame graph artifact and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Maria hands me the flame graph like an old treasure map. Review warm-up: Maria raises, \"Waiting time is prep time.\" I answer, \"I batch the chopping first.\" and Maria grades it, \"Agreed, note it in the ticket.\" The team names one clear owner for the cpu saturation. During the design review, I raise one careful question about the context switch cost. Our mentor walks me through how the perf budget file evolved on this team. I compare two views on the flame graph artifact and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 把火焰图递给我，像递一张旧藏宝图。评审热身：Maria抛出：\"等待时间就是备菜时间。\"我带着数字回答：\"切菜总是先批量做。\"Maria点评道：\"同意，把这条记到工单里。\"团队为CPU 饱和指定了明确的负责人。我比较了关于上下文切换成本的两种观点，诚实地都记了下来。我把性能预算文件连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了火焰图产物上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "Maria 把火焰图递给我，像递一张旧藏宝图。评审热身：Maria抛出：\"等待时间就是备菜时间。\"我带着数字回答：\"切菜总是先批量做。\"Maria点评道：\"同意，把这条记到工单里。\"团队为CPU 饱和指定了明确的负责人。设计评审中，我就上下文切换成本提出了一个审慎的问题。导师带我梳理了性能预算文件在这个团队里的演变。我比较了关于火焰图产物的两种观点，诚实地都记了下来。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "cpu saturation",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the regression bisection job twice. I prepare a one-page brief about the perf review checklist so meetings start from facts. The team names one clear owner for the busy loop. I compare two views on the backpressure signal and write both down honestly. Practice debate: Leo argues, \"The kettle works while I stir.\" I respond calmly, \"Timers keep my kitchen honest.\" and Leo concedes, \"That is the level we need.\" Nine seconds of user patience became my quarter's mission.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the regression bisection job twice. I prepare a one-page brief about the perf review checklist so meetings start from facts. The team names one clear owner for the busy loop. I compare two views on the backpressure signal and write both down honestly. Practice debate: Leo argues, \"The kettle works while I stir.\" I respond calmly, \"Timers keep my kitchen honest.\" and Leo concedes, \"That is the level we need.\" Nine seconds of user patience became my quarter's mission.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the regression bisection job twice. We spend the first ten minutes of the review on the perf review checklist. I add the busy loop to the meeting agenda with three supporting facts. I prepare a one-page brief about the backpressure signal so meetings start from facts. Mock review: Leo probes, \"The kettle works while I stir.\" I answer from memory, \"Timers keep my kitchen honest.\" and Leo confirms, \"That is the level we need.\" Nine seconds of user patience became my quarter's mission.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the regression bisection job twice. We spend the first ten minutes of the review on the perf review checklist. I add the busy loop to the meeting agenda with three supporting facts. I prepare a one-page brief about the backpressure signal so meetings start from facts. Mock review: Leo probes, \"The kettle works while I stir.\" I answer from memory, \"Timers keep my kitchen honest.\" and Leo confirms, \"That is the level we need.\" Nine seconds of user patience became my quarter's mission.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于回归二分任务的笔记重读了两遍。我准备了一页关于性能评审清单的简报，好让会议从事实出发。团队为忙循环指定了明确的负责人。我比较了关于背压信号的两种观点，诚实地都记了下来。练习辩论：Leo主张：\"烧水的时候我搅拌。\"我平静地回应：\"计时器让厨房保持诚实。\"Leo承认道：\"我们要的就是这个水平。\"用户九秒钟的耐心，成了我这个季度的任务。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于回归二分任务的笔记重读了两遍。评审的前十分钟，我们都用在了性能评审清单上。我把忙循环连同三条支撑事实加进了议程。我准备了一页关于背压信号的简报，好让会议从事实出发。模拟评审：Leo追问：\"烧水的时候我搅拌。\"我凭记忆回答：\"计时器让厨房保持诚实。\"Leo确认：\"我们要的就是这个水平。\"用户九秒钟的耐心，成了我这个季度的任务。",
    "hard": [
     {
      "w": "busy loop",

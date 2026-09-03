@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 335,
+   "word_count": 333,
    "segment_count": 3,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We adopt event driven design for the notification flows. We align on the horizontal scaling readiness early, so execution never has to guess. My report covers the stateless request handling, the risks behind it, and the cost of waiting. I propose a measurable target for the scale up drill schedule this quarter. We review the load test at double peak against the requirements, line by line. Final dry run: Leo summarises, \"Guest list math beats gut feeling.\" I confirm, \"The buffet scales better than plated dinners.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "We adopt event driven design for the notification flows. We align on the horizontal scaling readiness early, so execution never has to guess. My report covers the stateless request handling, the risks behind it, and the cost of waiting. I propose a measurable target for the scale up drill schedule this quarter. We review the load test at double peak against the requirements, line by line. Final dry run: Leo summarises, \"Guest list math beats gut feeling.\" I confirm, \"The buffet scales better than plated dinners.\" for the record, and Leo closes, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
+   "en": "We adopt event driven design for the notification flows. I propose a measurable target for the horizontal scaling readiness this quarter. We review the stateless request handling against the requirements, line by line. I close the discussion on the scale up drill schedule with a short summary. I present the load test at double peak with a timeline, the data, and one clear ask. Last rehearsal: Leo checks, \"Guest list math beats gut feeling.\" I commit word for word, \"The buffet scales better than plated dinners.\" and Leo smiles, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "We adopt event driven design for the notification flows. I propose a measurable target for the horizontal scaling readiness this quarter. We review the stateless request handling against the requirements, line by line. I close the discussion on the scale up drill schedule with a short summary. I present the load test at double peak with a timeline, the data, and one clear ask. Last rehearsal: Leo checks, \"Guest list math beats gut feeling.\" I commit word for word, \"The buffet scales better than plated dinners.\" and Leo smiles, \"Confirmed. This is launch ready.\" The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "通知流改用事件驱动设计。我们尽早就水平扩展就绪度对齐，让执行无需猜测。我的报告涵盖无状态请求处理、背后的风险，以及等待的代价。我为扩容演练排期提出了本季度一个可衡量的目标。我们逐行对照需求检查了双倍峰值负载测试。最终干跑：Leo总结：\"客数算术胜过拍脑袋。\"我郑重确认：\"自助餐比桌餐好扩展。\"Leo收尾道：\"确认无误，可以上线了。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "通知流改用事件驱动设计。我为水平扩展就绪度提出了本季度一个可衡量的目标。我们逐行对照需求检查了无状态请求处理。我用一段简短的总结为扩容演练排期的讨论收尾。我用时间线、数据和一条明确的诉求来汇报双倍峰值负载测试。最后一次彩排：Leo核对：\"客数算术胜过拍脑袋。\"我逐字承诺：\"自助餐比桌餐好扩展。\"Leo笑道：\"确认无误，可以上线了。\"这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "horizontal scaling readiness",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The board posts what happened; subscribers decide what it means. Board practice: Leo probes, \"One more table needs one more waiter.\" I respond without a pause, \"The kitchen has a hard output limit.\" and Leo nods, \"Confirmed. This is launch ready.\" My report covers the hot partition avoidance, the risks behind it, and the cost of waiting. I propose a measurable target for the back of envelope capacity math this quarter. We review the auto scaling policy review against the requirements, line by line. I close the discussion on the capacity headroom dashboard with a short summary. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "The board posts what happened; subscribers decide what it means. Board practice: Leo probes, \"One more table needs one more waiter.\" I respond without a pause, \"The kitchen has a hard output limit.\" and Leo nods, \"Confirmed. This is launch ready.\" My report covers the hot partition avoidance, the risks behind it, and the cost of waiting. I propose a measurable target for the back of envelope capacity math this quarter. We review the auto scaling policy review against the requirements, line by line. I close the discussion on the capacity headroom dashboard with a short summary. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "The board posts what happened; subscribers decide what it means. Launch rehearsal: Leo asks, \"One more table needs one more waiter.\" I present, \"The kitchen has a hard output limit.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" My report covers the hot partition avoidance, the risks behind it, and the cost of waiting. I put the back of envelope capacity math on the record so the reasoning stays visible. We align on the auto scaling policy review early, so execution never has to guess. The final deck includes the capacity headroom dashboard and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "The board posts what happened; subscribers decide what it means. Launch rehearsal: Leo asks, \"One more table needs one more waiter.\" I present, \"The kitchen has a hard output limit.\" with the numbers ready, and Leo signs off, \"Confirmed. This is launch ready.\" My report covers the hot partition avoidance, the risks behind it, and the cost of waiting. I put the back of envelope capacity math on the record so the reasoning stays visible. We align on the auto scaling policy review early, so execution never has to guess. The final deck includes the capacity headroom dashboard and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "公告栏只播发发生了什么；订阅者自己决定含义。董事会练习：Leo追问：\"加一桌就要加一个服务员。\"我毫不迟疑地回应：\"厨房产能有硬上限。\"Leo点头道：\"确认无误，可以上线了。\"我的报告涵盖热点分区规避、背后的风险，以及等待的代价。我为信封背面的容量算术提出了本季度一个可衡量的目标。我们逐行对照需求检查了自动扩缩策略评审。我用一段简短的总结为容量余量看板的讨论收尾。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "公告栏只播发发生了什么；订阅者自己决定含义。上线彩排：Leo问：\"加一桌就要加一个服务员。\"我带着准备好的数字汇报：\"厨房产能有硬上限。\"Leo签字道：\"确认无误，可以上线了。\"我的报告涵盖热点分区规避、背后的风险，以及等待的代价。我把信封背面的容量算术记录在案，让推理过程保持可见。我们尽早就自动扩缩策略评审对齐，让执行无需猜测。最终的材料里有容量余量看板，以及我们从中学到的东西。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "hot partition avoidance",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the cost scaling curve doc with a timeline, the data, and one clear ask. We align on the bottleneck of the month report early, so execution never has to guess. My report covers the graceful overload behavior, the risks behind it, and the cost of waiting. I propose a measurable target for the elastic limit definition this quarter. Launch rehearsal: Priya asks, \"Standing parties absorb surprises.\" I present, \"Overflow plans live next door.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" Producers stop caring who is listening, kindly.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the cost scaling curve doc with a timeline, the data, and one clear ask. We align on the bottleneck of the month report early, so execution never has to guess. My report covers the graceful overload behavior, the risks behind it, and the cost of waiting. I propose a measurable target for the elastic limit definition this quarter. Launch rehearsal: Priya asks, \"Standing parties absorb surprises.\" I present, \"Overflow plans live next door.\" with the numbers ready, and Priya signs off, \"Approved — bring it to the launch review.\" Producers stop caring who is listening, kindly.",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the cost scaling curve doc this quarter. We review the bottleneck of the month report against the requirements, line by line. I close the discussion on the graceful overload behavior with a short summary. I present the elastic limit definition with a timeline, the data, and one clear ask. Final dry run: Priya summarises, \"Standing parties absorb surprises.\" I confirm, \"Overflow plans live next door.\" for the record, and Priya closes, \"Approved — bring it to the launch review.\" Producers stop caring who is listening, kindly.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the cost scaling curve doc this quarter. We review the bottleneck of the month report against the requirements, line by line. I close the discussion on the graceful overload behavior with a short summary. I present the elastic limit definition with a timeline, the data, and one clear ask. Final dry run: Priya summarises, \"Standing parties absorb surprises.\" I confirm, \"Overflow plans live next door.\" for the record, and Priya closes, \"Approved — bring it to the launch review.\" Producers stop caring who is listening, kindly.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用时间线、数据和一条明确的诉求来汇报扩容成本曲线文档。我们尽早就月度瓶颈报告对齐，让执行无需猜测。我的报告涵盖优雅过载行为、背后的风险，以及等待的代价。我为弹性上限定义提出了本季度一个可衡量的目标。上线彩排：Priya问：\"站立式酒会吸收意外。\"我带着准备好的数字汇报：\"溢出方案就在隔壁。\"Priya签字道：\"通过——带到上线评审上。\"生产者礼貌地不再关心谁在听。",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为扩容成本曲线文档提出了本季度一个可衡量的目标。我们逐行对照需求检查了月度瓶颈报告。我用一段简短的总结为优雅过载行为的讨论收尾。我用时间线、数据和一条明确的诉求来汇报弹性上限定义。最终干跑：Priya总结：\"站立式酒会吸收意外。\"我郑重确认：\"溢出方案就在隔壁。\"Priya收尾道：\"通过——带到上线评审上。\"生产者礼貌地不再关心谁在听。",
    "hard": [
     {
      "w": "graceful overload behavior",

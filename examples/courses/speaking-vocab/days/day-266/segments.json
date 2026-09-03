@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 316,
+   "word_count": 319,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We redraw the trust boundaries everyone forgot. Before deciding, I reread my notes about the security onboarding day one twice. I prepare a one-page brief about the role based training path so meetings start from facts. The team names one clear owner for the secure coding dojo. I compare two views on the threat model codebase tour and write both down honestly. Practice debate: Leo argues, \"New home, first night locks audit.\" I respond calmly, \"Meet the neighbors early.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "We redraw the trust boundaries everyone forgot. Before deciding, I reread my notes about the security onboarding day one twice. I prepare a one-page brief about the role based training path so meetings start from facts. The team names one clear owner for the secure coding dojo. I compare two views on the threat model codebase tour and write both down honestly. Practice debate: Leo argues, \"New home, first night locks audit.\" I respond calmly, \"Meet the neighbors early.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "We redraw the trust boundaries everyone forgot. During the design review, I raise one careful question about the security onboarding day one. Our mentor walks me through how the role based training path evolved on this team. I compare two views on the secure coding dojo and write both down honestly. Before deciding, I reread my notes about the threat model codebase tour twice. Practice debate: Leo argues, \"New home, first night locks audit.\" I respond calmly, \"Meet the neighbors early.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We redraw the trust boundaries everyone forgot. During the design review, I raise one careful question about the security onboarding day one. Our mentor walks me through how the role based training path evolved on this team. I compare two views on the secure coding dojo and write both down honestly. Before deciding, I reread my notes about the threat model codebase tour twice. Practice debate: Leo argues, \"New home, first night locks audit.\" I respond calmly, \"Meet the neighbors early.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们重画了被遗忘的信任边界。做决定之前，我把关于安全入职第一课的笔记重读了两遍。我准备了一页关于按角色培训路径的简报，好让会议从事实出发。团队为安全编码道场指定了明确的负责人。我比较了关于代码库威胁模型导览的两种观点，诚实地都记了下来。练习辩论：Leo主张：\"新家第一晚查锁。\"我平静地回应：\"早点认识邻居。\"Leo承认道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我们重画了被遗忘的信任边界。设计评审中，我就安全入职第一课提出了一个审慎的问题。导师带我梳理了按角色培训路径在这个团队里的演变。我比较了关于安全编码道场的两种观点，诚实地都记了下来。做决定之前，我把关于代码库威胁模型导览的笔记重读了两遍。练习辩论：Leo主张：\"新家第一晚查锁。\"我平静地回应：\"早点认识邻居。\"Leo承认道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "security onboarding day one",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Old integrations lose silent privileges; new diagrams replace fossil ones. Mock review: Leo probes, \"Local emergency numbers saved.\" I answer from memory, \"The fuse box location, memorized.\" and Leo confirms, \"That is the level we need.\" I prepare a one-page brief about the first month security goals so meetings start from facts. The team names one clear owner for the mentor for secure habits. I compare two views on the first security ticket buddy and write both down honestly. I add the secure done definition to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
-   "tts": "Old integrations lose silent privileges; new diagrams replace fossil ones. Mock review: Leo probes, \"Local emergency numbers saved.\" I answer from memory, \"The fuse box location, memorized.\" and Leo confirms, \"That is the level we need.\" I prepare a one-page brief about the first month security goals so meetings start from facts. The team names one clear owner for the mentor for secure habits. I compare two views on the first security ticket buddy and write both down honestly. I add the secure done definition to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "en": "Old integrations lose silent privileges; new diagrams replace fossil ones. Review warm-up: Leo raises, \"Local emergency numbers saved.\" I answer, \"The fuse box location, memorized.\" and Leo grades it, \"That is the level we need.\" I prepare a one-page brief about the first month security goals so meetings start from facts. The team names one clear owner for the mentor for secure habits. I add the first security ticket buddy to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the secure done definition. We end the week with something shipped and something properly learned this time.",
+   "tts": "Old integrations lose silent privileges; new diagrams replace fossil ones. Review warm-up: Leo raises, \"Local emergency numbers saved.\" I answer, \"The fuse box location, memorized.\" and Leo grades it, \"That is the level we need.\" I prepare a one-page brief about the first month security goals so meetings start from facts. The team names one clear owner for the mentor for secure habits. I add the first security ticket buddy to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the secure done definition. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "老集成交出沉默的特权；新图取代了化石图。模拟评审：Leo追问：\"本地急救号码存好。\"我凭记忆回答：\"电闸位置背下来。\"Leo确认：\"我们要的就是这个水平。\"我准备了一页关于首月安全目标的简报，好让会议从事实出发。团队为安全习惯导师指定了明确的负责人。我比较了关于第一个安全工单带教的两种观点，诚实地都记了下来。我把安全完成定义连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "老集成交出沉默的特权；新图取代了化石图。评审热身：Leo抛出：\"本地急救号码存好。\"我带着数字回答：\"电闸位置背下来。\"Leo点评道：\"我们要的就是这个水平。\"我准备了一页关于首月安全目标的简报，好让会议从事实出发。团队为安全习惯导师指定了明确的负责人。我把第一个安全工单带教连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了安全完成定义上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "first month security goals",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the security questions channel evolved on this team. Before deciding, I reread my notes about the basics graduation day twice. I prepare a one-page brief about the phish test exemption process so meetings start from facts. The team names one clear owner for the newbie report celebration. Dry run: Priya opens, \"Water valve found before leak.\" I follow, \"New city, same skepticism.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" A map nobody trusts is worse than no map.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the security questions channel evolved on this team. Before deciding, I reread my notes about the basics graduation day twice. I prepare a one-page brief about the phish test exemption process so meetings start from facts. The team names one clear owner for the newbie report celebration. Dry run: Priya opens, \"Water valve found before leak.\" I follow, \"New city, same skepticism.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" A map nobody trusts is worse than no map.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the security questions channel. Our mentor walks me through how the basics graduation day evolved on this team. I compare two views on the phish test exemption process and write both down honestly. Before deciding, I reread my notes about the newbie report celebration twice. Dry run: Priya opens, \"Water valve found before leak.\" I follow, \"New city, same skepticism.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" A map nobody trusts is worse than no map.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the security questions channel. Our mentor walks me through how the basics graduation day evolved on this team. I compare two views on the phish test exemption process and write both down honestly. Before deciding, I reread my notes about the newbie report celebration twice. Dry run: Priya opens, \"Water valve found before leak.\" I follow, \"New city, same skepticism.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" A map nobody trusts is worse than no map.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了安全提问频道在这个团队里的演变。做决定之前，我把关于基础课毕业礼的笔记重读了两遍。我准备了一页关于钓鱼测试豁免流程的简报，好让会议从事实出发。团队为新人首报庆祝指定了明确的负责人。干跑演练：Priya开场：\"水阀在漏水前找到。\"我接上：\"新城新套路\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"没人信的地图比没地图更糟。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就安全提问频道提出了一个审慎的问题。导师带我梳理了基础课毕业礼在这个团队里的演变。我比较了关于钓鱼测试豁免流程的两种观点，诚实地都记了下来。做决定之前，我把关于新人首报庆祝的笔记重读了两遍。干跑演练：Priya开场：\"水阀在漏水前找到。\"我接上：\"新城新套路\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"没人信的地图比没地图更糟。",
    "hard": [
     {
      "w": "phish test exemption process",

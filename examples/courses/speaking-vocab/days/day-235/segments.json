@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 314,
+   "word_count": 320,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I run a profiling workshop with our real hotspots. I prepare a one-page brief about the serialization overhead so meetings start from facts. The team names one clear owner for the compact wire format. I compare two views on the payload size report and write both down honestly. I add the field usage tracking to the meeting agenda with three supporting facts. Mock review: Maria probes, \"Packing cubes compress chaos.\" I answer from memory, \"Vacuum bags for winter coats.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "I run a profiling workshop with our real hotspots. I prepare a one-page brief about the serialization overhead so meetings start from facts. The team names one clear owner for the compact wire format. I compare two views on the payload size report and write both down honestly. I add the field usage tracking to the meeting agenda with three supporting facts. Mock review: Maria probes, \"Packing cubes compress chaos.\" I answer from memory, \"Vacuum bags for winter coats.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "I run a profiling workshop with our real hotspots. I compare two views on the serialization overhead and write both down honestly. Before deciding, I reread my notes about the compact wire format twice. Our mentor walks me through how the payload size report evolved on this team. I prepare a one-page brief about the field usage tracking so meetings start from facts. Practice debate: Maria argues, \"Packing cubes compress chaos.\" I respond calmly, \"Vacuum bags for winter coats.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "I run a profiling workshop with our real hotspots. I compare two views on the serialization overhead and write both down honestly. Before deciding, I reread my notes about the compact wire format twice. Our mentor walks me through how the payload size report evolved on this team. I prepare a one-page brief about the field usage tracking so meetings start from facts. Practice debate: Maria argues, \"Packing cubes compress chaos.\" I respond calmly, \"Vacuum bags for winter coats.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我用我们真实的热点开了场画像工作坊。我准备了一页关于序列化开销的简报，好让会议从事实出发。团队为紧凑线格式指定了明确的负责人。我比较了关于负载体积报告的两种观点，诚实地都记了下来。我把字段使用追踪连同三条支撑事实加进了议程。模拟评审：Maria追问：\"收纳袋压缩混乱。\"我凭记忆回答：\"真空袋收冬衣。\"Maria确认：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我用我们真实的热点开了场画像工作坊。我比较了关于序列化开销的两种观点，诚实地都记了下来。做决定之前，我把关于紧凑线格式的笔记重读了两遍。导师带我梳理了负载体积报告在这个团队里的演变。我准备了一页关于字段使用追踪的简报，好让会议从事实出发。练习辩论：Maria主张：\"收纳袋压缩混乱。\"我平静地回应：\"真空袋收冬衣。\"Maria承认道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "serialization overhead",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Everyone leaves having personally deleted one slow line. Review warm-up: Maria raises, \"Fragile items get padding tax.\" I answer, \"The carry on has strict schemas.\" and Maria grades it, \"Agreed, note it in the ticket.\" The team names one clear owner for the schema evolution cost. I compare two views on the deserialization on hot path and write both down honestly. I add the format migration guide to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the compatibility test for wire format. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Everyone leaves having personally deleted one slow line. Review warm-up: Maria raises, \"Fragile items get padding tax.\" I answer, \"The carry on has strict schemas.\" and Maria grades it, \"Agreed, note it in the ticket.\" The team names one clear owner for the schema evolution cost. I compare two views on the deserialization on hot path and write both down honestly. I add the format migration guide to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the compatibility test for wire format. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Everyone leaves having personally deleted one slow line. Dry run: Maria opens, \"Fragile items get padding tax.\" I follow, \"The carry on has strict schemas.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" We spend the first ten minutes of the review on the schema evolution cost. During the design review, I raise one careful question about the deserialization on hot path. I add the format migration guide to the meeting agenda with three supporting facts. The team names one clear owner for the compatibility test for wire format. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Everyone leaves having personally deleted one slow line. Dry run: Maria opens, \"Fragile items get padding tax.\" I follow, \"The carry on has strict schemas.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" We spend the first ten minutes of the review on the schema evolution cost. During the design review, I raise one careful question about the deserialization on hot path. I add the format migration guide to the meeting agenda with three supporting facts. The team names one clear owner for the compatibility test for wire format. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每个人都亲手删掉了一行慢代码才离开。评审热身：Maria抛出：\"易碎品交保护费。\"我带着数字回答：\"登机箱有严格结构。\"Maria点评道：\"同意，把这条记到工单里。\"团队为结构演进成本指定了明确的负责人。我比较了关于热路径反序列化的两种观点，诚实地都记了下来。我把格式迁移指南连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了线格式的兼容测试上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "每个人都亲手删掉了一行慢代码才离开。干跑演练：Maria开场：\"易碎品交保护费。\"我接上：\"登机箱有严格结构。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"评审的前十分钟，我们都用在了结构演进成本上。设计评审中，我就热路径反序列化提出了一个审慎的问题。我把格式迁移指南连同三条支撑事实加进了议程。团队为线格式的兼容测试指定了明确的负责人。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "schema evolution cost",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the serialization benchmark suite twice. I prepare a one-page brief about the big payload alert so meetings start from facts. The team names one clear owner for the payload field pruning. I compare two views on the binary vs text format tradeoff and write both down honestly. Practice debate: Leo argues, \"Roll clothes, save space.\" I respond calmly, \"Unpack is part of packing.\" and Leo concedes, \"That is the level we need.\" Ownership of speed needs shared eyes.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the serialization benchmark suite twice. I prepare a one-page brief about the big payload alert so meetings start from facts. The team names one clear owner for the payload field pruning. I compare two views on the binary vs text format tradeoff and write both down honestly. Practice debate: Leo argues, \"Roll clothes, save space.\" I respond calmly, \"Unpack is part of packing.\" and Leo concedes, \"That is the level we need.\" Ownership of speed needs shared eyes.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the serialization benchmark suite and write both down honestly. Before deciding, I reread my notes about the big payload alert twice. Our mentor walks me through how the payload field pruning evolved on this team. I prepare a one-page brief about the binary vs text format tradeoff so meetings start from facts. Mock review: Leo probes, \"Roll clothes, save space.\" I answer from memory, \"Unpack is part of packing.\" and Leo confirms, \"That is the level we need.\" Ownership of speed needs shared eyes.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the serialization benchmark suite and write both down honestly. Before deciding, I reread my notes about the big payload alert twice. Our mentor walks me through how the payload field pruning evolved on this team. I prepare a one-page brief about the binary vs text format tradeoff so meetings start from facts. Mock review: Leo probes, \"Roll clothes, save space.\" I answer from memory, \"Unpack is part of packing.\" and Leo confirms, \"That is the level we need.\" Ownership of speed needs shared eyes.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于序列化基准套件的笔记重读了两遍。我准备了一页关于大负载告警的简报，好让会议从事实出发。团队为字段瘦身指定了明确的负责人。我比较了关于二进制与文本格式取舍的两种观点，诚实地都记了下来。练习辩论：Leo主张：\"卷衣服省空间。\"我平静地回应：\"拆包也是打包的一部分。\"Leo承认道：\"我们要的就是这个水平。\"速度的归属需要大家一起看。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于序列化基准套件的两种观点，诚实地都记了下来。做决定之前，我把关于大负载告警的笔记重读了两遍。导师带我梳理了字段瘦身在这个团队里的演变。我准备了一页关于二进制与文本格式取舍的简报，好让会议从事实出发。模拟评审：Leo追问：\"卷衣服省空间。\"我凭记忆回答：\"拆包也是打包的一部分。\"Leo确认：\"我们要的就是这个水平。\"速度的归属需要大家一起看。",
    "hard": [
     {
      "w": "payload field pruning",

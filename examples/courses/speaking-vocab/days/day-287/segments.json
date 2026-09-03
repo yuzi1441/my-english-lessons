@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 325,
+   "word_count": 323,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I call three users who cancelled, with curiosity not defense. We spend the first ten minutes of the review on the mobile app polish pass. During the design review, I raise one careful question about the touch feedback moments. Our mentor walks me through how the app store review notes evolved on this team. Before deciding, I reread my notes about the beta testing group management twice. Mock review: Leo probes, \"Screenshots get weekly sweeps.\" I answer from memory, \"Favorites album is honest.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "I call three users who cancelled, with curiosity not defense. We spend the first ten minutes of the review on the mobile app polish pass. During the design review, I raise one careful question about the touch feedback moments. Our mentor walks me through how the app store review notes evolved on this team. Before deciding, I reread my notes about the beta testing group management twice. Mock review: Leo probes, \"Screenshots get weekly sweeps.\" I answer from memory, \"Favorites album is honest.\" and Leo confirms, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "I call three users who cancelled, with curiosity not defense. During the design review, I raise one careful question about the mobile app polish pass. The team names one clear owner for the touch feedback moments. I prepare a one-page brief about the app store review notes so meetings start from facts. We spend the first ten minutes of the review on the beta testing group management. Review warm-up: Leo raises, \"Screenshots get weekly sweeps.\" I answer, \"Favorites album is honest.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "I call three users who cancelled, with curiosity not defense. During the design review, I raise one careful question about the mobile app polish pass. The team names one clear owner for the touch feedback moments. I prepare a one-page brief about the app store review notes so meetings start from facts. We spend the first ten minutes of the review on the beta testing group management. Review warm-up: Leo raises, \"Screenshots get weekly sweeps.\" I answer, \"Favorites album is honest.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我带着好奇而非防备，打给三位取消订阅的用户。评审的前十分钟，我们都用在了移动端打磨轮上。设计评审中，我就触控反馈时刻提出了一个审慎的问题。导师带我梳理了应用商店审核备注在这个团队里的演变。做决定之前，我把关于Beta 测试组管理的笔记重读了两遍。模拟评审：Leo追问：\"截图每周大扫除。\"我凭记忆回答：\"收藏相册很诚实。\"Leo确认：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我带着好奇而非防备，打给三位取消订阅的用户。设计评审中，我就移动端打磨轮提出了一个审慎的问题。团队为触控反馈时刻指定了明确的负责人。我准备了一页关于应用商店审核备注的简报，好让会议从事实出发。评审的前十分钟，我们都用在了Beta 测试组管理上。评审热身：Leo抛出：\"截图每周大扫除。\"我带着数字回答：\"收藏相册很诚实。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "mobile app polish pass",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Two reasons are price, one reason is loneliness of the tool. Review warm-up: Leo raises, \"Blurry photos die young.\" I answer, \"The memes folder brings joy.\" and Leo grades it, \"That is the level we need.\" During the design review, I raise one careful question about the offline forgiving sync. Our mentor walks me through how the app store listing seo evolved on this team. Before deciding, I reread my notes about the staged rollout percentage twice. I prepare a one-page brief about the crash report triage ritual so meetings start from facts. We end the week with something shipped and something properly learned this time.",
-   "tts": "Two reasons are price, one reason is loneliness of the tool. Review warm-up: Leo raises, \"Blurry photos die young.\" I answer, \"The memes folder brings joy.\" and Leo grades it, \"That is the level we need.\" During the design review, I raise one careful question about the offline forgiving sync. Our mentor walks me through how the app store listing seo evolved on this team. Before deciding, I reread my notes about the staged rollout percentage twice. I prepare a one-page brief about the crash report triage ritual so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "en": "Two reasons are price, one reason is loneliness of the tool. Dry run: Leo opens, \"Blurry photos die young.\" I follow, \"The memes folder brings joy.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I add the offline forgiving sync to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the app store listing seo twice. I compare two views on the staged rollout percentage and write both down honestly. Our mentor walks me through how the crash report triage ritual evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "tts": "Two reasons are price, one reason is loneliness of the tool. Dry run: Leo opens, \"Blurry photos die young.\" I follow, \"The memes folder brings joy.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I add the offline forgiving sync to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the app store listing seo twice. I compare two views on the staged rollout percentage and write both down honestly. Our mentor walks me through how the crash report triage ritual evolved on this team. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "两个理由是价格，一个理由是工具太孤独。评审热身：Leo抛出：\"模糊照片早入土。\"我带着数字回答：\"表情包文件夹带来快乐。\"Leo点评道：\"我们要的就是这个水平。\"设计评审中，我就宽容的离线同步提出了一个审慎的问题。导师带我梳理了应用商店优化在这个团队里的演变。做决定之前，我把关于分阶段放量百分比的笔记重读了两遍。我准备了一页关于崩溃报告分诊仪式的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "两个理由是价格，一个理由是工具太孤独。干跑演练：Leo开场：\"模糊照片早入土。\"我接上：\"表情包文件夹带来快乐。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"我把宽容的离线同步连同三条支撑事实加进了议程。做决定之前，我把关于应用商店优化的笔记重读了两遍。我比较了关于分阶段放量百分比的两种观点，诚实地都记了下来。导师带我梳理了崩溃报告分诊仪式在这个团队里的演变。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "offline forgiving sync",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the release notes that humans read to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the force update threshold policy. During the design review, I raise one careful question about the review prompt etiquette. Our mentor walks me through how the crash free sessions metric evolved on this team. Practice debate: Priya argues, \"Cloud full, but memories safe.\" I respond calmly, \"Three years of photos, one hour.\" and Priya concedes, \"Strong answer — keep that precision.\" The loneliness reason becomes a community tab.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the release notes that humans read to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the force update threshold policy. During the design review, I raise one careful question about the review prompt etiquette. Our mentor walks me through how the crash free sessions metric evolved on this team. Practice debate: Priya argues, \"Cloud full, but memories safe.\" I respond calmly, \"Three years of photos, one hour.\" and Priya concedes, \"Strong answer — keep that precision.\" The loneliness reason becomes a community tab.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the release notes that humans read. The team names one clear owner for the force update threshold policy. I prepare a one-page brief about the review prompt etiquette so meetings start from facts. We spend the first ten minutes of the review on the crash free sessions metric. Practice debate: Priya argues, \"Cloud full, but memories safe.\" I respond calmly, \"Three years of photos, one hour.\" and Priya concedes, \"Strong answer — keep that precision.\" The loneliness reason becomes a community tab.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the release notes that humans read. The team names one clear owner for the force update threshold policy. I prepare a one-page brief about the review prompt etiquette so meetings start from facts. We spend the first ten minutes of the review on the crash free sessions metric. Practice debate: Priya argues, \"Cloud full, but memories safe.\" I respond calmly, \"Three years of photos, one hour.\" and Priya concedes, \"Strong answer — keep that precision.\" The loneliness reason becomes a community tab.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把人类读得懂的更新说明连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了强制升级阈值政策上。设计评审中，我就好评弹窗礼仪提出了一个审慎的问题。导师带我梳理了无崩溃会话指标在这个团队里的演变。练习辩论：Priya主张：\"云满了回忆还在。\"我平静地回应：\"三年照片一小时理完。\"Priya承认道：\"回答有力——保持这种精确。\"孤独那条理由，变成了一个社区标签页。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就人类读得懂的更新说明提出了一个审慎的问题。团队为强制升级阈值政策指定了明确的负责人。我准备了一页关于好评弹窗礼仪的简报，好让会议从事实出发。评审的前十分钟，我们都用在了无崩溃会话指标上。练习辩论：Priya主张：\"云满了回忆还在。\"我平静地回应：\"三年照片一小时理完。\"Priya承认道：\"回答有力——保持这种精确。\"孤独那条理由，变成了一个社区标签页。",
    "hard": [
     {
      "w": "review prompt etiquette",

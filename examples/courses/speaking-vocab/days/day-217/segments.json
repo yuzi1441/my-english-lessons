@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 318,
+   "word_count": 317,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We write performance budgets into the repo like laws. Our mentor walks me through how the query rewrite evolved on this team. Before deciding, I reread my notes about the sargable predicate twice. I prepare a one-page brief about the slow query log review so meetings start from facts. The team names one clear owner for the query lint rule. Dry run: Maria opens, \"I map the store loop first.\" I follow, \"Cold aisle last, always.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "We write performance budgets into the repo like laws. Our mentor walks me through how the query rewrite evolved on this team. Before deciding, I reread my notes about the sargable predicate twice. I prepare a one-page brief about the slow query log review so meetings start from facts. The team names one clear owner for the query lint rule. Dry run: Maria opens, \"I map the store loop first.\" I follow, \"Cold aisle last, always.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "We write performance budgets into the repo like laws. During the design review, I raise one careful question about the query rewrite. The team names one clear owner for the sargable predicate. Before deciding, I reread my notes about the slow query log review twice. I compare two views on the query lint rule and write both down honestly. Mock review: Maria probes, \"I map the store loop first.\" I answer from memory, \"Cold aisle last, always.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We write performance budgets into the repo like laws. During the design review, I raise one careful question about the query rewrite. The team names one clear owner for the sargable predicate. Before deciding, I reread my notes about the slow query log review twice. I compare two views on the query lint rule and write both down honestly. Mock review: Maria probes, \"I map the store loop first.\" I answer from memory, \"Cold aisle last, always.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们把性能预算写进仓库，像写法律。导师带我梳理了查询改写在这个团队里的演变。做决定之前，我把关于可索引谓词的笔记重读了两遍。我准备了一页关于慢查询日志评审的简报，好让会议从事实出发。团队为查询检查规则指定了明确的负责人。干跑演练：Maria开场：\"先规划店内路线。\"我接上：\"冷冻区永远最后逛。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们把性能预算写进仓库，像写法律。设计评审中，我就查询改写提出了一个审慎的问题。团队为可索引谓词指定了明确的负责人。做决定之前，我把关于慢查询日志评审的笔记重读了两遍。我比较了关于查询检查规则的两种观点，诚实地都记了下来。模拟评审：Maria追问：\"先规划店内路线。\"我凭记忆回答：\"冷冻区永远最后逛。\"Maria确认：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "query rewrite",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Bundle size, first paint, query time: each has a number and an owner. Practice debate: Maria argues, \"The list is ordered by shelf.\" I respond calmly, \"One trip beats three.\" and Maria concedes, \"Agreed, note it in the ticket.\" Before deciding, I reread my notes about the join order hint twice. I prepare a one-page brief about the pagination offset trap so meetings start from facts. The team names one clear owner for the explain plan in pr. I compare two views on the optimization experiment doc and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Bundle size, first paint, query time: each has a number and an owner. Practice debate: Maria argues, \"The list is ordered by shelf.\" I respond calmly, \"One trip beats three.\" and Maria concedes, \"Agreed, note it in the ticket.\" Before deciding, I reread my notes about the join order hint twice. I prepare a one-page brief about the pagination offset trap so meetings start from facts. The team names one clear owner for the explain plan in pr. I compare two views on the optimization experiment doc and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Bundle size, first paint, query time: each has a number and an owner. Review warm-up: Maria raises, \"The list is ordered by shelf.\" I answer, \"One trip beats three.\" and Maria grades it, \"Agreed, note it in the ticket.\" I add the join order hint to the meeting agenda with three supporting facts. Our mentor walks me through how the pagination offset trap evolved on this team. We spend the first ten minutes of the review on the explain plan in pr. I prepare a one-page brief about the optimization experiment doc so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Bundle size, first paint, query time: each has a number and an owner. Review warm-up: Maria raises, \"The list is ordered by shelf.\" I answer, \"One trip beats three.\" and Maria grades it, \"Agreed, note it in the ticket.\" I add the join order hint to the meeting agenda with three supporting facts. Our mentor walks me through how the pagination offset trap evolved on this team. We spend the first ten minutes of the review on the explain plan in pr. I prepare a one-page brief about the optimization experiment doc so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "包体积、首次绘制、查询耗时：各有一个数字和一个负责人。练习辩论：Maria主张：\"清单按货架排序。\"我平静地回应：\"一趟胜过三趟。\"Maria承认道：\"同意，把这条记到工单里。\"做决定之前，我把关于连接顺序提示的笔记重读了两遍。我准备了一页关于偏移分页陷阱的简报，好让会议从事实出发。团队为PR 里贴执行计划指定了明确的负责人。我比较了关于优化实验文档的两种观点，诚实地都记了下来。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "包体积、首次绘制、查询耗时：各有一个数字和一个负责人。评审热身：Maria抛出：\"清单按货架排序。\"我带着数字回答：\"一趟胜过三趟。\"Maria点评道：\"同意，把这条记到工单里。\"我把连接顺序提示连同三条支撑事实加进了议程。导师带我梳理了偏移分页陷阱在这个团队里的演变。评审的前十分钟，我们都用在了PR 里贴执行计划上。我准备了一页关于优化实验文档的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "join order hint",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the query cost regression alert. Our mentor walks me through how the shared query cookbook evolved on this team. Before deciding, I reread my notes about the batched query twice. I prepare a one-page brief about the n plus one fix so meetings start from facts. Review warm-up: Leo raises, \"Heavy items go in last.\" I answer, \"Checkout timing matters.\" and Leo grades it, \"That is the level we need.\" A budget you never check is a wish.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the query cost regression alert. Our mentor walks me through how the shared query cookbook evolved on this team. Before deciding, I reread my notes about the batched query twice. I prepare a one-page brief about the n plus one fix so meetings start from facts. Review warm-up: Leo raises, \"Heavy items go in last.\" I answer, \"Checkout timing matters.\" and Leo grades it, \"That is the level we need.\" A budget you never check is a wish.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the query cost regression alert. The team names one clear owner for the shared query cookbook. Before deciding, I reread my notes about the batched query twice. I compare two views on the n plus one fix and write both down honestly. Practice debate: Leo argues, \"Heavy items go in last.\" I respond calmly, \"Checkout timing matters.\" and Leo concedes, \"That is the level we need.\" A budget you never check is a wish.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the query cost regression alert. The team names one clear owner for the shared query cookbook. Before deciding, I reread my notes about the batched query twice. I compare two views on the n plus one fix and write both down honestly. Practice debate: Leo argues, \"Heavy items go in last.\" I respond calmly, \"Checkout timing matters.\" and Leo concedes, \"That is the level we need.\" A budget you never check is a wish.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就查询成本回归告警提出了一个审慎的问题。导师带我梳理了共享查询菜谱在这个团队里的演变。做决定之前，我把关于批量化查询的笔记重读了两遍。我准备了一页关于N+1 修复的简报，好让会议从事实出发。评审热身：Leo抛出：\"重的东西最后放。\"我带着数字回答：\"结账时机有讲究。\"Leo点评道：\"我们要的就是这个水平。\"从不检查的预算只是愿望。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就查询成本回归告警提出了一个审慎的问题。团队为共享查询菜谱指定了明确的负责人。做决定之前，我把关于批量化查询的笔记重读了两遍。我比较了关于N+1 修复的两种观点，诚实地都记了下来。练习辩论：Leo主张：\"重的东西最后放。\"我平静地回应：\"结账时机有讲究。\"Leo承认道：\"我们要的就是这个水平。\"从不检查的预算只是愿望。",
    "hard": [
     {
      "w": "batched query",

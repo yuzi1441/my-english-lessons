@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 316,
+   "word_count": 319,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We adopt the oldest test device as our north star. Our mentor walks me through how the sampling profiler evolved on this team. Before deciding, I reread my notes about the tracing sampling rate twice. I prepare a one-page brief about the profile artifact retention so meetings start from facts. The team names one clear owner for the hotspot comparison report. Dry run: Leo opens, \"I sample the soup, not drink it.\" I follow, \"Spot checks keep quality up.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "We adopt the oldest test device as our north star. Our mentor walks me through how the sampling profiler evolved on this team. Before deciding, I reread my notes about the tracing sampling rate twice. I prepare a one-page brief about the profile artifact retention so meetings start from facts. The team names one clear owner for the hotspot comparison report. Dry run: Leo opens, \"I sample the soup, not drink it.\" I follow, \"Spot checks keep quality up.\" plus one proposal, and Leo accepts, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "We adopt the oldest test device as our north star. Before deciding, I reread my notes about the sampling profiler twice. I compare two views on the tracing sampling rate and write both down honestly. We spend the first ten minutes of the review on the profile artifact retention. I add the hotspot comparison report to the meeting agenda with three supporting facts. Review warm-up: Leo raises, \"I sample the soup, not drink it.\" I answer, \"Spot checks keep quality up.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We adopt the oldest test device as our north star. Before deciding, I reread my notes about the sampling profiler twice. I compare two views on the tracing sampling rate and write both down honestly. We spend the first ten minutes of the review on the profile artifact retention. I add the hotspot comparison report to the meeting agenda with three supporting facts. Review warm-up: Leo raises, \"I sample the soup, not drink it.\" I answer, \"Spot checks keep quality up.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们把最老的测试机当作北极星。导师带我梳理了采样分析器在这个团队里的演变。做决定之前，我把关于追踪采样率的笔记重读了两遍。我准备了一页关于画像产物保留期的简报，好让会议从事实出发。团队为热点对比报告指定了明确的负责人。干跑演练：Leo开场：\"尝汤不是喝汤。\"我接上：\"抽查让质量在线。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我们把最老的测试机当作北极星。做决定之前，我把关于采样分析器的笔记重读了两遍。我比较了关于追踪采样率的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了画像产物保留期上。我把热点对比报告连同三条支撑事实加进了议程。评审热身：Leo抛出：\"尝汤不是喝汤。\"我带着数字回答：\"抽查让质量在线。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "sampling profiler",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Cold start drops by half, and the frame pacing steadies like a metronome. Practice debate: Leo argues, \"The scale gets weekly readings.\" I respond calmly, \"Small samples, humble conclusions.\" and Leo concedes, \"That is the level we need.\" Before deciding, I reread my notes about the statistical profiler output twice. I prepare a one-page brief about always on profiling so meetings start from facts. The team names one clear owner for the profile on demand endpoint. I compare two views on the sampling rate config review and write both down honestly. We end the week with something shipped and something properly learned this time.",
-   "tts": "Cold start drops by half, and the frame pacing steadies like a metronome. Practice debate: Leo argues, \"The scale gets weekly readings.\" I respond calmly, \"Small samples, humble conclusions.\" and Leo concedes, \"That is the level we need.\" Before deciding, I reread my notes about the statistical profiler output twice. I prepare a one-page brief about always on profiling so meetings start from facts. The team names one clear owner for the profile on demand endpoint. I compare two views on the sampling rate config review and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "en": "Cold start drops by half, and the frame pacing steadies like a metronome. Dry run: Leo opens, \"The scale gets weekly readings.\" I follow, \"Small samples, humble conclusions.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I prepare a one-page brief about the statistical profiler output so meetings start from facts. The team names one clear owner for always on profiling. Our mentor walks me through how the profile on demand endpoint evolved on this team. During the design review, I raise one careful question about the sampling rate config review. We end the week with something shipped and something properly learned this time.",
+   "tts": "Cold start drops by half, and the frame pacing steadies like a metronome. Dry run: Leo opens, \"The scale gets weekly readings.\" I follow, \"Small samples, humble conclusions.\" plus one proposal, and Leo accepts, \"That is the level we need.\" I prepare a one-page brief about the statistical profiler output so meetings start from facts. The team names one clear owner for always on profiling. Our mentor walks me through how the profile on demand endpoint evolved on this team. During the design review, I raise one careful question about the sampling rate config review. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "冷启动减半，帧率稳得像节拍器。练习辩论：Leo主张：\"体重秤每周读一次数。\"我平静地回应：\"小样本\"Leo承认道：\"我们要的就是这个水平。\"做决定之前，我把关于统计分析器输出的笔记重读了两遍。我准备了一页关于常驻性能分析的简报，好让会议从事实出发。团队为按需画像接口指定了明确的负责人。我比较了关于采样率配置评审的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "冷启动减半，帧率稳得像节拍器。干跑演练：Leo开场：\"体重秤每周读一次数。\"我接上：\"小样本\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"我准备了一页关于统计分析器输出的简报，好让会议从事实出发。团队为常驻性能分析指定了明确的负责人。导师带我梳理了按需画像接口在这个团队里的演变。设计评审中，我就采样率配置评审提出了一个审慎的问题。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "statistical profiler output",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the profiler safety review. Our mentor walks me through how the findings to task flow evolved on this team. Before deciding, I reread my notes about the flame graph reading guide twice. I prepare a one-page brief about the profile driven optimization so meetings start from facts. Review warm-up: Priya raises, \"Trends matter more than snapshots.\" I answer, \"Sampling keeps observation cheap.\" and Priya grades it, \"Strong answer — keep that precision.\" Performance is accessibility with a stopwatch.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the profiler safety review. Our mentor walks me through how the findings to task flow evolved on this team. Before deciding, I reread my notes about the flame graph reading guide twice. I prepare a one-page brief about the profile driven optimization so meetings start from facts. Review warm-up: Priya raises, \"Trends matter more than snapshots.\" I answer, \"Sampling keeps observation cheap.\" and Priya grades it, \"Strong answer — keep that precision.\" Performance is accessibility with a stopwatch.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the profiler safety review twice. I compare two views on the findings to task flow and write both down honestly. We spend the first ten minutes of the review on the flame graph reading guide. I add the profile driven optimization to the meeting agenda with three supporting facts. Practice debate: Priya argues, \"Trends matter more than snapshots.\" I respond calmly, \"Sampling keeps observation cheap.\" and Priya concedes, \"Strong answer — keep that precision.\" Performance is accessibility with a stopwatch.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the profiler safety review twice. I compare two views on the findings to task flow and write both down honestly. We spend the first ten minutes of the review on the flame graph reading guide. I add the profile driven optimization to the meeting agenda with three supporting facts. Practice debate: Priya argues, \"Trends matter more than snapshots.\" I respond calmly, \"Sampling keeps observation cheap.\" and Priya concedes, \"Strong answer — keep that precision.\" Performance is accessibility with a stopwatch.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就分析器安全评审提出了一个审慎的问题。导师带我梳理了发现转任务流程在这个团队里的演变。做决定之前，我把关于火焰图阅读指南的笔记重读了两遍。我准备了一页关于按画像优化的简报，好让会议从事实出发。评审热身：Priya抛出：\"趋势比快照重要。\"我带着数字回答：\"抽样让观察变便宜。\"Priya点评道：\"回答有力——保持这种精确。\"性能就是拿着秒表的无障碍。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于分析器安全评审的笔记重读了两遍。我比较了关于发现转任务流程的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了火焰图阅读指南上。我把按画像优化连同三条支撑事实加进了议程。练习辩论：Priya主张：\"趋势比快照重要。\"我平静地回应：\"抽样让观察变便宜。\"Priya承认道：\"回答有力——保持这种精确。\"性能就是拿着秒表的无障碍。",
    "hard": [
     {
      "w": "flame graph reading guide",

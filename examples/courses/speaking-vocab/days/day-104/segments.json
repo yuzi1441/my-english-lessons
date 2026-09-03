@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 269,
+   "word_count": 273,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I touch an old module and resist the urge to rewrite it. I add the safe refactor to my study notes before I forget it. I go over the extract function one more time before lunch. There is a short paragraph about the suggested change in the guide. I request re-review twice, just to be sure. We practise the dialogue: Leo opens, \"Priority seats stay empty.\" I answer, \"A nod says thank you.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "I touch an old module and resist the urge to rewrite it. I add the safe refactor to my study notes before I forget it. I go over the extract function one more time before lunch. There is a short paragraph about the suggested change in the guide. I request re-review twice, just to be sure. We practise the dialogue: Leo opens, \"Priority seats stay empty.\" I answer, \"A nod says thank you.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "I touch an old module and resist the urge to rewrite it. Sam asks me about the safe refactor, and I explain the basics. I spend ten quiet minutes on the extract function after the standup. I keep one real example of the suggested change in my notebook. I request re-review, then I take a short break. Warm-up round: Leo offers, \"Priority seats stay empty.\" I answer, \"A nod says thank you.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "tts": "I touch an old module and resist the urge to rewrite it. Sam asks me about the safe refactor, and I explain the basics. I spend ten quiet minutes on the extract function after the standup. I keep one real example of the suggested change in my notebook. I request re-review, then I take a short break. Warm-up round: Leo offers, \"Priority seats stay empty.\" I answer, \"A nod says thank you.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我碰了一个老模块，忍住了重写它的冲动。我趁还没忘，把安全重构记进了学习笔记。午饭前我又过了一遍提取函数。指南里有一小段关于建议修改的介绍。我请求复审了两遍，只为确定。我们练习这段对话：Leo开场：\"优先座常常空着。\"我回答：\"点头就是道谢。\"Leo点头说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "我碰了一个老模块，忍住了重写它的冲动。Sam 问起安全重构，我讲了讲基础。站会之后，我安安静静花了十分钟在提取函数上。我在笔记本里留了一个建议修改的真实例子。我请求复审，然后休息了一下。热身一轮：Leo给出：\"优先座常常空着。\"我回答：\"点头就是道谢。\"Leo收尾道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "safe refactor",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A characterization test photographs its behavior; then small cleanups, all green. We drill it twice: Leo starts, \"Small kindnesses compound.\" I reply, \"Offer once, gracefully.\" then Leo smiles, \"Nice, keep that one handy.\" I go over the inline function one more time before lunch. There is a short paragraph about the rename symbol in the guide. I view the diff context twice, just to be sure. My notes about the draft mode review look clearer this week. I end the day with fewer unknowns than I started with.",
-   "tts": "A characterization test photographs its behavior; then small cleanups, all green. We drill it twice: Leo starts, \"Small kindnesses compound.\" I reply, \"Offer once, gracefully.\" then Leo smiles, \"Nice, keep that one handy.\" I go over the inline function one more time before lunch. There is a short paragraph about the rename symbol in the guide. I view the diff context twice, just to be sure. My notes about the draft mode review look clearer this week. I end the day with fewer unknowns than I started with.",
+   "en": "A characterization test photographs its behavior; then small cleanups, all green. We drill it twice: Leo starts, \"Small kindnesses compound.\" I reply, \"Offer once, gracefully.\" then Leo smiles, \"Nice, keep that one handy.\" My notes about the inline function look clearer this week. I ask one good question about the rename symbol in the meeting. I view the diff context while the office is still quiet. I add the draft mode review to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "tts": "A characterization test photographs its behavior; then small cleanups, all green. We drill it twice: Leo starts, \"Small kindnesses compound.\" I reply, \"Offer once, gracefully.\" then Leo smiles, \"Nice, keep that one handy.\" My notes about the inline function look clearer this week. I ask one good question about the rename symbol in the meeting. I view the diff context while the office is still quiet. I add the draft mode review to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个特征测试给旧行为拍了照；然后小幅清理，一路绿灯。我们练了两遍：Leo起头：\"小善意会复利。\"我回答：\"礼貌让一次就好。\"然后Leo笑着说：\"不错，把这句记在手边。\"午饭前我又过了一遍内联函数。指南里有一小段关于重命名符号的介绍。我看差异上下文了两遍，只为确定。这周我关于草稿期评审的笔记清楚多了。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "一个特征测试给旧行为拍了照；然后小幅清理，一路绿灯。我们练了两遍：Leo起头：\"小善意会复利。\"我回答：\"礼貌让一次就好。\"然后Leo笑着说：\"不错，把这句记在手边。\"这周我关于内联函数的笔记清楚多了。会上关于重命名符号，我问了一个好问题。趁办公室还安静，我看差异上下文。我趁还没忘，把草稿期评审记进了学习笔记。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "inline function",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I batch your comments the way the guide suggests. This morning, I resolve all threads before the first call. I go over the dead code removal one more time before lunch. There is a short paragraph about the characterization test in the guide. Warm-up round: Priya offers, \"People carry invisible bags.\" I answer, \"Cities are kind at seven a.m.\" and Priya wraps up, \"Good — try it in today’s task.\" Leave the campsite cleaner than you found it.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I batch your comments the way the guide suggests. This morning, I resolve all threads before the first call. I go over the dead code removal one more time before lunch. There is a short paragraph about the characterization test in the guide. Warm-up round: Priya offers, \"People carry invisible bags.\" I answer, \"Cities are kind at seven a.m.\" and Priya wraps up, \"Good — try it in today’s task.\" Leave the campsite cleaner than you found it.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. This morning, I batch your comments before the first call. Priya and I resolve all threads together after lunch. There is a short paragraph about the dead code removal in the guide. I go over the characterization test one more time before lunch. Role play with feedback: Priya says, \"People carry invisible bags.\" I try, \"Cities are kind at seven a.m.\" and Priya adds, \"Good — try it in today’s task.\" Leave the campsite cleaner than you found it.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. This morning, I batch your comments before the first call. Priya and I resolve all threads together after lunch. There is a short paragraph about the dead code removal in the guide. I go over the characterization test one more time before lunch. Role play with feedback: Priya says, \"People carry invisible bags.\" I try, \"Cities are kind at seven a.m.\" and Priya adds, \"Good — try it in today’s task.\" Leave the campsite cleaner than you found it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我按照指南建议的方式合并评论。今天早上，第一次通话之前我先解决全部讨论。午饭前我又过了一遍死代码清除。指南里有一小段关于特征测试的介绍。热身一轮：Priya给出：\"每个人都拎着看不见的包。\"我回答：\"清晨七点的城市很温柔。\"Priya收尾道：\"好——今天的任务里就用上。\"离开营地时，让它比来时更干净。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。今天早上，第一次通话之前我先合并评论。午饭之后，Priya 和我一起解决全部讨论。指南里有一小段关于死代码清除的介绍。午饭前我又过了一遍特征测试。角色扮演加反馈：Priya说：\"每个人都拎着看不见的包。\"我试着说：\"清晨七点的城市很温柔。\"Priya补充道：\"好——今天的任务里就用上。\"离开营地时，让它比来时更干净。",
    "hard": [
     {
      "w": "dead code removal",
