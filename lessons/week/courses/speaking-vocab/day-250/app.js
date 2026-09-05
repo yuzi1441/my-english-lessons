@@ -1983,17 +1983,20 @@
 
   function showSelCard(text, rect) {
     closeWordCard();
+    // close any existing hard-term popovers
+    document.querySelectorAll(".popover, .term-popover, .hl-popover").forEach(el => el.remove());
     const hit = lookupSel(text);
+    if (!hit) { closeWordCard(); return; }  // no dictionary match: don't show empty card
     const pop = document.createElement("div");
     pop.id = "wordCard";
-    const word = hit ? hit.word : text;
-    const ipa = hit && hit.p ? `<span class="wc-phon">${hit.p}</span>` : "";
-    const pos = hit && hit.pos ? `<span class="wc-phon">${hit.pos}</span>` : "";
-    const zh = hit && hit.t ? `<p class="wc-cn">${hit.t}</p>` : "";
-    const en = hit && hit.d ? `<p class="wc-def">${hit.d}</p>` : "";
-    const syn = hit && hit.syn && hit.syn.length ? `<p class="wc-syn">近义词: ${hit.syn.join(", ")}</p>` : "";
-    const ant = hit && hit.ant && hit.ant.length ? `<p class="wc-syn">反义词: ${hit.ant.join(", ")}</p>` : "";
-    const ex = hit && hit.ex && hit.ex.length ? `<p class="wc-def" style="color:#888;font-style:italic">${hit.ex[0]}</p>` : "";
+    const word = hit.word;
+    const ipa = hit.p ? `<span class="wc-phon">${hit.p}</span>` : "";
+    const pos = hit.pos ? `<span class="wc-phon">${hit.pos}</span>` : "";
+    const zh = hit.t ? `<p class="wc-cn">${hit.t}</p>` : "";
+    const en = hit.d ? `<p class="wc-def">${hit.d}</p>` : "";
+    const syn = hit.syn && hit.syn.length ? `<p class="wc-syn">近义词: ${hit.syn.join(", ")}</p>` : "";
+    const ant = hit.ant && hit.ant.length ? `<p class="wc-syn">反义词: ${hit.ant.join(", ")}</p>` : "";
+    const ex = hit.ex && hit.ex.length ? `<p class="wc-def" style="color:#888;font-style:italic">${hit.ex[0]}</p>` : "";
     const addBtn = `<button class="wc-add" data-word="${word}">＋ 加入生词本</button>`;
     pop.innerHTML = `<b>${word}</b>${ipa}${pos}<div style="margin-top:4px">${zh}${en}${syn}${ant}${ex}</div>${addBtn}`;
     document.body.appendChild(pop);
@@ -2027,10 +2030,33 @@
     setTimeout(() => {
       const sel = window.getSelection();
       if (!sel || sel.isCollapsed) { closeWordCard(); return; }
-      const text = sel.toString().trim();
-      if (!text || text.length > 60) { closeWordCard(); return; }
-      // must contain at least one English letter
+      let text = sel.toString().trim();
+      if (!text || text.length > 80) { closeWordCard(); return; }
       if (!/[A-Za-z]/.test(text)) { closeWordCard(); return; }
+      // snap to word boundaries: expand partial selections to nearest full words
+      const range0 = sel.getRangeAt(0);
+      const sc = range0.startContainer, ec = range0.endContainer;
+      if (sc.nodeType === Node.TEXT_NODE && ec.nodeType === Node.TEXT_NODE) {
+        let a = range0.startOffset, b = range0.endOffset;
+        const st = sc.textContent, et = ec.textContent;
+        const isW = c => /[A-Za-z'-]/.test(c);
+        while (a > 0 && isW(st[a - 1])) a -= 1;
+        while (b < et.length && isW(et[b])) b += 1;
+        if (sc === ec) {
+          text = st.slice(a, b).trim();
+        } else {
+          text = (st.slice(a).trim() + " " + et.slice(0, b).trim()).trim();
+        }
+        // update selection to match snapped boundaries
+        try {
+          const r2 = document.createRange();
+          r2.setStart(sc, a);
+          r2.setEnd(ec, b);
+          sel.removeAllRanges();
+          sel.addRange(r2);
+        } catch(e) {}
+      }
+      if (!text || !/[A-Za-z]/.test(text)) { closeWordCard(); return; }
       // get selection rect
       const range = sel.getRangeAt(0);
       const rect = range.getBoundingClientRect();
