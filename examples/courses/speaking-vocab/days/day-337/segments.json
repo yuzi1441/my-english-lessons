@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 398,
-   "segment_count": 3,
+   "word_count": 458,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A real outage hits during handover season. I present the async first documentation with a timeline, the data, and one clear ask. My report covers the overlap hour design, the risks behind it, and the cost of waiting. The final deck includes the follow the sun handoff note and what we learned from it. We align on the written standup quality bar early, so execution never has to guess. In the launch rehearsal, Priya says, \"We share photos on their morning.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Voice notes bridge the gap.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "A real outage hits during handover season. I present the async first documentation with a timeline, the data, and one clear ask. My report covers the overlap hour design, the risks behind it, and the cost of waiting. The final deck includes the follow the sun handoff note and what we learned from it. We align on the written standup quality bar early, so execution never has to guess. In the launch rehearsal, Priya says, \"We share photos on their morning.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Voice notes bridge the gap.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "A real outage hits during handover season. I present the async first documentation with a timeline, the data, and one clear ask. My report covers the follow the sun handoff note, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"We share photos on their morning.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "A real outage hits during handover season. I present the async first documentation with a timeline, the data, and one clear ask. My report covers the follow the sun handoff note, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"We share photos on their morning.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "交接季里来了一次真实故障。我用时间线、数据和一条明确的诉求来汇报异步优先文档。我的报告涵盖重叠时段设计、背后的风险，以及等待的代价。最终的材料里有日不落交接笔记，以及我们从中学到的东西。我们尽早就书面站会质量标准对齐，让执行无需猜测。上线彩排中，Priya说：\"按他们的早晨分享照片。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"语音留言跨越时差。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "交接季里来了一次真实故障。我用时间线、数据和一条明确的诉求来汇报异步优先文档。我的报告涵盖日不落交接笔记、背后的风险，以及等待的代价。上线彩排中，Maria说：\"按他们的早晨分享照片。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "async first documentation",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Sam commands, I watch, the runbooks hold like walls. In the launch rehearsal, Priya says, \"The family calendar shows two timezones.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Holidays get celebrated twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the handoff quality checklist against the requirements, line by line. I put the fair night call rota on the record so the reasoning stays visible. I propose a measurable target for the overlap hour protection policy this quarter. I close the discussion on the async review turnaround targets with a short summary. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "Sam commands, I watch, the runbooks hold like walls. In the launch rehearsal, Priya says, \"The family calendar shows two timezones.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Holidays get celebrated twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the handoff quality checklist against the requirements, line by line. I put the fair night call rota on the record so the reasoning stays visible. I propose a measurable target for the overlap hour protection policy this quarter. I close the discussion on the async review turnaround targets with a short summary. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "Sam commands, I watch, the runbooks hold like walls. In the launch rehearsal, Leo says, \"Voice notes bridge the gap.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the overlap hour design and what we learned from it. We align on the written standup quality bar early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Sam commands, I watch, the runbooks hold like walls. In the launch rehearsal, Leo says, \"Voice notes bridge the gap.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the overlap hour design and what we learned from it. We align on the written standup quality bar early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Sam 指挥，我旁观，手册像墙一样撑住。上线彩排中，Priya说：\"家庭日历显示两个时区。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"节日可以过两次。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了交接质量清单。我把深夜会议公平轮值记录在案，让推理过程保持可见。我为重叠时段保护政策提出了本季度一个可衡量的目标。我用一段简短的总结为异步评审时限目标的讨论收尾。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "Sam 指挥，我旁观，手册像墙一样撑住。上线彩排中，Leo说：\"语音留言跨越时差。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有重叠时段设计，以及我们从中学到的东西。我们尽早就书面站会质量标准对齐，让执行无需猜测。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "handoff quality checklist",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the timezone pain audit with a timeline, the data, and one clear ask. My report covers the global social ritual design, the risks behind it, and the cost of waiting. The final deck includes the recorded demo culture and what we learned from it. We align on the written decision default early, so execution never has to guess. In the launch rehearsal, Maria says, \"Async stories keep bonds warm.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Missing someone needs scheduling.\" To finish, we swap roles and I lead the entire exchange from start to finish. The crisis passed through trained hands.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the timezone pain audit with a timeline, the data, and one clear ask. My report covers the global social ritual design, the risks behind it, and the cost of waiting. The final deck includes the recorded demo culture and what we learned from it. We align on the written decision default early, so execution never has to guess. In the launch rehearsal, Maria says, \"Async stories keep bonds warm.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Missing someone needs scheduling.\" To finish, we swap roles and I lead the entire exchange from start to finish. The crisis passed through trained hands.",
+   "en": "Sam commands, I watch, the runbooks hold like walls. We review the overlap hour protection policy against the requirements, line by line. I put the handoff quality checklist on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"The family calendar shows two timezones.\" To finish, we swap roles and I lead the entire exchange from start to finish. The crisis passed through trained hands.",
+   "tts": "Sam commands, I watch, the runbooks hold like walls. We review the overlap hour protection policy against the requirements, line by line. I put the handoff quality checklist on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"The family calendar shows two timezones.\" To finish, we swap roles and I lead the entire exchange from start to finish. The crisis passed through trained hands.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用时间线、数据和一条明确的诉求来汇报时区痛点审计。我的报告涵盖全球团建仪式设计、背后的风险，以及等待的代价。最终的材料里有录屏演示文化，以及我们从中学到的东西。我们尽早就书面决策默认对齐，让执行无需猜测。上线彩排中，Maria说：\"异步的故事保温亲情。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"想念也是要排期的。\"最后我们互换角色，由我从头到尾主导整段对话。危机穿过了被训练过的手。",
+   "zh": "Sam 指挥，我旁观，手册像墙一样撑住。我们逐行对照需求检查了重叠时段保护政策。我把交接质量清单记录在案，让推理过程保持可见。上线彩排中，Priya说：\"家庭日历显示两个时区。\"最后我们互换角色，由我从头到尾主导整段对话。危机穿过了被训练过的手。",
    "hard": [
     {
      "w": "recorded demo culture",
@@ -146,6 +146,33 @@
      "def": "全球团建仪式设计，线上也干杯"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The crisis passed through trained hands. I propose a measurable target for the fair night call rota this quarter. In the launch rehearsal, Priya says, \"Holidays get celebrated twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the async review turnaround targets with a short summary. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The crisis passed through trained hands. I propose a measurable target for the fair night call rota this quarter. In the launch rehearsal, Priya says, \"Holidays get celebrated twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the async review turnaround targets with a short summary. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "危机穿过了被训练过的手。我为深夜会议公平轮值提出了本季度一个可衡量的目标。上线彩排中，Priya说：\"节日可以过两次。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为异步评审时限目标的讨论收尾。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Sam commands, I watch, the runbooks hold like walls. In the launch rehearsal, Leo says, \"Async stories keep bonds warm.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the timezone pain audit with a timeline, the data, and one clear ask. My report covers the recorded demo culture, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Sam commands, I watch, the runbooks hold like walls. In the launch rehearsal, Leo says, \"Async stories keep bonds warm.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the timezone pain audit with a timeline, the data, and one clear ask. My report covers the recorded demo culture, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "Sam 指挥，我旁观，手册像墙一样撑住。上线彩排中，Leo说：\"异步的故事保温亲情。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报时区痛点审计。我的报告涵盖录屏演示文化、背后的风险，以及等待的代价。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the global social ritual design and what we learned from it. We align on the written decision default early, so execution never has to guess. In the launch rehearsal, Priya says, \"Missing someone needs scheduling.\" To finish, we swap roles and I lead the entire exchange from start to finish. The crisis passed through trained hands.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the global social ritual design and what we learned from it. We align on the written decision default early, so execution never has to guess. In the launch rehearsal, Priya says, \"Missing someone needs scheduling.\" To finish, we swap roles and I lead the entire exchange from start to finish. The crisis passed through trained hands.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。最终的材料里有全球团建仪式设计，以及我们从中学到的东西。我们尽早就书面决策默认对齐，让执行无需猜测。上线彩排中，Priya说：\"想念也是要排期的。\"最后我们互换角色，由我从头到尾主导整段对话。危机穿过了被训练过的手。",
+   "hard": []
   }
  ],
  "chunks": [

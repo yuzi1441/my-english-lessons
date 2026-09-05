@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 411,
-   "segment_count": 3,
+   "word_count": 473,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I draft the graduation speech and delete it four times. I propose a measurable target for the graduation criteria self check this quarter. We align on the handover readiness review early, so execution never has to guess. My report covers the final commit message ritual, the risks behind it, and the cost of waiting. I close the discussion on the repo I leave behind with a short summary. In the launch rehearsal, Priya says, \"Day three hundred sixty five breakfast.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The same congee, a different person eating it.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "I draft the graduation speech and delete it four times. I propose a measurable target for the graduation criteria self check this quarter. We align on the handover readiness review early, so execution never has to guess. My report covers the final commit message ritual, the risks behind it, and the cost of waiting. I close the discussion on the repo I leave behind with a short summary. In the launch rehearsal, Priya says, \"Day three hundred sixty five breakfast.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The same congee, a different person eating it.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "I draft the graduation speech and delete it four times. I propose a measurable target for the graduation criteria self check this quarter. We align on the final commit message ritual early, so execution never has to guess. In the launch rehearsal, Maria says, \"Day three hundred sixty five breakfast.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "I draft the graduation speech and delete it four times. I propose a measurable target for the graduation criteria self check this quarter. We align on the final commit message ritual early, so execution never has to guess. In the launch rehearsal, Maria says, \"Day three hundred sixty five breakfast.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我起草毕业演讲，删了四次。我为毕业标准自查提出了本季度一个可衡量的目标。我们尽早就交接就绪评审对齐，让执行无需猜测。我的报告涵盖最后一次提交的仪式感、背后的风险，以及等待的代价。我用一段简短的总结为留下的仓库的讨论收尾。上线彩排中，Priya说：\"第三百六十五天的早餐。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"同样的粥\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "我起草毕业演讲，删了四次。我为毕业标准自查提出了本季度一个可衡量的目标。我们尽早就最后一次提交的仪式感对齐，让执行无需猜测。上线彩排中，Maria说：\"第三百六十五天的早餐。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "graduation criteria self check",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The fifth draft is three sentences and a thank you list. In the launch rehearsal, Priya says, \"Certificates matter less than calluses.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The notebook is full, start a new one.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the next learner mindset against the requirements, line by line. I put the alumni contribution channels on the record so the reasoning stays visible. I present the successor first week plan with a timeline, the data, and one clear ask. The final deck includes the lessons for the next cohort and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "The fifth draft is three sentences and a thank you list. In the launch rehearsal, Priya says, \"Certificates matter less than calluses.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The notebook is full, start a new one.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the next learner mindset against the requirements, line by line. I put the alumni contribution channels on the record so the reasoning stays visible. I present the successor first week plan with a timeline, the data, and one clear ask. The final deck includes the lessons for the next cohort and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "The fifth draft is three sentences and a thank you list. In the launch rehearsal, Leo says, \"The same congee, a different person eating it.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the handover readiness review, the risks behind it, and the cost of waiting. I close the discussion on the repo I leave behind with a short summary. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "The fifth draft is three sentences and a thank you list. In the launch rehearsal, Leo says, \"The same congee, a different person eating it.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the handover readiness review, the risks behind it, and the cost of waiting. I close the discussion on the repo I leave behind with a short summary. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "第五稿只有三句话，和一长串致谢。上线彩排中，Priya说：\"证书不如手上的茧。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"笔记本写满了\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了下一个学习者心态。我把校友贡献渠道记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报继任者第一周计划。最终的材料里有给下一期的课程，以及我们从中学到的东西。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "第五稿只有三句话，和一长串致谢。上线彩排中，Leo说：\"同样的粥\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖交接就绪评审、背后的风险，以及等待的代价。我用一段简短的总结为留下的仓库的讨论收尾。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "the next learner mindset",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the open source farewell gifts this quarter. We align on the invitation to come back early, so execution never has to guess. My report covers the mentor for the next chapter, the risks behind it, and the cost of waiting. I close the discussion on the rest before the next summit with a short summary. In the launch rehearsal, Maria says, \"Thank the ordinary mornings.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Graduation is a door, not a wall.\" To finish, we swap roles and I lead the entire exchange from start to finish. Speeches shrink as gratitude grows.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the open source farewell gifts this quarter. We align on the invitation to come back early, so execution never has to guess. My report covers the mentor for the next chapter, the risks behind it, and the cost of waiting. I close the discussion on the rest before the next summit with a short summary. In the launch rehearsal, Maria says, \"Thank the ordinary mornings.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Graduation is a door, not a wall.\" To finish, we swap roles and I lead the entire exchange from start to finish. Speeches shrink as gratitude grows.",
+   "en": "The fifth draft is three sentences and a thank you list. We review the successor first week plan against the requirements, line by line. I put the next learner mindset on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"Certificates matter less than calluses.\" To finish, we swap roles and I lead the entire exchange from start to finish. Speeches shrink as gratitude grows.",
+   "tts": "The fifth draft is three sentences and a thank you list. We review the successor first week plan against the requirements, line by line. I put the next learner mindset on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"Certificates matter less than calluses.\" To finish, we swap roles and I lead the entire exchange from start to finish. Speeches shrink as gratitude grows.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为开源告别礼物提出了本季度一个可衡量的目标。我们尽早就回来的邀请对齐，让执行无需猜测。我的报告涵盖下一章的导师、背后的风险，以及等待的代价。我用一段简短的总结为下座山前的休息的讨论收尾。上线彩排中，Maria说：\"感谢那些平凡的清晨。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"毕业是门不是墙。\"最后我们互换角色，由我从头到尾主导整段对话。感恩越大，演讲越短。",
+   "zh": "第五稿只有三句话，和一长串致谢。我们逐行对照需求检查了继任者第一周计划。我把下一个学习者心态记录在案，让推理过程保持可见。上线彩排中，Priya说：\"证书不如手上的茧。\"最后我们互换角色，由我从头到尾主导整段对话。感恩越大，演讲越短。",
    "hard": [
     {
      "w": "mentor for the next chapter",
@@ -146,6 +146,33 @@
      "def": "回来的邀请，门永远开着"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Speeches shrink as gratitude grows. I present the alumni contribution channels with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"The notebook is full, start a new one.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the lessons for the next cohort and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Speeches shrink as gratitude grows. I present the alumni contribution channels with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"The notebook is full, start a new one.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the lessons for the next cohort and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "感恩越大，演讲越短。我用时间线、数据和一条明确的诉求来汇报校友贡献渠道。上线彩排中，Priya说：\"笔记本写满了\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有给下一期的课程，以及我们从中学到的东西。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The fifth draft is three sentences and a thank you list. In the launch rehearsal, Leo says, \"Thank the ordinary mornings.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the open source farewell gifts this quarter. We align on the mentor for the next chapter early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "The fifth draft is three sentences and a thank you list. In the launch rehearsal, Leo says, \"Thank the ordinary mornings.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the open source farewell gifts this quarter. We align on the mentor for the next chapter early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "第五稿只有三句话，和一长串致谢。上线彩排中，Leo说：\"感谢那些平凡的清晨。\"最后我们互换角色，由我从头到尾主导整段对话。我为开源告别礼物提出了本季度一个可衡量的目标。我们尽早就下一章的导师对齐，让执行无需猜测。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the invitation to come back, the risks behind it, and the cost of waiting. I close the discussion on the rest before the next summit with a short summary. In the launch rehearsal, Priya says, \"Graduation is a door, not a wall.\" To finish, we swap roles and I lead the entire exchange from start to finish. Speeches shrink as gratitude grows.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the invitation to come back, the risks behind it, and the cost of waiting. I close the discussion on the rest before the next summit with a short summary. In the launch rehearsal, Priya says, \"Graduation is a door, not a wall.\" To finish, we swap roles and I lead the entire exchange from start to finish. Speeches shrink as gratitude grows.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖回来的邀请、背后的风险，以及等待的代价。我用一段简短的总结为下座山前的休息的讨论收尾。上线彩排中，Priya说：\"毕业是门不是墙。\"最后我们互换角色，由我从头到尾主导整段对话。感恩越大，演讲越短。",
+   "hard": []
   }
  ],
  "chunks": [

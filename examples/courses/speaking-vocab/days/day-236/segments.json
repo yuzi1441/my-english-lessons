@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 363,
-   "segment_count": 3,
+   "word_count": 432,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Launch day arrives; the dashboards hold their breath. During the design review, I raise one careful question about the pool sizing formula. Our mentor walks me through how the connection lifetime policy evolved on this team. I compare two views on the pool metrics dashboard and write both down honestly. We spend the first ten minutes of the review on the pool sizing review. In the review drill, Maria says, \"Light bulbs stocked in advance.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The gift drawer saves emergencies.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Launch day arrives; the dashboards hold their breath. During the design review, I raise one careful question about the pool sizing formula. Our mentor walks me through how the connection lifetime policy evolved on this team. I compare two views on the pool metrics dashboard and write both down honestly. We spend the first ten minutes of the review on the pool sizing review. In the review drill, Maria says, \"Light bulbs stocked in advance.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The gift drawer saves emergencies.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Launch day arrives; the dashboards hold their breath. During the design review, I raise one careful question about the pool sizing formula. Our mentor walks me through how the pool metrics dashboard evolved on this team. In the review drill, Leo says, \"Light bulbs stocked in advance.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Launch day arrives; the dashboards hold their breath. During the design review, I raise one careful question about the pool sizing formula. Our mentor walks me through how the pool metrics dashboard evolved on this team. In the review drill, Leo says, \"Light bulbs stocked in advance.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "大日子到了；仪表盘屏住了呼吸。设计评审中，我就池大小公式提出了一个审慎的问题。导师带我梳理了连接寿命策略在这个团队里的演变。我比较了关于池指标看板的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了池大小评审上。评审演练中，Maria说：\"灯泡提前备好。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"礼物抽屉救急。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "大日子到了；仪表盘屏住了呼吸。设计评审中，我就池大小公式提出了一个审慎的问题。导师带我梳理了池指标看板在这个团队里的演变。评审演练中，Leo说：\"灯泡提前备好。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "pool sizing formula",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. In the review drill, Maria says, \"Batteries have a home.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Reuse jars before recycling.\" We swap roles so I ask the questions this time. I add the warm instance pool to the meeting agenda with three supporting facts. I prepare a one-page brief about the reuse over recreate rule so meetings start from facts. Before deciding, I reread my notes about the connection leak detector twice. The team names one clear owner for the warm pool cost review. We end the week with something shipped and something properly learned this time.",
-   "tts": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. In the review drill, Maria says, \"Batteries have a home.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Reuse jars before recycling.\" We swap roles so I ask the questions this time. I add the warm instance pool to the meeting agenda with three supporting facts. I prepare a one-page brief about the reuse over recreate rule so meetings start from facts. Before deciding, I reread my notes about the connection leak detector twice. The team names one clear owner for the warm pool cost review. We end the week with something shipped and something properly learned this time.",
+   "en": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. In the review drill, Priya says, \"The gift drawer saves emergencies.\" We swap roles so I ask the questions this time. I compare two views on the connection lifetime policy and write both down honestly. We spend the first ten minutes of the review on the pool sizing review. We end the week with something shipped and something properly learned this time.",
+   "tts": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. In the review drill, Priya says, \"The gift drawer saves emergencies.\" We swap roles so I ask the questions this time. I compare two views on the connection lifetime policy and write both down honestly. We spend the first ten minutes of the review on the pool sizing review. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "流量三倍，p95 稳住，作战室点的是披萨不是热修。评审演练中，Maria说：\"电池有自己的家。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"回收前先复用罐子。\"我们互换角色，这次由我来提问。我把热实例池连同三条支撑事实加进了议程。我准备了一页关于复用优先原则的简报，好让会议从事实出发。做决定之前，我把关于连接泄漏检测器的笔记重读了两遍。团队为热池成本评审指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "流量三倍，p95 稳住，作战室点的是披萨不是热修。评审演练中，Priya说：\"礼物抽屉救急。\"我们互换角色，这次由我来提问。我比较了关于连接寿命策略的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了池大小评审上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "warm instance pool",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the prewarm schedule. Our mentor walks me through how the pool configuration as code evolved on this team. I compare two views on the pool exhaustion alarm and write both down honestly. We spend the first ten minutes of the review on the pre allocation strategy. In the review drill, Leo says, \"Stockouts cause midnight runs.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Inventory checked monthly.\" We swap roles so I ask the questions this time. The best launch story is an uneventful one.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the prewarm schedule. Our mentor walks me through how the pool configuration as code evolved on this team. I compare two views on the pool exhaustion alarm and write both down honestly. We spend the first ten minutes of the review on the pre allocation strategy. In the review drill, Leo says, \"Stockouts cause midnight runs.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Inventory checked monthly.\" We swap roles so I ask the questions this time. The best launch story is an uneventful one.",
+   "en": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. I add the connection leak detector to the meeting agenda with three supporting facts. I prepare a one-page brief about the warm instance pool so meetings start from facts. In the review drill, Maria says, \"Batteries have a home.\" We swap roles so I ask the questions this time. The best launch story is an uneventful one.",
+   "tts": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. I add the connection leak detector to the meeting agenda with three supporting facts. I prepare a one-page brief about the warm instance pool so meetings start from facts. In the review drill, Maria says, \"Batteries have a home.\" We swap roles so I ask the questions this time. The best launch story is an uneventful one.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就预热排期提出了一个审慎的问题。导师带我梳理了池配置即代码在这个团队里的演变。我比较了关于池耗尽告警的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了预分配策略上。评审演练中，Leo说：\"断货导致半夜跑超市。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"库存每月盘一次。\"我们互换角色，这次由我来提问。最好的发布故事就是没有故事。",
+   "zh": "流量三倍，p95 稳住，作战室点的是披萨不是热修。我把连接泄漏检测器连同三条支撑事实加进了议程。我准备了一页关于热实例池的简报，好让会议从事实出发。评审演练中，Maria说：\"电池有自己的家。\"我们互换角色，这次由我来提问。最好的发布故事就是没有故事。",
    "hard": [
     {
      "w": "pool exhaustion alarm",
@@ -146,6 +146,33 @@
      "def": "池配置即代码，调参有版本"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The best launch story is an uneventful one. Before deciding, I reread my notes about the reuse over recreate rule twice. In the review drill, Maria says, \"Reuse jars before recycling.\" We swap roles so I ask the questions this time. The team names one clear owner for the warm pool cost review. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The best launch story is an uneventful one. Before deciding, I reread my notes about the reuse over recreate rule twice. In the review drill, Maria says, \"Reuse jars before recycling.\" We swap roles so I ask the questions this time. The team names one clear owner for the warm pool cost review. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "最好的发布故事就是没有故事。做决定之前，我把关于复用优先原则的笔记重读了两遍。评审演练中，Maria说：\"回收前先复用罐子。\"我们互换角色，这次由我来提问。团队为热池成本评审指定了明确的负责人。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. In the review drill, Priya says, \"Stockouts cause midnight runs.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the prewarm schedule. Our mentor walks me through how the pool exhaustion alarm evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "tts": "Traffic triples, p ninety five holds, and the war room orders pizza, not hotfixes. In the review drill, Priya says, \"Stockouts cause midnight runs.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the prewarm schedule. Our mentor walks me through how the pool exhaustion alarm evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "流量三倍，p95 稳住，作战室点的是披萨不是热修。评审演练中，Priya说：\"断货导致半夜跑超市。\"我们互换角色，这次由我来提问。设计评审中，我就预热排期提出了一个审慎的问题。导师带我梳理了池耗尽告警在这个团队里的演变。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the pool configuration as code and write both down honestly. We spend the first ten minutes of the review on the pre allocation strategy. In the review drill, Maria says, \"Inventory checked monthly.\" We swap roles so I ask the questions this time. The best launch story is an uneventful one.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the pool configuration as code and write both down honestly. We spend the first ten minutes of the review on the pre allocation strategy. In the review drill, Maria says, \"Inventory checked monthly.\" We swap roles so I ask the questions this time. The best launch story is an uneventful one.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于池配置即代码的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了预分配策略上。评审演练中，Maria说：\"库存每月盘一次。\"我们互换角色，这次由我来提问。最好的发布故事就是没有故事。",
+   "hard": []
   }
  ],
  "chunks": [

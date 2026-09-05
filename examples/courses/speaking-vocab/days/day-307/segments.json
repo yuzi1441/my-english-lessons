@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 411,
-   "segment_count": 3,
+   "word_count": 487,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The mobile team and we write the API contract first. My report covers the build vs buy framework, the risks behind it, and the cost of waiting. We review the vendor lock in assessment against the requirements, line by line. We align on the decision matrix with weights early, so execution never has to guess. I propose a measurable target for the spike timebox for unknowns this quarter. In the launch rehearsal, Priya says, \"We compare total costs, not stickers.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Repairability beats features this year.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "The mobile team and we write the A P I contract first. My report covers the build vs buy framework, the risks behind it, and the cost of waiting. We review the vendor lock in assessment against the requirements, line by line. We align on the decision matrix with weights early, so execution never has to guess. I propose a measurable target for the spike timebox for unknowns this quarter. In the launch rehearsal, Priya says, \"We compare total costs, not stickers.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Repairability beats features this year.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "The mobile team and we write the API contract first. My report covers the build vs buy framework, the risks behind it, and the cost of waiting. We review the decision matrix with weights against the requirements, line by line. In the launch rehearsal, Maria says, \"We compare total costs, not stickers.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The mobile team and we write the A P I contract first. My report covers the build vs buy framework, the risks behind it, and the cost of waiting. We review the decision matrix with weights against the requirements, line by line. In the launch rehearsal, Maria says, \"We compare total costs, not stickers.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "移动团队和我们先写接口契约。我的报告涵盖自建与采购决策框架、背后的风险，以及等待的代价。我们逐行对照需求检查了供应商锁定评估。我们尽早就带权重的决策矩阵对齐，让执行无需猜测。我为未知项的时间盒探针提出了本季度一个可衡量的目标。上线彩排中，Priya说：\"我们比总账不看标价。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"今年可修性压过功能。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "移动团队和我们先写接口契约。我的报告涵盖自建与采购决策框架、背后的风险，以及等待的代价。我们逐行对照需求检查了带权重的决策矩阵。上线彩排中，Maria说：\"我们比总账不看标价。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "build vs buy framework",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Consumer driven tests let them design the door they will knock on. In the launch rehearsal, Priya says, \"The cheap dryer cost more in repairs.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Brand loyalty needs annual review.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the technology radar exercise on the record so the reasoning stays visible. The final deck includes the pilot before platform commitment and what we learned from it. I present the po c disposal plan with a timeline, the data, and one clear ask. I close the discussion on the reversibility as selection criteria with a short summary. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "Consumer driven tests let them design the door they will knock on. In the launch rehearsal, Priya says, \"The cheap dryer cost more in repairs.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Brand loyalty needs annual review.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the technology radar exercise on the record so the reasoning stays visible. The final deck includes the pilot before platform commitment and what we learned from it. I present the po c disposal plan with a timeline, the data, and one clear ask. I close the discussion on the reversibility as selection criteria with a short summary. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "Consumer driven tests let them design the door they will knock on. In the launch rehearsal, Leo says, \"Repairability beats features this year.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the vendor lock in assessment early, so execution never has to guess. I propose a measurable target for the spike timebox for unknowns this quarter. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Consumer driven tests let them design the door they will knock on. In the launch rehearsal, Leo says, \"Repairability beats features this year.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the vendor lock in assessment early, so execution never has to guess. I propose a measurable target for the spike timebox for unknowns this quarter. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "消费方驱动的测试让他们设计自己要敲的门。上线彩排中，Priya说：\"便宜烘干机修出高价。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"品牌忠诚需要年审。\"最后我们互换角色，由我从头到尾主导整段对话。我把技术雷达演练记录在案，让推理过程保持可见。最终的材料里有平台承诺前先试点，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报原型处置计划。我用一段简短的总结为可逆性作为选型标准的讨论收尾。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "消费方驱动的测试让他们设计自己要敲的门。上线彩排中，Leo说：\"今年可修性压过功能。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就供应商锁定评估对齐，让执行无需猜测。我为未知项的时间盒探针提出了本季度一个可衡量的目标。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "technology radar exercise",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the vendor health monitoring, the risks behind it, and the cost of waiting. We review the annual stack review ritual against the requirements, line by line. We align on the team skill gap analysis early, so execution never has to guess. I propose a measurable target for the total cost of ownership math this quarter. In the launch rehearsal, Maria says, \"Energy labels changed our choices.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"One appliance, one research weekend.\" To finish, we swap roles and I lead the entire exchange from start to finish. Breaking changes now need a town hall, not a pull request.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the vendor health monitoring, the risks behind it, and the cost of waiting. We review the annual stack review ritual against the requirements, line by line. We align on the team skill gap analysis early, so execution never has to guess. I propose a measurable target for the total cost of ownership math this quarter. In the launch rehearsal, Maria says, \"Energy labels changed our choices.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"One appliance, one research weekend.\" To finish, we swap roles and I lead the entire exchange from start to finish. Breaking changes now need a town hall, not a pull request.",
+   "en": "Consumer driven tests let them design the door they will knock on. I put the po c disposal plan on the record so the reasoning stays visible. The final deck includes the technology radar exercise and what we learned from it. In the launch rehearsal, Priya says, \"The cheap dryer cost more in repairs.\" To finish, we swap roles and I lead the entire exchange from start to finish. Breaking changes now need a town hall, not a pull request.",
+   "tts": "Consumer driven tests let them design the door they will knock on. I put the po c disposal plan on the record so the reasoning stays visible. The final deck includes the technology radar exercise and what we learned from it. In the launch rehearsal, Priya says, \"The cheap dryer cost more in repairs.\" To finish, we swap roles and I lead the entire exchange from start to finish. Breaking changes now need a town hall, not a pull request.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖供应商健康监控、背后的风险，以及等待的代价。我们逐行对照需求检查了年度技术栈复盘仪式。我们尽早就团队技能缺口分析对齐，让执行无需猜测。我为总拥有成本算术提出了本季度一个可衡量的目标。上线彩排中，Maria说：\"能效标签改变了选择。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"一件家电\"最后我们互换角色，由我从头到尾主导整段对话。破坏性变更现在要开镇民大会，而不是偷偷合 PR。",
+   "zh": "消费方驱动的测试让他们设计自己要敲的门。我把原型处置计划记录在案，让推理过程保持可见。最终的材料里有技术雷达演练，以及我们从中学到的东西。上线彩排中，Priya说：\"便宜烘干机修出高价。\"最后我们互换角色，由我从头到尾主导整段对话。破坏性变更现在要开镇民大会，而不是偷偷合 PR。",
    "hard": [
     {
      "w": "team skill gap analysis",
@@ -146,6 +146,33 @@
      "def": "年度技术栈复盘仪式，旧工具重新面试"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Breaking changes now need a town hall, not a pull request. I present the pilot before platform commitment with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"Brand loyalty needs annual review.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the reversibility as selection criteria with a short summary. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Breaking changes now need a town hall, not a pull request. I present the pilot before platform commitment with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"Brand loyalty needs annual review.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the reversibility as selection criteria with a short summary. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "破坏性变更现在要开镇民大会，而不是偷偷合 PR。我用时间线、数据和一条明确的诉求来汇报平台承诺前先试点。上线彩排中，Priya说：\"品牌忠诚需要年审。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为可逆性作为选型标准的讨论收尾。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Consumer driven tests let them design the door they will knock on. In the launch rehearsal, Leo says, \"Energy labels changed our choices.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the vendor health monitoring, the risks behind it, and the cost of waiting. We review the team skill gap analysis against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Consumer driven tests let them design the door they will knock on. In the launch rehearsal, Leo says, \"Energy labels changed our choices.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the vendor health monitoring, the risks behind it, and the cost of waiting. We review the team skill gap analysis against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "消费方驱动的测试让他们设计自己要敲的门。上线彩排中，Leo说：\"能效标签改变了选择。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖供应商健康监控、背后的风险，以及等待的代价。我们逐行对照需求检查了团队技能缺口分析。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the annual stack review ritual early, so execution never has to guess. I propose a measurable target for the total cost of ownership math this quarter. In the launch rehearsal, Priya says, \"One appliance, one research weekend.\" To finish, we swap roles and I lead the entire exchange from start to finish. Breaking changes now need a town hall, not a pull request.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the annual stack review ritual early, so execution never has to guess. I propose a measurable target for the total cost of ownership math this quarter. In the launch rehearsal, Priya says, \"One appliance, one research weekend.\" To finish, we swap roles and I lead the entire exchange from start to finish. Breaking changes now need a town hall, not a pull request.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们尽早就年度技术栈复盘仪式对齐，让执行无需猜测。我为总拥有成本算术提出了本季度一个可衡量的目标。上线彩排中，Priya说：\"一件家电\"最后我们互换角色，由我从头到尾主导整段对话。破坏性变更现在要开镇民大会，而不是偷偷合 PR。",
+   "hard": []
   }
  ],
  "chunks": [

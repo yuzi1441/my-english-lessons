@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 326,
-   "segment_count": 3,
+   "word_count": 383,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A robot named Checker visits our app every five minutes. My notes about the rollback trigger look clearer this week. I spend ten quiet minutes on the data migration rollback after the standup. I keep one real example of the incident update cadence in my notebook. There is a short paragraph about the plain language updates in the guide. In the warm-up round, Leo says, \"Ten pages before breakfast.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Fiction trains empathy.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "A robot named Checker visits our app every five minutes. My notes about the rollback trigger look clearer this week. I spend ten quiet minutes on the data migration rollback after the standup. I keep one real example of the incident update cadence in my notebook. There is a short paragraph about the plain language updates in the guide. In the warm-up round, Leo says, \"Ten pages before breakfast.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Fiction trains empathy.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "A robot named Checker visits our app every five minutes. My notes about the rollback trigger look clearer this week. I spend ten quiet minutes on the incident update cadence after the standup. In the warm-up round, Priya says, \"Ten pages before breakfast.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "A robot named Checker visits our app every five minutes. My notes about the rollback trigger look clearer this week. I spend ten quiet minutes on the incident update cadence after the standup. In the warm-up round, Priya says, \"Ten pages before breakfast.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个叫 Checker 的机器人每五分钟访问我们的应用。这周我关于回滚触发器的笔记清楚多了。站会之后，我安安静静花了十分钟在数据迁移回滚上。我在笔记本里留了一个事故更新节奏的真实例子。指南里有一小段关于平实语言更新的介绍。热身环节里，Leo说：\"早餐前十页书。\"然后我们换角色，由我来问。热身环节里，Maria说：\"小说训练同理心。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "一个叫 Checker 的机器人每五分钟访问我们的应用。这周我关于回滚触发器的笔记清楚多了。站会之后，我安安静静花了十分钟在事故更新节奏上。热身环节里，Priya说：\"早餐前十页书。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "rollback trigger",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "It saves a draft, logs out, and files a ticket if anything smells. In the warm-up round, Leo says, \"Paper beats doom scrolling.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The queue on my shelf.\" Then we swap roles and I ask it back. I add the flag hygiene review to my study notes before I forget it. I go over the dual run comparison one more time before lunch. Sam asks me about the impact statement, and I explain the basics. I ask one good question about the next update time in the meeting. Small progress today prepares the bigger step tomorrow.",
-   "tts": "It saves a draft, logs out, and files a ticket if anything smells. In the warm-up round, Leo says, \"Paper beats doom scrolling.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The queue on my shelf.\" Then we swap roles and I ask it back. I add the flag hygiene review to my study notes before I forget it. I go over the dual run comparison one more time before lunch. Sam asks me about the impact statement, and I explain the basics. I ask one good question about the next update time in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "en": "It saves a draft, logs out, and files a ticket if anything smells. In the warm-up round, Maria says, \"Fiction trains empathy.\" Then we swap roles and I ask it back. I keep one real example of the data migration rollback in my notebook. There is a short paragraph about the plain language updates in the guide. Small progress today prepares the bigger step tomorrow.",
+   "tts": "It saves a draft, logs out, and files a ticket if anything smells. In the warm-up round, Maria says, \"Fiction trains empathy.\" Then we swap roles and I ask it back. I keep one real example of the data migration rollback in my notebook. There is a short paragraph about the plain language updates in the guide. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "它存一份草稿、登出，稍有异味就开工单。热身环节里，Leo说：\"纸书胜过刷手机。\"然后我们换角色，由我来问。热身环节里，Maria说：\"书架上的待读队列。\"然后我们换角色，由我来问。我趁还没忘，把开关卫生检查记进了学习笔记。午饭前我又过了一遍双跑对比。Sam 问起影响声明，我讲了讲基础。会上关于下次更新时间，我问了一个好问题。今天的小进步为明天更大的跨越做准备。",
+   "zh": "它存一份草稿、登出，稍有异味就开工单。热身环节里，Maria说：\"小说训练同理心。\"然后我们换角色，由我来问。我在笔记本里留了一个数据迁移回滚的真实例子。指南里有一小段关于平实语言更新的介绍。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "flag hygiene review",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the post resolution notice look clearer this week. I spend ten quiet minutes on the internal versus external message after the standup. I keep one real example of the canary metrics diff in my notebook. There is a short paragraph about the rollback confidence in the guide. In the warm-up round, Priya says, \"Notes in the margin.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Finish or release, no guilt.\" Then we swap roles and I ask it back. Our most reliable user never sleeps.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the post resolution notice look clearer this week. I spend ten quiet minutes on the internal versus external message after the standup. I keep one real example of the canary metrics diff in my notebook. There is a short paragraph about the rollback confidence in the guide. In the warm-up round, Priya says, \"Notes in the margin.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Finish or release, no guilt.\" Then we swap roles and I ask it back. Our most reliable user never sleeps.",
+   "en": "It saves a draft, logs out, and files a ticket if anything smells. I add the impact statement to my study notes before I forget it. I go over the flag hygiene review one more time before lunch. In the warm-up round, Leo says, \"Paper beats doom scrolling.\" Then we swap roles and I ask it back. Our most reliable user never sleeps.",
+   "tts": "It saves a draft, logs out, and files a ticket if anything smells. I add the impact statement to my study notes before I forget it. I go over the flag hygiene review one more time before lunch. In the warm-up round, Leo says, \"Paper beats doom scrolling.\" Then we swap roles and I ask it back. Our most reliable user never sleeps.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于解除通知的笔记清楚多了。站会之后，我安安静静花了十分钟在内外两条线上。我在笔记本里留了一个金丝雀指标对比的真实例子。指南里有一小段关于回滚信心的介绍。热身环节里，Priya说：\"页边写笔记。\"然后我们换角色，由我来问。热身环节里，Leo说：\"读完或送出\"然后我们换角色，由我来问。我们最可靠的用户从不睡觉。",
+   "zh": "它存一份草稿、登出，稍有异味就开工单。我趁还没忘，把影响声明记进了学习笔记。午饭前我又过了一遍开关卫生检查。热身环节里，Leo说：\"纸书胜过刷手机。\"然后我们换角色，由我来问。我们最可靠的用户从不睡觉。",
    "hard": [
     {
      "w": "canary metrics diff",
@@ -146,6 +146,33 @@
      "def": "内外两条线，对内对外不同版本"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Our most reliable user never sleeps. Sam asks me about the dual run comparison, and I explain the basics. In the warm-up round, Leo says, \"The queue on my shelf.\" Then we swap roles and I ask it back. I ask one good question about the next update time in the meeting. I end the day with fewer unknowns than I started with.",
+   "tts": "Our most reliable user never sleeps. Sam asks me about the dual run comparison, and I explain the basics. In the warm-up round, Leo says, \"The queue on my shelf.\" Then we swap roles and I ask it back. I ask one good question about the next update time in the meeting. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "我们最可靠的用户从不睡觉。Sam 问起双跑对比，我讲了讲基础。热身环节里，Leo说：\"书架上的待读队列。\"然后我们换角色，由我来问。会上关于下次更新时间，我问了一个好问题。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "It saves a draft, logs out, and files a ticket if anything smells. In the warm-up round, Maria says, \"Notes in the margin.\" Then we swap roles and I ask it back. My notes about the post resolution notice look clearer this week. I spend ten quiet minutes on the canary metrics diff after the standup. Small progress today prepares the bigger step tomorrow.",
+   "tts": "It saves a draft, logs out, and files a ticket if anything smells. In the warm-up round, Maria says, \"Notes in the margin.\" Then we swap roles and I ask it back. My notes about the post resolution notice look clearer this week. I spend ten quiet minutes on the canary metrics diff after the standup. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "它存一份草稿、登出，稍有异味就开工单。热身环节里，Maria说：\"页边写笔记。\"然后我们换角色，由我来问。这周我关于解除通知的笔记清楚多了。站会之后，我安安静静花了十分钟在金丝雀指标对比上。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the internal versus external message in my notebook. There is a short paragraph about the rollback confidence in the guide. In the warm-up round, Leo says, \"Finish or release, no guilt.\" Then we swap roles and I ask it back. Our most reliable user never sleeps.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the internal versus external message in my notebook. There is a short paragraph about the rollback confidence in the guide. In the warm-up round, Leo says, \"Finish or release, no guilt.\" Then we swap roles and I ask it back. Our most reliable user never sleeps.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个内外两条线的真实例子。指南里有一小段关于回滚信心的介绍。热身环节里，Leo说：\"读完或送出\"然后我们换角色，由我来问。我们最可靠的用户从不睡觉。",
+   "hard": []
   }
  ],
  "chunks": [

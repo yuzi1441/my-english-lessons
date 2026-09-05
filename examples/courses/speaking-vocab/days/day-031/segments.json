@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 295,
-   "segment_count": 3,
+   "word_count": 369,
+   "segment_count": 6,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业表达 · 提炼观点 · 做一次英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Today Maria gives me my first real assignment: saving drafts offline. I suggest that we check the text editor first. After a short break, I reread my notes about the cursor after lunch. During the review, I ask one question about the gitignore file. I keep one real example of the ignore rule in my notes. Before we move on, Priya asks, \"Good morning! Did you sleep well?\" I answer, and we compare notes. Before we move on, Priya says, \"The commute was smooth today.\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
-   "tts": "Today Maria gives me my first real assignment: saving drafts offline. I suggest that we check the text editor first. After a short break, I reread my notes about the cursor after lunch. During the review, I ask one question about the gitignore file. I keep one real example of the ignore rule in my notes. Before we move on, Priya asks, \"Good morning! Did you sleep well?\" I answer, and we compare notes. Before we move on, Priya says, \"The commute was smooth today.\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
+   "en": "Today Maria gives me my first real assignment: saving drafts offline. I suggest that we check the text editor first. After a short break, I reread my notes about the gitignore file after lunch. Before we move on, Maria asks, \"Good morning! Did you sleep well?\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
+   "tts": "Today Maria gives me my first real assignment: saving drafts offline. I suggest that we check the text editor first. After a short break, I reread my notes about the gitignore file after lunch. Before we move on, Maria asks, \"Good morning! Did you sleep well?\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "今天 Maria 交给我第一个真正的任务：离线保存草稿。我建议我们先检查文本编辑器。稍作休息后，午饭后我重读了关于光标的笔记。评审时，我就gitignore 文件提了一个问题。我在笔记里留了一个忽略规则的真实例子。继续之前，Priya问：\"早上好！你睡得好吗？\"我回答，我们互相对了笔记。继续之前，Priya说：\"今天通勤很顺利。\"我回答，我们互相对了笔记。团队就计划达成一致，我记录了决定。",
+   "zh": "今天 Maria 交给我第一个真正的任务：离线保存草稿。我建议我们先检查文本编辑器。稍作休息后，午饭后我重读了关于gitignore 文件的笔记。继续之前，Maria问：\"早上好！你睡得好吗？\"我回答，然后把它用进了自己的汇报。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "text editor",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. Before we move on, Leo says, \"I need my morning coffee.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Have a good one!\" I answer clearly and note the phrasing. We spend a few minutes on the undo at the standup. Before I reply, I look at the redo once more. I double-check the staged file before the review. I go through the staging area with Priya and note her advice. The day ends with a clear plan for tomorrow.",
-   "tts": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. Before we move on, Leo says, \"I need my morning coffee.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Have a good one!\" I answer clearly and note the phrasing. We spend a few minutes on the undo at the standup. Before I reply, I look at the redo once more. I double-check the staged file before the review. I go through the staging area with Priya and note her advice. The day ends with a clear plan for tomorrow.",
+   "en": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. Before we move on, Priya says, \"The commute was smooth today.\" I answer, and we compare notes. During the review, I ask one question about the cursor. I keep one real example of the ignore rule in my notes. The day ends with a clear plan for tomorrow.",
+   "tts": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. Before we move on, Priya says, \"The commute was smooth today.\" I answer, and we compare notes. During the review, I ask one question about the cursor. I keep one real example of the ignore rule in my notes. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "喝咖啡时，Leo 说：“多记笔记，尽早提问。”我把这句话记了下来。继续之前，Leo说：\"我需要一杯早咖啡。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"祝你今天顺利！\"我清楚地回答，并记下了这个说法。站会上我们花了几分钟讨论撤销。回复之前，我又看了一遍重做。评审之前，我再核对一遍已暂存文件。我和 Priya 过了一遍暂存区，记下了她的建议。这一天以一份清晰的明日计划结束。",
+   "zh": "喝咖啡时，Leo 说：“多记笔记，尽早提问。”我把这句话记了下来。继续之前，Priya说：\"今天通勤很顺利。\"我回答，我们互相对了笔记。评审时，我就光标提了一个问题。我在笔记里留了一个忽略规则的真实例子。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "undo",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I unstage a file, and I record the reason. If we check status, the result should be safe. After a short break, I add the keyboard shortcut to my checklist for tomorrow. I walk a new teammate through the auto indent. Before we move on, Leo says, \"See you at the standup.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Take your time.\" I answer clearly and note the phrasing. The assignment feels big, but my plan is small steps.",
-   "tts": "Before I leave, I write a short summary for the team. I unstage a file, and I record the reason. If we check status, the result should be safe. After a short break, I add the keyboard shortcut to my checklist for tomorrow. I walk a new teammate through the auto indent. Before we move on, Leo says, \"See you at the standup.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Take your time.\" I answer clearly and note the phrasing. The assignment feels big, but my plan is small steps.",
+   "en": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. After a short break, We spend a few minutes on the staged file at the standup. Before I reply, I look at the undo once more. Before we move on, Leo says, \"I need my morning coffee.\" I answer clearly and note the phrasing. The assignment feels big, but my plan is small steps.",
+   "tts": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. After a short break, We spend a few minutes on the staged file at the standup. Before I reply, I look at the undo once more. Before we move on, Leo says, \"I need my morning coffee.\" I answer clearly and note the phrasing. The assignment feels big, but my plan is small steps.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我取消暂存，并记录了原因。如果我们查看状态，结果应该是安全的。稍作休息后，我把快捷键加进了明天的清单。我带一位新队友过了一遍自动缩进。继续之前，Leo说：\"站会上见。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"不着急\"我清楚地回答，并记下了这个说法。任务感觉很大，但我的计划是一小步一小步来。",
+   "zh": "喝咖啡时，Leo 说：“多记笔记，尽早提问。”我把这句话记了下来。稍作休息后，站会上我们花了几分钟讨论已暂存文件。回复之前，我又看了一遍撤销。继续之前，Leo说：\"我需要一杯早咖啡。\"我清楚地回答，并记下了这个说法。任务感觉很大，但我的计划是一小步一小步来。",
    "hard": [
     {
      "w": "keyboard shortcut",
@@ -146,6 +146,33 @@
      "def": "查看状态，确认哪些文件有改动"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The assignment feels big, but my plan is small steps. I double-check the redo before the review. Before we move on, Priya says, \"Have a good one!\" I answer, and we compare notes. After a short break, I go through the staging area with Priya and note her advice. The team agrees on the plan, and I record the decision.",
+   "tts": "The assignment feels big, but my plan is small steps. I double-check the redo before the review. Before we move on, Priya says, \"Have a good one!\" I answer, and we compare notes. After a short break, I go through the staging area with Priya and note her advice. The team agrees on the plan, and I record the decision.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "任务感觉很大，但我的计划是一小步一小步来。评审之前，我再核对一遍重做。继续之前，Priya说：\"祝你今天顺利！\"我回答，我们互相对了笔记。稍作休息后，我和 Priya 过了一遍暂存区，记下了她的建议。团队就计划达成一致，我记录了决定。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. Before we move on, Priya says, \"See you at the standup.\" I answer, and we compare notes. After a short break, I unstage a file, and I record the reason. I add the keyboard shortcut to my checklist for tomorrow. The day ends with a clear plan for tomorrow.",
+   "tts": "At coffee, Leo says, \"Take notes, ask early.\" I write that down. Before we move on, Priya says, \"See you at the standup.\" I answer, and we compare notes. After a short break, I unstage a file, and I record the reason. I add the keyboard shortcut to my checklist for tomorrow. The day ends with a clear plan for tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "喝咖啡时，Leo 说：“多记笔记，尽早提问。”我把这句话记了下来。继续之前，Priya说：\"站会上见。\"我回答，我们互相对了笔记。稍作休息后，我取消暂存，并记录了原因。我把快捷键加进了明天的清单。这一天以一份清晰的明日计划结束。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I write a short summary for the team. After that, If we check status, the result should be safe. I walk a new teammate through the auto indent. Before we move on, Leo says, \"Take your time.\" I answer clearly and note the phrasing. The assignment feels big, but my plan is small steps.",
+   "tts": "Before I leave, I write a short summary for the team. After that, If we check status, the result should be safe. I walk a new teammate through the auto indent. Before we move on, Leo says, \"Take your time.\" I answer clearly and note the phrasing. The assignment feels big, but my plan is small steps.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队写了一份简短的总结。在那之后，如果我们查看状态，结果应该是安全的。我带一位新队友过了一遍自动缩进。继续之前，Leo说：\"不着急\"我清楚地回答，并记下了这个说法。任务感觉很大，但我的计划是一小步一小步来。",
+   "hard": []
   }
  ],
  "chunks": [

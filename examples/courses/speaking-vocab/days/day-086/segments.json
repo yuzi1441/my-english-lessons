@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 323,
-   "segment_count": 3,
+   "word_count": 389,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My first runbook joins the team wiki. I ask one good question about the feedback widget in the meeting. There is a short paragraph about the sentiment tag in the guide. My notes about the tech debt register look clearer this week. I go over the debt interest one more time before lunch. In the warm-up round, Maria says, \"My handwriting is a maze.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I write slower on paper.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
-   "tts": "My first runbook joins the team wiki. I ask one good question about the feedback widget in the meeting. There is a short paragraph about the sentiment tag in the guide. My notes about the tech debt register look clearer this week. I go over the debt interest one more time before lunch. In the warm-up round, Maria says, \"My handwriting is a maze.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I write slower on paper.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "en": "My first runbook joins the team wiki. I ask one good question about the feedback widget in the meeting. There is a short paragraph about the tech debt register in the guide. In the warm-up round, Leo says, \"My handwriting is a maze.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "My first runbook joins the team wiki. I ask one good question about the feedback widget in the meeting. There is a short paragraph about the tech debt register in the guide. In the warm-up round, Leo says, \"My handwriting is a maze.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的第一份操作手册进了团队 Wiki。会上关于反馈组件，我问了一个好问题。指南里有一小段关于情感标注的介绍。这周我关于技术债清单的笔记清楚多了。午饭前我又过了一遍债务利息。热身环节里，Maria说：\"我的字迹像迷宫。\"然后我们换角色，由我来问。热身环节里，Priya说：\"纸上我写得慢一些。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
+   "zh": "我的第一份操作手册进了团队 Wiki。会上关于反馈组件，我问了一个好问题。指南里有一小段关于技术债清单的介绍。热身环节里，Leo说：\"我的字迹像迷宫。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "feedback widget",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I write it for the person who is tired, new, and alone at 3 a.m. In the warm-up round, Maria says, \"Letters to future me.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Lists keep me honest.\" Then we swap roles and I ask it back. I add the triage inbox to my study notes before I forget it. I spend ten quiet minutes on the user interview after the standup. I keep one real example of the refactor window in my notebook. Sam asks me about the strangler pattern, and I explain the basics. I end the day with fewer unknowns than I started with.",
-   "tts": "I write it for the person who is tired, new, and alone at 3 a.m. In the warm-up round, Maria says, \"Letters to future me.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Lists keep me honest.\" Then we swap roles and I ask it back. I add the triage inbox to my study notes before I forget it. I spend ten quiet minutes on the user interview after the standup. I keep one real example of the refactor window in my notebook. Sam asks me about the strangler pattern, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "en": "I write it for the person who is tired, new, and alone at 3 a.m. In the warm-up round, Priya says, \"I write slower on paper.\" Then we swap roles and I ask it back. My notes about the sentiment tag look clearer this week. I go over the debt interest one more time before lunch. I end the day with fewer unknowns than I started with.",
+   "tts": "I write it for the person who is tired, new, and alone at 3 a.m. In the warm-up round, Priya says, \"I write slower on paper.\" Then we swap roles and I ask it back. My notes about the sentiment tag look clearer this week. I go over the debt interest one more time before lunch. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我为那个疲惫、新来、凌晨三点独自值班的人而写。热身环节里，Maria说：\"写给未来自己的信。\"然后我们换角色，由我来问。热身环节里，Priya说：\"清单让我诚实。\"然后我们换角色，由我来问。我趁还没忘，把分诊收件箱记进了学习笔记。站会之后，我安安静静花了十分钟在用户访谈上。我在笔记本里留了一个重构窗口的真实例子。Sam 问起绞杀者模式，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我为那个疲惫、新来、凌晨三点独自值班的人而写。热身环节里，Priya说：\"纸上我写得慢一些。\"然后我们换角色，由我来问。这周我关于情感标注的笔记清楚多了。午饭前我又过了一遍债务利息。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "triage inbox",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the deprecation budget in the meeting. There is a short paragraph about the debt review in the guide. My notes about the pain point look clearer this week. I close the loop with users, then I take a short break. In the warm-up round, Leo says, \"The pen matters less than the habit.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Ink dries, words stay.\" Then we swap roles and I ask it back. Writing for your weakest moment is real documentation.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the deprecation budget in the meeting. There is a short paragraph about the debt review in the guide. My notes about the pain point look clearer this week. I close the loop with users, then I take a short break. In the warm-up round, Leo says, \"The pen matters less than the habit.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Ink dries, words stay.\" Then we swap roles and I ask it back. Writing for your weakest moment is real documentation.",
+   "en": "I write it for the person who is tired, new, and alone at 3 a.m. I add the refactor window to my study notes before I forget it. I spend ten quiet minutes on the triage inbox after the standup. In the warm-up round, Maria says, \"Letters to future me.\" Then we swap roles and I ask it back. Writing for your weakest moment is real documentation.",
+   "tts": "I write it for the person who is tired, new, and alone at 3 a.m. I add the refactor window to my study notes before I forget it. I spend ten quiet minutes on the triage inbox after the standup. In the warm-up round, Maria says, \"Letters to future me.\" Then we swap roles and I ask it back. Writing for your weakest moment is real documentation.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于弃用预算，我问了一个好问题。指南里有一小段关于技术债评审的介绍。这周我关于痛点的笔记清楚多了。我向用户闭环，然后休息了一下。热身环节里，Leo说：\"笔不重要\"然后我们换角色，由我来问。热身环节里，Maria说：\"墨水会干\"然后我们换角色，由我来问。为你最脆弱的时刻而写，才是真正的文档。",
+   "zh": "我为那个疲惫、新来、凌晨三点独自值班的人而写。我趁还没忘，把重构窗口记进了学习笔记。站会之后，我安安静静花了十分钟在分诊收件箱上。热身环节里，Maria说：\"写给未来自己的信。\"然后我们换角色，由我来问。为你最脆弱的时刻而写，才是真正的文档。",
    "hard": [
     {
      "w": "pain point",
@@ -146,6 +146,33 @@
      "def": "技术债评审，定期决定还哪笔账"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Writing for your weakest moment is real documentation. I keep one real example of the user interview in my notebook. In the warm-up round, Maria says, \"Lists keep me honest.\" Then we swap roles and I ask it back. Sam asks me about the strangler pattern, and I explain the basics. The task moves forward, and so does my confidence.",
+   "tts": "Writing for your weakest moment is real documentation. I keep one real example of the user interview in my notebook. In the warm-up round, Maria says, \"Lists keep me honest.\" Then we swap roles and I ask it back. Sam asks me about the strangler pattern, and I explain the basics. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "为你最脆弱的时刻而写，才是真正的文档。我在笔记本里留了一个用户访谈的真实例子。热身环节里，Maria说：\"清单让我诚实。\"然后我们换角色，由我来问。Sam 问起绞杀者模式，我讲了讲基础。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "I write it for the person who is tired, new, and alone at 3 a.m. In the warm-up round, Priya says, \"The pen matters less than the habit.\" Then we swap roles and I ask it back. I ask one good question about the deprecation budget in the meeting. There is a short paragraph about the pain point in the guide. I end the day with fewer unknowns than I started with.",
+   "tts": "I write it for the person who is tired, new, and alone at 3 a.m. In the warm-up round, Priya says, \"The pen matters less than the habit.\" Then we swap roles and I ask it back. I ask one good question about the deprecation budget in the meeting. There is a short paragraph about the pain point in the guide. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我为那个疲惫、新来、凌晨三点独自值班的人而写。热身环节里，Priya说：\"笔不重要\"然后我们换角色，由我来问。会上关于弃用预算，我问了一个好问题。指南里有一小段关于痛点的介绍。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the debt review look clearer this week. I close the loop with users, then I take a short break. In the warm-up round, Maria says, \"Ink dries, words stay.\" Then we swap roles and I ask it back. Writing for your weakest moment is real documentation.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the debt review look clearer this week. I close the loop with users, then I take a short break. In the warm-up round, Maria says, \"Ink dries, words stay.\" Then we swap roles and I ask it back. Writing for your weakest moment is real documentation.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于技术债评审的笔记清楚多了。我向用户闭环，然后休息了一下。热身环节里，Maria说：\"墨水会干\"然后我们换角色，由我来问。为你最脆弱的时刻而写，才是真正的文档。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 402,
-   "segment_count": 3,
+   "word_count": 471,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The year's biggest traffic day arrives; the new architecture yawns. We review the legacy system assessment matrix against the requirements, line by line. My report covers the code archaeology techniques, the risks behind it, and the cost of waiting. The final deck includes the characterization test blanket and what we learned from it. I present the strangler route table with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"The twenty year washing machine audit.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Repair quote versus new price math.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "The year's biggest traffic day arrives; the new architecture yawns. We review the legacy system assessment matrix against the requirements, line by line. My report covers the code archaeology techniques, the risks behind it, and the cost of waiting. The final deck includes the characterization test blanket and what we learned from it. I present the strangler route table with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"The twenty year washing machine audit.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Repair quote versus new price math.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "The year's biggest traffic day arrives; the new architecture yawns. We review the legacy system assessment matrix against the requirements, line by line. My report covers the characterization test blanket, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"The twenty year washing machine audit.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "The year's biggest traffic day arrives; the new architecture yawns. We review the legacy system assessment matrix against the requirements, line by line. My report covers the characterization test blanket, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"The twenty year washing machine audit.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "全年最大流量日到来；新架构打了个哈欠。我们逐行对照需求检查了遗留系统评估矩阵。我的报告涵盖代码考古技法、背后的风险，以及等待的代价。最终的材料里有特征测试毯子，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报绞杀者路由表。上线彩排中，Maria说：\"二十年洗衣机年审。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"维修报价与新品价格对比。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "全年最大流量日到来；新架构打了个哈欠。我们逐行对照需求检查了遗留系统评估矩阵。我的报告涵盖特征测试毯子、背后的风险，以及等待的代价。上线彩排中，Leo说：\"二十年洗衣机年审。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "legacy system assessment matrix",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Regions balance, queues breathe, and the war room orders dessert. In the launch rehearsal, Maria says, \"Sentimental value gets a quota.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The sewing machine earned its shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the institutional knowledge extraction with a short summary. I propose a measurable target for the rewrite risk assessment this quarter. I put the legacy domain glossary on the record so the reasoning stays visible. We align on the original author interview notes early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Regions balance, queues breathe, and the war room orders dessert. In the launch rehearsal, Maria says, \"Sentimental value gets a quota.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The sewing machine earned its shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the institutional knowledge extraction with a short summary. I propose a measurable target for the rewrite risk assessment this quarter. I put the legacy domain glossary on the record so the reasoning stays visible. We align on the original author interview notes early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Regions balance, queues breathe, and the war room orders dessert. In the launch rehearsal, Priya says, \"Repair quote versus new price math.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the code archaeology techniques and what we learned from it. I present the strangler route table with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Regions balance, queues breathe, and the war room orders dessert. In the launch rehearsal, Priya says, \"Repair quote versus new price math.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the code archaeology techniques and what we learned from it. I present the strangler route table with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "区域均衡、队列呼吸，作战室点了甜点。上线彩排中，Maria说：\"情感价值也有配额。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"缝纫机挣得了它的位置。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为组织知识萃取的讨论收尾。我为重写风险评估提出了本季度一个可衡量的目标。我把遗留领域术语表记录在案，让推理过程保持可见。我们尽早就原作者访谈笔记对齐，让执行无需猜测。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "区域均衡、队列呼吸，作战室点了甜点。上线彩排中，Priya说：\"维修报价与新品价格对比。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有代码考古技法，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报绞杀者路由表。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "institutional knowledge extraction",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the parallel modern stack pilot against the requirements, line by line. My report covers the retirement celebration checklist, the risks behind it, and the cost of waiting. The final deck includes the encapsulation first strategy and what we learned from it. I present the sunset vs invest decision with a timeline, the data, and one clear ask. In the launch rehearsal, Leo says, \"Parts availability decides lifespan.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Old friends need usage tests.\" To finish, we swap roles and I lead the entire exchange from start to finish. We watched the dashboards the way you watch a campfire.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the parallel modern stack pilot against the requirements, line by line. My report covers the retirement celebration checklist, the risks behind it, and the cost of waiting. The final deck includes the encapsulation first strategy and what we learned from it. I present the sunset vs invest decision with a timeline, the data, and one clear ask. In the launch rehearsal, Leo says, \"Parts availability decides lifespan.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Old friends need usage tests.\" To finish, we swap roles and I lead the entire exchange from start to finish. We watched the dashboards the way you watch a campfire.",
+   "en": "Regions balance, queues breathe, and the war room orders dessert. I close the discussion on the legacy domain glossary with a short summary. I propose a measurable target for the institutional knowledge extraction this quarter. In the launch rehearsal, Maria says, \"Sentimental value gets a quota.\" To finish, we swap roles and I lead the entire exchange from start to finish. We watched the dashboards the way you watch a campfire.",
+   "tts": "Regions balance, queues breathe, and the war room orders dessert. I close the discussion on the legacy domain glossary with a short summary. I propose a measurable target for the institutional knowledge extraction this quarter. In the launch rehearsal, Maria says, \"Sentimental value gets a quota.\" To finish, we swap roles and I lead the entire exchange from start to finish. We watched the dashboards the way you watch a campfire.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了新栈并行试点。我的报告涵盖退役庆祝清单、背后的风险，以及等待的代价。最终的材料里有封装优先策略，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报日落还是投入决策。上线彩排中，Leo说：\"配件供给决定寿命。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"老朋友也要通过使用测试。\"最后我们互换角色，由我从头到尾主导整段对话。我们看着仪表盘，像看一堆篝火。",
+   "zh": "区域均衡、队列呼吸，作战室点了甜点。我用一段简短的总结为遗留领域术语表的讨论收尾。我为组织知识萃取提出了本季度一个可衡量的目标。上线彩排中，Maria说：\"情感价值也有配额。\"最后我们互换角色，由我从头到尾主导整段对话。我们看着仪表盘，像看一堆篝火。",
    "hard": [
     {
      "w": "encapsulation first strategy",
@@ -146,6 +146,33 @@
      "def": "退役庆祝清单，老功臣体面谢幕"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "We watched the dashboards the way you watch a campfire. I put the rewrite risk assessment on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The sewing machine earned its shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the original author interview notes early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "We watched the dashboards the way you watch a campfire. I put the rewrite risk assessment on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The sewing machine earned its shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the original author interview notes early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "我们看着仪表盘，像看一堆篝火。我把重写风险评估记录在案，让推理过程保持可见。上线彩排中，Maria说：\"缝纫机挣得了它的位置。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就原作者访谈笔记对齐，让执行无需猜测。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Regions balance, queues breathe, and the war room orders dessert. In the launch rehearsal, Priya says, \"Parts availability decides lifespan.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the parallel modern stack pilot against the requirements, line by line. My report covers the encapsulation first strategy, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Regions balance, queues breathe, and the war room orders dessert. In the launch rehearsal, Priya says, \"Parts availability decides lifespan.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the parallel modern stack pilot against the requirements, line by line. My report covers the encapsulation first strategy, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "区域均衡、队列呼吸，作战室点了甜点。上线彩排中，Priya说：\"配件供给决定寿命。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了新栈并行试点。我的报告涵盖封装优先策略、背后的风险，以及等待的代价。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the retirement celebration checklist and what we learned from it. I present the sunset vs invest decision with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Old friends need usage tests.\" To finish, we swap roles and I lead the entire exchange from start to finish. We watched the dashboards the way you watch a campfire.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the retirement celebration checklist and what we learned from it. I present the sunset vs invest decision with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Old friends need usage tests.\" To finish, we swap roles and I lead the entire exchange from start to finish. We watched the dashboards the way you watch a campfire.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。最终的材料里有退役庆祝清单，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报日落还是投入决策。上线彩排中，Maria说：\"老朋友也要通过使用测试。\"最后我们互换角色，由我从头到尾主导整段对话。我们看着仪表盘，像看一堆篝火。",
+   "hard": []
   }
  ],
  "chunks": [

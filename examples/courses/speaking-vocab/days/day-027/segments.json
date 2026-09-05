@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 299,
+   "word_count": 201,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "This morning, a security alert arrives. I keep one real example of the phishing in my notes. During the review, I ask one question about the malware. After that, We spend a few minutes on the security advisory at the standup. I suggest that we check the Dependabot alert first. Before we move on, Leo says, \"I'd like to transfer money.\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"Has the payment gone through?\" I answer clearly and note the phrasing. I check my notes and confirm the next step.",
-   "tts": "This morning, a security alert arrives. I keep one real example of the phishing in my notes. During the review, I ask one question about the malware. After that, We spend a few minutes on the security advisory at the standup. I suggest that we check the depend a bot alert first. Before we move on, Leo says, \"I'd like to transfer money.\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"Has the payment gone through?\" I answer clearly and note the phrasing. I check my notes and confirm the next step.",
+   "en": "Day twenty-seven covers security threats. \"Phishing is fake messages that steal data,\" Maria warns. \"Malware is harmful software. A security patch fixes vulnerabilities. A suspicious link might be dangerous. Antivirus software protects you. Update immediately when patches arrive.\" Then banking English: \"I'd like to transfer money. Has the payment gone through? I don't recognize this charge. My card was declined. Could you freeze the card? Please send me a confirmation.\"",
+   "tts": "Day twenty-seven covers security threats. \"Phishing is fake messages that steal data,\" Maria warns. \"Malware is harmful software. A security patch fixes vulnerabilities. A suspicious link might be dangerous. Antivirus software protects you. Update immediately when patches arrive.\" Then banking English: \"I'd like to transfer money. Has the payment gone through? I don't recognize this charge. My card was declined. Could you freeze the card? Please send me a confirmation.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "今天早上，一个安全警报来了。我在笔记里留了一个网络钓鱼的真实例子。评审时，我就恶意软件提了一个问题。在那之后，站会上我们花了几分钟讨论安全公告。我建议我们先检查Dependabot 警报。继续之前，Leo说：\"我想转账。\"我清楚地回答，并记下了这个说法。继续之前，Leo问：\"付款成功了吗？\"我清楚地回答，并记下了这个说法。我检查笔记，确认了下一步。",
+   "zh": "第二十七天涵盖安全威胁。\"钓鱼是窃取数据的假消息，\"Maria 警告。\"恶意软件是有害软件。安全补丁修复漏洞。可疑链接可能危险。杀毒软件保护你。补丁到了就立即更新。\"然后是银行英语：\"我想转账。付款成功了吗？我不认识这笔扣款。我的卡被拒了。能冻结这张卡吗？请给我发确认。",
    "hard": [
     {
      "w": "phishing",
@@ -46,36 +46,6 @@
      "def": "恶意软件，故意破坏或窃取数据的软件"
     },
     {
-     "w": "I'd like to transfer money.",
-     "type": "term",
-     "def": "我想转账。"
-    },
-    {
-     "w": "Has the payment gone through?",
-     "type": "term",
-     "def": "付款成功了吗？"
-    },
-    {
-     "w": "security advisory",
-     "type": "term",
-     "def": "安全公告，披露漏洞影响和修复方法的通知"
-    },
-    {
-     "w": "Dependabot alert",
-     "type": "term",
-     "def": "Dependabot 警报，GitHub 对依赖漏洞的自动提醒"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "I check a strange charge at the bank. Before we move on, Maria says, \"I don't recognize this charge.\" I answer, then reuse it in my update. Before we move on, Maria says, \"My card was declined.\" I answer, then reuse it in my update. I reread my notes about the security patch after lunch. I walk a new teammate through the suspicious link. After a short break, I add the vulnerable dependency to my checklist for tomorrow. I double-check the security update before the review. The team agrees on the plan, and I record the decision.",
-   "tts": "I check a strange charge at the bank. Before we move on, Maria says, \"I don't recognize this charge.\" I answer, then reuse it in my update. Before we move on, Maria says, \"My card was declined.\" I answer, then reuse it in my update. I reread my notes about the security patch after lunch. I walk a new teammate through the suspicious link. After a short break, I add the vulnerable dependency to my checklist for tomorrow. I double-check the security update before the review. The team agrees on the plan, and I record the decision.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我在银行核查了一笔可疑的扣款。继续之前，Maria说：\"我不认识这笔扣款。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我的卡被拒绝了。\"我回答，然后把它用进了自己的汇报。午饭后我重读了关于安全补丁的笔记。我带一位新队友过了一遍可疑链接。稍作休息后，我把易受攻击的依赖加进了明天的清单。评审之前，我再核对一遍安全更新。团队就计划达成一致，我记录了决定。",
-   "hard": [
-    {
      "w": "security patch",
      "type": "term",
      "def": "安全补丁，修复软件安全漏洞的更新"
@@ -84,6 +54,26 @@
      "w": "suspicious link",
      "type": "term",
      "def": "可疑链接，可能引向欺诈或恶意页面的网址"
+    },
+    {
+     "w": "antivirus software",
+     "type": "term",
+     "def": "杀毒软件，用来发现和阻止恶意程序的软件"
+    },
+    {
+     "w": "update immediately",
+     "type": "term",
+     "def": "立即更新，尽快安装重要的安全修复"
+    },
+    {
+     "w": "I'd like to transfer money.",
+     "type": "term",
+     "def": "我想转账。"
+    },
+    {
+     "w": "Has the payment gone through?",
+     "type": "term",
+     "def": "付款成功了吗？"
     },
     {
      "w": "I don't recognize this charge.",
@@ -96,36 +86,6 @@
      "def": "我的卡被拒绝了。"
     },
     {
-     "w": "vulnerable dependency",
-     "type": "term",
-     "def": "易受攻击的依赖，包含已知漏洞的软件包"
-    },
-    {
-     "w": "security update",
-     "type": "term",
-     "def": "安全更新，修复安全问题的新版本"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. After a short break, I go through the private vulnerability report with Priya and note her advice. Before I reply, I look at the patched version once more. I keep one real example of the antivirus software in my notes. After that, I update immediately, and I record the reason. Before we move on, Maria asks, \"Could you freeze the card?\" I answer, then reuse it in my update. Before we move on, Maria says, \"Please send me a confirmation.\" I answer, then reuse it in my update. We update the dependency. The alert is resolved.",
-   "tts": "Before I leave, I write a short summary for the team. After a short break, I go through the private vulnerability report with Priya and note her advice. Before I reply, I look at the patched version once more. I keep one real example of the antivirus software in my notes. After that, I update immediately, and I record the reason. Before we move on, Maria asks, \"Could you freeze the card?\" I answer, then reuse it in my update. Before we move on, Maria says, \"Please send me a confirmation.\" I answer, then reuse it in my update. We update the dependency. The alert is resolved.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。稍作休息后，我和 Priya 过了一遍私密漏洞报告，记下了她的建议。回复之前，我又看了一遍已修复版本。我在笔记里留了一个杀毒软件的真实例子。在那之后，我立即更新，并记录了原因。继续之前，Maria问：\"你能冻结这张卡吗？\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"请给我发送确认信息。\"我回答，然后把它用进了自己的汇报。我们更新了依赖。警报解除了。",
-   "hard": [
-    {
-     "w": "antivirus software",
-     "type": "term",
-     "def": "杀毒软件，用来发现和阻止恶意程序的软件"
-    },
-    {
-     "w": "update immediately",
-     "type": "term",
-     "def": "立即更新，尽快安装重要的安全修复"
-    },
-    {
      "w": "Could you freeze the card?",
      "type": "term",
      "def": "你能冻结这张卡吗？"
@@ -134,6 +94,36 @@
      "w": "Please send me a confirmation.",
      "type": "term",
      "def": "请给我发送确认信息。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Security alerts arrive. \"A security advisory warns about vulnerabilities,\" Leo says. \"A Dependabot alert flags risky dependencies. A vulnerable dependency needs updating. A security update fixes it. A private vulnerability report is confidential. A patched version is safe to use.\" I check our alerts. One vulnerable dependency. I update it. The alert clears.",
+   "tts": "Security alerts arrive. \"A security advisory warns about vulnerabilities,\" Leo says. \"A depend a bot alert flags risky dependencies. A vulnerable dependency needs updating. A security update fixes it. A private vulnerability report is confidential. A patched version is safe to use.\" I check our alerts. One vulnerable dependency. I update it. The alert clears.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "安全警报到了。\"安全公告警告漏洞，\"Leo 说。\"Dependabot 警报标记危险依赖。易受攻击的依赖需要更新。安全更新修复它。私密漏洞报告是保密的。已修补版本可以安全使用。\"我检查了我们的警报。一个易受攻击的依赖。我更新了它。警报解除。",
+   "hard": [
+    {
+     "w": "security advisory",
+     "type": "term",
+     "def": "安全公告，披露漏洞影响和修复方法的通知"
+    },
+    {
+     "w": "Dependabot alert",
+     "type": "term",
+     "def": "Dependabot 警报，GitHub 对依赖漏洞的自动提醒"
+    },
+    {
+     "w": "vulnerable dependency",
+     "type": "term",
+     "def": "易受攻击的依赖，包含已知漏洞的软件包"
+    },
+    {
+     "w": "security update",
+     "type": "term",
+     "def": "安全更新，修复安全问题的新版本"
     },
     {
      "w": "private vulnerability report",
@@ -144,6 +134,31 @@
      "w": "patched version",
      "type": "term",
      "def": "已修复版本，已经包含漏洞补丁的软件版本"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Phishing in email, vulnerabilities in code — both exploit trust. I write: 'Day 27 — a suspicious link is a lock without a key. A security patch is the key maker. Update immediately. Don't click. Don't delay.' My card was declined at lunch — I called the bank, froze the card, and got a confirmation. Not a real emergency, but I knew what to say. That's what learning does: it prepares you for moments you hope never come.",
+   "tts": "Phishing in email, vulnerabilities in code — both exploit trust. I write: 'Day 27 — a suspicious link is a lock without a key. A security patch is the key maker. Update immediately. Don't click. Don't delay.' My card was declined at lunch — I called the bank, froze the card, and got a confirmation. Not a real emergency, but I knew what to say. That's what learning does: it prepares you for moments you hope never come.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "邮件里的钓鱼，代码里的漏洞——都在利用信任。我写：'第二十七天——可疑链接是没有钥匙的锁。安全补丁是制钥人。立即更新。不要点击。不要延迟。'午餐时卡被拒了——我打给银行，冻结了卡，拿到确认。不是真正的紧急情况，但我知道该说什么。这就是学习的意义：为你希望永远不来的时刻做准备。",
+   "hard": [
+    {
+     "w": "suspicious link",
+     "type": "term",
+     "def": "可疑链接，可能引向欺诈或恶意页面的网址"
+    },
+    {
+     "w": "security patch",
+     "type": "term",
+     "def": "安全补丁，修复软件安全漏洞的更新"
+    },
+    {
+     "w": "update immediately",
+     "type": "term",
+     "def": "立即更新，尽快安装重要的安全修复"
     }
    ]
   }

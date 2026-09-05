@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 402,
-   "segment_count": 3,
+   "word_count": 459,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Sunday afternoon: twelve gratitude letters, one per month. We review the incident command for leads against the requirements, line by line. I propose a measurable target for the communication cadence in crisis this quarter. The final deck includes the role card for incident leads and what we learned from it. I put the recovery sprint design on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"Candles, radio, and one calm voice.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"We assign roles before panic does.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "Sunday afternoon: twelve gratitude letters, one per month. We review the incident command for leads against the requirements, line by line. I propose a measurable target for the communication cadence in crisis this quarter. The final deck includes the role card for incident leads and what we learned from it. I put the recovery sprint design on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"Candles, radio, and one calm voice.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"We assign roles before panic does.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "Sunday afternoon: twelve gratitude letters, one per month. We review the incident command for leads against the requirements, line by line. I propose a measurable target for the role card for incident leads this quarter. In the launch rehearsal, Leo says, \"Candles, radio, and one calm voice.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Sunday afternoon: twelve gratitude letters, one per month. We review the incident command for leads against the requirements, line by line. I propose a measurable target for the role card for incident leads this quarter. In the launch rehearsal, Leo says, \"Candles, radio, and one calm voice.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "周日下午：十二封感谢信，一月一封。我们逐行对照需求检查了负责人的事件指挥。我为危机中的沟通节奏提出了本季度一个可衡量的目标。最终的材料里有事件负责人角色卡，以及我们从中学到的东西。我把恢复冲刺设计记录在案，让推理过程保持可见。上线彩排中，Maria说：\"蜡烛、收音机\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"我们比慌乱先分配角色。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "周日下午：十二封感谢信，一月一封。我们逐行对照需求检查了负责人的事件指挥。我为事件负责人角色卡提出了本季度一个可衡量的目标。上线彩排中，Leo说：\"蜡烛、收音机\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "incident command for leads",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Each letter quotes one exact sentence someone said. In the launch rehearsal, Maria says, \"The checklist taped inside the door.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Kids get real jobs in storms.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the team triage under pressure, the risks behind it, and the cost of waiting. We align on the post crisis recovery plan early, so execution never has to guess. I present the fatigue watch during crisis with a timeline, the data, and one clear ask. I close the discussion on the thank you notes after incidents with a short summary. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Each letter quotes one exact sentence someone said. In the launch rehearsal, Maria says, \"The checklist taped inside the door.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Kids get real jobs in storms.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the team triage under pressure, the risks behind it, and the cost of waiting. We align on the post crisis recovery plan early, so execution never has to guess. I present the fatigue watch during crisis with a timeline, the data, and one clear ask. I close the discussion on the thank you notes after incidents with a short summary. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Each letter quotes one exact sentence someone said. In the launch rehearsal, Priya says, \"We assign roles before panic does.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the communication cadence in crisis and what we learned from it. I put the recovery sprint design on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Each letter quotes one exact sentence someone said. In the launch rehearsal, Priya says, \"We assign roles before panic does.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the communication cadence in crisis and what we learned from it. I put the recovery sprint design on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每封信都引用了某人说过的原话。上线彩排中，Maria说：\"清单贴在门内侧。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"风暴中孩子也有真任务。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖高压下的团队分诊、背后的风险，以及等待的代价。我们尽早就危机后恢复计划对齐，让执行无需猜测。我用时间线、数据和一条明确的诉求来汇报危机中的疲劳监视。我用一段简短的总结为事件后致谢名单的讨论收尾。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "每封信都引用了某人说过的原话。上线彩排中，Priya说：\"我们比慌乱先分配角色。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有危机中的沟通节奏，以及我们从中学到的东西。我把恢复冲刺设计记录在案，让推理过程保持可见。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "team triage under pressure",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the crisis learnings into playbooks against the requirements, line by line. I propose a measurable target for the family of users communication this quarter. The final deck includes the blameless debrief facilitation and what we learned from it. I put the customer empathy in outages on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"After the storm, we thank the team.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The review happens over hot soup.\" To finish, we swap roles and I lead the entire exchange from start to finish. Specific thanks is the rarest gift.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the crisis learnings into playbooks against the requirements, line by line. I propose a measurable target for the family of users communication this quarter. The final deck includes the blameless debrief facilitation and what we learned from it. I put the customer empathy in outages on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"After the storm, we thank the team.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The review happens over hot soup.\" To finish, we swap roles and I lead the entire exchange from start to finish. Specific thanks is the rarest gift.",
+   "en": "Each letter quotes one exact sentence someone said. My report covers the fatigue watch during crisis, the risks behind it, and the cost of waiting. We align on the team triage under pressure early, so execution never has to guess. In the launch rehearsal, Maria says, \"The checklist taped inside the door.\" To finish, we swap roles and I lead the entire exchange from start to finish. Specific thanks is the rarest gift.",
+   "tts": "Each letter quotes one exact sentence someone said. My report covers the fatigue watch during crisis, the risks behind it, and the cost of waiting. We align on the team triage under pressure early, so execution never has to guess. In the launch rehearsal, Maria says, \"The checklist taped inside the door.\" To finish, we swap roles and I lead the entire exchange from start to finish. Specific thanks is the rarest gift.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了危机教训进手册。我为面向用户家庭的沟通提出了本季度一个可衡量的目标。最终的材料里有无责复盘主持，以及我们从中学到的东西。我把故障中的客户同理心记录在案，让推理过程保持可见。上线彩排中，Leo说：\"风暴过后感谢每个人。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"复盘在热汤里进行。\"最后我们互换角色，由我从头到尾主导整段对话。具体的感谢是最稀有的礼物。",
+   "zh": "每封信都引用了某人说过的原话。我的报告涵盖危机中的疲劳监视、背后的风险，以及等待的代价。我们尽早就高压下的团队分诊对齐，让执行无需猜测。上线彩排中，Maria说：\"清单贴在门内侧。\"最后我们互换角色，由我从头到尾主导整段对话。具体的感谢是最稀有的礼物。",
    "hard": [
     {
      "w": "blameless debrief facilitation",
@@ -146,6 +146,33 @@
      "def": "面向用户家庭的沟通，把用户当邻居"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Specific thanks is the rarest gift. I present the post crisis recovery plan with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Kids get real jobs in storms.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the thank you notes after incidents with a short summary. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Specific thanks is the rarest gift. I present the post crisis recovery plan with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Kids get real jobs in storms.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the thank you notes after incidents with a short summary. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "具体的感谢是最稀有的礼物。我用时间线、数据和一条明确的诉求来汇报危机后恢复计划。上线彩排中，Maria说：\"风暴中孩子也有真任务。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为事件后致谢名单的讨论收尾。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Each letter quotes one exact sentence someone said. In the launch rehearsal, Priya says, \"After the storm, we thank the team.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the crisis learnings into playbooks against the requirements, line by line. I propose a measurable target for the blameless debrief facilitation this quarter. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Each letter quotes one exact sentence someone said. In the launch rehearsal, Priya says, \"After the storm, we thank the team.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the crisis learnings into playbooks against the requirements, line by line. I propose a measurable target for the blameless debrief facilitation this quarter. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "每封信都引用了某人说过的原话。上线彩排中，Priya说：\"风暴过后感谢每个人。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了危机教训进手册。我为无责复盘主持提出了本季度一个可衡量的目标。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the family of users communication and what we learned from it. I put the customer empathy in outages on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The review happens over hot soup.\" To finish, we swap roles and I lead the entire exchange from start to finish. Specific thanks is the rarest gift.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the family of users communication and what we learned from it. I put the customer empathy in outages on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The review happens over hot soup.\" To finish, we swap roles and I lead the entire exchange from start to finish. Specific thanks is the rarest gift.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。最终的材料里有面向用户家庭的沟通，以及我们从中学到的东西。我把故障中的客户同理心记录在案，让推理过程保持可见。上线彩排中，Maria说：\"复盘在热汤里进行。\"最后我们互换角色，由我从头到尾主导整段对话。具体的感谢是最稀有的礼物。",
+   "hard": []
   }
  ],
  "chunks": [

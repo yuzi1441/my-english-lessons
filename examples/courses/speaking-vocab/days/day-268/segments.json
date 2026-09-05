@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 365,
-   "segment_count": 3,
+   "word_count": 420,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We celebrate a near miss instead of hiding it. I compare two views on the tool overlap audit and write both down honestly. During the design review, I raise one careful question about the detection coverage map. Before deciding, I reread my notes about the tool roi review twice. The team names one clear owner for the integration health check. In the review drill, Priya says, \"The right screwdriver beats five wrong ones.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Tools we never use get donated.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "We celebrate a near miss instead of hiding it. I compare two views on the tool overlap audit and write both down honestly. During the design review, I raise one careful question about the detection coverage map. Before deciding, I reread my notes about the tool roi review twice. The team names one clear owner for the integration health check. In the review drill, Priya says, \"The right screwdriver beats five wrong ones.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Tools we never use get donated.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "We celebrate a near miss instead of hiding it. I compare two views on the tool overlap audit and write both down honestly. During the design review, I raise one careful question about the tool roi review. In the review drill, Maria says, \"The right screwdriver beats five wrong ones.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We celebrate a near miss instead of hiding it. I compare two views on the tool overlap audit and write both down honestly. During the design review, I raise one careful question about the tool roi review. In the review drill, Maria says, \"The right screwdriver beats five wrong ones.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们庆祝一次虚惊，而不是掩盖它。我比较了关于工具重叠审计的两种观点，诚实地都记了下来。设计评审中，我就检测覆盖地图提出了一个审慎的问题。做决定之前，我把关于工具投入产出评审的笔记重读了两遍。团队为集成健康检查指定了明确的负责人。评审演练中，Priya说：\"一把对的螺丝刀胜过五把错的。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"从不用的工具捐出去。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们庆祝一次虚惊，而不是掩盖它。我比较了关于工具重叠审计的两种观点，诚实地都记了下来。设计评审中，我就工具投入产出评审提出了一个审慎的问题。评审演练中，Maria说：\"一把对的螺丝刀胜过五把错的。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "tool overlap audit",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The reporter gets ice cream; the report becomes training. In the review drill, Priya says, \"The ladder is checked before climbing.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Quality tools age slowly.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the alert noise benchmark so meetings start from facts. Our mentor walks me through how the tool integration surface evolved on this team. I add the coverage gap backlog to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the tooling oncall guide. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "The reporter gets ice cream; the report becomes training. In the review drill, Priya says, \"The ladder is checked before climbing.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Quality tools age slowly.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the alert noise benchmark so meetings start from facts. Our mentor walks me through how the tool integration surface evolved on this team. I add the coverage gap backlog to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the tooling oncall guide. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "The reporter gets ice cream; the report becomes training. In the review drill, Leo says, \"Tools we never use get donated.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the detection coverage map twice. The team names one clear owner for the integration health check. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The reporter gets ice cream; the report becomes training. In the review drill, Leo says, \"Tools we never use get donated.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the detection coverage map twice. The team names one clear owner for the integration health check. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "上报者得到冰淇淋；报告变成了教材。评审演练中，Priya说：\"爬梯子前先检查。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"好工具老得慢。\"我们互换角色，这次由我来提问。我准备了一页关于告警噪音基准的简报，好让会议从事实出发。导师带我梳理了工具集成面在这个团队里的演变。我把覆盖缺口积压单连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了工具值班指南上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "上报者得到冰淇淋；报告变成了教材。评审演练中，Leo说：\"从不用的工具捐出去。\"我们互换角色，这次由我来提问。做决定之前，我把关于检测覆盖地图的笔记重读了两遍。团队为集成健康检查指定了明确的负责人。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "alert noise benchmark",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the pilot before purchase and write both down honestly. During the design review, I raise one careful question about the tool owner matrix. Before deciding, I reread my notes about the license and data terms check twice. The team names one clear owner for the sunset criteria for security tools. In the review drill, Maria says, \"Every tool has a shadow hook.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Borrowed tools come home fast.\" We swap roles so I ask the questions this time. Budget questions turned strategic.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the pilot before purchase and write both down honestly. During the design review, I raise one careful question about the tool owner matrix. Before deciding, I reread my notes about the license and data terms check twice. The team names one clear owner for the sunset criteria for security tools. In the review drill, Maria says, \"Every tool has a shadow hook.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Borrowed tools come home fast.\" We swap roles so I ask the questions this time. Budget questions turned strategic.",
+   "en": "The reporter gets ice cream; the report becomes training. I prepare a one-page brief about the coverage gap backlog so meetings start from facts. Our mentor walks me through how the alert noise benchmark evolved on this team. In the review drill, Priya says, \"The ladder is checked before climbing.\" We swap roles so I ask the questions this time. Budget questions turned strategic.",
+   "tts": "The reporter gets ice cream; the report becomes training. I prepare a one-page brief about the coverage gap backlog so meetings start from facts. Our mentor walks me through how the alert noise benchmark evolved on this team. In the review drill, Priya says, \"The ladder is checked before climbing.\" We swap roles so I ask the questions this time. Budget questions turned strategic.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于买前先试点的两种观点，诚实地都记了下来。设计评审中，我就工具负责人矩阵提出了一个审慎的问题。做决定之前，我把关于许可与数据条款检查的笔记重读了两遍。团队为安全工具退役标准指定了明确的负责人。评审演练中，Maria说：\"每件工具都有影子钩。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"借的工具快还。\"我们互换角色，这次由我来提问。预算问题变成了战略问题。",
+   "zh": "上报者得到冰淇淋；报告变成了教材。我准备了一页关于覆盖缺口积压单的简报，好让会议从事实出发。导师带我梳理了告警噪音基准在这个团队里的演变。评审演练中，Priya说：\"爬梯子前先检查。\"我们互换角色，这次由我来提问。预算问题变成了战略问题。",
    "hard": [
     {
      "w": "license and data terms check",
@@ -146,6 +146,33 @@
      "def": "工具负责人矩阵，每件家伙有主"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Budget questions turned strategic. I add the tool integration surface to the meeting agenda with three supporting facts. In the review drill, Priya says, \"Quality tools age slowly.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the tooling oncall guide. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Budget questions turned strategic. I add the tool integration surface to the meeting agenda with three supporting facts. In the review drill, Priya says, \"Quality tools age slowly.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the tooling oncall guide. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "预算问题变成了战略问题。我把工具集成面连同三条支撑事实加进了议程。评审演练中，Priya说：\"好工具老得慢。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了工具值班指南上。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The reporter gets ice cream; the report becomes training. In the review drill, Leo says, \"Every tool has a shadow hook.\" We swap roles so I ask the questions this time. I compare two views on the pilot before purchase and write both down honestly. During the design review, I raise one careful question about the license and data terms check. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The reporter gets ice cream; the report becomes training. In the review drill, Leo says, \"Every tool has a shadow hook.\" We swap roles so I ask the questions this time. I compare two views on the pilot before purchase and write both down honestly. During the design review, I raise one careful question about the license and data terms check. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "上报者得到冰淇淋；报告变成了教材。评审演练中，Leo说：\"每件工具都有影子钩。\"我们互换角色，这次由我来提问。我比较了关于买前先试点的两种观点，诚实地都记了下来。设计评审中，我就许可与数据条款检查提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the tool owner matrix twice. The team names one clear owner for the sunset criteria for security tools. In the review drill, Priya says, \"Borrowed tools come home fast.\" We swap roles so I ask the questions this time. Budget questions turned strategic.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the tool owner matrix twice. The team names one clear owner for the sunset criteria for security tools. In the review drill, Priya says, \"Borrowed tools come home fast.\" We swap roles so I ask the questions this time. Budget questions turned strategic.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于工具负责人矩阵的笔记重读了两遍。团队为安全工具退役标准指定了明确的负责人。评审演练中，Priya说：\"借的工具快还。\"我们互换角色，这次由我来提问。预算问题变成了战略问题。",
+   "hard": []
   }
  ],
  "chunks": [

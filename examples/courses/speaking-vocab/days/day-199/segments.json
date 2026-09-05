@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 331,
-   "segment_count": 3,
+   "word_count": 383,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We ship an interactive playground where anyone can try prompts safely. In today's standup, I mention the ai project kickoff template and what comes next. At the review, we spend ten minutes on the data readiness checklist. The guide now has a short section on the weekly digest drafting. Priya suggests a cleaner way to think about the accomplishments mining from commits. In the meeting drill, Priya says, \"The hundred percent rain that never fell.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Radar versus crystal ball.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "We ship an interactive playground where anyone can try prompts safely. In today's standup, I mention the ai project kickoff template and what comes next. At the review, we spend ten minutes on the data readiness checklist. The guide now has a short section on the weekly digest drafting. Priya suggests a cleaner way to think about the accomplishments mining from commits. In the meeting drill, Priya says, \"The hundred percent rain that never fell.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Radar versus crystal ball.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "We ship an interactive playground where anyone can try prompts safely. In today's standup, I mention the ai project kickoff template and what comes next. At the review, we spend ten minutes on the weekly digest drafting. In the meeting drill, Maria says, \"The hundred percent rain that never fell.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "We ship an interactive playground where anyone can try prompts safely. In today's standup, I mention the ai project kickoff template and what comes next. At the review, we spend ten minutes on the weekly digest drafting. In the meeting drill, Maria says, \"The hundred percent rain that never fell.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们上线了一个交互式试炼场，人人都能安全地试用提示词。今天的站会上，我提到AI 项目启动模板和接下来的安排。评审时，我们花了十分钟在数据就绪清单上。指南里现在有关于周报起草辅助的简短章节。Priya 提出了一个更清晰的从提交挖成就思考方式。会议演练中，Priya说：\"百分之百的雨没下。\"之后我们换角色再练一遍。会议演练中，Leo说：\"雷达与水晶球。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我们上线了一个交互式试炼场，人人都能安全地试用提示词。今天的站会上，我提到AI 项目启动模板和接下来的安排。评审时，我们花了十分钟在周报起草辅助上。会议演练中，Maria说：\"百分之百的雨没下。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "ai project kickoff template",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Sandbox data, no secrets, and a big friendly reset button. In the meeting drill, Priya says, \"The honest nowcast.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Umbrella index calibration.\" After that, we swap roles and run it again. We agree to give the annotation effort estimate one more careful look this week. I connect the rule baseline first to the ticket so nothing gets lost. While the details are fresh, I write down the blocker highlight helper. I compare my notes about the next week plan suggestions with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Sandbox data, no secrets, and a big friendly reset button. In the meeting drill, Priya says, \"The honest nowcast.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Umbrella index calibration.\" After that, we swap roles and run it again. We agree to give the annotation effort estimate one more careful look this week. I connect the rule baseline first to the ticket so nothing gets lost. While the details are fresh, I write down the blocker highlight helper. I compare my notes about the next week plan suggestions with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Sandbox data, no secrets, and a big friendly reset button. In the meeting drill, Leo says, \"Radar versus crystal ball.\" After that, we swap roles and run it again. The guide now has a short section on the data readiness checklist. Priya suggests a cleaner way to think about the accomplishments mining from commits. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Sandbox data, no secrets, and a big friendly reset button. In the meeting drill, Leo says, \"Radar versus crystal ball.\" After that, we swap roles and run it again. The guide now has a short section on the data readiness checklist. Priya suggests a cleaner way to think about the accomplishments mining from commits. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "沙箱数据、无机密，还有一个大大的友好重置按钮。会议演练中，Priya说：\"诚实的临近预报。\"之后我们换角色再练一遍。会议演练中，Leo说：\"个人雨伞指数校准。\"之后我们换角色再练一遍。我们说好这周再把标注工作量估算仔细看一次。我把规则基线优先关联到工单上，免得遗漏。趁细节还新鲜，我把阻塞高亮助手写了下来。我把关于下周计划建议的笔记和 Priya 的对照了一下。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "沙箱数据、无机密，还有一个大大的友好重置按钮。会议演练中，Leo说：\"雷达与水晶球。\"之后我们换角色再练一遍。指南里现在有关于数据就绪清单的简短章节。Priya 提出了一个更清晰的从提交挖成就思考方式。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "annotation effort estimate",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the tone check for status and what comes next. At the review, we spend ten minutes on the skip level summary assist. The guide now has a short section on the pilot scope agreement. Priya suggests a cleaner way to think about the ai sunset criteria. In the meeting drill, Maria says, \"Microclimates, my balcony.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Forecasts earn trust slowly.\" After that, we swap roles and run it again. Curiosity stopped being risky.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the tone check for status and what comes next. At the review, we spend ten minutes on the skip level summary assist. The guide now has a short section on the pilot scope agreement. Priya suggests a cleaner way to think about the ai sunset criteria. In the meeting drill, Maria says, \"Microclimates, my balcony.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Forecasts earn trust slowly.\" After that, we swap roles and run it again. Curiosity stopped being risky.",
+   "en": "Sandbox data, no secrets, and a big friendly reset button. We agree to give the blocker highlight helper one more careful look this week. I connect the annotation effort estimate to the ticket so nothing gets lost. In the meeting drill, Priya says, \"The honest nowcast.\" After that, we swap roles and run it again. Curiosity stopped being risky.",
+   "tts": "Sandbox data, no secrets, and a big friendly reset button. We agree to give the blocker highlight helper one more careful look this week. I connect the annotation effort estimate to the ticket so nothing gets lost. In the meeting drill, Priya says, \"The honest nowcast.\" After that, we swap roles and run it again. Curiosity stopped being risky.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到状态汇报语气检查和接下来的安排。评审时，我们花了十分钟在越级汇报摘要上。指南里现在有关于试点范围共识的简短章节。Priya 提出了一个更清晰的AI 功能退役标准思考方式。会议演练中，Maria说：\"我家阳台的微气候。\"之后我们换角色再练一遍。会议演练中，Priya说：\"预报慢慢攒信任。\"之后我们换角色再练一遍。好奇心从此不再冒险。",
+   "zh": "沙箱数据、无机密，还有一个大大的友好重置按钮。我们说好这周再把阻塞高亮助手仔细看一次。我把标注工作量估算关联到工单上，免得遗漏。会议演练中，Priya说：\"诚实的临近预报。\"之后我们换角色再练一遍。好奇心从此不再冒险。",
    "hard": [
     {
      "w": "pilot scope agreement",
@@ -146,6 +146,33 @@
      "def": "越级汇报摘要，两层都看得懂"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Curiosity stopped being risky. While the details are fresh, I write down the rule baseline first. In the meeting drill, Priya says, \"Umbrella index calibration.\" After that, we swap roles and run it again. I compare my notes about the next week plan suggestions with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Curiosity stopped being risky. While the details are fresh, I write down the rule baseline first. In the meeting drill, Priya says, \"Umbrella index calibration.\" After that, we swap roles and run it again. I compare my notes about the next week plan suggestions with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "好奇心从此不再冒险。趁细节还新鲜，我把规则基线优先写了下来。会议演练中，Priya说：\"个人雨伞指数校准。\"之后我们换角色再练一遍。我把关于下周计划建议的笔记和 Priya 的对照了一下。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Sandbox data, no secrets, and a big friendly reset button. In the meeting drill, Leo says, \"Microclimates, my balcony.\" After that, we swap roles and run it again. In today's standup, I mention the tone check for status and what comes next. At the review, we spend ten minutes on the pilot scope agreement. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Sandbox data, no secrets, and a big friendly reset button. In the meeting drill, Leo says, \"Microclimates, my balcony.\" After that, we swap roles and run it again. In today's standup, I mention the tone check for status and what comes next. At the review, we spend ten minutes on the pilot scope agreement. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "沙箱数据、无机密，还有一个大大的友好重置按钮。会议演练中，Leo说：\"我家阳台的微气候。\"之后我们换角色再练一遍。今天的站会上，我提到状态汇报语气检查和接下来的安排。评审时，我们花了十分钟在试点范围共识上。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the skip level summary assist. Priya suggests a cleaner way to think about the ai sunset criteria. In the meeting drill, Priya says, \"Forecasts earn trust slowly.\" After that, we swap roles and run it again. Curiosity stopped being risky.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the skip level summary assist. Priya suggests a cleaner way to think about the ai sunset criteria. In the meeting drill, Priya says, \"Forecasts earn trust slowly.\" After that, we swap roles and run it again. Curiosity stopped being risky.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于越级汇报摘要的简短章节。Priya 提出了一个更清晰的AI 功能退役标准思考方式。会议演练中，Priya说：\"预报慢慢攒信任。\"之后我们换角色再练一遍。好奇心从此不再冒险。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 225,
+   "word_count": 235,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Before we merge, the automatic checks must pass. I ask one question about the terminal. After that, Leo shows me an example of the command line. Maria explains the status check to me. Now I understand the required check. After a short break, I make an appointment one small step at a time. I learn about the reschedule the meeting because it is useful. The team gives me good advice.",
-   "tts": "Before we merge, the automatic checks must pass. I ask one question about the terminal. After that, Leo shows me an example of the command line. Maria explains the status check to me. Now I understand the required check. After a short break, I make an appointment one small step at a time. I learn about the reschedule the meeting because it is useful. The team gives me good advice.",
+   "en": "Day ten introduces the terminal. \"The terminal is your text-based control centre,\" Maria says. \"The command line is where you type. The shell reads your commands. The command prompt shows you're ready. The current directory is where you are. Command options change behaviour.\" I open the terminal and practise. In the afternoon, a scheduling hiccup. \"Can we make an appointment?\" Leo asks. \"Actually, let's reschedule the meeting to Thursday.\" \"I'm not available then. Does Tuesday work?\" \"I'll confirm the time by email.\"",
+   "tts": "Day ten introduces the terminal. \"The terminal is your text-based control centre,\" Maria says. \"The command line is where you type. The shell reads your commands. The command prompt shows you're ready. The current directory is where you are. Command options change behaviour.\" I open the terminal and practise. In the afternoon, a scheduling hiccup. \"Can we make an appointment?\" Leo asks. \"Actually, let's reschedule the meeting to Thursday.\" \"I'm not available then. Does Tuesday work?\" \"I'll confirm the time by email.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "合并之前，自动检查必须通过。我问了一个关于终端的问题。在那之后，Leo 给我看了一个命令行的例子。Maria 给我讲解状态检查。现在我理解了必需检查。稍作休息后，我一步一步地进行预约。我学习重新安排会议时间，因为它很有用。团队给了我很好的建议。",
+   "zh": "第十天介绍终端。\"终端是你的文字控制中心，\"Maria 说。\"命令行是你打字的地方。shell 读取你的命令。命令提示符表示准备就绪。当前目录是你的位置。命令选项改变行为。\"我打开终端练了练。下午，一个日程问题。\"我们能约个时间吗？\"Leo 问。\"其实，把会议改到周四吧。\"\"我那时没空。周二行吗？\"\"我邮件确认时间。\"",
    "hard": [
     {
      "w": "terminal",
@@ -46,36 +46,6 @@
      "def": "命令行，输入和执行文本命令的环境"
     },
     {
-     "w": "make an appointment",
-     "type": "term",
-     "def": "进行预约"
-    },
-    {
-     "w": "reschedule the meeting",
-     "type": "term",
-     "def": "重新安排会议时间"
-    },
-    {
-     "w": "status check",
-     "type": "term",
-     "def": "状态检查，自动判断提交是否满足要求"
-    },
-    {
-     "w": "required check",
-     "type": "term",
-     "def": "必需检查，合并前必须通过的检查"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "I reschedule a short meeting, because the time does not work. I cancel an appointment, and Maria checks it. Leo shows me how to confirm the time. After that, I read the short guide about the shell twice. I write a short note about the command prompt. I hear the pending check in the meeting and write it down. After a short break, I ask one question about the passing check. The day is busy, but I learn a lot.",
-   "tts": "I reschedule a short meeting, because the time does not work. I cancel an appointment, and Maria checks it. Leo shows me how to confirm the time. After that, I read the short guide about the shell twice. I write a short note about the command prompt. I hear the pending check in the meeting and write it down. After a short break, I ask one question about the passing check. The day is busy, but I learn a lot.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我重新安排了一个短会，因为那个时间不方便。我取消预约，Maria 来检查。Leo 教我怎样确认时间。在那之后，我把关于命令解释器的简短说明读了两遍。我给命令提示符写了一条简短的笔记。我在会上听到等待中的检查，把它记了下来。稍作休息后，我问了一个关于通过的检查的问题。这天很忙，但我学到了很多。",
-   "hard": [
-    {
      "w": "shell",
      "type": "term",
      "def": "命令解释器，读取并执行用户输入的命令"
@@ -84,6 +54,26 @@
      "w": "command prompt",
      "type": "term",
      "def": "命令提示符，表示终端正在等待输入的位置"
+    },
+    {
+     "w": "current directory",
+     "type": "term",
+     "def": "当前目录，命令此刻所在的文件夹"
+    },
+    {
+     "w": "command option",
+     "type": "term",
+     "def": "命令选项，用来改变命令行为的附加参数"
+    },
+    {
+     "w": "make an appointment",
+     "type": "term",
+     "def": "进行预约"
+    },
+    {
+     "w": "reschedule the meeting",
+     "type": "term",
+     "def": "重新安排会议时间"
     },
     {
      "w": "cancel an appointment",
@@ -96,36 +86,6 @@
      "def": "确认时间"
     },
     {
-     "w": "pending check",
-     "type": "term",
-     "def": "等待中的检查，尚未产生结果"
-    },
-    {
-     "w": "passing check",
-     "type": "term",
-     "def": "通过的检查，自动验证成功"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I finish one last task. Leo shows me an example of the failed check. After a short break, I need to check details before lunch. Maria explains the current directory to me. Now I understand the command option. Then Priya asks, \"Does Tuesday work?\" I think for a second, then answer. Then Priya says, \"I'm not available then.\" I think for a second, then answer. All checks are green. We merge tomorrow.",
-   "tts": "Before I leave, I finish one last task. Leo shows me an example of the failed check. After a short break, I need to check details before lunch. Maria explains the current directory to me. Now I understand the command option. Then Priya asks, \"Does Tuesday work?\" I think for a second, then answer. Then Priya says, \"I'm not available then.\" I think for a second, then answer. All checks are green. We merge tomorrow.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。Leo 给我看了一个失败的检查的例子。稍作休息后，午饭前，我需要检查详情。Maria 给我讲解当前目录。现在我理解了命令选项。接着Priya问：\"星期二方便吗？\"我想了一下，然后回答。接着Priya说：\"我那时没有空。\"我想了一下，然后回答。所有检查都是绿色的。我们明天合并。",
-   "hard": [
-    {
-     "w": "current directory",
-     "type": "term",
-     "def": "当前目录，命令此刻所在的文件夹"
-    },
-    {
-     "w": "command option",
-     "type": "term",
-     "def": "命令选项，用来改变命令行为的附加参数"
-    },
-    {
      "w": "Does Tuesday work?",
      "type": "term",
      "def": "星期二方便吗？"
@@ -134,6 +94,36 @@
      "w": "I'm not available then.",
      "type": "term",
      "def": "我那时没有空。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "GitHub status checks appear. \"Before your code merges, it must pass a status check,\" Leo explains. \"A required check must pass. A pending check is still running. A passing check means success. A failed check means something broke. Check the details to see the logs.\" I watch my first status check. Pending... running... passing. Green. \"Nice,\" Leo says. On the way home, I cancel an appointment at the dentist. \"Confirm the time?\" the receptionist asks. I confirm.",
+   "tts": "Git Hub status checks appear. \"Before your code merges, it must pass a status check,\" Leo explains. \"A required check must pass. A pending check is still running. A passing check means success. A failed check means something broke. Check the details to see the logs.\" I watch my first status check. Pending running passing. Green. \"Nice,\" Leo says. On the way home, I cancel an appointment at the dentist. \"Confirm the time?\" the receptionist asks. I confirm.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "GitHub 状态检查出现了。\"你的代码合并之前，必须通过状态检查，\"Leo 解释。\"必需检查必须通过。等待中的检查还在跑。通过的检查意味着成功。失败的检查说明有东西坏了。查看详情看日志。\"我看着我的第一个状态检查。等待中……运行中……通过。绿色。\"不错，\"Leo 说。回家路上，我取消了牙医预约。\"确认时间？\"前台问。我确认了。",
+   "hard": [
+    {
+     "w": "status check",
+     "type": "term",
+     "def": "状态检查，自动判断提交是否满足要求"
+    },
+    {
+     "w": "required check",
+     "type": "term",
+     "def": "必需检查，合并前必须通过的检查"
+    },
+    {
+     "w": "pending check",
+     "type": "term",
+     "def": "等待中的检查，尚未产生结果"
+    },
+    {
+     "w": "passing check",
+     "type": "term",
+     "def": "通过的检查，自动验证成功"
     },
     {
      "w": "failed check",
@@ -144,6 +134,36 @@
      "w": "check details",
      "type": "term",
      "def": "检查详情，显示自动任务的日志和结果"
+    },
+    {
+     "w": "confirm the time",
+     "type": "term",
+     "def": "确认时间"
+    },
+    {
+     "w": "cancel an appointment",
+     "type": "term",
+     "def": "取消预约"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "The terminal is becoming a friend rather than a stranger. I write: 'Day 10 — the shell is powerful. Status checks protect the main branch. Rescheduling is a normal part of work.' My command prompt blinks patiently. I type, it responds. Current directory, command option, shell — the words that confused me last week now feel like tools I own. Ten days. Thirty new vocabulary words. Sixty paragraphs of practice. And the journey is just beginning.",
+   "tts": "The terminal is becoming a friend rather than a stranger. I write: 'Day 10 — the shell is powerful. Status checks protect the main branch. Rescheduling is a normal part of work.' My command prompt blinks patiently. I type, it responds. Current directory, command option, shell — the words that confused me last week now feel like tools I own. Ten days. Thirty new vocabulary words. Sixty paragraphs of practice. And the journey is just beginning.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "终端正在从陌生人变成朋友。我写：'第十天——shell 很强大。状态检查保护主分支。改期是工作的正常部分。'我的命令提示符耐心地闪烁。我输入，它回应。当前目录、命令选项、shell——上周还让我困惑的词现在感觉是我拥有的工具了。十天。三十个新词汇。六十段练习。旅程才刚刚开始。",
+   "hard": [
+    {
+     "w": "command prompt",
+     "type": "term",
+     "def": "命令提示符，表示终端正在等待输入的位置"
+    },
+    {
+     "w": "current directory",
+     "type": "term",
+     "def": "当前目录，命令此刻所在的文件夹"
     }
    ]
   }

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 362,
-   "segment_count": 3,
+   "word_count": 425,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We redraw the trust boundaries that everyone forgot. I compare two views on the travel laptop policy and write both down honestly. We spend the first ten minutes of the review on the home network hardening guide. I add the vpn split tunnel review to the meeting agenda with three supporting facts. The team names one clear owner for the device compliance check. In the review drill, Maria says, \"I face the wall for calls.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Privacy filter on trains.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "We redraw the trust boundaries that everyone forgot. I compare two views on the travel laptop policy and write both down honestly. We spend the first ten minutes of the review on the home network hardening guide. I add the vpn split tunnel review to the meeting agenda with three supporting facts. The team names one clear owner for the device compliance check. In the review drill, Maria says, \"I face the wall for calls.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Privacy filter on trains.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "We redraw the trust boundaries that everyone forgot. I compare two views on the travel laptop policy and write both down honestly. We spend the first ten minutes of the review on the vpn split tunnel review. In the review drill, Leo says, \"I face the wall for calls.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We redraw the trust boundaries that everyone forgot. I compare two views on the travel laptop policy and write both down honestly. We spend the first ten minutes of the review on the vpn split tunnel review. In the review drill, Leo says, \"I face the wall for calls.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们重画了被所有人遗忘的信任边界。我比较了关于出差电脑策略的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了家庭网络安全指南上。我把VPN 分流策略评审连同三条支撑事实加进了议程。团队为设备合规检查指定了明确的负责人。评审演练中，Maria说：\"打电话我面向墙。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"火车上贴防窥片。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我们重画了被所有人遗忘的信任边界。我比较了关于出差电脑策略的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了VPN 分流策略评审上。评审演练中，Leo说：\"打电话我面向墙。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "travel laptop policy",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Old integrations lose silent privileges; new diagrams replace the fossils. In the review drill, Maria says, \"No client names on screens.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The headphone rule for calls.\" We swap roles so I ask the questions this time. Our mentor walks me through how the privacy screen filter evolved on this team. During the design review, I raise one careful question about the public wifi risk rules. Before deciding, I reread my notes about the remote wipe verification twice. I prepare a one-page brief about the meeting room tech security so meetings start from facts. We end the week with something shipped and something properly learned this time.",
-   "tts": "Old integrations lose silent privileges; new diagrams replace the fossils. In the review drill, Maria says, \"No client names on screens.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The headphone rule for calls.\" We swap roles so I ask the questions this time. Our mentor walks me through how the privacy screen filter evolved on this team. During the design review, I raise one careful question about the public wifi risk rules. Before deciding, I reread my notes about the remote wipe verification twice. I prepare a one-page brief about the meeting room tech security so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "en": "Old integrations lose silent privileges; new diagrams replace the fossils. In the review drill, Priya says, \"Privacy filter on trains.\" We swap roles so I ask the questions this time. I add the home network hardening guide to the meeting agenda with three supporting facts. The team names one clear owner for the device compliance check. We end the week with something shipped and something properly learned this time.",
+   "tts": "Old integrations lose silent privileges; new diagrams replace the fossils. In the review drill, Priya says, \"Privacy filter on trains.\" We swap roles so I ask the questions this time. I add the home network hardening guide to the meeting agenda with three supporting facts. The team names one clear owner for the device compliance check. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "老集成交出沉默的特权；新图取代了化石图。评审演练中，Maria说：\"屏幕上不出现客户名。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"通话必戴耳机。\"我们互换角色，这次由我来提问。导师带我梳理了屏幕防窥片在这个团队里的演变。设计评审中，我就公共 Wi-Fi 风险守则提出了一个审慎的问题。做决定之前，我把关于远程擦除验证的笔记重读了两遍。我准备了一页关于会议室设备安全的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "老集成交出沉默的特权；新图取代了化石图。评审演练中，Priya说：\"火车上贴防窥片。\"我们互换角色，这次由我来提问。我把家庭网络安全指南连同三条支撑事实加进了议程。团队为设备合规检查指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "privacy screen filter",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the contractor access template and write both down honestly. We spend the first ten minutes of the review on the tailgating drill. I add the visitor network access to the meeting agenda with three supporting facts. The team names one clear owner for the lost device procedure. In the review drill, Leo says, \"Hotspot beats cafe wifi.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Two factor for everything now.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the contractor access template and write both down honestly. We spend the first ten minutes of the review on the tailgating drill. I add the visitor network access to the meeting agenda with three supporting facts. The team names one clear owner for the lost device procedure. In the review drill, Leo says, \"Hotspot beats cafe wifi.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Two factor for everything now.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
+   "en": "Old integrations lose silent privileges; new diagrams replace the fossils. Our mentor walks me through how the remote wipe verification evolved on this team. During the design review, I raise one careful question about the privacy screen filter. In the review drill, Maria says, \"No client names on screens.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
+   "tts": "Old integrations lose silent privileges; new diagrams replace the fossils. Our mentor walks me through how the remote wipe verification evolved on this team. During the design review, I raise one careful question about the privacy screen filter. In the review drill, Maria says, \"No client names on screens.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于外包人员权限模板的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了尾随进入演练上。我把访客网络接入连同三条支撑事实加进了议程。团队为设备丢失流程指定了明确的负责人。评审演练中，Leo说：\"手机热点胜过咖啡店 Wi-Fi。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"现在什么都是两步验证。\"我们互换角色，这次由我来提问。没人信的地图比没地图更糟。",
+   "zh": "老集成交出沉默的特权；新图取代了化石图。导师带我梳理了远程擦除验证在这个团队里的演变。设计评审中，我就屏幕防窥片提出了一个审慎的问题。评审演练中，Maria说：\"屏幕上不出现客户名。\"我们互换角色，这次由我来提问。没人信的地图比没地图更糟。",
    "hard": [
     {
      "w": "visitor network access",
@@ -146,6 +146,33 @@
      "def": "尾随进入演练，帮开门前先看证"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "A map nobody trusts is worse than no map. Before deciding, I reread my notes about the public wifi risk rules twice. In the review drill, Maria says, \"The headphone rule for calls.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the meeting room tech security so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "A map nobody trusts is worse than no map. Before deciding, I reread my notes about the public wifi risk rules twice. In the review drill, Maria says, \"The headphone rule for calls.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the meeting room tech security so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "没人信的地图比没地图更糟。做决定之前，我把关于公共 Wi-Fi 风险守则的笔记重读了两遍。评审演练中，Maria说：\"通话必戴耳机。\"我们互换角色，这次由我来提问。我准备了一页关于会议室设备安全的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Old integrations lose silent privileges; new diagrams replace the fossils. In the review drill, Priya says, \"Hotspot beats cafe wifi.\" We swap roles so I ask the questions this time. I compare two views on the contractor access template and write both down honestly. We spend the first ten minutes of the review on the visitor network access. We end the week with something shipped and something properly learned this time.",
+   "tts": "Old integrations lose silent privileges; new diagrams replace the fossils. In the review drill, Priya says, \"Hotspot beats cafe wifi.\" We swap roles so I ask the questions this time. I compare two views on the contractor access template and write both down honestly. We spend the first ten minutes of the review on the visitor network access. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "老集成交出沉默的特权；新图取代了化石图。评审演练中，Priya说：\"手机热点胜过咖啡店 Wi-Fi。\"我们互换角色，这次由我来提问。我比较了关于外包人员权限模板的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了访客网络接入上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the tailgating drill to the meeting agenda with three supporting facts. The team names one clear owner for the lost device procedure. In the review drill, Maria says, \"Two factor for everything now.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the tailgating drill to the meeting agenda with three supporting facts. The team names one clear owner for the lost device procedure. In the review drill, Maria says, \"Two factor for everything now.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把尾随进入演练连同三条支撑事实加进了议程。团队为设备丢失流程指定了明确的负责人。评审演练中，Maria说：\"现在什么都是两步验证。\"我们互换角色，这次由我来提问。没人信的地图比没地图更糟。",
+   "hard": []
   }
  ],
  "chunks": [

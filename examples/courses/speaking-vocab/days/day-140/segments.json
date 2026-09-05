@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 328,
-   "segment_count": 3,
+   "word_count": 393,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A holiday map goes up: whose Monday never exists. Priya suggests a cleaner way to think about the small batch review. I compare my notes about the two-pass review with Priya's. While the details are fresh, I write down the api change checklist. I connect the migration review points to the ticket so nothing gets lost. In the meeting drill, Maria says, \"The baozi line at seven.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Steam writes calligraphy.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "A holiday map goes up: whose Monday never exists. Priya suggests a cleaner way to think about the small batch review. I compare my notes about the two-pass review with Priya's. While the details are fresh, I write down the api change checklist. I connect the migration review points to the ticket so nothing gets lost. In the meeting drill, Maria says, \"The baozi line at seven.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Steam writes calligraphy.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "A holiday map goes up: whose Monday never exists. Priya suggests a cleaner way to think about the small batch review. I compare my notes about the api change checklist with Priya's. In the meeting drill, Leo says, \"The baozi line at seven.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "A holiday map goes up: whose Monday never exists. Priya suggests a cleaner way to think about the small batch review. I compare my notes about the api change checklist with Priya's. In the meeting drill, Leo says, \"The baozi line at seven.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一张假日地图贴上墙：谁家的周一不存在。Priya 提出了一个更清晰的小批评审思考方式。我把关于两遍评审的笔记和 Priya 的对照了一下。趁细节还新鲜，我把接口变更清单写了下来。我把迁移评审要点关联到工单上，免得遗漏。会议演练中，Maria说：\"七点的小笼包队。\"之后我们换角色再练一遍。会议演练中，Priya说：\"蒸汽写字画符。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "一张假日地图贴上墙：谁家的周一不存在。Priya 提出了一个更清晰的小批评审思考方式。我把关于接口变更清单的笔记和 Priya 的对照了一下。会议演练中，Leo说：\"七点的小笼包队。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "small batch review",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We rotate the late call fairly and follow the sun review. In the meeting drill, Maria says, \"Regulars have shorthand.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Counting change in coins.\" After that, we swap roles and run it again. The guide now has a short section on the silent reading time. At the review, we spend ten minutes on the author narration. In today's standup, I mention the perf sensitive paths and what comes next. We agree to give the security quick pass one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "We rotate the late call fairly and follow the sun review. In the meeting drill, Maria says, \"Regulars have shorthand.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Counting change in coins.\" After that, we swap roles and run it again. The guide now has a short section on the silent reading time. At the review, we spend ten minutes on the author narration. In today's standup, I mention the perf sensitive paths and what comes next. We agree to give the security quick pass one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "en": "We rotate the late call fairly and follow the sun review. In the meeting drill, Priya says, \"Steam writes calligraphy.\" After that, we swap roles and run it again. While the details are fresh, I write down the two-pass review. I connect the migration review points to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We rotate the late call fairly and follow the sun review. In the meeting drill, Priya says, \"Steam writes calligraphy.\" After that, we swap roles and run it again. While the details are fresh, I write down the two-pass review. I connect the migration review points to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们公平轮换深夜会议，并启用接力评审。会议演练中，Maria说：\"熟客都用语速点单。\"之后我们换角色再练一遍。会议演练中，Priya说：\"硬币在掌心数得清。\"之后我们换角色再练一遍。指南里现在有关于静读时段的简短章节。评审时，我们花了十分钟在作者旁白上。今天的站会上，我提到性能敏感路径和接下来的安排。我们说好这周再把安全快速过一遍仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我们公平轮换深夜会议，并启用接力评审。会议演练中，Priya说：\"蒸汽写字画符。\"之后我们换角色再练一遍。趁细节还新鲜，我把两遍评审写了下来。我把迁移评审要点关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "silent reading time",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the license header check. I compare my notes about the rollback note in pr with Priya's. While the details are fresh, I write down the review pause protocol. I connect the reviewer handoff to the ticket so nothing gets lost. In the meeting drill, Leo says, \"First bite, hot warning.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Breakfast philosophy is free.\" After that, we swap roles and run it again. Fairness is a schedule you can point at.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the license header check. I compare my notes about the rollback note in pr with Priya's. While the details are fresh, I write down the review pause protocol. I connect the reviewer handoff to the ticket so nothing gets lost. In the meeting drill, Leo says, \"First bite, hot warning.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Breakfast philosophy is free.\" After that, we swap roles and run it again. Fairness is a schedule you can point at.",
+   "en": "We rotate the late call fairly and follow the sun review. The guide now has a short section on the perf sensitive paths. At the review, we spend ten minutes on the silent reading time. In the meeting drill, Maria says, \"Regulars have shorthand.\" After that, we swap roles and run it again. Fairness is a schedule you can point at.",
+   "tts": "We rotate the late call fairly and follow the sun review. The guide now has a short section on the perf sensitive paths. At the review, we spend ten minutes on the silent reading time. In the meeting drill, Maria says, \"Regulars have shorthand.\" After that, we swap roles and run it again. Fairness is a schedule you can point at.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的许可头检查思考方式。我把关于PR 里的回滚说明的笔记和 Priya 的对照了一下。趁细节还新鲜，我把评审暂停协议写了下来。我把评审接力关联到工单上，免得遗漏。会议演练中，Leo说：\"第一口\"之后我们换角色再练一遍。会议演练中，Maria说：\"早餐哲学免费附送。\"之后我们换角色再练一遍。公平是一张指得出来的时间表。",
+   "zh": "我们公平轮换深夜会议，并启用接力评审。指南里现在有关于性能敏感路径的简短章节。评审时，我们花了十分钟在静读时段上。会议演练中，Maria说：\"熟客都用语速点单。\"之后我们换角色再练一遍。公平是一张指得出来的时间表。",
    "hard": [
     {
      "w": "review pause protocol",
@@ -146,6 +146,33 @@
      "def": "PR 里的回滚说明，怎么退一句话"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Fairness is a schedule you can point at. In today's standup, I mention the author narration and what comes next. In the meeting drill, Maria says, \"Counting change in coins.\" After that, we swap roles and run it again. We agree to give the security quick pass one more careful look this week. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Fairness is a schedule you can point at. In today's standup, I mention the author narration and what comes next. In the meeting drill, Maria says, \"Counting change in coins.\" After that, we swap roles and run it again. We agree to give the security quick pass one more careful look this week. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "公平是一张指得出来的时间表。今天的站会上，我提到作者旁白和接下来的安排。会议演练中，Maria说：\"硬币在掌心数得清。\"之后我们换角色再练一遍。我们说好这周再把安全快速过一遍仔细看一次。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We rotate the late call fairly and follow the sun review. In the meeting drill, Priya says, \"First bite, hot warning.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the license header check. I compare my notes about the review pause protocol with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We rotate the late call fairly and follow the sun review. In the meeting drill, Priya says, \"First bite, hot warning.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the license header check. I compare my notes about the review pause protocol with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们公平轮换深夜会议，并启用接力评审。会议演练中，Priya说：\"第一口\"之后我们换角色再练一遍。Priya 提出了一个更清晰的许可头检查思考方式。我把关于评审暂停协议的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the rollback note in pr. I connect the reviewer handoff to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Breakfast philosophy is free.\" After that, we swap roles and run it again. Fairness is a schedule you can point at.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the rollback note in pr. I connect the reviewer handoff to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Breakfast philosophy is free.\" After that, we swap roles and run it again. Fairness is a schedule you can point at.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把PR 里的回滚说明写了下来。我把评审接力关联到工单上，免得遗漏。会议演练中，Maria说：\"早餐哲学免费附送。\"之后我们换角色再练一遍。公平是一张指得出来的时间表。",
+   "hard": []
   }
  ],
  "chunks": [

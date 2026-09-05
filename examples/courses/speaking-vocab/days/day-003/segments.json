@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 173,
+   "word_count": 246,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -30,50 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Today I run a small program, and it works. I point to the program. This is the command. Maria shows me the commit. I look at the commit message. Leo asks, \"What time is it?\" I answer politely. Leo asks, \"What time works for you?\" I answer politely. I learn one new thing.",
-   "tts": "Today I run a small program, and it works. I point to the program. This is the command. Maria shows me the commit. I look at the commit message. Leo asks, \"What time is it?\" I answer politely. Leo asks, \"What time works for you?\" I answer politely. I learn one new thing.",
+   "en": "Day three begins with my first real command. Maria shows me the terminal. \"Type this to run a program,\" she says. I type it and press Enter. The program executes code and prints its output on the screen. \"If it hangs, you can stop a process with Ctrl+C.\" I try it. It works. \"What time is it?\" Leo asks as he walks past. \"Almost ten,\" I reply. \"What time works for you for a quick sync?\" he asks. \"I'm available at ten-thirty.\"",
+   "tts": "Day three begins with my first real command. Maria shows me the terminal. \"Type this to run a program,\" she says. I type it and press Enter. The program executes code and prints its output on the screen. \"If it hangs, you can stop a process with Ctrl+C.\" I try it. It works. \"What time is it?\" Leo asks as he walks past. \"Almost ten,\" I reply. \"What time works for you for a quick sync?\" he asks. \"I'm available at ten-thirty.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "今天我运行了一个小程序，它成功了。我指着程序。这是命令。Maria 给我看了提交。我看着提交说明。Leo问：\"现在几点？\"我礼貌地回应。Leo问：\"什么时间对你方便？\"我礼貌地回应。我学到了一件新东西。",
-   "hard": [
-    {
-     "w": "program",
-     "type": "term",
-     "def": "程序，让电脑执行任务的一组指令"
-    },
-    {
-     "w": "command",
-     "type": "term",
-     "def": "命令，告诉电脑立即执行某个操作的文字"
-    },
-    {
-     "w": "What time is it?",
-     "type": "term",
-     "def": "现在几点？"
-    },
-    {
-     "w": "What time works for you?",
-     "type": "term",
-     "def": "什么时间对你方便？"
-    },
-    {
-     "w": "commit",
-     "type": "term",
-     "def": "提交，保存一组有意义的代码变化"
-    },
-    {
-     "w": "commit message",
-     "type": "term",
-     "def": "提交说明，解释本次提交修改了什么"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "At lunch, we talk about the time for a short meeting. I read the pattern slowly: I'm available at ... I practise the pattern out loud: Let's meet at ... Maria asks me to run a program. I execute code. I save a snapshot with Maria. The commit history is new to me. Maria helps me a lot.",
-   "tts": "At lunch, we talk about the time for a short meeting. I read the pattern slowly: I'm available at  I practise the pattern out loud: Let's meet at  Maria asks me to run a program. I execute code. I save a snapshot with Maria. The commit history is new to me. Maria helps me a lot.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "午饭时，我们讨论了一个短会的时间。我慢慢读出这个句型：我在……有时间。我大声练习这个句型：我们……见吧。Maria 让我运行程序。我执行代码。我和 Maria 一起保存快照。提交历史对我来说很新。Maria 帮了我很多。",
+   "zh": "第三天从我的第一个真正的命令开始。Maria 给我看终端。\"输入这个来运行一个程序，\"她说。我输入并按回车。程序执行代码，在屏幕上打印输出。\"如果卡住了，你可以用 Ctrl+C 停止进程。\"我试了。成功了。\"现在几点？\"Leo 路过时问。\"快十点了，\"我回答。\"你什么时间方便快速同步一下？\"他问。\"我十点半有空。\"",
    "hard": [
     {
      "w": "run a program",
@@ -86,36 +46,6 @@
      "def": "执行代码，让代码真正产生结果"
     },
     {
-     "w": "I'm available at ...",
-     "type": "term",
-     "def": "我在……有时间。"
-    },
-    {
-     "w": "Let's meet at ...",
-     "type": "term",
-     "def": "我们……见吧。"
-    },
-    {
-     "w": "save a snapshot",
-     "type": "term",
-     "def": "保存快照，记录项目在某一时刻的状态"
-    },
-    {
-     "w": "commit history",
-     "type": "term",
-     "def": "提交历史，按时间保存的历次代码变化"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I do one last thing. I see the commit hash. I make a commit slowly. I point to the output. Now I can stop a process. Priya says, \"I'm running late.\" I nod and reply. Priya says, \"See you tomorrow.\" I nod and reply. Before I leave, I save my first commit. My name is in the history now.",
-   "tts": "Before I leave, I do one last thing. I see the commit hash. I make a commit slowly. I point to the output. Now I can stop a process. Priya says, \"I'm running late.\" I nod and reply. Priya says, \"See you tomorrow.\" I nod and reply. Before I leave, I save my first commit. My name is in the history now.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。我看到了提交哈希。我慢慢创建提交。我指着输出。现在我会停止进程了。Priya说：\"我要迟到了。\"我点头回应。Priya说：\"明天见。\"我点头回应。离开前，我保存了第一次提交。我的名字现在进入了历史记录。",
-   "hard": [
-    {
      "w": "output",
      "type": "term",
      "def": "输出，程序处理后给出的结果"
@@ -126,14 +56,64 @@
      "def": "停止进程，让正在运行的任务结束"
     },
     {
+     "w": "What time is it?",
+     "type": "term",
+     "def": "现在几点？"
+    },
+    {
+     "w": "What time works for you?",
+     "type": "term",
+     "def": "什么时间对你方便？"
+    },
+    {
+     "w": "I'm available at ...",
+     "type": "term",
+     "def": "我在……有时间。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "At the standup, Maria asks about my schedule. \"Let's meet at two for a code walkthrough,\" she says. \"I'm running late from another meeting, so give me five minutes.\" After the standup, she explains commits. \"A commit is like saving a snapshot of your work. The commit message describes what you changed. The commit history shows all your snapshots in order. Every commit has a unique commit hash.\" I open the terminal. \"I'm going to make a commit,\" I announce. My hands shake a little.",
+   "tts": "At the standup, Maria asks about my schedule. \"Let's meet at two for a code walkthrough,\" she says. \"I'm running late from another meeting, so give me five minutes.\" After the standup, she explains commits. \"A commit is like saving a snapshot of your work. The commit message describes what you changed. The commit history shows all your snapshots in order. Every commit has a unique commit hash.\" I open the terminal. \"I'm going to make a commit,\" I announce. My hands shake a little.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "站会上，Maria 问我的日程。\"我们两点碰一下过代码吧，\"她说。\"我另一个会要迟到，给我五分钟。\"站会后，她解释了提交。\"提交就像保存一个你工作的快照。提交说明描述你改了什么。提交历史按顺序展示你所有的快照。每次提交都有唯一的提交哈希。\"我打开终端。\"我要创建一个提交了，\"我宣布。手有点抖。",
+   "hard": [
+    {
+     "w": "What time works for you?",
+     "type": "term",
+     "def": "什么时间对你方便？"
+    },
+    {
+     "w": "Let's meet at ...",
+     "type": "term",
+     "def": "我们……见吧。"
+    },
+    {
      "w": "I'm running late.",
      "type": "term",
      "def": "我要迟到了。"
     },
     {
-     "w": "See you tomorrow.",
+     "w": "commit",
      "type": "term",
-     "def": "明天见。"
+     "def": "提交，保存一组有意义的代码变化"
+    },
+    {
+     "w": "commit message",
+     "type": "term",
+     "def": "提交说明，解释本次提交修改了什么"
+    },
+    {
+     "w": "save a snapshot",
+     "type": "term",
+     "def": "保存快照，记录项目在某一时刻的状态"
+    },
+    {
+     "w": "commit history",
+     "type": "term",
+     "def": "提交历史，按时间保存的历次代码变化"
     },
     {
      "w": "commit hash",
@@ -144,6 +124,21 @@
      "w": "make a commit",
      "type": "term",
      "def": "创建提交，把当前选中的变化记入历史"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "The commit goes through. I stare at the screen. My code is in the commit history. Maria gives me a thumbs up. \"See you tomorrow,\" she says as the day ends. I write in my notebook: 'Day 3 — ran my first program, made my first commit, learned about output and commit hashes.' The terminal is no longer scary. It's a tool that does what I tell it. I execute code, I see output, I stop processes. Tomorrow, more.",
+   "tts": "The commit goes through. I stare at the screen. My code is in the commit history. Maria gives me a thumbs up. \"See you tomorrow,\" she says as the day ends. I write in my notebook: 'Day 3 — ran my first program, made my first commit, learned about output and commit hashes.' The terminal is no longer scary. It's a tool that does what I tell it. I execute code, I see output, I stop processes. Tomorrow, more.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "提交成功了。我盯着屏幕。我的代码进入了提交历史。Maria 给我竖了个大拇指。\"明天见，\"她下班时说。我在笔记本上写：'第三天——跑了第一个程序，做了第一个提交，学了输出和提交哈希。'终端不再可怕了。它是一个听我指令的工具。我执行代码，看到输出，停止进程。明天，继续。",
+   "hard": [
+    {
+     "w": "See you tomorrow.",
+     "type": "term",
+     "def": "明天见。"
     }
    ]
   }

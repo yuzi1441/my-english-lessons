@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 360,
-   "segment_count": 3,
+   "word_count": 415,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A teammate leaves for a great adventure. We spend the first ten minutes of the review on the tamper proof logging. I add the log integrity verification to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the impossible travel alert twice. I prepare a one-page brief about the service account review so meetings start from facts. In the review drill, Maria says, \"The guest book survived generations.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Repair visits get logged too.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "A teammate leaves for a great adventure. We spend the first ten minutes of the review on the tamper proof logging. I add the log integrity verification to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the impossible travel alert twice. I prepare a one-page brief about the service account review so meetings start from facts. In the review drill, Maria says, \"The guest book survived generations.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Repair visits get logged too.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "A teammate leaves for a great adventure. We spend the first ten minutes of the review on the tamper proof logging. I add the impossible travel alert to the meeting agenda with three supporting facts. In the review drill, Leo says, \"The guest book survived generations.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "A teammate leaves for a great adventure. We spend the first ten minutes of the review on the tamper proof logging. I add the impossible travel alert to the meeting agenda with three supporting facts. In the review drill, Leo says, \"The guest book survived generations.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位队友奔赴新征程。评审的前十分钟，我们都用在了防篡改日志上。我把日志完整性校验连同三条支撑事实加进了议程。做决定之前，我把关于异地登录告警的笔记重读了两遍。我准备了一页关于服务账号活动复核的简报，好让会议从事实出发。评审演练中，Maria说：\"访客簿传了几代人。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"维修来访也记录。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "一位队友奔赴新征程。评审的前十分钟，我们都用在了防篡改日志上。我把异地登录告警连同三条支撑事实加进了议程。评审演练中，Leo说：\"访客簿传了几代人。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "tamper proof logging",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Access ends in hours, accounts reviewed, keys collected with warmth. In the review drill, Maria says, \"We notice patterns politely.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Odd hours get a phone call.\" We swap roles so I ask the questions this time. The team names one clear owner for the anomalous access pattern. Our mentor walks me through how the dormant account alert evolved on this team. I compare two views on the log retention balance and write both down honestly. During the design review, I raise one careful question about the on call access logging. We end the week with something shipped and something properly learned this time.",
-   "tts": "Access ends in hours, accounts reviewed, keys collected with warmth. In the review drill, Maria says, \"We notice patterns politely.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Odd hours get a phone call.\" We swap roles so I ask the questions this time. The team names one clear owner for the anomalous access pattern. Our mentor walks me through how the dormant account alert evolved on this team. I compare two views on the log retention balance and write both down honestly. During the design review, I raise one careful question about the on call access logging. We end the week with something shipped and something properly learned this time.",
+   "en": "Access ends in hours, accounts reviewed, keys collected with warmth. In the review drill, Priya says, \"Repair visits get logged too.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the log integrity verification twice. I prepare a one-page brief about the service account review so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "Access ends in hours, accounts reviewed, keys collected with warmth. In the review drill, Priya says, \"Repair visits get logged too.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the log integrity verification twice. I prepare a one-page brief about the service account review so meetings start from facts. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "权限数小时内收回，账号逐项复核，钥匙在祝福中交还。评审演练中，Maria说：\"我们礼貌地留意规律。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"怪时间来访先打电话。\"我们互换角色，这次由我来提问。团队为异常访问模式指定了明确的负责人。导师带我梳理了休眠账号告警在这个团队里的演变。我比较了关于日志保留与隐私平衡的两种观点，诚实地都记了下来。设计评审中，我就值班访问留痕提出了一个审慎的问题。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "权限数小时内收回，账号逐项复核，钥匙在祝福中交还。评审演练中，Priya说：\"维修来访也记录。\"我们互换角色，这次由我来提问。做决定之前，我把关于日志完整性校验的笔记重读了两遍。我准备了一页关于服务账号活动复核的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "anomalous access pattern",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the security metrics pipeline. I add the false alarm tuning session to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the failed login analysis twice. I prepare a one-page brief about the privileged session recording so meetings start from facts. In the review drill, Leo says, \"The dog is our anomaly detector.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Logs without blame, just facts.\" We swap roles so I ask the questions this time. Good goodbyes are also security.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the security metrics pipeline. I add the false alarm tuning session to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the failed login analysis twice. I prepare a one-page brief about the privileged session recording so meetings start from facts. In the review drill, Leo says, \"The dog is our anomaly detector.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Logs without blame, just facts.\" We swap roles so I ask the questions this time. Good goodbyes are also security.",
+   "en": "Access ends in hours, accounts reviewed, keys collected with warmth. The team names one clear owner for the log retention balance. Our mentor walks me through how the anomalous access pattern evolved on this team. In the review drill, Maria says, \"We notice patterns politely.\" We swap roles so I ask the questions this time. Good goodbyes are also security.",
+   "tts": "Access ends in hours, accounts reviewed, keys collected with warmth. The team names one clear owner for the log retention balance. Our mentor walks me through how the anomalous access pattern evolved on this team. In the review drill, Maria says, \"We notice patterns politely.\" We swap roles so I ask the questions this time. Good goodbyes are also security.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了安全指标管道上。我把误报调优会连同三条支撑事实加进了议程。做决定之前，我把关于失败登录分析的笔记重读了两遍。我准备了一页关于特权会话录屏的简报，好让会议从事实出发。评审演练中，Leo说：\"狗是我们家的异常检测器。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"只记事实不追责。\"我们互换角色，这次由我来提问。体面的告别也是安全。",
+   "zh": "权限数小时内收回，账号逐项复核，钥匙在祝福中交还。团队为日志保留与隐私平衡指定了明确的负责人。导师带我梳理了异常访问模式在这个团队里的演变。评审演练中，Maria说：\"我们礼貌地留意规律。\"我们互换角色，这次由我来提问。体面的告别也是安全。",
    "hard": [
     {
      "w": "failed login analysis",
@@ -146,6 +146,33 @@
      "def": "误报调优会，警报要可信"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Good goodbyes are also security. I compare two views on the dormant account alert and write both down honestly. In the review drill, Maria says, \"Odd hours get a phone call.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the on call access logging. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Good goodbyes are also security. I compare two views on the dormant account alert and write both down honestly. In the review drill, Maria says, \"Odd hours get a phone call.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the on call access logging. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "体面的告别也是安全。我比较了关于休眠账号告警的两种观点，诚实地都记了下来。评审演练中，Maria说：\"怪时间来访先打电话。\"我们互换角色，这次由我来提问。设计评审中，我就值班访问留痕提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Access ends in hours, accounts reviewed, keys collected with warmth. In the review drill, Priya says, \"The dog is our anomaly detector.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the security metrics pipeline. I add the failed login analysis to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "Access ends in hours, accounts reviewed, keys collected with warmth. In the review drill, Priya says, \"The dog is our anomaly detector.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the security metrics pipeline. I add the failed login analysis to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "权限数小时内收回，账号逐项复核，钥匙在祝福中交还。评审演练中，Priya说：\"狗是我们家的异常检测器。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了安全指标管道上。我把失败登录分析连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the false alarm tuning session twice. I prepare a one-page brief about the privileged session recording so meetings start from facts. In the review drill, Maria says, \"Logs without blame, just facts.\" We swap roles so I ask the questions this time. Good goodbyes are also security.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the false alarm tuning session twice. I prepare a one-page brief about the privileged session recording so meetings start from facts. In the review drill, Maria says, \"Logs without blame, just facts.\" We swap roles so I ask the questions this time. Good goodbyes are also security.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于误报调优会的笔记重读了两遍。我准备了一页关于特权会话录屏的简报，好让会议从事实出发。评审演练中，Maria说：\"只记事实不追责。\"我们互换角色，这次由我来提问。体面的告别也是安全。",
+   "hard": []
   }
  ],
  "chunks": [

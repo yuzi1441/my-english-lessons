@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 283,
+   "word_count": 236,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "It is my last day of this month. I look back at the road. I add the system architecture to my checklist for tomorrow. I double-check data flow before the review. After a short break, We spend a few minutes on the project update at the standup. I reread my notes about the completed work after lunch. I build a full answer around the pattern: This month I learned ... After that, I teach the pattern to a new teammate: The hardest part was ... I check my notes and confirm the next step.",
-   "tts": "It is my last day of this month. I look back at the road. I add the system architecture to my checklist for tomorrow. I double-check data flow before the review. After a short break, We spend a few minutes on the project update at the standup. I reread my notes about the completed work after lunch. I build a full answer around the pattern: This month I learned  After that, I teach the pattern to a new teammate: The hardest part was  I check my notes and confirm the next step.",
+   "en": "Day thirty: the final day of month one. \"System architecture is the big picture,\" Maria says. \"Data flow shows movement. An interface is a contract. A component is a building block. A dependency graph shows connections. A design boundary separates concerns.\" Then reflection vocabulary: \"This month I learned so much. The hardest part was debugging. I'm proud that I never gave up. I still need to improve my speaking. Next month I will focus on testing. My next small step is to write more tests.\"",
+   "tts": "Day thirty: the final day of month one. \"System architecture is the big picture,\" Maria says. \"Data flow shows movement. An interface is a contract. A component is a building block. A dependency graph shows connections. A design boundary separates concerns.\" Then reflection vocabulary: \"This month I learned so much. The hardest part was debugging. I'm proud that I never gave up. I still need to improve my speaking. Next month I will focus on testing. My next small step is to write more tests.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "这是这个月的最后一天。我回望走过的路。我把系统架构加进了明天的清单。评审之前，我再核对一遍数据流。稍作休息后，站会上我们花了几分钟讨论项目更新。午饭后我重读了关于已完成工作的笔记。我围绕这个句型组织了一个完整的回答：这个月我学会了……在那之后，我把这个句型教给一位新队友：最难的部分是……我检查笔记，确认了下一步。",
+   "zh": "第三十天：第一个月的最后一天。\"系统架构是全局图景，\"Maria 说。\"数据流展示移动。接口是契约。组件是积木。依赖图显示连接。设计边界分离关注点。\"然后是反思词汇：\"这个月我学到了很多。最难的部分是调试。我自豪的是从未放弃。我还需要提高口语。下个月我要专注测试。我的下一个小步骤是多写测试。",
    "hard": [
     {
      "w": "system architecture",
@@ -46,36 +46,6 @@
      "def": "数据流，数据在系统各部分之间移动的过程"
     },
     {
-     "w": "This month I learned ...",
-     "type": "term",
-     "def": "这个月我学会了……"
-    },
-    {
-     "w": "The hardest part was ...",
-     "type": "term",
-     "def": "最难的部分是……"
-    },
-    {
-     "w": "project update",
-     "type": "term",
-     "def": "项目更新，向团队说明当前进展的简短报告"
-    },
-    {
-     "w": "completed work",
-     "type": "term",
-     "def": "已完成工作，已经交付或验证的事项"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "I say what I learned and what I will improve. After that, The pattern helps me sound clear and calm: I'm proud that ... In my update, I use the pattern naturally: I still need to improve ... During the review, I ask one question about the interface. After a short break, I walk a new teammate through the component. I go through the current blocker with Priya and note her advice. I keep one real example of the next action in my notes. The team agrees on the plan, and I record the decision.",
-   "tts": "I say what I learned and what I will improve. After that, The pattern helps me sound clear and calm: I'm proud that  In my update, I use the pattern naturally: I still need to improve  During the review, I ask one question about the interface. After a short break, I walk a new teammate through the component. I go through the current blocker with Priya and note her advice. I keep one real example of the next action in my notes. The team agrees on the plan, and I record the decision.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我说了自己学到的，还要改进的。在那之后，这个句型让我听起来清楚又从容：我为……感到自豪。在汇报里，我自然地用上了这个句型：我仍然需要改进……评审时，我就接口提了一个问题。稍作休息后，我带一位新队友过了一遍组件。我和 Priya 过了一遍当前阻碍，记下了她的建议。我在笔记里留了一个下一行动的真实例子。团队就计划达成一致，我记录了决定。",
-   "hard": [
-    {
      "w": "interface",
      "type": "term",
      "def": "接口，两个组件之间交换信息的约定"
@@ -84,6 +54,26 @@
      "w": "component",
      "type": "term",
      "def": "组件，系统中承担一项明确职责的部分"
+    },
+    {
+     "w": "dependency graph",
+     "type": "term",
+     "def": "依赖图，显示组件之间依赖关系的图"
+    },
+    {
+     "w": "design boundary",
+     "type": "term",
+     "def": "设计边界，划分组件职责和影响范围的界线"
+    },
+    {
+     "w": "This month I learned ...",
+     "type": "term",
+     "def": "这个月我学会了……"
+    },
+    {
+     "w": "The hardest part was ...",
+     "type": "term",
+     "def": "最难的部分是……"
     },
     {
      "w": "I'm proud that ...",
@@ -96,36 +86,6 @@
      "def": "我仍然需要改进……"
     },
     {
-     "w": "current blocker",
-     "type": "term",
-     "def": "当前阻碍，使工作暂时无法继续的问题"
-    },
-    {
-     "w": "next action",
-     "type": "term",
-     "def": "下一行动，接下来要执行的具体步骤"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I suggest that we check the lessons learned first. Before I reply, I look at the follow-up issue once more. After that, I add the dependency graph to my checklist for tomorrow. I double-check the design boundary before the review. I build a full answer around the pattern: Next month I will ... After a short break, I teach the pattern to a new teammate: My next small step is ... The project update is clear. Next month, I am ready for more.",
-   "tts": "Before I leave, I write a short summary for the team. I suggest that we check the lessons learned first. Before I reply, I look at the follow-up issue once more. After that, I add the dependency graph to my checklist for tomorrow. I double-check the design boundary before the review. I build a full answer around the pattern: Next month I will  After a short break, I teach the pattern to a new teammate: My next small step is  The project update is clear. Next month, I am ready for more.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我建议我们先检查经验总结。回复之前，我又看了一遍后续问题单。在那之后，我把依赖图加进了明天的清单。评审之前，我再核对一遍设计边界。我围绕这个句型组织了一个完整的回答：下个月我会……稍作休息后，我把这个句型教给一位新队友：我的下一个小步骤是……项目更新很清楚。下个月，我准备好了更多。",
-   "hard": [
-    {
-     "w": "dependency graph",
-     "type": "term",
-     "def": "依赖图，显示组件之间依赖关系的图"
-    },
-    {
-     "w": "design boundary",
-     "type": "term",
-     "def": "设计边界，划分组件职责和影响范围的界线"
-    },
-    {
      "w": "Next month I will ...",
      "type": "term",
      "def": "下个月我会……"
@@ -134,6 +94,36 @@
      "w": "My next small step is ...",
      "type": "term",
      "def": "我的下一个小步骤是……"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "The final project update. \"A project update shares progress,\" Leo says. \"Completed work shows what's done. The current blocker is what's stuck. The next action is what's next. Lessons learned are insights. A follow-up issue captures future work.\" I present to the team. \"Completed work: the onboarding feature is live. Current blocker: none. Next action: monitor user feedback. Lessons learned: always test before deploying.\"",
+   "tts": "The final project update. \"A project update shares progress,\" Leo says. \"Completed work shows what's done. The current blocker is what's stuck. The next action is what's next. Lessons learned are insights. A follow-up issue captures future work.\" I present to the team. \"Completed work: the onboarding feature is live. Current blocker: none. Next action: monitor user feedback. Lessons learned: always test before deploying.\"",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "最终项目更新。\"项目更新分享进展，\"Leo 说。\"已完成工作展示成果。当前阻碍是卡住的事。下一步行动是接下来做的。经验教训是洞察。后续问题单记录未来工作。\"我向团队汇报。\"已完成工作：引导功能已上线。当前阻碍：无。下一步行动：监控用户反馈。经验教训：部署前一定要测试。",
+   "hard": [
+    {
+     "w": "project update",
+     "type": "term",
+     "def": "项目更新，向团队说明当前进展的简短报告"
+    },
+    {
+     "w": "completed work",
+     "type": "term",
+     "def": "已完成工作，已经交付或验证的事项"
+    },
+    {
+     "w": "current blocker",
+     "type": "term",
+     "def": "当前阻碍，使工作暂时无法继续的问题"
+    },
+    {
+     "w": "next action",
+     "type": "term",
+     "def": "下一行动，接下来要执行的具体步骤"
     },
     {
      "w": "lessons learned",
@@ -144,6 +134,21 @@
      "w": "follow-up issue",
      "type": "term",
      "def": "后续问题单，为下一步工作创建的事项"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Thirty days. One hundred and eighty paragraphs. Five hundred and forty vocabulary words. Six languages of code. One exhausted but proud developer. I close my notebook and look at the wall. My sticky notes form a timeline: Day 1, Day 5, Day 12, Day 21, Day 30. Each note is a milestone. Each milestone is a door. Behind each door is more learning. I close the notebook, open my laptop, and type: git commit -m 'Month 1 complete.' The terminal responds: done. So am I. For today.",
+   "tts": "Thirty days. One hundred and eighty paragraphs. Five hundred and forty vocabulary words. Six languages of code. One exhausted but proud developer. I close my notebook and look at the wall. My sticky notes form a timeline: Day 1, Day 5, Day 12, Day 21, Day 30. Each note is a milestone. Each milestone is a door. Behind each door is more learning. I close the notebook, open my laptop, and type: git commit -m 'Month 1 complete.' The terminal responds: done. So am I. For today.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "三十天。一百八十段。五百四十个词汇。六种代码语言。一个疲惫但自豪的开发者。我合上笔记本看着墙。便利贴组成时间线：第一天、第五天、第十二天、第二十一天、第三十天。每张便签是一个里程碑。每个里程碑是一扇门。每扇门后面是更多学习。我合上笔记本，打开电脑，输入：git commit -m '第一个月完成。' 终端回应：完成。我也是。今天而言。",
+   "hard": [
+    {
+     "w": "lessons learned",
+     "type": "term",
+     "def": "经验总结，从本轮项目中得到的认识"
     }
    ]
   }

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 324,
-   "segment_count": 3,
+   "word_count": 387,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A user writes in: drafts vanish when the battery saver wakes. I keep one real example of the synthetic monitoring in my notebook. I spend ten quiet minutes on the real user monitoring after the standup. Sam asks me about the release retro, and I explain the basics. I ask one good question about the feedback triage hour in the meeting. In the warm-up round, Priya says, \"Wool needs a gentle cycle.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Mend before you toss.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
-   "tts": "A user writes in: drafts vanish when the battery saver wakes. I keep one real example of the synthetic monitoring in my notebook. I spend ten quiet minutes on the real user monitoring after the standup. Sam asks me about the release retro, and I explain the basics. I ask one good question about the feedback triage hour in the meeting. In the warm-up round, Priya says, \"Wool needs a gentle cycle.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Mend before you toss.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "en": "A user writes in: drafts vanish when the battery saver wakes. I keep one real example of the synthetic monitoring in my notebook. I spend ten quiet minutes on the release retro after the standup. In the warm-up round, Maria says, \"Wool needs a gentle cycle.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "A user writes in: drafts vanish when the battery saver wakes. I keep one real example of the synthetic monitoring in my notebook. I spend ten quiet minutes on the release retro after the standup. In the warm-up round, Maria says, \"Wool needs a gentle cycle.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位用户来信：省电模式一醒，草稿就消失。我在笔记本里留了一个拨测监控的真实例子。站会之后，我安安静静花了十分钟在真实用户监控上。Sam 问起发布复盘，我讲了讲基础。会上关于反馈分诊时间，我问了一个好问题。热身环节里，Priya说：\"羊毛要用轻柔档。\"然后我们换角色，由我来问。热身环节里，Leo说：\"先缝补再丢弃。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
+   "zh": "一位用户来信：省电模式一醒，草稿就消失。我在笔记本里留了一个拨测监控的真实例子。站会之后，我安安静静花了十分钟在发布复盘上。热身环节里，Maria说：\"羊毛要用轻柔档。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "synthetic monitoring",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "It escaped every net we had; escape analysis finds the gap, not the guilty. In the warm-up round, Priya says, \"A lint roller saves suits.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Air dry, longer life.\" Then we swap roles and I ask it back. My notes about the error spike alert look clearer this week. I go over the feature heartbeat one more time before lunch. There is a short paragraph about the hotfix window in the guide. I add the known issues list to my study notes before I forget it. The task moves forward, and so does my confidence.",
-   "tts": "It escaped every net we had; escape analysis finds the gap, not the guilty. In the warm-up round, Priya says, \"A lint roller saves suits.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Air dry, longer life.\" Then we swap roles and I ask it back. My notes about the error spike alert look clearer this week. I go over the feature heartbeat one more time before lunch. There is a short paragraph about the hotfix window in the guide. I add the known issues list to my study notes before I forget it. The task moves forward, and so does my confidence.",
+   "en": "It escaped every net we had; escape analysis finds the gap, not the guilty. In the warm-up round, Leo says, \"Mend before you toss.\" Then we swap roles and I ask it back. Sam asks me about the real user monitoring, and I explain the basics. I ask one good question about the feedback triage hour in the meeting. The task moves forward, and so does my confidence.",
+   "tts": "It escaped every net we had; escape analysis finds the gap, not the guilty. In the warm-up round, Leo says, \"Mend before you toss.\" Then we swap roles and I ask it back. Sam asks me about the real user monitoring, and I explain the basics. I ask one good question about the feedback triage hour in the meeting. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "它逃过了我们所有的网；逃逸分析找到的是缺口，而不是罪人。热身环节里，Priya说：\"粘毛器拯救西装。\"然后我们换角色，由我来问。热身环节里，Leo说：\"晾干\"然后我们换角色，由我来问。这周我关于错误激增告警的笔记清楚多了。午饭前我又过了一遍功能心跳。指南里有一小段关于紧急修复窗口的介绍。我趁还没忘，把已知问题列表记进了学习笔记。任务在推进，我的信心也在成长。",
+   "zh": "它逃过了我们所有的网；逃逸分析找到的是缺口，而不是罪人。热身环节里，Leo说：\"先缝补再丢弃。\"然后我们换角色，由我来问。Sam 问起真实用户监控，我讲了讲基础。会上关于反馈分诊时间，我问了一个好问题。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "error spike alert",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the first 48 hours in my notebook. Maria watches while I close the milestone. I spend ten quiet minutes on the canary user group after the standup. Sam asks me about the post deploy smoke, and I explain the basics. In the warm-up round, Maria says, \"Iron the night before.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Care extends clothes' lives.\" Then we swap roles and I ask it back. The bug found the one place without a guardrail.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the first 48 hours in my notebook. Maria watches while I close the milestone. I spend ten quiet minutes on the canary user group after the standup. Sam asks me about the post deploy smoke, and I explain the basics. In the warm-up round, Maria says, \"Iron the night before.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Care extends clothes' lives.\" Then we swap roles and I ask it back. The bug found the one place without a guardrail.",
+   "en": "It escaped every net we had; escape analysis finds the gap, not the guilty. My notes about the hotfix window look clearer this week. I go over the error spike alert one more time before lunch. In the warm-up round, Priya says, \"A lint roller saves suits.\" Then we swap roles and I ask it back. The bug found the one place without a guardrail.",
+   "tts": "It escaped every net we had; escape analysis finds the gap, not the guilty. My notes about the hotfix window look clearer this week. I go over the error spike alert one more time before lunch. In the warm-up round, Priya says, \"A lint roller saves suits.\" Then we swap roles and I ask it back. The bug found the one place without a guardrail.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个头四十八小时的真实例子。Maria 看着我关闭里程碑。站会之后，我安安静静花了十分钟在金丝雀用户组上。Sam 问起部署后冒烟，我讲了讲基础。热身环节里，Maria说：\"前一晚熨好。\"然后我们换角色，由我来问。热身环节里，Priya说：\"保养延长衣服寿命。\"然后我们换角色，由我来问。这个缺陷找到了唯一没有护栏的地方。",
+   "zh": "它逃过了我们所有的网；逃逸分析找到的是缺口，而不是罪人。这周我关于紧急修复窗口的笔记清楚多了。午饭前我又过了一遍错误激增告警。热身环节里，Priya说：\"粘毛器拯救西装。\"然后我们换角色，由我来问。这个缺陷找到了唯一没有护栏的地方。",
    "hard": [
     {
      "w": "canary user group",
@@ -146,6 +146,33 @@
      "def": "关闭里程碑，这一程正式收官"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The bug found the one place without a guardrail. There is a short paragraph about the feature heartbeat in the guide. In the warm-up round, Priya says, \"Air dry, longer life.\" Then we swap roles and I ask it back. I add the known issues list to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The bug found the one place without a guardrail. There is a short paragraph about the feature heartbeat in the guide. In the warm-up round, Priya says, \"Air dry, longer life.\" Then we swap roles and I ask it back. I add the known issues list to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "这个缺陷找到了唯一没有护栏的地方。指南里有一小段关于功能心跳的介绍。热身环节里，Priya说：\"晾干\"然后我们换角色，由我来问。我趁还没忘，把已知问题列表记进了学习笔记。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "It escaped every net we had; escape analysis finds the gap, not the guilty. In the warm-up round, Leo says, \"Iron the night before.\" Then we swap roles and I ask it back. I keep one real example of the first 48 hours in my notebook. I spend ten quiet minutes on the canary user group after the standup. The task moves forward, and so does my confidence.",
+   "tts": "It escaped every net we had; escape analysis finds the gap, not the guilty. In the warm-up round, Leo says, \"Iron the night before.\" Then we swap roles and I ask it back. I keep one real example of the first 48 hours in my notebook. I spend ten quiet minutes on the canary user group after the standup. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "它逃过了我们所有的网；逃逸分析找到的是缺口，而不是罪人。热身环节里，Leo说：\"前一晚熨好。\"然后我们换角色，由我来问。我在笔记本里留了一个头四十八小时的真实例子。站会之后，我安安静静花了十分钟在金丝雀用户组上。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. Maria watches while I close the milestone. Sam asks me about the post deploy smoke, and I explain the basics. In the warm-up round, Priya says, \"Care extends clothes' lives.\" Then we swap roles and I ask it back. The bug found the one place without a guardrail.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. Maria watches while I close the milestone. Sam asks me about the post deploy smoke, and I explain the basics. In the warm-up round, Priya says, \"Care extends clothes' lives.\" Then we swap roles and I ask it back. The bug found the one place without a guardrail.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。Maria 看着我关闭里程碑。Sam 问起部署后冒烟，我讲了讲基础。热身环节里，Priya说：\"保养延长衣服寿命。\"然后我们换角色，由我来问。这个缺陷找到了唯一没有护栏的地方。",
+   "hard": []
   }
  ],
  "chunks": [

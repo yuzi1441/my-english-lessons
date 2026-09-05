@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 328,
-   "segment_count": 3,
+   "word_count": 398,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I join the on-call rotation with Leo as my shadow. I add the inverted index to my study notes before I forget it. I ask one good question about the tokenizer in the meeting. I spend ten quiet minutes on the least-privilege token after the standup. I go over the pinned action one more time before lunch. In the warm-up round, Maria says, \"The corner bakery knows my order.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Cash only, and worth it.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
-   "tts": "I join the on-call rotation with Leo as my shadow. I add the inverted index to my study notes before I forget it. I ask one good question about the tokenizer in the meeting. I spend ten quiet minutes on the least-privilege token after the standup. I go over the pinned action one more time before lunch. In the warm-up round, Maria says, \"The corner bakery knows my order.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Cash only, and worth it.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "en": "I join the on-call rotation with Leo as my shadow. I add the inverted index to my study notes before I forget it. I ask one good question about the least-privilege token in the meeting. In the warm-up round, Leo says, \"The corner bakery knows my order.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "I join the on-call rotation with Leo as my shadow. I add the inverted index to my study notes before I forget it. I ask one good question about the least-privilege token in the meeting. In the warm-up round, Leo says, \"The corner bakery knows my order.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我加入值班轮换，Leo 给我当影子。我趁还没忘，把倒排索引记进了学习笔记。会上关于分词器，我问了一个好问题。站会之后，我安安静静花了十分钟在最小权限令牌上。午饭前我又过了一遍固定版本的动作。热身环节里，Maria说：\"街角面包店记得我的口味。\"然后我们换角色，由我来问。热身环节里，Priya说：\"只收现金\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
+   "zh": "我加入值班轮换，Leo 给我当影子。我趁还没忘，把倒排索引记进了学习笔记。会上关于最小权限令牌，我问了一个好问题。热身环节里，Leo说：\"街角面包店记得我的口味。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "inverted index",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. In the warm-up round, Maria says, \"The owner remembers names.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Fresh at seven sharp.\" Then we swap roles and I ask it back. I keep one real example of the stop word in my notebook. Sam asks me about the relevance score, and I explain the basics. There is a short paragraph about the environment secret in the guide. My notes about the deploy key look clearer this week. I end the day with fewer unknowns than I started with.",
-   "tts": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. In the warm-up round, Maria says, \"The owner remembers names.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Fresh at seven sharp.\" Then we swap roles and I ask it back. I keep one real example of the stop word in my notebook. Sam asks me about the relevance score, and I explain the basics. There is a short paragraph about the environment secret in the guide. My notes about the deploy key look clearer this week. I end the day with fewer unknowns than I started with.",
+   "en": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. In the warm-up round, Priya says, \"Cash only, and worth it.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the tokenizer after the standup. I go over the pinned action one more time before lunch. I end the day with fewer unknowns than I started with.",
+   "tts": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. In the warm-up round, Priya says, \"Cash only, and worth it.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the tokenizer after the standup. I go over the pinned action one more time before lunch. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "凌晨两点，告警响了；我深呼吸，打开操作手册，沿着黄金路径走。热身环节里，Maria说：\"老板记得每位熟客的名字。\"然后我们换角色，由我来问。热身环节里，Priya说：\"七点整出炉。\"然后我们换角色，由我来问。我在笔记本里留了一个停用词的真实例子。Sam 问起相关度得分，我讲了讲基础。指南里有一小段关于环境机密的介绍。这周我关于部署密钥的笔记清楚多了。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "凌晨两点，告警响了；我深呼吸，打开操作手册，沿着黄金路径走。热身环节里，Priya说：\"只收现金\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在分词器上。午饭前我又过了一遍固定版本的动作。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "stop word",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the audit alert to my study notes before I forget it. I ask one good question about the supply chain review in the meeting. I spend ten quiet minutes on the autocomplete after the standup. I go over the typo tolerance one more time before lunch. In the warm-up round, Leo says, \"I buy the ugly bread.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Small shops hold streets together.\" Then we swap roles and I ask it back. The runbook is a letter from a calmer me.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the audit alert to my study notes before I forget it. I ask one good question about the supply chain review in the meeting. I spend ten quiet minutes on the autocomplete after the standup. I go over the typo tolerance one more time before lunch. In the warm-up round, Leo says, \"I buy the ugly bread.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Small shops hold streets together.\" Then we swap roles and I ask it back. The runbook is a letter from a calmer me.",
+   "en": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. I keep one real example of the environment secret in my notebook. Sam asks me about the stop word, and I explain the basics. In the warm-up round, Maria says, \"The owner remembers names.\" Then we swap roles and I ask it back. The runbook is a letter from a calmer me.",
+   "tts": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. I keep one real example of the environment secret in my notebook. Sam asks me about the stop word, and I explain the basics. In the warm-up round, Maria says, \"The owner remembers names.\" Then we swap roles and I ask it back. The runbook is a letter from a calmer me.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把审计告警记进了学习笔记。会上关于供应链审查，我问了一个好问题。站会之后，我安安静静花了十分钟在自动补全上。午饭前我又过了一遍容错拼写。热身环节里，Leo说：\"我专挑不好看的面包。\"然后我们换角色，由我来问。热身环节里，Maria说：\"小店把街道连在一起。\"然后我们换角色，由我来问。操作手册是冷静的我写给慌张的我的信。",
+   "zh": "凌晨两点，告警响了；我深呼吸，打开操作手册，沿着黄金路径走。我在笔记本里留了一个环境机密的真实例子。Sam 问起停用词，我讲了讲基础。热身环节里，Maria说：\"老板记得每位熟客的名字。\"然后我们换角色，由我来问。操作手册是冷静的我写给慌张的我的信。",
    "hard": [
     {
      "w": "autocomplete",
@@ -146,6 +146,33 @@
      "def": "供应链审查，检查依赖来源的流程"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The runbook is a letter from a calmer me. There is a short paragraph about the relevance score in the guide. In the warm-up round, Maria says, \"Fresh at seven sharp.\" Then we swap roles and I ask it back. My notes about the deploy key look clearer this week. The task moves forward, and so does my confidence.",
+   "tts": "The runbook is a letter from a calmer me. There is a short paragraph about the relevance score in the guide. In the warm-up round, Maria says, \"Fresh at seven sharp.\" Then we swap roles and I ask it back. My notes about the deploy key look clearer this week. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "操作手册是冷静的我写给慌张的我的信。指南里有一小段关于相关度得分的介绍。热身环节里，Maria说：\"七点整出炉。\"然后我们换角色，由我来问。这周我关于部署密钥的笔记清楚多了。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. In the warm-up round, Priya says, \"I buy the ugly bread.\" Then we swap roles and I ask it back. I add the audit alert to my study notes before I forget it. I ask one good question about the autocomplete in the meeting. I end the day with fewer unknowns than I started with.",
+   "tts": "At 2 a.m. the pager sings; I breathe, open the runbook, and follow the golden path. In the warm-up round, Priya says, \"I buy the ugly bread.\" Then we swap roles and I ask it back. I add the audit alert to my study notes before I forget it. I ask one good question about the autocomplete in the meeting. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "凌晨两点，告警响了；我深呼吸，打开操作手册，沿着黄金路径走。热身环节里，Priya说：\"我专挑不好看的面包。\"然后我们换角色，由我来问。我趁还没忘，把审计告警记进了学习笔记。会上关于自动补全，我问了一个好问题。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the supply chain review after the standup. I go over the typo tolerance one more time before lunch. In the warm-up round, Maria says, \"Small shops hold streets together.\" Then we swap roles and I ask it back. The runbook is a letter from a calmer me.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the supply chain review after the standup. I go over the typo tolerance one more time before lunch. In the warm-up round, Maria says, \"Small shops hold streets together.\" Then we swap roles and I ask it back. The runbook is a letter from a calmer me.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在供应链审查上。午饭前我又过了一遍容错拼写。热身环节里，Maria说：\"小店把街道连在一起。\"然后我们换角色，由我来问。操作手册是冷静的我写给慌张的我的信。",
+   "hard": []
   }
  ],
  "chunks": [

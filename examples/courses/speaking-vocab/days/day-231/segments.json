@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 359,
-   "segment_count": 3,
+   "word_count": 425,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Our tracing was slowing the very requests it watched. Our mentor walks me through how the capacity model evolved on this team. We spend the first ten minutes of the review on the headroom calculation. Before deciding, I reread my notes about the capacity review meeting twice. I compare two views on the load forecast doc and write both down honestly. In the review drill, Leo says, \"Guest count drives grocery math.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"The pot has a hard capacity.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
-   "tts": "Our tracing was slowing the very requests it watched. Our mentor walks me through how the capacity model evolved on this team. We spend the first ten minutes of the review on the headroom calculation. Before deciding, I reread my notes about the capacity review meeting twice. I compare two views on the load forecast doc and write both down honestly. In the review drill, Leo says, \"Guest count drives grocery math.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"The pot has a hard capacity.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "en": "Our tracing was slowing the very requests it watched. Our mentor walks me through how the capacity model evolved on this team. We spend the first ten minutes of the review on the capacity review meeting. In the review drill, Priya says, \"Guest count drives grocery math.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "Our tracing was slowing the very requests it watched. Our mentor walks me through how the capacity model evolved on this team. We spend the first ten minutes of the review on the capacity review meeting. In the review drill, Priya says, \"Guest count drives grocery math.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们的追踪正在拖慢它观察的请求。导师带我梳理了容量模型在这个团队里的演变。评审的前十分钟，我们都用在了余量计算上。做决定之前，我把关于容量评审会的笔记重读了两遍。我比较了关于负载预测文档的两种观点，诚实地都记了下来。评审演练中，Leo说：\"人数决定采购量。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"锅的容量是硬约束。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们的追踪正在拖慢它观察的请求。导师带我梳理了容量模型在这个团队里的演变。评审的前十分钟，我们都用在了容量评审会上。评审演练中，Priya说：\"人数决定采购量。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "capacity model",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Sampling rates get tuned until the observer becomes invisible. In the review drill, Leo says, \"One more chair finds space.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Leftover buffer, planned.\" We swap roles so I ask the questions this time. I add the peak forecast to the meeting agenda with three supporting facts. I prepare a one-page brief about the scaling trigger threshold so meetings start from facts. During the design review, I raise one careful question about the scaling runbook. The team names one clear owner for the cost projection sheet. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Sampling rates get tuned until the observer becomes invisible. In the review drill, Leo says, \"One more chair finds space.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Leftover buffer, planned.\" We swap roles so I ask the questions this time. I add the peak forecast to the meeting agenda with three supporting facts. I prepare a one-page brief about the scaling trigger threshold so meetings start from facts. During the design review, I raise one careful question about the scaling runbook. The team names one clear owner for the cost projection sheet. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Sampling rates get tuned until the observer becomes invisible. In the review drill, Maria says, \"The pot has a hard capacity.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the headroom calculation twice. I compare two views on the load forecast doc and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Sampling rates get tuned until the observer becomes invisible. In the review drill, Maria says, \"The pot has a hard capacity.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the headroom calculation twice. I compare two views on the load forecast doc and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们调低采样率，直到观察者隐形。评审演练中，Leo说：\"再加一把椅子总能挤下。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"剩余量缓冲\"我们互换角色，这次由我来提问。我把峰值预测连同三条支撑事实加进了议程。我准备了一页关于扩容触发阈值的简报，好让会议从事实出发。设计评审中，我就扩容操作手册提出了一个审慎的问题。团队为成本预估表指定了明确的负责人。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们调低采样率，直到观察者隐形。评审演练中，Maria说：\"锅的容量是硬约束。\"我们互换角色，这次由我来提问。做决定之前，我把关于余量计算的笔记重读了两遍。我比较了关于负载预测文档的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "peak forecast",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the quota request evolved on this team. We spend the first ten minutes of the review on the post peak review. Before deciding, I reread my notes about the cost per request twice. I compare two views on the degradation ladder and write both down honestly. In the review drill, Priya says, \"Cook order follows stove space.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The good dishes degrade gracefully.\" We swap roles so I ask the questions this time. Measurement must cost less than the truth it buys.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the quota request evolved on this team. We spend the first ten minutes of the review on the post peak review. Before deciding, I reread my notes about the cost per request twice. I compare two views on the degradation ladder and write both down honestly. In the review drill, Priya says, \"Cook order follows stove space.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The good dishes degrade gracefully.\" We swap roles so I ask the questions this time. Measurement must cost less than the truth it buys.",
+   "en": "Sampling rates get tuned until the observer becomes invisible. I add the scaling runbook to the meeting agenda with three supporting facts. I prepare a one-page brief about the peak forecast so meetings start from facts. In the review drill, Leo says, \"One more chair finds space.\" We swap roles so I ask the questions this time. Measurement must cost less than the truth it buys.",
+   "tts": "Sampling rates get tuned until the observer becomes invisible. I add the scaling runbook to the meeting agenda with three supporting facts. I prepare a one-page brief about the peak forecast so meetings start from facts. In the review drill, Leo says, \"One more chair finds space.\" We swap roles so I ask the questions this time. Measurement must cost less than the truth it buys.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了配额申请在这个团队里的演变。评审的前十分钟，我们都用在了峰值后分析上。做决定之前，我把关于单请求成本的笔记重读了两遍。我比较了关于降级阶梯的两种观点，诚实地都记了下来。评审演练中，Priya说：\"烹饪顺序看灶台位置。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"拿手菜优雅降级成家常菜。\"我们互换角色，这次由我来提问。测量的代价必须小于它买到的真相。",
+   "zh": "我们调低采样率，直到观察者隐形。我把扩容操作手册连同三条支撑事实加进了议程。我准备了一页关于峰值预测的简报，好让会议从事实出发。评审演练中，Leo说：\"再加一把椅子总能挤下。\"我们互换角色，这次由我来提问。测量的代价必须小于它买到的真相。",
    "hard": [
     {
      "w": "cost per request",
@@ -146,6 +146,33 @@
      "def": "峰值后分析，估得准不准"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Measurement must cost less than the truth it buys. During the design review, I raise one careful question about the scaling trigger threshold. In the review drill, Leo says, \"Leftover buffer, planned.\" We swap roles so I ask the questions this time. The team names one clear owner for the cost projection sheet. We end the week with something shipped and something properly learned this time.",
+   "tts": "Measurement must cost less than the truth it buys. During the design review, I raise one careful question about the scaling trigger threshold. In the review drill, Leo says, \"Leftover buffer, planned.\" We swap roles so I ask the questions this time. The team names one clear owner for the cost projection sheet. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "测量的代价必须小于它买到的真相。设计评审中，我就扩容触发阈值提出了一个审慎的问题。评审演练中，Leo说：\"剩余量缓冲\"我们互换角色，这次由我来提问。团队为成本预估表指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Sampling rates get tuned until the observer becomes invisible. In the review drill, Maria says, \"Cook order follows stove space.\" We swap roles so I ask the questions this time. Our mentor walks me through how the quota request evolved on this team. We spend the first ten minutes of the review on the cost per request. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Sampling rates get tuned until the observer becomes invisible. In the review drill, Maria says, \"Cook order follows stove space.\" We swap roles so I ask the questions this time. Our mentor walks me through how the quota request evolved on this team. We spend the first ten minutes of the review on the cost per request. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们调低采样率，直到观察者隐形。评审演练中，Maria说：\"烹饪顺序看灶台位置。\"我们互换角色，这次由我来提问。导师带我梳理了配额申请在这个团队里的演变。评审的前十分钟，我们都用在了单请求成本上。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the post peak review twice. I compare two views on the degradation ladder and write both down honestly. In the review drill, Leo says, \"The good dishes degrade gracefully.\" We swap roles so I ask the questions this time. Measurement must cost less than the truth it buys.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the post peak review twice. I compare two views on the degradation ladder and write both down honestly. In the review drill, Leo says, \"The good dishes degrade gracefully.\" We swap roles so I ask the questions this time. Measurement must cost less than the truth it buys.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于峰值后分析的笔记重读了两遍。我比较了关于降级阶梯的两种观点，诚实地都记了下来。评审演练中，Leo说：\"拿手菜优雅降级成家常菜。\"我们互换角色，这次由我来提问。测量的代价必须小于它买到的真相。",
+   "hard": []
   }
  ],
  "chunks": [

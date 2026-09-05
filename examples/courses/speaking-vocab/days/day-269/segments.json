@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 366,
-   "segment_count": 3,
+   "word_count": 431,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Leo, ever the skeptic, audits my security quarter. Before deciding, I reread my notes about the status update template twice. I prepare a one-page brief about the executive brief format so meetings start from facts. I add the comms drill with legal to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the update cadence tracker. In the review drill, Maria says, \"Bad news travels first class.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"One spokesperson per crisis.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Leo, ever the skeptic, audits my security quarter. Before deciding, I reread my notes about the status update template twice. I prepare a one-page brief about the executive brief format so meetings start from facts. I add the comms drill with legal to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the update cadence tracker. In the review drill, Maria says, \"Bad news travels first class.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"One spokesperson per crisis.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Leo, ever the skeptic, audits my security quarter. Before deciding, I reread my notes about the status update template twice. I prepare a one-page brief about the comms drill with legal so meetings start from facts. In the review drill, Leo says, \"Bad news travels first class.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Leo, ever the skeptic, audits my security quarter. Before deciding, I reread my notes about the status update template twice. I prepare a one-page brief about the comms drill with legal so meetings start from facts. In the review drill, Leo says, \"Bad news travels first class.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "常驻怀疑派 Leo 审计我的安全季度。做决定之前，我把关于事件状态模板的笔记重读了两遍。我准备了一页关于高管简报格式的简报，好让会议从事实出发。我把与法务的沟通演练连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了更新节奏跟踪表上。评审演练中，Maria说：\"坏消息要第一时间说。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"一次危机一个发言人。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "常驻怀疑派 Leo 审计我的安全季度。做决定之前，我把关于事件状态模板的笔记重读了两遍。我准备了一页关于与法务的沟通演练的简报，好让会议从事实出发。评审演练中，Leo说：\"坏消息要第一时间说。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "status update template",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "He finds one noisy alert and one true gap; both get fixed by Friday. In the review drill, Maria says, \"Facts first, feelings second.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"We correct our own rumors fast.\" We swap roles so I ask the questions this time. Our mentor walks me through how the customer facing tone guide evolved on this team. During the design review, I raise one careful question about the internal rumor control. I compare two views on the stakeholder map for incidents and write both down honestly. The team names one clear owner for the plain language rewrite pass. We end the week with something shipped and something properly learned this time.",
-   "tts": "He finds one noisy alert and one true gap; both get fixed by Friday. In the review drill, Maria says, \"Facts first, feelings second.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"We correct our own rumors fast.\" We swap roles so I ask the questions this time. Our mentor walks me through how the customer facing tone guide evolved on this team. During the design review, I raise one careful question about the internal rumor control. I compare two views on the stakeholder map for incidents and write both down honestly. The team names one clear owner for the plain language rewrite pass. We end the week with something shipped and something properly learned this time.",
+   "en": "He finds one noisy alert and one true gap; both get fixed by Friday. In the review drill, Priya says, \"One spokesperson per crisis.\" We swap roles so I ask the questions this time. I add the executive brief format to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the update cadence tracker. We end the week with something shipped and something properly learned this time.",
+   "tts": "He finds one noisy alert and one true gap; both get fixed by Friday. In the review drill, Priya says, \"One spokesperson per crisis.\" We swap roles so I ask the questions this time. I add the executive brief format to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the update cadence tracker. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "他找到一条吵闹的告警和一个真缺口；周五前都修好了。评审演练中，Maria说：\"先讲事实再讲感受。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"自家的谣言自家快澄清。\"我们互换角色，这次由我来提问。导师带我梳理了面向客户的语气指南在这个团队里的演变。设计评审中，我就内部谣言管控提出了一个审慎的问题。我比较了关于事件干系人地图的两种观点，诚实地都记了下来。团队为平实语言改写关指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "他找到一条吵闹的告警和一个真缺口；周五前都修好了。评审演练中，Priya说：\"一次危机一个发言人。\"我们互换角色，这次由我来提问。我把高管简报格式连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了更新节奏跟踪表上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "customer facing tone guide",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the timezone aware notifications twice. I prepare a one-page brief about the message archive for review so meetings start from facts. I add the media inquiry protocol to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the post incident faq. In the review drill, Leo says, \"The group chat stays calm.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Silence breeds imaginative cousins.\" We swap roles so I ask the questions this time. His skepticism is now load bearing.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the timezone aware notifications twice. I prepare a one-page brief about the message archive for review so meetings start from facts. I add the media inquiry protocol to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the post incident faq. In the review drill, Leo says, \"The group chat stays calm.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Silence breeds imaginative cousins.\" We swap roles so I ask the questions this time. His skepticism is now load bearing.",
+   "en": "He finds one noisy alert and one true gap; both get fixed by Friday. Our mentor walks me through how the stakeholder map for incidents evolved on this team. During the design review, I raise one careful question about the customer facing tone guide. In the review drill, Maria says, \"Facts first, feelings second.\" We swap roles so I ask the questions this time. His skepticism is now load bearing.",
+   "tts": "He finds one noisy alert and one true gap; both get fixed by Friday. Our mentor walks me through how the stakeholder map for incidents evolved on this team. During the design review, I raise one careful question about the customer facing tone guide. In the review drill, Maria says, \"Facts first, feelings second.\" We swap roles so I ask the questions this time. His skepticism is now load bearing.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于跨时区通知安排的笔记重读了两遍。我准备了一页关于通稿归档备查的简报，好让会议从事实出发。我把媒体问询处理连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了事后 FAQ 汇编上。评审演练中，Leo说：\"家庭群保持冷静。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"沉默会生出想象的表亲。\"我们互换角色，这次由我来提问。他的怀疑如今是承重墙。",
+   "zh": "他找到一条吵闹的告警和一个真缺口；周五前都修好了。导师带我梳理了事件干系人地图在这个团队里的演变。设计评审中，我就面向客户的语气指南提出了一个审慎的问题。评审演练中，Maria说：\"先讲事实再讲感受。\"我们互换角色，这次由我来提问。他的怀疑如今是承重墙。",
    "hard": [
     {
      "w": "media inquiry protocol",
@@ -146,6 +146,33 @@
      "def": "通稿归档备查，事后可复盘"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "His skepticism is now load bearing. I compare two views on the internal rumor control and write both down honestly. In the review drill, Maria says, \"We correct our own rumors fast.\" We swap roles so I ask the questions this time. The team names one clear owner for the plain language rewrite pass. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "His skepticism is now load bearing. I compare two views on the internal rumor control and write both down honestly. In the review drill, Maria says, \"We correct our own rumors fast.\" We swap roles so I ask the questions this time. The team names one clear owner for the plain language rewrite pass. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "他的怀疑如今是承重墙。我比较了关于内部谣言管控的两种观点，诚实地都记了下来。评审演练中，Maria说：\"自家的谣言自家快澄清。\"我们互换角色，这次由我来提问。团队为平实语言改写关指定了明确的负责人。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "He finds one noisy alert and one true gap; both get fixed by Friday. In the review drill, Priya says, \"The group chat stays calm.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the timezone aware notifications twice. I prepare a one-page brief about the media inquiry protocol so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "He finds one noisy alert and one true gap; both get fixed by Friday. In the review drill, Priya says, \"The group chat stays calm.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the timezone aware notifications twice. I prepare a one-page brief about the media inquiry protocol so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "他找到一条吵闹的告警和一个真缺口；周五前都修好了。评审演练中，Priya说：\"家庭群保持冷静。\"我们互换角色，这次由我来提问。做决定之前，我把关于跨时区通知安排的笔记重读了两遍。我准备了一页关于媒体问询处理的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the message archive for review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the post incident faq. In the review drill, Maria says, \"Silence breeds imaginative cousins.\" We swap roles so I ask the questions this time. His skepticism is now load bearing.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the message archive for review to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the post incident faq. In the review drill, Maria says, \"Silence breeds imaginative cousins.\" We swap roles so I ask the questions this time. His skepticism is now load bearing.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把通稿归档备查连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了事后 FAQ 汇编上。评审演练中，Maria说：\"沉默会生出想象的表亲。\"我们互换角色，这次由我来提问。他的怀疑如今是承重墙。",
+   "hard": []
   }
  ],
  "chunks": [

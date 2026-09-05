@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 323,
-   "segment_count": 3,
+   "word_count": 384,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "An accessibility audit walks through the app with a screen reader. Sam asks me about the severity levels, and I explain the basics. My notes about the customer impact look clearer this week. I go over the contributing factors list one more time before lunch. There is a short paragraph about the detection gap in the guide. In the warm-up round, Leo says, \"I misspoke, let me fix that.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Apologize once, clearly.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "An accessibility audit walks through the app with a screen reader. Sam asks me about the severity levels, and I explain the basics. My notes about the customer impact look clearer this week. I go over the contributing factors list one more time before lunch. There is a short paragraph about the detection gap in the guide. In the warm-up round, Leo says, \"I misspoke, let me fix that.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Apologize once, clearly.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "An accessibility audit walks through the app with a screen reader. Sam asks me about the severity levels, and I explain the basics. My notes about the contributing factors list look clearer this week. In the warm-up round, Priya says, \"I misspoke, let me fix that.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "An accessibility audit walks through the app with a screen reader. Sam asks me about the severity levels, and I explain the basics. My notes about the contributing factors list look clearer this week. In the warm-up round, Priya says, \"I misspoke, let me fix that.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "无障碍审计带着屏幕阅读器走了一遍应用。Sam 问起严重等级，我讲了讲基础。这周我关于客户影响的笔记清楚多了。午饭前我又过了一遍促成因素列表。指南里有一小段关于发现缺口的介绍。热身环节里，Leo说：\"我说错了\"然后我们换角色，由我来问。热身环节里，Maria说：\"道歉一次\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "无障碍审计带着屏幕阅读器走了一遍应用。Sam 问起严重等级，我讲了讲基础。这周我关于促成因素列表的笔记清楚多了。热身环节里，Priya说：\"我说错了\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "severity levels",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. In the warm-up round, Leo says, \"Over-apologizing exhausts everyone.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Actions after words.\" Then we swap roles and I ask it back. I ask one good question about the data loss incident in the meeting. I add the security incident to my study notes before I forget it. I spend ten quiet minutes on the mitigation review after the standup. I keep one real example of the action item deadline in my notebook. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. In the warm-up round, Leo says, \"Over-apologizing exhausts everyone.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Actions after words.\" Then we swap roles and I ask it back. I ask one good question about the data loss incident in the meeting. I add the security incident to my study notes before I forget it. I spend ten quiet minutes on the mitigation review after the standup. I keep one real example of the action item deadline in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "en": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. In the warm-up round, Maria says, \"Apologize once, clearly.\" Then we swap roles and I ask it back. I go over the customer impact one more time before lunch. There is a short paragraph about the detection gap in the guide. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. In the warm-up round, Maria says, \"Apologize once, clearly.\" Then we swap roles and I ask it back. I go over the customer impact one more time before lunch. There is a short paragraph about the detection gap in the guide. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "替代文本、对比度、焦点框；改动很小，影响很宽。热身环节里，Leo说：\"过度道歉让大家都累。\"然后我们换角色，由我来问。热身环节里，Maria说：\"话之后要有行动。\"然后我们换角色，由我来问。会上关于数据丢失事故，我问了一个好问题。我趁还没忘，把安全事件记进了学习笔记。站会之后，我安安静静花了十分钟在缓解评审上。我在笔记本里留了一个行动项期限的真实例子。今天的小进步为明天更大的跨越做准备。",
+   "zh": "替代文本、对比度、焦点框；改动很小，影响很宽。热身环节里，Maria说：\"道歉一次\"然后我们换角色，由我来问。午饭前我又过了一遍客户影响。指南里有一小段关于发现缺口的介绍。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "data loss incident",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the thirty-day follow-up, and I explain the basics. My notes about the share the learning look clearer this week. I go over the timeline entry one more time before lunch. There is a short paragraph about the incident channel etiquette in the guide. In the warm-up round, Priya says, \"Forgive yourself too.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"It was a slip, not a style.\" Then we swap roles and I ask it back. The app got kinder in one afternoon.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the thirty-day follow-up, and I explain the basics. My notes about the share the learning look clearer this week. I go over the timeline entry one more time before lunch. There is a short paragraph about the incident channel etiquette in the guide. In the warm-up round, Priya says, \"Forgive yourself too.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"It was a slip, not a style.\" Then we swap roles and I ask it back. The app got kinder in one afternoon.",
+   "en": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. I ask one good question about the mitigation review in the meeting. I add the data loss incident to my study notes before I forget it. In the warm-up round, Leo says, \"Over-apologizing exhausts everyone.\" Then we swap roles and I ask it back. The app got kinder in one afternoon.",
+   "tts": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. I ask one good question about the mitigation review in the meeting. I add the data loss incident to my study notes before I forget it. In the warm-up round, Leo says, \"Over-apologizing exhausts everyone.\" Then we swap roles and I ask it back. The app got kinder in one afternoon.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起三十天跟进，我讲了讲基础。这周我关于分享所学的笔记清楚多了。午饭前我又过了一遍时间线条目。指南里有一小段关于事故频道礼仪的介绍。热身环节里，Priya说：\"也原谅自己。\"然后我们换角色，由我来问。热身环节里，Leo说：\"是口误\"然后我们换角色，由我来问。一个下午，应用变得更温柔了。",
+   "zh": "替代文本、对比度、焦点框；改动很小，影响很宽。会上关于缓解评审，我问了一个好问题。我趁还没忘，把数据丢失事故记进了学习笔记。热身环节里，Leo说：\"过度道歉让大家都累。\"然后我们换角色，由我来问。一个下午，应用变得更温柔了。",
    "hard": [
     {
      "w": "timeline entry",
@@ -146,6 +146,33 @@
      "def": "分享所学，别的事故不重演"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The app got kinder in one afternoon. I spend ten quiet minutes on the security incident after the standup. In the warm-up round, Leo says, \"Actions after words.\" Then we swap roles and I ask it back. I keep one real example of the action item deadline in my notebook. I end the day with fewer unknowns than I started with.",
+   "tts": "The app got kinder in one afternoon. I spend ten quiet minutes on the security incident after the standup. In the warm-up round, Leo says, \"Actions after words.\" Then we swap roles and I ask it back. I keep one real example of the action item deadline in my notebook. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "一个下午，应用变得更温柔了。站会之后，我安安静静花了十分钟在安全事件上。热身环节里，Leo说：\"话之后要有行动。\"然后我们换角色，由我来问。我在笔记本里留了一个行动项期限的真实例子。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. In the warm-up round, Maria says, \"Forgive yourself too.\" Then we swap roles and I ask it back. Sam asks me about the thirty-day follow-up, and I explain the basics. My notes about the timeline entry look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Alt text, contrast, focus rings; the fixes are small and the impact is wide. In the warm-up round, Maria says, \"Forgive yourself too.\" Then we swap roles and I ask it back. Sam asks me about the thirty-day follow-up, and I explain the basics. My notes about the timeline entry look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "替代文本、对比度、焦点框；改动很小，影响很宽。热身环节里，Maria说：\"也原谅自己。\"然后我们换角色，由我来问。Sam 问起三十天跟进，我讲了讲基础。这周我关于时间线条目的笔记清楚多了。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the share the learning one more time before lunch. There is a short paragraph about the incident channel etiquette in the guide. In the warm-up round, Leo says, \"It was a slip, not a style.\" Then we swap roles and I ask it back. The app got kinder in one afternoon.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the share the learning one more time before lunch. There is a short paragraph about the incident channel etiquette in the guide. In the warm-up round, Leo says, \"It was a slip, not a style.\" Then we swap roles and I ask it back. The app got kinder in one afternoon.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍分享所学。指南里有一小段关于事故频道礼仪的介绍。热身环节里，Leo说：\"是口误\"然后我们换角色，由我来问。一个下午，应用变得更温柔了。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 321,
-   "segment_count": 3,
+   "word_count": 382,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Storage has a hiccup, and the app keeps hammering it. There is a short paragraph about the round trip in the guide. I go over the connection pool one more time before lunch. Sam asks me about the engineering blog, and I explain the basics. My notes about the internal talk look clearer this week. In the warm-up round, Leo says, \"My phone battery is dying.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I finally updated my laptop.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "Storage has a hiccup, and the app keeps hammering it. There is a short paragraph about the round trip in the guide. I go over the connection pool one more time before lunch. Sam asks me about the engineering blog, and I explain the basics. My notes about the internal talk look clearer this week. In the warm-up round, Leo says, \"My phone battery is dying.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I finally updated my laptop.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "Storage has a hiccup, and the app keeps hammering it. There is a short paragraph about the round trip in the guide. I go over the engineering blog one more time before lunch. In the warm-up round, Priya says, \"My phone battery is dying.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "Storage has a hiccup, and the app keeps hammering it. There is a short paragraph about the round trip in the guide. I go over the engineering blog one more time before lunch. In the warm-up round, Priya says, \"My phone battery is dying.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "存储抖了一下，应用却还在不停敲打它。指南里有一小段关于往返时延的介绍。午饭前我又过了一遍连接池。Sam 问起工程博客，我讲了讲基础。这周我关于内部分享的笔记清楚多了。热身环节里，Leo说：\"我手机快没电了。\"然后我们换角色，由我来问。热身环节里，Maria说：\"我终于给笔记本升级了。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "存储抖了一下，应用却还在不停敲打它。指南里有一小段关于往返时延的介绍。午饭前我又过了一遍工程博客。热身环节里，Priya说：\"我手机快没电了。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "round trip",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We add a circuit breaker: fail fast, rest, then try again. In the warm-up round, Leo says, \"The keyboard backlight is broken.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I clean my screen weekly.\" Then we swap roles and I ask it back. I add the keep-alive to my study notes before I forget it. I keep one real example of the head-of-line blocking in my notebook. I spend ten quiet minutes on the lunch and learn after the standup. I ask one good question about the demo friday in the meeting. Small progress today prepares the bigger step tomorrow.",
-   "tts": "We add a circuit breaker: fail fast, rest, then try again. In the warm-up round, Leo says, \"The keyboard backlight is broken.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I clean my screen weekly.\" Then we swap roles and I ask it back. I add the keep-alive to my study notes before I forget it. I keep one real example of the head-of-line blocking in my notebook. I spend ten quiet minutes on the lunch and learn after the standup. I ask one good question about the demo friday in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "en": "We add a circuit breaker: fail fast, rest, then try again. In the warm-up round, Maria says, \"I finally updated my laptop.\" Then we swap roles and I ask it back. Sam asks me about the connection pool, and I explain the basics. My notes about the internal talk look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We add a circuit breaker: fail fast, rest, then try again. In the warm-up round, Maria says, \"I finally updated my laptop.\" Then we swap roles and I ask it back. Sam asks me about the connection pool, and I explain the basics. My notes about the internal talk look clearer this week. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们加了熔断器：快速失败、休息、再重试。热身环节里，Leo说：\"键盘背光坏了。\"然后我们换角色，由我来问。热身环节里，Maria说：\"我每周擦屏幕。\"然后我们换角色，由我来问。我趁还没忘，把长连接记进了学习笔记。我在笔记本里留了一个队头阻塞的真实例子。站会之后，我安安静静花了十分钟在午间学习上。会上关于周五演示，我问了一个好问题。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们加了熔断器：快速失败、休息、再重试。热身环节里，Maria说：\"我终于给笔记本升级了。\"然后我们换角色，由我来问。Sam 问起连接池，我讲了讲基础。这周我关于内部分享的笔记清楚多了。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "keep-alive",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the kudos channel in the guide. I go over the new hire buddy one more time before lunch. Sam asks me about the backoff strategy, and I explain the basics. My notes about the zero downtime look clearer this week. In the warm-up round, Priya says, \"Old devices get second lives.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Charging cables multiply.\" Then we swap roles and I ask it back. Sometimes the kindest thing to a struggling service is silence.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the kudos channel in the guide. I go over the new hire buddy one more time before lunch. Sam asks me about the backoff strategy, and I explain the basics. My notes about the zero downtime look clearer this week. In the warm-up round, Priya says, \"Old devices get second lives.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Charging cables multiply.\" Then we swap roles and I ask it back. Sometimes the kindest thing to a struggling service is silence.",
+   "en": "We add a circuit breaker: fail fast, rest, then try again. I add the lunch and learn to my study notes before I forget it. I keep one real example of the keep-alive in my notebook. In the warm-up round, Leo says, \"The keyboard backlight is broken.\" Then we swap roles and I ask it back. Sometimes the kindest thing to a struggling service is silence.",
+   "tts": "We add a circuit breaker: fail fast, rest, then try again. I add the lunch and learn to my study notes before I forget it. I keep one real example of the keep-alive in my notebook. In the warm-up round, Leo says, \"The keyboard backlight is broken.\" Then we swap roles and I ask it back. Sometimes the kindest thing to a struggling service is silence.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于称赞频道的介绍。午饭前我又过了一遍新人伙伴。Sam 问起退避策略，我讲了讲基础。这周我关于零停机的笔记清楚多了。热身环节里，Priya说：\"旧设备也能再上岗。\"然后我们换角色，由我来问。热身环节里，Leo说：\"充电线会自己繁殖。\"然后我们换角色，由我来问。对挣扎中的服务，最温柔的往往是沉默。",
+   "zh": "我们加了熔断器：快速失败、休息、再重试。我趁还没忘，把午间学习记进了学习笔记。我在笔记本里留了一个长连接的真实例子。热身环节里，Leo说：\"键盘背光坏了。\"然后我们换角色，由我来问。对挣扎中的服务，最温柔的往往是沉默。",
    "hard": [
     {
      "w": "backoff strategy",
@@ -146,6 +146,33 @@
      "def": "新人伙伴，陪新人的老队友"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Sometimes the kindest thing to a struggling service is silence. I spend ten quiet minutes on the head-of-line blocking after the standup. In the warm-up round, Leo says, \"I clean my screen weekly.\" Then we swap roles and I ask it back. I ask one good question about the demo friday in the meeting. I end the day with fewer unknowns than I started with.",
+   "tts": "Sometimes the kindest thing to a struggling service is silence. I spend ten quiet minutes on the head-of-line blocking after the standup. In the warm-up round, Leo says, \"I clean my screen weekly.\" Then we swap roles and I ask it back. I ask one good question about the demo friday in the meeting. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "对挣扎中的服务，最温柔的往往是沉默。站会之后，我安安静静花了十分钟在队头阻塞上。热身环节里，Leo说：\"我每周擦屏幕。\"然后我们换角色，由我来问。会上关于周五演示，我问了一个好问题。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We add a circuit breaker: fail fast, rest, then try again. In the warm-up round, Maria says, \"Old devices get second lives.\" Then we swap roles and I ask it back. There is a short paragraph about the kudos channel in the guide. I go over the backoff strategy one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We add a circuit breaker: fail fast, rest, then try again. In the warm-up round, Maria says, \"Old devices get second lives.\" Then we swap roles and I ask it back. There is a short paragraph about the kudos channel in the guide. I go over the backoff strategy one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们加了熔断器：快速失败、休息、再重试。热身环节里，Maria说：\"旧设备也能再上岗。\"然后我们换角色，由我来问。指南里有一小段关于称赞频道的介绍。午饭前我又过了一遍退避策略。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the new hire buddy, and I explain the basics. My notes about the zero downtime look clearer this week. In the warm-up round, Leo says, \"Charging cables multiply.\" Then we swap roles and I ask it back. Sometimes the kindest thing to a struggling service is silence.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the new hire buddy, and I explain the basics. My notes about the zero downtime look clearer this week. In the warm-up round, Leo says, \"Charging cables multiply.\" Then we swap roles and I ask it back. Sometimes the kindest thing to a struggling service is silence.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起新人伙伴，我讲了讲基础。这周我关于零停机的笔记清楚多了。热身环节里，Leo说：\"充电线会自己繁殖。\"然后我们换角色，由我来问。对挣扎中的服务，最温柔的往往是沉默。",
+   "hard": []
   }
  ],
  "chunks": [

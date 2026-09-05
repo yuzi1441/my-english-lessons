@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 313,
-   "segment_count": 3,
+   "word_count": 372,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Launch morning, the war room smells of coffee. My notes about the idempotency key look clearer this week. I add the optimistic lock to my study notes before I forget it. I go over the intake form one more time before lunch. I keep one real example of the request template in my notebook. In the warm-up round, Priya says, \"I donate what I don't use.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Old cables pile up.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Launch morning, the war room smells of coffee. My notes about the idempotency key look clearer this week. I add the optimistic lock to my study notes before I forget it. I go over the intake form one more time before lunch. I keep one real example of the request template in my notebook. In the warm-up round, Priya says, \"I donate what I don't use.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Old cables pile up.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "en": "Launch morning, the war room smells of coffee. My notes about the idempotency key look clearer this week. I add the intake form to my study notes before I forget it. In the warm-up round, Maria says, \"I donate what I don't use.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Launch morning, the war room smells of coffee. My notes about the idempotency key look clearer this week. I add the intake form to my study notes before I forget it. In the warm-up round, Maria says, \"I donate what I don't use.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "上线早晨，作战室里弥漫着咖啡的味道。这周我关于幂等键的笔记清楚多了。我趁还没忘，把乐观锁记进了学习笔记。午饭前我又过了一遍受理表单。我在笔记本里留了一个请求模板的真实例子。热身环节里，Priya说：\"不用的东西我捐掉。\"然后我们换角色，由我来问。热身环节里，Leo说：\"旧数据线堆成山。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
+   "zh": "上线早晨，作战室里弥漫着咖啡的味道。这周我关于幂等键的笔记清楚多了。我趁还没忘，把受理表单记进了学习笔记。热身环节里，Maria说：\"不用的东西我捐掉。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "idempotency key",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We watch the dashboard while the flag turns on, group by group. In the warm-up round, Priya says, \"One box a week.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Photos go to the cloud.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the eventual consistency after the standup. I ask one good question about the reconciliation job in the meeting. There is a short paragraph about the sla clock in the guide. Sam asks me about the ticket routing, and I explain the basics. The task moves forward, and so does my confidence.",
-   "tts": "We watch the dashboard while the flag turns on, group by group. In the warm-up round, Priya says, \"One box a week.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Photos go to the cloud.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the eventual consistency after the standup. I ask one good question about the reconciliation job in the meeting. There is a short paragraph about the sla clock in the guide. Sam asks me about the ticket routing, and I explain the basics. The task moves forward, and so does my confidence.",
+   "en": "We watch the dashboard while the flag turns on, group by group. In the warm-up round, Leo says, \"Old cables pile up.\" Then we swap roles and I ask it back. I go over the optimistic lock one more time before lunch. I keep one real example of the request template in my notebook. The task moves forward, and so does my confidence.",
+   "tts": "We watch the dashboard while the flag turns on, group by group. In the warm-up round, Leo says, \"Old cables pile up.\" Then we swap roles and I ask it back. I go over the optimistic lock one more time before lunch. I keep one real example of the request template in my notebook. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "功能开关逐组打开，我们盯着仪表盘。热身环节里，Priya说：\"一周整理一箱。\"然后我们换角色，由我来问。热身环节里，Leo说：\"照片传到云上。\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在最终一致上。会上关于对账任务，我问了一个好问题。指南里有一小段关于时限计时的介绍。Sam 问起工单分派，我讲了讲基础。任务在推进，我的信心也在成长。",
+   "zh": "功能开关逐组打开，我们盯着仪表盘。热身环节里，Leo说：\"旧数据线堆成山。\"然后我们换角色，由我来问。午饭前我又过了一遍乐观锁。我在笔记本里留了一个请求模板的真实例子。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "eventual consistency",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the priority matrix look clearer this week. I close the loop the way the guide suggests. I add the duplicate write to my study notes before I forget it. I go over the outbox pattern one more time before lunch. In the warm-up round, Maria says, \"It feels lighter at home.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Memories, not things.\" Then we swap roles and I ask it back. The first external user saves a draft at 9:14.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the priority matrix look clearer this week. I close the loop the way the guide suggests. I add the duplicate write to my study notes before I forget it. I go over the outbox pattern one more time before lunch. In the warm-up round, Maria says, \"It feels lighter at home.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Memories, not things.\" Then we swap roles and I ask it back. The first external user saves a draft at 9:14.",
+   "en": "We watch the dashboard while the flag turns on, group by group. I spend ten quiet minutes on the sla clock after the standup. I ask one good question about the eventual consistency in the meeting. In the warm-up round, Priya says, \"One box a week.\" Then we swap roles and I ask it back. The first external user saves a draft at 9:14.",
+   "tts": "We watch the dashboard while the flag turns on, group by group. I spend ten quiet minutes on the sla clock after the standup. I ask one good question about the eventual consistency in the meeting. In the warm-up round, Priya says, \"One box a week.\" Then we swap roles and I ask it back. The first external user saves a draft at 9:14.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于优先级矩阵的笔记清楚多了。我按照指南建议的方式闭环回复。我趁还没忘，把重复写入记进了学习笔记。午饭前我又过了一遍发件箱模式。热身环节里，Maria说：\"家里清爽多了。\"然后我们换角色，由我来问。热身环节里，Priya说：\"留下回忆\"然后我们换角色，由我来问。9 点 14 分，第一位外部用户保存了草稿。",
+   "zh": "功能开关逐组打开，我们盯着仪表盘。站会之后，我安安静静花了十分钟在时限计时上。会上关于最终一致，我问了一个好问题。热身环节里，Priya说：\"一周整理一箱。\"然后我们换角色，由我来问。9 点 14 分，第一位外部用户保存了草稿。",
    "hard": [
     {
      "w": "duplicate write",
@@ -146,6 +146,33 @@
      "def": "闭环回复，把结果反馈给请求人"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The first external user saves a draft at 9:14. There is a short paragraph about the reconciliation job in the guide. In the warm-up round, Priya says, \"Photos go to the cloud.\" Then we swap roles and I ask it back. Sam asks me about the ticket routing, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The first external user saves a draft at 9:14. There is a short paragraph about the reconciliation job in the guide. In the warm-up round, Priya says, \"Photos go to the cloud.\" Then we swap roles and I ask it back. Sam asks me about the ticket routing, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "9 点 14 分，第一位外部用户保存了草稿。指南里有一小段关于对账任务的介绍。热身环节里，Priya说：\"照片传到云上。\"然后我们换角色，由我来问。Sam 问起工单分派，我讲了讲基础。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We watch the dashboard while the flag turns on, group by group. In the warm-up round, Leo says, \"It feels lighter at home.\" Then we swap roles and I ask it back. My notes about the priority matrix look clearer this week. I add the duplicate write to my study notes before I forget it. The task moves forward, and so does my confidence.",
+   "tts": "We watch the dashboard while the flag turns on, group by group. In the warm-up round, Leo says, \"It feels lighter at home.\" Then we swap roles and I ask it back. My notes about the priority matrix look clearer this week. I add the duplicate write to my study notes before I forget it. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "功能开关逐组打开，我们盯着仪表盘。热身环节里，Leo说：\"家里清爽多了。\"然后我们换角色，由我来问。这周我关于优先级矩阵的笔记清楚多了。我趁还没忘，把重复写入记进了学习笔记。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I close the loop the way the guide suggests. I go over the outbox pattern one more time before lunch. In the warm-up round, Priya says, \"Memories, not things.\" Then we swap roles and I ask it back. The first external user saves a draft at 9:14.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I close the loop the way the guide suggests. I go over the outbox pattern one more time before lunch. In the warm-up round, Priya says, \"Memories, not things.\" Then we swap roles and I ask it back. The first external user saves a draft at 9:14.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我按照指南建议的方式闭环回复。午饭前我又过了一遍发件箱模式。热身环节里，Priya说：\"留下回忆\"然后我们换角色，由我来问。9 点 14 分，第一位外部用户保存了草稿。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 180,
+   "word_count": 241,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "This morning, my program stops with an error. I look at the bug. The error message is new to me. I see the issue. Now I can open an issue. Leo asks, \"How do I get to ...?\" I answer politely. Leo asks, \"Is it far from here?\" I answer politely. I learn one new thing.",
-   "tts": "This morning, my program stops with an error. I look at the bug. The error message is new to me. I see the issue. Now I can open an issue. Leo asks, \"How do I get to ?\" I answer politely. Leo asks, \"Is it far from here?\" I answer politely. I learn one new thing.",
+   "en": "Day six brings my first bug. \"There's a bug in your code,\" Maria says gently. \"The error message tells you what went wrong.\" I read it. I don't understand. \"Debugging is just careful reading,\" she says. \"Reproduce an error, find the root cause, fix a bug.\" I follow her advice. The bug is fixed. On my way home, I get lost. \"How do I get to the station?\" I ask someone. \"Is it far from here?\" No, it's close. \"Turn left, go straight.\"",
+   "tts": "Day six brings my first bug. \"There's a bug in your code,\" Maria says gently. \"The error message tells you what went wrong.\" I read it. I don't understand. \"Debugging is just careful reading,\" she says. \"Reproduce an error, find the root cause, fix a bug.\" I follow her advice. The bug is fixed. On my way home, I get lost. \"How do I get to the station?\" I ask someone. \"Is it far from here?\" No, it's close. \"Turn left, go straight.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "今天早上，我的程序报错停了。我看着程序缺陷。错误信息对我来说很新。我看到了问题单。现在我会创建问题单了。Leo问：\"我怎么去……？\"我礼貌地回应。Leo问：\"离这里远吗？\"我礼貌地回应。我学到了一件新东西。",
+   "zh": "第六天迎来了我的第一个 bug。\"你的代码里有个 bug，\"Maria 温和地说。\"错误信息告诉你哪里出了问题。\"我读了。看不懂。\"调试就是仔细阅读，\"她说。\"复现错误，找根本原因，修 bug。\"我照她说的做。缺陷修好了。回家路上，我迷路了。\"车站怎么走？\"我问路人。\"离这儿远吗？\"不远，很近。\"左转，直走。\"",
    "hard": [
     {
      "w": "bug",
@@ -46,36 +46,6 @@
      "def": "错误信息，说明程序为何失败的提示"
     },
     {
-     "w": "How do I get to ...?",
-     "type": "term",
-     "def": "我怎么去……？"
-    },
-    {
-     "w": "Is it far from here?",
-     "type": "term",
-     "def": "离这里远吗？"
-    },
-    {
-     "w": "issue",
-     "type": "term",
-     "def": "问题单，用来记录缺陷、需求或讨论事项"
-    },
-    {
-     "w": "open an issue",
-     "type": "term",
-     "def": "创建问题单，开始记录一个待处理事项"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "After work, I take the bus home and ask about the way. Maria says, \"Turn left.\" I answer with a smile. Maria says, \"Go straight.\" I answer with a smile. This is debugging. I try to reproduce an error. I point to the issue title. Maria shows me the issue description. Maria helps me a lot.",
-   "tts": "After work, I take the bus home and ask about the way. Maria says, \"Turn left.\" I answer with a smile. Maria says, \"Go straight.\" I answer with a smile. This is debugging. I try to reproduce an error. I point to the issue title. Maria shows me the issue description. Maria helps me a lot.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "下班后，我坐公交回家，问了路。Maria说：\"向左转。\"我微笑着回答。Maria说：\"一直向前走。\"我微笑着回答。这是调试。我试着复现错误。我指着问题单标题。Maria 给我看了问题单描述。Maria 帮了我很多。",
-   "hard": [
-    {
      "w": "debugging",
      "type": "term",
      "def": "调试，寻找并修复程序问题的过程"
@@ -85,36 +55,6 @@
      "type": "term",
      "def": "复现错误，重复触发同一个问题"
     },
-    {
-     "w": "Turn left.",
-     "type": "term",
-     "def": "向左转。"
-    },
-    {
-     "w": "Go straight.",
-     "type": "term",
-     "def": "一直向前走。"
-    },
-    {
-     "w": "issue title",
-     "type": "term",
-     "def": "问题单标题，用一句话概括问题"
-    },
-    {
-     "w": "issue description",
-     "type": "term",
-     "def": "问题单描述，提供背景、现象和目标"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I do one last thing. I look at the bug report. I close an issue. The root cause is new to me. I fix a bug with Maria. Maria asks, \"Which line should I take?\" I answer with a smile. Maria asks, \"Where should I get off?\" I answer with a smile. I open an issue for the bug. The team can see it now.",
-   "tts": "Before I leave, I do one last thing. I look at the bug report. I close an issue. The root cause is new to me. I fix a bug with Maria. Maria asks, \"Which line should I take?\" I answer with a smile. Maria asks, \"Where should I get off?\" I answer with a smile. I open an issue for the bug. The team can see it now.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。我看着缺陷报告。我关闭问题单。根本原因对我来说很新。我和 Maria 一起修复缺陷。Maria问：\"我应该坐哪条线路？\"我微笑着回答。Maria问：\"我应该在哪里下车？\"我微笑着回答。我为这个缺陷开了一个问题单。团队现在能看到了。",
-   "hard": [
     {
      "w": "root cause",
      "type": "term",
@@ -126,6 +66,66 @@
      "def": "修复缺陷，改正导致程序出错的代码"
     },
     {
+     "w": "How do I get to ...?",
+     "type": "term",
+     "def": "我怎么去……？"
+    },
+    {
+     "w": "Is it far from here?",
+     "type": "term",
+     "def": "离这里远吗？"
+    },
+    {
+     "w": "Turn left.",
+     "type": "term",
+     "def": "向左转。"
+    },
+    {
+     "w": "Go straight.",
+     "type": "term",
+     "def": "一直向前走。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Tuesday starts with issues. \"An issue is a to-do item on GitHub,\" Leo explains. \"You open an issue when you find a problem. Give it an issue title and an issue description. When it's resolved, you close an issue.\" I practise on a test repository. \"This bug report needs more detail,\" Maria says. I add steps to reproduce. At lunch, I navigate the city. \"Which line should I take?\" I ask. \"Where should I get off?\" The city feels smaller each day.",
+   "tts": "Tuesday starts with issues. \"An issue is a to-do item on Git Hub,\" Leo explains. \"You open an issue when you find a problem. Give it an issue title and an issue description. When it's resolved, you close an issue.\" I practise on a test repository. \"This bug report needs more detail,\" Maria says. I add steps to reproduce. At lunch, I navigate the city. \"Which line should I take?\" I ask. \"Where should I get off?\" The city feels smaller each day.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "周二从问题单开始。\"问题单就是 GitHub 上的待办事项，\"Leo 解释。\"发现问题时你创建问题单。给它一个问题单标题和问题单描述。解决了就关闭问题单。\"我在测试仓库上练了练。\"这个缺陷报告需要更多细节，\"Maria 说。我加了复现步骤。午餐时，我在城市里认路。\"该坐哪条线？\"我问。\"该在哪站下？\"城市每天都感觉小了一点。",
+   "hard": [
+    {
+     "w": "issue",
+     "type": "term",
+     "def": "问题单，用来记录缺陷、需求或讨论事项"
+    },
+    {
+     "w": "open an issue",
+     "type": "term",
+     "def": "创建问题单，开始记录一个待处理事项"
+    },
+    {
+     "w": "issue title",
+     "type": "term",
+     "def": "问题单标题，用一句话概括问题"
+    },
+    {
+     "w": "issue description",
+     "type": "term",
+     "def": "问题单描述，提供背景、现象和目标"
+    },
+    {
+     "w": "close an issue",
+     "type": "term",
+     "def": "关闭问题单，表示事项已经解决或不再处理"
+    },
+    {
+     "w": "bug report",
+     "type": "term",
+     "def": "缺陷报告，详细记录软件错误"
+    },
+    {
      "w": "Which line should I take?",
      "type": "term",
      "def": "我应该坐哪条线路？"
@@ -134,16 +134,26 @@
      "w": "Where should I get off?",
      "type": "term",
      "def": "我应该在哪里下车？"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Before I leave, I update my notebook. 'Day 6 — bugs are teachers. Issues are to-do lists. The city is getting easier to navigate.' The error message from this morning no longer scares me. I reproduced it, found the root cause, and fixed a bug. On the bus, I think about how far I've come in one week. A week ago, I didn't know what a repository was. Today, I opened my first issue on GitHub.",
+   "tts": "Before I leave, I update my notebook. 'Day 6 — bugs are teachers. Issues are to-do lists. The city is getting easier to navigate.' The error message from this morning no longer scares me. I reproduced it, found the root cause, and fixed a bug. On the bus, I think about how far I've come in one week. A week ago, I didn't know what a repository was. Today, I opened my first issue on Git Hub.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "离开前，我更新了笔记本。'第六天——bug 是老师。问题单是待办清单。城市越来越容易走了。'早上的错误信息不再吓我了。我复现了它，找到了根本原因，修了 bug。公交车上，我想着一周以来的进步。一周前，我还不知道什么是仓库。今天，我在 GitHub 上创建了我的第一个问题单。",
+   "hard": [
+    {
+     "w": "root cause",
+     "type": "term",
+     "def": "根本原因，真正导致问题发生的原因"
     },
     {
-     "w": "bug report",
+     "w": "fix a bug",
      "type": "term",
-     "def": "缺陷报告，详细记录软件错误"
-    },
-    {
-     "w": "close an issue",
-     "type": "term",
-     "def": "关闭问题单，表示事项已经解决或不再处理"
+     "def": "修复缺陷，改正导致程序出错的代码"
     }
    ]
   }

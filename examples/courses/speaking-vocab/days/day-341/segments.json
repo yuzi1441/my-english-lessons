@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 401,
-   "segment_count": 3,
+   "word_count": 468,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I take a silent week away as a test. I propose a measurable target for the strategy narrative writing this quarter. The final deck includes the goal cascade without distortion and what we learned from it. We align on the strategy to backlog trace early, so execution never has to guess. I put the quarterly goal linter on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"Grandpa presents the travel strategy.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"One page, three dreams, one budget.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "I take a silent week away as a test. I propose a measurable target for the strategy narrative writing this quarter. The final deck includes the goal cascade without distortion and what we learned from it. We align on the strategy to backlog trace early, so execution never has to guess. I put the quarterly goal linter on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"Grandpa presents the travel strategy.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"One page, three dreams, one budget.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "I take a silent week away as a test. I propose a measurable target for the strategy narrative writing this quarter. The final deck includes the strategy to backlog trace and what we learned from it. In the launch rehearsal, Leo says, \"Grandpa presents the travel strategy.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "I take a silent week away as a test. I propose a measurable target for the strategy narrative writing this quarter. The final deck includes the strategy to backlog trace and what we learned from it. In the launch rehearsal, Leo says, \"Grandpa presents the travel strategy.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我静悄悄离开一周作为测试。我为战略叙事写作提出了本季度一个可衡量的目标。最终的材料里有目标逐层传导不失真，以及我们从中学到的东西。我们尽早就战略到需求池追溯对齐，让执行无需猜测。我把季度目标检查器记录在案，让推理过程保持可见。上线彩排中，Maria说：\"爷爷发布旅行战略。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"一页纸三个梦想一份预算。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "我静悄悄离开一周作为测试。我为战略叙事写作提出了本季度一个可衡量的目标。最终的材料里有战略到需求池追溯，以及我们从中学到的东西。上线彩排中，Leo说：\"爷爷发布旅行战略。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "strategy narrative writing",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Everything ships; the standup gets shorter and funnier. In the launch rehearsal, Maria says, \"Kids translate strategy into snacks.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Objections recorded in the minutes.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the saying no with alternatives, the risks behind it, and the cost of waiting. I present the priority protection from above with a timeline, the data, and one clear ask. I close the discussion on the team goal dependency graph with a short summary. We review the strategy question office hour against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Everything ships; the standup gets shorter and funnier. In the launch rehearsal, Maria says, \"Kids translate strategy into snacks.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Objections recorded in the minutes.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the saying no with alternatives, the risks behind it, and the cost of waiting. I present the priority protection from above with a timeline, the data, and one clear ask. I close the discussion on the team goal dependency graph with a short summary. We review the strategy question office hour against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Everything ships; the standup gets shorter and funnier. In the launch rehearsal, Priya says, \"One page, three dreams, one budget.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the goal cascade without distortion early, so execution never has to guess. I put the quarterly goal linter on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Everything ships; the standup gets shorter and funnier. In the launch rehearsal, Priya says, \"One page, three dreams, one budget.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the goal cascade without distortion early, so execution never has to guess. I put the quarterly goal linter on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一切照常发布；站会更短也更有趣。上线彩排中，Maria说：\"孩子把战略翻译成零食。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"反对意见记进会议纪要。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖带替代方案的拒绝、背后的风险，以及等待的代价。我用时间线、数据和一条明确的诉求来汇报自上而下的优先级护持。我用一段简短的总结为团队目标依赖图的讨论收尾。我们逐行对照需求检查了战略答疑时间。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "一切照常发布；站会更短也更有趣。上线彩排中，Priya说：\"一页纸三个梦想一份预算。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就目标逐层传导不失真对齐，让执行无需猜测。我把季度目标检查器记录在案，让推理过程保持可见。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "saying no with alternatives",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the goal change changelog this quarter. The final deck includes the misalignment early signal and what we learned from it. We align on the quarterly narrative refresh early, so execution never has to guess. I put the all hands design on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"The plan survives contact with school.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Strategy is a story we agree on.\" To finish, we swap roles and I lead the entire exchange from start to finish. The best handover is a team that forgot to need me.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the goal change changelog this quarter. The final deck includes the misalignment early signal and what we learned from it. We align on the quarterly narrative refresh early, so execution never has to guess. I put the all hands design on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"The plan survives contact with school.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Strategy is a story we agree on.\" To finish, we swap roles and I lead the entire exchange from start to finish. The best handover is a team that forgot to need me.",
+   "en": "Everything ships; the standup gets shorter and funnier. My report covers the team goal dependency graph, the risks behind it, and the cost of waiting. I present the saying no with alternatives with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Kids translate strategy into snacks.\" To finish, we swap roles and I lead the entire exchange from start to finish. The best handover is a team that forgot to need me.",
+   "tts": "Everything ships; the standup gets shorter and funnier. My report covers the team goal dependency graph, the risks behind it, and the cost of waiting. I present the saying no with alternatives with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Kids translate strategy into snacks.\" To finish, we swap roles and I lead the entire exchange from start to finish. The best handover is a team that forgot to need me.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为目标变更日志提出了本季度一个可衡量的目标。最终的材料里有失准早期信号，以及我们从中学到的东西。我们尽早就季度叙事刷新对齐，让执行无需猜测。我把全员会设计记录在案，让推理过程保持可见。上线彩排中，Leo说：\"计划经受了开学的考验。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"战略是我们都认同的故事。\"最后我们互换角色，由我从头到尾主导整段对话。最好的交接，是团队忘了需要我。",
+   "zh": "一切照常发布；站会更短也更有趣。我的报告涵盖团队目标依赖图、背后的风险，以及等待的代价。我用时间线、数据和一条明确的诉求来汇报带替代方案的拒绝。上线彩排中，Maria说：\"孩子把战略翻译成零食。\"最后我们互换角色，由我从头到尾主导整段对话。最好的交接，是团队忘了需要我。",
    "hard": [
     {
      "w": "quarterly narrative refresh",
@@ -146,6 +146,33 @@
      "def": "失准早期信号，方向偏了有人喊"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The best handover is a team that forgot to need me. I close the discussion on the priority protection from above with a short summary. In the launch rehearsal, Maria says, \"Objections recorded in the minutes.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the strategy question office hour against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "The best handover is a team that forgot to need me. I close the discussion on the priority protection from above with a short summary. In the launch rehearsal, Maria says, \"Objections recorded in the minutes.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the strategy question office hour against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "最好的交接，是团队忘了需要我。我用一段简短的总结为自上而下的优先级护持的讨论收尾。上线彩排中，Maria说：\"反对意见记进会议纪要。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了战略答疑时间。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Everything ships; the standup gets shorter and funnier. In the launch rehearsal, Priya says, \"The plan survives contact with school.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the goal change changelog this quarter. The final deck includes the quarterly narrative refresh and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Everything ships; the standup gets shorter and funnier. In the launch rehearsal, Priya says, \"The plan survives contact with school.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the goal change changelog this quarter. The final deck includes the quarterly narrative refresh and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "一切照常发布；站会更短也更有趣。上线彩排中，Priya说：\"计划经受了开学的考验。\"最后我们互换角色，由我从头到尾主导整段对话。我为目标变更日志提出了本季度一个可衡量的目标。最终的材料里有季度叙事刷新，以及我们从中学到的东西。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the misalignment early signal early, so execution never has to guess. I put the all hands design on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"Strategy is a story we agree on.\" To finish, we swap roles and I lead the entire exchange from start to finish. The best handover is a team that forgot to need me.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the misalignment early signal early, so execution never has to guess. I put the all hands design on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"Strategy is a story we agree on.\" To finish, we swap roles and I lead the entire exchange from start to finish. The best handover is a team that forgot to need me.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们尽早就失准早期信号对齐，让执行无需猜测。我把全员会设计记录在案，让推理过程保持可见。上线彩排中，Maria说：\"战略是我们都认同的故事。\"最后我们互换角色，由我从头到尾主导整段对话。最好的交接，是团队忘了需要我。",
+   "hard": []
   }
  ],
  "chunks": [

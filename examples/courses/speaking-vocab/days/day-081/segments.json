@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 313,
-   "segment_count": 3,
+   "word_count": 372,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "By Thursday I ignore the third soft alert. I spend ten quiet minutes on the divide and conquer after the standup. There is a short paragraph about the minimal repro in the guide. I keep one real example of the steering council in my notebook. My notes about the rfc process look clearer this week. In the warm-up round, Leo says, \"Waiting teaches patience.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I let the paint dry fully.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "By Thursday I ignore the third soft alert. I spend ten quiet minutes on the divide and conquer after the standup. There is a short paragraph about the minimal repro in the guide. I keep one real example of the steering council in my notebook. My notes about the rfc process look clearer this week. In the warm-up round, Leo says, \"Waiting teaches patience.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I let the paint dry fully.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "By Thursday I ignore the third soft alert. I spend ten quiet minutes on the divide and conquer after the standup. There is a short paragraph about the steering council in the guide. In the warm-up round, Priya says, \"Waiting teaches patience.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "By Thursday I ignore the third soft alert. I spend ten quiet minutes on the divide and conquer after the standup. There is a short paragraph about the steering council in the guide. In the warm-up round, Priya says, \"Waiting teaches patience.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "到周四，我已经忽略了第三条软告警。站会之后，我安安静静花了十分钟在分治排查上。指南里有一小段关于最小复现的介绍。我在笔记本里留了一个指导委员会的真实例子。这周我关于RFC 流程的笔记清楚多了。热身环节里，Leo说：\"等待教会人耐心。\"然后我们换角色，由我来问。热身环节里，Maria说：\"我等油漆完全干透。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "到周四，我已经忽略了第三条软告警。站会之后，我安安静静花了十分钟在分治排查上。指南里有一小段关于指导委员会的介绍。热身环节里，Priya说：\"等待教会人耐心。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "divide and conquer",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We tune thresholds so a page always means a person is needed. In the warm-up round, Leo says, \"Measure twice, cut once.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Slow is smooth.\" Then we swap roles and I ask it back. Sam asks me about the hypothesis tree, and I explain the basics. I add the bisection to my study notes before I forget it. I go over the governance doc one more time before lunch. I ask one good question about the maintainer burnout in the meeting. Small progress today prepares the bigger step tomorrow.",
-   "tts": "We tune thresholds so a page always means a person is needed. In the warm-up round, Leo says, \"Measure twice, cut once.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Slow is smooth.\" Then we swap roles and I ask it back. Sam asks me about the hypothesis tree, and I explain the basics. I add the bisection to my study notes before I forget it. I go over the governance doc one more time before lunch. I ask one good question about the maintainer burnout in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "en": "We tune thresholds so a page always means a person is needed. In the warm-up round, Maria says, \"I let the paint dry fully.\" Then we swap roles and I ask it back. I keep one real example of the minimal repro in my notebook. My notes about the rfc process look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We tune thresholds so a page always means a person is needed. In the warm-up round, Maria says, \"I let the paint dry fully.\" Then we swap roles and I ask it back. I keep one real example of the minimal repro in my notebook. My notes about the rfc process look clearer this week. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们调了阈值，让每次告警都意味着真的需要人。热身环节里，Leo说：\"量两次\"然后我们换角色，由我来问。热身环节里，Maria说：\"慢就是稳。\"然后我们换角色，由我来问。Sam 问起假设树，我讲了讲基础。我趁还没忘，把二分定位记进了学习笔记。午饭前我又过了一遍治理文档。会上关于维护者倦怠，我问了一个好问题。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们调了阈值，让每次告警都意味着真的需要人。热身环节里，Maria说：\"我等油漆完全干透。\"然后我们换角色，由我来问。我在笔记本里留了一个最小复现的真实例子。这周我关于RFC 流程的笔记清楚多了。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "hypothesis tree",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the funding link after the standup. There is a short paragraph about the sustainability in the guide. I keep one real example of the rubber duck debugging in my notebook. My notes about the first principles look clearer this week. In the warm-up round, Priya says, \"Rushed work shows.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Done calmly lasts longer.\" Then we swap roles and I ask it back. An alert that cries wolf stops guarding anyone.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the funding link after the standup. There is a short paragraph about the sustainability in the guide. I keep one real example of the rubber duck debugging in my notebook. My notes about the first principles look clearer this week. In the warm-up round, Priya says, \"Rushed work shows.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Done calmly lasts longer.\" Then we swap roles and I ask it back. An alert that cries wolf stops guarding anyone.",
+   "en": "We tune thresholds so a page always means a person is needed. Sam asks me about the governance doc, and I explain the basics. I add the hypothesis tree to my study notes before I forget it. In the warm-up round, Leo says, \"Measure twice, cut once.\" Then we swap roles and I ask it back. An alert that cries wolf stops guarding anyone.",
+   "tts": "We tune thresholds so a page always means a person is needed. Sam asks me about the governance doc, and I explain the basics. I add the hypothesis tree to my study notes before I forget it. In the warm-up round, Leo says, \"Measure twice, cut once.\" Then we swap roles and I ask it back. An alert that cries wolf stops guarding anyone.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在赞助链接上。指南里有一小段关于可持续性的介绍。我在笔记本里留了一个小黄鸭调试的真实例子。这周我关于第一性原理的笔记清楚多了。热身环节里，Priya说：\"赶工的活藏不住。\"然后我们换角色，由我来问。热身环节里，Leo说：\"从容做的东西更耐用。\"然后我们换角色，由我来问。总是喊狼来的告警，保护不了任何人。",
+   "zh": "我们调了阈值，让每次告警都意味着真的需要人。Sam 问起治理文档，我讲了讲基础。我趁还没忘，把假设树记进了学习笔记。热身环节里，Leo说：\"量两次\"然后我们换角色，由我来问。总是喊狼来的告警，保护不了任何人。",
    "hard": [
     {
      "w": "rubber duck debugging",
@@ -146,6 +146,33 @@
      "def": "可持续性，项目长期活下去的能力"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "An alert that cries wolf stops guarding anyone. I go over the bisection one more time before lunch. In the warm-up round, Leo says, \"Slow is smooth.\" Then we swap roles and I ask it back. I ask one good question about the maintainer burnout in the meeting. I end the day with fewer unknowns than I started with.",
+   "tts": "An alert that cries wolf stops guarding anyone. I go over the bisection one more time before lunch. In the warm-up round, Leo says, \"Slow is smooth.\" Then we swap roles and I ask it back. I ask one good question about the maintainer burnout in the meeting. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "总是喊狼来的告警，保护不了任何人。午饭前我又过了一遍二分定位。热身环节里，Leo说：\"慢就是稳。\"然后我们换角色，由我来问。会上关于维护者倦怠，我问了一个好问题。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We tune thresholds so a page always means a person is needed. In the warm-up round, Maria says, \"Rushed work shows.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the funding link after the standup. There is a short paragraph about the rubber duck debugging in the guide. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We tune thresholds so a page always means a person is needed. In the warm-up round, Maria says, \"Rushed work shows.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the funding link after the standup. There is a short paragraph about the rubber duck debugging in the guide. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们调了阈值，让每次告警都意味着真的需要人。热身环节里，Maria说：\"赶工的活藏不住。\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在赞助链接上。指南里有一小段关于小黄鸭调试的介绍。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the sustainability in my notebook. My notes about the first principles look clearer this week. In the warm-up round, Leo says, \"Done calmly lasts longer.\" Then we swap roles and I ask it back. An alert that cries wolf stops guarding anyone.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the sustainability in my notebook. My notes about the first principles look clearer this week. In the warm-up round, Leo says, \"Done calmly lasts longer.\" Then we swap roles and I ask it back. An alert that cries wolf stops guarding anyone.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个可持续性的真实例子。这周我关于第一性原理的笔记清楚多了。热身环节里，Leo说：\"从容做的东西更耐用。\"然后我们换角色，由我来问。总是喊狼来的告警，保护不了任何人。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 371,
-   "segment_count": 3,
+   "word_count": 440,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Month eight opens with the team's favorite complaint: the settings page takes nine seconds. Before deciding, I reread my notes about the throughput twice. We spend the first ten minutes of the review on the concurrency limit. I add the perf label to the meeting agenda with three supporting facts. I prepare a one-page brief about the benchmark in ci so meetings start from facts. In the review drill, Priya says, \"I cook two dishes in parallel.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The oven is my second pair of hands.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Month eight opens with the team's favorite complaint: the settings page takes nine seconds. Before deciding, I reread my notes about the throughput twice. We spend the first ten minutes of the review on the concurrency limit. I add the perf label to the meeting agenda with three supporting facts. I prepare a one-page brief about the benchmark in ci so meetings start from facts. In the review drill, Priya says, \"I cook two dishes in parallel.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The oven is my second pair of hands.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Month eight opens with the team's favorite complaint: the settings page takes nine seconds. Before deciding, I reread my notes about the throughput twice. We spend the first ten minutes of the review on the perf label. In the review drill, Maria says, \"I cook two dishes in parallel.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Month eight opens with the team's favorite complaint: the settings page takes nine seconds. Before deciding, I reread my notes about the throughput twice. We spend the first ten minutes of the review on the perf label. In the review drill, Maria says, \"I cook two dishes in parallel.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第八个月以一种心照不宣的抱怨开场：设置页面要九秒。做决定之前，我把关于吞吐量的笔记重读了两遍。评审的前十分钟，我们都用在了并发上限上。我把性能标签连同三条支撑事实加进了议程。我准备了一页关于CI 里的基准测试的简报，好让会议从事实出发。评审演练中，Priya说：\"我并行做两道菜。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"烤箱是我的第二双手。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "第八个月以一种心照不宣的抱怨开场：设置页面要九秒。做决定之前，我把关于吞吐量的笔记重读了两遍。评审的前十分钟，我们都用在了性能标签上。评审演练中，Maria说：\"我并行做两道菜。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "throughput",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria hands me the flame graph like an old treasure map. In the review drill, Priya says, \"Waiting time is prep time.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"I batch the chopping first.\" We swap roles so I ask the questions this time. The team names one clear owner for the cpu saturation. During the design review, I raise one careful question about the context switch cost. Our mentor walks me through how the perf budget file evolved on this team. I compare two views on the flame graph artifact and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Maria hands me the flame graph like an old treasure map. In the review drill, Priya says, \"Waiting time is prep time.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"I batch the chopping first.\" We swap roles so I ask the questions this time. The team names one clear owner for the cpu saturation. During the design review, I raise one careful question about the context switch cost. Our mentor walks me through how the perf budget file evolved on this team. I compare two views on the flame graph artifact and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Maria hands me the flame graph like an old treasure map. In the review drill, Leo says, \"The oven is my second pair of hands.\" We swap roles so I ask the questions this time. I add the concurrency limit to the meeting agenda with three supporting facts. I prepare a one-page brief about the benchmark in ci so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Maria hands me the flame graph like an old treasure map. In the review drill, Leo says, \"The oven is my second pair of hands.\" We swap roles so I ask the questions this time. I add the concurrency limit to the meeting agenda with three supporting facts. I prepare a one-page brief about the benchmark in ci so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 把火焰图递给我，像递一张旧藏宝图。评审演练中，Priya说：\"等待时间就是备菜时间。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"切菜总是先批量做。\"我们互换角色，这次由我来提问。团队为CPU 饱和指定了明确的负责人。设计评审中，我就上下文切换成本提出了一个审慎的问题。导师带我梳理了性能预算文件在这个团队里的演变。我比较了关于火焰图产物的两种观点，诚实地都记了下来。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "Maria 把火焰图递给我，像递一张旧藏宝图。评审演练中，Leo说：\"烤箱是我的第二双手。\"我们互换角色，这次由我来提问。我把并发上限连同三条支撑事实加进了议程。我准备了一页关于CI 里的基准测试的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "cpu saturation",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the regression bisection job twice. We spend the first ten minutes of the review on the perf review checklist. I add the busy loop to the meeting agenda with three supporting facts. I prepare a one-page brief about the backpressure signal so meetings start from facts. In the review drill, Maria says, \"The kettle works while I stir.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Timers keep my kitchen honest.\" We swap roles so I ask the questions this time. Nine seconds of user patience became my quarter's mission.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the regression bisection job twice. We spend the first ten minutes of the review on the perf review checklist. I add the busy loop to the meeting agenda with three supporting facts. I prepare a one-page brief about the backpressure signal so meetings start from facts. In the review drill, Maria says, \"The kettle works while I stir.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Timers keep my kitchen honest.\" We swap roles so I ask the questions this time. Nine seconds of user patience became my quarter's mission.",
+   "en": "Maria hands me the flame graph like an old treasure map. The team names one clear owner for the perf budget file. During the design review, I raise one careful question about the cpu saturation. In the review drill, Priya says, \"Waiting time is prep time.\" We swap roles so I ask the questions this time. Nine seconds of user patience became my quarter's mission.",
+   "tts": "Maria hands me the flame graph like an old treasure map. The team names one clear owner for the perf budget file. During the design review, I raise one careful question about the cpu saturation. In the review drill, Priya says, \"Waiting time is prep time.\" We swap roles so I ask the questions this time. Nine seconds of user patience became my quarter's mission.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于回归二分任务的笔记重读了两遍。评审的前十分钟，我们都用在了性能评审清单上。我把忙循环连同三条支撑事实加进了议程。我准备了一页关于背压信号的简报，好让会议从事实出发。评审演练中，Maria说：\"烧水的时候我搅拌。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"计时器让厨房保持诚实。\"我们互换角色，这次由我来提问。用户九秒钟的耐心，成了我这个季度的任务。",
+   "zh": "Maria 把火焰图递给我，像递一张旧藏宝图。团队为性能预算文件指定了明确的负责人。设计评审中，我就CPU 饱和提出了一个审慎的问题。评审演练中，Priya说：\"等待时间就是备菜时间。\"我们互换角色，这次由我来提问。用户九秒钟的耐心，成了我这个季度的任务。",
    "hard": [
     {
      "w": "busy loop",
@@ -146,6 +146,33 @@
      "def": "性能评审清单，逐项过一遍"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Nine seconds of user patience became my quarter's mission. Our mentor walks me through how the context switch cost evolved on this team. In the review drill, Priya says, \"I batch the chopping first.\" We swap roles so I ask the questions this time. I compare two views on the flame graph artifact and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Nine seconds of user patience became my quarter's mission. Our mentor walks me through how the context switch cost evolved on this team. In the review drill, Priya says, \"I batch the chopping first.\" We swap roles so I ask the questions this time. I compare two views on the flame graph artifact and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "用户九秒钟的耐心，成了我这个季度的任务。导师带我梳理了上下文切换成本在这个团队里的演变。评审演练中，Priya说：\"切菜总是先批量做。\"我们互换角色，这次由我来提问。我比较了关于火焰图产物的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Maria hands me the flame graph like an old treasure map. In the review drill, Leo says, \"The kettle works while I stir.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the regression bisection job twice. We spend the first ten minutes of the review on the busy loop. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Maria hands me the flame graph like an old treasure map. In the review drill, Leo says, \"The kettle works while I stir.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the regression bisection job twice. We spend the first ten minutes of the review on the busy loop. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "Maria 把火焰图递给我，像递一张旧藏宝图。评审演练中，Leo说：\"烧水的时候我搅拌。\"我们互换角色，这次由我来提问。做决定之前，我把关于回归二分任务的笔记重读了两遍。评审的前十分钟，我们都用在了忙循环上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the perf review checklist to the meeting agenda with three supporting facts. I prepare a one-page brief about the backpressure signal so meetings start from facts. In the review drill, Priya says, \"Timers keep my kitchen honest.\" We swap roles so I ask the questions this time. Nine seconds of user patience became my quarter's mission.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the perf review checklist to the meeting agenda with three supporting facts. I prepare a one-page brief about the backpressure signal so meetings start from facts. In the review drill, Priya says, \"Timers keep my kitchen honest.\" We swap roles so I ask the questions this time. Nine seconds of user patience became my quarter's mission.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把性能评审清单连同三条支撑事实加进了议程。我准备了一页关于背压信号的简报，好让会议从事实出发。评审演练中，Priya说：\"计时器让厨房保持诚实。\"我们互换角色，这次由我来提问。用户九秒钟的耐心，成了我这个季度的任务。",
+   "hard": []
   }
  ],
  "chunks": [

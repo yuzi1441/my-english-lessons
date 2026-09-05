@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 323,
-   "segment_count": 3,
+   "word_count": 391,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "One sync message vanishes without an error. Sam asks me about the message queue, and I explain the basics. I add the producer to my study notes before I forget it. I ask one good question about the insights tab in the meeting. I go over the actions tab one more time before lunch. In the warm-up round, Maria says, \"I've been sleeping better.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I avoid screens before bed.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
-   "tts": "One sync message vanishes without an error. Sam asks me about the message queue, and I explain the basics. I add the producer to my study notes before I forget it. I ask one good question about the insights tab in the meeting. I go over the actions tab one more time before lunch. In the warm-up round, Maria says, \"I've been sleeping better.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I avoid screens before bed.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "en": "One sync message vanishes without an error. Sam asks me about the message queue, and I explain the basics. I add the insights tab to my study notes before I forget it. In the warm-up round, Leo says, \"I've been sleeping better.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "One sync message vanishes without an error. Sam asks me about the message queue, and I explain the basics. I add the insights tab to my study notes before I forget it. In the warm-up round, Leo says, \"I've been sleeping better.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一条同步消息毫无声息地消失了。Sam 问起消息队列，我讲了讲基础。我趁还没忘，把生产者记进了学习笔记。会上关于洞察页，我问了一个好问题。午饭前我又过了一遍Actions 页。热身环节里，Maria说：\"我最近睡得好了。\"然后我们换角色，由我来问。热身环节里，Priya说：\"我睡前不碰手机屏幕。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
+   "zh": "一条同步消息毫无声息地消失了。Sam 问起消息队列，我讲了讲基础。我趁还没忘，把洞察页记进了学习笔记。热身环节里，Leo说：\"我最近睡得好了。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "message queue",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "It sat in the dead letter queue, retried until it gave up. In the warm-up round, Maria says, \"I wake up around six.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Coffee after noon keeps me up.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the consumer after the standup. My notes about the retry policy look clearer this week. There is a short paragraph about the projects tab in the guide. I keep one real example of the wiki tab in my notebook. I end the day with fewer unknowns than I started with.",
-   "tts": "It sat in the dead letter queue, retried until it gave up. In the warm-up round, Maria says, \"I wake up around six.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Coffee after noon keeps me up.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the consumer after the standup. My notes about the retry policy look clearer this week. There is a short paragraph about the projects tab in the guide. I keep one real example of the wiki tab in my notebook. I end the day with fewer unknowns than I started with.",
+   "en": "It sat in the dead letter queue, retried until it gave up. In the warm-up round, Priya says, \"I avoid screens before bed.\" Then we swap roles and I ask it back. I ask one good question about the producer in the meeting. I go over the actions tab one more time before lunch. I end the day with fewer unknowns than I started with.",
+   "tts": "It sat in the dead letter queue, retried until it gave up. In the warm-up round, Priya says, \"I avoid screens before bed.\" Then we swap roles and I ask it back. I ask one good question about the producer in the meeting. I go over the actions tab one more time before lunch. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "它躺在死信队列里，重试到放弃为止。热身环节里，Maria说：\"我六点左右醒。\"然后我们换角色，由我来问。热身环节里，Priya说：\"中午后喝咖啡会睡不着。\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在消费者上。这周我关于重试策略的笔记清楚多了。指南里有一小段关于项目页的介绍。我在笔记本里留了一个Wiki 页的真实例子。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "它躺在死信队列里，重试到放弃为止。热身环节里，Priya说：\"我睡前不碰手机屏幕。\"然后我们换角色，由我来问。会上关于生产者，我问了一个好问题。午饭前我又过了一遍Actions 页。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "consumer",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the discussions tab, and I explain the basics. I add the pulse tab to my study notes before I forget it. I ask one good question about the dead letter queue in the meeting. I go over the at-least-once one more time before lunch. In the warm-up round, Leo says, \"A short nap helps.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I keep a fixed bedtime.\" Then we swap roles and I ask it back. Our retry policy now knows when to ask a human for help.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the discussions tab, and I explain the basics. I add the pulse tab to my study notes before I forget it. I ask one good question about the dead letter queue in the meeting. I go over the at-least-once one more time before lunch. In the warm-up round, Leo says, \"A short nap helps.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I keep a fixed bedtime.\" Then we swap roles and I ask it back. Our retry policy now knows when to ask a human for help.",
+   "en": "It sat in the dead letter queue, retried until it gave up. I spend ten quiet minutes on the projects tab after the standup. My notes about the consumer look clearer this week. In the warm-up round, Maria says, \"I wake up around six.\" Then we swap roles and I ask it back. Our retry policy now knows when to ask a human for help.",
+   "tts": "It sat in the dead letter queue, retried until it gave up. I spend ten quiet minutes on the projects tab after the standup. My notes about the consumer look clearer this week. In the warm-up round, Maria says, \"I wake up around six.\" Then we swap roles and I ask it back. Our retry policy now knows when to ask a human for help.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起讨论区页，我讲了讲基础。我趁还没忘，把动态页记进了学习笔记。会上关于死信队列，我问了一个好问题。午饭前我又过了一遍至少一次。热身环节里，Leo说：\"短午睡很有用。\"然后我们换角色，由我来问。热身环节里，Maria说：\"我保持固定的就寝时间。\"然后我们换角色，由我来问。现在我们的重试策略知道什么时候该找人帮忙了。",
+   "zh": "它躺在死信队列里，重试到放弃为止。站会之后，我安安静静花了十分钟在项目页上。这周我关于消费者的笔记清楚多了。热身环节里，Maria说：\"我六点左右醒。\"然后我们换角色，由我来问。现在我们的重试策略知道什么时候该找人帮忙了。",
    "hard": [
     {
      "w": "dead letter queue",
@@ -146,6 +146,33 @@
      "def": "动态页，仓库活跃度概览"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Our retry policy now knows when to ask a human for help. There is a short paragraph about the retry policy in the guide. In the warm-up round, Maria says, \"Coffee after noon keeps me up.\" Then we swap roles and I ask it back. I keep one real example of the wiki tab in my notebook. The task moves forward, and so does my confidence.",
+   "tts": "Our retry policy now knows when to ask a human for help. There is a short paragraph about the retry policy in the guide. In the warm-up round, Maria says, \"Coffee after noon keeps me up.\" Then we swap roles and I ask it back. I keep one real example of the wiki tab in my notebook. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "现在我们的重试策略知道什么时候该找人帮忙了。指南里有一小段关于重试策略的介绍。热身环节里，Maria说：\"中午后喝咖啡会睡不着。\"然后我们换角色，由我来问。我在笔记本里留了一个Wiki 页的真实例子。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "It sat in the dead letter queue, retried until it gave up. In the warm-up round, Priya says, \"A short nap helps.\" Then we swap roles and I ask it back. Sam asks me about the discussions tab, and I explain the basics. I add the dead letter queue to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "tts": "It sat in the dead letter queue, retried until it gave up. In the warm-up round, Priya says, \"A short nap helps.\" Then we swap roles and I ask it back. Sam asks me about the discussions tab, and I explain the basics. I add the dead letter queue to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "它躺在死信队列里，重试到放弃为止。热身环节里，Priya说：\"短午睡很有用。\"然后我们换角色，由我来问。Sam 问起讨论区页，我讲了讲基础。我趁还没忘，把死信队列记进了学习笔记。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the pulse tab in the meeting. I go over the at-least-once one more time before lunch. In the warm-up round, Maria says, \"I keep a fixed bedtime.\" Then we swap roles and I ask it back. Our retry policy now knows when to ask a human for help.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the pulse tab in the meeting. I go over the at-least-once one more time before lunch. In the warm-up round, Maria says, \"I keep a fixed bedtime.\" Then we swap roles and I ask it back. Our retry policy now knows when to ask a human for help.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于动态页，我问了一个好问题。午饭前我又过了一遍至少一次。热身环节里，Maria说：\"我保持固定的就寝时间。\"然后我们换角色，由我来问。现在我们的重试策略知道什么时候该找人帮忙了。",
+   "hard": []
   }
  ],
  "chunks": [

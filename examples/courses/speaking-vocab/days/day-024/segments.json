@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 292,
+   "word_count": 213,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The team must choose how to merge our work. I add the timeout to my checklist for tomorrow. Before I reply, I look at the retry once more. After a short break, The team agrees to squash and merge before Friday. I rebase and merge and then explain the risk. Before we move on, Leo says, \"The deadline is Friday.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"We're behind schedule.\" I answer clearly and note the phrasing. I check my notes and confirm the next step.",
-   "tts": "The team must choose how to merge our work. I add the timeout to my checklist for tomorrow. Before I reply, I look at the retry once more. After a short break, The team agrees to squash and merge before Friday. I rebase and merge and then explain the risk. Before we move on, Leo says, \"The deadline is Friday.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"We're behind schedule.\" I answer clearly and note the phrasing. I check my notes and confirm the next step.",
+   "en": "Day twenty-four handles timeouts and schedules. \"A timeout is a maximum wait,\" Maria says. \"A retry tries again. A connection failure means you can't reach the server. A retry limit stops infinite loops. A backoff delay increases wait time. A network interruption is temporary.\" Then the schedule: \"The deadline is Friday. We're behind schedule. I need an extension. The task is taking longer than expected. I'll update you tomorrow. Thank you for your patience.\"",
+   "tts": "Day twenty-four handles timeouts and schedules. \"A timeout is a maximum wait,\" Maria says. \"A retry tries again. A connection failure means you can't reach the server. A retry limit stops infinite loops. A backoff delay increases wait time. A network interruption is temporary.\" Then the schedule: \"The deadline is Friday. We're behind schedule. I need an extension. The task is taking longer than expected. I'll update you tomorrow. Thank you for your patience.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "团队必须选择合并工作的方式。我把超时加进了明天的清单。回复之前，我又看了一遍重试。稍作休息后，团队同意在周五之前压缩并合并。我变基并合并，然后解释了风险。继续之前，Leo说：\"截止时间是星期五。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我们的进度落后了。\"我清楚地回答，并记下了这个说法。我检查笔记，确认了下一步。",
+   "zh": "第二十四天讲超时和日程。\"超时是最长等待，\"Maria 说。\"重试再试一次。连接失败意味着无法到达服务器。重试上限阻止无限循环。退避延迟增加等待时间。网络中断是暂时的。\"然后是日程：\"截止日期是周五。我们落后了。我需要延期。任务比预期花了更长时间。我明天更新你。谢谢你的耐心。",
    "hard": [
     {
      "w": "timeout",
@@ -46,36 +46,6 @@
      "def": "重试，在失败后再次执行同一操作"
     },
     {
-     "w": "The deadline is Friday.",
-     "type": "term",
-     "def": "截止时间是星期五。"
-    },
-    {
-     "w": "We're behind schedule.",
-     "type": "term",
-     "def": "我们的进度落后了。"
-    },
-    {
-     "w": "squash and merge",
-     "type": "term",
-     "def": "压缩并合并，把多个提交合成一个后合入"
-    },
-    {
-     "w": "rebase and merge",
-     "type": "term",
-     "def": "变基并合并，把提交移到目标分支之后再合入"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "We compare two options and make a decision. Before we move on, Maria says, \"I need an extension.\" I answer, then reuse it in my update. Before we move on, Maria says, \"The task is taking longer than expected.\" I answer, then reuse it in my update. We spend a few minutes on the connection failure at the standup. I suggest that we check the retry limit first. After that, I double-check the merge commit before the review. I squash commits, and I record the reason. The team agrees on the plan, and I record the decision.",
-   "tts": "We compare two options and make a decision. Before we move on, Maria says, \"I need an extension.\" I answer, then reuse it in my update. Before we move on, Maria says, \"The task is taking longer than expected.\" I answer, then reuse it in my update. We spend a few minutes on the connection failure at the standup. I suggest that we check the retry limit first. After that, I double-check the merge commit before the review. I squash commits, and I record the reason. The team agrees on the plan, and I record the decision.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我们比较了两个选项，做出了决定。继续之前，Maria说：\"我需要延期。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"任务花的时间比预期更长。\"我回答，然后把它用进了自己的汇报。站会上我们花了几分钟讨论连接失败。我建议我们先检查重试上限。在那之后，评审之前，我再核对一遍合并提交。我压缩提交，并记录了原因。团队就计划达成一致，我记录了决定。",
-   "hard": [
-    {
      "w": "connection failure",
      "type": "term",
      "def": "连接失败，客户端无法与服务建立通信"
@@ -84,6 +54,26 @@
      "w": "retry limit",
      "type": "term",
      "def": "重试上限，允许再次尝试的最大次数"
+    },
+    {
+     "w": "backoff delay",
+     "type": "term",
+     "def": "退避延迟，每次重试前逐渐增加的等待时间"
+    },
+    {
+     "w": "network interruption",
+     "type": "term",
+     "def": "网络中断，已有网络连接意外停止"
+    },
+    {
+     "w": "The deadline is Friday.",
+     "type": "term",
+     "def": "截止时间是星期五。"
+    },
+    {
+     "w": "We're behind schedule.",
+     "type": "term",
+     "def": "我们的进度落后了。"
     },
     {
      "w": "I need an extension.",
@@ -96,36 +86,6 @@
      "def": "任务花的时间比预期更长。"
     },
     {
-     "w": "merge commit",
-     "type": "term",
-     "def": "合并提交，专门记录两条历史合并的提交"
-    },
-    {
-     "w": "squash commits",
-     "type": "term",
-     "def": "压缩提交，把多个小提交组合成一个"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. After that, If we rebase a branch, the result should be safe. I reread my notes about linear history after lunch. I keep one real example of the backoff delay in my notes. After a short break, I walk a new teammate through the network interruption. Before we move on, Maria says, \"I'll update you tomorrow.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Thank you for your patience.\" I answer, then reuse it in my update. We squash the small commits. The history is clean.",
-   "tts": "Before I leave, I write a short summary for the team. After that, If we rebase a branch, the result should be safe. I reread my notes about linear history after lunch. I keep one real example of the backoff delay in my notes. After a short break, I walk a new teammate through the network interruption. Before we move on, Maria says, \"I'll update you tomorrow.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Thank you for your patience.\" I answer, then reuse it in my update. We squash the small commits. The history is clean.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。在那之后，如果我们变基分支，结果应该是安全的。午饭后我重读了关于线性历史的笔记。我在笔记里留了一个退避延迟的真实例子。稍作休息后，我带一位新队友过了一遍网络中断。继续之前，Maria说：\"我明天会更新进展。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"谢谢你的耐心。\"我回答，然后把它用进了自己的汇报。我们压缩了小提交。历史变得干净了。",
-   "hard": [
-    {
-     "w": "backoff delay",
-     "type": "term",
-     "def": "退避延迟，每次重试前逐渐增加的等待时间"
-    },
-    {
-     "w": "network interruption",
-     "type": "term",
-     "def": "网络中断，已有网络连接意外停止"
-    },
-    {
      "w": "I'll update you tomorrow.",
      "type": "term",
      "def": "我明天会更新进展。"
@@ -134,11 +94,66 @@
      "w": "Thank you for your patience.",
      "type": "term",
      "def": "谢谢你的耐心。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Merge strategies appear. \"Squash and merge combines all commits into one,\" Leo says. \"Rebase and merge replays them on top. A merge commit has two parents. Squash commits means combine them. Rebase a branch replays on new base. Linear history has no merge commits.\" I look at the options. Squash and merge keeps things clean. Rebase and merge preserves each step. Linear history is tidy but requires discipline.",
+   "tts": "Merge strategies appear. \"Squash and merge combines all commits into one,\" Leo says. \"Rebase and merge replays them on top. A merge commit has two parents. Squash commits means combine them. Rebase a branch replays on new base. Linear history has no merge commits.\" I look at the options. Squash and merge keeps things clean. Rebase and merge preserves each step. Linear history is tidy but requires discipline.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "合并策略出现了。\"压缩并合并把所有提交合成一个，\"Leo 说。\"变基并合并在新基上重放。合并提交有两个父提交。压缩提交就是合并它们。变基分支在新基上重放。线性历史没有合并提交。\"我看选项。压缩并合并保持干净。变基并合并保留每步。线性历史整洁但需要纪律。",
+   "hard": [
+    {
+     "w": "squash and merge",
+     "type": "term",
+     "def": "压缩并合并，把多个提交合成一个后合入"
+    },
+    {
+     "w": "rebase and merge",
+     "type": "term",
+     "def": "变基并合并，把提交移到目标分支之后再合入"
+    },
+    {
+     "w": "merge commit",
+     "type": "term",
+     "def": "合并提交，专门记录两条历史合并的提交"
+    },
+    {
+     "w": "squash commits",
+     "type": "term",
+     "def": "压缩提交，把多个小提交组合成一个"
     },
     {
      "w": "rebase a branch",
      "type": "term",
      "def": "变基分支，把分支提交重新放到新基础上"
+    },
+    {
+     "w": "linear history",
+     "type": "term",
+     "def": "线性历史，不包含分叉合并节点的提交历史"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Timeouts and deadlines share a philosophy: set boundaries, respect them. A timeout says: no more waiting. A deadline says: no more extensions. I write: 'Day 24 — retry with backoff. Merge with strategy. Deadlines need extensions sometimes, and that's okay.' Thank you for your patience has become my most-used phrase. Not just at work — in life. Learning takes patience. Networks take patience. I have patience. Some days more than others.",
+   "tts": "Timeouts and deadlines share a philosophy: set boundaries, respect them. A timeout says: no more waiting. A deadline says: no more extensions. I write: 'Day 24 — retry with backoff. Merge with strategy. Deadlines need extensions sometimes, and that's okay.' Thank you for your patience has become my most-used phrase. Not just at work — in life. Learning takes patience. Networks take patience. I have patience. Some days more than others.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "超时和截止日期共享一个哲学：设定边界，尊重边界。超时说：不再等待。截止日期说：不再延期。我写：'第二十四天——带退避地重试。有策略地合并。截止日期有时需要延期，没关系。'谢谢你的耐心已经成了我最常用的短语。不只在工作中——在生活中。学习需要耐心。网络需要耐心。我有耐心。有时多一点，有时少一点。",
+   "hard": [
+    {
+     "w": "timeout",
+     "type": "term",
+     "def": "超时，操作在规定时间内没有完成"
+    },
+    {
+     "w": "backoff delay",
+     "type": "term",
+     "def": "退避延迟，每次重试前逐渐增加的等待时间"
     },
     {
      "w": "linear history",

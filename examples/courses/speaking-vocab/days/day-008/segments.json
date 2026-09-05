@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 249,
+   "word_count": 226,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Week two starts. My pull request has comments. After a short break, Now I understand the memory. Maria explains the RAM to me. Leo shows me an example of the code review. After that, I hear the review comment in the meeting and write it down. Then Maria asks, \"Can you hear me?\" I reply, and we keep chatting. Then Maria says, \"Your voice is breaking up.\" I reply, and we keep chatting. The day is busy, but I learn a lot.",
-   "tts": "Week two starts. My pull request has comments. After a short break, Now I understand the memory. Maria explains the ram to me. Leo shows me an example of the code review. After that, I hear the review comment in the meeting and write it down. Then Maria asks, \"Can you hear me?\" I reply, and we keep chatting. Then Maria says, \"Your voice is breaking up.\" I reply, and we keep chatting. The day is busy, but I learn a lot.",
+   "en": "Week two starts with memory and storage. \"Memory is RAM — fast but temporary,\" Maria explains. \"Storage is permanent — save to disk for long-term. When disk space runs low, you free up space.\" She shows me how to check both. In the afternoon, a video call with the remote team. \"Can you hear me?\" Priya asks. \"Your voice is breaking up,\" I say. \"The connection is unstable.\" She turns on her camera. \"You're on mute,\" I point out. We laugh and sort it out.",
+   "tts": "Week two starts with memory and storage. \"Memory is ram — fast but temporary,\" Maria explains. \"Storage is permanent — save to disk for long-term. When disk space runs low, you free up space.\" She shows me how to check both. In the afternoon, a video call with the remote team. \"Can you hear me?\" Priya asks. \"Your voice is breaking up,\" I say. \"The connection is unstable.\" She turns on her camera. \"You're on mute,\" I point out. We laugh and sort it out.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第二周开始了。我的拉取请求收到了评论。稍作休息后，现在我理解了内存。Maria 给我讲解随机存取存储器。Leo 给我看了一个代码评审的例子。在那之后，我在会上听到评审评论，把它记了下来。接着Maria问：\"你能听见我吗？\"我回答后，我们继续聊。接着Maria说：\"你的声音断断续续。\"我回答后，我们继续聊。这天很忙，但我学到了很多。",
+   "zh": "第二周从内存和存储开始。\"内存是 RAM——快但临时，\"Maria 解释。\"存储是永久的——保存到磁盘做长期。磁盘空间不足时，你释放空间。\"她给我演示怎么查看两者。下午，和远程团队视频通话。\"能听到我吗？\"Priya 问。\"你的声音断断续续，\"我说。\"连接不稳定。\"她打开了摄像头。\"你静音了，\"我提醒她。我们笑着解决了。",
    "hard": [
     {
      "w": "memory",
@@ -46,36 +46,6 @@
      "def": "随机存取存储器，电脑主要的运行内存"
     },
     {
-     "w": "Can you hear me?",
-     "type": "term",
-     "def": "你能听见我吗？"
-    },
-    {
-     "w": "Your voice is breaking up.",
-     "type": "term",
-     "def": "你的声音断断续续。"
-    },
-    {
-     "w": "code review",
-     "type": "term",
-     "def": "代码评审，由他人检查代码质量和风险"
-    },
-    {
-     "w": "review comment",
-     "type": "term",
-     "def": "评审评论，针对代码提出的意见"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "I call a teammate on video. The connection is bad, but we talk. Then Priya says, \"The connection is unstable.\" I think for a second, then answer. Then Priya asks, \"Could you turn on your camera?\" I think for a second, then answer. After that, I learn about the storage because it is useful. I ask one question about the disk space. I need to approve changes before lunch. After a short break, I request changes carefully. I understand a little more than yesterday.",
-   "tts": "I call a teammate on video. The connection is bad, but we talk. Then Priya says, \"The connection is unstable.\" I think for a second, then answer. Then Priya asks, \"Could you turn on your camera?\" I think for a second, then answer. After that, I learn about the storage because it is useful. I ask one question about the disk space. I need to approve changes before lunch. After a short break, I request changes carefully. I understand a little more than yesterday.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我和一位队友视频通话。连接不好，但我们聊了很久。接着Priya说：\"连接不稳定。\"我想了一下，然后回答。接着Priya问：\"你可以打开摄像头吗？\"我想了一下，然后回答。在那之后，我学习存储空间，因为它很有用。我问了一个关于磁盘空间的问题。午饭前，我需要批准改动。稍作休息后，我认真地要求修改。我比昨天多懂了一点。",
-   "hard": [
-    {
      "w": "storage",
      "type": "term",
      "def": "存储空间，长期保存文件和数据的空间"
@@ -84,6 +54,26 @@
      "w": "disk space",
      "type": "term",
      "def": "磁盘空间，硬盘或固态硬盘的可用容量"
+    },
+    {
+     "w": "save to disk",
+     "type": "term",
+     "def": "保存到磁盘，把数据长期写入存储设备"
+    },
+    {
+     "w": "free up space",
+     "type": "term",
+     "def": "释放空间，删除或移动文件以增加可用容量"
+    },
+    {
+     "w": "Can you hear me?",
+     "type": "term",
+     "def": "你能听见我吗？"
+    },
+    {
+     "w": "Your voice is breaking up.",
+     "type": "term",
+     "def": "你的声音断断续续。"
     },
     {
      "w": "The connection is unstable.",
@@ -96,36 +86,6 @@
      "def": "你可以打开摄像头吗？"
     },
     {
-     "w": "approve changes",
-     "type": "term",
-     "def": "批准改动，表示评审者同意合并"
-    },
-    {
-     "w": "request changes",
-     "type": "term",
-     "def": "要求修改，表示合并前仍需调整"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I finish one last task. I leave a comment, and Maria checks it. After a short break, Leo shows me how to resolve a conversation. I save to disk one small step at a time. Today I free up space for the first time. Then Priya says, \"You're on mute.\" I think for a second, then answer. Then Priya says, \"I'll call you back.\" I think for a second, then answer. The comments are kind. I know what to fix.",
-   "tts": "Before I leave, I finish one last task. I leave a comment, and Maria checks it. After a short break, Leo shows me how to resolve a conversation. I save to disk one small step at a time. Today I free up space for the first time. Then Priya says, \"You're on mute.\" I think for a second, then answer. Then Priya says, \"I'll call you back.\" I think for a second, then answer. The comments are kind. I know what to fix.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。我留下评论，Maria 来检查。稍作休息后，Leo 教我怎样解决对话。我一步一步地保存到磁盘。今天我第一次释放空间。接着Priya说：\"你静音了。\"我想了一下，然后回答。接着Priya说：\"我会给你回电话。\"我想了一下，然后回答。评论很友善。我知道该改什么了。",
-   "hard": [
-    {
-     "w": "save to disk",
-     "type": "term",
-     "def": "保存到磁盘，把数据长期写入存储设备"
-    },
-    {
-     "w": "free up space",
-     "type": "term",
-     "def": "释放空间，删除或移动文件以增加可用容量"
-    },
-    {
      "w": "You're on mute.",
      "type": "term",
      "def": "你静音了。"
@@ -134,6 +94,36 @@
      "w": "I'll call you back.",
      "type": "term",
      "def": "我会给你回电话。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Code review day. \"A code review is when teammates check your work,\" Maria explains. \"They leave a review comment. They can approve changes or request changes.\" Leo reviews my code. \"I'll leave a comment here,\" he says. \"Can you resolve a conversation when it's addressed?\" I click the button. The conversation turns green. \"I'll call you back if there are issues,\" he adds. There aren't. My code is approved.",
+   "tts": "Code review day. \"A code review is when teammates check your work,\" Maria explains. \"They leave a review comment. They can approve changes or request changes.\" Leo reviews my code. \"I'll leave a comment here,\" he says. \"Can you resolve a conversation when it's addressed?\" I click the button. The conversation turns green. \"I'll call you back if there are issues,\" he adds. There aren't. My code is approved.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "代码评审日。\"代码评审就是队友检查你的工作，\"Maria 解释。\"他们留下评审评论。可以批准改动或要求修改。\"Leo 评审了我的代码。\"我在这里留个评论，\"他说。\"处理完了你能解决对话吗？\"我点了按钮。对话变绿了。\"有问题我给你回电话，\"他补充。没有问题。我的代码通过了。",
+   "hard": [
+    {
+     "w": "code review",
+     "type": "term",
+     "def": "代码评审，由他人检查代码质量和风险"
+    },
+    {
+     "w": "review comment",
+     "type": "term",
+     "def": "评审评论，针对代码提出的意见"
+    },
+    {
+     "w": "approve changes",
+     "type": "term",
+     "def": "批准改动，表示评审者同意合并"
+    },
+    {
+     "w": "request changes",
+     "type": "term",
+     "def": "要求修改，表示合并前仍需调整"
     },
     {
      "w": "leave a comment",
@@ -144,6 +134,21 @@
      "w": "resolve a conversation",
      "type": "term",
      "def": "解决对话，标记某条评审讨论已处理"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "The day ends smoothly. I write: 'Day 8 — RAM is fast, storage is slow but permanent. Code reviews make code better. My first approval!' The video call taught me new phrases too. Can you hear me. You're on mute. I'll call you back. These are sentences I'll use in every meeting. Learning English and learning to code have more in common than I thought. Both need practice. Both improve with patience.",
+   "tts": "The day ends smoothly. I write: 'Day 8 — ram is fast, storage is slow but permanent. Code reviews make code better. My first approval!' The video call taught me new phrases too. Can you hear me. You're on mute. I'll call you back. These are sentences I'll use in every meeting. Learning English and learning to code have more in common than I thought. Both need practice. Both improve with patience.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "这一天顺利结束。我写：'第八天——RAM 快，存储慢但永久。代码评审让代码更好。我的第一个批准！'视频通话也教了我新短语。能听到我吗。你静音了。我回给你。这些句子每次会议都会用到。学英语和学编程比我想象的更有共同点。都需要练习。都需要耐心才能进步。",
+   "hard": [
+    {
+     "w": "I'll call you back.",
+     "type": "term",
+     "def": "我会给你回电话。"
     }
    ]
   }

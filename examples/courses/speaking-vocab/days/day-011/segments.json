@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 256,
+   "word_count": 214,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The merge is done. Today we look at a famous open source project. After that, Leo shows me an example of the IP address. I read the short guide about the localhost twice. I fork a repository, and Maria checks it. After a short break, I write a short note about the star a project. Then Maria says, \"It's sunny today.\" I reply, and we keep chatting. Then Maria says, \"It looks like rain.\" I reply, and we keep chatting. The day is busy, but I learn a lot.",
-   "tts": "The merge is done. Today we look at a famous open source project. After that, Leo shows me an example of the I P address. I read the short guide about the local host twice. I fork a repository, and Maria checks it. After a short break, I write a short note about the star a project. Then Maria says, \"It's sunny today.\" I reply, and we keep chatting. Then Maria says, \"It looks like rain.\" I reply, and we keep chatting. The day is busy, but I learn a lot.",
+   "en": "Day eleven goes networking. \"An IP address identifies your machine,\" Maria says. \"Localhost means this machine. A port number is a door number for services. A network interface connects you. Private addresses stay inside. Public addresses face the internet.\" I nod. The weather outside matches my mood: \"It's sunny today,\" Priya says. \"It looks like rain later.\" \"It's getting colder,\" I add. \"The weather is nice right now though.\" \"How was your weekend?\" she asks.",
+   "tts": "Day eleven goes networking. \"An I P address identifies your machine,\" Maria says. \"Localhost means this machine. A port number is a door number for services. A network interface connects you. Private addresses stay inside. Public addresses face the internet.\" I nod. The weather outside matches my mood: \"It's sunny today,\" Priya says. \"It looks like rain later.\" \"It's getting colder,\" I add. \"The weather is nice right now though.\" \"How was your weekend?\" she asks.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "合并完成了。今天我们研究一个著名的开源项目。在那之后，Leo 给我看了一个IP 地址的例子。我把关于本地主机的简短说明读了两遍。我复刻仓库，Maria 来检查。稍作休息后，我给给项目加星写了一条简短的笔记。接着Maria说：\"今天阳光很好。\"我回答后，我们继续聊。接着Maria说：\"看起来要下雨。\"我回答后，我们继续聊。这天很忙，但我学到了很多。",
+   "zh": "第十一天讲网络。\"IP 地址标识你的机器，\"Maria 说。\"Localhost 指本机。端口号是服务的门牌号。网络接口连接你。私有地址留在内部。公网地址面向互联网。\"我点头。外面的天气和我的心情很配：\"今天阳光很好，\"Priya 说。\"待会儿可能下雨。\"\"天气变冷了，\"我补充。\"不过现在天气不错。\"\"周末过得怎么样？\"她问。",
    "hard": [
     {
      "w": "IP address",
@@ -46,36 +46,6 @@
      "def": "本地主机，表示当前这台电脑"
     },
     {
-     "w": "It's sunny today.",
-     "type": "term",
-     "def": "今天阳光很好。"
-    },
-    {
-     "w": "It looks like rain.",
-     "type": "term",
-     "def": "看起来要下雨。"
-    },
-    {
-     "w": "fork a repository",
-     "type": "term",
-     "def": "复刻仓库，在自己账号下创建项目副本"
-    },
-    {
-     "w": "star a project",
-     "type": "term",
-     "def": "给项目加星，表示收藏或支持"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "The weather is nice, and we chat at the window. Then Priya says, \"It's getting colder.\" I think for a second, then answer. Then Priya says, \"The weather is nice.\" I think for a second, then answer. After a short break, I ask one question about the port number. I hear the network interface in the meeting and write it down. Leo shows me how to watch a repository. After that, I learn about the follower because it is useful. I understand a little more than yesterday.",
-   "tts": "The weather is nice, and we chat at the window. Then Priya says, \"It's getting colder.\" I think for a second, then answer. Then Priya says, \"The weather is nice.\" I think for a second, then answer. After a short break, I ask one question about the port number. I hear the network interface in the meeting and write it down. Leo shows me how to watch a repository. After that, I learn about the follower because it is useful. I understand a little more than yesterday.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "天气不错，我们在窗边聊天。接着Priya说：\"天气正在变冷。\"我想了一下，然后回答。接着Priya说：\"天气不错。\"我想了一下，然后回答。稍作休息后，我问了一个关于端口号的问题。我在会上听到网络接口，把它记了下来。Leo 教我怎样关注仓库。在那之后，我学习关注者，因为它很有用。我比昨天多懂了一点。",
-   "hard": [
-    {
      "w": "port number",
      "type": "term",
      "def": "端口号，用来区分同一设备上的不同网络服务"
@@ -84,6 +54,26 @@
      "w": "network interface",
      "type": "term",
      "def": "网络接口，设备连接网络的入口"
+    },
+    {
+     "w": "private address",
+     "type": "term",
+     "def": "私有地址，只在内部网络中使用的地址"
+    },
+    {
+     "w": "public address",
+     "type": "term",
+     "def": "公网地址，可以在互联网中路由的地址"
+    },
+    {
+     "w": "It's sunny today.",
+     "type": "term",
+     "def": "今天阳光很好。"
+    },
+    {
+     "w": "It looks like rain.",
+     "type": "term",
+     "def": "看起来要下雨。"
     },
     {
      "w": "It's getting colder.",
@@ -96,6 +86,36 @@
      "def": "天气不错。"
     },
     {
+     "w": "How was your weekend?",
+     "type": "term",
+     "def": "你周末过得怎么样？"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "\"What have you been up to?\" I ask Leo. \"Exploring open source,\" he replies. \"You fork a repository to get your own copy. You star a project to bookmark it. You watch a repository to get updates. Followers see your activity feed. Notification settings control what you see.\" I try it all. I fork a repository, star a project, watch a repository. My activity feed fills up. I adjust my notification settings.",
+   "tts": "\"What have you been up to?\" I ask Leo. \"Exploring open source,\" he replies. \"You fork a repository to get your own copy. You star a project to bookmark it. You watch a repository to get updates. Followers see your activity feed. Notification settings control what you see.\" I try it all. I fork a repository, star a project, watch a repository. My activity feed fills up. I adjust my notification settings.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "\"你最近在忙什么？\"我问 Leo。\"在探索开源，\"他回答。\"你 fork 一个仓库得到自己的副本。你 star 一个项目收藏它。你 watch 一个仓库获取更新。关注者看到你的活动信息流。通知设置控制你看到什么。\"我全试了一遍。fork 了仓库，star 了项目，watch 了仓库。我的活动信息流热闹起来。我调整了通知设置。",
+   "hard": [
+    {
+     "w": "What have you been up to?",
+     "type": "term",
+     "def": "你最近在忙什么？"
+    },
+    {
+     "w": "fork a repository",
+     "type": "term",
+     "def": "复刻仓库，在自己账号下创建项目副本"
+    },
+    {
+     "w": "star a project",
+     "type": "term",
+     "def": "给项目加星，表示收藏或支持"
+    },
+    {
      "w": "watch a repository",
      "type": "term",
      "def": "关注仓库，接收仓库活动通知"
@@ -104,36 +124,6 @@
      "w": "follower",
      "type": "term",
      "def": "关注者，订阅某个用户动态的人"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I finish one last task. Now I understand the activity feed. After that, Maria explains the notification setting to me. Leo shows me an example of the private address. I read the short guide about the public address twice. Then Priya asks, \"How was your weekend?\" I think for a second, then answer. Then Priya asks, \"What have you been up to?\" I think for a second, then answer. I star the project and follow its updates.",
-   "tts": "Before I leave, I finish one last task. Now I understand the activity feed. After that, Maria explains the notification setting to me. Leo shows me an example of the private address. I read the short guide about the public address twice. Then Priya asks, \"How was your weekend?\" I think for a second, then answer. Then Priya asks, \"What have you been up to?\" I think for a second, then answer. I star the project and follow its updates.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。现在我理解了活动信息流。在那之后，Maria 给我讲解通知设置。Leo 给我看了一个私有地址的例子。我把关于公网地址的简短说明读了两遍。接着Priya问：\"你周末过得怎么样？\"我想了一下，然后回答。接着Priya问：\"你最近在忙什么？\"我想了一下，然后回答。我给项目点了星，并关注它的动态。",
-   "hard": [
-    {
-     "w": "private address",
-     "type": "term",
-     "def": "私有地址，只在内部网络中使用的地址"
-    },
-    {
-     "w": "public address",
-     "type": "term",
-     "def": "公网地址，可以在互联网中路由的地址"
-    },
-    {
-     "w": "How was your weekend?",
-     "type": "term",
-     "def": "你周末过得怎么样？"
-    },
-    {
-     "w": "What have you been up to?",
-     "type": "term",
-     "def": "你最近在忙什么？"
     },
     {
      "w": "activity feed",
@@ -144,6 +134,26 @@
      "w": "notification setting",
      "type": "term",
      "def": "通知设置，控制接收哪些项目消息"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "The internet is a city of addresses. I write: 'Day 11 — IP addresses are street addresses. Ports are apartment numbers. Localhost is home. Fork is making your own copy. Star is bookmarking. Watch is subscribing.' The weather metaphors continue: sunny code, rainy bugs, changing seasons of difficulty. Each day the forecast improves slightly. Not because the weather changes, but because I'm learning to dress for it.",
+   "tts": "The internet is a city of addresses. I write: 'Day 11 — I P addresses are street addresses. Ports are apartment numbers. Localhost is home. Fork is making your own copy. Star is bookmarking. Watch is subscribing.' The weather metaphors continue: sunny code, rainy bugs, changing seasons of difficulty. Each day the forecast improves slightly. Not because the weather changes, but because I'm learning to dress for it.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "互联网是一座地址之城。我写：'第十一天——IP 地址是街道地址。端口是门牌号。Localhost 是家。Fork 是做自己的副本。Star 是收藏。Watch 是订阅。'天气的比喻还在继续：晴朗的代码，下雨的 bug，难度的四季变化。每天的预报都稍微好一点。不是因为天气变了，而是因为我学会了怎么穿衣服。",
+   "hard": [
+    {
+     "w": "localhost",
+     "type": "term",
+     "def": "本地主机，表示当前这台电脑"
+    },
+    {
+     "w": "port number",
+     "type": "term",
+     "def": "端口号，用来区分同一设备上的不同网络服务"
     }
    ]
   }

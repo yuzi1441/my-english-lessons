@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 365,
-   "segment_count": 3,
+   "word_count": 428,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We redraw the trust boundaries everyone forgot. During the design review, I raise one careful question about the security onboarding day one. Our mentor walks me through how the role based training path evolved on this team. I compare two views on the secure coding dojo and write both down honestly. Before deciding, I reread my notes about the threat model codebase tour twice. In the review drill, Maria says, \"New home, first night locks audit.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Meet the neighbors early.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "We redraw the trust boundaries everyone forgot. During the design review, I raise one careful question about the security onboarding day one. Our mentor walks me through how the role based training path evolved on this team. I compare two views on the secure coding dojo and write both down honestly. Before deciding, I reread my notes about the threat model codebase tour twice. In the review drill, Maria says, \"New home, first night locks audit.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Meet the neighbors early.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "We redraw the trust boundaries everyone forgot. During the design review, I raise one careful question about the security onboarding day one. Our mentor walks me through how the secure coding dojo evolved on this team. In the review drill, Leo says, \"New home, first night locks audit.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We redraw the trust boundaries everyone forgot. During the design review, I raise one careful question about the security onboarding day one. Our mentor walks me through how the secure coding dojo evolved on this team. In the review drill, Leo says, \"New home, first night locks audit.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们重画了被遗忘的信任边界。设计评审中，我就安全入职第一课提出了一个审慎的问题。导师带我梳理了按角色培训路径在这个团队里的演变。我比较了关于安全编码道场的两种观点，诚实地都记了下来。做决定之前，我把关于代码库威胁模型导览的笔记重读了两遍。评审演练中，Maria说：\"新家第一晚查锁。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"早点认识邻居。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我们重画了被遗忘的信任边界。设计评审中，我就安全入职第一课提出了一个审慎的问题。导师带我梳理了安全编码道场在这个团队里的演变。评审演练中，Leo说：\"新家第一晚查锁。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "security onboarding day one",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Old integrations lose silent privileges; new diagrams replace fossil ones. In the review drill, Maria says, \"Local emergency numbers saved.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The fuse box location, memorized.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the first month security goals so meetings start from facts. The team names one clear owner for the mentor for secure habits. I add the first security ticket buddy to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the secure done definition. We end the week with something shipped and something properly learned this time.",
-   "tts": "Old integrations lose silent privileges; new diagrams replace fossil ones. In the review drill, Maria says, \"Local emergency numbers saved.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The fuse box location, memorized.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the first month security goals so meetings start from facts. The team names one clear owner for the mentor for secure habits. I add the first security ticket buddy to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the secure done definition. We end the week with something shipped and something properly learned this time.",
+   "en": "Old integrations lose silent privileges; new diagrams replace fossil ones. In the review drill, Priya says, \"Meet the neighbors early.\" We swap roles so I ask the questions this time. I compare two views on the role based training path and write both down honestly. Before deciding, I reread my notes about the threat model codebase tour twice. We end the week with something shipped and something properly learned this time.",
+   "tts": "Old integrations lose silent privileges; new diagrams replace fossil ones. In the review drill, Priya says, \"Meet the neighbors early.\" We swap roles so I ask the questions this time. I compare two views on the role based training path and write both down honestly. Before deciding, I reread my notes about the threat model codebase tour twice. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "老集成交出沉默的特权；新图取代了化石图。评审演练中，Maria说：\"本地急救号码存好。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"电闸位置背下来。\"我们互换角色，这次由我来提问。我准备了一页关于首月安全目标的简报，好让会议从事实出发。团队为安全习惯导师指定了明确的负责人。我把第一个安全工单带教连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了安全完成定义上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "老集成交出沉默的特权；新图取代了化石图。评审演练中，Priya说：\"早点认识邻居。\"我们互换角色，这次由我来提问。我比较了关于按角色培训路径的两种观点，诚实地都记了下来。做决定之前，我把关于代码库威胁模型导览的笔记重读了两遍。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "first month security goals",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the security questions channel. Our mentor walks me through how the basics graduation day evolved on this team. I compare two views on the phish test exemption process and write both down honestly. Before deciding, I reread my notes about the newbie report celebration twice. In the review drill, Leo says, \"Water valve found before leak.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"New city, same skepticism.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the security questions channel. Our mentor walks me through how the basics graduation day evolved on this team. I compare two views on the phish test exemption process and write both down honestly. Before deciding, I reread my notes about the newbie report celebration twice. In the review drill, Leo says, \"Water valve found before leak.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"New city, same skepticism.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
+   "en": "Old integrations lose silent privileges; new diagrams replace fossil ones. I prepare a one-page brief about the first security ticket buddy so meetings start from facts. The team names one clear owner for the first month security goals. In the review drill, Maria says, \"Local emergency numbers saved.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
+   "tts": "Old integrations lose silent privileges; new diagrams replace fossil ones. I prepare a one-page brief about the first security ticket buddy so meetings start from facts. The team names one clear owner for the first month security goals. In the review drill, Maria says, \"Local emergency numbers saved.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就安全提问频道提出了一个审慎的问题。导师带我梳理了基础课毕业礼在这个团队里的演变。我比较了关于钓鱼测试豁免流程的两种观点，诚实地都记了下来。做决定之前，我把关于新人首报庆祝的笔记重读了两遍。评审演练中，Leo说：\"水阀在漏水前找到。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"新城新套路\"我们互换角色，这次由我来提问。没人信的地图比没地图更糟。",
+   "zh": "老集成交出沉默的特权；新图取代了化石图。我准备了一页关于第一个安全工单带教的简报，好让会议从事实出发。团队为首月安全目标指定了明确的负责人。评审演练中，Maria说：\"本地急救号码存好。\"我们互换角色，这次由我来提问。没人信的地图比没地图更糟。",
    "hard": [
     {
      "w": "phish test exemption process",
@@ -146,6 +146,33 @@
      "def": "基础课毕业礼，能独立评审"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "A map nobody trusts is worse than no map. I add the mentor for secure habits to the meeting agenda with three supporting facts. In the review drill, Maria says, \"The fuse box location, memorized.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the secure done definition. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "A map nobody trusts is worse than no map. I add the mentor for secure habits to the meeting agenda with three supporting facts. In the review drill, Maria says, \"The fuse box location, memorized.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the secure done definition. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "没人信的地图比没地图更糟。我把安全习惯导师连同三条支撑事实加进了议程。评审演练中，Maria说：\"电闸位置背下来。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了安全完成定义上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Old integrations lose silent privileges; new diagrams replace fossil ones. In the review drill, Priya says, \"Water valve found before leak.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the security questions channel. Our mentor walks me through how the phish test exemption process evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "tts": "Old integrations lose silent privileges; new diagrams replace fossil ones. In the review drill, Priya says, \"Water valve found before leak.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the security questions channel. Our mentor walks me through how the phish test exemption process evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "老集成交出沉默的特权；新图取代了化石图。评审演练中，Priya说：\"水阀在漏水前找到。\"我们互换角色，这次由我来提问。设计评审中，我就安全提问频道提出了一个审慎的问题。导师带我梳理了钓鱼测试豁免流程在这个团队里的演变。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the basics graduation day and write both down honestly. Before deciding, I reread my notes about the newbie report celebration twice. In the review drill, Maria says, \"New city, same skepticism.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the basics graduation day and write both down honestly. Before deciding, I reread my notes about the newbie report celebration twice. In the review drill, Maria says, \"New city, same skepticism.\" We swap roles so I ask the questions this time. A map nobody trusts is worse than no map.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于基础课毕业礼的两种观点，诚实地都记了下来。做决定之前，我把关于新人首报庆祝的笔记重读了两遍。评审演练中，Maria说：\"新城新套路\"我们互换角色，这次由我来提问。没人信的地图比没地图更糟。",
+   "hard": []
   }
  ],
  "chunks": [

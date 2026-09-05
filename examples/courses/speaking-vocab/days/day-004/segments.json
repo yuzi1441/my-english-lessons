@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 172,
+   "word_count": 222,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -30,11 +30,41 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria says my code is fine. Today I learn to make my own branch. I see the variable. I point to the value. The branch is new to me. This is the main branch. Priya asks, \"How much is this?\" I nod and reply. Priya says, \"That's too expensive.\" I nod and reply. Maria helps me a lot.",
-   "tts": "Maria says my code is fine. Today I learn to make my own branch. I see the variable. I point to the value. The branch is new to me. This is the main branch. Priya asks, \"How much is this?\" I nod and reply. Priya says, \"That's too expensive.\" I nod and reply. Maria helps me a lot.",
+   "en": "Day four introduces a new concept: branches. \"Think of a branch as your own workspace,\" Maria explains. \"The main branch is the shared version. A feature branch is where you try new things. You create a branch, give it a branch name, and switch branches when you need to.\" She draws it on the whiteboard. I copy the diagram into my notebook. Variables, values, strings, integers, booleans, data types — the morning is full of new words.",
+   "tts": "Day four introduces a new concept: branches. \"Think of a branch as your own workspace,\" Maria explains. \"The main branch is the shared version. A feature branch is where you try new things. You create a branch, give it a branch name, and switch branches when you need to.\" She draws it on the whiteboard. I copy the diagram into my notebook. Variables, values, strings, integers, booleans, data types — the morning is full of new words.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 说我的代码没问题。今天我学习建立自己的分支。我看到了变量。我指着值。分支对我来说很新。这是主分支。Priya问：\"这个多少钱？\"我点头回应。Priya说：\"那太贵了。\"我点头回应。Maria 帮了我很多。",
+   "zh": "第四天引入一个新概念：分支。\"把分支想象成你自己的工作区，\"Maria 解释。\"主分支是共享版本。功能分支是你尝试新事物的地方。你创建分支，给它起个分支名，需要时切换分支。\"她在白板上画了图。我把图抄进笔记本。变量、值、字符串、整数、布尔值、数据类型——上午全是新词。",
    "hard": [
+    {
+     "w": "branch",
+     "type": "term",
+     "def": "分支，从主代码线分出来的独立工作线"
+    },
+    {
+     "w": "main branch",
+     "type": "term",
+     "def": "主分支，项目默认和最重要的代码线"
+    },
+    {
+     "w": "feature branch",
+     "type": "term",
+     "def": "功能分支，专门开发某项功能的分支"
+    },
+    {
+     "w": "create a branch",
+     "type": "term",
+     "def": "创建分支，建立新的独立工作线"
+    },
+    {
+     "w": "switch branches",
+     "type": "term",
+     "def": "切换分支，从一条工作线转到另一条"
+    },
+    {
+     "w": "branch name",
+     "type": "term",
+     "def": "分支名称，用来说明分支用途的名字"
+    },
     {
      "w": "variable",
      "type": "term",
@@ -46,36 +76,6 @@
      "def": "值，变量实际保存的内容"
     },
     {
-     "w": "How much is this?",
-     "type": "term",
-     "def": "这个多少钱？"
-    },
-    {
-     "w": "That's too expensive.",
-     "type": "term",
-     "def": "那太贵了。"
-    },
-    {
-     "w": "branch",
-     "type": "term",
-     "def": "分支，从主代码线分出来的独立工作线"
-    },
-    {
-     "w": "main branch",
-     "type": "term",
-     "def": "主分支，项目默认和最重要的代码线"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "After work, I buy a new notebook. I ask about the price. Leo asks, \"Do you have a smaller size?\" I answer politely. Leo asks, \"Can I pay by card?\" I answer politely. I look at the string. Maria shows me the integer. I see the feature branch. I create a branch slowly. I feel good today.",
-   "tts": "After work, I buy a new notebook. I ask about the price. Leo asks, \"Do you have a smaller size?\" I answer politely. Leo asks, \"Can I pay by card?\" I answer politely. I look at the string. Maria shows me the integer. I see the feature branch. I create a branch slowly. I feel good today.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "下班后，我买了一个新笔记本。我询问了价格。Leo问：\"你们有小一点的尺码吗？\"我礼貌地回应。Leo问：\"我可以刷卡吗？\"我礼貌地回应。我看着字符串。Maria 给我看了整数。我看到了功能分支。我慢慢创建分支。我今天感觉很好。",
-   "hard": [
-    {
      "w": "string",
      "type": "term",
      "def": "字符串，由文字或字符组成的数据"
@@ -84,6 +84,36 @@
      "w": "integer",
      "type": "term",
      "def": "整数，不带小数部分的数字"
+    },
+    {
+     "w": "boolean",
+     "type": "term",
+     "def": "布尔值，只有真或假两种状态"
+    },
+    {
+     "w": "data type",
+     "type": "term",
+     "def": "数据类型，说明一项数据属于哪种类别"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "At lunch, I go shopping with Priya. \"How much is this?\" I ask the shopkeeper. \"That's too expensive,\" she whispers. \"Do you have a smaller size?\" I try a different one. \"Can I pay by card?\" The shopkeeper nods. \"I'd like this one,\" I say finally. \"Could I get a receipt?\" Back at the office, Priya laughs. \"You haggled like a pro.\" \"Just practising my English,\" I reply.",
+   "tts": "At lunch, I go shopping with Priya. \"How much is this?\" I ask the shopkeeper. \"That's too expensive,\" she whispers. \"Do you have a smaller size?\" I try a different one. \"Can I pay by card?\" The shopkeeper nods. \"I'd like this one,\" I say finally. \"Could I get a receipt?\" Back at the office, Priya laughs. \"You haggled like a pro.\" \"Just practising my English,\" I reply.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "午餐时，我和 Priya 去逛街。\"这个多少钱？\"我问店主。\"太贵了，\"她小声说。\"有 smaller size 吗？\"我试了另一个。\"可以刷卡吗？\"店主点头。\"就要这个，\"我最终说。\"能给我收据吗？\"回到办公室，Priya 笑了。\"你讨价还价像老手。\"\"就在练英语嘛，\"我回答。",
+   "hard": [
+    {
+     "w": "How much is this?",
+     "type": "term",
+     "def": "这个多少钱？"
+    },
+    {
+     "w": "That's too expensive.",
+     "type": "term",
+     "def": "那太贵了。"
     },
     {
      "w": "Do you have a smaller size?",
@@ -96,36 +126,6 @@
      "def": "我可以刷卡吗？"
     },
     {
-     "w": "feature branch",
-     "type": "term",
-     "def": "功能分支，专门开发某项功能的分支"
-    },
-    {
-     "w": "create a branch",
-     "type": "term",
-     "def": "创建分支，建立新的独立工作线"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I do one last thing. I try to switch branches. I point to the branch name. The boolean is new to me. This is the data type. Leo says, \"I'd like this one.\" I answer politely. Leo asks, \"Could I get a receipt?\" I answer politely. My branch is small, but it is mine.",
-   "tts": "Before I leave, I do one last thing. I try to switch branches. I point to the branch name. The boolean is new to me. This is the data type. Leo says, \"I'd like this one.\" I answer politely. Leo asks, \"Could I get a receipt?\" I answer politely. My branch is small, but it is mine.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。我试着切换分支。我指着分支名称。布尔值对我来说很新。这是数据类型。Leo说：\"我想要这个。\"我礼貌地回应。Leo问：\"可以给我收据吗？\"我礼貌地回应。我的分支很小，但它是我自己的。",
-   "hard": [
-    {
-     "w": "boolean",
-     "type": "term",
-     "def": "布尔值，只有真或假两种状态"
-    },
-    {
-     "w": "data type",
-     "type": "term",
-     "def": "数据类型，说明一项数据属于哪种类别"
-    },
-    {
      "w": "I'd like this one.",
      "type": "term",
      "def": "我想要这个。"
@@ -134,16 +134,21 @@
      "w": "Could I get a receipt?",
      "type": "term",
      "def": "可以给我收据吗？"
-    },
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "In the afternoon, I create my first branch. \"Branch name should describe what you're working on,\" Maria advises. I type: feature/user-greeting. \"Now switch branches whenever you want to work on something different.\" I switch back to main, then back to my feature branch. It feels like magic — the code changes with each switch. Before I leave, I write: 'Day 4 — branches are safe spaces. Variables hold values. Data types tell you what kind of value.'",
+   "tts": "In the afternoon, I create my first branch. \"Branch name should describe what you're working on,\" Maria advises. I type: feature/user-greeting. \"Now switch branches whenever you want to work on something different.\" I switch back to main, then back to my feature branch. It feels like magic — the code changes with each switch. Before I leave, I write: 'Day 4 — branches are safe spaces. Variables hold values. Data types tell you what kind of value.'",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "下午，我创建了第一个分支。\"分支名应该描述你在做什么，\"Maria 建议。我输入：feature/user-greeting。\"现在随时可以切换分支去做不同的事。\"我切回 main，又切回功能分支。感觉像魔法——每次切换代码都会变。离开前，我写：'第四天——分支是安全空间。变量存值。数据类型告诉你值是什么类型。'",
+   "hard": [
     {
      "w": "switch branches",
      "type": "term",
      "def": "切换分支，从一条工作线转到另一条"
-    },
-    {
-     "w": "branch name",
-     "type": "term",
-     "def": "分支名称，用来说明分支用途的名字"
     }
    ]
   }

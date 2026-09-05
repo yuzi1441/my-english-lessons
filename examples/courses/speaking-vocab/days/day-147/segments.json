@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 328,
-   "segment_count": 3,
+   "word_count": 387,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "After three busy months, the team takes a recovery week. I connect the data contract to the ticket so nothing gets lost. In today's standup, I mention the nullability check and what comes next. We agree to give the weekly quality digest one more careful look this week. Priya suggests a cleaner way to think about the trend chart bot. In the meeting drill, Leo says, \"Tomatoes teach economics.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Morning prices, evening discounts.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "After three busy months, the team takes a recovery week. I connect the data contract to the ticket so nothing gets lost. In today's standup, I mention the nullability check and what comes next. We agree to give the weekly quality digest one more careful look this week. Priya suggests a cleaner way to think about the trend chart bot. In the meeting drill, Leo says, \"Tomatoes teach economics.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Morning prices, evening discounts.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "en": "After three busy months, the team takes a recovery week. I connect the data contract to the ticket so nothing gets lost. In today's standup, I mention the weekly quality digest and what comes next. In the meeting drill, Priya says, \"Tomatoes teach economics.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "After three busy months, the team takes a recovery week. I connect the data contract to the ticket so nothing gets lost. In today's standup, I mention the weekly quality digest and what comes next. In the meeting drill, Priya says, \"Tomatoes teach economics.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "忙碌三个月后，团队迎来了恢复周。我把数据契约关联到工单上，免得遗漏。今天的站会上，我提到空值检查和接下来的安排。我们说好这周再把每周质量摘要仔细看一次。Priya 提出了一个更清晰的趋势图机器人思考方式。会议演练中，Leo说：\"番茄教会我经济学。\"之后我们换角色再练一遍。会议演练中，Maria说：\"早上的价\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "忙碌三个月后，团队迎来了恢复周。我把数据契约关联到工单上，免得遗漏。今天的站会上，我提到每周质量摘要和接下来的安排。会议演练中，Priya说：\"番茄教会我经济学。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "data contract",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "No releases, short days, long lunches, and one very relaxed on-call. In the meeting drill, Leo says, \"The scale never lies.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Bargaining is small talk.\" After that, we swap roles and run it again. I compare my notes about the referential integrity with Priya's. The guide now has a short section on the freshness sla. At the review, we spend ten minutes on the escaped bug auto tag. While the details are fresh, I write down the flaky top ten. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "No releases, short days, long lunches, and one very relaxed on-call. In the meeting drill, Leo says, \"The scale never lies.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Bargaining is small talk.\" After that, we swap roles and run it again. I compare my notes about the referential integrity with Priya's. The guide now has a short section on the freshness sla. At the review, we spend ten minutes on the escaped bug auto tag. While the details are fresh, I write down the flaky top ten. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "No releases, short days, long lunches, and one very relaxed on-call. In the meeting drill, Maria says, \"Morning prices, evening discounts.\" After that, we swap roles and run it again. We agree to give the nullability check one more careful look this week. Priya suggests a cleaner way to think about the trend chart bot. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "No releases, short days, long lunches, and one very relaxed on-call. In the meeting drill, Maria says, \"Morning prices, evening discounts.\" After that, we swap roles and run it again. We agree to give the nullability check one more careful look this week. Priya suggests a cleaner way to think about the trend chart bot. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "不发布、短工时、长午餐，还有一位特别悠闲的值班人。会议演练中，Leo说：\"秤从不说谎。\"之后我们换角色再练一遍。会议演练中，Maria说：\"讨价还价是寒暄。\"之后我们换角色再练一遍。我把关于引用完整性的笔记和 Priya 的对照了一下。指南里现在有关于新鲜度承诺的简短章节。评审时，我们花了十分钟在逃逸缺陷自动打标上。趁细节还新鲜，我把抖动排行榜写了下来。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "不发布、短工时、长午餐，还有一位特别悠闲的值班人。会议演练中，Maria说：\"早上的价\"之后我们换角色再练一遍。我们说好这周再把空值检查仔细看一次。Priya 提出了一个更清晰的趋势图机器人思考方式。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "referential integrity",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the test time report to the ticket so nothing gets lost. In today's standup, I mention the goals reminder bot and what comes next. We agree to give the duplicate detection job one more careful look this week. Priya suggests a cleaner way to think about the schema evolution rule. In the meeting drill, Priya says, \"Cash keeps it simple.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"The last apple discount.\" After that, we swap roles and run it again. Rest is part of the roadmap.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the test time report to the ticket so nothing gets lost. In today's standup, I mention the goals reminder bot and what comes next. We agree to give the duplicate detection job one more careful look this week. Priya suggests a cleaner way to think about the schema evolution rule. In the meeting drill, Priya says, \"Cash keeps it simple.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"The last apple discount.\" After that, we swap roles and run it again. Rest is part of the roadmap.",
+   "en": "No releases, short days, long lunches, and one very relaxed on-call. I compare my notes about the escaped bug auto tag with Priya's. The guide now has a short section on the referential integrity. In the meeting drill, Leo says, \"The scale never lies.\" After that, we swap roles and run it again. Rest is part of the roadmap.",
+   "tts": "No releases, short days, long lunches, and one very relaxed on-call. I compare my notes about the escaped bug auto tag with Priya's. The guide now has a short section on the referential integrity. In the meeting drill, Leo says, \"The scale never lies.\" After that, we swap roles and run it again. Rest is part of the roadmap.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把测试耗时报告关联到工单上，免得遗漏。今天的站会上，我提到目标提醒机器人和接下来的安排。我们说好这周再把重复检测任务仔细看一次。Priya 提出了一个更清晰的结构演进规则思考方式。会议演练中，Priya说：\"现金让一切简单。\"之后我们换角色再练一遍。会议演练中，Leo说：\"最后一个苹果的缘分。\"之后我们换角色再练一遍。休息也是路线图的一部分。",
+   "zh": "不发布、短工时、长午餐，还有一位特别悠闲的值班人。我把关于逃逸缺陷自动打标的笔记和 Priya 的对照了一下。指南里现在有关于引用完整性的简短章节。会议演练中，Leo说：\"秤从不说谎。\"之后我们换角色再练一遍。休息也是路线图的一部分。",
    "hard": [
     {
      "w": "duplicate detection job",
@@ -146,6 +146,33 @@
      "def": "目标提醒机器人，月底自动对表"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Rest is part of the roadmap. At the review, we spend ten minutes on the freshness sla. In the meeting drill, Leo says, \"Bargaining is small talk.\" After that, we swap roles and run it again. While the details are fresh, I write down the flaky top ten. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Rest is part of the roadmap. At the review, we spend ten minutes on the freshness sla. In the meeting drill, Leo says, \"Bargaining is small talk.\" After that, we swap roles and run it again. While the details are fresh, I write down the flaky top ten. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "休息也是路线图的一部分。评审时，我们花了十分钟在新鲜度承诺上。会议演练中，Leo说：\"讨价还价是寒暄。\"之后我们换角色再练一遍。趁细节还新鲜，我把抖动排行榜写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "No releases, short days, long lunches, and one very relaxed on-call. In the meeting drill, Maria says, \"Cash keeps it simple.\" After that, we swap roles and run it again. I connect the test time report to the ticket so nothing gets lost. In today's standup, I mention the duplicate detection job and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "No releases, short days, long lunches, and one very relaxed on-call. In the meeting drill, Maria says, \"Cash keeps it simple.\" After that, we swap roles and run it again. I connect the test time report to the ticket so nothing gets lost. In today's standup, I mention the duplicate detection job and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "不发布、短工时、长午餐，还有一位特别悠闲的值班人。会议演练中，Maria说：\"现金让一切简单。\"之后我们换角色再练一遍。我把测试耗时报告关联到工单上，免得遗漏。今天的站会上，我提到重复检测任务和接下来的安排。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the goals reminder bot one more careful look this week. Priya suggests a cleaner way to think about the schema evolution rule. In the meeting drill, Leo says, \"The last apple discount.\" After that, we swap roles and run it again. Rest is part of the roadmap.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the goals reminder bot one more careful look this week. Priya suggests a cleaner way to think about the schema evolution rule. In the meeting drill, Leo says, \"The last apple discount.\" After that, we swap roles and run it again. Rest is part of the roadmap.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把目标提醒机器人仔细看一次。Priya 提出了一个更清晰的结构演进规则思考方式。会议演练中，Leo说：\"最后一个苹果的缘分。\"之后我们换角色再练一遍。休息也是路线图的一部分。",
+   "hard": []
   }
  ],
  "chunks": [

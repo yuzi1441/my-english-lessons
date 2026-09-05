@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 394,
-   "segment_count": 3,
+   "word_count": 455,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A profiling week on my own habits finds the bottleneck: me. I close the discussion on the decision log for products with a short summary. We review the feature retirement ceremony against the requirements, line by line. I present the adr for product choices with a timeline, the data, and one clear ask. I put the revisit date automation on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The family decision notebook.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"We record why not just what.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "A profiling week on my own habits finds the bottleneck: me. I close the discussion on the decision log for products with a short summary. We review the feature retirement ceremony against the requirements, line by line. I present the adr for product choices with a timeline, the data, and one clear ask. I put the revisit date automation on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The family decision notebook.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"We record why not just what.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "A profiling week on my own habits finds the bottleneck: me. I close the discussion on the decision log for products with a short summary. We review the adr for product choices against the requirements, line by line. In the launch rehearsal, Leo says, \"The family decision notebook.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "A profiling week on my own habits finds the bottleneck: me. I close the discussion on the decision log for products with a short summary. We review the adr for product choices against the requirements, line by line. In the launch rehearsal, Leo says, \"The family decision notebook.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "对自己习惯做了一周画像，瓶颈找到了：我自己。我用一段简短的总结为产品决策日志的讨论收尾。我们逐行对照需求检查了功能退役仪式。我用时间线、数据和一条明确的诉求来汇报产品决策的 ADR。我把重审日期自动化记录在案，让推理过程保持可见。上线彩排中，Maria说：\"家庭大事记本子。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"记为什么不只记做了什么。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "对自己习惯做了一周画像，瓶颈找到了：我自己。我用一段简短的总结为产品决策日志的讨论收尾。我们逐行对照需求检查了产品决策的 ADR。上线彩排中，Leo说：\"家庭大事记本子。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "decision log for products",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Delegation, not optimization, is the next performance win. In the launch rehearsal, Maria says, \"Old decisions get grace periods.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Kids vote on holidays.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the data informed not driven rule early, so execution never has to guess. I propose a measurable target for the gut check journal this quarter. My report covers the decision outcome scoring, the risks behind it, and the cost of waiting. The final deck includes the stakeholder even if solo and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Delegation, not optimization, is the next performance win. In the launch rehearsal, Maria says, \"Old decisions get grace periods.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Kids vote on holidays.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the data informed not driven rule early, so execution never has to guess. I propose a measurable target for the gut check journal this quarter. My report covers the decision outcome scoring, the risks behind it, and the cost of waiting. The final deck includes the stakeholder even if solo and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Delegation, not optimization, is the next performance win. In the launch rehearsal, Priya says, \"We record why not just what.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the feature retirement ceremony with a timeline, the data, and one clear ask. I put the revisit date automation on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Delegation, not optimization, is the next performance win. In the launch rehearsal, Priya says, \"We record why not just what.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the feature retirement ceremony with a timeline, the data, and one clear ask. I put the revisit date automation on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "下一个性能优化是委派，不是调参。上线彩排中，Maria说：\"旧决定有宽限期。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"孩子们投票选假期。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就数据参考不绑架原则对齐，让执行无需猜测。我为直觉日志提出了本季度一个可衡量的目标。我的报告涵盖决策结果评分、背后的风险，以及等待的代价。最终的材料里有干系人登记哪怕一个人，以及我们从中学到的东西。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "下一个性能优化是委派，不是调参。上线彩排中，Priya说：\"记为什么不只记做了什么。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报功能退役仪式。我把重审日期自动化记录在案，让推理过程保持可见。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "data informed not driven rule",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the no decision backlog review with a short summary. We review the decision digest newsletter against the requirements, line by line. I present the postmortem for product bets with a timeline, the data, and one clear ask. I put the quarterly strategy offsite solo on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"Revisiting beats regretting.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The notebook forgives everyone.\" To finish, we swap roles and I lead the entire exchange from start to finish. I hire a part time helper for support.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the no decision backlog review with a short summary. We review the decision digest newsletter against the requirements, line by line. I present the postmortem for product bets with a timeline, the data, and one clear ask. I put the quarterly strategy offsite solo on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"Revisiting beats regretting.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The notebook forgives everyone.\" To finish, we swap roles and I lead the entire exchange from start to finish. I hire a part time helper for support.",
+   "en": "Delegation, not optimization, is the next performance win. We align on the decision outcome scoring early, so execution never has to guess. I propose a measurable target for the data informed not driven rule this quarter. In the launch rehearsal, Maria says, \"Old decisions get grace periods.\" To finish, we swap roles and I lead the entire exchange from start to finish. I hire a part time helper for support.",
+   "tts": "Delegation, not optimization, is the next performance win. We align on the decision outcome scoring early, so execution never has to guess. I propose a measurable target for the data informed not driven rule this quarter. In the launch rehearsal, Maria says, \"Old decisions get grace periods.\" To finish, we swap roles and I lead the entire exchange from start to finish. I hire a part time helper for support.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为无决定事项盘点的讨论收尾。我们逐行对照需求检查了决策摘要通讯。我用时间线、数据和一条明确的诉求来汇报产品押注复盘。我把单人季度战略会记录在案，让推理过程保持可见。上线彩排中，Leo说：\"重议胜过后悔。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"本子原谅每个人。\"最后我们互换角色，由我从头到尾主导整段对话。我雇了一位兼职支持助手。",
+   "zh": "下一个性能优化是委派，不是调参。我们尽早就决策结果评分对齐，让执行无需猜测。我为数据参考不绑架原则提出了本季度一个可衡量的目标。上线彩排中，Maria说：\"旧决定有宽限期。\"最后我们互换角色，由我从头到尾主导整段对话。我雇了一位兼职支持助手。",
    "hard": [
     {
      "w": "postmortem for product bets",
@@ -146,6 +146,33 @@
      "def": "决策摘要通讯，每月寄给未来的自己"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "I hire a part time helper for support. My report covers the gut check journal, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"Kids vote on holidays.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the stakeholder even if solo and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "I hire a part time helper for support. My report covers the gut check journal, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"Kids vote on holidays.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the stakeholder even if solo and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "我雇了一位兼职支持助手。我的报告涵盖直觉日志、背后的风险，以及等待的代价。上线彩排中，Maria说：\"孩子们投票选假期。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有干系人登记哪怕一个人，以及我们从中学到的东西。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Delegation, not optimization, is the next performance win. In the launch rehearsal, Priya says, \"Revisiting beats regretting.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the no decision backlog review with a short summary. We review the postmortem for product bets against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Delegation, not optimization, is the next performance win. In the launch rehearsal, Priya says, \"Revisiting beats regretting.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the no decision backlog review with a short summary. We review the postmortem for product bets against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "下一个性能优化是委派，不是调参。上线彩排中，Priya说：\"重议胜过后悔。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为无决定事项盘点的讨论收尾。我们逐行对照需求检查了产品押注复盘。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the decision digest newsletter with a timeline, the data, and one clear ask. I put the quarterly strategy offsite solo on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The notebook forgives everyone.\" To finish, we swap roles and I lead the entire exchange from start to finish. I hire a part time helper for support.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the decision digest newsletter with a timeline, the data, and one clear ask. I put the quarterly strategy offsite solo on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The notebook forgives everyone.\" To finish, we swap roles and I lead the entire exchange from start to finish. I hire a part time helper for support.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用时间线、数据和一条明确的诉求来汇报决策摘要通讯。我把单人季度战略会记录在案，让推理过程保持可见。上线彩排中，Maria说：\"本子原谅每个人。\"最后我们互换角色，由我从头到尾主导整段对话。我雇了一位兼职支持助手。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 334,
-   "segment_count": 3,
+   "word_count": 403,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Quarter end: zero AI related incidents. I compare my notes about the drift prediction before merge with Priya's. The guide now has a short section on the config lint in pipeline. While the details are fresh, I write down the infra diagram as code. I connect the runbook link on every alert to the ticket so nothing gets lost. In the meeting drill, Leo says, \"The robot vacuum's territory wars.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Smart plug for the heater.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Quarter end: zero A I related incidents. I compare my notes about the drift prediction before merge with Priya's. The guide now has a short section on the config lint in pipeline. While the details are fresh, I write down the infra diagram as code. I connect the runbook link on every alert to the ticket so nothing gets lost. In the meeting drill, Leo says, \"The robot vacuum's territory wars.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Smart plug for the heater.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Quarter end: zero AI related incidents. I compare my notes about the drift prediction before merge with Priya's. The guide now has a short section on the infra diagram as code. In the meeting drill, Priya says, \"The robot vacuum's territory wars.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Quarter end: zero A I related incidents. I compare my notes about the drift prediction before merge with Priya's. The guide now has a short section on the infra diagram as code. In the meeting drill, Priya says, \"The robot vacuum's territory wars.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "季度末：零起 AI 相关事故。我把关于合并前漂移预测的笔记和 Priya 的对照了一下。指南里现在有关于配置检查进流水线的简短章节。趁细节还新鲜，我把基础设施图即代码写了下来。我把每条告警带手册链接关联到工单上，免得遗漏。会议演练中，Leo说：\"扫地机器人的领地战争。\"之后我们换角色再练一遍。会议演练中，Maria说：\"电暖器的智能插座。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "季度末：零起 AI 相关事故。我把关于合并前漂移预测的笔记和 Priya 的对照了一下。指南里现在有关于基础设施图即代码的简短章节。会议演练中，Priya说：\"扫地机器人的领地战争。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "drift prediction before merge",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Not because the tools were magic, but because the guardrails were boring and always on. In the meeting drill, Leo says, \"Laundry machine notifications.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Automate the boring thirds.\" After that, we swap roles and run it again. In today's standup, I mention the orphan resource detector and what comes next. We agree to give the cost root cause hint one more careful look this week. Priya suggests a cleaner way to think about the environment readme. At the review, we spend ten minutes on the iac style guide. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Not because the tools were magic, but because the guardrails were boring and always on. In the meeting drill, Leo says, \"Laundry machine notifications.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Automate the boring thirds.\" After that, we swap roles and run it again. In today's standup, I mention the orphan resource detector and what comes next. We agree to give the cost root cause hint one more careful look this week. Priya suggests a cleaner way to think about the environment readme. At the review, we spend ten minutes on the iac style guide. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Not because the tools were magic, but because the guardrails were boring and always on. In the meeting drill, Maria says, \"Smart plug for the heater.\" After that, we swap roles and run it again. While the details are fresh, I write down the config lint in pipeline. I connect the runbook link on every alert to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Not because the tools were magic, but because the guardrails were boring and always on. In the meeting drill, Maria says, \"Smart plug for the heater.\" After that, we swap roles and run it again. While the details are fresh, I write down the config lint in pipeline. I connect the runbook link on every alert to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "不是因为工具有魔力，而是护栏无聊且常开。会议演练中，Leo说：\"洗衣机完工通知。\"之后我们换角色再练一遍。会议演练中，Maria说：\"自动化无聊的三分之一。\"之后我们换角色再练一遍。今天的站会上，我提到孤儿资源检测器和接下来的安排。我们说好这周再把成本异动根因提示仔细看一次。Priya 提出了一个更清晰的环境 README思考方式。评审时，我们花了十分钟在IaC 风格指南上。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "不是因为工具有魔力，而是护栏无聊且常开。会议演练中，Maria说：\"电暖器的智能插座。\"之后我们换角色再练一遍。趁细节还新鲜，我把配置检查进流水线写了下来。我把每条告警带手册链接关联到工单上，免得遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "orphan resource detector",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the resource tagging discipline with Priya's. The guide now has a short section on the weekly drift report. While the details are fresh, I write down the environment scheduler. I connect the golden image refresh to the ticket so nothing gets lost. In the meeting drill, Priya says, \"The off switch ritual.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Machines help, humans host.\" After that, we swap roles and run it again. Boring is the highest compliment for safety.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the resource tagging discipline with Priya's. The guide now has a short section on the weekly drift report. While the details are fresh, I write down the environment scheduler. I connect the golden image refresh to the ticket so nothing gets lost. In the meeting drill, Priya says, \"The off switch ritual.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Machines help, humans host.\" After that, we swap roles and run it again. Boring is the highest compliment for safety.",
+   "en": "Not because the tools were magic, but because the guardrails were boring and always on. In today's standup, I mention the environment readme and what comes next. We agree to give the orphan resource detector one more careful look this week. In the meeting drill, Leo says, \"Laundry machine notifications.\" After that, we swap roles and run it again. Boring is the highest compliment for safety.",
+   "tts": "Not because the tools were magic, but because the guardrails were boring and always on. In today's standup, I mention the environment readme and what comes next. We agree to give the orphan resource detector one more careful look this week. In the meeting drill, Leo says, \"Laundry machine notifications.\" After that, we swap roles and run it again. Boring is the highest compliment for safety.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于资源打标纪律的笔记和 Priya 的对照了一下。指南里现在有关于漂移周报的简短章节。趁细节还新鲜，我把测试环境排程器写了下来。我把黄金镜像刷新自动化关联到工单上，免得遗漏。会议演练中，Priya说：\"总开关的仪式感。\"之后我们换角色再练一遍。会议演练中，Leo说：\"机器帮忙\"之后我们换角色再练一遍。对安全来说，无聊是最高的赞美。",
+   "zh": "不是因为工具有魔力，而是护栏无聊且常开。今天的站会上，我提到环境 README和接下来的安排。我们说好这周再把孤儿资源检测器仔细看一次。会议演练中，Leo说：\"洗衣机完工通知。\"之后我们换角色再练一遍。对安全来说，无聊是最高的赞美。",
    "hard": [
     {
      "w": "environment scheduler",
@@ -146,6 +146,33 @@
      "def": "漂移周报，环境与图纸的差异"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Boring is the highest compliment for safety. Priya suggests a cleaner way to think about the cost root cause hint. In the meeting drill, Leo says, \"Automate the boring thirds.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the iac style guide. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Boring is the highest compliment for safety. Priya suggests a cleaner way to think about the cost root cause hint. In the meeting drill, Leo says, \"Automate the boring thirds.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the iac style guide. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "对安全来说，无聊是最高的赞美。Priya 提出了一个更清晰的成本异动根因提示思考方式。会议演练中，Leo说：\"自动化无聊的三分之一。\"之后我们换角色再练一遍。评审时，我们花了十分钟在IaC 风格指南上。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Not because the tools were magic, but because the guardrails were boring and always on. In the meeting drill, Maria says, \"The off switch ritual.\" After that, we swap roles and run it again. I compare my notes about the resource tagging discipline with Priya's. The guide now has a short section on the environment scheduler. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Not because the tools were magic, but because the guardrails were boring and always on. In the meeting drill, Maria says, \"The off switch ritual.\" After that, we swap roles and run it again. I compare my notes about the resource tagging discipline with Priya's. The guide now has a short section on the environment scheduler. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "不是因为工具有魔力，而是护栏无聊且常开。会议演练中，Maria说：\"总开关的仪式感。\"之后我们换角色再练一遍。我把关于资源打标纪律的笔记和 Priya 的对照了一下。指南里现在有关于测试环境排程器的简短章节。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the weekly drift report. I connect the golden image refresh to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Machines help, humans host.\" After that, we swap roles and run it again. Boring is the highest compliment for safety.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the weekly drift report. I connect the golden image refresh to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Machines help, humans host.\" After that, we swap roles and run it again. Boring is the highest compliment for safety.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把漂移周报写了下来。我把黄金镜像刷新自动化关联到工单上，免得遗漏。会议演练中，Leo说：\"机器帮忙\"之后我们换角色再练一遍。对安全来说，无聊是最高的赞美。",
+   "hard": []
   }
  ],
  "chunks": [

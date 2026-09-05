@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 284,
+   "word_count": 221,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Today the team deploys a small change to the real users. After lunch, I check the JSON again. After that, Leo walks me through the CSV step by step. Before the meeting, I review the test suite one more time. When I get stuck, I ask Maria about the build job. At that moment, Priya says, \"I'd like to return this.\" I reply, and she notes it down. At that moment, Priya says, \"This item is damaged.\" I reply, and she notes it down. With the team's help, the problem becomes smaller.",
-   "tts": "Today the team deploys a small change to the real users. After lunch, I check the J son again. After that, Leo walks me through the C S V step by step. Before the meeting, I review the test suite one more time. When I get stuck, I ask Maria about the build job. At that moment, Priya says, \"I'd like to return this.\" I reply, and she notes it down. At that moment, Priya says, \"This item is damaged.\" I reply, and she notes it down. With the team's help, the problem becomes smaller.",
+   "en": "Day sixteen handles data formats and error handling. \"JSON structures data with keys and values,\" Maria says. \"CSV uses commas. A log file records events. You parse data to read it. Structured data follows rules. Each log entry is one event.\" Then a customer complaint arrives. \"I'd like to return this,\" the email reads. \"This item is damaged. I received the wrong order.\" I practise the responses: \"Could I get a refund? Could you replace it? Thank you for resolving this.\"",
+   "tts": "Day sixteen handles data formats and error handling. \"J son structures data with keys and values,\" Maria says. \"C S V uses commas. A log file records events. You parse data to read it. Structured data follows rules. Each log entry is one event.\" Then a customer complaint arrives. \"I'd like to return this,\" the email reads. \"This item is damaged. I received the wrong order.\" I practise the responses: \"Could I get a refund? Could you replace it? Thank you for resolving this.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "今天团队向真实用户部署一个小改动。午饭后，我又检查了一遍JSON 格式。在那之后，Leo 一步一步带我过了逗号分隔值。开会前，我又复习了一遍测试套件。卡住的时候，我就向 Maria 请教构建任务。这时，Priya说：\"我想退掉这个。\"我回答，她把它记了下来。这时，Priya说：\"这个商品损坏了。\"我回答，她把它记了下来。在团队的帮助下，问题变小了。",
+   "zh": "第十六天处理数据格式和错误处理。\"JSON 用键值对组织数据，\"Maria 说。\"CSV 用逗号。日志文件记录事件。你解析数据来读取它。结构化数据遵循规则。每条日志条目是一个事件。\"然后一封客户投诉到了。\"我想退货，\"邮件写着。\"商品损坏了。我收到了错误的订单。\"我练回复：\"能退款吗？能换货吗？感谢解决这个问题。\"",
    "hard": [
     {
      "w": "JSON",
@@ -46,36 +46,6 @@
      "def": "逗号分隔值，用行列保存表格数据的文本格式"
     },
     {
-     "w": "I'd like to return this.",
-     "type": "term",
-     "def": "我想退掉这个。"
-    },
-    {
-     "w": "This item is damaged.",
-     "type": "term",
-     "def": "这个商品损坏了。"
-    },
-    {
-     "w": "test suite",
-     "type": "term",
-     "def": "测试套件，一组一起运行的测试"
-    },
-    {
-     "w": "build job",
-     "type": "term",
-     "def": "构建任务，把源代码转换成可运行产物的任务"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "My order is wrong at the shop, and I ask to change it. At that moment, Leo says, \"I received the wrong order.\" I answer, and we go over it once more. At that moment, Leo asks, \"Could I get a refund?\" I answer, and we go over it once more. I reread the section about the log file after lunch. Before I parse data, I read the note. Priya and I spend a few minutes on the deployment job. The team talks about the test failure at the standup. The work is not easy, but I keep going.",
-   "tts": "My order is wrong at the shop, and I ask to change it. At that moment, Leo says, \"I received the wrong order.\" I answer, and we go over it once more. At that moment, Leo asks, \"Could I get a refund?\" I answer, and we go over it once more. I reread the section about the log file after lunch. Before I parse data, I read the note. Priya and I spend a few minutes on the deployment job. The team talks about the test failure at the standup. The work is not easy, but I keep going.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我在商店拿错了订单，我请求更换。这时，Leo说：\"我收到了错误的订单。\"我回答后，我们又过了一遍。这时，Leo问：\"我可以退款吗？\"我回答后，我们又过了一遍。午饭后我重读了关于日志文件的章节。在解析数据之前，我先看了说明。Priya 和我在部署任务上花了几分钟。团队在站会上讨论了测试失败。工作不容易，但我继续前进。",
-   "hard": [
-    {
      "w": "log file",
      "type": "term",
      "def": "日志文件，记录程序运行事件和错误的文件"
@@ -84,6 +54,26 @@
      "w": "parse data",
      "type": "term",
      "def": "解析数据，把文本转换成程序可使用的结构"
+    },
+    {
+     "w": "structured data",
+     "type": "term",
+     "def": "结构化数据，按照固定字段组织的数据"
+    },
+    {
+     "w": "log entry",
+     "type": "term",
+     "def": "日志条目，日志中记录的一次事件"
+    },
+    {
+     "w": "I'd like to return this.",
+     "type": "term",
+     "def": "我想退掉这个。"
+    },
+    {
+     "w": "This item is damaged.",
+     "type": "term",
+     "def": "这个商品损坏了。"
     },
     {
      "w": "I received the wrong order.",
@@ -96,36 +86,6 @@
      "def": "我可以退款吗？"
     },
     {
-     "w": "deployment job",
-     "type": "term",
-     "def": "部署任务，把构建产物发布到环境的任务"
-    },
-    {
-     "w": "test failure",
-     "type": "term",
-     "def": "测试失败，测试结果与预期不一致"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I review what I did today. We keep a short checklist for the build artifact. I compare my notes about the deployment environment with Priya's. After that, I add structured data to my notes with one example. After lunch, I check the log entry again. At that moment, Leo asks, \"Could you replace it?\" I answer, and we go over it once more. At that moment, Leo says, \"Thank you for resolving this.\" I answer, and we go over it once more. The deployment works. We watch the logs together.",
-   "tts": "Before I leave, I review what I did today. We keep a short checklist for the build artifact. I compare my notes about the deployment environment with Priya's. After that, I add structured data to my notes with one example. After lunch, I check the log entry again. At that moment, Leo asks, \"Could you replace it?\" I answer, and we go over it once more. At that moment, Leo says, \"Thank you for resolving this.\" I answer, and we go over it once more. The deployment works. We watch the logs together.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。我们为构建产物准备了一张简短的检查单。我把关于部署环境的笔记和 Priya 的对照了一下。在那之后，我把结构化数据和一个例子一起记进了笔记。午饭后，我又检查了一遍日志条目。这时，Leo问：\"你可以更换它吗？\"我回答后，我们又过了一遍。这时，Leo说：\"谢谢你解决这个问题。\"我回答后，我们又过了一遍。部署成功了。我们一起观察日志。",
-   "hard": [
-    {
-     "w": "structured data",
-     "type": "term",
-     "def": "结构化数据，按照固定字段组织的数据"
-    },
-    {
-     "w": "log entry",
-     "type": "term",
-     "def": "日志条目，日志中记录的一次事件"
-    },
-    {
      "w": "Could you replace it?",
      "type": "term",
      "def": "你可以更换它吗？"
@@ -134,6 +94,36 @@
      "w": "Thank you for resolving this.",
      "type": "term",
      "def": "谢谢你解决这个问题。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "CI pipeline vocabulary deepens. \"A test suite is a collection of tests,\" Leo says. \"A build job compiles your code. A deployment job ships it. A test failure blocks deployment. The build artifact is the output. The deployment environment is where it goes.\" I watch the pipeline: build job passes, test suite runs, deployment job starts. \"Test failure!\" someone shouts. The pipeline stops. We fix the bug. The pipeline restarts.",
+   "tts": "C I pipeline vocabulary deepens. \"A test suite is a collection of tests,\" Leo says. \"A build job compiles your code. A deployment job ships it. A test failure blocks deployment. The build artifact is the output. The deployment environment is where it goes.\" I watch the pipeline: build job passes, test suite runs, deployment job starts. \"Test failure!\" someone shouts. The pipeline stops. We fix the bug. The pipeline restarts.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "CI 流水线词汇加深。\"测试套件是一组测试，\"Leo 说。\"构建任务编译你的代码。部署任务发布它。测试失败会阻止部署。构建产物是输出。部署环境是目的地。\"我看流水线：构建任务通过，测试套件运行，部署任务启动。\"测试失败！\"有人喊。流水线停了。我们修了 bug。流水线重启。",
+   "hard": [
+    {
+     "w": "test suite",
+     "type": "term",
+     "def": "测试套件，一组一起运行的测试"
+    },
+    {
+     "w": "build job",
+     "type": "term",
+     "def": "构建任务，把源代码转换成可运行产物的任务"
+    },
+    {
+     "w": "deployment job",
+     "type": "term",
+     "def": "部署任务，把构建产物发布到环境的任务"
+    },
+    {
+     "w": "test failure",
+     "type": "term",
+     "def": "测试失败，测试结果与预期不一致"
     },
     {
      "w": "build artifact",
@@ -144,6 +134,26 @@
      "w": "deployment environment",
      "type": "term",
      "def": "部署环境，运行应用的目标位置"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Data formats and error handling share a principle: expect the unexpected. JSON might be malformed. Orders might be wrong. Tests might fail. The system must handle it gracefully. I write: 'Day 16 — parse data carefully. Log everything. When things break, fix them and say thank you for resolving this.' The customer with the damaged item gets a refund. The broken test gets fixed. The pipeline turns green. Order restored.",
+   "tts": "Data formats and error handling share a principle: expect the unexpected. J son might be malformed. Orders might be wrong. Tests might fail. The system must handle it gracefully. I write: 'Day 16 — parse data carefully. Log everything. When things break, fix them and say thank you for resolving this.' The customer with the damaged item gets a refund. The broken test gets fixed. The pipeline turns green. Order restored.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "数据格式和错误处理共享一个原则：预料意外。JSON 可能格式错误。订单可能出错。测试可能失败。系统必须优雅地处理。我写：'第十六天——仔细解析数据。记录一切。东西坏了就修，然后说感谢解决。'商品损坏的客户拿到了退款。坏掉的测试修好了。流水线变绿。秩序恢复。",
+   "hard": [
+    {
+     "w": "log entry",
+     "type": "term",
+     "def": "日志条目，日志中记录的一次事件"
+    },
+    {
+     "w": "structured data",
+     "type": "term",
+     "def": "结构化数据，按照固定字段组织的数据"
     }
    ]
   }

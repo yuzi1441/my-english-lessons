@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 321,
-   "segment_count": 3,
+   "word_count": 378,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Week one, the new button wins everywhere. Priya suggests a cleaner way to think about the segment level results. In today's standup, I mention the novelty effect and what comes next. While the details are fresh, I write down the analysis repo. The guide now has a short section on the query readme. In the meeting drill, Maria says, \"Reviews with photos win.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The return policy matters.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Week one, the new button wins everywhere. Priya suggests a cleaner way to think about the segment level results. In today's standup, I mention the novelty effect and what comes next. While the details are fresh, I write down the analysis repo. The guide now has a short section on the query readme. In the meeting drill, Maria says, \"Reviews with photos win.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The return policy matters.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Week one, the new button wins everywhere. Priya suggests a cleaner way to think about the segment level results. In today's standup, I mention the analysis repo and what comes next. In the meeting drill, Leo says, \"Reviews with photos win.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Week one, the new button wins everywhere. Priya suggests a cleaner way to think about the segment level results. In today's standup, I mention the analysis repo and what comes next. In the meeting drill, Leo says, \"Reviews with photos win.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第一周，新按钮全面领先。Priya 提出了一个更清晰的分群结果思考方式。今天的站会上，我提到新奇效应和接下来的安排。趁细节还新鲜，我把分析仓库写了下来。指南里现在有关于查询说明书的简短章节。会议演练中，Maria说：\"带图的评价赢。\"之后我们换角色再练一遍。会议演练中，Priya说：\"退换货政策很要紧。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "第一周，新按钮全面领先。Priya 提出了一个更清晰的分群结果思考方式。今天的站会上，我提到分析仓库和接下来的安排。会议演练中，Leo说：\"带图的评价赢。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "segment level results",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "By week three the novelty hump flattens into honesty. In the meeting drill, Maria says, \"Waiting 24 hours saves money.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Price trackers do the patience.\" After that, we swap roles and run it again. We agree to give the seasonality adjustment one more careful look this week. At the review, we spend ten minutes on the test interference. I compare my notes about the insight permalink with Priya's. I connect the chart source link to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "By week three the novelty hump flattens into honesty. In the meeting drill, Maria says, \"Waiting 24 hours saves money.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Price trackers do the patience.\" After that, we swap roles and run it again. We agree to give the seasonality adjustment one more careful look this week. At the review, we spend ten minutes on the test interference. I compare my notes about the insight permalink with Priya's. I connect the chart source link to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "en": "By week three the novelty hump flattens into honesty. In the meeting drill, Priya says, \"The return policy matters.\" After that, we swap roles and run it again. While the details are fresh, I write down the novelty effect. The guide now has a short section on the query readme. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "By week three the novelty hump flattens into honesty. In the meeting drill, Priya says, \"The return policy matters.\" After that, we swap roles and run it again. While the details are fresh, I write down the novelty effect. The guide now has a short section on the query readme. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "到第三周，新奇感的小山被摊平成诚实。会议演练中，Maria说：\"等二十四小时能省钱。\"之后我们换角色再练一遍。会议演练中，Priya说：\"价格工具替你有耐心。\"之后我们换角色再练一遍。我们说好这周再把季节性调整仔细看一次。评审时，我们花了十分钟在实验互相干扰上。我把关于洞察永久链接的笔记和 Priya 的对照了一下。我把图表来源链接关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "到第三周，新奇感的小山被摊平成诚实。会议演练中，Priya说：\"退换货政策很要紧。\"之后我们换角色再练一遍。趁细节还新鲜，我把新奇效应写了下来。指南里现在有关于查询说明书的简短章节。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "seasonality adjustment",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the methodology section. In today's standup, I mention the number change review and what comes next. While the details are fresh, I write down the long term holdout. The guide now has a short section on the decision threshold. In the meeting drill, Leo says, \"Total cost, not sticker price.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Bought once, bought right.\" After that, we swap roles and run it again. Early excitement is a noisy narrator.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the methodology section. In today's standup, I mention the number change review and what comes next. While the details are fresh, I write down the long term holdout. The guide now has a short section on the decision threshold. In the meeting drill, Leo says, \"Total cost, not sticker price.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Bought once, bought right.\" After that, we swap roles and run it again. Early excitement is a noisy narrator.",
+   "en": "By week three the novelty hump flattens into honesty. We agree to give the insight permalink one more careful look this week. At the review, we spend ten minutes on the seasonality adjustment. In the meeting drill, Maria says, \"Waiting 24 hours saves money.\" After that, we swap roles and run it again. Early excitement is a noisy narrator.",
+   "tts": "By week three the novelty hump flattens into honesty. We agree to give the insight permalink one more careful look this week. At the review, we spend ten minutes on the seasonality adjustment. In the meeting drill, Maria says, \"Waiting 24 hours saves money.\" After that, we swap roles and run it again. Early excitement is a noisy narrator.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的方法论章节思考方式。今天的站会上，我提到数字变更评审和接下来的安排。趁细节还新鲜，我把长期保留组写了下来。指南里现在有关于决策阈值的简短章节。会议演练中，Leo说：\"算总账不看标价。\"之后我们换角色再练一遍。会议演练中，Maria说：\"一次买对。\"之后我们换角色再练一遍。早期的兴奋是个吵闹的叙述者。",
+   "zh": "到第三周，新奇感的小山被摊平成诚实。我们说好这周再把洞察永久链接仔细看一次。评审时，我们花了十分钟在季节性调整上。会议演练中，Maria说：\"等二十四小时能省钱。\"之后我们换角色再练一遍。早期的兴奋是个吵闹的叙述者。",
    "hard": [
     {
      "w": "long term holdout",
@@ -146,6 +146,33 @@
      "def": "数字变更评审，口径变动要过审"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Early excitement is a noisy narrator. I compare my notes about the test interference with Priya's. In the meeting drill, Maria says, \"Price trackers do the patience.\" After that, we swap roles and run it again. I connect the chart source link to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Early excitement is a noisy narrator. I compare my notes about the test interference with Priya's. In the meeting drill, Maria says, \"Price trackers do the patience.\" After that, we swap roles and run it again. I connect the chart source link to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "早期的兴奋是个吵闹的叙述者。我把关于实验互相干扰的笔记和 Priya 的对照了一下。会议演练中，Maria说：\"价格工具替你有耐心。\"之后我们换角色再练一遍。我把图表来源链接关联到工单上，免得遗漏。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "By week three the novelty hump flattens into honesty. In the meeting drill, Priya says, \"Total cost, not sticker price.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the methodology section. In today's standup, I mention the long term holdout and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "By week three the novelty hump flattens into honesty. In the meeting drill, Priya says, \"Total cost, not sticker price.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the methodology section. In today's standup, I mention the long term holdout and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "到第三周，新奇感的小山被摊平成诚实。会议演练中，Priya说：\"算总账不看标价。\"之后我们换角色再练一遍。Priya 提出了一个更清晰的方法论章节思考方式。今天的站会上，我提到长期保留组和接下来的安排。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the number change review. The guide now has a short section on the decision threshold. In the meeting drill, Maria says, \"Bought once, bought right.\" After that, we swap roles and run it again. Early excitement is a noisy narrator.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the number change review. The guide now has a short section on the decision threshold. In the meeting drill, Maria says, \"Bought once, bought right.\" After that, we swap roles and run it again. Early excitement is a noisy narrator.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把数字变更评审写了下来。指南里现在有关于决策阈值的简短章节。会议演练中，Maria说：\"一次买对。\"之后我们换角色再练一遍。早期的兴奋是个吵闹的叙述者。",
+   "hard": []
   }
  ],
  "chunks": [

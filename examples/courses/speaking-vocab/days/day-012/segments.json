@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 236,
+   "word_count": 218,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The team plans the next version. We organize the work. Maria explains the DNS to me. Now I understand the domain name. After a short break, I read the short guide about the label twice. I hear the milestone in the meeting and write it down. Then Leo says, \"I'd like to check in.\" I answer as best I can. Then Leo says, \"I have a reservation.\" I answer as best I can. I understand a little more than yesterday.",
-   "tts": "The team plans the next version. We organize the work. Maria explains the D N S to me. Now I understand the domain name. After a short break, I read the short guide about the label twice. I hear the milestone in the meeting and write it down. Then Leo says, \"I'd like to check in.\" I answer as best I can. Then Leo says, \"I have a reservation.\" I answer as best I can. I understand a little more than yesterday.",
+   "en": "Day twelve goes deeper into web infrastructure. \"DNS turns domain names into IP addresses,\" Maria says. \"A web address or URL includes the domain. A subdomain lives under the main domain. When you resolve a domain, you translate the name into numbers.\" At the hotel booking site, I practise different vocabulary. \"I'd like to check in,\" I say at reception. \"I have a reservation.\" \"Is breakfast included?\" \"What time is checkout?\" The receptionist answers patiently.",
+   "tts": "Day twelve goes deeper into web infrastructure. \"D N S turns domain names into I P addresses,\" Maria says. \"A web address or U R L includes the domain. A subdomain lives under the main domain. When you resolve a domain, you translate the name into numbers.\" At the hotel booking site, I practise different vocabulary. \"I'd like to check in,\" I say at reception. \"I have a reservation.\" \"Is breakfast included?\" \"What time is checkout?\" The receptionist answers patiently.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "团队在规划下一个版本。我们把工作整理归类。Maria 给我讲解域名系统。现在我理解了域名。稍作休息后，我把关于标签的简短说明读了两遍。我在会上听到里程碑，把它记了下来。接着Leo说：\"我想办理入住。\"我尽力回答。接着Leo说：\"我有预订。\"我尽力回答。我比昨天多懂了一点。",
+   "zh": "第十二天深入网络基础设施。\"DNS 把域名变成 IP 地址，\"Maria 说。\"网址或 URL 包含域名。子域名在主域名之下。当你解析域名，你把名字翻译成数字。\"在订酒店网站上，我练了另一组词汇。\"我想办理入住，\"我在前台说。\"我有预订。\"\"含早餐吗？\"\"几点退房？\"前台耐心地回答。",
    "hard": [
     {
      "w": "DNS",
@@ -46,36 +46,6 @@
      "def": "域名，网站便于记忆的名称"
     },
     {
-     "w": "I'd like to check in.",
-     "type": "term",
-     "def": "我想办理入住。"
-    },
-    {
-     "w": "I have a reservation.",
-     "type": "term",
-     "def": "我有预订。"
-    },
-    {
-     "w": "label",
-     "type": "term",
-     "def": "标签，用来分类问题单和拉取请求"
-    },
-    {
-     "w": "milestone",
-     "type": "term",
-     "def": "里程碑，把一组事项归入同一个阶段目标"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "Maria travels next week. She talks about her hotel. Then Maria asks, \"Is breakfast included?\" I reply, and we keep chatting. Then Maria asks, \"What time is checkout?\" I reply, and we keep chatting. I ask one question about the web address. I write a short note about the URL. After that, Leo shows me how to add a label. I need to remove a label before lunch. The team gives me good advice.",
-   "tts": "Maria travels next week. She talks about her hotel. Then Maria asks, \"Is breakfast included?\" I reply, and we keep chatting. Then Maria asks, \"What time is checkout?\" I reply, and we keep chatting. I ask one question about the web address. I write a short note about the U R L. After that, Leo shows me how to add a label. I need to remove a label before lunch. The team gives me good advice.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 下周要出差。她聊起了她的酒店。接着Maria问：\"包含早餐吗？\"我回答后，我们继续聊。接着Maria问：\"几点退房？\"我回答后，我们继续聊。我问了一个关于网页地址的问题。我给统一资源定位符写了一条简短的笔记。在那之后，Leo 教我怎样添加标签。午饭前，我需要移除标签。团队给了我很好的建议。",
-   "hard": [
-    {
      "w": "web address",
      "type": "term",
      "def": "网页地址，用来定位网络页面的地址"
@@ -85,36 +55,6 @@
      "type": "term",
      "def": "统一资源定位符，网络资源的完整地址"
     },
-    {
-     "w": "Is breakfast included?",
-     "type": "term",
-     "def": "包含早餐吗？"
-    },
-    {
-     "w": "What time is checkout?",
-     "type": "term",
-     "def": "几点退房？"
-    },
-    {
-     "w": "add a label",
-     "type": "term",
-     "def": "添加标签，为事项增加分类"
-    },
-    {
-     "w": "remove a label",
-     "type": "term",
-     "def": "移除标签，取消已有分类"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I finish one last task. After that, I learn about the due date because it is useful. Leo shows me an example of the project board. Maria explains the subdomain to me. Today I resolve a domain for the first time. Then Maria asks, \"Could I get another towel?\" I reply, and we keep chatting. Then Maria asks, \"Can you store my luggage?\" I reply, and we keep chatting. Every issue now has a label and a due date.",
-   "tts": "Before I leave, I finish one last task. After that, I learn about the due date because it is useful. Leo shows me an example of the project board. Maria explains the subdomain to me. Today I resolve a domain for the first time. Then Maria asks, \"Could I get another towel?\" I reply, and we keep chatting. Then Maria asks, \"Can you store my luggage?\" I reply, and we keep chatting. Every issue now has a label and a due date.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。在那之后，我学习截止日期，因为它很有用。Leo 给我看了一个项目看板的例子。Maria 给我讲解子域名。今天我第一次解析域名。接着Maria问：\"可以再给我一条毛巾吗？\"我回答后，我们继续聊。接着Maria问：\"你们能寄存我的行李吗？\"我回答后，我们继续聊。现在每个问题单都有了标签和截止日期。",
-   "hard": [
     {
      "w": "subdomain",
      "type": "term",
@@ -126,6 +66,36 @@
      "def": "解析域名，把域名转换为 IP 地址"
     },
     {
+     "w": "I'd like to check in.",
+     "type": "term",
+     "def": "我想办理入住。"
+    },
+    {
+     "w": "I have a reservation.",
+     "type": "term",
+     "def": "我有预订。"
+    },
+    {
+     "w": "Is breakfast included?",
+     "type": "term",
+     "def": "包含早餐吗？"
+    },
+    {
+     "w": "What time is checkout?",
+     "type": "term",
+     "def": "几点退房？"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "\"Could I get another towel?\" I ask on the phone. \"Can you store my luggage?\" I'm at a hotel for a team offsite. Meanwhile, back on the project, labels and milestones organise our work. \"A label categorises issues,\" Priya explains. \"A milestone groups them into a goal. Add a label, remove a label, set a due date. The project board shows everything visually.\" I practise adding labels to our issues.",
+   "tts": "\"Could I get another towel?\" I ask on the phone. \"Can you store my luggage?\" I'm at a hotel for a team offsite. Meanwhile, back on the project, labels and milestones organise our work. \"A label categorises issues,\" Priya explains. \"A milestone groups them into a goal. Add a label, remove a label, set a due date. The project board shows everything visually.\" I practise adding labels to our issues.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "\"能再给我一条毛巾吗？\"我在电话里问。\"能帮我寄存行李吗？\"我在参加团队团建的酒店。与此同时，项目上，标签和里程碑整理着我们的工作。\"标签分类问题单，\"Priya 解释。\"里程碑把它们归入一个目标。添加标签、移除标签、设截止日期。项目看板把一切可视化。\"我练着给问题单加标签。",
+   "hard": [
+    {
      "w": "Could I get another towel?",
      "type": "term",
      "def": "可以再给我一条毛巾吗？"
@@ -135,6 +105,46 @@
      "type": "term",
      "def": "你们能寄存我的行李吗？"
     },
+    {
+     "w": "label",
+     "type": "term",
+     "def": "标签，用来分类问题单和拉取请求"
+    },
+    {
+     "w": "milestone",
+     "type": "term",
+     "def": "里程碑，把一组事项归入同一个阶段目标"
+    },
+    {
+     "w": "add a label",
+     "type": "term",
+     "def": "添加标签，为事项增加分类"
+    },
+    {
+     "w": "remove a label",
+     "type": "term",
+     "def": "移除标签，取消已有分类"
+    },
+    {
+     "w": "due date",
+     "type": "term",
+     "def": "截止日期，计划完成事项的日期"
+    },
+    {
+     "w": "project board",
+     "type": "term",
+     "def": "项目看板，用卡片追踪工作状态的页面"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "The hotel and the project have more in common than I expected. Both need check-ins. Both have labels — room numbers and issue labels. Both have due dates — checkout time and milestone deadlines. I write: 'Day 12 — DNS is the phone book of the internet. Labels are tags. Milestones are goals. Every system has its own vocabulary but the ideas repeat.' Two weeks down, fifty more to go. The journey continues.",
+   "tts": "The hotel and the project have more in common than I expected. Both need check-ins. Both have labels — room numbers and issue labels. Both have due dates — checkout time and milestone deadlines. I write: 'Day 12 — D N S is the phone book of the internet. Labels are tags. Milestones are goals. Every system has its own vocabulary but the ideas repeat.' Two weeks down, fifty more to go. The journey continues.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "酒店和项目的共同点比我预期的多。都需要 check-in。都有标签——房间号和问题标签。都有截止日期——退房时间和里程碑期限。我写：'第十二天——DNS 是互联网的电话簿。标签是标记。里程碑是目标。每个系统都有自己的词汇但理念在重复。'两周过去，还有五十周。旅程继续。",
+   "hard": [
     {
      "w": "due date",
      "type": "term",

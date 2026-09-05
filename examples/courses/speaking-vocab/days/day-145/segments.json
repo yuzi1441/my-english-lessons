@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 322,
-   "segment_count": 3,
+   "word_count": 376,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The collaboration graph shows quiet contributors I barely knew. At the review, we spend ten minutes on the calendar blocking discipline. I connect the context switching cost to the ticket so nothing gets lost. In today's standup, I mention the deployment lock and what comes next. The guide now has a short section on the queue priority settings. In the meeting drill, Priya says, \"Grandma's photo, restored.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Scratches fade, smiles stay.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "The collaboration graph shows quiet contributors I barely knew. At the review, we spend ten minutes on the calendar blocking discipline. I connect the context switching cost to the ticket so nothing gets lost. In today's standup, I mention the deployment lock and what comes next. The guide now has a short section on the queue priority settings. In the meeting drill, Priya says, \"Grandma's photo, restored.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Scratches fade, smiles stay.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "The collaboration graph shows quiet contributors I barely knew. At the review, we spend ten minutes on the calendar blocking discipline. I connect the deployment lock to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Grandma's photo, restored.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "The collaboration graph shows quiet contributors I barely knew. At the review, we spend ten minutes on the calendar blocking discipline. I connect the deployment lock to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Grandma's photo, restored.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "协作图上出现了我几乎不认识的安静贡献者。评审时，我们花了十分钟在日历分块纪律上。我把切换成本关联到工单上，免得遗漏。今天的站会上，我提到部署锁和接下来的安排。指南里现在有关于队列优先级设置的简短章节。会议演练中，Priya说：\"奶奶的照片修复了。\"之后我们换角色再练一遍。会议演练中，Leo说：\"划痕淡了\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "协作图上出现了我几乎不认识的安静贡献者。评审时，我们花了十分钟在日历分块纪律上。我把部署锁关联到工单上，免得遗漏。会议演练中，Maria说：\"奶奶的照片修复了。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "calendar blocking discipline",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We send thanks in the open, one message per name. In the meeting drill, Priya says, \"The colorization debate.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"The original stays sacred.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the deep work accounting. We agree to give the monthly meeting audit one more careful look this week. I compare my notes about the lock timeout policy with Priya's. While the details are fresh, I write down the concurrent deploy ban. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "We send thanks in the open, one message per name. In the meeting drill, Priya says, \"The colorization debate.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"The original stays sacred.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the deep work accounting. We agree to give the monthly meeting audit one more careful look this week. I compare my notes about the lock timeout policy with Priya's. While the details are fresh, I write down the concurrent deploy ban. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "We send thanks in the open, one message per name. In the meeting drill, Leo says, \"Scratches fade, smiles stay.\" After that, we swap roles and run it again. In today's standup, I mention the context switching cost and what comes next. The guide now has a short section on the queue priority settings. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We send thanks in the open, one message per name. In the meeting drill, Leo says, \"Scratches fade, smiles stay.\" After that, we swap roles and run it again. In today's standup, I mention the context switching cost and what comes next. The guide now has a short section on the queue priority settings. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们公开致谢，每个名字一条消息。会议演练中，Priya说：\"给老照上色的争论。\"之后我们换角色再练一遍。会议演练中，Leo说：\"原版依然神圣。\"之后我们换角色再练一遍。Priya 提出了一个更清晰的深工记账思考方式。我们说好这周再把月度会议审计仔细看一次。我把关于锁超时策略的笔记和 Priya 的对照了一下。趁细节还新鲜，我把并发部署禁令写了下来。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我们公开致谢，每个名字一条消息。会议演练中，Leo说：\"划痕淡了\"之后我们换角色再练一遍。今天的站会上，我提到切换成本和接下来的安排。指南里现在有关于队列优先级设置的简短章节。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "deep work accounting",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the release slot booking. I connect the post deploy verify gate to the ticket so nothing gets lost. In today's standup, I mention the ops pomodoro and what comes next. The guide now has a short section on the friday afternoon rule. In the meeting drill, Maria says, \"Copies for the cousins.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Memory deserves maintenance.\" After that, we swap roles and run it again. Gratitude is documentation for humans.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the release slot booking. I connect the post deploy verify gate to the ticket so nothing gets lost. In today's standup, I mention the ops pomodoro and what comes next. The guide now has a short section on the friday afternoon rule. In the meeting drill, Maria says, \"Copies for the cousins.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Memory deserves maintenance.\" After that, we swap roles and run it again. Gratitude is documentation for humans.",
+   "en": "We send thanks in the open, one message per name. Priya suggests a cleaner way to think about the lock timeout policy. We agree to give the deep work accounting one more careful look this week. In the meeting drill, Priya says, \"The colorization debate.\" After that, we swap roles and run it again. Gratitude is documentation for humans.",
+   "tts": "We send thanks in the open, one message per name. Priya suggests a cleaner way to think about the lock timeout policy. We agree to give the deep work accounting one more careful look this week. In the meeting drill, Priya says, \"The colorization debate.\" After that, we swap roles and run it again. Gratitude is documentation for humans.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在发布档期预约上。我把部署后验证关卡关联到工单上，免得遗漏。今天的站会上，我提到运维番茄钟和接下来的安排。指南里现在有关于周五下午规则的简短章节。会议演练中，Maria说：\"表亲们一人一张。\"之后我们换角色再练一遍。会议演练中，Priya说：\"记忆也值得维护。\"之后我们换角色再练一遍。感谢是写给人类的文档。",
+   "zh": "我们公开致谢，每个名字一条消息。Priya 提出了一个更清晰的锁超时策略思考方式。我们说好这周再把深工记账仔细看一次。会议演练中，Priya说：\"给老照上色的争论。\"之后我们换角色再练一遍。感谢是写给人类的文档。",
    "hard": [
     {
      "w": "ops pomodoro",
@@ -146,6 +146,33 @@
      "def": "部署后验证关卡，过了才算完成"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Gratitude is documentation for humans. I compare my notes about the monthly meeting audit with Priya's. In the meeting drill, Priya says, \"The original stays sacred.\" After that, we swap roles and run it again. While the details are fresh, I write down the concurrent deploy ban. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Gratitude is documentation for humans. I compare my notes about the monthly meeting audit with Priya's. In the meeting drill, Priya says, \"The original stays sacred.\" After that, we swap roles and run it again. While the details are fresh, I write down the concurrent deploy ban. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "感谢是写给人类的文档。我把关于月度会议审计的笔记和 Priya 的对照了一下。会议演练中，Priya说：\"原版依然神圣。\"之后我们换角色再练一遍。趁细节还新鲜，我把并发部署禁令写了下来。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We send thanks in the open, one message per name. In the meeting drill, Leo says, \"Copies for the cousins.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the release slot booking. I connect the ops pomodoro to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We send thanks in the open, one message per name. In the meeting drill, Leo says, \"Copies for the cousins.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the release slot booking. I connect the ops pomodoro to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们公开致谢，每个名字一条消息。会议演练中，Leo说：\"表亲们一人一张。\"之后我们换角色再练一遍。评审时，我们花了十分钟在发布档期预约上。我把运维番茄钟关联到工单上，免得遗漏。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the post deploy verify gate and what comes next. The guide now has a short section on the friday afternoon rule. In the meeting drill, Priya says, \"Memory deserves maintenance.\" After that, we swap roles and run it again. Gratitude is documentation for humans.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the post deploy verify gate and what comes next. The guide now has a short section on the friday afternoon rule. In the meeting drill, Priya says, \"Memory deserves maintenance.\" After that, we swap roles and run it again. Gratitude is documentation for humans.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到部署后验证关卡和接下来的安排。指南里现在有关于周五下午规则的简短章节。会议演练中，Priya说：\"记忆也值得维护。\"之后我们换角色再练一遍。感谢是写给人类的文档。",
+   "hard": []
   }
  ],
  "chunks": [

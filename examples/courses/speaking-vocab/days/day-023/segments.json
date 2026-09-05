@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 326,
+   "word_count": 211,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I review a teammate's code today. After that, We spend a few minutes on the performance at the standup. During the review, I ask one question about the latency. Before we move on, Leo says, \"Looks good to me.\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"Could you clarify this part?\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"What are the main differences?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"This one is more reliable.\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
-   "tts": "I review a teammate's code today. After that, We spend a few minutes on the performance at the standup. During the review, I ask one question about the latency. Before we move on, Leo says, \"Looks good to me.\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"Could you clarify this part?\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"What are the main differences?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"This one is more reliable.\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
+   "en": "Day twenty-three measures performance. \"Performance is how fast,\" Maria says. \"Latency is delay. A cache speeds things up. A cache hit means found it. A cache miss means not found. Response time is total duration.\" At the code review: \"Looks good to me,\" Leo says. \"Could you clarify this part?\" I explain. \"Please add a test.\" I add one. \"This may cause an error.\" I fix it. \"Consider renaming this variable.\" I rename it. \"Thanks for the update!\"",
+   "tts": "Day twenty-three measures performance. \"Performance is how fast,\" Maria says. \"Latency is delay. A cache speeds things up. A cache hit means found it. A cache miss means not found. Response time is total duration.\" At the code review: \"Looks good to me,\" Leo says. \"Could you clarify this part?\" I explain. \"Please add a test.\" I add one. \"This may cause an error.\" I fix it. \"Consider renaming this variable.\" I rename it. \"Thanks for the update!\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "今天我评审队友的代码。在那之后，站会上我们花了几分钟讨论性能。评审时，我就延迟提了一个问题。继续之前，Leo说：\"我看起来没问题。\"我清楚地回答，并记下了这个说法。继续之前，Leo问：\"你可以说明这一部分吗？\"我清楚地回答，并记下了这个说法。继续之前，Leo问：\"主要区别是什么？\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"这个更可靠。\"我清楚地回答，并记下了这个说法。这一天以一份清晰的明日计划结束。",
+   "zh": "第二十三天衡量性能。\"性能是快不快，\"Maria 说。\"延迟是等待。缓存加速。缓存命中表示找到了。缓存未命中表示没有。响应时间是总时长。\"代码评审时：\"我觉得没问题，\"Leo 说。\"能说明一下这部分吗？\"我解释。\"请加个测试。\"我加了。\"这可能引起错误。\"我修了。\"考虑重命名这个变量。\"我重命名了。\"谢谢更新！\"",
    "hard": [
     {
      "w": "performance",
@@ -46,14 +46,24 @@
      "def": "延迟，从发出请求到收到响应的等待时间"
     },
     {
-     "w": "What are the main differences?",
+     "w": "cache",
      "type": "term",
-     "def": "主要区别是什么？"
+     "def": "缓存，为快速读取而暂时保存的数据"
     },
     {
-     "w": "This one is more reliable.",
+     "w": "cache hit",
      "type": "term",
-     "def": "这个更可靠。"
+     "def": "缓存命中，需要的数据直接在缓存中找到"
+    },
+    {
+     "w": "cache miss",
+     "type": "term",
+     "def": "缓存未命中，需要的数据不在缓存中"
+    },
+    {
+     "w": "response time",
+     "type": "term",
+     "def": "响应时间，系统完成一次请求所花的时间"
     },
     {
      "w": "Looks good to me.",
@@ -64,26 +74,46 @@
      "w": "Could you clarify this part?",
      "type": "term",
      "def": "你可以说明这一部分吗？"
+    },
+    {
+     "w": "Please add a test.",
+     "type": "term",
+     "def": "请增加一个测试。"
+    },
+    {
+     "w": "This may cause an error.",
+     "type": "term",
+     "def": "这可能导致错误。"
+    },
+    {
+     "w": "Consider renaming this variable.",
+     "type": "term",
+     "def": "可以考虑重命名这个变量。"
+    },
+    {
+     "w": "Thanks for the update.",
+     "type": "term",
+     "def": "谢谢你的更新。"
     }
    ]
   },
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The deadline is close, and I ask for one more day. Before we move on, Maria says, \"The other option is cheaper.\" I answer, then reuse it in my update. Before we move on, Maria asks, \"What are the trade-offs?\" I answer, then reuse it in my update. Before I reply, I look at the cache once more. I reread my notes about the cache hit after lunch. Before we move on, Priya says, \"Please add a test.\" I answer, and we compare notes. Before we move on, Priya says, \"This may cause an error.\" I answer, and we compare notes. I check my notes and confirm the next step.",
-   "tts": "The deadline is close, and I ask for one more day. Before we move on, Maria says, \"The other option is cheaper.\" I answer, then reuse it in my update. Before we move on, Maria asks, \"What are the trade-offs?\" I answer, then reuse it in my update. Before I reply, I look at the cache once more. I reread my notes about the cache hit after lunch. Before we move on, Priya says, \"Please add a test.\" I answer, and we compare notes. Before we move on, Priya says, \"This may cause an error.\" I answer, and we compare notes. I check my notes and confirm the next step.",
+   "en": "Decision-making day. \"What are the main differences?\" Priya asks about two tools. \"This one is more reliable. The other option is cheaper. What are the trade-offs? I need time to decide. Let's review the facts.\" We list pros and cons. We discuss trade-offs. I need time to decide becomes I've made my decision. The facts spoke for themselves.",
+   "tts": "Decision-making day. \"What are the main differences?\" Priya asks about two tools. \"This one is more reliable. The other option is cheaper. What are the trade-offs? I need time to decide. Let's review the facts.\" We list pros and cons. We discuss trade-offs. I need time to decide becomes I've made my decision. The facts spoke for themselves.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "截止时间快到了，我请求多一天。继续之前，Maria说：\"另一个方案更便宜。\"我回答，然后把它用进了自己的汇报。继续之前，Maria问：\"有哪些取舍？\"我回答，然后把它用进了自己的汇报。回复之前，我又看了一遍缓存。午饭后我重读了关于缓存命中的笔记。继续之前，Priya说：\"请增加一个测试。\"我回答，我们互相对了笔记。继续之前，Priya说：\"这可能导致错误。\"我回答，我们互相对了笔记。我检查笔记，确认了下一步。",
+   "zh": "决策日。\"主要区别是什么？\"Priya 问关于两个工具。\"这个更可靠。另一个更便宜。有哪些取舍？我需要时间决定。让我们回顾事实。\"我们列了优缺点。讨论了取舍。我需要时间决定变成了我决定了。事实不言自明。",
    "hard": [
     {
-     "w": "cache",
+     "w": "What are the main differences?",
      "type": "term",
-     "def": "缓存，为快速读取而暂时保存的数据"
+     "def": "主要区别是什么？"
     },
     {
-     "w": "cache hit",
+     "w": "This one is more reliable.",
      "type": "term",
-     "def": "缓存命中，需要的数据直接在缓存中找到"
+     "def": "这个更可靠。"
     },
     {
      "w": "The other option is cheaper.",
@@ -96,36 +126,6 @@
      "def": "有哪些取舍？"
     },
     {
-     "w": "Please add a test.",
-     "type": "term",
-     "def": "请增加一个测试。"
-    },
-    {
-     "w": "This may cause an error.",
-     "type": "term",
-     "def": "这可能导致错误。"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. Before we move on, Maria says, \"Consider renaming this variable.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Thanks for the update.\" I answer, then reuse it in my update. I double-check the cache miss before the review. I walk a new teammate through the response time. Before we move on, Priya says, \"I need time to decide.\" I answer, and we compare notes. Before we move on, Priya says, \"Let's review the facts.\" I answer, and we compare notes. My comments are kind and clear. The team thanks me.",
-   "tts": "Before I leave, I write a short summary for the team. Before we move on, Maria says, \"Consider renaming this variable.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Thanks for the update.\" I answer, then reuse it in my update. I double-check the cache miss before the review. I walk a new teammate through the response time. Before we move on, Priya says, \"I need time to decide.\" I answer, and we compare notes. Before we move on, Priya says, \"Let's review the facts.\" I answer, and we compare notes. My comments are kind and clear. The team thanks me.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。继续之前，Maria说：\"可以考虑重命名这个变量。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"谢谢你的更新。\"我回答，然后把它用进了自己的汇报。评审之前，我再核对一遍缓存未命中。我带一位新队友过了一遍响应时间。继续之前，Priya说：\"我需要时间决定。\"我回答，我们互相对了笔记。继续之前，Priya说：\"我们回顾一下事实吧。\"我回答，我们互相对了笔记。我的评论友善而清楚。团队向我道谢。",
-   "hard": [
-    {
-     "w": "cache miss",
-     "type": "term",
-     "def": "缓存未命中，需要的数据不在缓存中"
-    },
-    {
-     "w": "response time",
-     "type": "term",
-     "def": "响应时间，系统完成一次请求所花的时间"
-    },
-    {
      "w": "I need time to decide.",
      "type": "term",
      "def": "我需要时间决定。"
@@ -134,16 +134,31 @@
      "w": "Let's review the facts.",
      "type": "term",
      "def": "我们回顾一下事实吧。"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Performance and decisions both need data. A cache hit is a quick answer. A cache miss requires more work. Good decisions need good data too. I write: 'Day 23 — latency is waiting time. Cache is pre-computed answers. Looks good to me means I've reviewed it. Trade-offs are the costs you accept.' The review phrases are becoming natural: Please add a test. Consider renaming. Thanks for the update. Each one is short, kind, and useful.",
+   "tts": "Performance and decisions both need data. A cache hit is a quick answer. A cache miss requires more work. Good decisions need good data too. I write: 'Day 23 — latency is waiting time. Cache is pre-computed answers. Looks good to me means I've reviewed it. Trade-offs are the costs you accept.' The review phrases are becoming natural: Please add a test. Consider renaming. Thanks for the update. Each one is short, kind, and useful.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "性能和决策都需要数据。缓存命中是快速回答。缓存未命中需要更多工作。好的决策也需要好数据。我写：'第二十三天——延迟是等待时间。缓存是预计算的答案。我觉得没问题表示已评审。取舍是你接受的代价。'评审短语越来越自然了：请加个测试。考虑重命名。谢谢更新。每一条都简短、友善、有用。",
+   "hard": [
+    {
+     "w": "cache",
+     "type": "term",
+     "def": "缓存，为快速读取而暂时保存的数据"
     },
     {
-     "w": "Consider renaming this variable.",
+     "w": "response time",
      "type": "term",
-     "def": "可以考虑重命名这个变量。"
+     "def": "响应时间，系统完成一次请求所花的时间"
     },
     {
-     "w": "Thanks for the update.",
+     "w": "Looks good to me.",
      "type": "term",
-     "def": "谢谢你的更新。"
+     "def": "我看起来没问题。"
     }
    ]
   }

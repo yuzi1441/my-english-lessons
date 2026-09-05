@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 329,
-   "segment_count": 3,
+   "word_count": 392,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "One Friday, everyone writes docs instead of code. We agree to give the module boundaries one more careful look this week. At the review, we spend ten minutes on the feature folder structure. Priya suggests a cleaner way to think about the rename without edits. While the details are fresh, I write down the move separately. In the meeting drill, Leo says, \"Vertical folding wins.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Clear bins beat opaque ones.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "One Friday, everyone writes docs instead of code. We agree to give the module boundaries one more careful look this week. At the review, we spend ten minutes on the feature folder structure. Priya suggests a cleaner way to think about the rename without edits. While the details are fresh, I write down the move separately. In the meeting drill, Leo says, \"Vertical folding wins.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Clear bins beat opaque ones.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "en": "One Friday, everyone writes docs instead of code. We agree to give the module boundaries one more careful look this week. At the review, we spend ten minutes on the rename without edits. In the meeting drill, Priya says, \"Vertical folding wins.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "One Friday, everyone writes docs instead of code. We agree to give the module boundaries one more careful look this week. At the review, we spend ten minutes on the rename without edits. In the meeting drill, Priya says, \"Vertical folding wins.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "某个周五，所有人写文档而不是代码。我们说好这周再把模块边界仔细看一次。评审时，我们花了十分钟在功能目录结构上。Priya 提出了一个更清晰的纯重命名提交思考方式。趁细节还新鲜，我把移动单独提写了下来。会议演练中，Leo说：\"竖式折叠赢麻了。\"之后我们换角色再练一遍。会议演练中，Maria说：\"透明收纳盒胜过黑箱。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "某个周五，所有人写文档而不是代码。我们说好这周再把模块边界仔细看一次。评审时，我们花了十分钟在纯重命名提交上。会议演练中，Priya说：\"竖式折叠赢麻了。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "module boundaries",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "By noon, the quickstart passes on three fresh laptops. In the meeting drill, Leo says, \"One in, one out.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The junk drawer audit.\" After that, we swap roles and run it again. The guide now has a short section on the circular import check. In today's standup, I mention the index file discipline and what comes next. I compare my notes about the generated files flagged with Priya's. I connect the lock file updates isolated to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "By noon, the quickstart passes on three fresh laptops. In the meeting drill, Leo says, \"One in, one out.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The junk drawer audit.\" After that, we swap roles and run it again. The guide now has a short section on the circular import check. In today's standup, I mention the index file discipline and what comes next. I compare my notes about the generated files flagged with Priya's. I connect the lock file updates isolated to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "By noon, the quickstart passes on three fresh laptops. In the meeting drill, Maria says, \"Clear bins beat opaque ones.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the feature folder structure. While the details are fresh, I write down the move separately. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "By noon, the quickstart passes on three fresh laptops. In the meeting drill, Maria says, \"Clear bins beat opaque ones.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the feature folder structure. While the details are fresh, I write down the move separately. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "中午之前，快速上手在三台全新笔记本上跑通了。会议演练中，Leo说：\"进一件\"之后我们换角色再练一遍。会议演练中，Maria说：\"杂物抽屉审计。\"之后我们换角色再练一遍。指南里现在有关于循环导入检查的简短章节。今天的站会上，我提到索引文件纪律和接下来的安排。我把关于生成文件标注的笔记和 Priya 的对照了一下。我把锁文件单独更新关联到工单上，免得遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "中午之前，快速上手在三台全新笔记本上跑通了。会议演练中，Maria说：\"透明收纳盒胜过黑箱。\"之后我们换角色再练一遍。Priya 提出了一个更清晰的功能目录结构思考方式。趁细节还新鲜，我把移动单独提写了下来。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "circular import check",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the binary diff note one more careful look this week. At the review, we spend ten minutes on the big diff warning protocol. Priya suggests a cleaner way to think about the dead file sweep. While the details are fresh, I write down the naming consistency scan. In the meeting drill, Priya says, \"Labels save marriages.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Storage is a habit.\" After that, we swap roles and run it again. The best code is the code a stranger can start.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the binary diff note one more careful look this week. At the review, we spend ten minutes on the big diff warning protocol. Priya suggests a cleaner way to think about the dead file sweep. While the details are fresh, I write down the naming consistency scan. In the meeting drill, Priya says, \"Labels save marriages.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Storage is a habit.\" After that, we swap roles and run it again. The best code is the code a stranger can start.",
+   "en": "By noon, the quickstart passes on three fresh laptops. The guide now has a short section on the generated files flagged. In today's standup, I mention the circular import check and what comes next. In the meeting drill, Leo says, \"One in, one out.\" After that, we swap roles and run it again. The best code is the code a stranger can start.",
+   "tts": "By noon, the quickstart passes on three fresh laptops. The guide now has a short section on the generated files flagged. In today's standup, I mention the circular import check and what comes next. In the meeting drill, Leo says, \"One in, one out.\" After that, we swap roles and run it again. The best code is the code a stranger can start.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把二进制变更说明仔细看一次。评审时，我们花了十分钟在大差异预警流程上。Priya 提出了一个更清晰的死文件清扫思考方式。趁细节还新鲜，我把命名一致性扫描写了下来。会议演练中，Priya说：\"标签拯救婚姻。\"之后我们换角色再练一遍。会议演练中，Leo说：\"收纳是习惯不是周末。\"之后我们换角色再练一遍。最好的代码，是陌生人能跑起来的代码。",
+   "zh": "中午之前，快速上手在三台全新笔记本上跑通了。指南里现在有关于生成文件标注的简短章节。今天的站会上，我提到循环导入检查和接下来的安排。会议演练中，Leo说：\"进一件\"之后我们换角色再练一遍。最好的代码，是陌生人能跑起来的代码。",
    "hard": [
     {
      "w": "dead file sweep",
@@ -146,6 +146,33 @@
      "def": "大差异预警流程，超限先拆"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The best code is the code a stranger can start. I compare my notes about the index file discipline with Priya's. In the meeting drill, Leo says, \"The junk drawer audit.\" After that, we swap roles and run it again. I connect the lock file updates isolated to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The best code is the code a stranger can start. I compare my notes about the index file discipline with Priya's. In the meeting drill, Leo says, \"The junk drawer audit.\" After that, we swap roles and run it again. I connect the lock file updates isolated to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "最好的代码，是陌生人能跑起来的代码。我把关于索引文件纪律的笔记和 Priya 的对照了一下。会议演练中，Leo说：\"杂物抽屉审计。\"之后我们换角色再练一遍。我把锁文件单独更新关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "By noon, the quickstart passes on three fresh laptops. In the meeting drill, Maria says, \"Labels save marriages.\" After that, we swap roles and run it again. We agree to give the binary diff note one more careful look this week. At the review, we spend ten minutes on the dead file sweep. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "By noon, the quickstart passes on three fresh laptops. In the meeting drill, Maria says, \"Labels save marriages.\" After that, we swap roles and run it again. We agree to give the binary diff note one more careful look this week. At the review, we spend ten minutes on the dead file sweep. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "中午之前，快速上手在三台全新笔记本上跑通了。会议演练中，Maria说：\"标签拯救婚姻。\"之后我们换角色再练一遍。我们说好这周再把二进制变更说明仔细看一次。评审时，我们花了十分钟在死文件清扫上。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the big diff warning protocol. While the details are fresh, I write down the naming consistency scan. In the meeting drill, Leo says, \"Storage is a habit.\" After that, we swap roles and run it again. The best code is the code a stranger can start.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the big diff warning protocol. While the details are fresh, I write down the naming consistency scan. In the meeting drill, Leo says, \"Storage is a habit.\" After that, we swap roles and run it again. The best code is the code a stranger can start.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的大差异预警流程思考方式。趁细节还新鲜，我把命名一致性扫描写了下来。会议演练中，Leo说：\"收纳是习惯不是周末。\"之后我们换角色再练一遍。最好的代码，是陌生人能跑起来的代码。",
+   "hard": []
   }
  ],
  "chunks": [

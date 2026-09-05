@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 311,
-   "segment_count": 3,
+   "word_count": 372,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The team wants the app in two languages. I spend ten quiet minutes on the internationalization after the standup. My notes about the locale look clearer this week. It is finally my turn to archive a repository. I transfer ownership, then I take a short break. In the warm-up round, Leo asks, \"How do you celebrate it?\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"We have a family dinner.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "The team wants the app in two languages. I spend ten quiet minutes on the internationalization after the standup. My notes about the locale look clearer this week. It is finally my turn to archive a repository. I transfer ownership, then I take a short break. In the warm-up round, Leo asks, \"How do you celebrate it?\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"We have a family dinner.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "The team wants the app in two languages. I spend ten quiet minutes on the internationalization after the standup. It is finally my turn to archive a repository. In the warm-up round, Priya asks, \"How do you celebrate it?\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "The team wants the app in two languages. I spend ten quiet minutes on the internationalization after the standup. It is finally my turn to archive a repository. In the warm-up round, Priya asks, \"How do you celebrate it?\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "团队想让应用支持两种语言。站会之后，我安安静静花了十分钟在国际化上。这周我关于区域设置的笔记清楚多了。终于轮到我归档仓库了。我转让所有权，然后休息了一下。热身环节里，Leo问：\"你们怎么庆祝这个节日？\"然后我们换角色，由我来问。热身环节里，Maria说：\"我们会吃一顿家庭晚餐。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "团队想让应用支持两种语言。站会之后，我安安静静花了十分钟在国际化上。终于轮到我归档仓库了。热身环节里，Priya问：\"你们怎么庆祝这个节日？\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "internationalization",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I move every sentence into a translation file and learn the plural rule the hard way. In the warm-up round, Leo says, \"It's a public holiday here.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I usually travel during it.\" Then we swap roles and I ask it back. I add the translation file to my study notes before I forget it. I go over the plural rule one more time before lunch. There is a short paragraph about the repository settings in the guide. I keep one real example of the default reviewer in my notebook. Small progress today prepares the bigger step tomorrow.",
-   "tts": "I move every sentence into a translation file and learn the plural rule the hard way. In the warm-up round, Leo says, \"It's a public holiday here.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I usually travel during it.\" Then we swap roles and I ask it back. I add the translation file to my study notes before I forget it. I go over the plural rule one more time before lunch. There is a short paragraph about the repository settings in the guide. I keep one real example of the default reviewer in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "en": "I move every sentence into a translation file and learn the plural rule the hard way. In the warm-up round, Maria says, \"We have a family dinner.\" Then we swap roles and I ask it back. My notes about the locale look clearer this week. I transfer ownership, then I take a short break. Small progress today prepares the bigger step tomorrow.",
+   "tts": "I move every sentence into a translation file and learn the plural rule the hard way. In the warm-up round, Maria says, \"We have a family dinner.\" Then we swap roles and I ask it back. My notes about the locale look clearer this week. I transfer ownership, then I take a short break. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我把每一句话搬进翻译文件，并用最费劲的方式学会了复数规则。热身环节里，Leo说：\"这里是法定假日。\"然后我们换角色，由我来问。热身环节里，Maria说：\"我通常趁假期去旅行。\"然后我们换角色，由我来问。我趁还没忘，把翻译文件记进了学习笔记。午饭前我又过了一遍复数规则。指南里有一小段关于仓库设置的介绍。我在笔记本里留了一个默认评审人的真实例子。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我把每一句话搬进翻译文件，并用最费劲的方式学会了复数规则。热身环节里，Maria说：\"我们会吃一顿家庭晚餐。\"然后我们换角色，由我来问。这周我关于区域设置的笔记清楚多了。我转让所有权，然后休息了一下。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "translation file",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the stale issue bot, and I explain the basics. I ask one good question about the maintenance window in the meeting. I spend ten quiet minutes on the right-to-left after the standup. My notes about the fallback language look clearer this week. In the warm-up round, Priya says, \"The streets get crowded.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Happy holidays to you.\" Then we swap roles and I ask it back. Internationalization is empathy at scale.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the stale issue bot, and I explain the basics. I ask one good question about the maintenance window in the meeting. I spend ten quiet minutes on the right-to-left after the standup. My notes about the fallback language look clearer this week. In the warm-up round, Priya says, \"The streets get crowded.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Happy holidays to you.\" Then we swap roles and I ask it back. Internationalization is empathy at scale.",
+   "en": "I move every sentence into a translation file and learn the plural rule the hard way. I add the repository settings to my study notes before I forget it. I go over the translation file one more time before lunch. In the warm-up round, Leo says, \"It's a public holiday here.\" Then we swap roles and I ask it back. Internationalization is empathy at scale.",
+   "tts": "I move every sentence into a translation file and learn the plural rule the hard way. I add the repository settings to my study notes before I forget it. I go over the translation file one more time before lunch. In the warm-up round, Leo says, \"It's a public holiday here.\" Then we swap roles and I ask it back. Internationalization is empathy at scale.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起闲置提醒机器人，我讲了讲基础。会上关于维护窗口，我问了一个好问题。站会之后，我安安静静花了十分钟在从右到左上。这周我关于回退语言的笔记清楚多了。热身环节里，Priya说：\"街道会变得很拥挤。\"然后我们换角色，由我来问。热身环节里，Leo说：\"祝你节日快乐。\"然后我们换角色，由我来问。国际化是规模化的同理心。",
+   "zh": "我把每一句话搬进翻译文件，并用最费劲的方式学会了复数规则。我趁还没忘，把仓库设置记进了学习笔记。午饭前我又过了一遍翻译文件。热身环节里，Leo说：\"这里是法定假日。\"然后我们换角色，由我来问。国际化是规模化的同理心。",
    "hard": [
     {
      "w": "right-to-left",
@@ -146,6 +146,33 @@
      "def": "维护窗口，安排停机维护的时间段"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Internationalization is empathy at scale. There is a short paragraph about the plural rule in the guide. In the warm-up round, Leo says, \"I usually travel during it.\" Then we swap roles and I ask it back. I keep one real example of the default reviewer in my notebook. I end the day with fewer unknowns than I started with.",
+   "tts": "Internationalization is empathy at scale. There is a short paragraph about the plural rule in the guide. In the warm-up round, Leo says, \"I usually travel during it.\" Then we swap roles and I ask it back. I keep one real example of the default reviewer in my notebook. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "国际化是规模化的同理心。指南里有一小段关于复数规则的介绍。热身环节里，Leo说：\"我通常趁假期去旅行。\"然后我们换角色，由我来问。我在笔记本里留了一个默认评审人的真实例子。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "I move every sentence into a translation file and learn the plural rule the hard way. In the warm-up round, Maria says, \"The streets get crowded.\" Then we swap roles and I ask it back. Sam asks me about the stale issue bot, and I explain the basics. I ask one good question about the right-to-left in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "tts": "I move every sentence into a translation file and learn the plural rule the hard way. In the warm-up round, Maria says, \"The streets get crowded.\" Then we swap roles and I ask it back. Sam asks me about the stale issue bot, and I explain the basics. I ask one good question about the right-to-left in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我把每一句话搬进翻译文件，并用最费劲的方式学会了复数规则。热身环节里，Maria说：\"街道会变得很拥挤。\"然后我们换角色，由我来问。Sam 问起闲置提醒机器人，我讲了讲基础。会上关于从右到左，我问了一个好问题。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the maintenance window after the standup. My notes about the fallback language look clearer this week. In the warm-up round, Leo says, \"Happy holidays to you.\" Then we swap roles and I ask it back. Internationalization is empathy at scale.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the maintenance window after the standup. My notes about the fallback language look clearer this week. In the warm-up round, Leo says, \"Happy holidays to you.\" Then we swap roles and I ask it back. Internationalization is empathy at scale.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在维护窗口上。这周我关于回退语言的笔记清楚多了。热身环节里，Leo说：\"祝你节日快乐。\"然后我们换角色，由我来问。国际化是规模化的同理心。",
+   "hard": []
   }
  ],
  "chunks": [

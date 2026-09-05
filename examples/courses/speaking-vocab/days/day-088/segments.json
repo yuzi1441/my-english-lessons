@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 318,
-   "segment_count": 3,
+   "word_count": 375,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Support, sales, and engineering agree on an SLO. There is a short paragraph about the responsive layout in the guide. I ask one good question about the breakpoint in the meeting. I add the canary percentage to my study notes before I forget it. I go over the progressive delivery one more time before lunch. In the warm-up round, Priya says, \"First light, first tea.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I stretch before news.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Support, sales, and engineering agree on an SLO. There is a short paragraph about the responsive layout in the guide. I ask one good question about the breakpoint in the meeting. I add the canary percentage to my study notes before I forget it. I go over the progressive delivery one more time before lunch. In the warm-up round, Priya says, \"First light, first tea.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I stretch before news.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "en": "Support, sales, and engineering agree on an SLO. There is a short paragraph about the responsive layout in the guide. I ask one good question about the canary percentage in the meeting. In the warm-up round, Maria says, \"First light, first tea.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Support, sales, and engineering agree on an SLO. There is a short paragraph about the responsive layout in the guide. I ask one good question about the canary percentage in the meeting. In the warm-up round, Maria says, \"First light, first tea.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "支持、销售和工程三方就服务级别目标达成一致。指南里有一小段关于响应式布局的介绍。会上关于断点，我问了一个好问题。我趁还没忘，把金丝雀比例记进了学习笔记。午饭前我又过了一遍渐进交付。热身环节里，Priya说：\"晨光初现\"然后我们换角色，由我来问。热身环节里，Leo说：\"看新闻之前先拉伸。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
+   "zh": "支持、销售和工程三方就服务级别目标达成一致。指南里有一小段关于响应式布局的介绍。会上关于金丝雀比例，我问了一个好问题。热身环节里，Maria说：\"晨光初现\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "responsive layout",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I translate uptime into sentences a customer can feel. In the warm-up round, Priya says, \"The kettle is my alarm clock.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Morning pages, three lines.\" Then we swap roles and I ask it back. My notes about the touch target look clearer this week. Sam asks me about the safe area, and I explain the basics. I keep one real example of the deployment window in my notebook. I spend ten quiet minutes on the change failure rate after the standup. The task moves forward, and so does my confidence.",
-   "tts": "I translate uptime into sentences a customer can feel. In the warm-up round, Priya says, \"The kettle is my alarm clock.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Morning pages, three lines.\" Then we swap roles and I ask it back. My notes about the touch target look clearer this week. Sam asks me about the safe area, and I explain the basics. I keep one real example of the deployment window in my notebook. I spend ten quiet minutes on the change failure rate after the standup. The task moves forward, and so does my confidence.",
+   "en": "I translate uptime into sentences a customer can feel. In the warm-up round, Leo says, \"I stretch before news.\" Then we swap roles and I ask it back. I add the breakpoint to my study notes before I forget it. I go over the progressive delivery one more time before lunch. The task moves forward, and so does my confidence.",
+   "tts": "I translate uptime into sentences a customer can feel. In the warm-up round, Leo says, \"I stretch before news.\" Then we swap roles and I ask it back. I add the breakpoint to my study notes before I forget it. I go over the progressive delivery one more time before lunch. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我把在线时间翻译成客户能感受到的句子。热身环节里，Priya说：\"水壶是我的闹钟。\"然后我们换角色，由我来问。热身环节里，Leo说：\"晨间手记\"然后我们换角色，由我来问。这周我关于触控目标的笔记清楚多了。Sam 问起安全区，我讲了讲基础。我在笔记本里留了一个部署窗口的真实例子。站会之后，我安安静静花了十分钟在变更失败率上。任务在推进，我的信心也在成长。",
+   "zh": "我把在线时间翻译成客户能感受到的句子。热身环节里，Leo说：\"看新闻之前先拉伸。\"然后我们换角色，由我来问。我趁还没忘，把断点记进了学习笔记。午饭前我又过了一遍渐进交付。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "touch target",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the lead time in the guide. I ask one good question about the deployment frequency in the meeting. I add the orientation change to my study notes before I forget it. I go over the offline first one more time before lunch. In the warm-up round, Maria says, \"No phone for the first hour.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"The day begins gently.\" Then we swap roles and I ask it back. A promise you can measure is a promise you can keep.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the lead time in the guide. I ask one good question about the deployment frequency in the meeting. I add the orientation change to my study notes before I forget it. I go over the offline first one more time before lunch. In the warm-up round, Maria says, \"No phone for the first hour.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"The day begins gently.\" Then we swap roles and I ask it back. A promise you can measure is a promise you can keep.",
+   "en": "I translate uptime into sentences a customer can feel. My notes about the deployment window look clearer this week. Sam asks me about the touch target, and I explain the basics. In the warm-up round, Priya says, \"The kettle is my alarm clock.\" Then we swap roles and I ask it back. A promise you can measure is a promise you can keep.",
+   "tts": "I translate uptime into sentences a customer can feel. My notes about the deployment window look clearer this week. Sam asks me about the touch target, and I explain the basics. In the warm-up round, Priya says, \"The kettle is my alarm clock.\" Then we swap roles and I ask it back. A promise you can measure is a promise you can keep.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于前置时间的介绍。会上关于部署频率，我问了一个好问题。我趁还没忘，把横竖屏切换记进了学习笔记。午饭前我又过了一遍离线优先。热身环节里，Maria说：\"第一个小时不碰手机。\"然后我们换角色，由我来问。热身环节里，Priya说：\"一天从温柔开始。\"然后我们换角色，由我来问。能衡量的承诺，才是能守住的承诺。",
+   "zh": "我把在线时间翻译成客户能感受到的句子。这周我关于部署窗口的笔记清楚多了。Sam 问起触控目标，我讲了讲基础。热身环节里，Priya说：\"水壶是我的闹钟。\"然后我们换角色，由我来问。能衡量的承诺，才是能守住的承诺。",
    "hard": [
     {
      "w": "orientation change",
@@ -146,6 +146,33 @@
      "def": "部署频率，单位时间发布次数"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "A promise you can measure is a promise you can keep. I keep one real example of the safe area in my notebook. In the warm-up round, Priya says, \"Morning pages, three lines.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the change failure rate after the standup. Small progress today prepares the bigger step tomorrow.",
+   "tts": "A promise you can measure is a promise you can keep. I keep one real example of the safe area in my notebook. In the warm-up round, Priya says, \"Morning pages, three lines.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the change failure rate after the standup. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "能衡量的承诺，才是能守住的承诺。我在笔记本里留了一个安全区的真实例子。热身环节里，Priya说：\"晨间手记\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在变更失败率上。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "I translate uptime into sentences a customer can feel. In the warm-up round, Leo says, \"No phone for the first hour.\" Then we swap roles and I ask it back. There is a short paragraph about the lead time in the guide. I ask one good question about the orientation change in the meeting. The task moves forward, and so does my confidence.",
+   "tts": "I translate uptime into sentences a customer can feel. In the warm-up round, Leo says, \"No phone for the first hour.\" Then we swap roles and I ask it back. There is a short paragraph about the lead time in the guide. I ask one good question about the orientation change in the meeting. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我把在线时间翻译成客户能感受到的句子。热身环节里，Leo说：\"第一个小时不碰手机。\"然后我们换角色，由我来问。指南里有一小段关于前置时间的介绍。会上关于横竖屏切换，我问了一个好问题。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the deployment frequency to my study notes before I forget it. I go over the offline first one more time before lunch. In the warm-up round, Priya says, \"The day begins gently.\" Then we swap roles and I ask it back. A promise you can measure is a promise you can keep.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the deployment frequency to my study notes before I forget it. I go over the offline first one more time before lunch. In the warm-up round, Priya says, \"The day begins gently.\" Then we swap roles and I ask it back. A promise you can measure is a promise you can keep.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把部署频率记进了学习笔记。午饭前我又过了一遍离线优先。热身环节里，Priya说：\"一天从温柔开始。\"然后我们换角色，由我来问。能衡量的承诺，才是能守住的承诺。",
+   "hard": []
   }
  ],
  "chunks": [

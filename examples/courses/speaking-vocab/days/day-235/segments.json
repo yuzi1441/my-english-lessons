@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 365,
-   "segment_count": 3,
+   "word_count": 422,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I run a profiling workshop with our real hotspots. I compare two views on the serialization overhead and write both down honestly. Before deciding, I reread my notes about the compact wire format twice. Our mentor walks me through how the payload size report evolved on this team. I prepare a one-page brief about the field usage tracking so meetings start from facts. In the review drill, Priya says, \"Packing cubes compress chaos.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Vacuum bags for winter coats.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "I run a profiling workshop with our real hotspots. I compare two views on the serialization overhead and write both down honestly. Before deciding, I reread my notes about the compact wire format twice. Our mentor walks me through how the payload size report evolved on this team. I prepare a one-page brief about the field usage tracking so meetings start from facts. In the review drill, Priya says, \"Packing cubes compress chaos.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Vacuum bags for winter coats.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "I run a profiling workshop with our real hotspots. I compare two views on the serialization overhead and write both down honestly. Before deciding, I reread my notes about the payload size report twice. In the review drill, Maria says, \"Packing cubes compress chaos.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "I run a profiling workshop with our real hotspots. I compare two views on the serialization overhead and write both down honestly. Before deciding, I reread my notes about the payload size report twice. In the review drill, Maria says, \"Packing cubes compress chaos.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我用我们真实的热点开了场画像工作坊。我比较了关于序列化开销的两种观点，诚实地都记了下来。做决定之前，我把关于紧凑线格式的笔记重读了两遍。导师带我梳理了负载体积报告在这个团队里的演变。我准备了一页关于字段使用追踪的简报，好让会议从事实出发。评审演练中，Priya说：\"收纳袋压缩混乱。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"真空袋收冬衣。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我用我们真实的热点开了场画像工作坊。我比较了关于序列化开销的两种观点，诚实地都记了下来。做决定之前，我把关于负载体积报告的笔记重读了两遍。评审演练中，Maria说：\"收纳袋压缩混乱。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "serialization overhead",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Everyone leaves having personally deleted one slow line. In the review drill, Priya says, \"Fragile items get padding tax.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The carry on has strict schemas.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the schema evolution cost. During the design review, I raise one careful question about the deserialization on hot path. I add the format migration guide to the meeting agenda with three supporting facts. The team names one clear owner for the compatibility test for wire format. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Everyone leaves having personally deleted one slow line. In the review drill, Priya says, \"Fragile items get padding tax.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The carry on has strict schemas.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the schema evolution cost. During the design review, I raise one careful question about the deserialization on hot path. I add the format migration guide to the meeting agenda with three supporting facts. The team names one clear owner for the compatibility test for wire format. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Everyone leaves having personally deleted one slow line. In the review drill, Leo says, \"Vacuum bags for winter coats.\" We swap roles so I ask the questions this time. Our mentor walks me through how the compact wire format evolved on this team. I prepare a one-page brief about the field usage tracking so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Everyone leaves having personally deleted one slow line. In the review drill, Leo says, \"Vacuum bags for winter coats.\" We swap roles so I ask the questions this time. Our mentor walks me through how the compact wire format evolved on this team. I prepare a one-page brief about the field usage tracking so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每个人都亲手删掉了一行慢代码才离开。评审演练中，Priya说：\"易碎品交保护费。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"登机箱有严格结构。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了结构演进成本上。设计评审中，我就热路径反序列化提出了一个审慎的问题。我把格式迁移指南连同三条支撑事实加进了议程。团队为线格式的兼容测试指定了明确的负责人。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "每个人都亲手删掉了一行慢代码才离开。评审演练中，Leo说：\"真空袋收冬衣。\"我们互换角色，这次由我来提问。导师带我梳理了紧凑线格式在这个团队里的演变。我准备了一页关于字段使用追踪的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "schema evolution cost",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the serialization benchmark suite and write both down honestly. Before deciding, I reread my notes about the big payload alert twice. Our mentor walks me through how the payload field pruning evolved on this team. I prepare a one-page brief about the binary vs text format tradeoff so meetings start from facts. In the review drill, Maria says, \"Roll clothes, save space.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Unpack is part of packing.\" We swap roles so I ask the questions this time. Ownership of speed needs shared eyes.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the serialization benchmark suite and write both down honestly. Before deciding, I reread my notes about the big payload alert twice. Our mentor walks me through how the payload field pruning evolved on this team. I prepare a one-page brief about the binary vs text format tradeoff so meetings start from facts. In the review drill, Maria says, \"Roll clothes, save space.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Unpack is part of packing.\" We swap roles so I ask the questions this time. Ownership of speed needs shared eyes.",
+   "en": "Everyone leaves having personally deleted one slow line. We spend the first ten minutes of the review on the format migration guide. During the design review, I raise one careful question about the schema evolution cost. In the review drill, Priya says, \"Fragile items get padding tax.\" We swap roles so I ask the questions this time. Ownership of speed needs shared eyes.",
+   "tts": "Everyone leaves having personally deleted one slow line. We spend the first ten minutes of the review on the format migration guide. During the design review, I raise one careful question about the schema evolution cost. In the review drill, Priya says, \"Fragile items get padding tax.\" We swap roles so I ask the questions this time. Ownership of speed needs shared eyes.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于序列化基准套件的两种观点，诚实地都记了下来。做决定之前，我把关于大负载告警的笔记重读了两遍。导师带我梳理了字段瘦身在这个团队里的演变。我准备了一页关于二进制与文本格式取舍的简报，好让会议从事实出发。评审演练中，Maria说：\"卷衣服省空间。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"拆包也是打包的一部分。\"我们互换角色，这次由我来提问。速度的归属需要大家一起看。",
+   "zh": "每个人都亲手删掉了一行慢代码才离开。评审的前十分钟，我们都用在了格式迁移指南上。设计评审中，我就结构演进成本提出了一个审慎的问题。评审演练中，Priya说：\"易碎品交保护费。\"我们互换角色，这次由我来提问。速度的归属需要大家一起看。",
    "hard": [
     {
      "w": "payload field pruning",
@@ -146,6 +146,33 @@
      "def": "大负载告警，超重就通知"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Ownership of speed needs shared eyes. I add the deserialization on hot path to the meeting agenda with three supporting facts. In the review drill, Priya says, \"The carry on has strict schemas.\" We swap roles so I ask the questions this time. The team names one clear owner for the compatibility test for wire format. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Ownership of speed needs shared eyes. I add the deserialization on hot path to the meeting agenda with three supporting facts. In the review drill, Priya says, \"The carry on has strict schemas.\" We swap roles so I ask the questions this time. The team names one clear owner for the compatibility test for wire format. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "速度的归属需要大家一起看。我把热路径反序列化连同三条支撑事实加进了议程。评审演练中，Priya说：\"登机箱有严格结构。\"我们互换角色，这次由我来提问。团队为线格式的兼容测试指定了明确的负责人。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Everyone leaves having personally deleted one slow line. In the review drill, Leo says, \"Roll clothes, save space.\" We swap roles so I ask the questions this time. I compare two views on the serialization benchmark suite and write both down honestly. Before deciding, I reread my notes about the payload field pruning twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Everyone leaves having personally deleted one slow line. In the review drill, Leo says, \"Roll clothes, save space.\" We swap roles so I ask the questions this time. I compare two views on the serialization benchmark suite and write both down honestly. Before deciding, I reread my notes about the payload field pruning twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "每个人都亲手删掉了一行慢代码才离开。评审演练中，Leo说：\"卷衣服省空间。\"我们互换角色，这次由我来提问。我比较了关于序列化基准套件的两种观点，诚实地都记了下来。做决定之前，我把关于字段瘦身的笔记重读了两遍。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the big payload alert evolved on this team. I prepare a one-page brief about the binary vs text format tradeoff so meetings start from facts. In the review drill, Priya says, \"Unpack is part of packing.\" We swap roles so I ask the questions this time. Ownership of speed needs shared eyes.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the big payload alert evolved on this team. I prepare a one-page brief about the binary vs text format tradeoff so meetings start from facts. In the review drill, Priya says, \"Unpack is part of packing.\" We swap roles so I ask the questions this time. Ownership of speed needs shared eyes.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了大负载告警在这个团队里的演变。我准备了一页关于二进制与文本格式取舍的简报，好让会议从事实出发。评审演练中，Priya说：\"拆包也是打包的一部分。\"我们互换角色，这次由我来提问。速度的归属需要大家一起看。",
+   "hard": []
   }
  ],
  "chunks": [

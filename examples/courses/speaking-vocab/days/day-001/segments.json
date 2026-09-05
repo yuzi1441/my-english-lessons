@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 175,
+   "word_count": 282,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -30,50 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Today is Monday. It is my first day at a new job. My team makes a chat program. This is the hardware. The device is new to me. Maria shows me the repository. I look at the README file. Priya says, \"Nice to meet you.\" I nod and reply. Priya asks, \"How are you doing?\" I nod and reply. Maria helps me a lot.",
-   "tts": "Today is Monday. It is my first day at a new job. My team makes a chat program. This is the hardware. The device is new to me. Maria shows me the repository. I look at the read me file. Priya says, \"Nice to meet you.\" I nod and reply. Priya asks, \"How are you doing?\" I nod and reply. Maria helps me a lot.",
+   "en": "Today is my first day at a new job. I walk in and the office feels huge. Maria greets me at the door. \"Welcome! I'm Maria, your mentor. Let me show you around.\" She walks me to my desk. The monitor is bigger than I expected. \"This is your setup,\" she says. \"Monitor, keyboard, mouse — everything you need. The power button is on the right side.\" I press it and the screen lights up. \"Nice to meet you all,\" I say to the team. \"How are you doing?\" asks Leo from across the room.",
+   "tts": "Today is my first day at a new job. I walk in and the office feels huge. Maria greets me at the door. \"Welcome! I'm Maria, your mentor. Let me show you around.\" She walks me to my desk. The monitor is bigger than I expected. \"This is your setup,\" she says. \"Monitor, keyboard, mouse — everything you need. The power button is on the right side.\" I press it and the screen lights up. \"Nice to meet you all,\" I say to the team. \"How are you doing?\" asks Leo from across the room.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "今天是周一，是我新工作的第一天。我的团队在做一个聊天程序。这是硬件。设备对我来说很新。Maria 给我看了仓库。我看着README 文件。Priya说：\"很高兴认识你。\"我点头回应。Priya问：\"你最近怎么样？\"我点头回应。Maria 帮了我很多。",
-   "hard": [
-    {
-     "w": "hardware",
-     "type": "term",
-     "def": "硬件，电脑中可以实际触摸到的部件"
-    },
-    {
-     "w": "device",
-     "type": "term",
-     "def": "设备，用来完成某项工作的电子工具"
-    },
-    {
-     "w": "Nice to meet you.",
-     "type": "term",
-     "def": "很高兴认识你。"
-    },
-    {
-     "w": "How are you doing?",
-     "type": "term",
-     "def": "你最近怎么样？"
-    },
-    {
-     "w": "repository",
-     "type": "term",
-     "def": "仓库，集中存放项目代码和历史记录的地方"
-    },
-    {
-     "w": "README file",
-     "type": "term",
-     "def": "README 文件，介绍项目用途和使用方法的说明文件"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "At noon, Maria sits with me. She introduces the team. I practise the pattern out loud: My name is ... Priya says, \"I'm new here.\" I nod and reply. I point to the monitor. I see the keyboard. This is source code. The project folder is new to me. I feel good today.",
-   "tts": "At noon, Maria sits with me. She introduces the team. I practise the pattern out loud: My name is  Priya says, \"I'm new here.\" I nod and reply. I point to the monitor. I see the keyboard. This is source code. The project folder is new to me. I feel good today.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "中午，Maria 和我坐在一起。她把我介绍给团队。我大声练习这个句型：我的名字是……Priya说：\"我是新来的。\"我点头回应。我指着显示器。我看到了键盘。这是源代码。项目文件夹对我来说很新。我今天感觉很好。",
+   "zh": "今天是我新工作的第一天。我走进来，办公室感觉很大。Maria 在门口迎接我。\"欢迎！我是 Maria，你的导师。我带你转转。\"她带我走到我的桌前。显示器比我预想的大。\"这是你的设备，\"她说。\"显示器、键盘、鼠标——你需要的一切。电源按钮在右边。\"我按下它，屏幕亮了。\"很高兴见到大家，\"我对团队说。\"你怎么样？\"房间对面的 Leo 问。",
    "hard": [
     {
      "w": "monitor",
@@ -86,6 +46,31 @@
      "def": "键盘，用来输入文字和命令"
     },
     {
+     "w": "power button",
+     "type": "term",
+     "def": "电源按钮，用来开机或关机"
+    },
+    {
+     "w": "Nice to meet you.",
+     "type": "term",
+     "def": "很高兴认识你。"
+    },
+    {
+     "w": "How are you doing?",
+     "type": "term",
+     "def": "你最近怎么样？"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "At lunch, Maria introduces me to everyone. \"My name is Alex,\" I say. \"I'm new here.\" Priya smiles. \"Where are you from?\" she asks. I tell her about my hometown. After lunch, Maria opens a folder on my screen. \"This is our project folder,\" she explains. \"The source code lives here. We use code hosting on GitHub, so everything is in a public repository.\" I look at the screen. \"What's a repository?\" I ask. \"Think of it as a organised home for your code,\" she says.",
+   "tts": "At lunch, Maria introduces me to everyone. \"My name is Alex,\" I say. \"I'm new here.\" Priya smiles. \"Where are you from?\" she asks. I tell her about my hometown. After lunch, Maria opens a folder on my screen. \"This is our project folder,\" she explains. \"The source code lives here. We use code hosting on Git Hub, so everything is in a public repository.\" I look at the screen. \"What's a repository?\" I ask. \"Think of it as a organised home for your code,\" she says.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "午餐时，Maria 把我介绍给大家。\"我叫 Alex，\"我说。\"我是新来的。\"Priya 微笑了。\"你来自哪里？\"她问。我告诉她我的家乡。午餐后，Maria 在我的屏幕上打开一个文件夹。\"这是我们的项目文件夹，\"她解释。\"源代码在这里。我们用 GitHub 做代码托管，所以一切都在一个公开仓库里。\"我看着屏幕。\"什么是仓库？\"我问。\"把它想象成一个有序的代码之家，\"她说。",
+   "hard": [
+    {
      "w": "My name is ...",
      "type": "term",
      "def": "我的名字是……"
@@ -96,6 +81,11 @@
      "def": "我是新来的。"
     },
     {
+     "w": "Where are you from?",
+     "type": "term",
+     "def": "你来自哪里？"
+    },
+    {
      "w": "source code",
      "type": "term",
      "def": "源代码，程序员编写的程序文本"
@@ -104,36 +94,6 @@
      "w": "project folder",
      "type": "term",
      "def": "项目文件夹，保存一个项目相关文件的目录"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I do one last thing. Maria shows me code hosting. I look at the public repository. I point to the mouse. I see the power button. Priya asks, \"Where are you from?\" I nod and reply. Priya says, \"See you later.\" I nod and reply. I am tired, but happy. Tomorrow I will learn more.",
-   "tts": "Before I leave, I do one last thing. Maria shows me code hosting. I look at the public repository. I point to the mouse. I see the power button. Priya asks, \"Where are you from?\" I nod and reply. Priya says, \"See you later.\" I nod and reply. I am tired, but happy. Tomorrow I will learn more.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。Maria 给我看了代码托管。我看着公开仓库。我指着鼠标。我看到了电源按钮。Priya问：\"你来自哪里？\"我点头回应。Priya说：\"回头见。\"我点头回应。我有点累，但很开心。明天我会学到更多。",
-   "hard": [
-    {
-     "w": "mouse",
-     "type": "term",
-     "def": "鼠标，用来移动光标和点击"
-    },
-    {
-     "w": "power button",
-     "type": "term",
-     "def": "电源按钮，用来开机或关机"
-    },
-    {
-     "w": "Where are you from?",
-     "type": "term",
-     "def": "你来自哪里？"
-    },
-    {
-     "w": "See you later.",
-     "type": "term",
-     "def": "回头见。"
     },
     {
      "w": "code hosting",
@@ -144,6 +104,31 @@
      "w": "public repository",
      "type": "term",
      "def": "公开仓库，任何人都能查看的仓库"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "In the afternoon, Maria shows me the README file. \"Every good repository has one,\" she says. \"It explains what the project does and how to use it.\" I read it carefully. The README is clear and friendly. \"See you later,\" says Leo as he heads out. \"See you later!\" I reply. Before I leave, I look around the office one more time. My first day is almost over. The hardware is set up, the code is visible, and the team feels welcoming. I write in my notebook: 'Day 1 — learned about repositories, README files, and where the power button is.'",
+   "tts": "In the afternoon, Maria shows me the read me file. \"Every good repository has one,\" she says. \"It explains what the project does and how to use it.\" I read it carefully. The read me is clear and friendly. \"See you later,\" says Leo as he heads out. \"See you later!\" I reply. Before I leave, I look around the office one more time. My first day is almost over. The hardware is set up, the code is visible, and the team feels welcoming. I write in my notebook: 'Day 1 — learned about repositories, read me files, and where the power button is.'",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "下午，Maria 给我看 README 文件。\"每个好的仓库都有一个，\"她说。\"它解释了项目做什么以及怎么用。\"我仔细阅读。README 清晰友好。\"回头见，\"Leo 边往外走边说。\"回头见！\"我回答。离开前，我再环顾了一次办公室。我的第一天快结束了。硬件搭好了，代码看得见，团队也很友好。我在笔记本上写道：'第一天——学了仓库、README 文件，和电源按钮在哪。'",
+   "hard": [
+    {
+     "w": "README file",
+     "type": "term",
+     "def": "README 文件，介绍项目用途和使用方法的说明文件"
+    },
+    {
+     "w": "repository",
+     "type": "term",
+     "def": "仓库，集中存放项目代码和历史记录的地方"
+    },
+    {
+     "w": "See you later.",
+     "type": "term",
+     "def": "回头见。"
     }
    ]
   }

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 374,
-   "segment_count": 3,
+   "word_count": 444,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We threat model the drafts feature with snacks and sticky notes. I compare two views on the sql injection and write both down honestly. Our mentor walks me through how the input sanitization evolved on this team. I prepare a one-page brief about the sanitization test suite so meetings start from facts. I add the csp header check to the meeting agenda with three supporting facts. In the review drill, Leo says, \"If it is urgent, it is suspicious.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"I call back on the official number.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
-   "tts": "We threat model the drafts feature with snacks and sticky notes. I compare two views on the sql injection and write both down honestly. Our mentor walks me through how the input sanitization evolved on this team. I prepare a one-page brief about the sanitization test suite so meetings start from facts. I add the csp header check to the meeting agenda with three supporting facts. In the review drill, Leo says, \"If it is urgent, it is suspicious.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"I call back on the official number.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "en": "We threat model the drafts feature with snacks and sticky notes. I compare two views on the sql injection and write both down honestly. Our mentor walks me through how the sanitization test suite evolved on this team. In the review drill, Priya says, \"If it is urgent, it is suspicious.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "We threat model the drafts feature with snacks and sticky notes. I compare two views on the sql injection and write both down honestly. Our mentor walks me through how the sanitization test suite evolved on this team. In the review drill, Priya says, \"If it is urgent, it is suspicious.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们边吃零食边给草稿功能做威胁建模。我比较了关于SQL 注入的两种观点，诚实地都记了下来。导师带我梳理了输入净化在这个团队里的演变。我准备了一页关于净化测试套件的简报，好让会议从事实出发。我把CSP 响应头检查连同三条支撑事实加进了议程。评审演练中，Leo说：\"越催你越要怀疑。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"我回拨官方号码核实。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们边吃零食边给草稿功能做威胁建模。我比较了关于SQL 注入的两种观点，诚实地都记了下来。导师带我梳理了净化测试套件在这个团队里的演变。评审演练中，Priya说：\"越催你越要怀疑。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "sql injection",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" In the review drill, Leo says, \"Prize notices go straight to trash.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Family code word for emergencies.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the output encoding twice. We spend the first ten minutes of the review on the cross site scripting. During the design review, I raise one careful question about the csrf coverage report. The team names one clear owner for the injection finding template. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" In the review drill, Leo says, \"Prize notices go straight to trash.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Family code word for emergencies.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the output encoding twice. We spend the first ten minutes of the review on the cross site scripting. During the design review, I raise one careful question about the csrf coverage report. The team names one clear owner for the injection finding template. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" In the review drill, Maria says, \"I call back on the official number.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the input sanitization so meetings start from facts. I add the csp header check to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" In the review drill, Maria says, \"I call back on the official number.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the input sanitization so meetings start from facts. I add the csp header check to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Priya 问：“谁会滥用它？他们想在 T 恤上印什么战果？”评审演练中，Leo说：\"中奖通知直接进垃圾桶。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"家里有紧急暗号。\"我们互换角色，这次由我来提问。做决定之前，我把关于输出编码的笔记重读了两遍。评审的前十分钟，我们都用在了跨站脚本攻击上。设计评审中，我就CSRF 覆盖报告提出了一个审慎的问题。团队为注入发现模板指定了明确的负责人。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "Priya 问：“谁会滥用它？他们想在 T 恤上印什么战果？”评审演练中，Maria说：\"我回拨官方号码核实。\"我们互换角色，这次由我来提问。我准备了一页关于输入净化的简报，好让会议从事实出发。我把CSP 响应头检查连同三条支撑事实加进了议程。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "output encoding",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the escaper usage lint and write both down honestly. Our mentor walks me through how the parameterized only policy evolved on this team. I prepare a one-page brief about the csrf token so meetings start from facts. I add the parameterized query to the meeting agenda with three supporting facts. In the review drill, Priya says, \"The bank never asks for codes.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Scams update, skepticism updates faster.\" We swap roles so I ask the questions this time. Six abuse cases become six tests.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the escaper usage lint and write both down honestly. Our mentor walks me through how the parameterized only policy evolved on this team. I prepare a one-page brief about the csrf token so meetings start from facts. I add the parameterized query to the meeting agenda with three supporting facts. In the review drill, Priya says, \"The bank never asks for codes.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Scams update, skepticism updates faster.\" We swap roles so I ask the questions this time. Six abuse cases become six tests.",
+   "en": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" Before deciding, I reread my notes about the csrf coverage report twice. We spend the first ten minutes of the review on the output encoding. In the review drill, Leo says, \"Prize notices go straight to trash.\" We swap roles so I ask the questions this time. Six abuse cases become six tests.",
+   "tts": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" Before deciding, I reread my notes about the csrf coverage report twice. We spend the first ten minutes of the review on the output encoding. In the review drill, Leo says, \"Prize notices go straight to trash.\" We swap roles so I ask the questions this time. Six abuse cases become six tests.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于转义函数检查的两种观点，诚实地都记了下来。导师带我梳理了只许参数化在这个团队里的演变。我准备了一页关于CSRF 令牌的简报，好让会议从事实出发。我把参数化查询连同三条支撑事实加进了议程。评审演练中，Priya说：\"银行不会要你的验证码。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"骗局在更新\"我们互换角色，这次由我来提问。六个滥用案例变成了六个测试。",
+   "zh": "Priya 问：“谁会滥用它？他们想在 T 恤上印什么战果？”做决定之前，我把关于CSRF 覆盖报告的笔记重读了两遍。评审的前十分钟，我们都用在了输出编码上。评审演练中，Leo说：\"中奖通知直接进垃圾桶。\"我们互换角色，这次由我来提问。六个滥用案例变成了六个测试。",
    "hard": [
     {
      "w": "csrf token",
@@ -146,6 +146,33 @@
      "def": "只许参数化，字符串拼接下岗"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Six abuse cases become six tests. During the design review, I raise one careful question about the cross site scripting. In the review drill, Leo says, \"Family code word for emergencies.\" We swap roles so I ask the questions this time. The team names one clear owner for the injection finding template. We end the week with something shipped and something properly learned this time.",
+   "tts": "Six abuse cases become six tests. During the design review, I raise one careful question about the cross site scripting. In the review drill, Leo says, \"Family code word for emergencies.\" We swap roles so I ask the questions this time. The team names one clear owner for the injection finding template. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "六个滥用案例变成了六个测试。设计评审中，我就跨站脚本攻击提出了一个审慎的问题。评审演练中，Leo说：\"家里有紧急暗号。\"我们互换角色，这次由我来提问。团队为注入发现模板指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" In the review drill, Maria says, \"The bank never asks for codes.\" We swap roles so I ask the questions this time. I compare two views on the escaper usage lint and write both down honestly. Our mentor walks me through how the csrf token evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Priya asks, \"Who would abuse this, and what would they print on their t-shirt?\" In the review drill, Maria says, \"The bank never asks for codes.\" We swap roles so I ask the questions this time. I compare two views on the escaper usage lint and write both down honestly. Our mentor walks me through how the csrf token evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "Priya 问：“谁会滥用它？他们想在 T 恤上印什么战果？”评审演练中，Maria说：\"银行不会要你的验证码。\"我们互换角色，这次由我来提问。我比较了关于转义函数检查的两种观点，诚实地都记了下来。导师带我梳理了CSRF 令牌在这个团队里的演变。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the parameterized only policy so meetings start from facts. I add the parameterized query to the meeting agenda with three supporting facts. In the review drill, Leo says, \"Scams update, skepticism updates faster.\" We swap roles so I ask the questions this time. Six abuse cases become six tests.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the parameterized only policy so meetings start from facts. I add the parameterized query to the meeting agenda with three supporting facts. In the review drill, Leo says, \"Scams update, skepticism updates faster.\" We swap roles so I ask the questions this time. Six abuse cases become six tests.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于只许参数化的简报，好让会议从事实出发。我把参数化查询连同三条支撑事实加进了议程。评审演练中，Leo说：\"骗局在更新\"我们互换角色，这次由我来提问。六个滥用案例变成了六个测试。",
+   "hard": []
   }
  ],
  "chunks": [

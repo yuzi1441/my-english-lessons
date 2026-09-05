@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 323,
-   "segment_count": 3,
+   "word_count": 382,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Thursdays, QA partner Dan and I test side by side. I spend ten quiet minutes on the consumer contract after the standup. I add the provider verification to my study notes before I forget it. I ask one good question about the time to first review in the meeting. I go over the review depth one more time before lunch. In the warm-up round, Leo says, \"Basil on the balcony.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Water in the morning.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "Thursdays, Q A partner Dan and I test side by side. I spend ten quiet minutes on the consumer contract after the standup. I add the provider verification to my study notes before I forget it. I ask one good question about the time to first review in the meeting. I go over the review depth one more time before lunch. In the warm-up round, Leo says, \"Basil on the balcony.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Water in the morning.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "Thursdays, QA partner Dan and I test side by side. I spend ten quiet minutes on the consumer contract after the standup. I add the time to first review to my study notes before I forget it. In the warm-up round, Priya says, \"Basil on the balcony.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "Thursdays, Q A partner Dan and I test side by side. I spend ten quiet minutes on the consumer contract after the standup. I add the time to first review to my study notes before I forget it. In the warm-up round, Priya says, \"Basil on the balcony.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "每周四，测试搭档 Dan 和我并肩测试。站会之后，我安安静静花了十分钟在消费方契约上。我趁还没忘，把提供方验证记进了学习笔记。会上关于首次评审时间，我问了一个好问题。午饭前我又过了一遍评审深度。热身环节里，Leo说：\"阳台上的罗勒。\"然后我们换角色，由我来问。热身环节里，Maria说：\"清晨浇水。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "每周四，测试搭档 Dan 和我并肩测试。站会之后，我安安静静花了十分钟在消费方契约上。我趁还没忘，把首次评审时间记进了学习笔记。热身环节里，Priya说：\"阳台上的罗勒。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "consumer contract",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "He breaks my feature in eight minutes; I buy him coffee and gratitude. In the warm-up round, Leo says, \"Too much love drowns herbs.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"First tomato victory.\" Then we swap roles and I ask it back. There is a short paragraph about the contract file in the guide. My notes about the versioned contract look clearer this week. Sam asks me about the comment quality, and I explain the basics. I keep one real example of the ping-pong size in my notebook. Small progress today prepares the bigger step tomorrow.",
-   "tts": "He breaks my feature in eight minutes; I buy him coffee and gratitude. In the warm-up round, Leo says, \"Too much love drowns herbs.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"First tomato victory.\" Then we swap roles and I ask it back. There is a short paragraph about the contract file in the guide. My notes about the versioned contract look clearer this week. Sam asks me about the comment quality, and I explain the basics. I keep one real example of the ping-pong size in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "en": "He breaks my feature in eight minutes; I buy him coffee and gratitude. In the warm-up round, Maria says, \"Water in the morning.\" Then we swap roles and I ask it back. I ask one good question about the provider verification in the meeting. I go over the review depth one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "tts": "He breaks my feature in eight minutes; I buy him coffee and gratitude. In the warm-up round, Maria says, \"Water in the morning.\" Then we swap roles and I ask it back. I ask one good question about the provider verification in the meeting. I go over the review depth one more time before lunch. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "他八分钟就弄坏了我写的功能；我请他喝咖啡并道谢。热身环节里，Leo说：\"爱太多会淹死香草。\"然后我们换角色，由我来问。热身环节里，Maria说：\"第一颗番茄的胜利。\"然后我们换角色，由我来问。指南里有一小段关于契约文件的介绍。这周我关于版本化契约的笔记清楚多了。Sam 问起评论质量，我讲了讲基础。我在笔记本里留了一个乒乓大小的真实例子。今天的小进步为明天更大的跨越做准备。",
+   "zh": "他八分钟就弄坏了我写的功能；我请他喝咖啡并道谢。热身环节里，Maria说：\"清晨浇水。\"然后我们换角色，由我来问。会上关于提供方验证，我问了一个好问题。午饭前我又过了一遍评审深度。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "contract file",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the approval rate trend after the standup. I add the reviewer fatigue to my study notes before I forget it. I ask one good question about the contract test in ci in the meeting. I go over the breaking change alarm one more time before lunch. In the warm-up round, Priya says, \"Bugs happen, share leaves.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Homegrown tastes louder.\" Then we swap roles and I ask it back. Two keyboards find what one keyboard hides.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the approval rate trend after the standup. I add the reviewer fatigue to my study notes before I forget it. I ask one good question about the contract test in ci in the meeting. I go over the breaking change alarm one more time before lunch. In the warm-up round, Priya says, \"Bugs happen, share leaves.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Homegrown tastes louder.\" Then we swap roles and I ask it back. Two keyboards find what one keyboard hides.",
+   "en": "He breaks my feature in eight minutes; I buy him coffee and gratitude. There is a short paragraph about the comment quality in the guide. My notes about the contract file look clearer this week. In the warm-up round, Leo says, \"Too much love drowns herbs.\" Then we swap roles and I ask it back. Two keyboards find what one keyboard hides.",
+   "tts": "He breaks my feature in eight minutes; I buy him coffee and gratitude. There is a short paragraph about the comment quality in the guide. My notes about the contract file look clearer this week. In the warm-up round, Leo says, \"Too much love drowns herbs.\" Then we swap roles and I ask it back. Two keyboards find what one keyboard hides.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在批准率趋势上。我趁还没忘，把评审疲劳记进了学习笔记。会上关于CI 契约测试，我问了一个好问题。午饭前我又过了一遍破坏性变更警报。热身环节里，Priya说：\"虫子也会来\"然后我们换角色，由我来问。热身环节里，Leo说：\"自己种的更响亮。\"然后我们换角色，由我来问。两副键盘能找到一副键盘藏起来的问题。",
+   "zh": "他八分钟就弄坏了我写的功能；我请他喝咖啡并道谢。指南里有一小段关于评论质量的介绍。这周我关于契约文件的笔记清楚多了。热身环节里，Leo说：\"爱太多会淹死香草。\"然后我们换角色，由我来问。两副键盘能找到一副键盘藏起来的问题。",
    "hard": [
     {
      "w": "contract test in ci",
@@ -146,6 +146,33 @@
      "def": "评审疲劳，负荷重了质量掉"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Two keyboards find what one keyboard hides. Sam asks me about the versioned contract, and I explain the basics. In the warm-up round, Leo says, \"First tomato victory.\" Then we swap roles and I ask it back. I keep one real example of the ping-pong size in my notebook. I end the day with fewer unknowns than I started with.",
+   "tts": "Two keyboards find what one keyboard hides. Sam asks me about the versioned contract, and I explain the basics. In the warm-up round, Leo says, \"First tomato victory.\" Then we swap roles and I ask it back. I keep one real example of the ping-pong size in my notebook. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "两副键盘能找到一副键盘藏起来的问题。Sam 问起版本化契约，我讲了讲基础。热身环节里，Leo说：\"第一颗番茄的胜利。\"然后我们换角色，由我来问。我在笔记本里留了一个乒乓大小的真实例子。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "He breaks my feature in eight minutes; I buy him coffee and gratitude. In the warm-up round, Maria says, \"Bugs happen, share leaves.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the approval rate trend after the standup. I add the contract test in ci to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
+   "tts": "He breaks my feature in eight minutes; I buy him coffee and gratitude. In the warm-up round, Maria says, \"Bugs happen, share leaves.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the approval rate trend after the standup. I add the contract test in ci to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "他八分钟就弄坏了我写的功能；我请他喝咖啡并道谢。热身环节里，Maria说：\"虫子也会来\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在批准率趋势上。我趁还没忘，把CI 契约测试记进了学习笔记。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the reviewer fatigue in the meeting. I go over the breaking change alarm one more time before lunch. In the warm-up round, Leo says, \"Homegrown tastes louder.\" Then we swap roles and I ask it back. Two keyboards find what one keyboard hides.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the reviewer fatigue in the meeting. I go over the breaking change alarm one more time before lunch. In the warm-up round, Leo says, \"Homegrown tastes louder.\" Then we swap roles and I ask it back. Two keyboards find what one keyboard hides.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于评审疲劳，我问了一个好问题。午饭前我又过了一遍破坏性变更警报。热身环节里，Leo说：\"自己种的更响亮。\"然后我们换角色，由我来问。两副键盘能找到一副键盘藏起来的问题。",
+   "hard": []
   }
  ],
  "chunks": [

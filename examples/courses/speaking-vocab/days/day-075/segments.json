@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 316,
-   "segment_count": 3,
+   "word_count": 365,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Leo shows me a flame graph of the save path. Sam asks me about the traffic replay, and I explain the basics. I ask one good question about the shadow traffic in the meeting. I go over the symbol search one more time before lunch. I add the history search to my study notes before I forget it. In the warm-up round, Leo says, \"Rush hour is a sociology class.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Everyone reads on the line.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "Leo shows me a flame graph of the save path. Sam asks me about the traffic replay, and I explain the basics. I ask one good question about the shadow traffic in the meeting. I go over the symbol search one more time before lunch. I add the history search to my study notes before I forget it. In the warm-up round, Leo says, \"Rush hour is a sociology class.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Everyone reads on the line.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "Leo shows me a flame graph of the save path. Sam asks me about the traffic replay, and I explain the basics. I ask one good question about the symbol search in the meeting. In the warm-up round, Priya says, \"Rush hour is a sociology class.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "Leo shows me a flame graph of the save path. Sam asks me about the traffic replay, and I explain the basics. I ask one good question about the symbol search in the meeting. In the warm-up round, Priya says, \"Rush hour is a sociology class.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Leo 给我看了保存路径的火焰图。Sam 问起流量回放，我讲了讲基础。会上关于影子流量，我问了一个好问题。午饭前我又过了一遍符号搜索。我趁还没忘，把历史搜索记进了学习笔记。热身环节里，Leo说：\"高峰期是一堂社会学课。\"然后我们换角色，由我来问。热身环节里，Maria说：\"地铁上人人都在阅读。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "Leo 给我看了保存路径的火焰图。Sam 问起流量回放，我讲了讲基础。会上关于符号搜索，我问了一个好问题。热身环节里，Priya说：\"高峰期是一堂社会学课。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "traffic replay",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One wide tower of blocks points at the culprit function. In the warm-up round, Leo says, \"I give up my seat sometimes.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The last train is quiet.\" Then we swap roles and I ask it back. Maria watches while I diff the responses. I keep one real example of the replay safety in my notebook. I spend ten quiet minutes on the search scope after the standup. There is a short paragraph about the saved search in the guide. Small progress today prepares the bigger step tomorrow.",
-   "tts": "One wide tower of blocks points at the culprit function. In the warm-up round, Leo says, \"I give up my seat sometimes.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The last train is quiet.\" Then we swap roles and I ask it back. Maria watches while I diff the responses. I keep one real example of the replay safety in my notebook. I spend ten quiet minutes on the search scope after the standup. There is a short paragraph about the saved search in the guide. Small progress today prepares the bigger step tomorrow.",
+   "en": "One wide tower of blocks points at the culprit function. In the warm-up round, Maria says, \"Everyone reads on the line.\" Then we swap roles and I ask it back. I go over the shadow traffic one more time before lunch. I add the history search to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
+   "tts": "One wide tower of blocks points at the culprit function. In the warm-up round, Maria says, \"Everyone reads on the line.\" Then we swap roles and I ask it back. I go over the shadow traffic one more time before lunch. I add the history search to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一柱宽宽的方块指向了肇事函数。热身环节里，Leo说：\"我有时会让座。\"然后我们换角色，由我来问。热身环节里，Maria说：\"末班车很安静。\"然后我们换角色，由我来问。Maria 看着我比对响应。我在笔记本里留了一个回放安全的真实例子。站会之后，我安安静静花了十分钟在搜索范围上。指南里有一小段关于保存的搜索的介绍。今天的小进步为明天更大的跨越做准备。",
+   "zh": "一柱宽宽的方块指向了肇事函数。热身环节里，Maria说：\"地铁上人人都在阅读。\"然后我们换角色，由我来问。午饭前我又过了一遍影子流量。我趁还没忘，把历史搜索记进了学习笔记。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "diff the responses",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the code spotlight look clearer this week. Sam asks me about the jump to definition, and I explain the basics. I ask one good question about the load profile in the meeting. I go over the peak rehearsal one more time before lunch. In the warm-up round, Priya says, \"Strangers smile at delays together.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"We're all just going home.\" Then we swap roles and I ask it back. Measure first; opinions come after.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the code spotlight look clearer this week. Sam asks me about the jump to definition, and I explain the basics. I ask one good question about the load profile in the meeting. I go over the peak rehearsal one more time before lunch. In the warm-up round, Priya says, \"Strangers smile at delays together.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"We're all just going home.\" Then we swap roles and I ask it back. Measure first; opinions come after.",
+   "en": "One wide tower of blocks points at the culprit function. I keep one real example of the search scope in my notebook. Maria watches while I diff the responses. In the warm-up round, Leo says, \"I give up my seat sometimes.\" Then we swap roles and I ask it back. Measure first; opinions come after.",
+   "tts": "One wide tower of blocks points at the culprit function. I keep one real example of the search scope in my notebook. Maria watches while I diff the responses. In the warm-up round, Leo says, \"I give up my seat sometimes.\" Then we swap roles and I ask it back. Measure first; opinions come after.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于代码聚焦的笔记清楚多了。Sam 问起跳转定义，我讲了讲基础。会上关于负载画像，我问了一个好问题。午饭前我又过了一遍高峰彩排。热身环节里，Priya说：\"延误时陌生人相视一笑。\"然后我们换角色，由我来问。热身环节里，Leo说：\"我们都只是在回家的路上。\"然后我们换角色，由我来问。先测量，再谈观点。",
+   "zh": "一柱宽宽的方块指向了肇事函数。我在笔记本里留了一个搜索范围的真实例子。Maria 看着我比对响应。热身环节里，Leo说：\"我有时会让座。\"然后我们换角色，由我来问。先测量，再谈观点。",
    "hard": [
     {
      "w": "load profile",
@@ -146,6 +146,33 @@
      "def": "跳转定义，直达函数声明的导航"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Measure first; opinions come after. I spend ten quiet minutes on the replay safety after the standup. In the warm-up round, Leo says, \"The last train is quiet.\" Then we swap roles and I ask it back. There is a short paragraph about the saved search in the guide. I end the day with fewer unknowns than I started with.",
+   "tts": "Measure first; opinions come after. I spend ten quiet minutes on the replay safety after the standup. In the warm-up round, Leo says, \"The last train is quiet.\" Then we swap roles and I ask it back. There is a short paragraph about the saved search in the guide. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "先测量，再谈观点。站会之后，我安安静静花了十分钟在回放安全上。热身环节里，Leo说：\"末班车很安静。\"然后我们换角色，由我来问。指南里有一小段关于保存的搜索的介绍。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "One wide tower of blocks points at the culprit function. In the warm-up round, Maria says, \"Strangers smile at delays together.\" Then we swap roles and I ask it back. My notes about the code spotlight look clearer this week. Sam asks me about the load profile, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "tts": "One wide tower of blocks points at the culprit function. In the warm-up round, Maria says, \"Strangers smile at delays together.\" Then we swap roles and I ask it back. My notes about the code spotlight look clearer this week. Sam asks me about the load profile, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "一柱宽宽的方块指向了肇事函数。热身环节里，Maria说：\"延误时陌生人相视一笑。\"然后我们换角色，由我来问。这周我关于代码聚焦的笔记清楚多了。Sam 问起负载画像，我讲了讲基础。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the jump to definition in the meeting. I go over the peak rehearsal one more time before lunch. In the warm-up round, Leo says, \"We're all just going home.\" Then we swap roles and I ask it back. Measure first; opinions come after.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the jump to definition in the meeting. I go over the peak rehearsal one more time before lunch. In the warm-up round, Leo says, \"We're all just going home.\" Then we swap roles and I ask it back. Measure first; opinions come after.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于跳转定义，我问了一个好问题。午饭前我又过了一遍高峰彩排。热身环节里，Leo说：\"我们都只是在回家的路上。\"然后我们换角色，由我来问。先测量，再谈观点。",
+   "hard": []
   }
  ],
  "chunks": [

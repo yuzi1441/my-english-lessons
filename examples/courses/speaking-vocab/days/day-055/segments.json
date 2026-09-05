@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 313,
-   "segment_count": 3,
+   "word_count": 368,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria pins a line chart of drafts saved per day. Sam asks me about the line chart, and I explain the basics. My notes about the bar chart look clearer this week. I go over the board column one more time before lunch. I ask one good question about the card automation in the meeting. In the warm-up round, Priya says, \"I track my spending.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I set a monthly budget.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Maria pins a line chart of drafts saved per day. Sam asks me about the line chart, and I explain the basics. My notes about the bar chart look clearer this week. I go over the board column one more time before lunch. I ask one good question about the card automation in the meeting. In the warm-up round, Priya says, \"I track my spending.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I set a monthly budget.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "en": "Maria pins a line chart of drafts saved per day. Sam asks me about the line chart, and I explain the basics. My notes about the board column look clearer this week. In the warm-up round, Maria says, \"I track my spending.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Maria pins a line chart of drafts saved per day. Sam asks me about the line chart, and I explain the basics. My notes about the board column look clearer this week. In the warm-up round, Maria says, \"I track my spending.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 把一张每日草稿保存数的折线图钉在墙上。Sam 问起折线图，我讲了讲基础。这周我关于柱状图的笔记清楚多了。午饭前我又过了一遍看板列。会上关于卡片自动化，我问了一个好问题。热身环节里，Priya说：\"我记录自己的开销。\"然后我们换角色，由我来问。热身环节里，Leo说：\"我设了每月预算。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
+   "zh": "Maria 把一张每日草稿保存数的折线图钉在墙上。Sam 问起折线图，我讲了讲基础。这周我关于看板列的笔记清楚多了。热身环节里，Maria说：\"我记录自己的开销。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "line chart",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The tooltip tells a story: spikes after lunch, quiet at night. In the warm-up round, Priya says, \"Subscriptions add up.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I cook more to save money.\" Then we swap roles and I ask it back. I add the legend to my study notes before I forget it. I keep one real example of the axis label in my notebook. I spend ten quiet minutes on the workflow state after the standup. There is a short paragraph about the board view in the guide. The task moves forward, and so does my confidence.",
-   "tts": "The tooltip tells a story: spikes after lunch, quiet at night. In the warm-up round, Priya says, \"Subscriptions add up.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I cook more to save money.\" Then we swap roles and I ask it back. I add the legend to my study notes before I forget it. I keep one real example of the axis label in my notebook. I spend ten quiet minutes on the workflow state after the standup. There is a short paragraph about the board view in the guide. The task moves forward, and so does my confidence.",
+   "en": "The tooltip tells a story: spikes after lunch, quiet at night. In the warm-up round, Leo says, \"I set a monthly budget.\" Then we swap roles and I ask it back. I go over the bar chart one more time before lunch. I ask one good question about the card automation in the meeting. The task moves forward, and so does my confidence.",
+   "tts": "The tooltip tells a story: spikes after lunch, quiet at night. In the warm-up round, Leo says, \"I set a monthly budget.\" Then we swap roles and I ask it back. I go over the bar chart one more time before lunch. I ask one good question about the card automation in the meeting. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "悬浮提示讲了一个故事：午饭后是高峰，深夜很安静。热身环节里，Priya说：\"订阅费用累积得很快。\"然后我们换角色，由我来问。热身环节里，Leo说：\"我多做饭来省钱。\"然后我们换角色，由我来问。我趁还没忘，把图例记进了学习笔记。我在笔记本里留了一个坐标轴标签的真实例子。站会之后，我安安静静花了十分钟在工作流状态上。指南里有一小段关于看板视图的介绍。任务在推进，我的信心也在成长。",
+   "zh": "悬浮提示讲了一个故事：午饭后是高峰，深夜很安静。热身环节里，Leo说：\"我设了每月预算。\"然后我们换角色，由我来问。午饭前我又过了一遍柱状图。会上关于卡片自动化，我问了一个好问题。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "legend",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the table view, and I explain the basics. My notes about the archived card look clearer this week. I go over the tooltip one more time before lunch. I ask one good question about the data point in the meeting. In the warm-up round, Maria says, \"It's worth the price.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I opened a savings account.\" Then we swap roles and I ask it back. A data point is a person pressing save.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the table view, and I explain the basics. My notes about the archived card look clearer this week. I go over the tooltip one more time before lunch. I ask one good question about the data point in the meeting. In the warm-up round, Maria says, \"It's worth the price.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I opened a savings account.\" Then we swap roles and I ask it back. A data point is a person pressing save.",
+   "en": "The tooltip tells a story: spikes after lunch, quiet at night. I add the workflow state to my study notes before I forget it. I keep one real example of the legend in my notebook. In the warm-up round, Priya says, \"Subscriptions add up.\" Then we swap roles and I ask it back. A data point is a person pressing save.",
+   "tts": "The tooltip tells a story: spikes after lunch, quiet at night. I add the workflow state to my study notes before I forget it. I keep one real example of the legend in my notebook. In the warm-up round, Priya says, \"Subscriptions add up.\" Then we swap roles and I ask it back. A data point is a person pressing save.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起表格视图，我讲了讲基础。这周我关于归档卡片的笔记清楚多了。午饭前我又过了一遍悬浮提示。会上关于数据点，我问了一个好问题。热身环节里，Maria说：\"这东西物有所值。\"然后我们换角色，由我来问。热身环节里，Priya说：\"我开了个储蓄账户。\"然后我们换角色，由我来问。每个数据点都是一位按下保存的人。",
+   "zh": "悬浮提示讲了一个故事：午饭后是高峰，深夜很安静。我趁还没忘，把工作流状态记进了学习笔记。我在笔记本里留了一个图例的真实例子。热身环节里，Priya说：\"订阅费用累积得很快。\"然后我们换角色，由我来问。每个数据点都是一位按下保存的人。",
    "hard": [
     {
      "w": "tooltip",
@@ -146,6 +146,33 @@
      "def": "归档卡片，完成事项的封存记录"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "A data point is a person pressing save. I spend ten quiet minutes on the axis label after the standup. In the warm-up round, Priya says, \"I cook more to save money.\" Then we swap roles and I ask it back. There is a short paragraph about the board view in the guide. Small progress today prepares the bigger step tomorrow.",
+   "tts": "A data point is a person pressing save. I spend ten quiet minutes on the axis label after the standup. In the warm-up round, Priya says, \"I cook more to save money.\" Then we swap roles and I ask it back. There is a short paragraph about the board view in the guide. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "每个数据点都是一位按下保存的人。站会之后，我安安静静花了十分钟在坐标轴标签上。热身环节里，Priya说：\"我多做饭来省钱。\"然后我们换角色，由我来问。指南里有一小段关于看板视图的介绍。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The tooltip tells a story: spikes after lunch, quiet at night. In the warm-up round, Leo says, \"It's worth the price.\" Then we swap roles and I ask it back. Sam asks me about the table view, and I explain the basics. My notes about the tooltip look clearer this week. The task moves forward, and so does my confidence.",
+   "tts": "The tooltip tells a story: spikes after lunch, quiet at night. In the warm-up round, Leo says, \"It's worth the price.\" Then we swap roles and I ask it back. Sam asks me about the table view, and I explain the basics. My notes about the tooltip look clearer this week. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "悬浮提示讲了一个故事：午饭后是高峰，深夜很安静。热身环节里，Leo说：\"这东西物有所值。\"然后我们换角色，由我来问。Sam 问起表格视图，我讲了讲基础。这周我关于悬浮提示的笔记清楚多了。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the archived card one more time before lunch. I ask one good question about the data point in the meeting. In the warm-up round, Priya says, \"I opened a savings account.\" Then we swap roles and I ask it back. A data point is a person pressing save.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the archived card one more time before lunch. I ask one good question about the data point in the meeting. In the warm-up round, Priya says, \"I opened a savings account.\" Then we swap roles and I ask it back. A data point is a person pressing save.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍归档卡片。会上关于数据点，我问了一个好问题。热身环节里，Priya说：\"我开了个储蓄账户。\"然后我们换角色，由我来问。每个数据点都是一位按下保存的人。",
+   "hard": []
   }
  ],
  "chunks": [

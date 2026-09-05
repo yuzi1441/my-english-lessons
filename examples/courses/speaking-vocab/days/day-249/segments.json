@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 374,
-   "segment_count": 3,
+   "word_count": 448,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Our web firewall blocks a customer with a perfectly normal name. Our mentor walks me through how the containment playbook evolved on this team. I compare two views on the break glass account and write both down honestly. I add the security incident channel to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the evidence collection checklist twice. In the review drill, Leo says, \"The emergency bag lives by the door.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Meeting point agreed twice a year.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
-   "tts": "Our web firewall blocks a customer with a perfectly normal name. Our mentor walks me through how the containment playbook evolved on this team. I compare two views on the break glass account and write both down honestly. I add the security incident channel to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the evidence collection checklist twice. In the review drill, Leo says, \"The emergency bag lives by the door.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Meeting point agreed twice a year.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "en": "Our web firewall blocks a customer with a perfectly normal name. Our mentor walks me through how the containment playbook evolved on this team. I compare two views on the security incident channel and write both down honestly. In the review drill, Priya says, \"The emergency bag lives by the door.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "Our web firewall blocks a customer with a perfectly normal name. Our mentor walks me through how the containment playbook evolved on this team. I compare two views on the security incident channel and write both down honestly. In the review drill, Priya says, \"The emergency bag lives by the door.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "防火墙拦下了一位名字完全正常的客户。导师带我梳理了遏制手册在这个团队里的演变。我比较了关于应急账户的两种观点，诚实地都记了下来。我把安全事件频道连同三条支撑事实加进了议程。做决定之前，我把关于证据收集清单的笔记重读了两遍。评审演练中，Leo说：\"应急包住在门口。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"集合点一年确认两次。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "防火墙拦下了一位名字完全正常的客户。导师带我梳理了遏制手册在这个团队里的演变。我比较了关于安全事件频道的两种观点，诚实地都记了下来。评审演练中，Priya说：\"应急包住在门口。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "containment playbook",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We tune rules together: strict enough to stop injections, kind enough to keep guests. In the review drill, Leo says, \"Water for three days, checked.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Copies of documents in the cloud.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the incident bridge policy so meetings start from facts. We spend the first ten minutes of the review on the isolation procedure. During the design review, I raise one careful question about the containment action log. The team names one clear owner for the escalation tree for security. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "We tune rules together: strict enough to stop injections, kind enough to keep guests. In the review drill, Leo says, \"Water for three days, checked.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Copies of documents in the cloud.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the incident bridge policy so meetings start from facts. We spend the first ten minutes of the review on the isolation procedure. During the design review, I raise one careful question about the containment action log. The team names one clear owner for the escalation tree for security. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "We tune rules together: strict enough to stop injections, kind enough to keep guests. In the review drill, Maria says, \"Meeting point agreed twice a year.\" We swap roles so I ask the questions this time. I add the break glass account to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the evidence collection checklist twice. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We tune rules together: strict enough to stop injections, kind enough to keep guests. In the review drill, Maria says, \"Meeting point agreed twice a year.\" We swap roles so I ask the questions this time. I add the break glass account to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the evidence collection checklist twice. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们一起调规则：严到拦住注入，好到留住客人。评审演练中，Leo说：\"三天的水\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"证件扫描件在云端。\"我们互换角色，这次由我来提问。我准备了一页关于应急会议政策的简报，好让会议从事实出发。评审的前十分钟，我们都用在了隔离流程上。设计评审中，我就遏制动作日志提出了一个审慎的问题。团队为安全升级树指定了明确的负责人。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们一起调规则：严到拦住注入，好到留住客人。评审演练中，Maria说：\"集合点一年确认两次。\"我们互换角色，这次由我来提问。我把应急账户连同三条支撑事实加进了议程。做决定之前，我把关于证据收集清单的笔记重读了两遍。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "incident bridge policy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the forensic handoff guide evolved on this team. I compare two views on the recovery verification plan and write both down honestly. I add the forensics basics to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the indicator of compromise twice. In the review drill, Priya says, \"The plan fits on one card.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Drills make calm possible.\" We swap roles so I ask the questions this time. A firewall should never be the rudest employee.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the forensic handoff guide evolved on this team. I compare two views on the recovery verification plan and write both down honestly. I add the forensics basics to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the indicator of compromise twice. In the review drill, Priya says, \"The plan fits on one card.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Drills make calm possible.\" We swap roles so I ask the questions this time. A firewall should never be the rudest employee.",
+   "en": "We tune rules together: strict enough to stop injections, kind enough to keep guests. I prepare a one-page brief about the containment action log so meetings start from facts. We spend the first ten minutes of the review on the incident bridge policy. In the review drill, Leo says, \"Water for three days, checked.\" We swap roles so I ask the questions this time. A firewall should never be the rudest employee.",
+   "tts": "We tune rules together: strict enough to stop injections, kind enough to keep guests. I prepare a one-page brief about the containment action log so meetings start from facts. We spend the first ten minutes of the review on the incident bridge policy. In the review drill, Leo says, \"Water for three days, checked.\" We swap roles so I ask the questions this time. A firewall should never be the rudest employee.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了取证交接指南在这个团队里的演变。我比较了关于恢复验证计划的两种观点，诚实地都记了下来。我把取证基础连同三条支撑事实加进了议程。做决定之前，我把关于失陷指标的笔记重读了两遍。评审演练中，Priya说：\"预案只有一张卡。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"演练让冷静成为可能。\"我们互换角色，这次由我来提问。防火墙不该是最没礼貌的员工。",
+   "zh": "我们一起调规则：严到拦住注入，好到留住客人。我准备了一页关于遏制动作日志的简报，好让会议从事实出发。评审的前十分钟，我们都用在了应急会议政策上。评审演练中，Leo说：\"三天的水\"我们互换角色，这次由我来提问。防火墙不该是最没礼貌的员工。",
    "hard": [
     {
      "w": "forensics basics",
@@ -146,6 +146,33 @@
      "def": "恢复验证计划，回来要验身"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "A firewall should never be the rudest employee. During the design review, I raise one careful question about the isolation procedure. In the review drill, Leo says, \"Copies of documents in the cloud.\" We swap roles so I ask the questions this time. The team names one clear owner for the escalation tree for security. We end the week with something shipped and something properly learned this time.",
+   "tts": "A firewall should never be the rudest employee. During the design review, I raise one careful question about the isolation procedure. In the review drill, Leo says, \"Copies of documents in the cloud.\" We swap roles so I ask the questions this time. The team names one clear owner for the escalation tree for security. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "防火墙不该是最没礼貌的员工。设计评审中，我就隔离流程提出了一个审慎的问题。评审演练中，Leo说：\"证件扫描件在云端。\"我们互换角色，这次由我来提问。团队为安全升级树指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We tune rules together: strict enough to stop injections, kind enough to keep guests. In the review drill, Maria says, \"The plan fits on one card.\" We swap roles so I ask the questions this time. Our mentor walks me through how the forensic handoff guide evolved on this team. I compare two views on the forensics basics and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We tune rules together: strict enough to stop injections, kind enough to keep guests. In the review drill, Maria says, \"The plan fits on one card.\" We swap roles so I ask the questions this time. Our mentor walks me through how the forensic handoff guide evolved on this team. I compare two views on the forensics basics and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们一起调规则：严到拦住注入，好到留住客人。评审演练中，Maria说：\"预案只有一张卡。\"我们互换角色，这次由我来提问。导师带我梳理了取证交接指南在这个团队里的演变。我比较了关于取证基础的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the recovery verification plan to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the indicator of compromise twice. In the review drill, Leo says, \"Drills make calm possible.\" We swap roles so I ask the questions this time. A firewall should never be the rudest employee.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the recovery verification plan to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the indicator of compromise twice. In the review drill, Leo says, \"Drills make calm possible.\" We swap roles so I ask the questions this time. A firewall should never be the rudest employee.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把恢复验证计划连同三条支撑事实加进了议程。做决定之前，我把关于失陷指标的笔记重读了两遍。评审演练中，Leo说：\"演练让冷静成为可能。\"我们互换角色，这次由我来提问。防火墙不该是最没礼貌的员工。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 318,
-   "segment_count": 3,
+   "word_count": 381,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The retro is blameless, on purpose. I add the snapshot schedule to my study notes before I forget it. There is a short paragraph about the point-in-time restore in the guide. I go over the project kickoff one more time before lunch. I ask one good question about the charter in the meeting. In the warm-up round, Leo says, \"My cat judges my code.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The dog wants a walk.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "The retro is blameless, on purpose. I add the snapshot schedule to my study notes before I forget it. There is a short paragraph about the point-in-time restore in the guide. I go over the project kickoff one more time before lunch. I ask one good question about the charter in the meeting. In the warm-up round, Leo says, \"My cat judges my code.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The dog wants a walk.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "The retro is blameless, on purpose. I add the snapshot schedule to my study notes before I forget it. There is a short paragraph about the project kickoff in the guide. In the warm-up round, Priya says, \"My cat judges my code.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "The retro is blameless, on purpose. I add the snapshot schedule to my study notes before I forget it. There is a short paragraph about the project kickoff in the guide. In the warm-up round, Priya says, \"My cat judges my code.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "复盘会刻意做到不追责。我趁还没忘，把快照计划记进了学习笔记。指南里有一小段关于时间点恢复的介绍。午饭前我又过了一遍项目启动。会上关于项目章程，我问了一个好问题。热身环节里，Leo说：\"我的猫用眼神审判我的代码。\"然后我们换角色，由我来问。热身环节里，Maria说：\"狗想出去遛弯了。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "复盘会刻意做到不追责。我趁还没忘，把快照计划记进了学习笔记。指南里有一小段关于项目启动的介绍。热身环节里，Priya说：\"我的猫用眼神审判我的代码。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "snapshot schedule",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We list what went well, what hurt, and one experiment for next time. In the warm-up round, Leo says, \"Petting lowers my heart rate.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The office is dog-friendly.\" Then we swap roles and I ask it back. Sam asks me about the backup encryption, and I explain the basics. I spend ten quiet minutes on the restore rehearsal after the standup. My notes about the stakeholder map look clearer this week. I keep one real example of the rasi matrix in my notebook. Small progress today prepares the bigger step tomorrow.",
-   "tts": "We list what went well, what hurt, and one experiment for next time. In the warm-up round, Leo says, \"Petting lowers my heart rate.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The office is dog-friendly.\" Then we swap roles and I ask it back. Sam asks me about the backup encryption, and I explain the basics. I spend ten quiet minutes on the restore rehearsal after the standup. My notes about the stakeholder map look clearer this week. I keep one real example of the rasi matrix in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "en": "We list what went well, what hurt, and one experiment for next time. In the warm-up round, Maria says, \"The dog wants a walk.\" Then we swap roles and I ask it back. I go over the point-in-time restore one more time before lunch. I ask one good question about the charter in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We list what went well, what hurt, and one experiment for next time. In the warm-up round, Maria says, \"The dog wants a walk.\" Then we swap roles and I ask it back. I go over the point-in-time restore one more time before lunch. I ask one good question about the charter in the meeting. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们列出了顺利的、受伤的，以及下次要试的一个实验。热身环节里，Leo说：\"撸猫撸狗降心率。\"然后我们换角色，由我来问。热身环节里，Maria说：\"办公室可以带狗。\"然后我们换角色，由我来问。Sam 问起备份加密，我讲了讲基础。站会之后，我安安静静花了十分钟在恢复演练上。这周我关于干系人地图的笔记清楚多了。我在笔记本里留了一个责任矩阵的真实例子。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们列出了顺利的、受伤的，以及下次要试的一个实验。热身环节里，Maria说：\"狗想出去遛弯了。\"然后我们换角色，由我来问。午饭前我又过了一遍时间点恢复。会上关于项目章程，我问了一个好问题。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "backup encryption",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the milestone plan to my study notes before I forget it. There is a short paragraph about the kickoff notes in the guide. I go over the backup liveness one more time before lunch. I ask one good question about the retention policy in the meeting. In the warm-up round, Priya says, \"Fish are low maintenance.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Pets keep me present.\" Then we swap roles and I ask it back. The action items are small enough to actually happen.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the milestone plan to my study notes before I forget it. There is a short paragraph about the kickoff notes in the guide. I go over the backup liveness one more time before lunch. I ask one good question about the retention policy in the meeting. In the warm-up round, Priya says, \"Fish are low maintenance.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Pets keep me present.\" Then we swap roles and I ask it back. The action items are small enough to actually happen.",
+   "en": "We list what went well, what hurt, and one experiment for next time. Sam asks me about the stakeholder map, and I explain the basics. I spend ten quiet minutes on the backup encryption after the standup. In the warm-up round, Leo says, \"Petting lowers my heart rate.\" Then we swap roles and I ask it back. The action items are small enough to actually happen.",
+   "tts": "We list what went well, what hurt, and one experiment for next time. Sam asks me about the stakeholder map, and I explain the basics. I spend ten quiet minutes on the backup encryption after the standup. In the warm-up round, Leo says, \"Petting lowers my heart rate.\" Then we swap roles and I ask it back. The action items are small enough to actually happen.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把里程碑计划记进了学习笔记。指南里有一小段关于启动纪要的介绍。午饭前我又过了一遍备份活性。会上关于保留策略，我问了一个好问题。热身环节里，Priya说：\"养鱼省心。\"然后我们换角色，由我来问。热身环节里，Leo说：\"宠物让我活在当下。\"然后我们换角色，由我来问。行动项小到真的会被执行。",
+   "zh": "我们列出了顺利的、受伤的，以及下次要试的一个实验。Sam 问起干系人地图，我讲了讲基础。站会之后，我安安静静花了十分钟在备份加密上。热身环节里，Leo说：\"撸猫撸狗降心率。\"然后我们换角色，由我来问。行动项小到真的会被执行。",
    "hard": [
     {
      "w": "backup liveness",
@@ -146,6 +146,33 @@
      "def": "启动纪要，记录共识的第一份文档"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The action items are small enough to actually happen. My notes about the restore rehearsal look clearer this week. In the warm-up round, Leo says, \"The office is dog-friendly.\" Then we swap roles and I ask it back. I keep one real example of the rasi matrix in my notebook. I end the day with fewer unknowns than I started with.",
+   "tts": "The action items are small enough to actually happen. My notes about the restore rehearsal look clearer this week. In the warm-up round, Leo says, \"The office is dog-friendly.\" Then we swap roles and I ask it back. I keep one real example of the rasi matrix in my notebook. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "行动项小到真的会被执行。这周我关于恢复演练的笔记清楚多了。热身环节里，Leo说：\"办公室可以带狗。\"然后我们换角色，由我来问。我在笔记本里留了一个责任矩阵的真实例子。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We list what went well, what hurt, and one experiment for next time. In the warm-up round, Maria says, \"Fish are low maintenance.\" Then we swap roles and I ask it back. I add the milestone plan to my study notes before I forget it. There is a short paragraph about the backup liveness in the guide. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We list what went well, what hurt, and one experiment for next time. In the warm-up round, Maria says, \"Fish are low maintenance.\" Then we swap roles and I ask it back. I add the milestone plan to my study notes before I forget it. There is a short paragraph about the backup liveness in the guide. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们列出了顺利的、受伤的，以及下次要试的一个实验。热身环节里，Maria说：\"养鱼省心。\"然后我们换角色，由我来问。我趁还没忘，把里程碑计划记进了学习笔记。指南里有一小段关于备份活性的介绍。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the kickoff notes one more time before lunch. I ask one good question about the retention policy in the meeting. In the warm-up round, Leo says, \"Pets keep me present.\" Then we swap roles and I ask it back. The action items are small enough to actually happen.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the kickoff notes one more time before lunch. I ask one good question about the retention policy in the meeting. In the warm-up round, Leo says, \"Pets keep me present.\" Then we swap roles and I ask it back. The action items are small enough to actually happen.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍启动纪要。会上关于保留策略，我问了一个好问题。热身环节里，Leo说：\"宠物让我活在当下。\"然后我们换角色，由我来问。行动项小到真的会被执行。",
+   "hard": []
   }
  ],
  "chunks": [

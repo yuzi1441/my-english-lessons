@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 279,
+   "word_count": 197,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I use an AI tool to check an answer. After a short break, I keep one real example of training data in my notes. I go through the model training with Priya and note her advice. If we link to documentation, the result should be safe. After that, The team agrees to cite a source before Friday. I teach the pattern to a new teammate: I read that ... In my update, I use the pattern naturally: According to the report ... The day ends with a clear plan for tomorrow.",
-   "tts": "I use an A I tool to check an answer. After a short break, I keep one real example of training data in my notes. I go through the model training with Priya and note her advice. If we link to documentation, the result should be safe. After that, The team agrees to cite a source before Friday. I teach the pattern to a new teammate: I read that  In my update, I use the pattern naturally: According to the report  The day ends with a clear plan for tomorrow.",
+   "en": "Day twenty-six goes deeper into AI. \"Training data is what the model learned from,\" Maria says. \"Model training adjusts the model. Inference is when it generates. A hallucination is a confident wrong answer. A confidence level measures certainty. Verify the answer independently.\" Then media vocabulary: \"I read that article. According to the report ... What's your opinion? I agree with that point. I see it differently. We need more information.\"",
+   "tts": "Day twenty-six goes deeper into A I. \"Training data is what the model learned from,\" Maria says. \"Model training adjusts the model. Inference is when it generates. A hallucination is a confident wrong answer. A confidence level measures certainty. Verify the answer independently.\" Then media vocabulary: \"I read that article. According to the report  What's your opinion? I agree with that point. I see it differently. We need more information.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我用一个 AI 工具核对答案。稍作休息后，我在笔记里留了一个训练数据的真实例子。我和 Priya 过了一遍模型训练，记下了她的建议。如果我们链接到文档，结果应该是安全的。在那之后，团队同意在周五之前引用来源。我把这个句型教给一位新队友：我读到……在汇报里，我自然地用上了这个句型：根据这份报告……这一天以一份清晰的明日计划结束。",
+   "zh": "第二十六天深入 AI。\"训练数据是模型学习的来源，\"Maria 说。\"模型训练调整模型。推理是生成的时候。幻觉是自信的错误答案。置信度衡量确定程度。独立验证答案。\"然后是媒体词汇：\"我读了那篇文章。根据报告……你的看法是什么？我同意那一点。我的看法不同。我们需要更多信息。",
    "hard": [
     {
      "w": "training data",
@@ -46,36 +46,6 @@
      "def": "模型训练，用数据调整模型参数的过程"
     },
     {
-     "w": "I read that ...",
-     "type": "term",
-     "def": "我读到……"
-    },
-    {
-     "w": "According to the report ...",
-     "type": "term",
-     "def": "根据这份报告……"
-    },
-    {
-     "w": "link to documentation",
-     "type": "term",
-     "def": "链接到文档，提供官方说明页面的网址"
-    },
-    {
-     "w": "cite a source",
-     "type": "term",
-     "def": "引用来源，说明事实或说法来自哪里"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "We talk about a piece of news at lunch. Before we move on, Leo asks, \"What's your opinion?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I agree with that point.\" I answer clearly and note the phrasing. I double-check the inference before the review. After a short break, I add the hallucination to my checklist for tomorrow. During the review, I ask one question about the reference an issue. We decide to link a commit after the review. I check my notes and confirm the next step.",
-   "tts": "We talk about a piece of news at lunch. Before we move on, Leo asks, \"What's your opinion?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I agree with that point.\" I answer clearly and note the phrasing. I double-check the inference before the review. After a short break, I add the hallucination to my checklist for tomorrow. During the review, I ask one question about the reference an issue. We decide to link a commit after the review. I check my notes and confirm the next step.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "午饭时，我们讨论了一条新闻。继续之前，Leo问：\"你的看法是什么？\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我同意那个观点。\"我清楚地回答，并记下了这个说法。评审之前，我再核对一遍推理。稍作休息后，我把幻觉加进了明天的清单。评审时，我就引用问题单提了一个问题。评审之后，我们决定链接提交。我检查笔记，确认了下一步。",
-   "hard": [
-    {
      "w": "inference",
      "type": "term",
      "def": "推理，模型根据新输入生成结果的过程"
@@ -84,6 +54,26 @@
      "w": "hallucination",
      "type": "term",
      "def": "幻觉，模型生成看似合理但并不真实的内容"
+    },
+    {
+     "w": "confidence level",
+     "type": "term",
+     "def": "置信程度，表示对结果把握大小的程度"
+    },
+    {
+     "w": "verify the answer",
+     "type": "term",
+     "def": "核验答案，用可靠来源检查回答是否正确"
+    },
+    {
+     "w": "I read that ...",
+     "type": "term",
+     "def": "我读到……"
+    },
+    {
+     "w": "According to the report ...",
+     "type": "term",
+     "def": "根据这份报告……"
     },
     {
      "w": "What's your opinion?",
@@ -96,36 +86,6 @@
      "def": "我同意那个观点。"
     },
     {
-     "w": "reference an issue",
-     "type": "term",
-     "def": "引用问题单，在文字中关联另一问题单"
-    },
-    {
-     "w": "link a commit",
-     "type": "term",
-     "def": "链接提交，提供某次代码提交的直接地址"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I walk a new teammate through the permanent link. I suggest that we check the documentation page first. After that, I reread my notes about the confidence level after lunch. I verify the answer, and I record the reason. Before we move on, Leo says, \"I see it differently.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"We need more information.\" I answer clearly and note the phrasing. Every claim now links to a source. The note is strong.",
-   "tts": "Before I leave, I write a short summary for the team. I walk a new teammate through the permanent link. I suggest that we check the documentation page first. After that, I reread my notes about the confidence level after lunch. I verify the answer, and I record the reason. Before we move on, Leo says, \"I see it differently.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"We need more information.\" I answer clearly and note the phrasing. Every claim now links to a source. The note is strong.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我带一位新队友过了一遍永久链接。我建议我们先检查文档页面。在那之后，午饭后我重读了关于置信程度的笔记。我核验答案，并记录了原因。继续之前，Leo说：\"我的看法不同。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我们需要更多信息。\"我清楚地回答，并记下了这个说法。每个说法现在都有来源链接。这份笔记很扎实。",
-   "hard": [
-    {
-     "w": "confidence level",
-     "type": "term",
-     "def": "置信程度，表示对结果把握大小的程度"
-    },
-    {
-     "w": "verify the answer",
-     "type": "term",
-     "def": "核验答案，用可靠来源检查回答是否正确"
-    },
-    {
      "w": "I see it differently.",
      "type": "term",
      "def": "我的看法不同。"
@@ -134,6 +94,36 @@
      "w": "We need more information.",
      "type": "term",
      "def": "我们需要更多信息。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Documentation vocabulary appears. \"Link to documentation for details,\" Leo says. \"Cite a source when you claim something. Reference an issue to link context. Link a commit to show the change. A permanent link won't break. A documentation page explains everything.\" I add links to my latest PR. Each claim gets a source. Each reference gets a link.",
+   "tts": "Documentation vocabulary appears. \"Link to documentation for details,\" Leo says. \"Cite a source when you claim something. Reference an issue to link context. Link a commit to show the change. A permanent link won't break. A documentation page explains everything.\" I add links to my latest P R. Each claim gets a source. Each reference gets a link.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "文档词汇出现了。\"链接到文档获取详情，\"Leo 说。\"声称什么就引用来源。引用问题单来关联上下文。链接提交来展示变化。永久链接不会失效。文档页面解释一切。\"我在最新 PR 里加了链接。每个说法有来源。每个引用有链接。",
+   "hard": [
+    {
+     "w": "link to documentation",
+     "type": "term",
+     "def": "链接到文档，提供官方说明页面的网址"
+    },
+    {
+     "w": "cite a source",
+     "type": "term",
+     "def": "引用来源，说明事实或说法来自哪里"
+    },
+    {
+     "w": "reference an issue",
+     "type": "term",
+     "def": "引用问题单，在文字中关联另一问题单"
+    },
+    {
+     "w": "link a commit",
+     "type": "term",
+     "def": "链接提交，提供某次代码提交的直接地址"
     },
     {
      "w": "permanent link",
@@ -144,6 +134,31 @@
      "w": "documentation page",
      "type": "term",
      "def": "文档页面，解释项目功能和用法的页面"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "AI literacy and information literacy are the same skill: trust but verify. Hallucinations look like facts. Reports look like truth. I write: 'Day 26 — training data has a cut-off date. Inference is prediction, not truth. Verify the answer. Cite a source. Link to documentation.' We need more information should be the default response to any claim. I agree with that point only after verification. The evidence leads; I follow.",
+   "tts": "A I literacy and information literacy are the same skill: trust but verify. Hallucinations look like facts. Reports look like truth. I write: 'Day 26 — training data has a cut-off date. Inference is prediction, not truth. Verify the answer. Cite a source. Link to documentation.' We need more information should be the default response to any claim. I agree with that point only after verification. The evidence leads; I follow.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "AI 素养和信息素养是同一技能：信任但要验证。幻觉看起来像事实。报告看起来像真相。我写：'第二十六天——训练数据有截止日期。推理是预测不是真相。验证答案。引用来源。链接到文档。'我们需要更多信息应该是对任何声称的默认回应。验证之后才同意那一点。证据引路；我跟随。",
+   "hard": [
+    {
+     "w": "hallucination",
+     "type": "term",
+     "def": "幻觉，模型生成看似合理但并不真实的内容"
+    },
+    {
+     "w": "verify the answer",
+     "type": "term",
+     "def": "核验答案，用可靠来源检查回答是否正确"
+    },
+    {
+     "w": "cite a source",
+     "type": "term",
+     "def": "引用来源，说明事实或说法来自哪里"
     }
    ]
   }

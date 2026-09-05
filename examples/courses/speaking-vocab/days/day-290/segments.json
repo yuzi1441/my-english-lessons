@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 363,
-   "segment_count": 3,
+   "word_count": 422,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I realize the database has no offline copy. I prepare a one-page brief about the contractor onboarding kit so meetings start from facts. During the design review, I raise one careful question about the code contribution from freelancers. Before deciding, I reread my notes about the freelancer access template twice. The team names one clear owner for the review SLA for external prs. In the review drill, Maria says, \"Three quotes for one roof.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The middle quote had the best story.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "I realize the database has no offline copy. I prepare a one-page brief about the contractor onboarding kit so meetings start from facts. During the design review, I raise one careful question about the code contribution from freelancers. Before deciding, I reread my notes about the freelancer access template twice. The team names one clear owner for the review S L A for external prs. In the review drill, Maria says, \"Three quotes for one roof.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The middle quote had the best story.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "I realize the database has no offline copy. I prepare a one-page brief about the contractor onboarding kit so meetings start from facts. During the design review, I raise one careful question about the freelancer access template. In the review drill, Leo says, \"Three quotes for one roof.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "I realize the database has no offline copy. I prepare a one-page brief about the contractor onboarding kit so meetings start from facts. During the design review, I raise one careful question about the freelancer access template. In the review drill, Leo says, \"Three quotes for one roof.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我意识到数据库没有离线副本。我准备了一页关于外包上手包的简报，好让会议从事实出发。设计评审中，我就自由职业者代码贡献提出了一个审慎的问题。做决定之前，我把关于外部人员权限模板的笔记重读了两遍。团队为外部 PR 评审时限指定了明确的负责人。评审演练中，Maria说：\"一个屋顶三份报价。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"中间那份报价故事最好。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我意识到数据库没有离线副本。我准备了一页关于外包上手包的简报，好让会议从事实出发。设计评审中，我就外部人员权限模板提出了一个审慎的问题。评审演练中，Leo说：\"一个屋顶三份报价。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "contractor onboarding kit",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Sunday: encrypted backups to two places, one restore rehearsal. In the review drill, Maria says, \"Payment tied to milestones.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Materials receipt transparency.\" We swap roles so I ask the questions this time. I compare two views on the nda and ip assignment basics and write both down honestly. We spend the first ten minutes of the review on the design partner agreement. I add the style onboarding for contributors to the meeting agenda with three supporting facts. Our mentor walks me through how the milestone based invoicing check evolved on this team. We end the week with something shipped and something properly learned this time.",
-   "tts": "Sunday: encrypted backups to two places, one restore rehearsal. In the review drill, Maria says, \"Payment tied to milestones.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Materials receipt transparency.\" We swap roles so I ask the questions this time. I compare two views on the nda and ip assignment basics and write both down honestly. We spend the first ten minutes of the review on the design partner agreement. I add the style onboarding for contributors to the meeting agenda with three supporting facts. Our mentor walks me through how the milestone based invoicing check evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "en": "Sunday: encrypted backups to two places, one restore rehearsal. In the review drill, Priya says, \"The middle quote had the best story.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the code contribution from freelancers twice. The team names one clear owner for the review SLA for external prs. We end the week with something shipped and something properly learned this time.",
+   "tts": "Sunday: encrypted backups to two places, one restore rehearsal. In the review drill, Priya says, \"The middle quote had the best story.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the code contribution from freelancers twice. The team names one clear owner for the review S L A for external prs. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "周日：加密备份存两处，外加一次恢复演练。评审演练中，Maria说：\"付款绑着里程碑。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"材料费票据透明。\"我们互换角色，这次由我来提问。我比较了关于保密与知识产权转让基础的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了设计合作伙伴协议上。我把贡献者风格上手包连同三条支撑事实加进了议程。导师带我梳理了里程碑账单核对在这个团队里的演变。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "周日：加密备份存两处，外加一次恢复演练。评审演练中，Priya说：\"中间那份报价故事最好。\"我们互换角色，这次由我来提问。做决定之前，我把关于自由职业者代码贡献的笔记重读了两遍。团队为外部 PR 评审时限指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "nda and ip assignment basics",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the knowledge transfer checklist so meetings start from facts. During the design review, I raise one careful question about the contractor offboarding sweep. Before deciding, I reread my notes about the agency communication rhythm twice. The team names one clear owner for the exit clause clarity. In the review drill, Leo says, \"The neighbor's referral was gold.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Written scope ended the debates.\" We swap roles so I ask the questions this time. The safety net gets its own calendar reminder.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the knowledge transfer checklist so meetings start from facts. During the design review, I raise one careful question about the contractor offboarding sweep. Before deciding, I reread my notes about the agency communication rhythm twice. The team names one clear owner for the exit clause clarity. In the review drill, Leo says, \"The neighbor's referral was gold.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Written scope ended the debates.\" We swap roles so I ask the questions this time. The safety net gets its own calendar reminder.",
+   "en": "Sunday: encrypted backups to two places, one restore rehearsal. I compare two views on the style onboarding for contributors and write both down honestly. We spend the first ten minutes of the review on the nda and ip assignment basics. In the review drill, Maria says, \"Payment tied to milestones.\" We swap roles so I ask the questions this time. The safety net gets its own calendar reminder.",
+   "tts": "Sunday: encrypted backups to two places, one restore rehearsal. I compare two views on the style onboarding for contributors and write both down honestly. We spend the first ten minutes of the review on the nda and ip assignment basics. In the review drill, Maria says, \"Payment tied to milestones.\" We swap roles so I ask the questions this time. The safety net gets its own calendar reminder.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于知识转移清单的简报，好让会议从事实出发。设计评审中，我就外包收尾清单提出了一个审慎的问题。做决定之前，我把关于外包沟通节奏的笔记重读了两遍。团队为退出条款清晰度指定了明确的负责人。评审演练中，Leo说：\"邻居的推荐是真金。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"书面范围终结了扯皮。\"我们互换角色，这次由我来提问。安全网有了自己的日历提醒。",
+   "zh": "周日：加密备份存两处，外加一次恢复演练。我比较了关于贡献者风格上手包的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了保密与知识产权转让基础上。评审演练中，Maria说：\"付款绑着里程碑。\"我们互换角色，这次由我来提问。安全网有了自己的日历提醒。",
    "hard": [
     {
      "w": "agency communication rhythm",
@@ -146,6 +146,33 @@
      "def": "外包收尾清单，权限归零"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The safety net gets its own calendar reminder. I add the design partner agreement to the meeting agenda with three supporting facts. In the review drill, Maria says, \"Materials receipt transparency.\" We swap roles so I ask the questions this time. Our mentor walks me through how the milestone based invoicing check evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The safety net gets its own calendar reminder. I add the design partner agreement to the meeting agenda with three supporting facts. In the review drill, Maria says, \"Materials receipt transparency.\" We swap roles so I ask the questions this time. Our mentor walks me through how the milestone based invoicing check evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "安全网有了自己的日历提醒。我把设计合作伙伴协议连同三条支撑事实加进了议程。评审演练中，Maria说：\"材料费票据透明。\"我们互换角色，这次由我来提问。导师带我梳理了里程碑账单核对在这个团队里的演变。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Sunday: encrypted backups to two places, one restore rehearsal. In the review drill, Priya says, \"The neighbor's referral was gold.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the knowledge transfer checklist so meetings start from facts. During the design review, I raise one careful question about the agency communication rhythm. We end the week with something shipped and something properly learned this time.",
+   "tts": "Sunday: encrypted backups to two places, one restore rehearsal. In the review drill, Priya says, \"The neighbor's referral was gold.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the knowledge transfer checklist so meetings start from facts. During the design review, I raise one careful question about the agency communication rhythm. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "周日：加密备份存两处，外加一次恢复演练。评审演练中，Priya说：\"邻居的推荐是真金。\"我们互换角色，这次由我来提问。我准备了一页关于知识转移清单的简报，好让会议从事实出发。设计评审中，我就外包沟通节奏提出了一个审慎的问题。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the contractor offboarding sweep twice. The team names one clear owner for the exit clause clarity. In the review drill, Maria says, \"Written scope ended the debates.\" We swap roles so I ask the questions this time. The safety net gets its own calendar reminder.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the contractor offboarding sweep twice. The team names one clear owner for the exit clause clarity. In the review drill, Maria says, \"Written scope ended the debates.\" We swap roles so I ask the questions this time. The safety net gets its own calendar reminder.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于外包收尾清单的笔记重读了两遍。团队为退出条款清晰度指定了明确的负责人。评审演练中，Maria说：\"书面范围终结了扯皮。\"我们互换角色，这次由我来提问。安全网有了自己的日历提醒。",
+   "hard": []
   }
  ],
  "chunks": [

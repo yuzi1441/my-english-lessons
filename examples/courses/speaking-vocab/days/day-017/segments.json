@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 280,
+   "word_count": 213,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I feel sick today, but an important task waits. Before the meeting, I review the authentication one more time. I compare my notes about the authorization with Priya's. I reread the section about the access token after lunch. After a short break, I add the personal access token to my notes with one example. At that moment, Maria says, \"I don't feel well.\" I answer, then try the line myself. At that moment, Maria says, \"I have a headache.\" I answer, then try the line myself. The work is not easy, but I keep going.",
-   "tts": "I feel sick today, but an important task waits. Before the meeting, I review the authentication one more time. I compare my notes about the authorization with Priya's. I reread the section about the access token after lunch. After a short break, I add the personal access token to my notes with one example. At that moment, Maria says, \"I don't feel well.\" I answer, then try the line myself. At that moment, Maria says, \"I have a headache.\" I answer, then try the line myself. The work is not easy, but I keep going.",
+   "en": "Day seventeen covers security and health. \"Authentication proves who you are,\" Maria says. \"Authorization controls what you can do. A user account holds your identity. A login session is temporary access. Access permission is scoped. Sign out when you're done.\" Then I feel sick. \"I don't feel well,\" I tell Maria. \"I have a headache.\" \"How often should I take this?\" I ask at the pharmacy. \"Are there any side effects?\" \"I'm allergic to this medicine.\" \"I need to see a doctor.\"",
+   "tts": "Day seventeen covers security and health. \"Authentication proves who you are,\" Maria says. \"Authorization controls what you can do. A user account holds your identity. A login session is temporary access. Access permission is scoped. Sign out when you're done.\" Then I feel sick. \"I don't feel well,\" I tell Maria. \"I have a headache.\" \"How often should I take this?\" I ask at the pharmacy. \"Are there any side effects?\" \"I'm allergic to this medicine.\" \"I need to see a doctor.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我今天不太舒服，但一个重要任务在等着我。开会前，我又复习了一遍身份验证。我把关于授权的笔记和 Priya 的对照了一下。午饭后我重读了关于访问令牌的章节。稍作休息后，我把个人访问令牌和一个例子一起记进了笔记。这时，Maria说：\"我感觉不舒服。\"我回答，然后自己把这句练了一遍。这时，Maria说：\"我头痛。\"我回答，然后自己把这句练了一遍。工作不容易，但我继续前进。",
+   "zh": "第十七天涵盖安全和健康。\"认证证明你是谁，\"Maria 说。\"授权控制你能做什么。用户账号保存你的身份。登录会话是临时访问。访问权限有范围。完成后退出登录。\"然后我不舒服了。\"我不太舒服，\"我跟 Maria 说。\"我头疼。\"\"这个药多久吃一次？\"我在药店问。\"有副作用吗？\"\"我对这个药过敏。\"\"我需要看医生。\"",
    "hard": [
     {
      "w": "authentication",
@@ -46,36 +46,6 @@
      "def": "授权，确认用户可以做什么的过程"
     },
     {
-     "w": "I don't feel well.",
-     "type": "term",
-     "def": "我感觉不舒服。"
-    },
-    {
-     "w": "I have a headache.",
-     "type": "term",
-     "def": "我头痛。"
-    },
-    {
-     "w": "access token",
-     "type": "term",
-     "def": "访问令牌，代替密码授权程序访问服务的字符串"
-    },
-    {
-     "w": "personal access token",
-     "type": "term",
-     "def": "个人访问令牌，代表个人账号调用 GitHub 的令牌"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "I visit the pharmacy and ask about the medicine. At that moment, Priya asks, \"How often should I take this?\" I reply, and she notes it down. At that moment, Priya asks, \"Are there any side effects?\" I reply, and she notes it down. After a short break, We keep a short checklist for the user account. The team talks about the login session at the standup. Priya and I spend a few minutes on the repository secret. After lunch, I check the workflow permission again. I write down what I learned today.",
-   "tts": "I visit the pharmacy and ask about the medicine. At that moment, Priya asks, \"How often should I take this?\" I reply, and she notes it down. At that moment, Priya asks, \"Are there any side effects?\" I reply, and she notes it down. After a short break, We keep a short checklist for the user account. The team talks about the login session at the standup. Priya and I spend a few minutes on the repository secret. After lunch, I check the workflow permission again. I write down what I learned today.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我去了药店，询问了这种药。这时，Priya问：\"这个药多久吃一次？\"我回答，她把它记了下来。这时，Priya问：\"有副作用吗？\"我回答，她把它记了下来。稍作休息后，我们为用户账号准备了一张简短的检查单。团队在站会上讨论了登录会话。Priya 和我在仓库机密上花了几分钟。午饭后，我又检查了一遍工作流权限。我记下了今天学到的东西。",
-   "hard": [
-    {
      "w": "user account",
      "type": "term",
      "def": "用户账号，用来识别和保存个人信息的身份"
@@ -84,6 +54,26 @@
      "w": "login session",
      "type": "term",
      "def": "登录会话，用户登录后持续一段时间的访问状态"
+    },
+    {
+     "w": "access permission",
+     "type": "term",
+     "def": "访问权限，允许用户读取或修改某项资源的规则"
+    },
+    {
+     "w": "sign out",
+     "type": "term",
+     "def": "退出登录，结束当前登录会话"
+    },
+    {
+     "w": "I don't feel well.",
+     "type": "term",
+     "def": "我感觉不舒服。"
+    },
+    {
+     "w": "I have a headache.",
+     "type": "term",
+     "def": "我头痛。"
     },
     {
      "w": "How often should I take this?",
@@ -96,36 +86,6 @@
      "def": "有副作用吗？"
     },
     {
-     "w": "repository secret",
-     "type": "term",
-     "def": "仓库机密，供自动化任务安全使用的敏感值"
-    },
-    {
-     "w": "workflow permission",
-     "type": "term",
-     "def": "工作流权限，限制自动化可以执行的操作"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I review what I did today. When I get stuck, I ask Maria about secret scanning. Before I revoke a token, I read the note. Leo walks me through the access permission step by step. After I sign out, I tell the team. At that moment, Priya says, \"I'm allergic to this medicine.\" I reply, and she notes it down. At that moment, Priya says, \"I need to see a doctor.\" I reply, and she notes it down. The token is safe, and the secret stays outside the code.",
-   "tts": "Before I leave, I review what I did today. When I get stuck, I ask Maria about secret scanning. Before I revoke a token, I read the note. Leo walks me through the access permission step by step. After I sign out, I tell the team. At that moment, Priya says, \"I'm allergic to this medicine.\" I reply, and she notes it down. At that moment, Priya says, \"I need to see a doctor.\" I reply, and she notes it down. The token is safe, and the secret stays outside the code.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。卡住的时候，我就向 Maria 请教机密扫描。在撤销令牌之前，我先看了说明。Leo 一步一步带我过了访问权限。我退出登录之后，告诉了团队。这时，Priya说：\"我对这种药过敏。\"我回答，她把它记了下来。这时，Priya说：\"我需要看医生。\"我回答，她把它记了下来。令牌是安全的，机密留在代码之外。",
-   "hard": [
-    {
-     "w": "access permission",
-     "type": "term",
-     "def": "访问权限，允许用户读取或修改某项资源的规则"
-    },
-    {
-     "w": "sign out",
-     "type": "term",
-     "def": "退出登录，结束当前登录会话"
-    },
-    {
      "w": "I'm allergic to this medicine.",
      "type": "term",
      "def": "我对这种药过敏。"
@@ -134,11 +94,61 @@
      "w": "I need to see a doctor.",
      "type": "term",
      "def": "我需要看医生。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Security tokens arrive in my inbox. \"An access token grants API access,\" Leo explains. \"A personal access token is yours alone. Repository secrets hold sensitive values. Workflow permissions limit what actions can do. Secret scanning catches leaked credentials. Revoke a token immediately if compromised.\" I set up my first personal access token. The repository secret keeps our API key safe. Secret scanning runs automatically.",
+   "tts": "Security tokens arrive in my inbox. \"An access token grants A P I access,\" Leo explains. \"A personal access token is yours alone. Repository secrets hold sensitive values. Workflow permissions limit what actions can do. Secret scanning catches leaked credentials. Revoke a token immediately if compromised.\" I set up my first personal access token. The repository secret keeps our A P I key safe. Secret scanning runs automatically.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "安全令牌出现在我的收件箱。\"访问令牌授予 API 访问，\"Leo 解释。\"个人访问令牌是你独有的。仓库机密保存敏感值。工作流权限限制操作范围。机密扫描捕获泄露的凭据。如果泄露立即撤销令牌。\"我设置了我的第一个个人访问令牌。仓库机密保存着我们的 API 密钥。机密扫描自动运行。",
+   "hard": [
+    {
+     "w": "access token",
+     "type": "term",
+     "def": "访问令牌，代替密码授权程序访问服务的字符串"
+    },
+    {
+     "w": "personal access token",
+     "type": "term",
+     "def": "个人访问令牌，代表个人账号调用 GitHub 的令牌"
+    },
+    {
+     "w": "repository secret",
+     "type": "term",
+     "def": "仓库机密，供自动化任务安全使用的敏感值"
+    },
+    {
+     "w": "workflow permission",
+     "type": "term",
+     "def": "工作流权限，限制自动化可以执行的操作"
     },
     {
      "w": "secret scanning",
      "type": "term",
      "def": "机密扫描，自动发现意外提交的密钥"
+    },
+    {
+     "w": "revoke a token",
+     "type": "term",
+     "def": "撤销令牌，让已有令牌立即失效"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Security and health share a principle: prevention beats cure. Sign out when you're done. Revoke a token when it's compromised. See a doctor when you need to. I write: 'Day 17 — authentication is your ID card. Authorization is your access badge. Personal access tokens are keys. Treat them all with care.' The headache fades with rest and water. The code stays secure with proper token management.",
+   "tts": "Security and health share a principle: prevention beats cure. Sign out when you're done. Revoke a token when it's compromised. See a doctor when you need to. I write: 'Day 17 — authentication is your ID card. Authorization is your access badge. Personal access tokens are keys. Treat them all with care.' The headache fades with rest and water. The code stays secure with proper token management.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "安全和健康共享一个原则：预防胜于治疗。用完就退出登录。令牌泄露就撤销。需要看医生就去。我写：'第十七天——认证是你的身份证。授权是你的门禁卡。个人访问令牌是钥匙。认真对待它们。'休息和喝水后头疼缓解了。代码通过正确的令牌管理保持安全。",
+   "hard": [
+    {
+     "w": "sign out",
+     "type": "term",
+     "def": "退出登录，结束当前登录会话"
     },
     {
      "w": "revoke a token",

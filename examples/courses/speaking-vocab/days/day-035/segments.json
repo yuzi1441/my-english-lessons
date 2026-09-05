@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 292,
-   "segment_count": 3,
+   "word_count": 347,
+   "segment_count": 6,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业表达 · 提炼观点 · 做一次英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My folder fills with files Git should never track. During the review, I ask one question about the input validation. I keep one real example of the error hint in my notes. I reread my notes about the interactive rebase after lunch. Before I reply, I look at the drop a commit once more. Before we move on, Maria says, \"Sorry, my mistake.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Thanks for pointing that out.\" I answer, then reuse it in my update. The day ends with a clear plan for tomorrow.",
-   "tts": "My folder fills with files Git should never track. During the review, I ask one question about the input validation. I keep one real example of the error hint in my notes. I reread my notes about the interactive rebase after lunch. Before I reply, I look at the drop a commit once more. Before we move on, Maria says, \"Sorry, my mistake.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Thanks for pointing that out.\" I answer, then reuse it in my update. The day ends with a clear plan for tomorrow.",
+   "en": "My folder fills with files Git should never track. During the review, I ask one question about the input validation. I keep one real example of the interactive rebase in my notes. Before we move on, Leo says, \"Sorry, my mistake.\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
+   "tts": "My folder fills with files Git should never track. During the review, I ask one question about the input validation. I keep one real example of the interactive rebase in my notes. Before we move on, Leo says, \"Sorry, my mistake.\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的文件夹里出现了 Git 不该跟踪的文件。评审时，我就输入校验提了一个问题。我在笔记里留了一个错误提示的真实例子。午饭后我重读了关于交互式变基的笔记。回复之前，我又看了一遍丢弃提交。继续之前，Maria说：\"对不起\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"谢谢你指出来。\"我回答，然后把它用进了自己的汇报。这一天以一份清晰的明日计划结束。",
+   "zh": "我的文件夹里出现了 Git 不该跟踪的文件。评审时，我就输入校验提了一个问题。我在笔记里留了一个交互式变基的真实例子。继续之前，Leo说：\"对不起\"我清楚地回答，并记下了这个说法。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "input validation",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I check status, add an ignore rule, and stage only what matters. Before we move on, Priya says, \"I'll fix it right away.\" I answer, and we compare notes. Before we move on, Priya says, \"It won't happen again.\" I answer, and we compare notes. After a short break, I walk a new teammate through the empty state. I add the default value to my checklist for tomorrow. We spend a few minutes on the edit a commit message at the standup. After that, I suggest that we check the reorder commits first. I check my notes and confirm the next step.",
-   "tts": "I check status, add an ignore rule, and stage only what matters. Before we move on, Priya says, \"I'll fix it right away.\" I answer, and we compare notes. Before we move on, Priya says, \"It won't happen again.\" I answer, and we compare notes. After a short break, I walk a new teammate through the empty state. I add the default value to my checklist for tomorrow. We spend a few minutes on the edit a commit message at the standup. After that, I suggest that we check the reorder commits first. I check my notes and confirm the next step.",
+   "en": "I check status, add an ignore rule, and stage only what matters. Before we move on, Maria says, \"Thanks for pointing that out.\" I answer, then reuse it in my update. I reread my notes about the error hint after lunch. Before I reply, I look at the drop a commit once more. I check my notes and confirm the next step.",
+   "tts": "I check status, add an ignore rule, and stage only what matters. Before we move on, Maria says, \"Thanks for pointing that out.\" I answer, then reuse it in my update. I reread my notes about the error hint after lunch. Before I reply, I look at the drop a commit once more. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我查看状态，加了一条忽略规则，只暂存真正重要的文件。继续之前，Priya说：\"我马上修改。\"我回答，我们互相对了笔记。继续之前，Priya说：\"下次不会这样了。\"我回答，我们互相对了笔记。稍作休息后，我带一位新队友过了一遍空状态。我把默认值加进了明天的清单。站会上我们花了几分钟讨论修改提交说明。在那之后，我建议我们先检查调整提交顺序。我检查笔记，确认了下一步。",
+   "zh": "我查看状态，加了一条忽略规则，只暂存真正重要的文件。继续之前，Maria说：\"谢谢你指出来。\"我回答，然后把它用进了自己的汇报。午饭后我重读了关于错误提示的笔记。回复之前，我又看了一遍丢弃提交。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "empty state",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I double-check the fixup commit before the review. After that, I go through the clean history with Priya and note her advice. The team agrees to trim whitespace before Friday. During the review, I ask one question about the case insensitive. Before we move on, Priya says, \"I should have double-checked.\" I answer, and we compare notes. Before we move on, Priya says, \"I appreciate your patience.\" I answer, and we compare notes. A clean folder makes a clean commit.",
-   "tts": "Before I leave, I write a short summary for the team. I double-check the fixup commit before the review. After that, I go through the clean history with Priya and note her advice. The team agrees to trim whitespace before Friday. During the review, I ask one question about the case insensitive. Before we move on, Priya says, \"I should have double-checked.\" I answer, and we compare notes. Before we move on, Priya says, \"I appreciate your patience.\" I answer, and we compare notes. A clean folder makes a clean commit.",
+   "en": "I check status, add an ignore rule, and stage only what matters. I walk a new teammate through the edit a commit message. I add the empty state to my checklist for tomorrow. Before we move on, Priya says, \"I'll fix it right away.\" I answer, and we compare notes. A clean folder makes a clean commit.",
+   "tts": "I check status, add an ignore rule, and stage only what matters. I walk a new teammate through the edit a commit message. I add the empty state to my checklist for tomorrow. Before we move on, Priya says, \"I'll fix it right away.\" I answer, and we compare notes. A clean folder makes a clean commit.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。评审之前，我再核对一遍修补提交。在那之后，我和 Priya 过了一遍干净历史，记下了她的建议。团队同意在周五之前去除空格。评审时，我就不区分大小写提了一个问题。继续之前，Priya说：\"我本应该再核对一遍的。\"我回答，我们互相对了笔记。继续之前，Priya说：\"感谢你的耐心。\"我回答，我们互相对了笔记。干净的文件夹才能做出干净的提交。",
+   "zh": "我查看状态，加了一条忽略规则，只暂存真正重要的文件。我带一位新队友过了一遍修改提交说明。我把空状态加进了明天的清单。继续之前，Priya说：\"我马上修改。\"我回答，我们互相对了笔记。干净的文件夹才能做出干净的提交。",
    "hard": [
     {
      "w": "trim whitespace",
@@ -146,6 +146,33 @@
      "def": "干净历史，易于回溯的提交记录"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "A clean folder makes a clean commit. After a short break, We spend a few minutes on the default value at the standup. Before we move on, Maria says, \"It won't happen again.\" I answer, then reuse it in my update. I suggest that we check the reorder commits first. The day ends with a clear plan for tomorrow.",
+   "tts": "A clean folder makes a clean commit. After a short break, We spend a few minutes on the default value at the standup. Before we move on, Maria says, \"It won't happen again.\" I answer, then reuse it in my update. I suggest that we check the reorder commits first. The day ends with a clear plan for tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "干净的文件夹才能做出干净的提交。稍作休息后，站会上我们花了几分钟讨论默认值。继续之前，Maria说：\"下次不会这样了。\"我回答，然后把它用进了自己的汇报。我建议我们先检查调整提交顺序。这一天以一份清晰的明日计划结束。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "I check status, add an ignore rule, and stage only what matters. Before we move on, Maria says, \"I should have double-checked.\" I answer, then reuse it in my update. I double-check the fixup commit before the review. The team agrees to trim whitespace before Friday. I check my notes and confirm the next step.",
+   "tts": "I check status, add an ignore rule, and stage only what matters. Before we move on, Maria says, \"I should have double-checked.\" I answer, then reuse it in my update. I double-check the fixup commit before the review. The team agrees to trim whitespace before Friday. I check my notes and confirm the next step.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我查看状态，加了一条忽略规则，只暂存真正重要的文件。继续之前，Maria说：\"我本应该再核对一遍的。\"我回答，然后把它用进了自己的汇报。评审之前，我再核对一遍修补提交。团队同意在周五之前去除空格。我检查笔记，确认了下一步。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I write a short summary for the team. I go through the clean history with Priya and note her advice. During the review, I ask one question about the case insensitive. Before we move on, Priya says, \"I appreciate your patience.\" I answer, and we compare notes. A clean folder makes a clean commit.",
+   "tts": "Before I leave, I write a short summary for the team. I go through the clean history with Priya and note her advice. During the review, I ask one question about the case insensitive. Before we move on, Priya says, \"I appreciate your patience.\" I answer, and we compare notes. A clean folder makes a clean commit.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队写了一份简短的总结。我和 Priya 过了一遍干净历史，记下了她的建议。评审时，我就不区分大小写提了一个问题。继续之前，Priya说：\"感谢你的耐心。\"我回答，我们互相对了笔记。干净的文件夹才能做出干净的提交。",
+   "hard": []
   }
  ],
  "chunks": [

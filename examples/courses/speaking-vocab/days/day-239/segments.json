@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 366,
-   "segment_count": 3,
+   "word_count": 429,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My perf champion rotation ends; Priya takes the wrench. We spend the first ten minutes of the review on the full chain stress report. During the design review, I raise one careful question about the shadow traffic rehearsal. I prepare a one-page brief about the stress test knowledge base so meetings start from facts. I compare two views on the rehearsal findings to tickets and write both down honestly. In the review drill, Maria says, \"The party debrief happens too.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Snack shortage logged honestly.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "My perf champion rotation ends; Priya takes the wrench. We spend the first ten minutes of the review on the full chain stress report. During the design review, I raise one careful question about the shadow traffic rehearsal. I prepare a one-page brief about the stress test knowledge base so meetings start from facts. I compare two views on the rehearsal findings to tickets and write both down honestly. In the review drill, Maria says, \"The party debrief happens too.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Snack shortage logged honestly.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "My perf champion rotation ends; Priya takes the wrench. We spend the first ten minutes of the review on the full chain stress report. During the design review, I raise one careful question about the stress test knowledge base. In the review drill, Leo says, \"The party debrief happens too.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "My perf champion rotation ends; Priya takes the wrench. We spend the first ten minutes of the review on the full chain stress report. During the design review, I raise one careful question about the stress test knowledge base. In the review drill, Leo says, \"The party debrief happens too.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "性能大使轮值到期；Priya 接过扳手。评审的前十分钟，我们都用在了全链路压测报告上。设计评审中，我就影子流量彩排提出了一个审慎的问题。我准备了一页关于压测知识库的简报，好让会议从事实出发。我比较了关于彩排发现转工单的两种观点，诚实地都记了下来。评审演练中，Maria说：\"聚会也有复盘会。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"零食短缺如实记录。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "性能大使轮值到期；Priya 接过扳手。评审的前十分钟，我们都用在了全链路压测报告上。设计评审中，我就压测知识库提出了一个审慎的问题。评审演练中，Leo说：\"聚会也有复盘会。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "full chain stress report",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I hand over the budgets, the flame graph album, and one golden rule: measure first. In the review drill, Maria says, \"The bathroom queue lesson.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Next year, two speakers.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the breaking point documentation twice. The team names one clear owner for the recovery time measurement. I add the load model documentation to the meeting agenda with three supporting facts. Our mentor walks me through how the breaking point regression track evolved on this team. We end the week with something shipped and something properly learned this time.",
-   "tts": "I hand over the budgets, the flame graph album, and one golden rule: measure first. In the review drill, Maria says, \"The bathroom queue lesson.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Next year, two speakers.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the breaking point documentation twice. The team names one clear owner for the recovery time measurement. I add the load model documentation to the meeting agenda with three supporting facts. Our mentor walks me through how the breaking point regression track evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "en": "I hand over the budgets, the flame graph album, and one golden rule: measure first. In the review drill, Priya says, \"Snack shortage logged honestly.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the shadow traffic rehearsal so meetings start from facts. I compare two views on the rehearsal findings to tickets and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "tts": "I hand over the budgets, the flame graph album, and one golden rule: measure first. In the review drill, Priya says, \"Snack shortage logged honestly.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the shadow traffic rehearsal so meetings start from facts. I compare two views on the rehearsal findings to tickets and write both down honestly. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我交出预算、火焰图相册，和一条金规：先测量。评审演练中，Maria说：\"卫生间排队的一课。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"明年音响配两个。\"我们互换角色，这次由我来提问。做决定之前，我把关于崩溃点记录的笔记重读了两遍。团队为恢复时间测量指定了明确的负责人。我把负载模型文档连同三条支撑事实加进了议程。导师带我梳理了崩溃点回归追踪在这个团队里的演变。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我交出预算、火焰图相册，和一条金规：先测量。评审演练中，Priya说：\"零食短缺如实记录。\"我们互换角色，这次由我来提问。我准备了一页关于影子流量彩排的简报，好让会议从事实出发。我比较了关于彩排发现转工单的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "breaking point documentation",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the war room notes template. During the design review, I raise one careful question about the readiness signoff sheet. I prepare a one-page brief about the hotspot discovery list so meetings start from facts. I compare two views on the capacity buy list and write both down honestly. In the review drill, Leo says, \"Guest arrival curve recorded.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Recipes that ran out first.\" We swap roles so I ask the questions this time. Tools rust; habits transfer.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the war room notes template. During the design review, I raise one careful question about the readiness signoff sheet. I prepare a one-page brief about the hotspot discovery list so meetings start from facts. I compare two views on the capacity buy list and write both down honestly. In the review drill, Leo says, \"Guest arrival curve recorded.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Recipes that ran out first.\" We swap roles so I ask the questions this time. Tools rust; habits transfer.",
+   "en": "I hand over the budgets, the flame graph album, and one golden rule: measure first. Before deciding, I reread my notes about the load model documentation twice. The team names one clear owner for the breaking point documentation. In the review drill, Maria says, \"The bathroom queue lesson.\" We swap roles so I ask the questions this time. Tools rust; habits transfer.",
+   "tts": "I hand over the budgets, the flame graph album, and one golden rule: measure first. Before deciding, I reread my notes about the load model documentation twice. The team names one clear owner for the breaking point documentation. In the review drill, Maria says, \"The bathroom queue lesson.\" We swap roles so I ask the questions this time. Tools rust; habits transfer.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了作战室笔记模板上。设计评审中，我就就绪签字表提出了一个审慎的问题。我准备了一页关于热点发现清单的简报，好让会议从事实出发。我比较了关于扩容采购清单的两种观点，诚实地都记了下来。评审演练中，Leo说：\"客人到场的曲线记下来了。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"最先光盘的菜是明星。\"我们互换角色，这次由我来提问。工具会锈，习惯会传。",
+   "zh": "我交出预算、火焰图相册，和一条金规：先测量。做决定之前，我把关于负载模型文档的笔记重读了两遍。团队为崩溃点记录指定了明确的负责人。评审演练中，Maria说：\"卫生间排队的一课。\"我们互换角色，这次由我来提问。工具会锈，习惯会传。",
    "hard": [
     {
      "w": "hotspot discovery list",
@@ -146,6 +146,33 @@
      "def": "就绪签字表，大促前的最后确认"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Tools rust; habits transfer. I add the recovery time measurement to the meeting agenda with three supporting facts. In the review drill, Maria says, \"Next year, two speakers.\" We swap roles so I ask the questions this time. Our mentor walks me through how the breaking point regression track evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Tools rust; habits transfer. I add the recovery time measurement to the meeting agenda with three supporting facts. In the review drill, Maria says, \"Next year, two speakers.\" We swap roles so I ask the questions this time. Our mentor walks me through how the breaking point regression track evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "工具会锈，习惯会传。我把恢复时间测量连同三条支撑事实加进了议程。评审演练中，Maria说：\"明年音响配两个。\"我们互换角色，这次由我来提问。导师带我梳理了崩溃点回归追踪在这个团队里的演变。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "I hand over the budgets, the flame graph album, and one golden rule: measure first. In the review drill, Priya says, \"Guest arrival curve recorded.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the war room notes template. During the design review, I raise one careful question about the hotspot discovery list. We end the week with something shipped and something properly learned this time.",
+   "tts": "I hand over the budgets, the flame graph album, and one golden rule: measure first. In the review drill, Priya says, \"Guest arrival curve recorded.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the war room notes template. During the design review, I raise one careful question about the hotspot discovery list. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我交出预算、火焰图相册，和一条金规：先测量。评审演练中，Priya说：\"客人到场的曲线记下来了。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了作战室笔记模板上。设计评审中，我就热点发现清单提出了一个审慎的问题。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the readiness signoff sheet so meetings start from facts. I compare two views on the capacity buy list and write both down honestly. In the review drill, Maria says, \"Recipes that ran out first.\" We swap roles so I ask the questions this time. Tools rust; habits transfer.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the readiness signoff sheet so meetings start from facts. I compare two views on the capacity buy list and write both down honestly. In the review drill, Maria says, \"Recipes that ran out first.\" We swap roles so I ask the questions this time. Tools rust; habits transfer.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于就绪签字表的简报，好让会议从事实出发。我比较了关于扩容采购清单的两种观点，诚实地都记了下来。评审演练中，Maria说：\"最先光盘的菜是明星。\"我们互换角色，这次由我来提问。工具会锈，习惯会传。",
+   "hard": []
   }
  ],
  "chunks": [

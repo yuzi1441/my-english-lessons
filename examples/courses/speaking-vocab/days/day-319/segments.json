@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 388,
-   "segment_count": 3,
+   "word_count": 448,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Architecture rules become automated tests. I close the discussion on the log based message broker with a short summary. I put the partition and consumer group on the record so the reasoning stays visible. My report covers the topic naming convention, the risks behind it, and the cost of waiting. We align on the consumer lag alert thresholds early, so execution never has to guess. In the launch rehearsal, Priya says, \"The fridge board never lies twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Messages have timestamps.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "Architecture rules become automated tests. I close the discussion on the log based message broker with a short summary. I put the partition and consumer group on the record so the reasoning stays visible. My report covers the topic naming convention, the risks behind it, and the cost of waiting. We align on the consumer lag alert thresholds early, so execution never has to guess. In the launch rehearsal, Priya says, \"The fridge board never lies twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Messages have timestamps.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "Architecture rules become automated tests. I close the discussion on the log based message broker with a short summary. I put the topic naming convention on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The fridge board never lies twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Architecture rules become automated tests. I close the discussion on the log based message broker with a short summary. I put the topic naming convention on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The fridge board never lies twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "架构规则变成自动化测试。我用一段简短的总结为日志型消息中间件的讨论收尾。我把分区与消费组记录在案，让推理过程保持可见。我的报告涵盖主题命名规范、背后的风险，以及等待的代价。我们尽早就消费延迟告警阈值对齐，让执行无需猜测。上线彩排中，Priya说：\"冰箱贴从不说两次谎。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"留言都带时间戳。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "架构规则变成自动化测试。我用一段简短的总结为日志型消息中间件的讨论收尾。我把主题命名规范记录在案，让推理过程保持可见。上线彩排中，Maria说：\"冰箱贴从不说两次谎。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "log based message broker",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A dependency sneaks across a boundary; the fitness function barks. In the launch rehearsal, Priya says, \"Urgent notes get magnets.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Read receipts by initial.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the message ordering guarantee with a timeline, the data, and one clear ask. The final deck includes the delivery semantics choice and what we learned from it. I propose a measurable target for the schema registry discipline this quarter. We review the replay drill for corrections against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "A dependency sneaks across a boundary; the fitness function barks. In the launch rehearsal, Priya says, \"Urgent notes get magnets.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Read receipts by initial.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the message ordering guarantee with a timeline, the data, and one clear ask. The final deck includes the delivery semantics choice and what we learned from it. I propose a measurable target for the schema registry discipline this quarter. We review the replay drill for corrections against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "A dependency sneaks across a boundary; the fitness function barks. In the launch rehearsal, Leo says, \"Messages have timestamps.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the partition and consumer group, the risks behind it, and the cost of waiting. We align on the consumer lag alert thresholds early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "A dependency sneaks across a boundary; the fitness function barks. In the launch rehearsal, Leo says, \"Messages have timestamps.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the partition and consumer group, the risks behind it, and the cost of waiting. We align on the consumer lag alert thresholds early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一条依赖偷偷越界；适应度函数叫了起来。上线彩排中，Priya说：\"紧急便条上磁铁。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"看过的签上首字母。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报消息顺序保证。最终的材料里有投递语义选择，以及我们从中学到的东西。我为结构注册纪律提出了本季度一个可衡量的目标。我们逐行对照需求检查了纠错回放演练。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "一条依赖偷偷越界；适应度函数叫了起来。上线彩排中，Leo说：\"留言都带时间戳。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖分区与消费组、背后的风险，以及等待的代价。我们尽早就消费延迟告警阈值对齐，让执行无需猜测。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "message ordering guarantee",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the message size guardrail with a short summary. I put the poison message triage flow on the record so the reasoning stays visible. My report covers the retention policy for topics, the risks behind it, and the cost of waiting. We align on the backpressure aware consumers early, so execution never has to guess. In the launch rehearsal, Maria says, \"Old notes retire weekly.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"One topic per note.\" To finish, we swap roles and I lead the entire exchange from start to finish. The map now defends itself.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the message size guardrail with a short summary. I put the poison message triage flow on the record so the reasoning stays visible. My report covers the retention policy for topics, the risks behind it, and the cost of waiting. We align on the backpressure aware consumers early, so execution never has to guess. In the launch rehearsal, Maria says, \"Old notes retire weekly.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"One topic per note.\" To finish, we swap roles and I lead the entire exchange from start to finish. The map now defends itself.",
+   "en": "A dependency sneaks across a boundary; the fitness function barks. I present the schema registry discipline with a timeline, the data, and one clear ask. The final deck includes the message ordering guarantee and what we learned from it. In the launch rehearsal, Priya says, \"Urgent notes get magnets.\" To finish, we swap roles and I lead the entire exchange from start to finish. The map now defends itself.",
+   "tts": "A dependency sneaks across a boundary; the fitness function barks. I present the schema registry discipline with a timeline, the data, and one clear ask. The final deck includes the message ordering guarantee and what we learned from it. In the launch rehearsal, Priya says, \"Urgent notes get magnets.\" To finish, we swap roles and I lead the entire exchange from start to finish. The map now defends itself.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为消息体量护栏的讨论收尾。我把毒消息分诊流程记录在案，让推理过程保持可见。我的报告涵盖主题保留策略、背后的风险，以及等待的代价。我们尽早就背压感知消费者对齐，让执行无需猜测。上线彩排中，Maria说：\"旧留言每周退役。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"一张便条一件事。\"最后我们互换角色，由我从头到尾主导整段对话。地图学会了自卫。",
+   "zh": "一条依赖偷偷越界；适应度函数叫了起来。我用时间线、数据和一条明确的诉求来汇报结构注册纪律。最终的材料里有消息顺序保证，以及我们从中学到的东西。上线彩排中，Priya说：\"紧急便条上磁铁。\"最后我们互换角色，由我从头到尾主导整段对话。地图学会了自卫。",
    "hard": [
     {
      "w": "retention policy for topics",
@@ -146,6 +146,33 @@
      "def": "毒消息分诊流程，坏信人工检"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The map now defends itself. I propose a measurable target for the delivery semantics choice this quarter. In the launch rehearsal, Priya says, \"Read receipts by initial.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the replay drill for corrections against the requirements, line by line. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The map now defends itself. I propose a measurable target for the delivery semantics choice this quarter. In the launch rehearsal, Priya says, \"Read receipts by initial.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the replay drill for corrections against the requirements, line by line. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "地图学会了自卫。我为投递语义选择提出了本季度一个可衡量的目标。上线彩排中，Priya说：\"看过的签上首字母。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了纠错回放演练。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "A dependency sneaks across a boundary; the fitness function barks. In the launch rehearsal, Leo says, \"Old notes retire weekly.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the message size guardrail with a short summary. I put the retention policy for topics on the record so the reasoning stays visible. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "A dependency sneaks across a boundary; the fitness function barks. In the launch rehearsal, Leo says, \"Old notes retire weekly.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the message size guardrail with a short summary. I put the retention policy for topics on the record so the reasoning stays visible. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "一条依赖偷偷越界；适应度函数叫了起来。上线彩排中，Leo说：\"旧留言每周退役。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为消息体量护栏的讨论收尾。我把主题保留策略记录在案，让推理过程保持可见。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the poison message triage flow, the risks behind it, and the cost of waiting. We align on the backpressure aware consumers early, so execution never has to guess. In the launch rehearsal, Priya says, \"One topic per note.\" To finish, we swap roles and I lead the entire exchange from start to finish. The map now defends itself.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the poison message triage flow, the risks behind it, and the cost of waiting. We align on the backpressure aware consumers early, so execution never has to guess. In the launch rehearsal, Priya says, \"One topic per note.\" To finish, we swap roles and I lead the entire exchange from start to finish. The map now defends itself.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖毒消息分诊流程、背后的风险，以及等待的代价。我们尽早就背压感知消费者对齐，让执行无需猜测。上线彩排中，Priya说：\"一张便条一件事。\"最后我们互换角色，由我从头到尾主导整段对话。地图学会了自卫。",
+   "hard": []
   }
  ],
  "chunks": [

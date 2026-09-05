@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 326,
-   "segment_count": 3,
+   "word_count": 390,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Cold starts make night-time saves crawl. I add the data pipeline to my study notes before I forget it. I keep one real example of the batch job in my notebook. There is a short paragraph about the quality gate in the guide. I spend ten quiet minutes on the regression suite after the standup. In the warm-up round, Maria says, \"The trail map lies a little.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Packed lunch tastes better outdoors.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
-   "tts": "Cold starts make night-time saves crawl. I add the data pipeline to my study notes before I forget it. I keep one real example of the batch job in my notebook. There is a short paragraph about the quality gate in the guide. I spend ten quiet minutes on the regression suite after the standup. In the warm-up round, Maria says, \"The trail map lies a little.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Packed lunch tastes better outdoors.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "en": "Cold starts make night-time saves crawl. I add the data pipeline to my study notes before I forget it. I keep one real example of the quality gate in my notebook. In the warm-up round, Leo says, \"The trail map lies a little.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "Cold starts make night-time saves crawl. I add the data pipeline to my study notes before I forget it. I keep one real example of the quality gate in my notebook. In the warm-up round, Leo says, \"The trail map lies a little.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "冷启动让深夜的保存慢如爬行。我趁还没忘，把数据管道记进了学习笔记。我在笔记本里留了一个批处理任务的真实例子。指南里有一小段关于质量门禁的介绍。站会之后，我安安静静花了十分钟在回归测试集上。热身环节里，Maria说：\"徒步地图有点不准。\"然后我们换角色，由我来问。热身环节里，Priya说：\"户外的便当格外香。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
+   "zh": "冷启动让深夜的保存慢如爬行。我趁还没忘，把数据管道记进了学习笔记。我在笔记本里留了一个质量门禁的真实例子。热身环节里，Leo说：\"徒步地图有点不准。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "data pipeline",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A warm pool and a smaller image cut the wait to a blink. In the warm-up round, Maria says, \"Layers beat one big coat.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Broken-in boots save your feet.\" Then we swap roles and I ask it back. My notes about the stream processing look clearer this week. I go over the etl job one more time before lunch. I ask one good question about the coverage report in the meeting. Sam asks me about the flaky quarantine, and I explain the basics. I end the day with fewer unknowns than I started with.",
-   "tts": "A warm pool and a smaller image cut the wait to a blink. In the warm-up round, Maria says, \"Layers beat one big coat.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Broken-in boots save your feet.\" Then we swap roles and I ask it back. My notes about the stream processing look clearer this week. I go over the etl job one more time before lunch. I ask one good question about the coverage report in the meeting. Sam asks me about the flaky quarantine, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "en": "A warm pool and a smaller image cut the wait to a blink. In the warm-up round, Priya says, \"Packed lunch tastes better outdoors.\" Then we swap roles and I ask it back. There is a short paragraph about the batch job in the guide. I spend ten quiet minutes on the regression suite after the standup. I end the day with fewer unknowns than I started with.",
+   "tts": "A warm pool and a smaller image cut the wait to a blink. In the warm-up round, Priya says, \"Packed lunch tastes better outdoors.\" Then we swap roles and I ask it back. There is a short paragraph about the batch job in the guide. I spend ten quiet minutes on the regression suite after the standup. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "预热池加更小的镜像，把等待缩短到一眨眼。热身环节里，Maria说：\"多层比一件厚衣聪明。\"然后我们换角色，由我来问。热身环节里，Priya说：\"磨合好的鞋保护双脚。\"然后我们换角色，由我来问。这周我关于流式处理的笔记清楚多了。午饭前我又过了一遍ETL 任务。会上关于覆盖率报告，我问了一个好问题。Sam 问起不稳定隔离，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "预热池加更小的镜像，把等待缩短到一眨眼。热身环节里，Priya说：\"户外的便当格外香。\"然后我们换角色，由我来问。指南里有一小段关于批处理任务的介绍。站会之后，我安安静静花了十分钟在回归测试集上。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "stream processing",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the bug bash to my study notes before I forget it. I keep one real example of the triage rotation in my notebook. There is a short paragraph about the schema registry in the guide. I spend ten quiet minutes on the replayable log after the standup. In the warm-up round, Leo says, \"Summit fog is a lottery.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The descent is the real test.\" Then we swap roles and I ask it back. The fastest code is the code you never start.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the bug bash to my study notes before I forget it. I keep one real example of the triage rotation in my notebook. There is a short paragraph about the schema registry in the guide. I spend ten quiet minutes on the replayable log after the standup. In the warm-up round, Leo says, \"Summit fog is a lottery.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The descent is the real test.\" Then we swap roles and I ask it back. The fastest code is the code you never start.",
+   "en": "A warm pool and a smaller image cut the wait to a blink. My notes about the coverage report look clearer this week. I go over the stream processing one more time before lunch. In the warm-up round, Maria says, \"Layers beat one big coat.\" Then we swap roles and I ask it back. The fastest code is the code you never start.",
+   "tts": "A warm pool and a smaller image cut the wait to a blink. My notes about the coverage report look clearer this week. I go over the stream processing one more time before lunch. In the warm-up round, Maria says, \"Layers beat one big coat.\" Then we swap roles and I ask it back. The fastest code is the code you never start.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把缺陷大扫除记进了学习笔记。我在笔记本里留了一个分诊轮换的真实例子。指南里有一小段关于结构注册中心的介绍。站会之后，我安安静静花了十分钟在可回放日志上。热身环节里，Leo说：\"山顶的雾看运气。\"然后我们换角色，由我来问。热身环节里，Maria说：\"下山才是真正的考验。\"然后我们换角色，由我来问。最快的代码，是你从未启动的代码。",
+   "zh": "预热池加更小的镜像，把等待缩短到一眨眼。这周我关于覆盖率报告的笔记清楚多了。午饭前我又过了一遍流式处理。热身环节里，Maria说：\"多层比一件厚衣聪明。\"然后我们换角色，由我来问。最快的代码，是你从未启动的代码。",
    "hard": [
     {
      "w": "schema registry",
@@ -146,6 +146,33 @@
      "def": "分诊轮换，轮流处理新进问题"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The fastest code is the code you never start. I ask one good question about the etl job in the meeting. In the warm-up round, Maria says, \"Broken-in boots save your feet.\" Then we swap roles and I ask it back. Sam asks me about the flaky quarantine, and I explain the basics. The task moves forward, and so does my confidence.",
+   "tts": "The fastest code is the code you never start. I ask one good question about the etl job in the meeting. In the warm-up round, Maria says, \"Broken-in boots save your feet.\" Then we swap roles and I ask it back. Sam asks me about the flaky quarantine, and I explain the basics. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "最快的代码，是你从未启动的代码。会上关于ETL 任务，我问了一个好问题。热身环节里，Maria说：\"磨合好的鞋保护双脚。\"然后我们换角色，由我来问。Sam 问起不稳定隔离，我讲了讲基础。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "A warm pool and a smaller image cut the wait to a blink. In the warm-up round, Priya says, \"Summit fog is a lottery.\" Then we swap roles and I ask it back. I add the bug bash to my study notes before I forget it. I keep one real example of the schema registry in my notebook. I end the day with fewer unknowns than I started with.",
+   "tts": "A warm pool and a smaller image cut the wait to a blink. In the warm-up round, Priya says, \"Summit fog is a lottery.\" Then we swap roles and I ask it back. I add the bug bash to my study notes before I forget it. I keep one real example of the schema registry in my notebook. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "预热池加更小的镜像，把等待缩短到一眨眼。热身环节里，Priya说：\"山顶的雾看运气。\"然后我们换角色，由我来问。我趁还没忘，把缺陷大扫除记进了学习笔记。我在笔记本里留了一个结构注册中心的真实例子。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the triage rotation in the guide. I spend ten quiet minutes on the replayable log after the standup. In the warm-up round, Maria says, \"The descent is the real test.\" Then we swap roles and I ask it back. The fastest code is the code you never start.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the triage rotation in the guide. I spend ten quiet minutes on the replayable log after the standup. In the warm-up round, Maria says, \"The descent is the real test.\" Then we swap roles and I ask it back. The fastest code is the code you never start.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于分诊轮换的介绍。站会之后，我安安静静花了十分钟在可回放日志上。热身环节里，Maria说：\"下山才是真正的考验。\"然后我们换角色，由我来问。最快的代码，是你从未启动的代码。",
+   "hard": []
   }
  ],
  "chunks": [

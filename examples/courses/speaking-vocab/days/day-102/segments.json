@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 322,
-   "segment_count": 3,
+   "word_count": 385,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A newcomer mocks everything, even the sun and the moon. There is a short paragraph about the escape analysis in the guide. I keep one real example of the bug clustering in my notebook. My notes about the escaped defect rate look clearer this week. I go over the defect discovery time one more time before lunch. In the warm-up round, Leo says, \"The kitchen is my lab.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"A recipe is a suggestion.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "A newcomer mocks everything, even the sun and the moon. There is a short paragraph about the escape analysis in the guide. I keep one real example of the bug clustering in my notebook. My notes about the escaped defect rate look clearer this week. I go over the defect discovery time one more time before lunch. In the warm-up round, Leo says, \"The kitchen is my lab.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"A recipe is a suggestion.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "A newcomer mocks everything, even the sun and the moon. There is a short paragraph about the escape analysis in the guide. I keep one real example of the escaped defect rate in my notebook. In the warm-up round, Priya says, \"The kitchen is my lab.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "A newcomer mocks everything, even the sun and the moon. There is a short paragraph about the escape analysis in the guide. I keep one real example of the escaped defect rate in my notebook. In the warm-up round, Priya says, \"The kitchen is my lab.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位新人把一切都模拟了，连太阳和月亮也不放过。指南里有一小段关于逃逸分析的介绍。我在笔记本里留了一个缺陷聚集的真实例子。这周我关于逃逸缺陷率的笔记清楚多了。午饭前我又过了一遍缺陷发现时间。热身环节里，Leo说：\"厨房是我的实验室。\"然后我们换角色，由我来问。热身环节里，Maria说：\"食谱只是建议。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "一位新人把一切都模拟了，连太阳和月亮也不放过。指南里有一小段关于逃逸分析的介绍。我在笔记本里留了一个逃逸缺陷率的真实例子。热身环节里，Priya说：\"厨房是我的实验室。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "escape analysis",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The debate ends with a rule: mock the edges, trust the middle. In the warm-up round, Leo says, \"Salt, taste, repeat.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Failed bread, great croutons.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the defect density after the standup. I ask one good question about the root cause tree in the meeting. Sam asks me about the fix lead time, and I explain the basics. I add the reopened issues to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
-   "tts": "The debate ends with a rule: mock the edges, trust the middle. In the warm-up round, Leo says, \"Salt, taste, repeat.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Failed bread, great croutons.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the defect density after the standup. I ask one good question about the root cause tree in the meeting. Sam asks me about the fix lead time, and I explain the basics. I add the reopened issues to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
+   "en": "The debate ends with a rule: mock the edges, trust the middle. In the warm-up round, Maria says, \"A recipe is a suggestion.\" Then we swap roles and I ask it back. My notes about the bug clustering look clearer this week. I go over the defect discovery time one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The debate ends with a rule: mock the edges, trust the middle. In the warm-up round, Maria says, \"A recipe is a suggestion.\" Then we swap roles and I ask it back. My notes about the bug clustering look clearer this week. I go over the defect discovery time one more time before lunch. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "辩论以一条规则收场：模拟边缘，信任中间。热身环节里，Leo说：\"加盐、尝、重复。\"然后我们换角色，由我来问。热身环节里，Maria说：\"面包失败\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在缺陷密度上。会上关于根因树，我问了一个好问题。Sam 问起修复周期，我讲了讲基础。我趁还没忘，把重开问题记进了学习笔记。今天的小进步为明天更大的跨越做准备。",
+   "zh": "辩论以一条规则收场：模拟边缘，信任中间。热身环节里，Maria说：\"食谱只是建议。\"然后我们换角色，由我来问。这周我关于缺陷聚集的笔记清楚多了。午饭前我又过了一遍缺陷发现时间。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "defect density",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the defect origin in the guide. I keep one real example of the quality trend in my notebook. My notes about the five whys look clearer this week. I go over the corrective action one more time before lunch. In the warm-up round, Priya says, \"Write down what worked.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Fridge leftovers, next soup.\" Then we swap roles and I ask it back. Tests that mock the world only prove the mock works.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the defect origin in the guide. I keep one real example of the quality trend in my notebook. My notes about the five whys look clearer this week. I go over the corrective action one more time before lunch. In the warm-up round, Priya says, \"Write down what worked.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Fridge leftovers, next soup.\" Then we swap roles and I ask it back. Tests that mock the world only prove the mock works.",
+   "en": "The debate ends with a rule: mock the edges, trust the middle. I spend ten quiet minutes on the fix lead time after the standup. I ask one good question about the defect density in the meeting. In the warm-up round, Leo says, \"Salt, taste, repeat.\" Then we swap roles and I ask it back. Tests that mock the world only prove the mock works.",
+   "tts": "The debate ends with a rule: mock the edges, trust the middle. I spend ten quiet minutes on the fix lead time after the standup. I ask one good question about the defect density in the meeting. In the warm-up round, Leo says, \"Salt, taste, repeat.\" Then we swap roles and I ask it back. Tests that mock the world only prove the mock works.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于缺陷来源的介绍。我在笔记本里留了一个质量趋势的真实例子。这周我关于五个为什么的笔记清楚多了。午饭前我又过了一遍纠正措施。热身环节里，Priya说：\"成功的要记下来。\"然后我们换角色，由我来问。热身环节里，Leo说：\"冰箱剩菜\"然后我们换角色，由我来问。把世界都模拟掉的测试，只能证明模拟本身没问题。",
+   "zh": "辩论以一条规则收场：模拟边缘，信任中间。站会之后，我安安静静花了十分钟在修复周期上。会上关于缺陷密度，我问了一个好问题。热身环节里，Leo说：\"加盐、尝、重复。\"然后我们换角色，由我来问。把世界都模拟掉的测试，只能证明模拟本身没问题。",
    "hard": [
     {
      "w": "five whys",
@@ -146,6 +146,33 @@
      "def": "质量趋势，一条看方向的线"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Tests that mock the world only prove the mock works. Sam asks me about the root cause tree, and I explain the basics. In the warm-up round, Leo says, \"Failed bread, great croutons.\" Then we swap roles and I ask it back. I add the reopened issues to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "tts": "Tests that mock the world only prove the mock works. Sam asks me about the root cause tree, and I explain the basics. In the warm-up round, Leo says, \"Failed bread, great croutons.\" Then we swap roles and I ask it back. I add the reopened issues to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "把世界都模拟掉的测试，只能证明模拟本身没问题。Sam 问起根因树，我讲了讲基础。热身环节里，Leo说：\"面包失败\"然后我们换角色，由我来问。我趁还没忘，把重开问题记进了学习笔记。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The debate ends with a rule: mock the edges, trust the middle. In the warm-up round, Maria says, \"Write down what worked.\" Then we swap roles and I ask it back. There is a short paragraph about the defect origin in the guide. I keep one real example of the five whys in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The debate ends with a rule: mock the edges, trust the middle. In the warm-up round, Maria says, \"Write down what worked.\" Then we swap roles and I ask it back. There is a short paragraph about the defect origin in the guide. I keep one real example of the five whys in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "辩论以一条规则收场：模拟边缘，信任中间。热身环节里，Maria说：\"成功的要记下来。\"然后我们换角色，由我来问。指南里有一小段关于缺陷来源的介绍。我在笔记本里留了一个五个为什么的真实例子。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the quality trend look clearer this week. I go over the corrective action one more time before lunch. In the warm-up round, Leo says, \"Fridge leftovers, next soup.\" Then we swap roles and I ask it back. Tests that mock the world only prove the mock works.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the quality trend look clearer this week. I go over the corrective action one more time before lunch. In the warm-up round, Leo says, \"Fridge leftovers, next soup.\" Then we swap roles and I ask it back. Tests that mock the world only prove the mock works.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于质量趋势的笔记清楚多了。午饭前我又过了一遍纠正措施。热身环节里，Leo说：\"冰箱剩菜\"然后我们换角色，由我来问。把世界都模拟掉的测试，只能证明模拟本身没问题。",
+   "hard": []
   }
  ],
  "chunks": [

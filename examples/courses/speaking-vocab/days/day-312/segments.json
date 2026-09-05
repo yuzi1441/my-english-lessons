@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 399,
-   "segment_count": 3,
+   "word_count": 460,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The legacy reporting module gets strangled slowly. I put the blameless review to design loop on the record so the reasoning stays visible. We review the failure mode elimination backlog against the requirements, line by line. I close the discussion on the resilience requirements in design docs with a short summary. My report covers the chaos experiment schedule, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"The flooded garage got a drainage plan.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"We elevate sockets after one storm.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "The legacy reporting module gets strangled slowly. I put the blameless review to design loop on the record so the reasoning stays visible. We review the failure mode elimination backlog against the requirements, line by line. I close the discussion on the resilience requirements in design docs with a short summary. My report covers the chaos experiment schedule, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"The flooded garage got a drainage plan.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"We elevate sockets after one storm.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "The legacy reporting module gets strangled slowly. I put the blameless review to design loop on the record so the reasoning stays visible. We review the resilience requirements in design docs against the requirements, line by line. In the launch rehearsal, Priya says, \"The flooded garage got a drainage plan.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "The legacy reporting module gets strangled slowly. I put the blameless review to design loop on the record so the reasoning stays visible. We review the resilience requirements in design docs against the requirements, line by line. In the launch rehearsal, Priya says, \"The flooded garage got a drainage plan.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "遗留报表模块开始被慢慢绞杀。我把无责复盘回设计环记录在案，让推理过程保持可见。我们逐行对照需求检查了失效模式消除积压单。我用一段简短的总结为设计文档中的韧性需求的讨论收尾。我的报告涵盖混沌实验排期、背后的风险，以及等待的代价。上线彩排中，Leo说：\"被淹的车库有了排水方案。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"一场暴雨后插座全部上墙。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "遗留报表模块开始被慢慢绞杀。我把无责复盘回设计环记录在案，让推理过程保持可见。我们逐行对照需求检查了设计文档中的韧性需求。上线彩排中，Priya说：\"被淹的车库有了排水方案。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "blameless review to design loop",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "New routes grow around it, one endpoint per sprint. In the launch rehearsal, Leo says, \"The sump pump gets tested monthly.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Insurance now covers known risks.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the chaos finding integration and what we learned from it. I present the resilience pattern library with a timeline, the data, and one clear ask. We align on the degradation drill days early, so execution never has to guess. I propose a measurable target for the recovery time regression check this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "New routes grow around it, one endpoint per sprint. In the launch rehearsal, Leo says, \"The sump pump gets tested monthly.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Insurance now covers known risks.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the chaos finding integration and what we learned from it. I present the resilience pattern library with a timeline, the data, and one clear ask. We align on the degradation drill days early, so execution never has to guess. I propose a measurable target for the recovery time regression check this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "New routes grow around it, one endpoint per sprint. In the launch rehearsal, Maria says, \"We elevate sockets after one storm.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the failure mode elimination backlog with a short summary. My report covers the chaos experiment schedule, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "New routes grow around it, one endpoint per sprint. In the launch rehearsal, Maria says, \"We elevate sockets after one storm.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the failure mode elimination backlog with a short summary. My report covers the chaos experiment schedule, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "新路由围绕它生长，一个迭代长一个端点。上线彩排中，Leo说：\"集水泵每月试一次。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"保险如今覆盖已知风险。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有混沌演练发现整合，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报韧性模式库。我们尽早就降级演练日对齐，让执行无需猜测。我为恢复时间回归检查提出了本季度一个可衡量的目标。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "新路由围绕它生长，一个迭代长一个端点。上线彩排中，Maria说：\"一场暴雨后插座全部上墙。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为失效模式消除积压单的讨论收尾。我的报告涵盖混沌实验排期、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "chaos finding integration",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the architect risk review signoff on the record so the reasoning stays visible. We review the resilience wins showcase against the requirements, line by line. I close the discussion on the postmortem action tracking with a short summary. My report covers the architectural lessons catalog, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Every flood drill feels calmer.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The house remembers its floods.\" To finish, we swap roles and I lead the entire exchange from start to finish. No big bang, just patient ivy.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the architect risk review signoff on the record so the reasoning stays visible. We review the resilience wins showcase against the requirements, line by line. I close the discussion on the postmortem action tracking with a short summary. My report covers the architectural lessons catalog, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Every flood drill feels calmer.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The house remembers its floods.\" To finish, we swap roles and I lead the entire exchange from start to finish. No big bang, just patient ivy.",
+   "en": "New routes grow around it, one endpoint per sprint. The final deck includes the degradation drill days and what we learned from it. I present the chaos finding integration with a timeline, the data, and one clear ask. In the launch rehearsal, Leo says, \"The sump pump gets tested monthly.\" To finish, we swap roles and I lead the entire exchange from start to finish. No big bang, just patient ivy.",
+   "tts": "New routes grow around it, one endpoint per sprint. The final deck includes the degradation drill days and what we learned from it. I present the chaos finding integration with a timeline, the data, and one clear ask. In the launch rehearsal, Leo says, \"The sump pump gets tested monthly.\" To finish, we swap roles and I lead the entire exchange from start to finish. No big bang, just patient ivy.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把架构师风险评审签字记录在案，让推理过程保持可见。我们逐行对照需求检查了韧性成果展示。我用一段简短的总结为复盘行动追踪的讨论收尾。我的报告涵盖架构教训目录、背后的风险，以及等待的代价。上线彩排中，Priya说：\"每次演练都比上次镇定。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"房子记得每一场水患。\"最后我们互换角色，由我从头到尾主导整段对话。没有大爆炸，只有耐心的常春藤。",
+   "zh": "新路由围绕它生长，一个迭代长一个端点。最终的材料里有降级演练日，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报混沌演练发现整合。上线彩排中，Leo说：\"集水泵每月试一次。\"最后我们互换角色，由我从头到尾主导整段对话。没有大爆炸，只有耐心的常春藤。",
    "hard": [
     {
      "w": "postmortem action tracking",
@@ -146,6 +146,33 @@
      "def": "韧性成果展示，稳了的也庆祝"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "No big bang, just patient ivy. We align on the resilience pattern library early, so execution never has to guess. In the launch rehearsal, Leo says, \"Insurance now covers known risks.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the recovery time regression check this quarter. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "No big bang, just patient ivy. We align on the resilience pattern library early, so execution never has to guess. In the launch rehearsal, Leo says, \"Insurance now covers known risks.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the recovery time regression check this quarter. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "没有大爆炸，只有耐心的常春藤。我们尽早就韧性模式库对齐，让执行无需猜测。上线彩排中，Leo说：\"保险如今覆盖已知风险。\"最后我们互换角色，由我从头到尾主导整段对话。我为恢复时间回归检查提出了本季度一个可衡量的目标。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "New routes grow around it, one endpoint per sprint. In the launch rehearsal, Maria says, \"Every flood drill feels calmer.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the architect risk review signoff on the record so the reasoning stays visible. We review the postmortem action tracking against the requirements, line by line. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "New routes grow around it, one endpoint per sprint. In the launch rehearsal, Maria says, \"Every flood drill feels calmer.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the architect risk review signoff on the record so the reasoning stays visible. We review the postmortem action tracking against the requirements, line by line. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "新路由围绕它生长，一个迭代长一个端点。上线彩排中，Maria说：\"每次演练都比上次镇定。\"最后我们互换角色，由我从头到尾主导整段对话。我把架构师风险评审签字记录在案，让推理过程保持可见。我们逐行对照需求检查了复盘行动追踪。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the resilience wins showcase with a short summary. My report covers the architectural lessons catalog, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"The house remembers its floods.\" To finish, we swap roles and I lead the entire exchange from start to finish. No big bang, just patient ivy.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the resilience wins showcase with a short summary. My report covers the architectural lessons catalog, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"The house remembers its floods.\" To finish, we swap roles and I lead the entire exchange from start to finish. No big bang, just patient ivy.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为韧性成果展示的讨论收尾。我的报告涵盖架构教训目录、背后的风险，以及等待的代价。上线彩排中，Leo说：\"房子记得每一场水患。\"最后我们互换角色，由我从头到尾主导整段对话。没有大爆炸，只有耐心的常春藤。",
+   "hard": []
   }
  ],
  "chunks": [

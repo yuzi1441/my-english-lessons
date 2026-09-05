@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 393,
-   "segment_count": 3,
+   "word_count": 457,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Cutover day runs like a well chaired meeting. We align on the container orchestration basics early, so execution never has to guess. My report covers the deployment replica management, the risks behind it, and the cost of waiting. I put the manifest review checklist on the record so the reasoning stays visible. I close the discussion on the resource limit lint with a short summary. In the launch rehearsal, Priya says, \"Chores rotate so nobody burns out.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The dish fairy works nightly.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "Cutover day runs like a well chaired meeting. We align on the container orchestration basics early, so execution never has to guess. My report covers the deployment replica management, the risks behind it, and the cost of waiting. I put the manifest review checklist on the record so the reasoning stays visible. I close the discussion on the resource limit lint with a short summary. In the launch rehearsal, Priya says, \"Chores rotate so nobody burns out.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The dish fairy works nightly.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "Cutover day runs like a well chaired meeting. We align on the container orchestration basics early, so execution never has to guess. My report covers the manifest review checklist, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"Chores rotate so nobody burns out.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Cutover day runs like a well chaired meeting. We align on the container orchestration basics early, so execution never has to guess. My report covers the manifest review checklist, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"Chores rotate so nobody burns out.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "切换日像一场主持得当的会议。我们尽早就容器编排入门对齐，让执行无需猜测。我的报告涵盖部署副本管理、背后的风险，以及等待的代价。我把编排清单评审记录在案，让推理过程保持可见。我用一段简短的总结为资源上限检查的讨论收尾。上线彩排中，Priya说：\"家务轮换没人累垮。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"洗碗精灵每晚值班。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "切换日像一场主持得当的会议。我们尽早就容器编排入门对齐，让执行无需猜测。我的报告涵盖编排清单评审、背后的风险，以及等待的代价。上线彩排中，Maria说：\"家务轮换没人累垮。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "container orchestration basics",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Go signals, rollback criteria, and one calm voice on the bridge. In the launch rehearsal, Priya says, \"Heavy lifting needs two names.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Substitutes exist for sick days.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the service discovery health and what we learned from it. I propose a measurable target for the resource requests and limits this quarter. We review the autoscaling policy test against the requirements, line by line. I present the namespace hygiene review with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "Go signals, rollback criteria, and one calm voice on the bridge. In the launch rehearsal, Priya says, \"Heavy lifting needs two names.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Substitutes exist for sick days.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the service discovery health and what we learned from it. I propose a measurable target for the resource requests and limits this quarter. We review the autoscaling policy test against the requirements, line by line. I present the namespace hygiene review with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "Go signals, rollback criteria, and one calm voice on the bridge. In the launch rehearsal, Leo says, \"The dish fairy works nightly.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the deployment replica management on the record so the reasoning stays visible. I close the discussion on the resource limit lint with a short summary. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Go signals, rollback criteria, and one calm voice on the bridge. In the launch rehearsal, Leo says, \"The dish fairy works nightly.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the deployment replica management on the record so the reasoning stays visible. I close the discussion on the resource limit lint with a short summary. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "放行信号、回滚标准，和桥上一颗平静的声音。上线彩排中，Priya说：\"重活需要两个人名。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"病假有替补。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有服务发现健康，以及我们从中学到的东西。我为资源申请与上限提出了本季度一个可衡量的目标。我们逐行对照需求检查了自动扩缩策略测试。我用时间线、数据和一条明确的诉求来汇报命名空间卫生评审。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "放行信号、回滚标准，和桥上一颗平静的声音。上线彩排中，Leo说：\"洗碗精灵每晚值班。\"最后我们互换角色，由我从头到尾主导整段对话。我把部署副本管理记录在案，让推理过程保持可见。我用一段简短的总结为资源上限检查的讨论收尾。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "service discovery health",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the rollout badging convention early, so execution never has to guess. My report covers the drift correction job, the risks behind it, and the cost of waiting. I put the rolling update strategy on the record so the reasoning stays visible. I close the discussion on the node pool segregation with a short summary. In the launch rehearsal, Maria says, \"The schedule lives on the fridge.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Fairness prevents strikes.\" To finish, we swap roles and I lead the entire exchange from start to finish. The migration finished before lunch, politely.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the rollout badging convention early, so execution never has to guess. My report covers the drift correction job, the risks behind it, and the cost of waiting. I put the rolling update strategy on the record so the reasoning stays visible. I close the discussion on the node pool segregation with a short summary. In the launch rehearsal, Maria says, \"The schedule lives on the fridge.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Fairness prevents strikes.\" To finish, we swap roles and I lead the entire exchange from start to finish. The migration finished before lunch, politely.",
+   "en": "Go signals, rollback criteria, and one calm voice on the bridge. The final deck includes the autoscaling policy test and what we learned from it. I propose a measurable target for the service discovery health this quarter. In the launch rehearsal, Priya says, \"Heavy lifting needs two names.\" To finish, we swap roles and I lead the entire exchange from start to finish. The migration finished before lunch, politely.",
+   "tts": "Go signals, rollback criteria, and one calm voice on the bridge. The final deck includes the autoscaling policy test and what we learned from it. I propose a measurable target for the service discovery health this quarter. In the launch rehearsal, Priya says, \"Heavy lifting needs two names.\" To finish, we swap roles and I lead the entire exchange from start to finish. The migration finished before lunch, politely.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们尽早就发布标记约定对齐，让执行无需猜测。我的报告涵盖配置漂移纠正任务、背后的风险，以及等待的代价。我把滚动更新策略记录在案，让推理过程保持可见。我用一段简短的总结为节点池隔离的讨论收尾。上线彩排中，Maria说：\"排班表住在冰箱上。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"公平预防罢工。\"最后我们互换角色，由我从头到尾主导整段对话。迁移在午饭前礼貌地完成了。",
+   "zh": "放行信号、回滚标准，和桥上一颗平静的声音。最终的材料里有自动扩缩策略测试，以及我们从中学到的东西。我为服务发现健康提出了本季度一个可衡量的目标。上线彩排中，Priya说：\"重活需要两个人名。\"最后我们互换角色，由我从头到尾主导整段对话。迁移在午饭前礼貌地完成了。",
    "hard": [
     {
      "w": "rolling update strategy",
@@ -146,6 +146,33 @@
      "def": "配置漂移纠正任务，手动改的自动修"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The migration finished before lunch, politely. We review the resource requests and limits against the requirements, line by line. In the launch rehearsal, Priya says, \"Substitutes exist for sick days.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the namespace hygiene review with a timeline, the data, and one clear ask. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The migration finished before lunch, politely. We review the resource requests and limits against the requirements, line by line. In the launch rehearsal, Priya says, \"Substitutes exist for sick days.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the namespace hygiene review with a timeline, the data, and one clear ask. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "迁移在午饭前礼貌地完成了。我们逐行对照需求检查了资源申请与上限。上线彩排中，Priya说：\"病假有替补。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报命名空间卫生评审。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Go signals, rollback criteria, and one calm voice on the bridge. In the launch rehearsal, Leo says, \"The schedule lives on the fridge.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the rollout badging convention early, so execution never has to guess. My report covers the rolling update strategy, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Go signals, rollback criteria, and one calm voice on the bridge. In the launch rehearsal, Leo says, \"The schedule lives on the fridge.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the rollout badging convention early, so execution never has to guess. My report covers the rolling update strategy, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "放行信号、回滚标准，和桥上一颗平静的声音。上线彩排中，Leo说：\"排班表住在冰箱上。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就发布标记约定对齐，让执行无需猜测。我的报告涵盖滚动更新策略、背后的风险，以及等待的代价。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the drift correction job on the record so the reasoning stays visible. I close the discussion on the node pool segregation with a short summary. In the launch rehearsal, Priya says, \"Fairness prevents strikes.\" To finish, we swap roles and I lead the entire exchange from start to finish. The migration finished before lunch, politely.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the drift correction job on the record so the reasoning stays visible. I close the discussion on the node pool segregation with a short summary. In the launch rehearsal, Priya says, \"Fairness prevents strikes.\" To finish, we swap roles and I lead the entire exchange from start to finish. The migration finished before lunch, politely.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把配置漂移纠正任务记录在案，让推理过程保持可见。我用一段简短的总结为节点池隔离的讨论收尾。上线彩排中，Priya说：\"公平预防罢工。\"最后我们互换角色，由我从头到尾主导整段对话。迁移在午饭前礼貌地完成了。",
+   "hard": []
   }
  ],
  "chunks": [

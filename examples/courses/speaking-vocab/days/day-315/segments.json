@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 400,
-   "segment_count": 3,
+   "word_count": 465,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Old and new systems run side by side for a month. I propose a measurable target for the year one architecture review this quarter. We align on the load bearing wins list early, so execution never has to guess. I put the adr yearbook publication on the record so the reasoning stays visible. The final deck includes the architecture retro facilitation and what we learned from it. In the launch rehearsal, Leo says, \"Day three hundred thirty, house inspection passed.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The load bearing walls held.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Old and new systems run side by side for a month. I propose a measurable target for the year one architecture review this quarter. We align on the load bearing wins list early, so execution never has to guess. I put the adr yearbook publication on the record so the reasoning stays visible. The final deck includes the architecture retro facilitation and what we learned from it. In the launch rehearsal, Leo says, \"Day three hundred thirty, house inspection passed.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The load bearing walls held.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Old and new systems run side by side for a month. I propose a measurable target for the year one architecture review this quarter. We align on the adr yearbook publication early, so execution never has to guess. In the launch rehearsal, Priya says, \"Day three hundred thirty, house inspection passed.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Old and new systems run side by side for a month. I propose a measurable target for the year one architecture review this quarter. We align on the adr yearbook publication early, so execution never has to guess. In the launch rehearsal, Priya says, \"Day three hundred thirty, house inspection passed.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "新旧系统并行运行一个月。我为首年架构回顾提出了本季度一个可衡量的目标。我们尽早就承重决策战绩清单对齐，让执行无需猜测。我把决策记录年册发布记录在案，让推理过程保持可见。最终的材料里有架构年度复盘引导，以及我们从中学到的东西。上线彩排中，Leo说：\"第三百三十天\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"承重墙都扛住了。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "新旧系统并行运行一个月。我为首年架构回顾提出了本季度一个可衡量的目标。我们尽早就决策记录年册发布对齐，让执行无需猜测。上线彩排中，Priya说：\"第三百三十天\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "year one architecture review",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The diff tool catches one discrepancy and we celebrate catching it. In the launch rehearsal, Leo says, \"We renovated without moving out.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Blueprints and stories match now.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the reversibility report card with a short summary. My report covers the cognitive load audit result, the risks behind it, and the cost of waiting. We review the debt paydown celebration against the requirements, line by line. I present the tech radar movement review with a timeline, the data, and one clear ask. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "The diff tool catches one discrepancy and we celebrate catching it. In the launch rehearsal, Leo says, \"We renovated without moving out.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Blueprints and stories match now.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the reversibility report card with a short summary. My report covers the cognitive load audit result, the risks behind it, and the cost of waiting. We review the debt paydown celebration against the requirements, line by line. I present the tech radar movement review with a timeline, the data, and one clear ask. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "The diff tool catches one discrepancy and we celebrate catching it. In the launch rehearsal, Maria says, \"The load bearing walls held.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the load bearing wins list on the record so the reasoning stays visible. The final deck includes the architecture retro facilitation and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The diff tool catches one discrepancy and we celebrate catching it. In the launch rehearsal, Maria says, \"The load bearing walls held.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the load bearing wins list on the record so the reasoning stays visible. The final deck includes the architecture retro facilitation and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "差异工具抓到一处不一致，我们为抓到而庆祝。上线彩排中，Leo说：\"我们没搬家就完成了翻新。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"图纸和故事终于对上了。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为可逆性成绩单的讨论收尾。我的报告涵盖认知负荷审计结果、背后的风险，以及等待的代价。我们逐行对照需求检查了还债庆祝。我用时间线、数据和一条明确的诉求来汇报技术雷达移动复盘。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "差异工具抓到一处不一致，我们为抓到而庆祝。上线彩排中，Maria说：\"承重墙都扛住了。\"最后我们互换角色，由我从头到尾主导整段对话。我把承重决策战绩清单记录在案，让推理过程保持可见。最终的材料里有架构年度复盘引导，以及我们从中学到的东西。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "reversibility report card",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the mentor rotation for reviewers this quarter. We align on the north star kept early, so execution never has to guess. I put the architecture debt balance on the record so the reasoning stays visible. The final deck includes the blueprint for year two and what we learned from it. In the launch rehearsal, Priya says, \"The house is ready for guests.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Foundations first, always.\" To finish, we swap roles and I lead the entire exchange from start to finish. Confidence is measured in quiet diffs.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the mentor rotation for reviewers this quarter. We align on the north star kept early, so execution never has to guess. I put the architecture debt balance on the record so the reasoning stays visible. The final deck includes the blueprint for year two and what we learned from it. In the launch rehearsal, Priya says, \"The house is ready for guests.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Foundations first, always.\" To finish, we swap roles and I lead the entire exchange from start to finish. Confidence is measured in quiet diffs.",
+   "en": "The diff tool catches one discrepancy and we celebrate catching it. I close the discussion on the debt paydown celebration with a short summary. My report covers the reversibility report card, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"We renovated without moving out.\" To finish, we swap roles and I lead the entire exchange from start to finish. Confidence is measured in quiet diffs.",
+   "tts": "The diff tool catches one discrepancy and we celebrate catching it. I close the discussion on the debt paydown celebration with a short summary. My report covers the reversibility report card, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"We renovated without moving out.\" To finish, we swap roles and I lead the entire exchange from start to finish. Confidence is measured in quiet diffs.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为评审人轮值带教提出了本季度一个可衡量的目标。我们尽早就未忘的北极星对齐，让执行无需猜测。我把架构债余额记录在案，让推理过程保持可见。最终的材料里有第二年的蓝图，以及我们从中学到的东西。上线彩排中，Priya说：\"房子准备好迎客了。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"永远地基优先。\"最后我们互换角色，由我从头到尾主导整段对话。信心是用安静的差异度量的。",
+   "zh": "差异工具抓到一处不一致，我们为抓到而庆祝。我用一段简短的总结为还债庆祝的讨论收尾。我的报告涵盖可逆性成绩单、背后的风险，以及等待的代价。上线彩排中，Leo说：\"我们没搬家就完成了翻新。\"最后我们互换角色，由我从头到尾主导整段对话。信心是用安静的差异度量的。",
    "hard": [
     {
      "w": "architecture debt balance",
@@ -146,6 +146,33 @@
      "def": "未忘的北极星，初版文档还成立"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Confidence is measured in quiet diffs. We review the cognitive load audit result against the requirements, line by line. In the launch rehearsal, Leo says, \"Blueprints and stories match now.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the tech radar movement review with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Confidence is measured in quiet diffs. We review the cognitive load audit result against the requirements, line by line. In the launch rehearsal, Leo says, \"Blueprints and stories match now.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the tech radar movement review with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "信心是用安静的差异度量的。我们逐行对照需求检查了认知负荷审计结果。上线彩排中，Leo说：\"图纸和故事终于对上了。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报技术雷达移动复盘。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The diff tool catches one discrepancy and we celebrate catching it. In the launch rehearsal, Maria says, \"The house is ready for guests.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the mentor rotation for reviewers this quarter. We align on the architecture debt balance early, so execution never has to guess. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The diff tool catches one discrepancy and we celebrate catching it. In the launch rehearsal, Maria says, \"The house is ready for guests.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the mentor rotation for reviewers this quarter. We align on the architecture debt balance early, so execution never has to guess. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "差异工具抓到一处不一致，我们为抓到而庆祝。上线彩排中，Maria说：\"房子准备好迎客了。\"最后我们互换角色，由我从头到尾主导整段对话。我为评审人轮值带教提出了本季度一个可衡量的目标。我们尽早就架构债余额对齐，让执行无需猜测。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the north star kept on the record so the reasoning stays visible. The final deck includes the blueprint for year two and what we learned from it. In the launch rehearsal, Leo says, \"Foundations first, always.\" To finish, we swap roles and I lead the entire exchange from start to finish. Confidence is measured in quiet diffs.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the north star kept on the record so the reasoning stays visible. The final deck includes the blueprint for year two and what we learned from it. In the launch rehearsal, Leo says, \"Foundations first, always.\" To finish, we swap roles and I lead the entire exchange from start to finish. Confidence is measured in quiet diffs.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把未忘的北极星记录在案，让推理过程保持可见。最终的材料里有第二年的蓝图，以及我们从中学到的东西。上线彩排中，Leo说：\"永远地基优先。\"最后我们互换角色，由我从头到尾主导整段对话。信心是用安静的差异度量的。",
+   "hard": []
   }
  ],
  "chunks": [

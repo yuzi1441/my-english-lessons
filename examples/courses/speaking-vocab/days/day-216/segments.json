@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 367,
-   "segment_count": 3,
+   "word_count": 441,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The settings page makes one query per widget. During the design review, I raise one careful question about the covering index. We spend the first ten minutes of the review on the composite index. I prepare a one-page brief about the index proposal doc so meetings start from facts. I compare two views on the explain before merge and write both down honestly. In the review drill, Leo says, \"Books sorted by topic first.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"The favorite shelf is eye level.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
-   "tts": "The settings page makes one query per widget. During the design review, I raise one careful question about the covering index. We spend the first ten minutes of the review on the composite index. I prepare a one-page brief about the index proposal doc so meetings start from facts. I compare two views on the explain before merge and write both down honestly. In the review drill, Leo says, \"Books sorted by topic first.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"The favorite shelf is eye level.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "en": "The settings page makes one query per widget. During the design review, I raise one careful question about the covering index. We spend the first ten minutes of the review on the index proposal doc. In the review drill, Priya says, \"Books sorted by topic first.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "The settings page makes one query per widget. During the design review, I raise one careful question about the covering index. We spend the first ten minutes of the review on the index proposal doc. In the review drill, Priya says, \"Books sorted by topic first.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "设置页面的每个小部件都单独查一次库。设计评审中，我就覆盖索引提出了一个审慎的问题。评审的前十分钟，我们都用在了复合索引上。我准备了一页关于索引提案文档的简报，好让会议从事实出发。我比较了关于合并前跑执行计划的两种观点，诚实地都记了下来。评审演练中，Leo说：\"书按主题先分。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"常读书在视线高度。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "设置页面的每个小部件都单独查一次库。设计评审中，我就覆盖索引提出了一个审慎的问题。评审的前十分钟，我们都用在了索引提案文档上。评审演练中，Priya说：\"书按主题先分。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "covering index",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Batched into one query, the database finally stops being a vending machine. In the review drill, Leo says, \"Series stay together.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Donations keep shelves lean.\" We swap roles so I ask the questions this time. Our mentor walks me through how the index selectivity evolved on this team. I add the unused index report to the meeting agenda with three supporting facts. The team names one clear owner for the index impact estimate. Before deciding, I reread my notes about the slow query regression test twice. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Batched into one query, the database finally stops being a vending machine. In the review drill, Leo says, \"Series stay together.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Donations keep shelves lean.\" We swap roles so I ask the questions this time. Our mentor walks me through how the index selectivity evolved on this team. I add the unused index report to the meeting agenda with three supporting facts. The team names one clear owner for the index impact estimate. Before deciding, I reread my notes about the slow query regression test twice. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Batched into one query, the database finally stops being a vending machine. In the review drill, Maria says, \"The favorite shelf is eye level.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the composite index so meetings start from facts. I compare two views on the explain before merge and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Batched into one query, the database finally stops being a vending machine. In the review drill, Maria says, \"The favorite shelf is eye level.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the composite index so meetings start from facts. I compare two views on the explain before merge and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "合并成一次查询后，数据库终于不再是自动售货机。评审演练中，Leo说：\"成套的书不拆散。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"捐赠让书架保持精简。\"我们互换角色，这次由我来提问。导师带我梳理了索引选择性在这个团队里的演变。我把未使用索引报告连同三条支撑事实加进了议程。团队为索引影响评估指定了明确的负责人。做决定之前，我把关于慢查询回归测试的笔记重读了两遍。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "合并成一次查询后，数据库终于不再是自动售货机。评审演练中，Maria说：\"常读书在视线高度。\"我们互换角色，这次由我来提问。我准备了一页关于复合索引的简报，好让会议从事实出发。我比较了关于合并前跑执行计划的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "index selectivity",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the index cleanup sprint. We spend the first ten minutes of the review on the query plan diff in pr. I prepare a one-page brief about the index bloat so meetings start from facts. I compare two views on the clustered index and write both down honestly. In the review drill, Priya says, \"The index card on each shelf.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Finding beats storing.\" We swap roles so I ask the questions this time. Ninety four queries become one, and the graph goes quiet.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the index cleanup sprint. We spend the first ten minutes of the review on the query plan diff in pr. I prepare a one-page brief about the index bloat so meetings start from facts. I compare two views on the clustered index and write both down honestly. In the review drill, Priya says, \"The index card on each shelf.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Finding beats storing.\" We swap roles so I ask the questions this time. Ninety four queries become one, and the graph goes quiet.",
+   "en": "Batched into one query, the database finally stops being a vending machine. Our mentor walks me through how the index impact estimate evolved on this team. I add the index selectivity to the meeting agenda with three supporting facts. In the review drill, Leo says, \"Series stay together.\" We swap roles so I ask the questions this time. Ninety four queries become one, and the graph goes quiet.",
+   "tts": "Batched into one query, the database finally stops being a vending machine. Our mentor walks me through how the index impact estimate evolved on this team. I add the index selectivity to the meeting agenda with three supporting facts. In the review drill, Leo says, \"Series stay together.\" We swap roles so I ask the questions this time. Ninety four queries become one, and the graph goes quiet.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就索引清理冲刺提出了一个审慎的问题。评审的前十分钟，我们都用在了PR 里的执行计划对比上。我准备了一页关于索引膨胀的简报，好让会议从事实出发。我比较了关于聚簇索引的两种观点，诚实地都记了下来。评审演练中，Priya说：\"每层有张索引卡。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"找得到比塞得下重要。\"我们互换角色，这次由我来提问。九十四次查询变成一次，曲线安静了。",
+   "zh": "合并成一次查询后，数据库终于不再是自动售货机。导师带我梳理了索引影响评估在这个团队里的演变。我把索引选择性连同三条支撑事实加进了议程。评审演练中，Leo说：\"成套的书不拆散。\"我们互换角色，这次由我来提问。九十四次查询变成一次，曲线安静了。",
    "hard": [
     {
      "w": "index bloat",
@@ -146,6 +146,33 @@
      "def": "PR 里的执行计划对比，改动前后并列"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Ninety four queries become one, and the graph goes quiet. The team names one clear owner for the unused index report. In the review drill, Leo says, \"Donations keep shelves lean.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the slow query regression test twice. We end the week with something shipped and something properly learned this time.",
+   "tts": "Ninety four queries become one, and the graph goes quiet. The team names one clear owner for the unused index report. In the review drill, Leo says, \"Donations keep shelves lean.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the slow query regression test twice. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "九十四次查询变成一次，曲线安静了。团队为未使用索引报告指定了明确的负责人。评审演练中，Leo说：\"捐赠让书架保持精简。\"我们互换角色，这次由我来提问。做决定之前，我把关于慢查询回归测试的笔记重读了两遍。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Batched into one query, the database finally stops being a vending machine. In the review drill, Maria says, \"The index card on each shelf.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the index cleanup sprint. We spend the first ten minutes of the review on the index bloat. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Batched into one query, the database finally stops being a vending machine. In the review drill, Maria says, \"The index card on each shelf.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the index cleanup sprint. We spend the first ten minutes of the review on the index bloat. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "合并成一次查询后，数据库终于不再是自动售货机。评审演练中，Maria说：\"每层有张索引卡。\"我们互换角色，这次由我来提问。设计评审中，我就索引清理冲刺提出了一个审慎的问题。评审的前十分钟，我们都用在了索引膨胀上。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the query plan diff in pr so meetings start from facts. I compare two views on the clustered index and write both down honestly. In the review drill, Leo says, \"Finding beats storing.\" We swap roles so I ask the questions this time. Ninety four queries become one, and the graph goes quiet.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the query plan diff in pr so meetings start from facts. I compare two views on the clustered index and write both down honestly. In the review drill, Leo says, \"Finding beats storing.\" We swap roles so I ask the questions this time. Ninety four queries become one, and the graph goes quiet.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于PR 里的执行计划对比的简报，好让会议从事实出发。我比较了关于聚簇索引的两种观点，诚实地都记了下来。评审演练中，Leo说：\"找得到比塞得下重要。\"我们互换角色，这次由我来提问。九十四次查询变成一次，曲线安静了。",
+   "hard": []
   }
  ],
  "chunks": [

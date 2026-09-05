@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 320,
-   "segment_count": 3,
+   "word_count": 375,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A surge of users fills the queue past its depth. I keep one real example of the startup time in my notebook. I go over the app size one more time before lunch. I ask one good question about the branch rule set in the meeting. I add the required signing to my study notes before I forget it. In the warm-up round, Priya says, \"I found old photos in a drawer.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Film photos have grain and soul.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
-   "tts": "A surge of users fills the queue past its depth. I keep one real example of the startup time in my notebook. I go over the app size one more time before lunch. I ask one good question about the branch rule set in the meeting. I add the required signing to my study notes before I forget it. In the warm-up round, Priya says, \"I found old photos in a drawer.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Film photos have grain and soul.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "en": "A surge of users fills the queue past its depth. I keep one real example of the startup time in my notebook. I go over the branch rule set one more time before lunch. In the warm-up round, Maria says, \"I found old photos in a drawer.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "A surge of users fills the queue past its depth. I keep one real example of the startup time in my notebook. I go over the branch rule set one more time before lunch. In the warm-up round, Maria says, \"I found old photos in a drawer.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "用户高峰把队列灌到了超深。我在笔记本里留了一个启动时间的真实例子。午饭前我又过了一遍应用体积。会上关于分支规则集，我问了一个好问题。我趁还没忘，把必须签名记进了学习笔记。热身环节里，Priya说：\"我在抽屉里翻到旧照片。\"然后我们换角色，由我来问。热身环节里，Leo说：\"胶片照片有颗粒和灵魂。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
+   "zh": "用户高峰把队列灌到了超深。我在笔记本里留了一个启动时间的真实例子。午饭前我又过了一遍分支规则集。热身环节里，Maria说：\"我在抽屉里翻到旧照片。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "startup time",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We push back gently instead of letting requests drown each other. In the warm-up round, Priya says, \"We laughed the same way.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I scan and share them.\" Then we swap roles and I ask it back. There is a short paragraph about the battery drain in the guide. My notes about lazy decoding look clearer this week. I spend ten quiet minutes on the secret alert after the standup. Sam asks me about the allowlist, and I explain the basics. The task moves forward, and so does my confidence.",
-   "tts": "We push back gently instead of letting requests drown each other. In the warm-up round, Priya says, \"We laughed the same way.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I scan and share them.\" Then we swap roles and I ask it back. There is a short paragraph about the battery drain in the guide. My notes about lazy decoding look clearer this week. I spend ten quiet minutes on the secret alert after the standup. Sam asks me about the allowlist, and I explain the basics. The task moves forward, and so does my confidence.",
+   "en": "We push back gently instead of letting requests drown each other. In the warm-up round, Leo says, \"Film photos have grain and soul.\" Then we swap roles and I ask it back. I ask one good question about the app size in the meeting. I add the required signing to my study notes before I forget it. The task moves forward, and so does my confidence.",
+   "tts": "We push back gently instead of letting requests drown each other. In the warm-up round, Leo says, \"Film photos have grain and soul.\" Then we swap roles and I ask it back. I ask one good question about the app size in the meeting. I add the required signing to my study notes before I forget it. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们温和地施加背压，而不是让请求互相淹没。热身环节里，Priya说：\"我们笑起来还是老样子。\"然后我们换角色，由我来问。热身环节里，Leo说：\"我扫描后分享给家人。\"然后我们换角色，由我来问。指南里有一小段关于电量消耗的介绍。这周我关于懒解码的笔记清楚多了。站会之后，我安安静静花了十分钟在机密告警上。Sam 问起允许清单，我讲了讲基础。任务在推进，我的信心也在成长。",
+   "zh": "我们温和地施加背压，而不是让请求互相淹没。热身环节里，Leo说：\"胶片照片有颗粒和灵魂。\"然后我们换角色，由我来问。会上关于应用体积，我问了一个好问题。我趁还没忘，把必须签名记进了学习笔记。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "battery drain",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the org-wide pattern in my notebook. I go over the security insights one more time before lunch. I ask one good question about the prefetch in the meeting. I add the jank budget to my study notes before I forget it. In the warm-up round, Maria says, \"Some memories need printed proof.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Nostalgia in moderation.\" Then we swap roles and I ask it back. Holding the door is a system design skill.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the org-wide pattern in my notebook. I go over the security insights one more time before lunch. I ask one good question about the prefetch in the meeting. I add the jank budget to my study notes before I forget it. In the warm-up round, Maria says, \"Some memories need printed proof.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Nostalgia in moderation.\" Then we swap roles and I ask it back. Holding the door is a system design skill.",
+   "en": "We push back gently instead of letting requests drown each other. There is a short paragraph about the secret alert in the guide. My notes about the battery drain look clearer this week. In the warm-up round, Priya says, \"We laughed the same way.\" Then we swap roles and I ask it back. Holding the door is a system design skill.",
+   "tts": "We push back gently instead of letting requests drown each other. There is a short paragraph about the secret alert in the guide. My notes about the battery drain look clearer this week. In the warm-up round, Priya says, \"We laughed the same way.\" Then we swap roles and I ask it back. Holding the door is a system design skill.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个组织级规则的真实例子。午饭前我又过了一遍安全洞察。会上关于预取，我问了一个好问题。我趁还没忘，把卡顿预算记进了学习笔记。热身环节里，Maria说：\"有些回忆需要纸质证明。\"然后我们换角色，由我来问。热身环节里，Priya说：\"怀旧要适量。\"然后我们换角色，由我来问。替别人扶住门，也是一种系统设计能力。",
+   "zh": "我们温和地施加背压，而不是让请求互相淹没。指南里有一小段关于机密告警的介绍。这周我关于电量消耗的笔记清楚多了。热身环节里，Priya说：\"我们笑起来还是老样子。\"然后我们换角色，由我来问。替别人扶住门，也是一种系统设计能力。",
    "hard": [
     {
      "w": "prefetch",
@@ -146,6 +146,33 @@
      "def": "安全洞察，汇总风险的页面"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Holding the door is a system design skill. I spend ten quiet minutes on lazy decoding after the standup. In the warm-up round, Priya says, \"I scan and share them.\" Then we swap roles and I ask it back. Sam asks me about the allowlist, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Holding the door is a system design skill. I spend ten quiet minutes on lazy decoding after the standup. In the warm-up round, Priya says, \"I scan and share them.\" Then we swap roles and I ask it back. Sam asks me about the allowlist, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "替别人扶住门，也是一种系统设计能力。站会之后，我安安静静花了十分钟在懒解码上。热身环节里，Priya说：\"我扫描后分享给家人。\"然后我们换角色，由我来问。Sam 问起允许清单，我讲了讲基础。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We push back gently instead of letting requests drown each other. In the warm-up round, Leo says, \"Some memories need printed proof.\" Then we swap roles and I ask it back. I keep one real example of the org-wide pattern in my notebook. I go over the prefetch one more time before lunch. The task moves forward, and so does my confidence.",
+   "tts": "We push back gently instead of letting requests drown each other. In the warm-up round, Leo says, \"Some memories need printed proof.\" Then we swap roles and I ask it back. I keep one real example of the org-wide pattern in my notebook. I go over the prefetch one more time before lunch. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们温和地施加背压，而不是让请求互相淹没。热身环节里，Leo说：\"有些回忆需要纸质证明。\"然后我们换角色，由我来问。我在笔记本里留了一个组织级规则的真实例子。午饭前我又过了一遍预取。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the security insights in the meeting. I add the jank budget to my study notes before I forget it. In the warm-up round, Priya says, \"Nostalgia in moderation.\" Then we swap roles and I ask it back. Holding the door is a system design skill.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the security insights in the meeting. I add the jank budget to my study notes before I forget it. In the warm-up round, Priya says, \"Nostalgia in moderation.\" Then we swap roles and I ask it back. Holding the door is a system design skill.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于安全洞察，我问了一个好问题。我趁还没忘，把卡顿预算记进了学习笔记。热身环节里，Priya说：\"怀旧要适量。\"然后我们换角色，由我来问。替别人扶住门，也是一种系统设计能力。",
+   "hard": []
   }
  ],
  "chunks": [

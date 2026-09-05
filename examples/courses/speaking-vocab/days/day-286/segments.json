@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 377,
-   "segment_count": 3,
+   "word_count": 446,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Every morning starts with crash reports before coffee. The team names one clear owner for the first hundred users review. I add the first revenue moment to the meeting agenda with three supporting facts. I prepare a one-page brief about the commit graph of a year so meetings start from facts. Before deciding, I reread my notes about the issues closed celebration twice. In the review drill, Priya says, \"Day three hundred toast, slightly burnt.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The side project paid for brunch.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Every morning starts with crash reports before coffee. The team names one clear owner for the first hundred users review. I add the first revenue moment to the meeting agenda with three supporting facts. I prepare a one-page brief about the commit graph of a year so meetings start from facts. Before deciding, I reread my notes about the issues closed celebration twice. In the review drill, Priya says, \"Day three hundred toast, slightly burnt.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The side project paid for brunch.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Every morning starts with crash reports before coffee. The team names one clear owner for the first hundred users review. I add the commit graph of a year to the meeting agenda with three supporting facts. In the review drill, Maria says, \"Day three hundred toast, slightly burnt.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Every morning starts with crash reports before coffee. The team names one clear owner for the first hundred users review. I add the commit graph of a year to the meeting agenda with three supporting facts. In the review drill, Maria says, \"Day three hundred toast, slightly burnt.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "每个清晨从崩溃报告开始，在咖啡之前。团队为首批百名用户回顾指定了明确的负责人。我把第一笔收入的时刻连同三条支撑事实加进了议程。我准备了一页关于一年的提交图谱的简报，好让会议从事实出发。做决定之前，我把关于关闭问题单庆祝的笔记重读了两遍。评审演练中，Priya说：\"第三百天的吐司\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"副业请了这顿早午餐。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "每个清晨从崩溃报告开始，在咖啡之前。团队为首批百名用户回顾指定了明确的负责人。我把一年的提交图谱连同三条支撑事实加进了议程。评审演练中，Maria说：\"第三百天的吐司\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "first hundred users review",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One crash owns sixty percent of reports; the stack trace confesses immediately. In the review drill, Priya says, \"Partner says proud without irony.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The jar has real savings now.\" We swap roles so I ask the questions this time. I compare two views on the product market fit signals and write both down honestly. During the design review, I raise one careful question about the tech that held up. Our mentor walks me through how the docs that wrote themselves evolved on this team. We spend the first ten minutes of the review on the tests that saved sundays. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "One crash owns sixty percent of reports; the stack trace confesses immediately. In the review drill, Priya says, \"Partner says proud without irony.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The jar has real savings now.\" We swap roles so I ask the questions this time. I compare two views on the product market fit signals and write both down honestly. During the design review, I raise one careful question about the tech that held up. Our mentor walks me through how the docs that wrote themselves evolved on this team. We spend the first ten minutes of the review on the tests that saved sundays. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "One crash owns sixty percent of reports; the stack trace confesses immediately. In the review drill, Leo says, \"The side project paid for brunch.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the first revenue moment so meetings start from facts. Before deciding, I reread my notes about the issues closed celebration twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "One crash owns sixty percent of reports; the stack trace confesses immediately. In the review drill, Leo says, \"The side project paid for brunch.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the first revenue moment so meetings start from facts. Before deciding, I reread my notes about the issues closed celebration twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个崩溃占六成报告；堆栈当场招供。评审演练中，Priya说：\"伴侣说骄傲时没带讽刺。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"罐子里是实打实的存款。\"我们互换角色，这次由我来提问。我比较了关于产品市场契合信号的两种观点，诚实地都记了下来。设计评审中，我就撑住的那些技术提出了一个审慎的问题。导师带我梳理了自己长出来的文档在这个团队里的演变。评审的前十分钟，我们都用在了救过周日的测试们上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "一个崩溃占六成报告；堆栈当场招供。评审演练中，Leo说：\"副业请了这顿早午餐。\"我们互换角色，这次由我来提问。我准备了一页关于第一笔收入的时刻的简报，好让会议从事实出发。做决定之前，我把关于关闭问题单庆祝的笔记重读了两遍。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "product market fit signals",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the open source extracted pieces. I add the year two roadmap sketch to the meeting agenda with three supporting facts. I prepare a one-page brief about the surprises of building alone so meetings start from facts. Before deciding, I reread my notes about the next stage decision twice. In the review drill, Maria says, \"Ideas feel like colleagues now.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Mornings still belong to building.\" We swap roles so I ask the questions this time. Fix the big rock, watch the pond calm.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the open source extracted pieces. I add the year two roadmap sketch to the meeting agenda with three supporting facts. I prepare a one-page brief about the surprises of building alone so meetings start from facts. Before deciding, I reread my notes about the next stage decision twice. In the review drill, Maria says, \"Ideas feel like colleagues now.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Mornings still belong to building.\" We swap roles so I ask the questions this time. Fix the big rock, watch the pond calm.",
+   "en": "One crash owns sixty percent of reports; the stack trace confesses immediately. I compare two views on the docs that wrote themselves and write both down honestly. During the design review, I raise one careful question about the product market fit signals. In the review drill, Priya says, \"Partner says proud without irony.\" We swap roles so I ask the questions this time. Fix the big rock, watch the pond calm.",
+   "tts": "One crash owns sixty percent of reports; the stack trace confesses immediately. I compare two views on the docs that wrote themselves and write both down honestly. During the design review, I raise one careful question about the product market fit signals. In the review drill, Priya says, \"Partner says proud without irony.\" We swap roles so I ask the questions this time. Fix the big rock, watch the pond calm.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为开源出去的组件指定了明确的负责人。我把第二年路线图草稿连同三条支撑事实加进了议程。我准备了一页关于单人创业的意外的简报，好让会议从事实出发。做决定之前，我把关于下一阶段决策的笔记重读了两遍。评审演练中，Maria说：\"点子像同事一样熟了。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"早晨仍属于建造。\"我们互换角色，这次由我来提问。搬走大石头，池塘自己安静。",
+   "zh": "一个崩溃占六成报告；堆栈当场招供。我比较了关于自己长出来的文档的两种观点，诚实地都记了下来。设计评审中，我就产品市场契合信号提出了一个审慎的问题。评审演练中，Priya说：\"伴侣说骄傲时没带讽刺。\"我们互换角色，这次由我来提问。搬走大石头，池塘自己安静。",
    "hard": [
     {
      "w": "surprises of building alone",
@@ -146,6 +146,33 @@
      "def": "第二年路线图草稿，铅笔依旧"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Fix the big rock, watch the pond calm. Our mentor walks me through how the tech that held up evolved on this team. In the review drill, Priya says, \"The jar has real savings now.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the tests that saved sundays. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Fix the big rock, watch the pond calm. Our mentor walks me through how the tech that held up evolved on this team. In the review drill, Priya says, \"The jar has real savings now.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the tests that saved sundays. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "搬走大石头，池塘自己安静。导师带我梳理了撑住的那些技术在这个团队里的演变。评审演练中，Priya说：\"罐子里是实打实的存款。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了救过周日的测试们上。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "One crash owns sixty percent of reports; the stack trace confesses immediately. In the review drill, Leo says, \"Ideas feel like colleagues now.\" We swap roles so I ask the questions this time. The team names one clear owner for the open source extracted pieces. I add the surprises of building alone to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "One crash owns sixty percent of reports; the stack trace confesses immediately. In the review drill, Leo says, \"Ideas feel like colleagues now.\" We swap roles so I ask the questions this time. The team names one clear owner for the open source extracted pieces. I add the surprises of building alone to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "一个崩溃占六成报告；堆栈当场招供。评审演练中，Leo说：\"点子像同事一样熟了。\"我们互换角色，这次由我来提问。团队为开源出去的组件指定了明确的负责人。我把单人创业的意外连同三条支撑事实加进了议程。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the year two roadmap sketch so meetings start from facts. Before deciding, I reread my notes about the next stage decision twice. In the review drill, Priya says, \"Mornings still belong to building.\" We swap roles so I ask the questions this time. Fix the big rock, watch the pond calm.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the year two roadmap sketch so meetings start from facts. Before deciding, I reread my notes about the next stage decision twice. In the review drill, Priya says, \"Mornings still belong to building.\" We swap roles so I ask the questions this time. Fix the big rock, watch the pond calm.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于第二年路线图草稿的简报，好让会议从事实出发。做决定之前，我把关于下一阶段决策的笔记重读了两遍。评审演练中，Priya说：\"早晨仍属于建造。\"我们互换角色，这次由我来提问。搬走大石头，池塘自己安静。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 366,
-   "segment_count": 3,
+   "word_count": 427,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Audit season arrives; our evidence folder is already alive. We spend the first ten minutes of the review on the shared responsibility model. I compare two views on the iam policy review and write both down honestly. I prepare a one-page brief about the misconfig finding triage so meetings start from facts. Before deciding, I reread my notes about the iam least privilege lint twice. In the review drill, Priya says, \"The smart lock gets firmware updates.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Physical keys stay as backup.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Audit season arrives; our evidence folder is already alive. We spend the first ten minutes of the review on the shared responsibility model. I compare two views on the iam policy review and write both down honestly. I prepare a one-page brief about the misconfig finding triage so meetings start from facts. Before deciding, I reread my notes about the iam least privilege lint twice. In the review drill, Priya says, \"The smart lock gets firmware updates.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Physical keys stay as backup.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Audit season arrives; our evidence folder is already alive. We spend the first ten minutes of the review on the shared responsibility model. I compare two views on the misconfig finding triage and write both down honestly. In the review drill, Maria says, \"The smart lock gets firmware updates.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Audit season arrives; our evidence folder is already alive. We spend the first ten minutes of the review on the shared responsibility model. I compare two views on the misconfig finding triage and write both down honestly. In the review drill, Maria says, \"The smart lock gets firmware updates.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "审计季来了；我们的证据文件夹早就在呼吸。评审的前十分钟，我们都用在了共担责任模型上。我比较了关于IAM 策略评审的两种观点，诚实地都记了下来。我准备了一页关于错误配置分诊的简报，好让会议从事实出发。做决定之前，我把关于IAM 最小权限检查的笔记重读了两遍。评审演练中，Priya说：\"智能锁也升固件。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"物理钥匙留作备份。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "审计季来了；我们的证据文件夹早就在呼吸。评审的前十分钟，我们都用在了共担责任模型上。我比较了关于错误配置分诊的两种观点，诚实地都记了下来。评审演练中，Maria说：\"智能锁也升固件。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "shared responsibility model",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Automated evidence collection turns a scramble into a stroll. In the review drill, Priya says, \"Battery check for the lock monthly.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Guest codes expire automatically.\" We swap roles so I ask the questions this time. I add the public exposure check to the meeting agenda with three supporting facts. Our mentor walks me through how the security group hygiene evolved on this team. During the design review, I raise one careful question about the public bucket alert. The team names one clear owner for the tag based access rules. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Automated evidence collection turns a scramble into a stroll. In the review drill, Priya says, \"Battery check for the lock monthly.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Guest codes expire automatically.\" We swap roles so I ask the questions this time. I add the public exposure check to the meeting agenda with three supporting facts. Our mentor walks me through how the security group hygiene evolved on this team. During the design review, I raise one careful question about the public bucket alert. The team names one clear owner for the tag based access rules. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Automated evidence collection turns a scramble into a stroll. In the review drill, Leo says, \"Physical keys stay as backup.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the iam policy review so meetings start from facts. Before deciding, I reread my notes about the iam least privilege lint twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Automated evidence collection turns a scramble into a stroll. In the review drill, Leo says, \"Physical keys stay as backup.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the iam policy review so meetings start from facts. Before deciding, I reread my notes about the iam least privilege lint twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "自动化证据收集把慌乱变成了散步。评审演练中，Priya说：\"门锁电池每月查。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"访客密码自动过期。\"我们互换角色，这次由我来提问。我把公网暴露检查连同三条支撑事实加进了议程。导师带我梳理了安全组卫生在这个团队里的演变。设计评审中，我就公开存储桶告警提出了一个审慎的问题。团队为按标签访问规则指定了明确的负责人。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "自动化证据收集把慌乱变成了散步。评审演练中，Leo说：\"物理钥匙留作备份。\"我们互换角色，这次由我来提问。我准备了一页关于IAM 策略评审的简报，好让会议从事实出发。做决定之前，我把关于IAM 最小权限检查的笔记重读了两遍。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "public exposure check",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the security baseline repo. I compare two views on the baseline drift alert and write both down honestly. I prepare a one-page brief about the cloud config baseline so meetings start from facts. Before deciding, I reread my notes about the admin account guard twice. In the review drill, Maria says, \"The lock log answers questions.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Convenience needs a seatbelt.\" We swap roles so I ask the questions this time. Compliance is a habit wearing a suit.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the security baseline repo. I compare two views on the baseline drift alert and write both down honestly. I prepare a one-page brief about the cloud config baseline so meetings start from facts. Before deciding, I reread my notes about the admin account guard twice. In the review drill, Maria says, \"The lock log answers questions.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Convenience needs a seatbelt.\" We swap roles so I ask the questions this time. Compliance is a habit wearing a suit.",
+   "en": "Automated evidence collection turns a scramble into a stroll. I add the public bucket alert to the meeting agenda with three supporting facts. Our mentor walks me through how the public exposure check evolved on this team. In the review drill, Priya says, \"Battery check for the lock monthly.\" We swap roles so I ask the questions this time. Compliance is a habit wearing a suit.",
+   "tts": "Automated evidence collection turns a scramble into a stroll. I add the public bucket alert to the meeting agenda with three supporting facts. Our mentor walks me through how the public exposure check evolved on this team. In the review drill, Priya says, \"Battery check for the lock monthly.\" We swap roles so I ask the questions this time. Compliance is a habit wearing a suit.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了安全基线仓库上。我比较了关于偏离基线告警的两种观点，诚实地都记了下来。我准备了一页关于云配置基线的简报，好让会议从事实出发。做决定之前，我把关于管理员账号防线的笔记重读了两遍。评审演练中，Maria说：\"开锁记录解答疑团。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"便利也要系安全带。\"我们互换角色，这次由我来提问。合规就是穿着西装的习惯。",
+   "zh": "自动化证据收集把慌乱变成了散步。我把公开存储桶告警连同三条支撑事实加进了议程。导师带我梳理了公网暴露检查在这个团队里的演变。评审演练中，Priya说：\"门锁电池每月查。\"我们互换角色，这次由我来提问。合规就是穿着西装的习惯。",
    "hard": [
     {
      "w": "cloud config baseline",
@@ -146,6 +146,33 @@
      "def": "偏离基线告警，悄悄改配置就报"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Compliance is a habit wearing a suit. During the design review, I raise one careful question about the security group hygiene. In the review drill, Priya says, \"Guest codes expire automatically.\" We swap roles so I ask the questions this time. The team names one clear owner for the tag based access rules. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Compliance is a habit wearing a suit. During the design review, I raise one careful question about the security group hygiene. In the review drill, Priya says, \"Guest codes expire automatically.\" We swap roles so I ask the questions this time. The team names one clear owner for the tag based access rules. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "合规就是穿着西装的习惯。设计评审中，我就安全组卫生提出了一个审慎的问题。评审演练中，Priya说：\"访客密码自动过期。\"我们互换角色，这次由我来提问。团队为按标签访问规则指定了明确的负责人。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Automated evidence collection turns a scramble into a stroll. In the review drill, Leo says, \"The lock log answers questions.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the security baseline repo. I compare two views on the cloud config baseline and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Automated evidence collection turns a scramble into a stroll. In the review drill, Leo says, \"The lock log answers questions.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the security baseline repo. I compare two views on the cloud config baseline and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "自动化证据收集把慌乱变成了散步。评审演练中，Leo说：\"开锁记录解答疑团。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了安全基线仓库上。我比较了关于云配置基线的两种观点，诚实地都记了下来。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the baseline drift alert so meetings start from facts. Before deciding, I reread my notes about the admin account guard twice. In the review drill, Priya says, \"Convenience needs a seatbelt.\" We swap roles so I ask the questions this time. Compliance is a habit wearing a suit.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the baseline drift alert so meetings start from facts. Before deciding, I reread my notes about the admin account guard twice. In the review drill, Priya says, \"Convenience needs a seatbelt.\" We swap roles so I ask the questions this time. Compliance is a habit wearing a suit.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于偏离基线告警的简报，好让会议从事实出发。做决定之前，我把关于管理员账号防线的笔记重读了两遍。评审演练中，Priya说：\"便利也要系安全带。\"我们互换角色，这次由我来提问。合规就是穿着西装的习惯。",
+   "hard": []
   }
  ],
  "chunks": [

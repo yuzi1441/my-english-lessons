@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 371,
-   "segment_count": 3,
+   "word_count": 439,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day two hundred seventy: the alarm rings; everyone walks out calmly. I prepare a one-page brief about the friction telemetry so meetings start from facts. During the design review, I raise one careful question about the risk based step up. The team names one clear owner for the security ux metrics. I add the abandonment rate at login to the meeting agenda with three supporting facts. In the review drill, Leo says, \"The door that locks itself politely.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Guests never feel suspected.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
-   "tts": "Day two hundred seventy: the alarm rings; everyone walks out calmly. I prepare a one-page brief about the friction telemetry so meetings start from facts. During the design review, I raise one careful question about the risk based step up. The team names one clear owner for the security ux metrics. I add the abandonment rate at login to the meeting agenda with three supporting facts. In the review drill, Leo says, \"The door that locks itself politely.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Guests never feel suspected.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "en": "Day two hundred seventy: the alarm rings; everyone walks out calmly. I prepare a one-page brief about the friction telemetry so meetings start from facts. During the design review, I raise one careful question about the security ux metrics. In the review drill, Priya says, \"The door that locks itself politely.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "Day two hundred seventy: the alarm rings; everyone walks out calmly. I prepare a one-page brief about the friction telemetry so meetings start from facts. During the design review, I raise one careful question about the security ux metrics. In the review drill, Priya says, \"The door that locks itself politely.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第二百七十天：警铃响起，所有人平静地走出大楼。我准备了一页关于摩擦遥测的简报，好让会议从事实出发。设计评审中，我就按风险加验提出了一个审慎的问题。团队为安全体验指标指定了明确的负责人。我把登录放弃率连同三条支撑事实加进了议程。评审演练中，Leo说：\"门会礼貌地自己锁。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"客人从不觉得被怀疑。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "第二百七十天：警铃响起，所有人平静地走出大楼。我准备了一页关于摩擦遥测的简报，好让会议从事实出发。设计评审中，我就安全体验指标提出了一个审慎的问题。评审演练中，Priya说：\"门会礼貌地自己锁。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "friction telemetry",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Sam counts heads; I count how far we have come. In the review drill, Leo says, \"The alarm respects movie nights.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Safe but never hostile.\" We swap roles so I ask the questions this time. I compare two views on the session comfort windows and write both down honestly. Before deciding, I reread my notes about the recovery path dignity twice. Our mentor walks me through how the support tickets about access evolved on this team. We spend the first ten minutes of the review on the recovery success rate. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Sam counts heads; I count how far we have come. In the review drill, Leo says, \"The alarm respects movie nights.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Safe but never hostile.\" We swap roles so I ask the questions this time. I compare two views on the session comfort windows and write both down honestly. Before deciding, I reread my notes about the recovery path dignity twice. Our mentor walks me through how the support tickets about access evolved on this team. We spend the first ten minutes of the review on the recovery success rate. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Sam counts heads; I count how far we have come. In the review drill, Maria says, \"Guests never feel suspected.\" We swap roles so I ask the questions this time. The team names one clear owner for the risk based step up. I add the abandonment rate at login to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Sam counts heads; I count how far we have come. In the review drill, Maria says, \"Guests never feel suspected.\" We swap roles so I ask the questions this time. The team names one clear owner for the risk based step up. I add the abandonment rate at login to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Sam 数人头；我数我们走了多远。评审演练中，Leo说：\"警报尊重电影之夜。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"安全但不敌对。\"我们互换角色，这次由我来提问。我比较了关于会话舒适窗口的两种观点，诚实地都记了下来。做决定之前，我把关于恢复路径尊严的笔记重读了两遍。导师带我梳理了权限类工单分析在这个团队里的演变。评审的前十分钟，我们都用在了恢复成功率上。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "Sam 数人头；我数我们走了多远。评审演练中，Maria说：\"客人从不觉得被怀疑。\"我们互换角色，这次由我来提问。团队为按风险加验指定了明确的负责人。我把登录放弃率连同三条支撑事实加进了议程。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "session comfort windows",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the user trust pulse survey so meetings start from facts. During the design review, I raise one careful question about the secure path wait time. The team names one clear owner for the security ux review. I add the escape hatch documentation to the meeting agenda with three supporting facts. In the review drill, Priya says, \"Rules with reasons attached.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Home security feels like hospitality.\" We swap roles so I ask the questions this time. Security was a locked box; now a lit room.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the user trust pulse survey so meetings start from facts. During the design review, I raise one careful question about the secure path wait time. The team names one clear owner for the security ux review. I add the escape hatch documentation to the meeting agenda with three supporting facts. In the review drill, Priya says, \"Rules with reasons attached.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Home security feels like hospitality.\" We swap roles so I ask the questions this time. Security was a locked box; now a lit room.",
+   "en": "Sam counts heads; I count how far we have come. I compare two views on the support tickets about access and write both down honestly. Before deciding, I reread my notes about the session comfort windows twice. In the review drill, Leo says, \"The alarm respects movie nights.\" We swap roles so I ask the questions this time. Security was a locked box; now a lit room.",
+   "tts": "Sam counts heads; I count how far we have come. I compare two views on the support tickets about access and write both down honestly. Before deciding, I reread my notes about the session comfort windows twice. In the review drill, Leo says, \"The alarm respects movie nights.\" We swap roles so I ask the questions this time. Security was a locked box; now a lit room.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于用户信任度脉搏调研的简报，好让会议从事实出发。设计评审中，我就安全路径等待时间提出了一个审慎的问题。团队为安全体验评审指定了明确的负责人。我把逃生通道说明连同三条支撑事实加进了议程。评审演练中，Priya说：\"规矩都带说明书。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"家用安全像待客之道。\"我们互换角色，这次由我来提问。安全曾是上锁的箱子；如今是亮堂的房间。",
+   "zh": "Sam 数人头；我数我们走了多远。我比较了关于权限类工单分析的两种观点，诚实地都记了下来。做决定之前，我把关于会话舒适窗口的笔记重读了两遍。评审演练中，Leo说：\"警报尊重电影之夜。\"我们互换角色，这次由我来提问。安全曾是上锁的箱子；如今是亮堂的房间。",
    "hard": [
     {
      "w": "security ux review",
@@ -146,6 +146,33 @@
      "def": "安全路径等待时间，审批多久算温柔"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Security was a locked box; now a lit room. Our mentor walks me through how the recovery path dignity evolved on this team. In the review drill, Leo says, \"Safe but never hostile.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the recovery success rate. We end the week with something shipped and something properly learned this time.",
+   "tts": "Security was a locked box; now a lit room. Our mentor walks me through how the recovery path dignity evolved on this team. In the review drill, Leo says, \"Safe but never hostile.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the recovery success rate. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "安全曾是上锁的箱子；如今是亮堂的房间。导师带我梳理了恢复路径尊严在这个团队里的演变。评审演练中，Leo说：\"安全但不敌对。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了恢复成功率上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Sam counts heads; I count how far we have come. In the review drill, Maria says, \"Rules with reasons attached.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the user trust pulse survey so meetings start from facts. During the design review, I raise one careful question about the security ux review. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Sam counts heads; I count how far we have come. In the review drill, Maria says, \"Rules with reasons attached.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the user trust pulse survey so meetings start from facts. During the design review, I raise one careful question about the security ux review. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "Sam 数人头；我数我们走了多远。评审演练中，Maria说：\"规矩都带说明书。\"我们互换角色，这次由我来提问。我准备了一页关于用户信任度脉搏调研的简报，好让会议从事实出发。设计评审中，我就安全体验评审提出了一个审慎的问题。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the secure path wait time. I add the escape hatch documentation to the meeting agenda with three supporting facts. In the review drill, Leo says, \"Home security feels like hospitality.\" We swap roles so I ask the questions this time. Security was a locked box; now a lit room.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the secure path wait time. I add the escape hatch documentation to the meeting agenda with three supporting facts. In the review drill, Leo says, \"Home security feels like hospitality.\" We swap roles so I ask the questions this time. Security was a locked box; now a lit room.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为安全路径等待时间指定了明确的负责人。我把逃生通道说明连同三条支撑事实加进了议程。评审演练中，Leo说：\"家用安全像待客之道。\"我们互换角色，这次由我来提问。安全曾是上锁的箱子；如今是亮堂的房间。",
+   "hard": []
   }
  ],
  "chunks": [

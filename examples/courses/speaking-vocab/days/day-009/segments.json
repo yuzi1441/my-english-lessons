@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 216,
+   "word_count": 219,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I fix the code and try to merge. But two changes fight. Now I understand the CPU. I ask one question about the processor. Today I merge branches for the first time. I hear the merge conflict in the meeting and write it down. I take out the trash carefully. After a short break, I do the laundry one small step at a time. I understand a little more than yesterday.",
-   "tts": "I fix the code and try to merge. But two changes fight. Now I understand the C P U. I ask one question about the processor. Today I merge branches for the first time. I hear the merge conflict in the meeting and write it down. I take out the trash carefully. After a short break, I do the laundry one small step at a time. I understand a little more than yesterday.",
+   "en": "Day nine goes deep into how computers think. \"The CPU is the brain,\" Maria says. \"A processor executes instructions. A process is a running program. A thread is a smaller piece of a process. Background tasks run quietly. System resources are shared between all of them.\" I nod. At home, I do my own chores: take out the trash, do the laundry, wash the dishes, clean the room. \"Pick up groceries on your way,\" my mum texts. \"Finish the chores before you rest.\"",
+   "tts": "Day nine goes deep into how computers think. \"The C P U is the brain,\" Maria says. \"A processor executes instructions. A process is a running program. A thread is a smaller piece of a process. Background tasks run quietly. System resources are shared between all of them.\" I nod. At home, I do my own chores: take out the trash, do the laundry, wash the dishes, clean the room. \"Pick up groceries on your way,\" my mum texts. \"Finish the chores before you rest.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我改好代码，尝试合并。但两处改动冲突了。现在我理解了中央处理器。我问了一个关于处理器的问题。今天我第一次合并分支。我在会上听到合并冲突，把它记了下来。我认真地把垃圾拿出去。稍作休息后，我一步一步地洗衣服。我比昨天多懂了一点。",
+   "zh": "第九天深入计算机的思考方式。\"CPU 是大脑，\"Maria 说。\"处理器执行指令。进程是运行中的程序。线程是进程里更小的部分。后台任务悄悄运行。系统资源被所有进程共享。\"我点头。在家里，我做了自己的家务：倒垃圾、洗衣服、洗碗、打扫房间。\"回来路上买点菜，\"妈妈发来短信。\"休息前把家务做完。\"",
    "hard": [
     {
      "w": "CPU",
@@ -46,36 +46,6 @@
      "def": "处理器，执行程序指令的硬件"
     },
     {
-     "w": "take out the trash",
-     "type": "term",
-     "def": "把垃圾拿出去"
-    },
-    {
-     "w": "do the laundry",
-     "type": "term",
-     "def": "洗衣服"
-    },
-    {
-     "w": "merge branches",
-     "type": "term",
-     "def": "合并分支，把两条代码线组合起来"
-    },
-    {
-     "w": "merge conflict",
-     "type": "term",
-     "def": "合并冲突，两边修改无法自动组合的情况"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "At home, I do the laundry and wash the dishes. After a short break, Leo shows me how to wash the dishes. I clean the room, and Maria checks it. I write a short note about the process. After that, Leo shows me an example of the thread. I need to resolve a conflict before lunch. I learn about the conflicting change because it is useful. The team gives me good advice.",
-   "tts": "At home, I do the laundry and wash the dishes. After a short break, Leo shows me how to wash the dishes. I clean the room, and Maria checks it. I write a short note about the process. After that, Leo shows me an example of the thread. I need to resolve a conflict before lunch. I learn about the conflicting change because it is useful. The team gives me good advice.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "在家里，我洗衣服、洗碗。稍作休息后，Leo 教我怎样洗碗。我打扫房间，Maria 来检查。我给进程写了一条简短的笔记。在那之后，Leo 给我看了一个线程的例子。午饭前，我需要解决冲突。我学习冲突改动，因为它很有用。团队给了我很好的建议。",
-   "hard": [
-    {
      "w": "process",
      "type": "term",
      "def": "进程，正在运行的程序实例"
@@ -84,6 +54,26 @@
      "w": "thread",
      "type": "term",
      "def": "线程，进程内部的一条执行路径"
+    },
+    {
+     "w": "background task",
+     "type": "term",
+     "def": "后台任务，不占用当前界面但仍在运行的任务"
+    },
+    {
+     "w": "system resource",
+     "type": "term",
+     "def": "系统资源，CPU、内存等可供程序使用的能力"
+    },
+    {
+     "w": "take out the trash",
+     "type": "term",
+     "def": "把垃圾拿出去"
+    },
+    {
+     "w": "do the laundry",
+     "type": "term",
+     "def": "洗衣服"
     },
     {
      "w": "wash the dishes",
@@ -96,36 +86,6 @@
      "def": "打扫房间"
     },
     {
-     "w": "resolve a conflict",
-     "type": "term",
-     "def": "解决冲突，人工决定保留哪些内容"
-    },
-    {
-     "w": "conflicting change",
-     "type": "term",
-     "def": "冲突改动，与另一项修改互不兼容的变化"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I finish one last task. Today I accept incoming change for the first time. I complete the merge carefully. After a short break, I read the short guide about the background task twice. Maria explains the system resource to me. I pick up groceries one small step at a time. After that, Leo shows me how to finish the chores. Maria helps me resolve the conflict. The merge is complete.",
-   "tts": "Before I leave, I finish one last task. Today I accept incoming change for the first time. I complete the merge carefully. After a short break, I read the short guide about the background task twice. Maria explains the system resource to me. I pick up groceries one small step at a time. After that, Leo shows me how to finish the chores. Maria helps me resolve the conflict. The merge is complete.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。今天我第一次接受传入改动。我认真地完成合并。稍作休息后，我把关于后台任务的简短说明读了两遍。Maria 给我讲解系统资源。我一步一步地顺路买生活用品。在那之后，Leo 教我怎样做完家务。Maria 帮我解决了冲突。合并完成了。",
-   "hard": [
-    {
-     "w": "background task",
-     "type": "term",
-     "def": "后台任务，不占用当前界面但仍在运行的任务"
-    },
-    {
-     "w": "system resource",
-     "type": "term",
-     "def": "系统资源，CPU、内存等可供程序使用的能力"
-    },
-    {
      "w": "pick up groceries",
      "type": "term",
      "def": "顺路买生活用品"
@@ -134,12 +94,57 @@
      "w": "finish the chores",
      "type": "term",
      "def": "做完家务"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Merge conflicts arrive. \"When two people change the same line, you get a merge conflict,\" Leo explains. \"You resolve a conflict by choosing which change to keep. A conflicting change needs your attention. You accept incoming change or keep yours. Then you complete the merge.\" My first merge conflict is scary. My second is manageable. By the third, I understand: conflicts are just conversations between code.",
+   "tts": "Merge conflicts arrive. \"When two people change the same line, you get a merge conflict,\" Leo explains. \"You resolve a conflict by choosing which change to keep. A conflicting change needs your attention. You accept incoming change or keep yours. Then you complete the merge.\" My first merge conflict is scary. My second is manageable. By the third, I understand: conflicts are just conversations between code.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "合并冲突来了。\"当两个人改了同一行，就会产生合并冲突，\"Leo 解释。\"你通过选择保留哪个改动来解决冲突。冲突改动需要你处理。你可以接受传入改动或保留自己的。然后完成合并。\"我的第一次合并冲突很吓人。第二次就好处理了。到第三次，我明白了：冲突只是代码之间的对话。",
+   "hard": [
+    {
+     "w": "merge branches",
+     "type": "term",
+     "def": "合并分支，把两条代码线组合起来"
+    },
+    {
+     "w": "merge conflict",
+     "type": "term",
+     "def": "合并冲突，两边修改无法自动组合的情况"
+    },
+    {
+     "w": "resolve a conflict",
+     "type": "term",
+     "def": "解决冲突，人工决定保留哪些内容"
+    },
+    {
+     "w": "conflicting change",
+     "type": "term",
+     "def": "冲突改动，与另一项修改互不兼容的变化"
     },
     {
      "w": "accept incoming change",
      "type": "term",
      "def": "接受传入改动，选择另一分支的内容"
     },
+    {
+     "w": "complete the merge",
+     "type": "term",
+     "def": "完成合并，解决冲突后创建合并结果"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "The day ends with a full laundry basket and a clean git history. I write: 'Day 9 — processes have threads like chores have steps. Merge conflicts are normal. Every developer resolves them.' My English is improving alongside my coding. Take out the trash. Resolve a conflict. Pick up groceries. Complete the merge. The verbs are different, the pattern is the same: identify the task, do the work, move on.",
+   "tts": "The day ends with a full laundry basket and a clean git history. I write: 'Day 9 — processes have threads like chores have steps. Merge conflicts are normal. Every developer resolves them.' My English is improving alongside my coding. Take out the trash. Resolve a conflict. Pick up groceries. Complete the merge. The verbs are different, the pattern is the same: identify the task, do the work, move on.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "这一天以满满一筐待洗衣物和干净的 git 历史结束。我写：'第九天——进程有线程就像家务有步骤。合并冲突是正常的。每个开发者都会解决它们。'我的英语和编程在同步进步。倒垃圾。解决冲突。买菜。完成合并。动词不同，模式一样：识别任务，做工作，继续前进。",
+   "hard": [
     {
      "w": "complete the merge",
      "type": "term",

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 361,
-   "segment_count": 3,
+   "word_count": 424,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A new vendor onboards; security asks its questions. During the design review, I raise one careful question about the mean time to patch. The team names one clear owner for the vulnerability aging report. I add the security posture dashboard to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the patch compliance view twice. In the review drill, Maria says, \"We review close calls too.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The near miss notebook.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "A new vendor onboards; security asks its questions. During the design review, I raise one careful question about the mean time to patch. The team names one clear owner for the vulnerability aging report. I add the security posture dashboard to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the patch compliance view twice. In the review drill, Maria says, \"We review close calls too.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The near miss notebook.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "A new vendor onboards; security asks its questions. During the design review, I raise one careful question about the mean time to patch. The team names one clear owner for the security posture dashboard. In the review drill, Leo says, \"We review close calls too.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "A new vendor onboards; security asks its questions. During the design review, I raise one careful question about the mean time to patch. The team names one clear owner for the security posture dashboard. In the review drill, Leo says, \"We review close calls too.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "新供应商入驻；安全团队有话要问。设计评审中，我就平均修复时长提出了一个审慎的问题。团队为漏洞老化报告指定了明确的负责人。我把安全态势看板连同三条支撑事实加进了议程。做决定之前，我把关于补丁合规视图的笔记重读了两遍。评审演练中，Maria说：\"虚惊也要复盘。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"未遂事件小本子。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "新供应商入驻；安全团队有话要问。设计评审中，我就平均修复时长提出了一个审慎的问题。团队为安全态势看板指定了明确的负责人。评审演练中，Leo说：\"虚惊也要复盘。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "mean time to patch",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Where data lives, who touches it, how long it stays — all in writing. In the review drill, Maria says, \"Locks and alarms tested twice a year.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Kids teach us scam trends.\" We swap roles so I ask the questions this time. I compare two views on the coverage of scanning and write both down honestly. Our mentor walks me through how the security training completion evolved on this team. We spend the first ten minutes of the review on the top risks list. I prepare a one-page brief about the security trend briefing so meetings start from facts. We end the week with something shipped and something properly learned this time.",
-   "tts": "Where data lives, who touches it, how long it stays — all in writing. In the review drill, Maria says, \"Locks and alarms tested twice a year.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Kids teach us scam trends.\" We swap roles so I ask the questions this time. I compare two views on the coverage of scanning and write both down honestly. Our mentor walks me through how the security training completion evolved on this team. We spend the first ten minutes of the review on the top risks list. I prepare a one-page brief about the security trend briefing so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "en": "Where data lives, who touches it, how long it stays — all in writing. In the review drill, Priya says, \"The near miss notebook.\" We swap roles so I ask the questions this time. I add the vulnerability aging report to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the patch compliance view twice. We end the week with something shipped and something properly learned this time.",
+   "tts": "Where data lives, who touches it, how long it stays — all in writing. In the review drill, Priya says, \"The near miss notebook.\" We swap roles so I ask the questions this time. I add the vulnerability aging report to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the patch compliance view twice. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "数据住哪、谁会碰、留多久——全部落在纸面。评审演练中，Maria说：\"锁和警报半年一测。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"孩子们教我们新骗局。\"我们互换角色，这次由我来提问。我比较了关于扫描覆盖率的两种观点，诚实地都记了下来。导师带我梳理了安全培训完成率在这个团队里的演变。评审的前十分钟，我们都用在了Top 风险清单上。我准备了一页关于安全趋势简报的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "数据住哪、谁会碰、留多久——全部落在纸面。评审演练中，Priya说：\"未遂事件小本子。\"我们互换角色，这次由我来提问。我把漏洞老化报告连同三条支撑事实加进了议程。做决定之前，我把关于补丁合规视图的笔记重读了两遍。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "coverage of scanning",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the exceptions aging view. The team names one clear owner for the board ready summary. I add the false positive rate for alerts to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the security kpi review twice. In the review drill, Leo says, \"Prevention wins get celebrated.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Safety is a quiet KPI.\" We swap roles so I ask the questions this time. Good vendors like good questions.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the exceptions aging view. The team names one clear owner for the board ready summary. I add the false positive rate for alerts to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the security kpi review twice. In the review drill, Leo says, \"Prevention wins get celebrated.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Safety is a quiet KPI.\" We swap roles so I ask the questions this time. Good vendors like good questions.",
+   "en": "Where data lives, who touches it, how long it stays — all in writing. I compare two views on the top risks list and write both down honestly. Our mentor walks me through how the coverage of scanning evolved on this team. In the review drill, Maria says, \"Locks and alarms tested twice a year.\" We swap roles so I ask the questions this time. Good vendors like good questions.",
+   "tts": "Where data lives, who touches it, how long it stays — all in writing. I compare two views on the top risks list and write both down honestly. Our mentor walks me through how the coverage of scanning evolved on this team. In the review drill, Maria says, \"Locks and alarms tested twice a year.\" We swap roles so I ask the questions this time. Good vendors like good questions.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就例外老化视图提出了一个审慎的问题。团队为给管理层的摘要指定了明确的负责人。我把告警误报率连同三条支撑事实加进了议程。做决定之前，我把关于安全 KPI 评审的笔记重读了两遍。评审演练中，Leo说：\"预防的胜利也要庆祝。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"安全是安静的指标。\"我们互换角色，这次由我来提问。好的供应商喜欢好的问题。",
+   "zh": "数据住哪、谁会碰、留多久——全部落在纸面。我比较了关于Top 风险清单的两种观点，诚实地都记了下来。导师带我梳理了扫描覆盖率在这个团队里的演变。评审演练中，Maria说：\"锁和警报半年一测。\"我们互换角色，这次由我来提问。好的供应商喜欢好的问题。",
    "hard": [
     {
      "w": "false positive rate for alerts",
@@ -146,6 +146,33 @@
      "def": "给管理层的摘要，人话讲风险"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Good vendors like good questions. We spend the first ten minutes of the review on the security training completion. In the review drill, Maria says, \"Kids teach us scam trends.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the security trend briefing so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Good vendors like good questions. We spend the first ten minutes of the review on the security training completion. In the review drill, Maria says, \"Kids teach us scam trends.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the security trend briefing so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "好的供应商喜欢好的问题。评审的前十分钟，我们都用在了安全培训完成率上。评审演练中，Maria说：\"孩子们教我们新骗局。\"我们互换角色，这次由我来提问。我准备了一页关于安全趋势简报的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Where data lives, who touches it, how long it stays — all in writing. In the review drill, Priya says, \"Prevention wins get celebrated.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the exceptions aging view. The team names one clear owner for the false positive rate for alerts. We end the week with something shipped and something properly learned this time.",
+   "tts": "Where data lives, who touches it, how long it stays — all in writing. In the review drill, Priya says, \"Prevention wins get celebrated.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the exceptions aging view. The team names one clear owner for the false positive rate for alerts. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "数据住哪、谁会碰、留多久——全部落在纸面。评审演练中，Priya说：\"预防的胜利也要庆祝。\"我们互换角色，这次由我来提问。设计评审中，我就例外老化视图提出了一个审慎的问题。团队为告警误报率指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the board ready summary to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the security kpi review twice. In the review drill, Maria says, \"Safety is a quiet KPI.\" We swap roles so I ask the questions this time. Good vendors like good questions.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the board ready summary to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the security kpi review twice. In the review drill, Maria says, \"Safety is a quiet KPI.\" We swap roles so I ask the questions this time. Good vendors like good questions.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把给管理层的摘要连同三条支撑事实加进了议程。做决定之前，我把关于安全 KPI 评审的笔记重读了两遍。评审演练中，Maria说：\"安全是安静的指标。\"我们互换角色，这次由我来提问。好的供应商喜欢好的问题。",
+   "hard": []
   }
  ],
  "chunks": [

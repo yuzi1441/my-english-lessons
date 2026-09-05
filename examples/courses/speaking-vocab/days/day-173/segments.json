@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 336,
-   "segment_count": 3,
+   "word_count": 399,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Month-end bill arrives with a Warehouse Surprise. The guide now has a short section on the north star metric. At the review, we spend ten minutes on the input metrics tree. I connect the monthly warehouse review to the ticket so nothing gets lost. We agree to give the top cost queries list one more careful look this week. In the meeting drill, Maria says, \"Pace is a promise to future you.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Negative splits, positive mood.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Month-end bill arrives with a Warehouse Surprise. The guide now has a short section on the north star metric. At the review, we spend ten minutes on the input metrics tree. I connect the monthly warehouse review to the ticket so nothing gets lost. We agree to give the top cost queries list one more careful look this week. In the meeting drill, Maria says, \"Pace is a promise to future you.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Negative splits, positive mood.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Month-end bill arrives with a Warehouse Surprise. The guide now has a short section on the north star metric. At the review, we spend ten minutes on the monthly warehouse review. In the meeting drill, Leo says, \"Pace is a promise to future you.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Month-end bill arrives with a Warehouse Surprise. The guide now has a short section on the north star metric. At the review, we spend ten minutes on the monthly warehouse review. In the meeting drill, Leo says, \"Pace is a promise to future you.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "月底账单带来了数仓惊喜。指南里现在有关于北极星指标的简短章节。评审时，我们花了十分钟在输入指标树上。我把月度数仓治理会关联到工单上，免得遗漏。我们说好这周再把最贵查询榜单仔细看一次。会议演练中，Maria说：\"配速是对未来的承诺。\"之后我们换角色再练一遍。会议演练中，Priya说：\"后半程加速\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "月底账单带来了数仓惊喜。指南里现在有关于北极星指标的简短章节。评审时，我们花了十分钟在月度数仓治理会上。会议演练中，Leo说：\"配速是对未来的承诺。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "north star metric",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One unpartitioned query ate a small car; we quarantine and schedule it. In the meeting drill, Maria says, \"The watch nags, I decide.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Water stops are strategy.\" After that, we swap roles and run it again. I compare my notes about the vanity metric trap with Priya's. In today's standup, I mention the leading vs lagging metrics and what comes next. Priya suggests a cleaner way to think about the table lifecycle review. While the details are fresh, I write down the access request triage. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "One unpartitioned query ate a small car; we quarantine and schedule it. In the meeting drill, Maria says, \"The watch nags, I decide.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Water stops are strategy.\" After that, we swap roles and run it again. I compare my notes about the vanity metric trap with Priya's. In today's standup, I mention the leading vs lagging metrics and what comes next. Priya suggests a cleaner way to think about the table lifecycle review. While the details are fresh, I write down the access request triage. I close the ticket with a clear result and one lesson for next time.",
+   "en": "One unpartitioned query ate a small car; we quarantine and schedule it. In the meeting drill, Priya says, \"Negative splits, positive mood.\" After that, we swap roles and run it again. I connect the input metrics tree to the ticket so nothing gets lost. We agree to give the top cost queries list one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "One unpartitioned query ate a small car; we quarantine and schedule it. In the meeting drill, Priya says, \"Negative splits, positive mood.\" After that, we swap roles and run it again. I connect the input metrics tree to the ticket so nothing gets lost. We agree to give the top cost queries list one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一条没分区的查询吃掉一辆小车；我们隔离并给它排了班。会议演练中，Maria说：\"手表催\"之后我们换角色再练一遍。会议演练中，Priya说：\"补水也是战术。\"之后我们换角色再练一遍。我把关于虚荣指标陷阱的笔记和 Priya 的对照了一下。今天的站会上，我提到先行与滞后指标和接下来的安排。Priya 提出了一个更清晰的表生命周期回顾思考方式。趁细节还新鲜，我把访问权限分诊写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "一条没分区的查询吃掉一辆小车；我们隔离并给它排了班。会议演练中，Priya说：\"后半程加速\"之后我们换角色再练一遍。我把输入指标树关联到工单上，免得遗漏。我们说好这周再把最贵查询榜单仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "vanity metric trap",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the duplicate table cleanup sprint. At the review, we spend ten minutes on the warehouse style guide. I connect the metric pairing to the ticket so nothing gets lost. We agree to give the measurable objectives one more careful look this week. In the meeting drill, Leo says, \"Walking breaks are legal.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Finish lines forgive slowly.\" After that, we swap roles and run it again. Queries have price tags; read them.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the duplicate table cleanup sprint. At the review, we spend ten minutes on the warehouse style guide. I connect the metric pairing to the ticket so nothing gets lost. We agree to give the measurable objectives one more careful look this week. In the meeting drill, Leo says, \"Walking breaks are legal.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Finish lines forgive slowly.\" After that, we swap roles and run it again. Queries have price tags; read them.",
+   "en": "One unpartitioned query ate a small car; we quarantine and schedule it. I compare my notes about the table lifecycle review with Priya's. In today's standup, I mention the vanity metric trap and what comes next. In the meeting drill, Maria says, \"The watch nags, I decide.\" After that, we swap roles and run it again. Queries have price tags; read them.",
+   "tts": "One unpartitioned query ate a small car; we quarantine and schedule it. I compare my notes about the table lifecycle review with Priya's. In today's standup, I mention the vanity metric trap and what comes next. In the meeting drill, Maria says, \"The watch nags, I decide.\" After that, we swap roles and run it again. Queries have price tags; read them.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于重复表清理冲刺的简短章节。评审时，我们花了十分钟在数仓风格指南上。我把指标配对关联到工单上，免得遗漏。我们说好这周再把可度量目标仔细看一次。会议演练中，Leo说：\"走路休息不犯规。\"之后我们换角色再练一遍。会议演练中，Maria说：\"终点线慢慢原谅你。\"之后我们换角色再练一遍。查询有价签；要看清。",
+   "zh": "一条没分区的查询吃掉一辆小车；我们隔离并给它排了班。我把关于表生命周期回顾的笔记和 Priya 的对照了一下。今天的站会上，我提到虚荣指标陷阱和接下来的安排。会议演练中，Maria说：\"手表催\"之后我们换角色再练一遍。查询有价签；要看清。",
    "hard": [
     {
      "w": "metric pairing",
@@ -146,6 +146,33 @@
      "def": "数仓风格指南，命名与分层统一"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Queries have price tags; read them. Priya suggests a cleaner way to think about the leading vs lagging metrics. In the meeting drill, Maria says, \"Water stops are strategy.\" After that, we swap roles and run it again. While the details are fresh, I write down the access request triage. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Queries have price tags; read them. Priya suggests a cleaner way to think about the leading vs lagging metrics. In the meeting drill, Maria says, \"Water stops are strategy.\" After that, we swap roles and run it again. While the details are fresh, I write down the access request triage. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "查询有价签；要看清。Priya 提出了一个更清晰的先行与滞后指标思考方式。会议演练中，Maria说：\"补水也是战术。\"之后我们换角色再练一遍。趁细节还新鲜，我把访问权限分诊写了下来。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "One unpartitioned query ate a small car; we quarantine and schedule it. In the meeting drill, Priya says, \"Walking breaks are legal.\" After that, we swap roles and run it again. The guide now has a short section on the duplicate table cleanup sprint. At the review, we spend ten minutes on the metric pairing. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "One unpartitioned query ate a small car; we quarantine and schedule it. In the meeting drill, Priya says, \"Walking breaks are legal.\" After that, we swap roles and run it again. The guide now has a short section on the duplicate table cleanup sprint. At the review, we spend ten minutes on the metric pairing. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "一条没分区的查询吃掉一辆小车；我们隔离并给它排了班。会议演练中，Priya说：\"走路休息不犯规。\"之后我们换角色再练一遍。指南里现在有关于重复表清理冲刺的简短章节。评审时，我们花了十分钟在指标配对上。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the warehouse style guide to the ticket so nothing gets lost. We agree to give the measurable objectives one more careful look this week. In the meeting drill, Maria says, \"Finish lines forgive slowly.\" After that, we swap roles and run it again. Queries have price tags; read them.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the warehouse style guide to the ticket so nothing gets lost. We agree to give the measurable objectives one more careful look this week. In the meeting drill, Maria says, \"Finish lines forgive slowly.\" After that, we swap roles and run it again. Queries have price tags; read them.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把数仓风格指南关联到工单上，免得遗漏。我们说好这周再把可度量目标仔细看一次。会议演练中，Maria说：\"终点线慢慢原谅你。\"之后我们换角色再练一遍。查询有价签；要看清。",
+   "hard": []
   }
  ],
  "chunks": [

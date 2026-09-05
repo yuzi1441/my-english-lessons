@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 323,
-   "segment_count": 3,
+   "word_count": 387,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Three dashboards say active user; three numbers disagree. We agree to give the funnel step one more careful look this week. I connect the drop-off rate to the ticket so nothing gets lost. At the review, we spend ten minutes on the dashboard ownership. Priya suggests a cleaner way to think about the single source query. In the meeting drill, Priya says, \"The category soup problem.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Auto tagging mostly works.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Three dashboards say active user; three numbers disagree. We agree to give the funnel step one more careful look this week. I connect the drop-off rate to the ticket so nothing gets lost. At the review, we spend ten minutes on the dashboard ownership. Priya suggests a cleaner way to think about the single source query. In the meeting drill, Priya says, \"The category soup problem.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Auto tagging mostly works.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Three dashboards say active user; three numbers disagree. We agree to give the funnel step one more careful look this week. I connect the dashboard ownership to the ticket so nothing gets lost. In the meeting drill, Maria says, \"The category soup problem.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Three dashboards say active user; three numbers disagree. We agree to give the funnel step one more careful look this week. I connect the dashboard ownership to the ticket so nothing gets lost. In the meeting drill, Maria says, \"The category soup problem.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "三个看板都说活跃用户；三个数字各说各话。我们说好这周再把漏斗步骤仔细看一次。我把流失率关联到工单上，免得遗漏。评审时，我们花了十分钟在看板归属上。Priya 提出了一个更清晰的一源查询思考方式。会议演练中，Priya说：\"分类一锅粥的问题。\"之后我们换角色再练一遍。会议演练中，Leo说：\"自动打标大体靠谱。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "三个看板都说活跃用户；三个数字各说各话。我们说好这周再把漏斗步骤仔细看一次。我把看板归属关联到工单上，免得遗漏。会议演练中，Maria说：\"分类一锅粥的问题。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "funnel step",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We write the metric dictionary, one definition per row, an owner per row. In the meeting drill, Priya says, \"The coffee budget, exposed.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Monthly review, fifteen minutes.\" After that, we swap roles and run it again. While the details are fresh, I write down the conversion window. The guide now has a short section on the segment comparison. I compare my notes about the cached tile with Priya's. In today's standup, I mention the dashboard review cadence and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "We write the metric dictionary, one definition per row, an owner per row. In the meeting drill, Priya says, \"The coffee budget, exposed.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Monthly review, fifteen minutes.\" After that, we swap roles and run it again. While the details are fresh, I write down the conversion window. The guide now has a short section on the segment comparison. I compare my notes about the cached tile with Priya's. In today's standup, I mention the dashboard review cadence and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "We write the metric dictionary, one definition per row, an owner per row. In the meeting drill, Leo says, \"Auto tagging mostly works.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the drop-off rate. Priya suggests a cleaner way to think about the single source query. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We write the metric dictionary, one definition per row, an owner per row. In the meeting drill, Leo says, \"Auto tagging mostly works.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the drop-off rate. Priya suggests a cleaner way to think about the single source query. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们编写指标字典，一行一个定义，一行一个负责人。会议演练中，Priya说：\"咖啡预算\"之后我们换角色再练一遍。会议演练中，Leo说：\"每月十五分钟对账。\"之后我们换角色再练一遍。趁细节还新鲜，我把转化窗口写了下来。指南里现在有关于分群对比的简短章节。我把关于缓存瓦片的笔记和 Priya 的对照了一下。今天的站会上，我提到看板评审节奏和接下来的安排。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我们编写指标字典，一行一个定义，一行一个负责人。会议演练中，Leo说：\"自动打标大体靠谱。\"之后我们换角色再练一遍。评审时，我们花了十分钟在流失率上。Priya 提出了一个更清晰的一源查询思考方式。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "conversion window",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the self serve culture one more careful look this week. I connect the metric footnote to the ticket so nothing gets lost. At the review, we spend ten minutes on the first touch attribution. Priya suggests a cleaner way to think about the multi touch analysis. In the meeting drill, Maria says, \"Trends beat single days.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Numbers with mercy.\" After that, we swap roles and run it again. Shared vocabulary is half of shared truth.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the self serve culture one more careful look this week. I connect the metric footnote to the ticket so nothing gets lost. At the review, we spend ten minutes on the first touch attribution. Priya suggests a cleaner way to think about the multi touch analysis. In the meeting drill, Maria says, \"Trends beat single days.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Numbers with mercy.\" After that, we swap roles and run it again. Shared vocabulary is half of shared truth.",
+   "en": "We write the metric dictionary, one definition per row, an owner per row. While the details are fresh, I write down the cached tile. The guide now has a short section on the conversion window. In the meeting drill, Priya says, \"The coffee budget, exposed.\" After that, we swap roles and run it again. Shared vocabulary is half of shared truth.",
+   "tts": "We write the metric dictionary, one definition per row, an owner per row. While the details are fresh, I write down the cached tile. The guide now has a short section on the conversion window. In the meeting drill, Priya says, \"The coffee budget, exposed.\" After that, we swap roles and run it again. Shared vocabulary is half of shared truth.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把自助文化仔细看一次。我把指标脚注关联到工单上，免得遗漏。评审时，我们花了十分钟在首次触点归因上。Priya 提出了一个更清晰的多触点分析思考方式。会议演练中，Maria说：\"趋势比单日重要。\"之后我们换角色再练一遍。会议演练中，Priya说：\"对自己仁慈的数字。\"之后我们换角色再练一遍。共享的词汇，是共享真相的一半。",
+   "zh": "我们编写指标字典，一行一个定义，一行一个负责人。趁细节还新鲜，我把缓存瓦片写了下来。指南里现在有关于转化窗口的简短章节。会议演练中，Priya说：\"咖啡预算\"之后我们换角色再练一遍。共享的词汇，是共享真相的一半。",
    "hard": [
     {
      "w": "first touch attribution",
@@ -146,6 +146,33 @@
      "def": "指标脚注，口径写在图下面"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Shared vocabulary is half of shared truth. I compare my notes about the segment comparison with Priya's. In the meeting drill, Priya says, \"Monthly review, fifteen minutes.\" After that, we swap roles and run it again. In today's standup, I mention the dashboard review cadence and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Shared vocabulary is half of shared truth. I compare my notes about the segment comparison with Priya's. In the meeting drill, Priya says, \"Monthly review, fifteen minutes.\" After that, we swap roles and run it again. In today's standup, I mention the dashboard review cadence and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "共享的词汇，是共享真相的一半。我把关于分群对比的笔记和 Priya 的对照了一下。会议演练中，Priya说：\"每月十五分钟对账。\"之后我们换角色再练一遍。今天的站会上，我提到看板评审节奏和接下来的安排。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We write the metric dictionary, one definition per row, an owner per row. In the meeting drill, Leo says, \"Trends beat single days.\" After that, we swap roles and run it again. We agree to give the self serve culture one more careful look this week. I connect the first touch attribution to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We write the metric dictionary, one definition per row, an owner per row. In the meeting drill, Leo says, \"Trends beat single days.\" After that, we swap roles and run it again. We agree to give the self serve culture one more careful look this week. I connect the first touch attribution to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们编写指标字典，一行一个定义，一行一个负责人。会议演练中，Leo说：\"趋势比单日重要。\"之后我们换角色再练一遍。我们说好这周再把自助文化仔细看一次。我把首次触点归因关联到工单上，免得遗漏。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the metric footnote. Priya suggests a cleaner way to think about the multi touch analysis. In the meeting drill, Priya says, \"Numbers with mercy.\" After that, we swap roles and run it again. Shared vocabulary is half of shared truth.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the metric footnote. Priya suggests a cleaner way to think about the multi touch analysis. In the meeting drill, Priya says, \"Numbers with mercy.\" After that, we swap roles and run it again. Shared vocabulary is half of shared truth.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在指标脚注上。Priya 提出了一个更清晰的多触点分析思考方式。会议演练中，Priya说：\"对自己仁慈的数字。\"之后我们换角色再练一遍。共享的词汇，是共享真相的一半。",
+   "hard": []
   }
  ],
  "chunks": [

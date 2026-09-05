@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 402,
-   "segment_count": 3,
+   "word_count": 465,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We adopt event driven design for the notification flows. I propose a measurable target for the horizontal scaling readiness this quarter. We review the stateless request handling against the requirements, line by line. I close the discussion on the scale up drill schedule with a short summary. I present the load test at double peak with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Guest list math beats gut feeling.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The buffet scales better than plated dinners.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "We adopt event driven design for the notification flows. I propose a measurable target for the horizontal scaling readiness this quarter. We review the stateless request handling against the requirements, line by line. I close the discussion on the scale up drill schedule with a short summary. I present the load test at double peak with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Guest list math beats gut feeling.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The buffet scales better than plated dinners.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "We adopt event driven design for the notification flows. I propose a measurable target for the horizontal scaling readiness this quarter. We review the scale up drill schedule against the requirements, line by line. In the launch rehearsal, Leo says, \"Guest list math beats gut feeling.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "We adopt event driven design for the notification flows. I propose a measurable target for the horizontal scaling readiness this quarter. We review the scale up drill schedule against the requirements, line by line. In the launch rehearsal, Leo says, \"Guest list math beats gut feeling.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "通知流改用事件驱动设计。我为水平扩展就绪度提出了本季度一个可衡量的目标。我们逐行对照需求检查了无状态请求处理。我用一段简短的总结为扩容演练排期的讨论收尾。我用时间线、数据和一条明确的诉求来汇报双倍峰值负载测试。上线彩排中，Maria说：\"客数算术胜过拍脑袋。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"自助餐比桌餐好扩展。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "通知流改用事件驱动设计。我为水平扩展就绪度提出了本季度一个可衡量的目标。我们逐行对照需求检查了扩容演练排期。上线彩排中，Leo说：\"客数算术胜过拍脑袋。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "horizontal scaling readiness",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The board posts what happened; subscribers decide what it means. In the launch rehearsal, Maria says, \"One more table needs one more waiter.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The kitchen has a hard output limit.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the hot partition avoidance, the risks behind it, and the cost of waiting. I put the back of envelope capacity math on the record so the reasoning stays visible. We align on the auto scaling policy review early, so execution never has to guess. The final deck includes the capacity headroom dashboard and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "The board posts what happened; subscribers decide what it means. In the launch rehearsal, Maria says, \"One more table needs one more waiter.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The kitchen has a hard output limit.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the hot partition avoidance, the risks behind it, and the cost of waiting. I put the back of envelope capacity math on the record so the reasoning stays visible. We align on the auto scaling policy review early, so execution never has to guess. The final deck includes the capacity headroom dashboard and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "The board posts what happened; subscribers decide what it means. In the launch rehearsal, Priya says, \"The buffet scales better than plated dinners.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the stateless request handling with a short summary. I present the load test at double peak with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "The board posts what happened; subscribers decide what it means. In the launch rehearsal, Priya says, \"The buffet scales better than plated dinners.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the stateless request handling with a short summary. I present the load test at double peak with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "公告栏只播发发生了什么；订阅者自己决定含义。上线彩排中，Maria说：\"加一桌就要加一个服务员。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"厨房产能有硬上限。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖热点分区规避、背后的风险，以及等待的代价。我把信封背面的容量算术记录在案，让推理过程保持可见。我们尽早就自动扩缩策略评审对齐，让执行无需猜测。最终的材料里有容量余量看板，以及我们从中学到的东西。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "公告栏只播发发生了什么；订阅者自己决定含义。上线彩排中，Priya说：\"自助餐比桌餐好扩展。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为无状态请求处理的讨论收尾。我用时间线、数据和一条明确的诉求来汇报双倍峰值负载测试。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "hot partition avoidance",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the cost scaling curve doc this quarter. We review the bottleneck of the month report against the requirements, line by line. I close the discussion on the graceful overload behavior with a short summary. I present the elastic limit definition with a timeline, the data, and one clear ask. In the launch rehearsal, Leo says, \"Standing parties absorb surprises.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Overflow plans live next door.\" To finish, we swap roles and I lead the entire exchange from start to finish. Producers stop caring who is listening, kindly.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the cost scaling curve doc this quarter. We review the bottleneck of the month report against the requirements, line by line. I close the discussion on the graceful overload behavior with a short summary. I present the elastic limit definition with a timeline, the data, and one clear ask. In the launch rehearsal, Leo says, \"Standing parties absorb surprises.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Overflow plans live next door.\" To finish, we swap roles and I lead the entire exchange from start to finish. Producers stop caring who is listening, kindly.",
+   "en": "The board posts what happened; subscribers decide what it means. My report covers the auto scaling policy review, the risks behind it, and the cost of waiting. I put the hot partition avoidance on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"One more table needs one more waiter.\" To finish, we swap roles and I lead the entire exchange from start to finish. Producers stop caring who is listening, kindly.",
+   "tts": "The board posts what happened; subscribers decide what it means. My report covers the auto scaling policy review, the risks behind it, and the cost of waiting. I put the hot partition avoidance on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"One more table needs one more waiter.\" To finish, we swap roles and I lead the entire exchange from start to finish. Producers stop caring who is listening, kindly.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为扩容成本曲线文档提出了本季度一个可衡量的目标。我们逐行对照需求检查了月度瓶颈报告。我用一段简短的总结为优雅过载行为的讨论收尾。我用时间线、数据和一条明确的诉求来汇报弹性上限定义。上线彩排中，Leo说：\"站立式酒会吸收意外。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"溢出方案就在隔壁。\"最后我们互换角色，由我从头到尾主导整段对话。生产者礼貌地不再关心谁在听。",
+   "zh": "公告栏只播发发生了什么；订阅者自己决定含义。我的报告涵盖自动扩缩策略评审、背后的风险，以及等待的代价。我把热点分区规避记录在案，让推理过程保持可见。上线彩排中，Maria说：\"加一桌就要加一个服务员。\"最后我们互换角色，由我从头到尾主导整段对话。生产者礼貌地不再关心谁在听。",
    "hard": [
     {
      "w": "graceful overload behavior",
@@ -146,6 +146,33 @@
      "def": "月度瓶颈报告，下一个顶住别处"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Producers stop caring who is listening, kindly. We align on the back of envelope capacity math early, so execution never has to guess. In the launch rehearsal, Maria says, \"The kitchen has a hard output limit.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the capacity headroom dashboard and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Producers stop caring who is listening, kindly. We align on the back of envelope capacity math early, so execution never has to guess. In the launch rehearsal, Maria says, \"The kitchen has a hard output limit.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the capacity headroom dashboard and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "生产者礼貌地不再关心谁在听。我们尽早就信封背面的容量算术对齐，让执行无需猜测。上线彩排中，Maria说：\"厨房产能有硬上限。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有容量余量看板，以及我们从中学到的东西。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The board posts what happened; subscribers decide what it means. In the launch rehearsal, Priya says, \"Standing parties absorb surprises.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the cost scaling curve doc this quarter. We review the graceful overload behavior against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "The board posts what happened; subscribers decide what it means. In the launch rehearsal, Priya says, \"Standing parties absorb surprises.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the cost scaling curve doc this quarter. We review the graceful overload behavior against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "公告栏只播发发生了什么；订阅者自己决定含义。上线彩排中，Priya说：\"站立式酒会吸收意外。\"最后我们互换角色，由我从头到尾主导整段对话。我为扩容成本曲线文档提出了本季度一个可衡量的目标。我们逐行对照需求检查了优雅过载行为。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the bottleneck of the month report with a short summary. I present the elastic limit definition with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Overflow plans live next door.\" To finish, we swap roles and I lead the entire exchange from start to finish. Producers stop caring who is listening, kindly.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the bottleneck of the month report with a short summary. I present the elastic limit definition with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Overflow plans live next door.\" To finish, we swap roles and I lead the entire exchange from start to finish. Producers stop caring who is listening, kindly.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为月度瓶颈报告的讨论收尾。我用时间线、数据和一条明确的诉求来汇报弹性上限定义。上线彩排中，Maria说：\"溢出方案就在隔壁。\"最后我们互换角色，由我从头到尾主导整段对话。生产者礼貌地不再关心谁在听。",
+   "hard": []
   }
  ],
  "chunks": [

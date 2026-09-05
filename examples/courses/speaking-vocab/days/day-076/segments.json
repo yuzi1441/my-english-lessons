@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 311,
-   "segment_count": 3,
+   "word_count": 362,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria introduces budgets: milliseconds, megabytes, and money. I go over the blue-green deploy one more time before lunch. I keep one real example of the rolling upgrade in my notebook. I add the serverless function to my study notes before I forget it. I ask one good question about the cold start cost in the meeting. In the warm-up round, Priya says, \"I fix chairs on weekends.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Glue, clamps, patience.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Maria introduces budgets: milliseconds, megabytes, and money. I go over the blue-green deploy one more time before lunch. I keep one real example of the rolling upgrade in my notebook. I add the serverless function to my study notes before I forget it. I ask one good question about the cold start cost in the meeting. In the warm-up round, Priya says, \"I fix chairs on weekends.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Glue, clamps, patience.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "en": "Maria introduces budgets: milliseconds, megabytes, and money. I go over the blue-green deploy one more time before lunch. I keep one real example of the serverless function in my notebook. In the warm-up round, Maria says, \"I fix chairs on weekends.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Maria introduces budgets: milliseconds, megabytes, and money. I go over the blue-green deploy one more time before lunch. I keep one real example of the serverless function in my notebook. In the warm-up round, Maria says, \"I fix chairs on weekends.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 介绍了预算思维：毫秒、兆字节和金钱。午饭前我又过了一遍蓝绿部署。我在笔记本里留了一个滚动升级的真实例子。我趁还没忘，把无服务器函数记进了学习笔记。会上关于冷启动代价，我问了一个好问题。热身环节里，Priya说：\"我周末修椅子。\"然后我们换角色，由我来问。热身环节里，Leo说：\"胶水、夹具、耐心。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
+   "zh": "Maria 介绍了预算思维：毫秒、兆字节和金钱。午饭前我又过了一遍蓝绿部署。我在笔记本里留了一个无服务器函数的真实例子。热身环节里，Maria说：\"我周末修椅子。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "blue-green deploy",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Every feature now spends from a visible allocation. In the warm-up round, Priya says, \"Repair beats replace.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"My toolbox is honest.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the schema migration after the standup. There is a short paragraph about the backward compatible in the guide. My notes about the event trigger look clearer this week. Sam asks me about the execution quota, and I explain the basics. The task moves forward, and so does my confidence.",
-   "tts": "Every feature now spends from a visible allocation. In the warm-up round, Priya says, \"Repair beats replace.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"My toolbox is honest.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the schema migration after the standup. There is a short paragraph about the backward compatible in the guide. My notes about the event trigger look clearer this week. Sam asks me about the execution quota, and I explain the basics. The task moves forward, and so does my confidence.",
+   "en": "Every feature now spends from a visible allocation. In the warm-up round, Leo says, \"Glue, clamps, patience.\" Then we swap roles and I ask it back. I add the rolling upgrade to my study notes before I forget it. I ask one good question about the cold start cost in the meeting. The task moves forward, and so does my confidence.",
+   "tts": "Every feature now spends from a visible allocation. In the warm-up round, Leo says, \"Glue, clamps, patience.\" Then we swap roles and I ask it back. I add the rolling upgrade to my study notes before I forget it. I ask one good question about the cold start cost in the meeting. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "现在每个功能都从看得见的分配中支出。热身环节里，Priya说：\"修复胜过更换。\"然后我们换角色，由我来问。热身环节里，Leo说：\"我的工具箱简单实用。\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在结构迁移上。指南里有一小段关于向后兼容的介绍。这周我关于事件触发的笔记清楚多了。Sam 问起执行配额，我讲了讲基础。任务在推进，我的信心也在成长。",
+   "zh": "现在每个功能都从看得见的分配中支出。热身环节里，Leo说：\"胶水、夹具、耐心。\"然后我们换角色，由我来问。我趁还没忘，把滚动升级记进了学习笔记。会上关于冷启动代价，我问了一个好问题。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "schema migration",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the function timeout one more time before lunch. I keep one real example of the stateless design in my notebook. I add the dual write to my study notes before I forget it. I ask one good question about the feature parity in the meeting. In the warm-up round, Maria says, \"Broken things teach you.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"The chair outlived my doubt.\" Then we swap roles and I ask it back. Constraints did not shrink my ideas; they sharpened them.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the function timeout one more time before lunch. I keep one real example of the stateless design in my notebook. I add the dual write to my study notes before I forget it. I ask one good question about the feature parity in the meeting. In the warm-up round, Maria says, \"Broken things teach you.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"The chair outlived my doubt.\" Then we swap roles and I ask it back. Constraints did not shrink my ideas; they sharpened them.",
+   "en": "Every feature now spends from a visible allocation. I spend ten quiet minutes on the event trigger after the standup. There is a short paragraph about the schema migration in the guide. In the warm-up round, Priya says, \"Repair beats replace.\" Then we swap roles and I ask it back. Constraints did not shrink my ideas; they sharpened them.",
+   "tts": "Every feature now spends from a visible allocation. I spend ten quiet minutes on the event trigger after the standup. There is a short paragraph about the schema migration in the guide. In the warm-up round, Priya says, \"Repair beats replace.\" Then we swap roles and I ask it back. Constraints did not shrink my ideas; they sharpened them.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍函数超时。我在笔记本里留了一个无状态设计的真实例子。我趁还没忘，把双写记进了学习笔记。会上关于功能对齐，我问了一个好问题。热身环节里，Maria说：\"坏掉的东西会教你东西。\"然后我们换角色，由我来问。热身环节里，Priya说：\"椅子比我的怀疑活得久。\"然后我们换角色，由我来问。约束没有缩小我的想法，反而磨尖了它们。",
+   "zh": "现在每个功能都从看得见的分配中支出。站会之后，我安安静静花了十分钟在事件触发上。指南里有一小段关于结构迁移的介绍。热身环节里，Priya说：\"修复胜过更换。\"然后我们换角色，由我来问。约束没有缩小我的想法，反而磨尖了它们。",
    "hard": [
     {
      "w": "dual write",
@@ -146,6 +146,33 @@
      "def": "无状态设计，函数不保存本地状态"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Constraints did not shrink my ideas; they sharpened them. My notes about the backward compatible look clearer this week. In the warm-up round, Priya says, \"My toolbox is honest.\" Then we swap roles and I ask it back. Sam asks me about the execution quota, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Constraints did not shrink my ideas; they sharpened them. My notes about the backward compatible look clearer this week. In the warm-up round, Priya says, \"My toolbox is honest.\" Then we swap roles and I ask it back. Sam asks me about the execution quota, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "约束没有缩小我的想法，反而磨尖了它们。这周我关于向后兼容的笔记清楚多了。热身环节里，Priya说：\"我的工具箱简单实用。\"然后我们换角色，由我来问。Sam 问起执行配额，我讲了讲基础。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Every feature now spends from a visible allocation. In the warm-up round, Leo says, \"Broken things teach you.\" Then we swap roles and I ask it back. I go over the function timeout one more time before lunch. I keep one real example of the dual write in my notebook. The task moves forward, and so does my confidence.",
+   "tts": "Every feature now spends from a visible allocation. In the warm-up round, Leo says, \"Broken things teach you.\" Then we swap roles and I ask it back. I go over the function timeout one more time before lunch. I keep one real example of the dual write in my notebook. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "现在每个功能都从看得见的分配中支出。热身环节里，Leo说：\"坏掉的东西会教你东西。\"然后我们换角色，由我来问。午饭前我又过了一遍函数超时。我在笔记本里留了一个双写的真实例子。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the stateless design to my study notes before I forget it. I ask one good question about the feature parity in the meeting. In the warm-up round, Priya says, \"The chair outlived my doubt.\" Then we swap roles and I ask it back. Constraints did not shrink my ideas; they sharpened them.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the stateless design to my study notes before I forget it. I ask one good question about the feature parity in the meeting. In the warm-up round, Priya says, \"The chair outlived my doubt.\" Then we swap roles and I ask it back. Constraints did not shrink my ideas; they sharpened them.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把无状态设计记进了学习笔记。会上关于功能对齐，我问了一个好问题。热身环节里，Priya说：\"椅子比我的怀疑活得久。\"然后我们换角色，由我来问。约束没有缩小我的想法，反而磨尖了它们。",
+   "hard": []
   }
  ],
  "chunks": [

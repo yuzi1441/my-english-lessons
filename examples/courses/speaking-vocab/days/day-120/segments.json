@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 343,
-   "segment_count": 3,
+   "word_count": 422,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day one hundred twenty: the empty test folder has a hundred green dots. At the review, we spend ten minutes on the quality retro. While the details are fresh, I write down the top incident lessons. The guide now has a short section on the team charter refresh. Priya suggests a cleaner way to think about the next month's focus. In the meeting drill, Leo says, \"Four months ago, tests scared me.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Now they hold my hand.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Day one hundred twenty: the empty test folder has a hundred green dots. At the review, we spend ten minutes on the quality retro. While the details are fresh, I write down the top incident lessons. The guide now has a short section on the team charter refresh. Priya suggests a cleaner way to think about the next month's focus. In the meeting drill, Leo says, \"Four months ago, tests scared me.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Now they hold my hand.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Day one hundred twenty: the empty test folder has a hundred green dots. At the review, we spend ten minutes on the quality retro. While the details are fresh, I write down the team charter refresh. In the meeting drill, Priya says, \"Four months ago, tests scared me.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Day one hundred twenty: the empty test folder has a hundred green dots. At the review, we spend ten minutes on the quality retro. While the details are fresh, I write down the team charter refresh. In the meeting drill, Priya says, \"Four months ago, tests scared me.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第一百二十天：那个空的测试文件夹里已有一百个绿点。评审时，我们花了十分钟在质量复盘上。趁细节还新鲜，我把重点事故教训写了下来。指南里现在有关于团队章程更新的简短章节。Priya 提出了一个更清晰的下月重点思考方式。会议演练中，Leo说：\"四个月前\"之后我们换角色再练一遍。会议演练中，Maria说：\"现在它们牵着我的手。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "第一百二十天：那个空的测试文件夹里已有一百个绿点。评审时，我们花了十分钟在质量复盘上。趁细节还新鲜，我把团队章程更新写了下来。会议演练中，Priya说：\"四个月前\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "quality retro",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria says, \"You used to ask 'does it work?' Now you ask 'how do we know?'\" In the meeting drill, Leo says, \"Red first, green after.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Quality is a habit now.\" After that, we swap roles and run it again. I connect the test suite growth curve to the ticket so nothing gets lost. In today's standup, I mention the quality debt list and what comes next. I compare my notes about the open roles with Priya's. We agree to give the mentorship program one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Maria says, \"You used to ask 'does it work?' Now you ask 'how do we know?'\" In the meeting drill, Leo says, \"Red first, green after.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Quality is a habit now.\" After that, we swap roles and run it again. I connect the test suite growth curve to the ticket so nothing gets lost. In today's standup, I mention the quality debt list and what comes next. I compare my notes about the open roles with Priya's. We agree to give the mentorship program one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Maria says, \"You used to ask 'does it work?' Now you ask 'how do we know?'\" In the meeting drill, Maria says, \"Now they hold my hand.\" After that, we swap roles and run it again. The guide now has a short section on the top incident lessons. Priya suggests a cleaner way to think about the next month's focus. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Maria says, \"You used to ask 'does it work?' Now you ask 'how do we know?'\" In the meeting drill, Maria says, \"Now they hold my hand.\" After that, we swap roles and run it again. The guide now has a short section on the top incident lessons. Priya suggests a cleaner way to think about the next month's focus. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 说：“以前你问‘它能跑吗？’现在你问‘我们怎么知道？’”会议演练中，Leo说：\"先红后绿\"之后我们换角色再练一遍。会议演练中，Maria说：\"质量成了习惯。\"之后我们换角色再练一遍。我把测试套件增长曲线关联到工单上，免得遗漏。今天的站会上，我提到质量欠账清单和接下来的安排。我把关于在招岗位的笔记和 Priya 的对照了一下。我们说好这周再把导师计划仔细看一次。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "Maria 说：“以前你问‘它能跑吗？’现在你问‘我们怎么知道？’”会议演练中，Maria说：\"现在它们牵着我的手。\"之后我们换角色再练一遍。指南里现在有关于重点事故教训的简短章节。Priya 提出了一个更清晰的下月重点思考方式。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "test suite growth curve",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the learning budget. While the details are fresh, I write down the roadmap preview. The guide now has a short section on the annual quality survey. Priya suggests a cleaner way to think about the next quarter quality map. In the meeting drill, Priya says, \"My notebook smells like coffee.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"On to bigger towers.\" After that, we swap roles and run it again. I write that sentence on a sticky note above my desk.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the learning budget. While the details are fresh, I write down the roadmap preview. The guide now has a short section on the annual quality survey. Priya suggests a cleaner way to think about the next quarter quality map. In the meeting drill, Priya says, \"My notebook smells like coffee.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"On to bigger towers.\" After that, we swap roles and run it again. I write that sentence on a sticky note above my desk.",
+   "en": "Maria says, \"You used to ask 'does it work?' Now you ask 'how do we know?'\" I connect the open roles to the ticket so nothing gets lost. In today's standup, I mention the test suite growth curve and what comes next. In the meeting drill, Leo says, \"Red first, green after.\" After that, we swap roles and run it again. I write that sentence on a sticky note above my desk.",
+   "tts": "Maria says, \"You used to ask 'does it work?' Now you ask 'how do we know?'\" I connect the open roles to the ticket so nothing gets lost. In today's standup, I mention the test suite growth curve and what comes next. In the meeting drill, Leo says, \"Red first, green after.\" After that, we swap roles and run it again. I write that sentence on a sticky note above my desk.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在学习预算上。趁细节还新鲜，我把路线图预览写了下来。指南里现在有关于年度质量调查的简短章节。Priya 提出了一个更清晰的下季质量地图思考方式。会议演练中，Priya说：\"我的笔记本有咖啡味。\"之后我们换角色再练一遍。会议演练中，Leo说：\"去搭更高的塔。\"之后我们换角色再练一遍。我把这句话写在便签上，贴在桌前。",
+   "zh": "Maria 说：“以前你问‘它能跑吗？’现在你问‘我们怎么知道？’”我把在招岗位关联到工单上，免得遗漏。今天的站会上，我提到测试套件增长曲线和接下来的安排。会议演练中，Leo说：\"先红后绿\"之后我们换角色再练一遍。我把这句话写在便签上，贴在桌前。",
    "hard": [
     {
      "w": "annual quality survey",
@@ -146,6 +146,33 @@
      "def": "路线图预览，未来三个月的草图"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "I write that sentence on a sticky note above my desk. I compare my notes about the quality debt list with Priya's. In the meeting drill, Leo says, \"Quality is a habit now.\" After that, we swap roles and run it again. We agree to give the mentorship program one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "I write that sentence on a sticky note above my desk. I compare my notes about the quality debt list with Priya's. In the meeting drill, Leo says, \"Quality is a habit now.\" After that, we swap roles and run it again. We agree to give the mentorship program one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "我把这句话写在便签上，贴在桌前。我把关于质量欠账清单的笔记和 Priya 的对照了一下。会议演练中，Leo说：\"质量成了习惯。\"之后我们换角色再练一遍。我们说好这周再把导师计划仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Maria says, \"You used to ask 'does it work?' Now you ask 'how do we know?'\" In the meeting drill, Maria says, \"My notebook smells like coffee.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the learning budget. While the details are fresh, I write down the annual quality survey. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Maria says, \"You used to ask 'does it work?' Now you ask 'how do we know?'\" In the meeting drill, Maria says, \"My notebook smells like coffee.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the learning budget. While the details are fresh, I write down the annual quality survey. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "Maria 说：“以前你问‘它能跑吗？’现在你问‘我们怎么知道？’”会议演练中，Maria说：\"我的笔记本有咖啡味。\"之后我们换角色再练一遍。评审时，我们花了十分钟在学习预算上。趁细节还新鲜，我把年度质量调查写了下来。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the roadmap preview. Priya suggests a cleaner way to think about the next quarter quality map. In the meeting drill, Leo says, \"On to bigger towers.\" After that, we swap roles and run it again. I write that sentence on a sticky note above my desk.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the roadmap preview. Priya suggests a cleaner way to think about the next quarter quality map. In the meeting drill, Leo says, \"On to bigger towers.\" After that, we swap roles and run it again. I write that sentence on a sticky note above my desk.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于路线图预览的简短章节。Priya 提出了一个更清晰的下季质量地图思考方式。会议演练中，Leo说：\"去搭更高的塔。\"之后我们换角色再练一遍。我把这句话写在便签上，贴在桌前。",
+   "hard": []
   }
  ],
  "chunks": [

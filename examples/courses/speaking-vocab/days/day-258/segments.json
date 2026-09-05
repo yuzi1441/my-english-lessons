@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 363,
-   "segment_count": 3,
+   "word_count": 425,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We harden the mobile app screen by screen. I compare two views on the key derivation function and write both down honestly. The team names one clear owner for the salt for passwords. During the design review, I raise one careful question about the crypto usage inventory. I prepare a one-page brief about the weak algorithm detection so meetings start from facts. In the review drill, Leo says, \"Our family has code phrases.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"The recipe secret stays verbal.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
-   "tts": "We harden the mobile app screen by screen. I compare two views on the key derivation function and write both down honestly. The team names one clear owner for the salt for passwords. During the design review, I raise one careful question about the crypto usage inventory. I prepare a one-page brief about the weak algorithm detection so meetings start from facts. In the review drill, Leo says, \"Our family has code phrases.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"The recipe secret stays verbal.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "en": "We harden the mobile app screen by screen. I compare two views on the key derivation function and write both down honestly. The team names one clear owner for the crypto usage inventory. In the review drill, Priya says, \"Our family has code phrases.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "We harden the mobile app screen by screen. I compare two views on the key derivation function and write both down honestly. The team names one clear owner for the crypto usage inventory. In the review drill, Priya says, \"Our family has code phrases.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们逐屏加固移动应用。我比较了关于密钥派生函数的两种观点，诚实地都记了下来。团队为口令加盐指定了明确的负责人。设计评审中，我就加密使用清单提出了一个审慎的问题。我准备了一页关于弱算法检测的简报，好让会议从事实出发。评审演练中，Leo说：\"家里有专属暗语。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"传家秘方只口传。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们逐屏加固移动应用。我比较了关于密钥派生函数的两种观点，诚实地都记了下来。团队为加密使用清单指定了明确的负责人。评审演练中，Priya说：\"家里有专属暗语。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "key derivation function",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Secure storage, screenshot guards, and deep links that demand tickets. In the review drill, Leo says, \"Diaries got locks as kids.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Passwords with meanings, not dates.\" We swap roles so I ask the questions this time. Our mentor walks me through how the key hierarchy evolved on this team. We spend the first ten minutes of the review on the digital signature use. Before deciding, I reread my notes about the key ownership registry twice. I add the rotation due report to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Secure storage, screenshot guards, and deep links that demand tickets. In the review drill, Leo says, \"Diaries got locks as kids.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Passwords with meanings, not dates.\" We swap roles so I ask the questions this time. Our mentor walks me through how the key hierarchy evolved on this team. We spend the first ten minutes of the review on the digital signature use. Before deciding, I reread my notes about the key ownership registry twice. I add the rotation due report to the meeting agenda with three supporting facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Secure storage, screenshot guards, and deep links that demand tickets. In the review drill, Maria says, \"The recipe secret stays verbal.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the salt for passwords. I prepare a one-page brief about the weak algorithm detection so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Secure storage, screenshot guards, and deep links that demand tickets. In the review drill, Maria says, \"The recipe secret stays verbal.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the salt for passwords. I prepare a one-page brief about the weak algorithm detection so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "安全存储、截屏防护，还有必须验票的深链。评审演练中，Leo说：\"小时候日记本都带锁。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"密码有含义不写生日。\"我们互换角色，这次由我来提问。导师带我梳理了密钥层级体系在这个团队里的演变。评审的前十分钟，我们都用在了数字签名用途上。做决定之前，我把关于密钥归属登记的笔记重读了两遍。我把轮换到期报告连同三条支撑事实加进了议程。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "安全存储、截屏防护，还有必须验票的深链。评审演练中，Maria说：\"传家秘方只口传。\"我们互换角色，这次由我来提问。设计评审中，我就口令加盐提出了一个审慎的问题。我准备了一页关于弱算法检测的简报，好让会议从事实出发。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "key hierarchy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the transit encryption check and write both down honestly. The team names one clear owner for the test data encryption review. During the design review, I raise one careful question about the certificate rotation automation. I prepare a one-page brief about the crypto agility principle so meetings start from facts. In the review drill, Priya says, \"The safe box for originals.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Secrets age well when rotated.\" We swap roles so I ask the questions this time. The app stops whispering to strangers.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the transit encryption check and write both down honestly. The team names one clear owner for the test data encryption review. During the design review, I raise one careful question about the certificate rotation automation. I prepare a one-page brief about the crypto agility principle so meetings start from facts. In the review drill, Priya says, \"The safe box for originals.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Secrets age well when rotated.\" We swap roles so I ask the questions this time. The app stops whispering to strangers.",
+   "en": "Secure storage, screenshot guards, and deep links that demand tickets. Our mentor walks me through how the key ownership registry evolved on this team. We spend the first ten minutes of the review on the key hierarchy. In the review drill, Leo says, \"Diaries got locks as kids.\" We swap roles so I ask the questions this time. The app stops whispering to strangers.",
+   "tts": "Secure storage, screenshot guards, and deep links that demand tickets. Our mentor walks me through how the key ownership registry evolved on this team. We spend the first ten minutes of the review on the key hierarchy. In the review drill, Leo says, \"Diaries got locks as kids.\" We swap roles so I ask the questions this time. The app stops whispering to strangers.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于传输加密核查的两种观点，诚实地都记了下来。团队为测试数据加密评审指定了明确的负责人。设计评审中，我就证书轮换自动化提出了一个审慎的问题。我准备了一页关于加密敏捷原则的简报，好让会议从事实出发。评审演练中，Priya说：\"原件住在保险盒。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"常换的密码保新鲜。\"我们互换角色，这次由我来提问。应用不再跟陌生人说悄悄话。",
+   "zh": "安全存储、截屏防护，还有必须验票的深链。导师带我梳理了密钥归属登记在这个团队里的演变。评审的前十分钟，我们都用在了密钥层级体系上。评审演练中，Leo说：\"小时候日记本都带锁。\"我们互换角色，这次由我来提问。应用不再跟陌生人说悄悄话。",
    "hard": [
     {
      "w": "certificate rotation automation",
@@ -146,6 +146,33 @@
      "def": "测试数据加密评审，测试也要讲究"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The app stops whispering to strangers. Before deciding, I reread my notes about the digital signature use twice. In the review drill, Leo says, \"Passwords with meanings, not dates.\" We swap roles so I ask the questions this time. I add the rotation due report to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "The app stops whispering to strangers. Before deciding, I reread my notes about the digital signature use twice. In the review drill, Leo says, \"Passwords with meanings, not dates.\" We swap roles so I ask the questions this time. I add the rotation due report to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "应用不再跟陌生人说悄悄话。做决定之前，我把关于数字签名用途的笔记重读了两遍。评审演练中，Leo说：\"密码有含义不写生日。\"我们互换角色，这次由我来提问。我把轮换到期报告连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Secure storage, screenshot guards, and deep links that demand tickets. In the review drill, Maria says, \"The safe box for originals.\" We swap roles so I ask the questions this time. I compare two views on the transit encryption check and write both down honestly. The team names one clear owner for the certificate rotation automation. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Secure storage, screenshot guards, and deep links that demand tickets. In the review drill, Maria says, \"The safe box for originals.\" We swap roles so I ask the questions this time. I compare two views on the transit encryption check and write both down honestly. The team names one clear owner for the certificate rotation automation. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "安全存储、截屏防护，还有必须验票的深链。评审演练中，Maria说：\"原件住在保险盒。\"我们互换角色，这次由我来提问。我比较了关于传输加密核查的两种观点，诚实地都记了下来。团队为证书轮换自动化指定了明确的负责人。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the test data encryption review. I prepare a one-page brief about the crypto agility principle so meetings start from facts. In the review drill, Leo says, \"Secrets age well when rotated.\" We swap roles so I ask the questions this time. The app stops whispering to strangers.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the test data encryption review. I prepare a one-page brief about the crypto agility principle so meetings start from facts. In the review drill, Leo says, \"Secrets age well when rotated.\" We swap roles so I ask the questions this time. The app stops whispering to strangers.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就测试数据加密评审提出了一个审慎的问题。我准备了一页关于加密敏捷原则的简报，好让会议从事实出发。评审演练中，Leo说：\"常换的密码保新鲜。\"我们互换角色，这次由我来提问。应用不再跟陌生人说悄悄话。",
+   "hard": []
   }
  ],
  "chunks": [

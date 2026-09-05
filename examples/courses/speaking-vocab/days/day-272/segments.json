@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 365,
-   "segment_count": 3,
+   "word_count": 424,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I interview five potential users before writing any code. I prepare a one-page brief about the minimum viable product so meetings start from facts. The team names one clear owner for the core loop definition. I compare two views on the solo developer workflow and write both down honestly. During the design review, I raise one careful question about the template driven setup. In the review drill, Maria says, \"We lived from one bag for a week.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The list of really-needed things.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "I interview five potential users before writing any code. I prepare a one-page brief about the minimum viable product so meetings start from facts. The team names one clear owner for the core loop definition. I compare two views on the solo developer workflow and write both down honestly. During the design review, I raise one careful question about the template driven setup. In the review drill, Maria says, \"We lived from one bag for a week.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The list of really-needed things.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "I interview five potential users before writing any code. I prepare a one-page brief about the minimum viable product so meetings start from facts. The team names one clear owner for the solo developer workflow. In the review drill, Leo says, \"We lived from one bag for a week.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "I interview five potential users before writing any code. I prepare a one-page brief about the minimum viable product so meetings start from facts. The team names one clear owner for the solo developer workflow. In the review drill, Leo says, \"We lived from one bag for a week.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "写代码之前，我访谈了五位潜在用户。我准备了一页关于最小可行产品的简报，好让会议从事实出发。团队为核心循环定义指定了明确的负责人。我比较了关于单人开发工作流的两种观点，诚实地都记了下来。设计评审中，我就模板驱动搭建提出了一个审慎的问题。评审演练中，Maria说：\"我们用一只包过了一周。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"真正需要的东西清单。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "写代码之前，我访谈了五位潜在用户。我准备了一页关于最小可行产品的简报，好让会议从事实出发。团队为单人开发工作流指定了明确的负责人。评审演练中，Leo说：\"我们用一只包过了一周。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "minimum viable product",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Four describe the same annoyance using the same word. In the review drill, Maria says, \"Seven items covered ninety percent.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The rest was sentimental weight.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the feature freeze for mvp. Before deciding, I reread my notes about the ugly but working draft twice. Our mentor walks me through how the zero meeting cadence evolved on this team. I add the defer everything list to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
-   "tts": "Four describe the same annoyance using the same word. In the review drill, Maria says, \"Seven items covered ninety percent.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The rest was sentimental weight.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the feature freeze for mvp. Before deciding, I reread my notes about the ugly but working draft twice. Our mentor walks me through how the zero meeting cadence evolved on this team. I add the defer everything list to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "en": "Four describe the same annoyance using the same word. In the review drill, Priya says, \"The list of really-needed things.\" We swap roles so I ask the questions this time. I compare two views on the core loop definition and write both down honestly. During the design review, I raise one careful question about the template driven setup. We end the week with something shipped and something properly learned this time.",
+   "tts": "Four describe the same annoyance using the same word. In the review drill, Priya says, \"The list of really-needed things.\" We swap roles so I ask the questions this time. I compare two views on the core loop definition and write both down honestly. During the design review, I raise one careful question about the template driven setup. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "四个人用同一个词形容同一种烦恼。评审演练中，Maria说：\"七件东西覆盖九成。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"剩下的是感情重量。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了MVP 功能冻结上。做决定之前，我把关于丑但能跑的草稿的笔记重读了两遍。导师带我梳理了零会议节奏在这个团队里的演变。我把全部推迟清单连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "四个人用同一个词形容同一种烦恼。评审演练中，Priya说：\"真正需要的东西清单。\"我们互换角色，这次由我来提问。我比较了关于核心循环定义的两种观点，诚实地都记了下来。设计评审中，我就模板驱动搭建提出了一个审慎的问题。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "feature freeze for mvp",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the one person oncall rota so meetings start from facts. The team names one clear owner for the automation first policy. I compare two views on the timebox for v1 and write both down honestly. During the design review, I raise one careful question about the must have list. In the review drill, Leo says, \"Simpler felt strangely rich.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Needs are smaller than carts.\" We swap roles so I ask the questions this time. When strangers repeat your pitch, it is real.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the one person oncall rota so meetings start from facts. The team names one clear owner for the automation first policy. I compare two views on the timebox for v1 and write both down honestly. During the design review, I raise one careful question about the must have list. In the review drill, Leo says, \"Simpler felt strangely rich.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Needs are smaller than carts.\" We swap roles so I ask the questions this time. When strangers repeat your pitch, it is real.",
+   "en": "Four describe the same annoyance using the same word. We spend the first ten minutes of the review on the zero meeting cadence. Before deciding, I reread my notes about the feature freeze for mvp twice. In the review drill, Maria says, \"Seven items covered ninety percent.\" We swap roles so I ask the questions this time. When strangers repeat your pitch, it is real.",
+   "tts": "Four describe the same annoyance using the same word. We spend the first ten minutes of the review on the zero meeting cadence. Before deciding, I reread my notes about the feature freeze for mvp twice. In the review drill, Maria says, \"Seven items covered ninety percent.\" We swap roles so I ask the questions this time. When strangers repeat your pitch, it is real.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于单人值班轮换表的简报，好让会议从事实出发。团队为自动化优先政策指定了明确的负责人。我比较了关于第一版的限时盒的两种观点，诚实地都记了下来。设计评审中，我就必须有的清单提出了一个审慎的问题。评审演练中，Leo说：\"简单反而莫名富足。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"需要比购物车小。\"我们互换角色，这次由我来提问。当陌生人复述你的卖点，它就是真的。",
+   "zh": "四个人用同一个词形容同一种烦恼。评审的前十分钟，我们都用在了零会议节奏上。做决定之前，我把关于MVP 功能冻结的笔记重读了两遍。评审演练中，Maria说：\"七件东西覆盖九成。\"我们互换角色，这次由我来提问。当陌生人复述你的卖点，它就是真的。",
    "hard": [
     {
      "w": "timebox for v1",
@@ -146,6 +146,33 @@
      "def": "自动化优先政策，重复的事交给机器人"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "When strangers repeat your pitch, it is real. Our mentor walks me through how the ugly but working draft evolved on this team. In the review drill, Maria says, \"The rest was sentimental weight.\" We swap roles so I ask the questions this time. I add the defer everything list to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "When strangers repeat your pitch, it is real. Our mentor walks me through how the ugly but working draft evolved on this team. In the review drill, Maria says, \"The rest was sentimental weight.\" We swap roles so I ask the questions this time. I add the defer everything list to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "当陌生人复述你的卖点，它就是真的。导师带我梳理了丑但能跑的草稿在这个团队里的演变。评审演练中，Maria说：\"剩下的是感情重量。\"我们互换角色，这次由我来提问。我把全部推迟清单连同三条支撑事实加进了议程。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Four describe the same annoyance using the same word. In the review drill, Priya says, \"Simpler felt strangely rich.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the one person oncall rota so meetings start from facts. The team names one clear owner for the timebox for v1. We end the week with something shipped and something properly learned this time.",
+   "tts": "Four describe the same annoyance using the same word. In the review drill, Priya says, \"Simpler felt strangely rich.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the one person oncall rota so meetings start from facts. The team names one clear owner for the timebox for v1. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "四个人用同一个词形容同一种烦恼。评审演练中，Priya说：\"简单反而莫名富足。\"我们互换角色，这次由我来提问。我准备了一页关于单人值班轮换表的简报，好让会议从事实出发。团队为第一版的限时盒指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the automation first policy and write both down honestly. During the design review, I raise one careful question about the must have list. In the review drill, Maria says, \"Needs are smaller than carts.\" We swap roles so I ask the questions this time. When strangers repeat your pitch, it is real.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the automation first policy and write both down honestly. During the design review, I raise one careful question about the must have list. In the review drill, Maria says, \"Needs are smaller than carts.\" We swap roles so I ask the questions this time. When strangers repeat your pitch, it is real.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于自动化优先政策的两种观点，诚实地都记了下来。设计评审中，我就必须有的清单提出了一个审慎的问题。评审演练中，Maria说：\"需要比购物车小。\"我们互换角色，这次由我来提问。当陌生人复述你的卖点，它就是真的。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 399,
-   "segment_count": 3,
+   "word_count": 466,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We design team boundaries before service boundaries. I put the architecture story for newcomers on the record so the reasoning stays visible. I propose a measurable target for the why we chose narrative this quarter. We review the architecture decision timeline page against the requirements, line by line. We align on the system tour video series early, so execution never has to guess. In the launch rehearsal, Maria says, \"The house tour includes its scars.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Why the kitchen moved twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "We design team boundaries before service boundaries. I put the architecture story for newcomers on the record so the reasoning stays visible. I propose a measurable target for the why we chose narrative this quarter. We review the architecture decision timeline page against the requirements, line by line. We align on the system tour video series early, so execution never has to guess. In the launch rehearsal, Maria says, \"The house tour includes its scars.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Why the kitchen moved twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "We design team boundaries before service boundaries. I put the architecture story for newcomers on the record so the reasoning stays visible. I propose a measurable target for the architecture decision timeline page this quarter. In the launch rehearsal, Leo says, \"The house tour includes its scars.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "We design team boundaries before service boundaries. I put the architecture story for newcomers on the record so the reasoning stays visible. I propose a measurable target for the architecture decision timeline page this quarter. In the launch rehearsal, Leo says, \"The house tour includes its scars.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们先设计团队边界再设计服务边界。我把讲给新人的架构故事记录在案，让推理过程保持可见。我为我们为何这样选的叙事提出了本季度一个可衡量的目标。我们逐行对照需求检查了架构决策时间线页。我们尽早就系统导览视频系列对齐，让执行无需猜测。上线彩排中，Maria说：\"老宅导览包括伤疤。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"厨房为什么搬过两次家。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "我们先设计团队边界再设计服务边界。我把讲给新人的架构故事记录在案，让推理过程保持可见。我为架构决策时间线页提出了本季度一个可衡量的目标。上线彩排中，Leo说：\"老宅导览包括伤疤。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "architecture story for newcomers",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Maria says, \"Every renovation has a backstory.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"New family members learn the why.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the constraint archaeology sessions, the risks behind it, and the cost of waiting. I present the system evolution timeline with a timeline, the data, and one clear ask. I close the discussion on the design doc template with story slot with a short summary. The final deck includes the newcomer architecture quiz and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Maria says, \"Every renovation has a backstory.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"New family members learn the why.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the constraint archaeology sessions, the risks behind it, and the cost of waiting. I present the system evolution timeline with a timeline, the data, and one clear ask. I close the discussion on the design doc template with story slot with a short summary. The final deck includes the newcomer architecture quiz and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Priya says, \"Why the kitchen moved twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the why we chose narrative against the requirements, line by line. We align on the system tour video series early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Priya says, \"Why the kitchen moved twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the why we chose narrative against the requirements, line by line. We align on the system tour video series early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个团队管了太多房间；我们画了一张更温柔的地图。上线彩排中，Maria说：\"每次翻新都有前情。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"新成员要学为什么。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖约束考古会谈、背后的风险，以及等待的代价。我用时间线、数据和一条明确的诉求来汇报系统演进时间线。我用一段简短的总结为设计文档模板留故事栏的讨论收尾。最终的材料里有新人架构问答，以及我们从中学到的东西。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "一个团队管了太多房间；我们画了一张更温柔的地图。上线彩排中，Priya说：\"厨房为什么搬过两次家。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了我们为何这样选的叙事。我们尽早就系统导览视频系列对齐，让执行无需猜测。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "constraint archaeology sessions",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the lessons catalog cross linked on the record so the reasoning stays visible. I propose a measurable target for the architecture faq maintenance this quarter. We review the simplification wins story against the requirements, line by line. We align on the future read architecture briefing early, so execution never has to guess. In the launch rehearsal, Leo says, \"The blueprints live with the stories.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Houses speak through their changes.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is an org chart made of code.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the lessons catalog cross linked on the record so the reasoning stays visible. I propose a measurable target for the architecture faq maintenance this quarter. We review the simplification wins story against the requirements, line by line. We align on the future read architecture briefing early, so execution never has to guess. In the launch rehearsal, Leo says, \"The blueprints live with the stories.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Houses speak through their changes.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is an org chart made of code.",
+   "en": "One team owned too many rooms; we drew a gentler map. My report covers the design doc template with story slot, the risks behind it, and the cost of waiting. I present the constraint archaeology sessions with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Every renovation has a backstory.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is an org chart made of code.",
+   "tts": "One team owned too many rooms; we drew a gentler map. My report covers the design doc template with story slot, the risks behind it, and the cost of waiting. I present the constraint archaeology sessions with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Every renovation has a backstory.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is an org chart made of code.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把教训目录交叉链接记录在案，让推理过程保持可见。我为架构 FAQ 维护提出了本季度一个可衡量的目标。我们逐行对照需求检查了化繁为简的故事。我们尽早就面向未来的架构简报对齐，让执行无需猜测。上线彩排中，Leo说：\"图纸和故事放在一起。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"房子靠变迁开口说话。\"最后我们互换角色，由我从头到尾主导整段对话。架构是用代码画成的组织架构图。",
+   "zh": "一个团队管了太多房间；我们画了一张更温柔的地图。我的报告涵盖设计文档模板留故事栏、背后的风险，以及等待的代价。我用时间线、数据和一条明确的诉求来汇报约束考古会谈。上线彩排中，Maria说：\"每次翻新都有前情。\"最后我们互换角色，由我从头到尾主导整段对话。架构是用代码画成的组织架构图。",
    "hard": [
     {
      "w": "simplification wins story",
@@ -146,6 +146,33 @@
      "def": "架构 FAQ 维护，高频问题自动收"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Architecture is an org chart made of code. I close the discussion on the system evolution timeline with a short summary. In the launch rehearsal, Maria says, \"New family members learn the why.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the newcomer architecture quiz and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Architecture is an org chart made of code. I close the discussion on the system evolution timeline with a short summary. In the launch rehearsal, Maria says, \"New family members learn the why.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the newcomer architecture quiz and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "架构是用代码画成的组织架构图。我用一段简短的总结为系统演进时间线的讨论收尾。上线彩排中，Maria说：\"新成员要学为什么。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有新人架构问答，以及我们从中学到的东西。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Priya says, \"The blueprints live with the stories.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the lessons catalog cross linked on the record so the reasoning stays visible. I propose a measurable target for the simplification wins story this quarter. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Priya says, \"The blueprints live with the stories.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the lessons catalog cross linked on the record so the reasoning stays visible. I propose a measurable target for the simplification wins story this quarter. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "一个团队管了太多房间；我们画了一张更温柔的地图。上线彩排中，Priya说：\"图纸和故事放在一起。\"最后我们互换角色，由我从头到尾主导整段对话。我把教训目录交叉链接记录在案，让推理过程保持可见。我为化繁为简的故事提出了本季度一个可衡量的目标。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the architecture faq maintenance against the requirements, line by line. We align on the future read architecture briefing early, so execution never has to guess. In the launch rehearsal, Maria says, \"Houses speak through their changes.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is an org chart made of code.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the architecture faq maintenance against the requirements, line by line. We align on the future read architecture briefing early, so execution never has to guess. In the launch rehearsal, Maria says, \"Houses speak through their changes.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is an org chart made of code.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了架构 FAQ 维护。我们尽早就面向未来的架构简报对齐，让执行无需猜测。上线彩排中，Maria说：\"房子靠变迁开口说话。\"最后我们互换角色，由我从头到尾主导整段对话。架构是用代码画成的组织架构图。",
+   "hard": []
   }
  ],
  "chunks": [

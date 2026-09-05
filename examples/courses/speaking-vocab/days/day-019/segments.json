@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 282,
+   "word_count": 211,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The version is ready. Today we publish a release. We keep a short checklist for the cloud service. When I get stuck, I ask Maria about the virtual server. Priya and I spend a few minutes on the release. The team talks about the release note at the standup. At that moment, Priya says, \"I see your point.\" I reply, and she notes it down. At that moment, Priya says, \"I have a different view.\" I reply, and she notes it down. With the team's help, the problem becomes smaller.",
-   "tts": "The version is ready. Today we publish a release. We keep a short checklist for the cloud service. When I get stuck, I ask Maria about the virtual server. Priya and I spend a few minutes on the release. The team talks about the release note at the standup. At that moment, Priya says, \"I see your point.\" I reply, and she notes it down. At that moment, Priya says, \"I have a different view.\" I reply, and she notes it down. With the team's help, the problem becomes smaller.",
+   "en": "Day nineteen enters the cloud. \"A cloud service provides computing over the internet,\" Maria says. \"A virtual server runs in the cloud. A container packages your app. A container image is the template. The host machine runs containers. You start a container with one command.\" In a team discussion, opinions diverge. \"I see your point,\" I say. \"I have a different view. Could we look at another option?\" \"I'm not sure I agree. Let's compare the evidence.\" \"That sounds reasonable.\"",
+   "tts": "Day nineteen enters the cloud. \"A cloud service provides computing over the internet,\" Maria says. \"A virtual server runs in the cloud. A container packages your app. A container image is the template. The host machine runs containers. You start a container with one command.\" In a team discussion, opinions diverge. \"I see your point,\" I say. \"I have a different view. Could we look at another option?\" \"I'm not sure I agree. Let's compare the evidence.\" \"That sounds reasonable.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "版本准备好了。今天我们发布一个正式版本。我们为云服务准备了一张简短的检查单。卡住的时候，我就向 Maria 请教虚拟服务器。Priya 和我在发布上花了几分钟。团队在站会上讨论了发布说明。这时，Priya说：\"我明白你的观点。\"我回答，她把它记了下来。这时，Priya说：\"我有不同的看法。\"我回答，她把它记了下来。在团队的帮助下，问题变小了。",
+   "zh": "第十九天进入云。\"云服务通过互联网提供计算能力，\"Maria 说。\"虚拟服务器在云中运行。容器打包你的应用。容器镜像是模板。宿主机运行容器。一条命令启动容器。\"团队讨论中，观点分歧。\"我明白你的意思，\"我说。\"我有不同的看法。能看看另一个选项吗？\"\"我不确定我同意。让我们比较一下证据。\"\"听起来合理。\"",
    "hard": [
     {
      "w": "cloud service",
@@ -46,36 +46,6 @@
      "def": "虚拟服务器，在物理机器中模拟出的独立服务器"
     },
     {
-     "w": "I see your point.",
-     "type": "term",
-     "def": "我明白你的观点。"
-    },
-    {
-     "w": "I have a different view.",
-     "type": "term",
-     "def": "我有不同的看法。"
-    },
-    {
-     "w": "release",
-     "type": "term",
-     "def": "发布，把一个可用版本正式提供给用户"
-    },
-    {
-     "w": "release note",
-     "type": "term",
-     "def": "发布说明，介绍新版本的变化"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "I have a different view, and I say it politely. At that moment, Leo asks, \"Could we look at another option?\" I answer, and we go over it once more. At that moment, Leo says, \"I'm not sure I agree.\" I answer, and we go over it once more. Leo walks me through the container step by step. Before the meeting, I review the container image one more time. I reread the section about the version tag after lunch. I add the semantic versioning to my notes with one example. The work is not easy, but I keep going.",
-   "tts": "I have a different view, and I say it politely. At that moment, Leo asks, \"Could we look at another option?\" I answer, and we go over it once more. At that moment, Leo says, \"I'm not sure I agree.\" I answer, and we go over it once more. Leo walks me through the container step by step. Before the meeting, I review the container image one more time. I reread the section about the version tag after lunch. I add the semantic versioning to my notes with one example. The work is not easy, but I keep going.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我有不同的看法，我礼貌地说了出来。这时，Leo问：\"我们可以看看另一个方案吗？\"我回答后，我们又过了一遍。这时，Leo说：\"我不确定我是否同意。\"我回答后，我们又过了一遍。Leo 一步一步带我过了容器。开会前，我又复习了一遍容器镜像。午饭后我重读了关于版本标签的章节。我把语义化版本和一个例子一起记进了笔记。工作不容易，但我继续前进。",
-   "hard": [
-    {
      "w": "container",
      "type": "term",
      "def": "容器，把应用和依赖封装在一起的运行环境"
@@ -84,6 +54,26 @@
      "w": "container image",
      "type": "term",
      "def": "容器镜像，用来创建容器的只读模板"
+    },
+    {
+     "w": "host machine",
+     "type": "term",
+     "def": "宿主机，实际运行虚拟机或容器的机器"
+    },
+    {
+     "w": "start a container",
+     "type": "term",
+     "def": "启动容器，根据镜像创建并运行容器"
+    },
+    {
+     "w": "I see your point.",
+     "type": "term",
+     "def": "我明白你的观点。"
+    },
+    {
+     "w": "I have a different view.",
+     "type": "term",
+     "def": "我有不同的看法。"
     },
     {
      "w": "Could we look at another option?",
@@ -96,36 +86,6 @@
      "def": "我不确定我是否同意。"
     },
     {
-     "w": "version tag",
-     "type": "term",
-     "def": "版本标签，为某次提交添加版本标记"
-    },
-    {
-     "w": "semantic versioning",
-     "type": "term",
-     "def": "语义化版本，用主版本、次版本和修订号表达变化"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I review what I did today. After lunch, I check the pre-release again. When I publish a release, I follow the guide. After a short break, I compare my notes about the host machine with Priya's. It takes me ten minutes to start a container. At that moment, Leo says, \"Let's compare the evidence.\" I answer, and we go over it once more. At that moment, Leo says, \"That sounds reasonable.\" I answer, and we go over it once more. The release is out. Users can see the new feature.",
-   "tts": "Before I leave, I review what I did today. After lunch, I check the pre-release again. When I publish a release, I follow the guide. After a short break, I compare my notes about the host machine with Priya's. It takes me ten minutes to start a container. At that moment, Leo says, \"Let's compare the evidence.\" I answer, and we go over it once more. At that moment, Leo says, \"That sounds reasonable.\" I answer, and we go over it once more. The release is out. Users can see the new feature.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。午饭后，我又检查了一遍预发布版本。我发布版本时，按照指南操作。稍作休息后，我把关于宿主机的笔记和 Priya 的对照了一下。我花了十分钟启动容器。这时，Leo说：\"我们比较一下证据吧。\"我回答后，我们又过了一遍。这时，Leo说：\"听起来有道理。\"我回答后，我们又过了一遍。版本发布了。用户能看到新功能了。",
-   "hard": [
-    {
-     "w": "host machine",
-     "type": "term",
-     "def": "宿主机，实际运行虚拟机或容器的机器"
-    },
-    {
-     "w": "start a container",
-     "type": "term",
-     "def": "启动容器，根据镜像创建并运行容器"
-    },
-    {
      "w": "Let's compare the evidence.",
      "type": "term",
      "def": "我们比较一下证据吧。"
@@ -134,11 +94,61 @@
      "w": "That sounds reasonable.",
      "type": "term",
      "def": "听起来有道理。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Release day approaches. \"A release is a version you ship,\" Leo announces. \"A release note describes what changed. A version tag marks the point. Semantic versioning uses major.minor.patch. A pre-release is for testing. You publish a release when it's ready.\" I watch the team prepare. The release note is clear. The version tag is set: v1.0.0. The pre-release tested fine. Now they publish a release. Version 1.0.0 is live.",
+   "tts": "Release day approaches. \"A release is a version you ship,\" Leo announces. \"A release note describes what changed. A version tag marks the point. Semantic versioning uses major.minor.patch. A pre-release is for testing. You publish a release when it's ready.\" I watch the team prepare. The release note is clear. The version tag is set: v1.0.0. The pre-release tested fine. Now they publish a release. Version 1.0.0 is live.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "发布日临近。\"发布是你交付的版本，\"Leo 宣布。\"发布说明描述变化。版本标记节点。语义化版本用主.次.补丁。预发布供测试。准备好了就发布。\"我看团队准备。发布说明很清晰。版本标签设定：v1.0.0。预发布测试正常。现在他们发布版本。1.0.0 上线了。",
+   "hard": [
+    {
+     "w": "release",
+     "type": "term",
+     "def": "发布，把一个可用版本正式提供给用户"
+    },
+    {
+     "w": "release note",
+     "type": "term",
+     "def": "发布说明，介绍新版本的变化"
+    },
+    {
+     "w": "version tag",
+     "type": "term",
+     "def": "版本标签，为某次提交添加版本标记"
+    },
+    {
+     "w": "semantic versioning",
+     "type": "term",
+     "def": "语义化版本，用主版本、次版本和修订号表达变化"
     },
     {
      "w": "pre-release",
      "type": "term",
      "def": "预发布版本，在正式发布前供测试的版本"
+    },
+    {
+     "w": "publish a release",
+     "type": "term",
+     "def": "发布版本，在 GitHub 上创建正式发布页面"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "The release goes smoothly. I write: 'Day 19 — containers are lunchboxes for code. Cloud is someone else's computer. Releases are milestones you can point to.' The discussion about options resolved respectfully. Everyone's view was heard. That sounds reasonable became the consensus. In code and in conversation, hearing each other matters more than winning arguments. Three weeks down. The foundation is solid.",
+   "tts": "The release goes smoothly. I write: 'Day 19 — containers are lunchboxes for code. Cloud is someone else's computer. Releases are milestones you can point to.' The discussion about options resolved respectfully. Everyone's view was heard. That sounds reasonable became the consensus. In code and in conversation, hearing each other matters more than winning arguments. Three weeks down. The foundation is solid.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "发布很顺利。我写：'第十九天——容器是代码的午餐盒。云是别人的计算机。发布是你可以指向的里程碑。'关于选项的讨论在尊重中解决了。每个人的观点都被听到了。听起来合理成了共识。在代码和对话中，倾听彼此比赢得争论更重要。三周过去。基础很稳固。",
+   "hard": [
+    {
+     "w": "semantic versioning",
+     "type": "term",
+     "def": "语义化版本，用主版本、次版本和修订号表达变化"
     },
     {
      "w": "publish a release",

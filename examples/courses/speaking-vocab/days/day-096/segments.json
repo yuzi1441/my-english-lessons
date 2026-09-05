@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 326,
-   "segment_count": 3,
+   "word_count": 385,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I run the linter and the machine writes a shopping list of my sins. There is a short paragraph about the test fixture in the guide. I ask one good question about the factory function in the meeting. I keep one real example of the testing guide in my notebook. Sam asks me about the what to test, and I explain the basics. In the warm-up round, Leo says, \"Annual checkup, done.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The numbers are boringly fine.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "I run the linter and the machine writes a shopping list of my sins. There is a short paragraph about the test fixture in the guide. I ask one good question about the factory function in the meeting. I keep one real example of the testing guide in my notebook. Sam asks me about the what to test, and I explain the basics. In the warm-up round, Leo says, \"Annual checkup, done.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The numbers are boringly fine.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "I run the linter and the machine writes a shopping list of my sins. There is a short paragraph about the test fixture in the guide. I ask one good question about the testing guide in the meeting. In the warm-up round, Priya says, \"Annual checkup, done.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "I run the linter and the machine writes a shopping list of my sins. There is a short paragraph about the test fixture in the guide. I ask one good question about the testing guide in the meeting. In the warm-up round, Priya says, \"Annual checkup, done.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我跑了检查器，机器列出了我的罪状清单。指南里有一小段关于测试夹具的介绍。会上关于工厂函数，我问了一个好问题。我在笔记本里留了一个测试指南的真实例子。Sam 问起测什么，我讲了讲基础。热身环节里，Leo说：\"年度体检\"然后我们换角色，由我来问。热身环节里，Maria说：\"数字无聊得好。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我跑了检查器，机器列出了我的罪状清单。指南里有一小段关于测试夹具的介绍。会上关于测试指南，我问了一个好问题。热身环节里，Priya说：\"年度体检\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "test fixture",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Half are autofixed; the rest I fix by hand and learn from. In the warm-up round, Leo says, \"I fast the night before.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Drink more water, they say.\" Then we swap roles and I ask it back. I add the anonymized data to my study notes before I forget it. I spend ten quiet minutes on the seeded database after the standup. I go over the what not to test one more time before lunch. My notes about the coverage goal look clearer this week. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Half are autofixed; the rest I fix by hand and learn from. In the warm-up round, Leo says, \"I fast the night before.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Drink more water, they say.\" Then we swap roles and I ask it back. I add the anonymized data to my study notes before I forget it. I spend ten quiet minutes on the seeded database after the standup. I go over the what not to test one more time before lunch. My notes about the coverage goal look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "en": "Half are autofixed; the rest I fix by hand and learn from. In the warm-up round, Maria says, \"The numbers are boringly fine.\" Then we swap roles and I ask it back. I keep one real example of the factory function in my notebook. Sam asks me about the what to test, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Half are autofixed; the rest I fix by hand and learn from. In the warm-up round, Maria says, \"The numbers are boringly fine.\" Then we swap roles and I ask it back. I keep one real example of the factory function in my notebook. Sam asks me about the what to test, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一半被自动修复；剩下的我手动修，并从中学到了东西。热身环节里，Leo说：\"前一天晚上禁食。\"然后我们换角色，由我来问。热身环节里，Maria说：\"他们总说多喝水。\"然后我们换角色，由我来问。我趁还没忘，把匿名化数据记进了学习笔记。站会之后，我安安静静花了十分钟在种子数据库上。午饭前我又过了一遍不测什么。这周我关于覆盖率目标的笔记清楚多了。今天的小进步为明天更大的跨越做准备。",
+   "zh": "一半被自动修复；剩下的我手动修，并从中学到了东西。热身环节里，Maria说：\"数字无聊得好。\"然后我们换角色，由我来问。我在笔记本里留了一个工厂函数的真实例子。Sam 问起测什么，我讲了讲基础。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "anonymized data",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the coverage mindset in the guide. I ask one good question about the quality over quota in the meeting. I keep one real example of the snapshot test in my notebook. Sam asks me about the golden file, and I explain the basics. In the warm-up round, Priya says, \"Prevention beats cure.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Book it yearly.\" Then we swap roles and I ask it back. The machine is a strict but patient teacher.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the coverage mindset in the guide. I ask one good question about the quality over quota in the meeting. I keep one real example of the snapshot test in my notebook. Sam asks me about the golden file, and I explain the basics. In the warm-up round, Priya says, \"Prevention beats cure.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Book it yearly.\" Then we swap roles and I ask it back. The machine is a strict but patient teacher.",
+   "en": "Half are autofixed; the rest I fix by hand and learn from. I add the what not to test to my study notes before I forget it. I spend ten quiet minutes on the anonymized data after the standup. In the warm-up round, Leo says, \"I fast the night before.\" Then we swap roles and I ask it back. The machine is a strict but patient teacher.",
+   "tts": "Half are autofixed; the rest I fix by hand and learn from. I add the what not to test to my study notes before I forget it. I spend ten quiet minutes on the anonymized data after the standup. In the warm-up round, Leo says, \"I fast the night before.\" Then we swap roles and I ask it back. The machine is a strict but patient teacher.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于覆盖率心态的介绍。会上关于质量重于指标，我问了一个好问题。我在笔记本里留了一个快照测试的真实例子。Sam 问起黄金文件，我讲了讲基础。热身环节里，Priya说：\"预防胜于治疗。\"然后我们换角色，由我来问。热身环节里，Leo说：\"一年约一次。\"然后我们换角色，由我来问。机器是一位严格却耐心的老师。",
+   "zh": "一半被自动修复；剩下的我手动修，并从中学到了东西。我趁还没忘，把不测什么记进了学习笔记。站会之后，我安安静静花了十分钟在匿名化数据上。热身环节里，Leo说：\"前一天晚上禁食。\"然后我们换角色，由我来问。机器是一位严格却耐心的老师。",
    "hard": [
     {
      "w": "snapshot test",
@@ -146,6 +146,33 @@
      "def": "质量重于指标，别为数字写测试"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The machine is a strict but patient teacher. I go over the seeded database one more time before lunch. In the warm-up round, Leo says, \"Drink more water, they say.\" Then we swap roles and I ask it back. My notes about the coverage goal look clearer this week. I end the day with fewer unknowns than I started with.",
+   "tts": "The machine is a strict but patient teacher. I go over the seeded database one more time before lunch. In the warm-up round, Leo says, \"Drink more water, they say.\" Then we swap roles and I ask it back. My notes about the coverage goal look clearer this week. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "机器是一位严格却耐心的老师。午饭前我又过了一遍种子数据库。热身环节里，Leo说：\"他们总说多喝水。\"然后我们换角色，由我来问。这周我关于覆盖率目标的笔记清楚多了。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Half are autofixed; the rest I fix by hand and learn from. In the warm-up round, Maria says, \"Prevention beats cure.\" Then we swap roles and I ask it back. There is a short paragraph about the coverage mindset in the guide. I ask one good question about the snapshot test in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Half are autofixed; the rest I fix by hand and learn from. In the warm-up round, Maria says, \"Prevention beats cure.\" Then we swap roles and I ask it back. There is a short paragraph about the coverage mindset in the guide. I ask one good question about the snapshot test in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "一半被自动修复；剩下的我手动修，并从中学到了东西。热身环节里，Maria说：\"预防胜于治疗。\"然后我们换角色，由我来问。指南里有一小段关于覆盖率心态的介绍。会上关于快照测试，我问了一个好问题。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the quality over quota in my notebook. Sam asks me about the golden file, and I explain the basics. In the warm-up round, Leo says, \"Book it yearly.\" Then we swap roles and I ask it back. The machine is a strict but patient teacher.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the quality over quota in my notebook. Sam asks me about the golden file, and I explain the basics. In the warm-up round, Leo says, \"Book it yearly.\" Then we swap roles and I ask it back. The machine is a strict but patient teacher.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个质量重于指标的真实例子。Sam 问起黄金文件，我讲了讲基础。热身环节里，Leo说：\"一年约一次。\"然后我们换角色，由我来问。机器是一位严格却耐心的老师。",
+   "hard": []
   }
  ],
  "chunks": [

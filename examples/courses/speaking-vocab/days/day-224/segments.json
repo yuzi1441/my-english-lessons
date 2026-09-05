@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 362,
-   "segment_count": 3,
+   "word_count": 425,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Heavy exports move into a web worker. During the design review, I raise one careful question about the http2 multiplexing. I prepare a one-page brief about the header deduplication so meetings start from facts. We spend the first ten minutes of the review on the cache hit ratio report. Before deciding, I reread my notes about the cache purge runbook twice. In the review drill, Maria says, \"The corner store is our CDN.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Regular orders skip the menu.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Heavy exports move into a web worker. During the design review, I raise one careful question about the http2 multiplexing. I prepare a one-page brief about the header deduplication so meetings start from facts. We spend the first ten minutes of the review on the cache hit ratio report. Before deciding, I reread my notes about the cache purge runbook twice. In the review drill, Maria says, \"The corner store is our C D N.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Regular orders skip the menu.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Heavy exports move into a web worker. During the design review, I raise one careful question about the http2 multiplexing. I prepare a one-page brief about the cache hit ratio report so meetings start from facts. In the review drill, Leo says, \"The corner store is our CDN.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Heavy exports move into a web worker. During the design review, I raise one careful question about the http2 multiplexing. I prepare a one-page brief about the cache hit ratio report so meetings start from facts. In the review drill, Leo says, \"The corner store is our C D N.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "重量级导出搬进了 Web Worker。设计评审中，我就HTTP2 多路复用提出了一个审慎的问题。我准备了一页关于头部去重的简报，好让会议从事实出发。评审的前十分钟，我们都用在了缓存命中率报告上。做决定之前，我把关于缓存清理手册的笔记重读了两遍。评审演练中，Maria说：\"街角小店就是我们的 CDN。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"熟客点单跳过菜单。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "重量级导出搬进了 Web Worker。设计评审中，我就HTTP2 多路复用提出了一个审慎的问题。我准备了一页关于缓存命中率报告的简报，好让会议从事实出发。评审演练中，Leo说：\"街角小店就是我们的 CDN。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "http2 multiplexing",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The main thread keeps sixty frames per second while the background grinds. In the review drill, Maria says, \"The shelf is stale while restocking.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Delivery radius matters daily.\" We swap roles so I ask the questions this time. I add the cdn edge node to the meeting agenda with three supporting facts. The team names one clear owner for the cache control header. Our mentor walks me through how the asset fingerprint check evolved on this team. I compare two views on the edge config review and write both down honestly. We end the week with something shipped and something properly learned this time.",
-   "tts": "The main thread keeps sixty frames per second while the background grinds. In the review drill, Maria says, \"The shelf is stale while restocking.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Delivery radius matters daily.\" We swap roles so I ask the questions this time. I add the cdn edge node to the meeting agenda with three supporting facts. The team names one clear owner for the cache control header. Our mentor walks me through how the asset fingerprint check evolved on this team. I compare two views on the edge config review and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "en": "The main thread keeps sixty frames per second while the background grinds. In the review drill, Priya says, \"Regular orders skip the menu.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the header deduplication. Before deciding, I reread my notes about the cache purge runbook twice. We end the week with something shipped and something properly learned this time.",
+   "tts": "The main thread keeps sixty frames per second while the background grinds. In the review drill, Priya says, \"Regular orders skip the menu.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the header deduplication. Before deciding, I reread my notes about the cache purge runbook twice. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "主线程稳住六十帧，后台慢慢磨。评审演练中，Maria说：\"补货时旧货还在架上。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"配送半径每天都要想。\"我们互换角色，这次由我来提问。我把CDN 边缘节点连同三条支撑事实加进了议程。团队为缓存控制头指定了明确的负责人。导师带我梳理了资源指纹检查在这个团队里的演变。我比较了关于边缘配置评审的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "主线程稳住六十帧，后台慢慢磨。评审演练中，Priya说：\"熟客点单跳过菜单。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了头部去重上。做决定之前，我把关于缓存清理手册的笔记重读了两遍。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "cdn edge node",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the ttl matrix documentation. I prepare a one-page brief about the origin load regression test so meetings start from facts. We spend the first ten minutes of the review on the stale while revalidate. Before deciding, I reread my notes about the origin shield twice. In the review drill, Leo says, \"Bulk storage stays at the hub.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Fresh items come from origin.\" We swap roles so I ask the questions this time. The interface stops hiccupping during heavy lifting.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the ttl matrix documentation. I prepare a one-page brief about the origin load regression test so meetings start from facts. We spend the first ten minutes of the review on the stale while revalidate. Before deciding, I reread my notes about the origin shield twice. In the review drill, Leo says, \"Bulk storage stays at the hub.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Fresh items come from origin.\" We swap roles so I ask the questions this time. The interface stops hiccupping during heavy lifting.",
+   "en": "The main thread keeps sixty frames per second while the background grinds. I add the asset fingerprint check to the meeting agenda with three supporting facts. The team names one clear owner for the cdn edge node. In the review drill, Maria says, \"The shelf is stale while restocking.\" We swap roles so I ask the questions this time. The interface stops hiccupping during heavy lifting.",
+   "tts": "The main thread keeps sixty frames per second while the background grinds. I add the asset fingerprint check to the meeting agenda with three supporting facts. The team names one clear owner for the cdn edge node. In the review drill, Maria says, \"The shelf is stale while restocking.\" We swap roles so I ask the questions this time. The interface stops hiccupping during heavy lifting.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就TTL 矩阵文档提出了一个审慎的问题。我准备了一页关于回源压力回归测试的简报，好让会议从事实出发。评审的前十分钟，我们都用在了先旧后新策略上。做决定之前，我把关于源站护盾的笔记重读了两遍。评审演练中，Leo说：\"大批量囤在总仓。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"新鲜的从源头来。\"我们互换角色，这次由我来提问。界面在重活面前不再打嗝。",
+   "zh": "主线程稳住六十帧，后台慢慢磨。我把资源指纹检查连同三条支撑事实加进了议程。团队为CDN 边缘节点指定了明确的负责人。评审演练中，Maria说：\"补货时旧货还在架上。\"我们互换角色，这次由我来提问。界面在重活面前不再打嗝。",
    "hard": [
     {
      "w": "stale while revalidate",
@@ -146,6 +146,33 @@
      "def": "回源压力回归测试，失效别压垮源站"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The interface stops hiccupping during heavy lifting. Our mentor walks me through how the cache control header evolved on this team. In the review drill, Maria says, \"Delivery radius matters daily.\" We swap roles so I ask the questions this time. I compare two views on the edge config review and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The interface stops hiccupping during heavy lifting. Our mentor walks me through how the cache control header evolved on this team. In the review drill, Maria says, \"Delivery radius matters daily.\" We swap roles so I ask the questions this time. I compare two views on the edge config review and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "界面在重活面前不再打嗝。导师带我梳理了缓存控制头在这个团队里的演变。评审演练中，Maria说：\"配送半径每天都要想。\"我们互换角色，这次由我来提问。我比较了关于边缘配置评审的两种观点，诚实地都记了下来。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The main thread keeps sixty frames per second while the background grinds. In the review drill, Priya says, \"Bulk storage stays at the hub.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the ttl matrix documentation. I prepare a one-page brief about the stale while revalidate so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "The main thread keeps sixty frames per second while the background grinds. In the review drill, Priya says, \"Bulk storage stays at the hub.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the ttl matrix documentation. I prepare a one-page brief about the stale while revalidate so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "主线程稳住六十帧，后台慢慢磨。评审演练中，Priya说：\"大批量囤在总仓。\"我们互换角色，这次由我来提问。设计评审中，我就TTL 矩阵文档提出了一个审慎的问题。我准备了一页关于先旧后新策略的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the origin load regression test. Before deciding, I reread my notes about the origin shield twice. In the review drill, Maria says, \"Fresh items come from origin.\" We swap roles so I ask the questions this time. The interface stops hiccupping during heavy lifting.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the origin load regression test. Before deciding, I reread my notes about the origin shield twice. In the review drill, Maria says, \"Fresh items come from origin.\" We swap roles so I ask the questions this time. The interface stops hiccupping during heavy lifting.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了回源压力回归测试上。做决定之前，我把关于源站护盾的笔记重读了两遍。评审演练中，Maria说：\"新鲜的从源头来。\"我们互换角色，这次由我来提问。界面在重活面前不再打嗝。",
+   "hard": []
   }
  ],
  "chunks": [

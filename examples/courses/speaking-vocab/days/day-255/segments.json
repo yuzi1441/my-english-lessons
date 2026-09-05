@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 367,
-   "segment_count": 3,
+   "word_count": 433,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A fun feature wants one extra field. Before deciding, I reread my notes about the security champion network twice. We spend the first ten minutes of the review on the blameless security reporting. I add the zero critical findings month to the meeting agenda with three supporting facts. I compare two views on the drill completion certificate and write both down honestly. In the review drill, Leo says, \"No blame for honest mistakes.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Kids quiz adults on scams.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
-   "tts": "A fun feature wants one extra field. Before deciding, I reread my notes about the security champion network twice. We spend the first ten minutes of the review on the blameless security reporting. I add the zero critical findings month to the meeting agenda with three supporting facts. I compare two views on the drill completion certificate and write both down honestly. In the review drill, Leo says, \"No blame for honest mistakes.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Kids quiz adults on scams.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "en": "A fun feature wants one extra field. Before deciding, I reread my notes about the security champion network twice. We spend the first ten minutes of the review on the zero critical findings month. In the review drill, Priya says, \"No blame for honest mistakes.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "A fun feature wants one extra field. Before deciding, I reread my notes about the security champion network twice. We spend the first ten minutes of the review on the zero critical findings month. In the review drill, Priya says, \"No blame for honest mistakes.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个有趣的功能想要多要一个字段。做决定之前，我把关于安全大使网络的笔记重读了两遍。评审的前十分钟，我们都用在了无责安全上报上。我把零严重漏洞月连同三条支撑事实加进了议程。我比较了关于演练完成认证的两种观点，诚实地都记了下来。评审演练中，Leo说：\"诚实报告不挨骂。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"孩子考大人骗局题。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "一个有趣的功能想要多要一个字段。做决定之前，我把关于安全大使网络的笔记重读了两遍。评审的前十分钟，我们都用在了零严重漏洞月上。评审演练中，Priya说：\"诚实报告不挨骂。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "security champion network",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The privacy review asks why; the honest answer: it does not need to. In the review drill, Leo says, \"The family safety captain rotates.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Good catches get ice cream.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the security guild sessions so meetings start from facts. The team names one clear owner for the developer security training. Our mentor walks me through how the champion office hours evolved on this team. During the design review, I raise one careful question about the security wins retro. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "The privacy review asks why; the honest answer: it does not need to. In the review drill, Leo says, \"The family safety captain rotates.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Good catches get ice cream.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the security guild sessions so meetings start from facts. The team names one clear owner for the developer security training. Our mentor walks me through how the champion office hours evolved on this team. During the design review, I raise one careful question about the security wins retro. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "The privacy review asks why; the honest answer: it does not need to. In the review drill, Maria says, \"Kids quiz adults on scams.\" We swap roles so I ask the questions this time. I add the blameless security reporting to the meeting agenda with three supporting facts. I compare two views on the drill completion certificate and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "The privacy review asks why; the honest answer: it does not need to. In the review drill, Maria says, \"Kids quiz adults on scams.\" We swap roles so I ask the questions this time. I add the blameless security reporting to the meeting agenda with three supporting facts. I compare two views on the drill completion certificate and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "隐私评审问为什么；诚实答案是：并不需要。评审演练中，Leo说：\"家庭安全队长轮值。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"抓到骗局有冰淇淋。\"我们互换角色，这次由我来提问。我准备了一页关于安全公会例会的简报，好让会议从事实出发。团队为开发者安全培训指定了明确的负责人。导师带我梳理了大使答疑时间在这个团队里的演变。设计评审中，我就安全成果复盘提出了一个审慎的问题。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "隐私评审问为什么；诚实答案是：并不需要。评审演练中，Maria说：\"孩子考大人骗局题。\"我们互换角色，这次由我来提问。我把无责安全上报连同三条支撑事实加进了议程。我比较了关于演练完成认证的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "security guild sessions",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the cross team drill exchange twice. We spend the first ten minutes of the review on the year one security retro. I add the rule of two for risky changes to the meeting agenda with three supporting facts. I compare two views on the thanks for reporting wall and write both down honestly. In the review drill, Priya says, \"Checklists for everyone.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Watchfulness is inherited.\" We swap roles so I ask the questions this time. It ships smaller and kinder.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the cross team drill exchange twice. We spend the first ten minutes of the review on the year one security retro. I add the rule of two for risky changes to the meeting agenda with three supporting facts. I compare two views on the thanks for reporting wall and write both down honestly. In the review drill, Priya says, \"Checklists for everyone.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Watchfulness is inherited.\" We swap roles so I ask the questions this time. It ships smaller and kinder.",
+   "en": "The privacy review asks why; the honest answer: it does not need to. I prepare a one-page brief about the champion office hours so meetings start from facts. The team names one clear owner for the security guild sessions. In the review drill, Leo says, \"The family safety captain rotates.\" We swap roles so I ask the questions this time. It ships smaller and kinder.",
+   "tts": "The privacy review asks why; the honest answer: it does not need to. I prepare a one-page brief about the champion office hours so meetings start from facts. The team names one clear owner for the security guild sessions. In the review drill, Leo says, \"The family safety captain rotates.\" We swap roles so I ask the questions this time. It ships smaller and kinder.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于跨团队演练交流的笔记重读了两遍。评审的前十分钟，我们都用在了第一年安全复盘上。我把双人规则连同三条支撑事实加进了议程。我比较了关于致谢上报墙的两种观点，诚实地都记了下来。评审演练中，Priya说：\"人人都有那张卡。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"警惕是会遗传的。\"我们互换角色，这次由我来提问。功能以更小更善的形式上线。",
+   "zh": "隐私评审问为什么；诚实答案是：并不需要。我准备了一页关于大使答疑时间的简报，好让会议从事实出发。团队为安全公会例会指定了明确的负责人。评审演练中，Leo说：\"家庭安全队长轮值。\"我们互换角色，这次由我来提问。功能以更小更善的形式上线。",
    "hard": [
     {
      "w": "rule of two for risky changes",
@@ -146,6 +146,33 @@
      "def": "第一年安全复盘，从怕到会"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "It ships smaller and kinder. Our mentor walks me through how the developer security training evolved on this team. In the review drill, Leo says, \"Good catches get ice cream.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the security wins retro. We end the week with something shipped and something properly learned this time.",
+   "tts": "It ships smaller and kinder. Our mentor walks me through how the developer security training evolved on this team. In the review drill, Leo says, \"Good catches get ice cream.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the security wins retro. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "功能以更小更善的形式上线。导师带我梳理了开发者安全培训在这个团队里的演变。评审演练中，Leo说：\"抓到骗局有冰淇淋。\"我们互换角色，这次由我来提问。设计评审中，我就安全成果复盘提出了一个审慎的问题。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The privacy review asks why; the honest answer: it does not need to. In the review drill, Maria says, \"Checklists for everyone.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the cross team drill exchange twice. We spend the first ten minutes of the review on the rule of two for risky changes. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "The privacy review asks why; the honest answer: it does not need to. In the review drill, Maria says, \"Checklists for everyone.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the cross team drill exchange twice. We spend the first ten minutes of the review on the rule of two for risky changes. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "隐私评审问为什么；诚实答案是：并不需要。评审演练中，Maria说：\"人人都有那张卡。\"我们互换角色，这次由我来提问。做决定之前，我把关于跨团队演练交流的笔记重读了两遍。评审的前十分钟，我们都用在了双人规则上。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the year one security retro to the meeting agenda with three supporting facts. I compare two views on the thanks for reporting wall and write both down honestly. In the review drill, Leo says, \"Watchfulness is inherited.\" We swap roles so I ask the questions this time. It ships smaller and kinder.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the year one security retro to the meeting agenda with three supporting facts. I compare two views on the thanks for reporting wall and write both down honestly. In the review drill, Leo says, \"Watchfulness is inherited.\" We swap roles so I ask the questions this time. It ships smaller and kinder.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把第一年安全复盘连同三条支撑事实加进了议程。我比较了关于致谢上报墙的两种观点，诚实地都记了下来。评审演练中，Leo说：\"警惕是会遗传的。\"我们互换角色，这次由我来提问。功能以更小更善的形式上线。",
+   "hard": []
   }
  ],
  "chunks": [

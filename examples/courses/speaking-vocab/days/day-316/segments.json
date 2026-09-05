@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 401,
-   "segment_count": 3,
+   "word_count": 471,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The platform team starts treating developers as customers. I put the object storage basics on the record so the reasoning stays visible. I close the discussion on the block storage vs file storage with a short summary. We align on the storage decision record early, so execution never has to guess. I present the access pattern doc per store with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"Attic for once a year items.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The hall closet is hot storage.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "The platform team starts treating developers as customers. I put the object storage basics on the record so the reasoning stays visible. I close the discussion on the block storage vs file storage with a short summary. We align on the storage decision record early, so execution never has to guess. I present the access pattern doc per store with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"Attic for once a year items.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The hall closet is hot storage.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "The platform team starts treating developers as customers. I put the object storage basics on the record so the reasoning stays visible. I close the discussion on the storage decision record with a short summary. In the launch rehearsal, Maria says, \"Attic for once a year items.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The platform team starts treating developers as customers. I put the object storage basics on the record so the reasoning stays visible. I close the discussion on the storage decision record with a short summary. In the launch rehearsal, Maria says, \"Attic for once a year items.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "平台团队开始把开发者当客户。我把对象存储入门记录在案，让推理过程保持可见。我用一段简短的总结为块存储与文件存储的讨论收尾。我们尽早就存储决策记录对齐，让执行无需猜测。我用时间线、数据和一条明确的诉求来汇报每个库的访问模式文档。上线彩排中，Priya说：\"一年一用的放阁楼。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"门厅柜是热存储。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "平台团队开始把开发者当客户。我把对象存储入门记录在案，让推理过程保持可见。我用一段简短的总结为存储决策记录的讨论收尾。上线彩排中，Maria说：\"一年一用的放阁楼。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "object storage basics",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A golden path ships: new service to production in one afternoon. In the launch rehearsal, Priya says, \"Deep storage costs patience.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"We label every holiday box.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the storage class tiers, the risks behind it, and the cost of waiting. We review the durability numbers against the requirements, line by line. The final deck includes the storage cost per feature and what we learned from it. I propose a measurable target for the backup coverage per class this quarter. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "A golden path ships: new service to production in one afternoon. In the launch rehearsal, Priya says, \"Deep storage costs patience.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"We label every holiday box.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the storage class tiers, the risks behind it, and the cost of waiting. We review the durability numbers against the requirements, line by line. The final deck includes the storage cost per feature and what we learned from it. I propose a measurable target for the backup coverage per class this quarter. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "A golden path ships: new service to production in one afternoon. In the launch rehearsal, Leo says, \"The hall closet is hot storage.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the block storage vs file storage early, so execution never has to guess. I present the access pattern doc per store with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "A golden path ships: new service to production in one afternoon. In the launch rehearsal, Leo says, \"The hall closet is hot storage.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the block storage vs file storage early, so execution never has to guess. I present the access pattern doc per store with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "黄金路径上线：新服务一个下午就能上生产。上线彩排中，Priya说：\"深冷存储考验耐心。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"每个节日箱都贴标。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖存储分级策略、背后的风险，以及等待的代价。我们逐行对照需求检查了持久性数字。最终的材料里有功能级存储成本，以及我们从中学到的东西。我为每级存储的备份覆盖提出了本季度一个可衡量的目标。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "黄金路径上线：新服务一个下午就能上生产。上线彩排中，Leo说：\"门厅柜是热存储。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就块存储与文件存储对齐，让执行无需猜测。我用时间线、数据和一条明确的诉求来汇报每个库的访问模式文档。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "storage class tiers",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the encryption at every tier on the record so the reasoning stays visible. I close the discussion on the storage migration runbook with a short summary. We align on the retrieval cost awareness early, so execution never has to guess. I present the lifecycle transition rules with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Retrieval trips are logged informally.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Storage needs an annual audit.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the encryption at every tier on the record so the reasoning stays visible. I close the discussion on the storage migration runbook with a short summary. We align on the retrieval cost awareness early, so execution never has to guess. I present the lifecycle transition rules with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Retrieval trips are logged informally.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Storage needs an annual audit.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
+   "en": "A golden path ships: new service to production in one afternoon. My report covers the storage cost per feature, the risks behind it, and the cost of waiting. We review the storage class tiers against the requirements, line by line. In the launch rehearsal, Priya says, \"Deep storage costs patience.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
+   "tts": "A golden path ships: new service to production in one afternoon. My report covers the storage cost per feature, the risks behind it, and the cost of waiting. We review the storage class tiers against the requirements, line by line. In the launch rehearsal, Priya says, \"Deep storage costs patience.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把每一层都加密记录在案，让推理过程保持可见。我用一段简短的总结为存储迁移手册的讨论收尾。我们尽早就取回成本意识对齐，让执行无需猜测。我用时间线、数据和一条明确的诉求来汇报生命周期流转规则。上线彩排中，Maria说：\"取件记录随手记。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"储物需要年度审计。\"最后我们互换角色，由我从头到尾主导整段对话。铺好的路赢了，因为它真的好走。",
+   "zh": "黄金路径上线：新服务一个下午就能上生产。我的报告涵盖功能级存储成本、背后的风险，以及等待的代价。我们逐行对照需求检查了存储分级策略。上线彩排中，Priya说：\"深冷存储考验耐心。\"最后我们互换角色，由我从头到尾主导整段对话。铺好的路赢了，因为它真的好走。",
    "hard": [
     {
      "w": "retrieval cost awareness",
@@ -146,6 +146,33 @@
      "def": "存储迁移手册，搬家不丢箱"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The paved road won because it is genuinely nicer. The final deck includes the durability numbers and what we learned from it. In the launch rehearsal, Priya says, \"We label every holiday box.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the backup coverage per class this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The paved road won because it is genuinely nicer. The final deck includes the durability numbers and what we learned from it. In the launch rehearsal, Priya says, \"We label every holiday box.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the backup coverage per class this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "铺好的路赢了，因为它真的好走。最终的材料里有持久性数字，以及我们从中学到的东西。上线彩排中，Priya说：\"每个节日箱都贴标。\"最后我们互换角色，由我从头到尾主导整段对话。我为每级存储的备份覆盖提出了本季度一个可衡量的目标。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "A golden path ships: new service to production in one afternoon. In the launch rehearsal, Leo says, \"Retrieval trips are logged informally.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the encryption at every tier on the record so the reasoning stays visible. I close the discussion on the retrieval cost awareness with a short summary. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "A golden path ships: new service to production in one afternoon. In the launch rehearsal, Leo says, \"Retrieval trips are logged informally.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the encryption at every tier on the record so the reasoning stays visible. I close the discussion on the retrieval cost awareness with a short summary. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "黄金路径上线：新服务一个下午就能上生产。上线彩排中，Leo说：\"取件记录随手记。\"最后我们互换角色，由我从头到尾主导整段对话。我把每一层都加密记录在案，让推理过程保持可见。我用一段简短的总结为取回成本意识的讨论收尾。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the storage migration runbook early, so execution never has to guess. I present the lifecycle transition rules with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"Storage needs an annual audit.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the storage migration runbook early, so execution never has to guess. I present the lifecycle transition rules with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"Storage needs an annual audit.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们尽早就存储迁移手册对齐，让执行无需猜测。我用时间线、数据和一条明确的诉求来汇报生命周期流转规则。上线彩排中，Priya说：\"储物需要年度审计。\"最后我们互换角色，由我从头到尾主导整段对话。铺好的路赢了，因为它真的好走。",
+   "hard": []
   }
  ],
  "chunks": [

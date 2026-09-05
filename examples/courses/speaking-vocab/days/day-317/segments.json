@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 396,
-   "segment_count": 3,
+   "word_count": 461,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We design team boundaries around human memory limits. I put the cache aside pattern on the record so the reasoning stays visible. I close the discussion on the read through cache with a short summary. I present the cache hit rate slos with a timeline, the data, and one clear ask. We review the invalidation ownership map against the requirements, line by line. In the launch rehearsal, Maria says, \"Eye level shelves move fastest.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The stockroom is the database.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "We design team boundaries around human memory limits. I put the cache aside pattern on the record so the reasoning stays visible. I close the discussion on the read through cache with a short summary. I present the cache hit rate slos with a timeline, the data, and one clear ask. We review the invalidation ownership map against the requirements, line by line. In the launch rehearsal, Maria says, \"Eye level shelves move fastest.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The stockroom is the database.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "We design team boundaries around human memory limits. I put the cache aside pattern on the record so the reasoning stays visible. I close the discussion on the cache hit rate slos with a short summary. In the launch rehearsal, Leo says, \"Eye level shelves move fastest.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "We design team boundaries around human memory limits. I put the cache aside pattern on the record so the reasoning stays visible. I close the discussion on the cache hit rate slos with a short summary. In the launch rehearsal, Leo says, \"Eye level shelves move fastest.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们围绕人类记忆极限设计团队边界。我把旁路缓存模式记录在案，让推理过程保持可见。我用一段简短的总结为读穿透缓存的讨论收尾。我用时间线、数据和一条明确的诉求来汇报缓存命中率目标。我们逐行对照需求检查了失效责任地图。上线彩排中，Maria说：\"视线高度的货架最好卖。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"仓库就是数据库。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "我们围绕人类记忆极限设计团队边界。我把旁路缓存模式记录在案，让推理过程保持可见。我用一段简短的总结为缓存命中率目标的讨论收尾。上线彩排中，Leo说：\"视线高度的货架最好卖。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "cache aside pattern",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Maria says, \"Popular items live up front.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Restock happens before rush.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the multi layer cache strategy early, so execution never has to guess. I propose a measurable target for the cache coherence protocol this quarter. The final deck includes the cache size per tenant budget and what we learned from it. My report covers the cold start mitigation plan, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Maria says, \"Popular items live up front.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Restock happens before rush.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the multi layer cache strategy early, so execution never has to guess. I propose a measurable target for the cache coherence protocol this quarter. The final deck includes the cache size per tenant budget and what we learned from it. My report covers the cold start mitigation plan, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Priya says, \"The stockroom is the database.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the read through cache with a timeline, the data, and one clear ask. We review the invalidation ownership map against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Priya says, \"The stockroom is the database.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the read through cache with a timeline, the data, and one clear ask. We review the invalidation ownership map against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个团队管了太多房间；我们画了一张更温柔的地图。上线彩排中，Maria说：\"畅销品放在门口。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"补货赶在高峰前。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就多层缓存策略对齐，让执行无需猜测。我为缓存一致性协议提出了本季度一个可衡量的目标。最终的材料里有按租户的缓存配额，以及我们从中学到的东西。我的报告涵盖冷缓存缓解计划、背后的风险，以及等待的代价。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "一个团队管了太多房间；我们画了一张更温柔的地图。上线彩排中，Priya说：\"仓库就是数据库。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报读穿透缓存。我们逐行对照需求检查了失效责任地图。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "multi layer cache strategy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the cache behavior test suite on the record so the reasoning stays visible. I close the discussion on the cache strategy documentation page with a short summary. I present the hot key mitigation with a timeline, the data, and one clear ask. We review the cache warm up automation against the requirements, line by line. In the launch rehearsal, Leo says, \"Stale bread gets discounted fast.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Shelf space is allocation policy.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is organizational chart made of code.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the cache behavior test suite on the record so the reasoning stays visible. I close the discussion on the cache strategy documentation page with a short summary. I present the hot key mitigation with a timeline, the data, and one clear ask. We review the cache warm up automation against the requirements, line by line. In the launch rehearsal, Leo says, \"Stale bread gets discounted fast.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Shelf space is allocation policy.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is organizational chart made of code.",
+   "en": "One team owned too many rooms; we drew a gentler map. We align on the cache size per tenant budget early, so execution never has to guess. I propose a measurable target for the multi layer cache strategy this quarter. In the launch rehearsal, Maria says, \"Popular items live up front.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is organizational chart made of code.",
+   "tts": "One team owned too many rooms; we drew a gentler map. We align on the cache size per tenant budget early, so execution never has to guess. I propose a measurable target for the multi layer cache strategy this quarter. In the launch rehearsal, Maria says, \"Popular items live up front.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is organizational chart made of code.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把缓存行为测试套件记录在案，让推理过程保持可见。我用一段简短的总结为缓存策略说明页的讨论收尾。我用时间线、数据和一条明确的诉求来汇报热点键缓解。我们逐行对照需求检查了缓存预热自动化。上线彩排中，Leo说：\"隔夜面包快速打折。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"货架就是分配策略。\"最后我们互换角色，由我从头到尾主导整段对话。架构是用代码画成的组织架构图。",
+   "zh": "一个团队管了太多房间；我们画了一张更温柔的地图。我们尽早就按租户的缓存配额对齐，让执行无需猜测。我为多层缓存策略提出了本季度一个可衡量的目标。上线彩排中，Maria说：\"畅销品放在门口。\"最后我们互换角色，由我从头到尾主导整段对话。架构是用代码画成的组织架构图。",
    "hard": [
     {
      "w": "hot key mitigation",
@@ -146,6 +146,33 @@
      "def": "缓存策略说明页，一张图讲完"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Architecture is organizational chart made of code. The final deck includes the cache coherence protocol and what we learned from it. In the launch rehearsal, Maria says, \"Restock happens before rush.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the cold start mitigation plan, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Architecture is organizational chart made of code. The final deck includes the cache coherence protocol and what we learned from it. In the launch rehearsal, Maria says, \"Restock happens before rush.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the cold start mitigation plan, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "架构是用代码画成的组织架构图。最终的材料里有缓存一致性协议，以及我们从中学到的东西。上线彩排中，Maria说：\"补货赶在高峰前。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖冷缓存缓解计划、背后的风险，以及等待的代价。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Priya says, \"Stale bread gets discounted fast.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the cache behavior test suite on the record so the reasoning stays visible. I close the discussion on the hot key mitigation with a short summary. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "One team owned too many rooms; we drew a gentler map. In the launch rehearsal, Priya says, \"Stale bread gets discounted fast.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the cache behavior test suite on the record so the reasoning stays visible. I close the discussion on the hot key mitigation with a short summary. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "一个团队管了太多房间；我们画了一张更温柔的地图。上线彩排中，Priya说：\"隔夜面包快速打折。\"最后我们互换角色，由我从头到尾主导整段对话。我把缓存行为测试套件记录在案，让推理过程保持可见。我用一段简短的总结为热点键缓解的讨论收尾。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the cache strategy documentation page with a timeline, the data, and one clear ask. We review the cache warm up automation against the requirements, line by line. In the launch rehearsal, Maria says, \"Shelf space is allocation policy.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is organizational chart made of code.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the cache strategy documentation page with a timeline, the data, and one clear ask. We review the cache warm up automation against the requirements, line by line. In the launch rehearsal, Maria says, \"Shelf space is allocation policy.\" To finish, we swap roles and I lead the entire exchange from start to finish. Architecture is organizational chart made of code.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用时间线、数据和一条明确的诉求来汇报缓存策略说明页。我们逐行对照需求检查了缓存预热自动化。上线彩排中，Maria说：\"货架就是分配策略。\"最后我们互换角色，由我从头到尾主导整段对话。架构是用代码画成的组织架构图。",
+   "hard": []
   }
  ],
  "chunks": [

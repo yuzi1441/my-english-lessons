@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 316,
-   "segment_count": 3,
+   "word_count": 377,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We rehearse the demo like a small play. I add the paging alert to my study notes before I forget it. I keep one real example of the ticket alert in my notebook. My notes about the preflight check look clearer this week. I go over the smoke test one more time before lunch. In the warm-up round, Leo says, \"This soup is amazing.\" Then we swap roles and I ask it back. In the warm-up round, Maria asks, \"Did you make this yourself?\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "We rehearse the demo like a small play. I add the paging alert to my study notes before I forget it. I keep one real example of the ticket alert in my notebook. My notes about the preflight check look clearer this week. I go over the smoke test one more time before lunch. In the warm-up round, Leo says, \"This soup is amazing.\" Then we swap roles and I ask it back. In the warm-up round, Maria asks, \"Did you make this yourself?\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "We rehearse the demo like a small play. I add the paging alert to my study notes before I forget it. I keep one real example of the preflight check in my notebook. In the warm-up round, Priya says, \"This soup is amazing.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "We rehearse the demo like a small play. I add the paging alert to my study notes before I forget it. I keep one real example of the preflight check in my notebook. In the warm-up round, Priya says, \"This soup is amazing.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们像排一场小戏一样排练演示。我趁还没忘，把呼叫告警记进了学习笔记。我在笔记本里留了一个工单告警的真实例子。这周我关于起飞前检查的笔记清楚多了。午饭前我又过了一遍冒烟测试。热身环节里，Leo说：\"这汤太好喝了。\"然后我们换角色，由我来问。热身环节里，Maria问：\"这是你自己做的吗？\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我们像排一场小戏一样排练演示。我趁还没忘，把呼叫告警记进了学习笔记。我在笔记本里留了一个起飞前检查的真实例子。热身环节里，Priya说：\"这汤太好喝了。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "paging alert",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The projector fails, the Wi-Fi drops, and we rehearse through both. In the warm-up round, Leo says, \"The seasoning is perfect.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Share the recipe, please.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the alert dedup after the standup. There is a short paragraph about the escalation policy in the guide. I ask one good question about the canary in the meeting. Sam asks me about the canary analysis, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
-   "tts": "The projector fails, the Wi-Fi drops, and we rehearse through both. In the warm-up round, Leo says, \"The seasoning is perfect.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Share the recipe, please.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the alert dedup after the standup. There is a short paragraph about the escalation policy in the guide. I ask one good question about the canary in the meeting. Sam asks me about the canary analysis, and I explain the basics. Small progress today prepares the bigger step tomorrow.",
+   "en": "The projector fails, the Wi-Fi drops, and we rehearse through both. In the warm-up round, Maria asks, \"Did you make this yourself?\" Then we swap roles and I ask it back. My notes about the ticket alert look clearer this week. I go over the smoke test one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The projector fails, the Wi-Fi drops, and we rehearse through both. In the warm-up round, Maria asks, \"Did you make this yourself?\" Then we swap roles and I ask it back. My notes about the ticket alert look clearer this week. I go over the smoke test one more time before lunch. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "投影仪罢工，Wi-Fi 断线，我们照样把彩排演完。热身环节里，Leo说：\"调味恰到好处。\"然后我们换角色，由我来问。热身环节里，Maria说：\"把食谱分享给我吧。\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在告警去重上。指南里有一小段关于升级策略的介绍。会上关于金丝雀，我问了一个好问题。Sam 问起金丝雀分析，我讲了讲基础。今天的小进步为明天更大的跨越做准备。",
+   "zh": "投影仪罢工，Wi-Fi 断线，我们照样把彩排演完。热身环节里，Maria问：\"这是你自己做的吗？\"然后我们换角色，由我来问。这周我关于工单告警的笔记清楚多了。午饭前我又过了一遍冒烟测试。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "alert dedup",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the auto rollback to my study notes before I forget it. I gate on metrics while the office is still quiet. I keep one real example of the runbook link in my notebook. My notes about the false positive look clearer this week. In the warm-up round, Priya says, \"I could eat this every day.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"You have a gift.\" Then we swap roles and I ask it back. A demo never goes perfectly; a rehearsal makes that fine.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the auto rollback to my study notes before I forget it. I gate on metrics while the office is still quiet. I keep one real example of the runbook link in my notebook. My notes about the false positive look clearer this week. In the warm-up round, Priya says, \"I could eat this every day.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"You have a gift.\" Then we swap roles and I ask it back. A demo never goes perfectly; a rehearsal makes that fine.",
+   "en": "The projector fails, the Wi-Fi drops, and we rehearse through both. I spend ten quiet minutes on the canary after the standup. There is a short paragraph about the alert dedup in the guide. In the warm-up round, Leo says, \"The seasoning is perfect.\" Then we swap roles and I ask it back. A demo never goes perfectly; a rehearsal makes that fine.",
+   "tts": "The projector fails, the Wi-Fi drops, and we rehearse through both. I spend ten quiet minutes on the canary after the standup. There is a short paragraph about the alert dedup in the guide. In the warm-up round, Leo says, \"The seasoning is perfect.\" Then we swap roles and I ask it back. A demo never goes perfectly; a rehearsal makes that fine.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把自动回滚记进了学习笔记。趁办公室还安静，我指标门禁。我在笔记本里留了一个手册链接的真实例子。这周我关于误报的笔记清楚多了。热身环节里，Priya说：\"这个我天天吃都愿意。\"然后我们换角色，由我来问。热身环节里，Leo说：\"你真有天赋。\"然后我们换角色，由我来问。演示从不完美；彩排让这不完美变得无妨。",
+   "zh": "投影仪罢工，Wi-Fi 断线，我们照样把彩排演完。站会之后，我安安静静花了十分钟在金丝雀上。指南里有一小段关于告警去重的介绍。热身环节里，Leo说：\"调味恰到好处。\"然后我们换角色，由我来问。演示从不完美；彩排让这不完美变得无妨。",
    "hard": [
     {
      "w": "runbook link",
@@ -146,6 +146,33 @@
      "def": "指标门禁，指标不达标不放行"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "A demo never goes perfectly; a rehearsal makes that fine. I ask one good question about the escalation policy in the meeting. In the warm-up round, Leo says, \"Share the recipe, please.\" Then we swap roles and I ask it back. Sam asks me about the canary analysis, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "tts": "A demo never goes perfectly; a rehearsal makes that fine. I ask one good question about the escalation policy in the meeting. In the warm-up round, Leo says, \"Share the recipe, please.\" Then we swap roles and I ask it back. Sam asks me about the canary analysis, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "演示从不完美；彩排让这不完美变得无妨。会上关于升级策略，我问了一个好问题。热身环节里，Leo说：\"把食谱分享给我吧。\"然后我们换角色，由我来问。Sam 问起金丝雀分析，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The projector fails, the Wi-Fi drops, and we rehearse through both. In the warm-up round, Maria says, \"I could eat this every day.\" Then we swap roles and I ask it back. I add the auto rollback to my study notes before I forget it. I keep one real example of the runbook link in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The projector fails, the Wi-Fi drops, and we rehearse through both. In the warm-up round, Maria says, \"I could eat this every day.\" Then we swap roles and I ask it back. I add the auto rollback to my study notes before I forget it. I keep one real example of the runbook link in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "投影仪罢工，Wi-Fi 断线，我们照样把彩排演完。热身环节里，Maria说：\"这个我天天吃都愿意。\"然后我们换角色，由我来问。我趁还没忘，把自动回滚记进了学习笔记。我在笔记本里留了一个手册链接的真实例子。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I gate on metrics while the office is still quiet. My notes about the false positive look clearer this week. In the warm-up round, Leo says, \"You have a gift.\" Then we swap roles and I ask it back. A demo never goes perfectly; a rehearsal makes that fine.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I gate on metrics while the office is still quiet. My notes about the false positive look clearer this week. In the warm-up round, Leo says, \"You have a gift.\" Then we swap roles and I ask it back. A demo never goes perfectly; a rehearsal makes that fine.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。趁办公室还安静，我指标门禁。这周我关于误报的笔记清楚多了。热身环节里，Leo说：\"你真有天赋。\"然后我们换角色，由我来问。演示从不完美；彩排让这不完美变得无妨。",
+   "hard": []
   }
  ],
  "chunks": [

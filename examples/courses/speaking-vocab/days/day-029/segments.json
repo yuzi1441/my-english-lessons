@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 279,
+   "word_count": 203,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Tomorrow we ship a big version. Today we check the plan. After that, I walk a new teammate through the deployment. I go through the monitoring with Priya and note her advice. I reread my notes about the release branch after lunch. After a short break, We spend a few minutes on the deployment approval at the standup. The pattern helps me sound clear and calm: Today I'd like to present ... I build a full answer around the pattern: The goal of this project is ... The day ends with a clear plan for tomorrow.",
-   "tts": "Tomorrow we ship a big version. Today we check the plan. After that, I walk a new teammate through the deployment. I go through the monitoring with Priya and note her advice. I reread my notes about the release branch after lunch. After a short break, We spend a few minutes on the deployment approval at the standup. The pattern helps me sound clear and calm: Today I'd like to present  I build a full answer around the pattern: The goal of this project is  The day ends with a clear plan for tomorrow.",
+   "en": "Day twenty-nine goes live. \"Deployment is putting code into production,\" Maria says. \"Monitoring watches it. A health check confirms it works. A rollback undoes problems. The production environment is where users live. A service outage is when it breaks.\" Then presentation practice: \"Today I'd like to present our progress. The goal of this project is to improve onboarding. Here is the main result. This chart shows our improvement. One limitation is the sample size. My recommendation is to continue.\"",
+   "tts": "Day twenty-nine goes live. \"Deployment is putting code into production,\" Maria says. \"Monitoring watches it. A health check confirms it works. A rollback undoes problems. The production environment is where users live. A service outage is when it breaks.\" Then presentation practice: \"Today I'd like to present our progress. The goal of this project is to improve onboarding. Here is the main result. This chart shows our improvement. One limitation is the sample size. My recommendation is to continue.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "明天我们要上线一个大版本。今天我们检查计划。在那之后，我带一位新队友过了一遍部署。我和 Priya 过了一遍监控，记下了她的建议。午饭后我重读了关于发布分支的笔记。稍作休息后，站会上我们花了几分钟讨论部署批准。这个句型让我听起来清楚又从容：今天我想介绍……我围绕这个句型组织了一个完整的回答：这个项目的目标是……这一天以一份清晰的明日计划结束。",
+   "zh": "第二十九天上线。\"部署是把代码放到生产环境，\"Maria 说。\"监控盯着它。健康检查确认正常。回滚撤销问题。生产环境是用户所在。服务中断是坏掉的时候。\"然后演示练习：\"今天我想展示我们的进展。这个项目的目标是改善入职体验。这是主要结果。这张图展示了我们的提升。一个局限是样本量。我的建议是继续。",
    "hard": [
     {
      "w": "deployment",
@@ -46,36 +46,6 @@
      "def": "监控，持续观察系统状态和关键指标"
     },
     {
-     "w": "Today I'd like to present ...",
-     "type": "term",
-     "def": "今天我想介绍……"
-    },
-    {
-     "w": "The goal of this project is ...",
-     "type": "term",
-     "def": "这个项目的目标是……"
-    },
-    {
-     "w": "release branch",
-     "type": "term",
-     "def": "发布分支，为准备新版本建立的分支"
-    },
-    {
-     "w": "deployment approval",
-     "type": "term",
-     "def": "部署批准，发布生产环境前的人工确认"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "I practice my short presentation for the team. Before we move on, Leo says, \"Here is the main result.\" I answer clearly and note the phrasing. In my update, I use the pattern naturally: This chart shows ... After a short break, I suggest that we check the health check first. I keep one real example of the rollback in my notes. I add the production deploy to my checklist for tomorrow. After that, I double-check the rollback plan before the review. I check my notes and confirm the next step.",
-   "tts": "I practice my short presentation for the team. Before we move on, Leo says, \"Here is the main result.\" I answer clearly and note the phrasing. In my update, I use the pattern naturally: This chart shows  After a short break, I suggest that we check the health check first. I keep one real example of the rollback in my notes. I add the production deploy to my checklist for tomorrow. After that, I double-check the rollback plan before the review. I check my notes and confirm the next step.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我为团队演练了我的简短介绍。继续之前，Leo说：\"这是主要结果。\"我清楚地回答，并记下了这个说法。在汇报里，我自然地用上了这个句型：这张图显示……稍作休息后，我建议我们先检查健康检查。我在笔记里留了一个回滚的真实例子。我把生产部署加进了明天的清单。在那之后，评审之前，我再核对一遍回滚计划。我检查笔记，确认了下一步。",
-   "hard": [
-    {
      "w": "health check",
      "type": "term",
      "def": "健康检查，自动判断服务是否正常运行"
@@ -84,6 +54,26 @@
      "w": "rollback",
      "type": "term",
      "def": "回滚，把系统恢复到之前稳定版本"
+    },
+    {
+     "w": "production environment",
+     "type": "term",
+     "def": "生产环境，真实用户使用的正式运行环境"
+    },
+    {
+     "w": "service outage",
+     "type": "term",
+     "def": "服务中断，用户暂时无法使用服务的情况"
+    },
+    {
+     "w": "Today I'd like to present ...",
+     "type": "term",
+     "def": "今天我想介绍……"
+    },
+    {
+     "w": "The goal of this project is ...",
+     "type": "term",
+     "def": "这个项目的目标是……"
     },
     {
      "w": "Here is the main result.",
@@ -96,36 +86,6 @@
      "def": "这张图显示……"
     },
     {
-     "w": "production deploy",
-     "type": "term",
-     "def": "生产部署，把版本发布给真实用户"
-    },
-    {
-     "w": "rollback plan",
-     "type": "term",
-     "def": "回滚计划，发布失败时恢复旧版本的方案"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. Before I reply, I look at the release checklist once more. During the review, I ask one question about the post-release check. I walk a new teammate through the production environment. I go through the service outage with Priya and note her advice. After a short break, I teach the pattern to a new teammate: One limitation is ... The pattern helps me sound clear and calm: My recommendation is ... The checklist is done. The rollback plan is ready too.",
-   "tts": "Before I leave, I write a short summary for the team. Before I reply, I look at the release checklist once more. During the review, I ask one question about the post-release check. I walk a new teammate through the production environment. I go through the service outage with Priya and note her advice. After a short break, I teach the pattern to a new teammate: One limitation is  The pattern helps me sound clear and calm: My recommendation is  The checklist is done. The rollback plan is ready too.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。回复之前，我又看了一遍发布检查表。评审时，我就发布后检查提了一个问题。我带一位新队友过了一遍生产环境。我和 Priya 过了一遍服务中断，记下了她的建议。稍作休息后，我把这个句型教给一位新队友：一个局限是……这个句型让我听起来清楚又从容：我的建议是……检查表完成了。回滚方案也准备好了。",
-   "hard": [
-    {
-     "w": "production environment",
-     "type": "term",
-     "def": "生产环境，真实用户使用的正式运行环境"
-    },
-    {
-     "w": "service outage",
-     "type": "term",
-     "def": "服务中断，用户暂时无法使用服务的情况"
-    },
-    {
      "w": "One limitation is ...",
      "type": "term",
      "def": "一个局限是……"
@@ -134,6 +94,36 @@
      "w": "My recommendation is ...",
      "type": "term",
      "def": "我的建议是……"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Release infrastructure appears. \"A release branch holds release work,\" Leo says. \"A deployment approval is a human check. A production deploy goes to real users. A rollback plan prepares for problems. A release checklist prevents mistakes. A post-release check confirms health.\" I read the checklist. Twenty items. Each one prevents a potential disaster.",
+   "tts": "Release infrastructure appears. \"A release branch holds release work,\" Leo says. \"A deployment approval is a human check. A production deploy goes to real users. A rollback plan prepares for problems. A release checklist prevents mistakes. A post-release check confirms health.\" I read the checklist. Twenty items. Each one prevents a potential disaster.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "发布基础设施出现了。\"发布分支保存发布工作，\"Leo 说。\"部署批准是人工检查。生产部署面向真实用户。回滚预案为问题做准备。发布检查表防止遗漏。发布后检查确认健康。\"我读了检查表。二十项。每项防止一个潜在灾难。",
+   "hard": [
+    {
+     "w": "release branch",
+     "type": "term",
+     "def": "发布分支，为准备新版本建立的分支"
+    },
+    {
+     "w": "deployment approval",
+     "type": "term",
+     "def": "部署批准，发布生产环境前的人工确认"
+    },
+    {
+     "w": "production deploy",
+     "type": "term",
+     "def": "生产部署，把版本发布给真实用户"
+    },
+    {
+     "w": "rollback plan",
+     "type": "term",
+     "def": "回滚计划，发布失败时恢复旧版本的方案"
     },
     {
      "w": "release checklist",
@@ -144,6 +134,26 @@
      "w": "post-release check",
      "type": "term",
      "def": "发布后检查，上线后确认系统正常的验证"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Presentation day. I stand up. \"Today I'd like to present our month-one progress. The goal of this project is to improve user onboarding. Here is the main result: activation improved 20%. This chart shows the trend. One limitation is the small sample size. My recommendation is to continue with the current approach.\" I sit down. Applause. Maria nods. My recommendation is to continue — and so we shall. Day twenty-nine complete.",
+   "tts": "Presentation day. I stand up. \"Today I'd like to present our month-one progress. The goal of this project is to improve user onboarding. Here is the main result: activation improved 20%. This chart shows the trend. One limitation is the small sample size. My recommendation is to continue with the current approach.\" I sit down. Applause. Maria nods. My recommendation is to continue — and so we shall. Day twenty-nine complete.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "演示日。我站起来。\"今天我想展示我们第一个月的进展。这个项目的目标是改善用户引导。这是主要结果：激活率提升了 20%。这张图展示了趋势。一个局限是样本量小。我的建议是继续目前的方法。\"我坐下。掌声。Maria 点头。我的建议是继续——我们也会这样做。第二十九天完成。",
+   "hard": [
+    {
+     "w": "The goal of this project is ...",
+     "type": "term",
+     "def": "这个项目的目标是……"
+    },
+    {
+     "w": "My recommendation is ...",
+     "type": "term",
+     "def": "我的建议是……"
     }
    ]
   }

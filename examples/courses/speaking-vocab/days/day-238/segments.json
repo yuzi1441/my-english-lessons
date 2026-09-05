@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 361,
-   "segment_count": 3,
+   "word_count": 434,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The settings page lands at nine hundred milliseconds. The team names one clear owner for the invalidation on write. During the design review, I raise one careful question about the stale window. Before deciding, I reread my notes about the invalidation test matrix twice. We spend the first ten minutes of the review on the stale serving review. In the review drill, Priya says, \"The fridge list updates on write.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Old flyers go to recycling.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "The settings page lands at nine hundred milliseconds. The team names one clear owner for the invalidation on write. During the design review, I raise one careful question about the stale window. Before deciding, I reread my notes about the invalidation test matrix twice. We spend the first ten minutes of the review on the stale serving review. In the review drill, Priya says, \"The fridge list updates on write.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Old flyers go to recycling.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "The settings page lands at nine hundred milliseconds. The team names one clear owner for the invalidation on write. During the design review, I raise one careful question about the invalidation test matrix. In the review drill, Maria says, \"The fridge list updates on write.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "The settings page lands at nine hundred milliseconds. The team names one clear owner for the invalidation on write. During the design review, I raise one careful question about the invalidation test matrix. In the review drill, Maria says, \"The fridge list updates on write.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "设置页面停在九百毫秒。团队为写时失效指定了明确的负责人。设计评审中，我就过期服务窗口提出了一个审慎的问题。做决定之前，我把关于失效测试矩阵的笔记重读了两遍。评审的前十分钟，我们都用在了过期服务评审上。评审演练中，Priya说：\"冰箱清单随写随更。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"旧传单进回收站。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "设置页面停在九百毫秒。团队为写时失效指定了明确的负责人。设计评审中，我就失效测试矩阵提出了一个审慎的问题。评审演练中，Maria说：\"冰箱清单随写随更。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "invalidation on write",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Support tickets about slowness drop to zero and stay there. In the review drill, Priya says, \"Sticky notes have expiry dates.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Important changes get broadcast.\" We swap roles so I ask the questions this time. I compare two views on the soft ttl refresh and write both down honestly. I add the event invalidation to the meeting agenda with three supporting facts. I prepare a one-page brief about the cascade risk analysis so meetings start from facts. Our mentor walks me through how the broadcast failure drill evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Support tickets about slowness drop to zero and stay there. In the review drill, Priya says, \"Sticky notes have expiry dates.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Important changes get broadcast.\" We swap roles so I ask the questions this time. I compare two views on the soft ttl refresh and write both down honestly. I add the event invalidation to the meeting agenda with three supporting facts. I prepare a one-page brief about the cascade risk analysis so meetings start from facts. Our mentor walks me through how the broadcast failure drill evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Support tickets about slowness drop to zero and stay there. In the review drill, Leo says, \"Old flyers go to recycling.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the stale window twice. We spend the first ten minutes of the review on the stale serving review. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Support tickets about slowness drop to zero and stay there. In the review drill, Leo says, \"Old flyers go to recycling.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the stale window twice. We spend the first ten minutes of the review on the stale serving review. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "关于卡的工单归零，并且赖着不走。评审演练中，Priya说：\"便利贴有过期日。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"重要变更全家广播。\"我们互换角色，这次由我来提问。我比较了关于软过期加刷新的两种观点，诚实地都记了下来。我把事件驱动失效连同三条支撑事实加进了议程。我准备了一页关于级联失效分析的简报，好让会议从事实出发。导师带我梳理了广播失败演习在这个团队里的演变。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "关于卡的工单归零，并且赖着不走。评审演练中，Leo说：\"旧传单进回收站。\"我们互换角色，这次由我来提问。做决定之前，我把关于过期服务窗口的笔记重读了两遍。评审的前十分钟，我们都用在了过期服务评审上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "soft ttl refresh",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the ttl tuning log. During the design review, I raise one careful question about the coherence retro. Before deciding, I reread my notes about the cascade invalidation twice. We spend the first ten minutes of the review on the negative ttl. In the review drill, Maria says, \"One source per fact, updated.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Stale info is worse than none.\" We swap roles so I ask the questions this time. Nobody writes thank you notes for speed; the silence is the applause.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the ttl tuning log. During the design review, I raise one careful question about the coherence retro. Before deciding, I reread my notes about the cascade invalidation twice. We spend the first ten minutes of the review on the negative ttl. In the review drill, Maria says, \"One source per fact, updated.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Stale info is worse than none.\" We swap roles so I ask the questions this time. Nobody writes thank you notes for speed; the silence is the applause.",
+   "en": "Support tickets about slowness drop to zero and stay there. I compare two views on the cascade risk analysis and write both down honestly. I add the soft ttl refresh to the meeting agenda with three supporting facts. In the review drill, Priya says, \"Sticky notes have expiry dates.\" We swap roles so I ask the questions this time. Nobody writes thank you notes for speed; the silence is the applause.",
+   "tts": "Support tickets about slowness drop to zero and stay there. I compare two views on the cascade risk analysis and write both down honestly. I add the soft ttl refresh to the meeting agenda with three supporting facts. In the review drill, Priya says, \"Sticky notes have expiry dates.\" We swap roles so I ask the questions this time. Nobody writes thank you notes for speed; the silence is the applause.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为TTL 调优日志指定了明确的负责人。设计评审中，我就一致性复盘提出了一个审慎的问题。做决定之前，我把关于级联失效风险的笔记重读了两遍。评审的前十分钟，我们都用在了否定缓存过期上。评审演练中，Maria说：\"一个事实一个源头。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"过期信息比没有更糟。\"我们互换角色，这次由我来提问。没人为速度写感谢信；安静就是掌声。",
+   "zh": "关于卡的工单归零，并且赖着不走。我比较了关于级联失效分析的两种观点，诚实地都记了下来。我把软过期加刷新连同三条支撑事实加进了议程。评审演练中，Priya说：\"便利贴有过期日。\"我们互换角色，这次由我来提问。没人为速度写感谢信；安静就是掌声。",
    "hard": [
     {
      "w": "cascade invalidation",
@@ -146,6 +146,33 @@
      "def": "一致性复盘，不一致事故回顾"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Nobody writes thank you notes for speed; the silence is the applause. I prepare a one-page brief about the event invalidation so meetings start from facts. In the review drill, Priya says, \"Important changes get broadcast.\" We swap roles so I ask the questions this time. Our mentor walks me through how the broadcast failure drill evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Nobody writes thank you notes for speed; the silence is the applause. I prepare a one-page brief about the event invalidation so meetings start from facts. In the review drill, Priya says, \"Important changes get broadcast.\" We swap roles so I ask the questions this time. Our mentor walks me through how the broadcast failure drill evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "没人为速度写感谢信；安静就是掌声。我准备了一页关于事件驱动失效的简报，好让会议从事实出发。评审演练中，Priya说：\"重要变更全家广播。\"我们互换角色，这次由我来提问。导师带我梳理了广播失败演习在这个团队里的演变。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Support tickets about slowness drop to zero and stay there. In the review drill, Leo says, \"One source per fact, updated.\" We swap roles so I ask the questions this time. The team names one clear owner for the ttl tuning log. During the design review, I raise one careful question about the cascade invalidation. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Support tickets about slowness drop to zero and stay there. In the review drill, Leo says, \"One source per fact, updated.\" We swap roles so I ask the questions this time. The team names one clear owner for the ttl tuning log. During the design review, I raise one careful question about the cascade invalidation. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "关于卡的工单归零，并且赖着不走。评审演练中，Leo说：\"一个事实一个源头。\"我们互换角色，这次由我来提问。团队为TTL 调优日志指定了明确的负责人。设计评审中，我就级联失效风险提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the coherence retro twice. We spend the first ten minutes of the review on the negative ttl. In the review drill, Priya says, \"Stale info is worse than none.\" We swap roles so I ask the questions this time. Nobody writes thank you notes for speed; the silence is the applause.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the coherence retro twice. We spend the first ten minutes of the review on the negative ttl. In the review drill, Priya says, \"Stale info is worse than none.\" We swap roles so I ask the questions this time. Nobody writes thank you notes for speed; the silence is the applause.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于一致性复盘的笔记重读了两遍。评审的前十分钟，我们都用在了否定缓存过期上。评审演练中，Priya说：\"过期信息比没有更糟。\"我们互换角色，这次由我来提问。没人为速度写感谢信；安静就是掌声。",
+   "hard": []
   }
  ],
  "chunks": [

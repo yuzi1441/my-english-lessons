@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 320,
-   "segment_count": 3,
+   "word_count": 371,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The end-to-end suite runs in a headless browser now. I add the reliability target to my study notes before I forget it. I spend ten quiet minutes on the failure mode after the standup. I keep one real example of the quality gate tuning in my notebook. There is a short paragraph about the required status checks in the guide. In the warm-up round, Priya says, \"One pocket for keys.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"The shelf of maybe.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
-   "tts": "The end-to-end suite runs in a headless browser now. I add the reliability target to my study notes before I forget it. I spend ten quiet minutes on the failure mode after the standup. I keep one real example of the quality gate tuning in my notebook. There is a short paragraph about the required status checks in the guide. In the warm-up round, Priya says, \"One pocket for keys.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"The shelf of maybe.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "en": "The end-to-end suite runs in a headless browser now. I add the reliability target to my study notes before I forget it. I spend ten quiet minutes on the quality gate tuning after the standup. In the warm-up round, Maria says, \"One pocket for keys.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The end-to-end suite runs in a headless browser now. I add the reliability target to my study notes before I forget it. I spend ten quiet minutes on the quality gate tuning after the standup. In the warm-up round, Maria says, \"One pocket for keys.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "端到端套件现在跑在无头浏览器里。我趁还没忘，把可靠性目标记进了学习笔记。站会之后，我安安静静花了十分钟在失效模式上。我在笔记本里留了一个门禁调优的真实例子。指南里有一小段关于必需状态检查的介绍。热身环节里，Priya说：\"一个口袋只放钥匙。\"然后我们换角色，由我来问。热身环节里，Leo说：\"“也许用得上”的架子。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
+   "zh": "端到端套件现在跑在无头浏览器里。我趁还没忘，把可靠性目标记进了学习笔记。站会之后，我安安静静花了十分钟在门禁调优上。热身环节里，Maria说：\"一个口袋只放钥匙。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "reliability target",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Page objects keep it readable; test ids keep it steady. In the warm-up round, Priya says, \"Twenty hangers rule.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Digital hoarding counts too.\" Then we swap roles and I ask it back. Sam asks me about the single point of failure, and I explain the basics. I ask one good question about the redundancy plan in the meeting. My notes about the required review count look clearer this week. I go over the auto-merge rule one more time before lunch. The task moves forward, and so does my confidence.",
-   "tts": "Page objects keep it readable; test ids keep it steady. In the warm-up round, Priya says, \"Twenty hangers rule.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Digital hoarding counts too.\" Then we swap roles and I ask it back. Sam asks me about the single point of failure, and I explain the basics. I ask one good question about the redundancy plan in the meeting. My notes about the required review count look clearer this week. I go over the auto-merge rule one more time before lunch. The task moves forward, and so does my confidence.",
+   "en": "Page objects keep it readable; test ids keep it steady. In the warm-up round, Leo says, \"The shelf of maybe.\" Then we swap roles and I ask it back. I keep one real example of the failure mode in my notebook. There is a short paragraph about the required status checks in the guide. The task moves forward, and so does my confidence.",
+   "tts": "Page objects keep it readable; test ids keep it steady. In the warm-up round, Leo says, \"The shelf of maybe.\" Then we swap roles and I ask it back. I keep one real example of the failure mode in my notebook. There is a short paragraph about the required status checks in the guide. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "页面对象让它保持可读；测试专用属性让它保持稳定。热身环节里，Priya说：\"二十个衣架法则。\"然后我们换角色，由我来问。热身环节里，Leo说：\"数字囤积也算数。\"然后我们换角色，由我来问。Sam 问起单点故障，我讲了讲基础。会上关于冗余方案，我问了一个好问题。这周我关于必需评审人数的笔记清楚多了。午饭前我又过了一遍自动合并规则。任务在推进，我的信心也在成长。",
+   "zh": "页面对象让它保持可读；测试专用属性让它保持稳定。热身环节里，Leo说：\"“也许用得上”的架子。\"然后我们换角色，由我来问。我在笔记本里留了一个失效模式的真实例子。指南里有一小段关于必需状态检查的介绍。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "single point of failure",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the up-to-date branch rule to my study notes before I forget it. I spend ten quiet minutes on the resolved conversations rule after the standup. I keep one real example of the mean time to recover in my notebook. There is a short paragraph about the error budget policy in the guide. In the warm-up round, Maria says, \"Donate monthly.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Space is a luxury.\" Then we swap roles and I ask it back. Honest end-to-end tests are few and precious.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the up-to-date branch rule to my study notes before I forget it. I spend ten quiet minutes on the resolved conversations rule after the standup. I keep one real example of the mean time to recover in my notebook. There is a short paragraph about the error budget policy in the guide. In the warm-up round, Maria says, \"Donate monthly.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Space is a luxury.\" Then we swap roles and I ask it back. Honest end-to-end tests are few and precious.",
+   "en": "Page objects keep it readable; test ids keep it steady. Sam asks me about the required review count, and I explain the basics. I ask one good question about the single point of failure in the meeting. In the warm-up round, Priya says, \"Twenty hangers rule.\" Then we swap roles and I ask it back. Honest end-to-end tests are few and precious.",
+   "tts": "Page objects keep it readable; test ids keep it steady. Sam asks me about the required review count, and I explain the basics. I ask one good question about the single point of failure in the meeting. In the warm-up round, Priya says, \"Twenty hangers rule.\" Then we swap roles and I ask it back. Honest end-to-end tests are few and precious.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把最新分支规则记进了学习笔记。站会之后，我安安静静花了十分钟在讨论解决规则上。我在笔记本里留了一个平均恢复时间的真实例子。指南里有一小段关于错误预算政策的介绍。热身环节里，Maria说：\"每月捐一次。\"然后我们换角色，由我来问。热身环节里，Priya说：\"空隙就是奢侈。\"然后我们换角色，由我来问。诚实的端到端测试，少而珍贵。",
+   "zh": "页面对象让它保持可读；测试专用属性让它保持稳定。Sam 问起必需评审人数，我讲了讲基础。会上关于单点故障，我问了一个好问题。热身环节里，Priya说：\"二十个衣架法则。\"然后我们换角色，由我来问。诚实的端到端测试，少而珍贵。",
    "hard": [
     {
      "w": "mean time to recover",
@@ -146,6 +146,33 @@
      "def": "讨论解决规则，未解决不合并"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Honest end-to-end tests are few and precious. My notes about the redundancy plan look clearer this week. In the warm-up round, Priya says, \"Digital hoarding counts too.\" Then we swap roles and I ask it back. I go over the auto-merge rule one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Honest end-to-end tests are few and precious. My notes about the redundancy plan look clearer this week. In the warm-up round, Priya says, \"Digital hoarding counts too.\" Then we swap roles and I ask it back. I go over the auto-merge rule one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "诚实的端到端测试，少而珍贵。这周我关于冗余方案的笔记清楚多了。热身环节里，Priya说：\"数字囤积也算数。\"然后我们换角色，由我来问。午饭前我又过了一遍自动合并规则。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Page objects keep it readable; test ids keep it steady. In the warm-up round, Leo says, \"Donate monthly.\" Then we swap roles and I ask it back. I add the up-to-date branch rule to my study notes before I forget it. I spend ten quiet minutes on the mean time to recover after the standup. The task moves forward, and so does my confidence.",
+   "tts": "Page objects keep it readable; test ids keep it steady. In the warm-up round, Leo says, \"Donate monthly.\" Then we swap roles and I ask it back. I add the up-to-date branch rule to my study notes before I forget it. I spend ten quiet minutes on the mean time to recover after the standup. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "页面对象让它保持可读；测试专用属性让它保持稳定。热身环节里，Leo说：\"每月捐一次。\"然后我们换角色，由我来问。我趁还没忘，把最新分支规则记进了学习笔记。站会之后，我安安静静花了十分钟在平均恢复时间上。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the resolved conversations rule in my notebook. There is a short paragraph about the error budget policy in the guide. In the warm-up round, Priya says, \"Space is a luxury.\" Then we swap roles and I ask it back. Honest end-to-end tests are few and precious.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the resolved conversations rule in my notebook. There is a short paragraph about the error budget policy in the guide. In the warm-up round, Priya says, \"Space is a luxury.\" Then we swap roles and I ask it back. Honest end-to-end tests are few and precious.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个讨论解决规则的真实例子。指南里有一小段关于错误预算政策的介绍。热身环节里，Priya说：\"空隙就是奢侈。\"然后我们换角色，由我来问。诚实的端到端测试，少而珍贵。",
+   "hard": []
   }
  ],
  "chunks": [

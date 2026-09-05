@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 369,
-   "segment_count": 3,
+   "word_count": 434,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A full month passes with zero critical findings. The team names one clear owner for the auto containment for known bad. Our mentor walks me through how the automated ticket enrichment evolved on this team. Before deciding, I reread my notes about the automation blast radius review twice. During the design review, I raise one careful question about the human approval gates. In the review drill, Priya says, \"Auto locks at ten, exceptions logged.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Leak sensor shuts the valve.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "A full month passes with zero critical findings. The team names one clear owner for the auto containment for known bad. Our mentor walks me through how the automated ticket enrichment evolved on this team. Before deciding, I reread my notes about the automation blast radius review twice. During the design review, I raise one careful question about the human approval gates. In the review drill, Priya says, \"Auto locks at ten, exceptions logged.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Leak sensor shuts the valve.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "A full month passes with zero critical findings. The team names one clear owner for the auto containment for known bad. Our mentor walks me through how the automation blast radius review evolved on this team. In the review drill, Maria says, \"Auto locks at ten, exceptions logged.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "A full month passes with zero critical findings. The team names one clear owner for the auto containment for known bad. Our mentor walks me through how the automation blast radius review evolved on this team. In the review drill, Maria says, \"Auto locks at ten, exceptions logged.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "整整一个月，严重漏洞数为零。团队为已知威胁自动遏制指定了明确的负责人。导师带我梳理了工单自动增能在这个团队里的演变。做决定之前，我把关于自动化影响半径评审的笔记重读了两遍。设计评审中，我就人工审批关卡提出了一个审慎的问题。评审演练中，Priya说：\"十点自动锁门\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"漏水传感器关水阀。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "整整一个月，严重漏洞数为零。团队为已知威胁自动遏制指定了明确的负责人。导师带我梳理了自动化影响半径评审在这个团队里的演变。评审演练中，Maria说：\"十点自动锁门\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "auto containment for known bad",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Not luck: scans, drills, and thirty small fixes that never made headlines. In the review drill, Priya says, \"Smoke alarm calls the family.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Automations have manual overrides.\" We swap roles so I ask the questions this time. I add the orchestration playbook engine to the meeting agenda with three supporting facts. I prepare a one-page brief about the risk based alert ranking so meetings start from facts. I compare two views on the runaway automation kill switch and write both down honestly. We spend the first ten minutes of the review on the automation audit log. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Not luck: scans, drills, and thirty small fixes that never made headlines. In the review drill, Priya says, \"Smoke alarm calls the family.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Automations have manual overrides.\" We swap roles so I ask the questions this time. I add the orchestration playbook engine to the meeting agenda with three supporting facts. I prepare a one-page brief about the risk based alert ranking so meetings start from facts. I compare two views on the runaway automation kill switch and write both down honestly. We spend the first ten minutes of the review on the automation audit log. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Not luck: scans, drills, and thirty small fixes that never made headlines. In the review drill, Leo says, \"Leak sensor shuts the valve.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the automated ticket enrichment twice. During the design review, I raise one careful question about the human approval gates. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Not luck: scans, drills, and thirty small fixes that never made headlines. In the review drill, Leo says, \"Leak sensor shuts the valve.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the automated ticket enrichment twice. During the design review, I raise one careful question about the human approval gates. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "不是运气：是扫描、演练，和三十次没上头条的小修复。评审演练中，Priya说：\"烟警报警先打家里电话。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"自动化都留手动开关。\"我们互换角色，这次由我来提问。我把编排手册引擎连同三条支撑事实加进了议程。我准备了一页关于按风险排警的简报，好让会议从事实出发。我比较了关于失控自动化开关的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了自动化审计日志上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "不是运气：是扫描、演练，和三十次没上头条的小修复。评审演练中，Leo说：\"漏水传感器关水阀。\"我们互换角色，这次由我来提问。做决定之前，我把关于工单自动增能的笔记重读了两遍。设计评审中，我就人工审批关卡提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "orchestration playbook engine",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the safe demo mode for playbooks. Our mentor walks me through how the automation test environment evolved on this team. Before deciding, I reread my notes about the self service access review twice. During the design review, I raise one careful question about the auto evidence collection. In the review drill, Maria says, \"The camera respects guest hours.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Convenience with an audit trail.\" We swap roles so I ask the questions this time. Clean months are built, not found.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the safe demo mode for playbooks. Our mentor walks me through how the automation test environment evolved on this team. Before deciding, I reread my notes about the self service access review twice. During the design review, I raise one careful question about the auto evidence collection. In the review drill, Maria says, \"The camera respects guest hours.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Convenience with an audit trail.\" We swap roles so I ask the questions this time. Clean months are built, not found.",
+   "en": "Not luck: scans, drills, and thirty small fixes that never made headlines. I add the runaway automation kill switch to the meeting agenda with three supporting facts. I prepare a one-page brief about the orchestration playbook engine so meetings start from facts. In the review drill, Priya says, \"Smoke alarm calls the family.\" We swap roles so I ask the questions this time. Clean months are built, not found.",
+   "tts": "Not luck: scans, drills, and thirty small fixes that never made headlines. I add the runaway automation kill switch to the meeting agenda with three supporting facts. I prepare a one-page brief about the orchestration playbook engine so meetings start from facts. In the review drill, Priya says, \"Smoke alarm calls the family.\" We swap roles so I ask the questions this time. Clean months are built, not found.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为手册安全演示模式指定了明确的负责人。导师带我梳理了自动化测试环境在这个团队里的演变。做决定之前，我把关于自助权限审查的笔记重读了两遍。设计评审中，我就证据自动归集提出了一个审慎的问题。评审演练中，Maria说：\"摄像头尊重访客时段。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"有留痕的便利。\"我们互换角色，这次由我来提问。干净的月份是修出来的，不是碰出来的。",
+   "zh": "不是运气：是扫描、演练，和三十次没上头条的小修复。我把失控自动化开关连同三条支撑事实加进了议程。我准备了一页关于编排手册引擎的简报，好让会议从事实出发。评审演练中，Priya说：\"烟警报警先打家里电话。\"我们互换角色，这次由我来提问。干净的月份是修出来的，不是碰出来的。",
    "hard": [
     {
      "w": "self service access review",
@@ -146,6 +146,33 @@
      "def": "自动化测试环境，新剧本先彩排"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Clean months are built, not found. I compare two views on the risk based alert ranking and write both down honestly. In the review drill, Priya says, \"Automations have manual overrides.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the automation audit log. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Clean months are built, not found. I compare two views on the risk based alert ranking and write both down honestly. In the review drill, Priya says, \"Automations have manual overrides.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the automation audit log. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "干净的月份是修出来的，不是碰出来的。我比较了关于按风险排警的两种观点，诚实地都记了下来。评审演练中，Priya说：\"自动化都留手动开关。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了自动化审计日志上。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Not luck: scans, drills, and thirty small fixes that never made headlines. In the review drill, Leo says, \"The camera respects guest hours.\" We swap roles so I ask the questions this time. The team names one clear owner for the safe demo mode for playbooks. Our mentor walks me through how the self service access review evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Not luck: scans, drills, and thirty small fixes that never made headlines. In the review drill, Leo says, \"The camera respects guest hours.\" We swap roles so I ask the questions this time. The team names one clear owner for the safe demo mode for playbooks. Our mentor walks me through how the self service access review evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "不是运气：是扫描、演练，和三十次没上头条的小修复。评审演练中，Leo说：\"摄像头尊重访客时段。\"我们互换角色，这次由我来提问。团队为手册安全演示模式指定了明确的负责人。导师带我梳理了自助权限审查在这个团队里的演变。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the automation test environment twice. During the design review, I raise one careful question about the auto evidence collection. In the review drill, Priya says, \"Convenience with an audit trail.\" We swap roles so I ask the questions this time. Clean months are built, not found.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the automation test environment twice. During the design review, I raise one careful question about the auto evidence collection. In the review drill, Priya says, \"Convenience with an audit trail.\" We swap roles so I ask the questions this time. Clean months are built, not found.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于自动化测试环境的笔记重读了两遍。设计评审中，我就证据自动归集提出了一个审慎的问题。评审演练中，Priya说：\"有留痕的便利。\"我们互换角色，这次由我来提问。干净的月份是修出来的，不是碰出来的。",
+   "hard": []
   }
  ],
  "chunks": [

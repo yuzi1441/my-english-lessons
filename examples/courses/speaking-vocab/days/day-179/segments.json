@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 342,
-   "segment_count": 3,
+   "word_count": 407,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The guild gives its first data kindness award — to a footnote. While the details are fresh, I write down the anomaly explanation session. In today's standup, I mention the segment deep dive hour and what comes next. I connect the culture lunch series to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the leaders model the behavior. In the meeting drill, Maria says, \"Walking meetings with myself.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Ideas arrive at mile two.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "The guild gives its first data kindness award — to a footnote. While the details are fresh, I write down the anomaly explanation session. In today's standup, I mention the segment deep dive hour and what comes next. I connect the culture lunch series to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the leaders model the behavior. In the meeting drill, Maria says, \"Walking meetings with myself.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Ideas arrive at mile two.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "The guild gives its first data kindness award — to a footnote. While the details are fresh, I write down the anomaly explanation session. In today's standup, I mention the culture lunch series and what comes next. In the meeting drill, Leo says, \"Walking meetings with myself.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The guild gives its first data kindness award — to a footnote. While the details are fresh, I write down the anomaly explanation session. In today's standup, I mention the culture lunch series and what comes next. In the meeting drill, Leo says, \"Walking meetings with myself.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "公会颁出第一个数据善意奖——给了一条脚注。趁细节还新鲜，我把异常解读会写了下来。今天的站会上，我提到分群深潜时间和接下来的安排。我把文化午餐系列关联到工单上，免得遗漏。Priya 提出了一个更清晰的领导以身作则思考方式。会议演练中，Maria说：\"和自己的走路会议。\"之后我们换角色再练一遍。会议演练中，Priya说：\"想法在第二公里到站。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "公会颁出第一个数据善意奖——给了一条脚注。趁细节还新鲜，我把异常解读会写了下来。今天的站会上，我提到文化午餐系列和接下来的安排。会议演练中，Leo说：\"和自己的走路会议。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "anomaly explanation session",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Someone wrote the metric's catch on every chart: one line, many saved confusions. In the meeting drill, Maria says, \"The notebook in my pocket.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Traffic lights for thinking.\" After that, we swap roles and run it again. The guide now has a short section on the trend decomposition. At the review, we spend ten minutes on the leading indicator watchlist. I compare my notes about the celebrate updated decisions with Priya's. We agree to give the questions over assertions one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Someone wrote the metric's catch on every chart: one line, many saved confusions. In the meeting drill, Maria says, \"The notebook in my pocket.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Traffic lights for thinking.\" After that, we swap roles and run it again. The guide now has a short section on the trend decomposition. At the review, we spend ten minutes on the leading indicator watchlist. I compare my notes about the celebrate updated decisions with Priya's. We agree to give the questions over assertions one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Someone wrote the metric's catch on every chart: one line, many saved confusions. In the meeting drill, Priya says, \"Ideas arrive at mile two.\" After that, we swap roles and run it again. I connect the segment deep dive hour to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the leaders model the behavior. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Someone wrote the metric's catch on every chart: one line, many saved confusions. In the meeting drill, Priya says, \"Ideas arrive at mile two.\" After that, we swap roles and run it again. I connect the segment deep dive hour to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the leaders model the behavior. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "有人把指标的坑写在了每张图上：一行字，省下无数困惑。会议演练中，Maria说：\"口袋里的笔记本。\"之后我们换角色再练一遍。会议演练中，Priya说：\"红绿灯是思考节拍器。\"之后我们换角色再练一遍。指南里现在有关于趋势分解的简短章节。评审时，我们花了十分钟在先行指标观察名单上。我把关于庆祝改判的笔记和 Priya 的对照了一下。我们说好这周再把提问优于断言仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "有人把指标的坑写在了每张图上：一行字，省下无数困惑。会议演练中，Priya说：\"想法在第二公里到站。\"之后我们换角色再练一遍。我把分群深潜时间关联到工单上，免得遗漏。Priya 提出了一个更清晰的领导以身作则思考方式。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "trend decomposition",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the no data shame rule. In today's standup, I mention the long game patience and what comes next. I connect the insight to action card to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the quarterly trend narrative. In the meeting drill, Leo says, \"Some walks answer nothing.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"And that is the answer.\" After that, we swap roles and run it again. Kindness scales when it is documented.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the no data shame rule. In today's standup, I mention the long game patience and what comes next. I connect the insight to action card to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the quarterly trend narrative. In the meeting drill, Leo says, \"Some walks answer nothing.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"And that is the answer.\" After that, we swap roles and run it again. Kindness scales when it is documented.",
+   "en": "Someone wrote the metric's catch on every chart: one line, many saved confusions. The guide now has a short section on the celebrate updated decisions. At the review, we spend ten minutes on the trend decomposition. In the meeting drill, Maria says, \"The notebook in my pocket.\" After that, we swap roles and run it again. Kindness scales when it is documented.",
+   "tts": "Someone wrote the metric's catch on every chart: one line, many saved confusions. The guide now has a short section on the celebrate updated decisions. At the review, we spend ten minutes on the trend decomposition. In the meeting drill, Maria says, \"The notebook in my pocket.\" After that, we swap roles and run it again. Kindness scales when it is documented.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把数据羞耻禁令写了下来。今天的站会上，我提到长期主义耐心和接下来的安排。我把洞察到行动卡关联到工单上，免得遗漏。Priya 提出了一个更清晰的季度趋势叙事思考方式。会议演练中，Leo说：\"有些散步什么都不回答。\"之后我们换角色再练一遍。会议演练中，Maria说：\"这本身就是答案。\"之后我们换角色再练一遍。被写下来的善意，才会规模化。",
+   "zh": "有人把指标的坑写在了每张图上：一行字，省下无数困惑。指南里现在有关于庆祝改判的简短章节。评审时，我们花了十分钟在趋势分解上。会议演练中，Maria说：\"口袋里的笔记本。\"之后我们换角色再练一遍。被写下来的善意，才会规模化。",
    "hard": [
     {
      "w": "insight to action card",
@@ -146,6 +146,33 @@
      "def": "长期主义耐心，文化以年计"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Kindness scales when it is documented. I compare my notes about the leading indicator watchlist with Priya's. In the meeting drill, Maria says, \"Traffic lights for thinking.\" After that, we swap roles and run it again. We agree to give the questions over assertions one more careful look this week. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Kindness scales when it is documented. I compare my notes about the leading indicator watchlist with Priya's. In the meeting drill, Maria says, \"Traffic lights for thinking.\" After that, we swap roles and run it again. We agree to give the questions over assertions one more careful look this week. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "被写下来的善意，才会规模化。我把关于先行指标观察名单的笔记和 Priya 的对照了一下。会议演练中，Maria说：\"红绿灯是思考节拍器。\"之后我们换角色再练一遍。我们说好这周再把提问优于断言仔细看一次。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Someone wrote the metric's catch on every chart: one line, many saved confusions. In the meeting drill, Priya says, \"Some walks answer nothing.\" After that, we swap roles and run it again. While the details are fresh, I write down the no data shame rule. In today's standup, I mention the insight to action card and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Someone wrote the metric's catch on every chart: one line, many saved confusions. In the meeting drill, Priya says, \"Some walks answer nothing.\" After that, we swap roles and run it again. While the details are fresh, I write down the no data shame rule. In today's standup, I mention the insight to action card and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "有人把指标的坑写在了每张图上：一行字，省下无数困惑。会议演练中，Priya说：\"有些散步什么都不回答。\"之后我们换角色再练一遍。趁细节还新鲜，我把数据羞耻禁令写了下来。今天的站会上，我提到洞察到行动卡和接下来的安排。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the long game patience to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the quarterly trend narrative. In the meeting drill, Maria says, \"And that is the answer.\" After that, we swap roles and run it again. Kindness scales when it is documented.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the long game patience to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the quarterly trend narrative. In the meeting drill, Maria says, \"And that is the answer.\" After that, we swap roles and run it again. Kindness scales when it is documented.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把长期主义耐心关联到工单上，免得遗漏。Priya 提出了一个更清晰的季度趋势叙事思考方式。会议演练中，Maria说：\"这本身就是答案。\"之后我们换角色再练一遍。被写下来的善意，才会规模化。",
+   "hard": []
   }
  ],
  "chunks": [

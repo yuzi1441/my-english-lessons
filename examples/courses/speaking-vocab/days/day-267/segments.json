@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 375,
-   "segment_count": 3,
+   "word_count": 443,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I present security to the leadership in three sentences. I add the security posture trend to the meeting agenda with three supporting facts. I compare two views on the top risks movement and write both down honestly. During the design review, I raise one careful question about the quarterly security report. Our mentor walks me through how the wins and gaps summary evolved on this team. In the review drill, Leo says, \"Day two hundred seventy, locks checked.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"The quiet confidence of routines.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
-   "tts": "I present security to the leadership in three sentences. I add the security posture trend to the meeting agenda with three supporting facts. I compare two views on the top risks movement and write both down honestly. During the design review, I raise one careful question about the quarterly security report. Our mentor walks me through how the wins and gaps summary evolved on this team. In the review drill, Leo says, \"Day two hundred seventy, locks checked.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"The quiet confidence of routines.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "en": "I present security to the leadership in three sentences. I add the security posture trend to the meeting agenda with three supporting facts. I compare two views on the quarterly security report and write both down honestly. In the review drill, Priya says, \"Day two hundred seventy, locks checked.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "I present security to the leadership in three sentences. I add the security posture trend to the meeting agenda with three supporting facts. I compare two views on the quarterly security report and write both down honestly. In the review drill, Priya says, \"Day two hundred seventy, locks checked.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我用三句话向管理层汇报安全。我把安全态势趋势连同三条支撑事实加进了议程。我比较了关于重点风险位移表的两种观点，诚实地都记了下来。设计评审中，我就季度安全报告提出了一个审慎的问题。导师带我梳理了成绩与缺口摘要在这个团队里的演变。评审演练中，Leo说：\"第二百七十天\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"日常带来的安心。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我用三句话向管理层汇报安全。我把安全态势趋势连同三条支撑事实加进了议程。我比较了关于季度安全报告的两种观点，诚实地都记了下来。评审演练中，Priya说：\"第二百七十天\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "security posture trend",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "What we protect, what scares us, what we need — one page, no jargon. In the review drill, Leo says, \"We fixed the fence before the storm.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Sleep comes easier prepared.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the control effectiveness review twice. We spend the first ten minutes of the review on the incident frequency analysis. The team names one clear owner for the risk heatmap refresh. I prepare a one-page brief about the audit findings closed list so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "What we protect, what scares us, what we need — one page, no jargon. In the review drill, Leo says, \"We fixed the fence before the storm.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Sleep comes easier prepared.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the control effectiveness review twice. We spend the first ten minutes of the review on the incident frequency analysis. The team names one clear owner for the risk heatmap refresh. I prepare a one-page brief about the audit findings closed list so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "What we protect, what scares us, what we need — one page, no jargon. In the review drill, Maria says, \"The quiet confidence of routines.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the top risks movement. Our mentor walks me through how the wins and gaps summary evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "What we protect, what scares us, what we need — one page, no jargon. In the review drill, Maria says, \"The quiet confidence of routines.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the top risks movement. Our mentor walks me through how the wins and gaps summary evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们护什么、怕什么、缺什么——一页纸，零术语。评审演练中，Leo说：\"暴风雨前修好了篱笆。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"有准备的人睡得香。\"我们互换角色，这次由我来提问。做决定之前，我把关于控制有效性回顾的笔记重读了两遍。评审的前十分钟，我们都用在了事件频率分析上。团队为风险热力图刷新指定了明确的负责人。我准备了一页关于审计发现关闭清单的简报，好让会议从事实出发。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们护什么、怕什么、缺什么——一页纸，零术语。评审演练中，Maria说：\"日常带来的安心。\"我们互换角色，这次由我来提问。设计评审中，我就重点风险位移表提出了一个审慎的问题。导师带我梳理了成绩与缺口摘要在这个团队里的演变。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "control effectiveness review",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the team drill scores to the meeting agenda with three supporting facts. I compare two views on the next year security roadmap and write both down honestly. During the design review, I raise one careful question about the budget ask with evidence. Our mentor walks me through how the next quarter security bets evolved on this team. In the review drill, Priya says, \"Gratitude for the boring months.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Next season, same vigilance.\" We swap roles so I ask the questions this time. An untrusted map beats none.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the team drill scores to the meeting agenda with three supporting facts. I compare two views on the next year security roadmap and write both down honestly. During the design review, I raise one careful question about the budget ask with evidence. Our mentor walks me through how the next quarter security bets evolved on this team. In the review drill, Priya says, \"Gratitude for the boring months.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Next season, same vigilance.\" We swap roles so I ask the questions this time. An untrusted map beats none.",
+   "en": "What we protect, what scares us, what we need — one page, no jargon. Before deciding, I reread my notes about the risk heatmap refresh twice. We spend the first ten minutes of the review on the control effectiveness review. In the review drill, Leo says, \"We fixed the fence before the storm.\" We swap roles so I ask the questions this time. An untrusted map beats none.",
+   "tts": "What we protect, what scares us, what we need — one page, no jargon. Before deciding, I reread my notes about the risk heatmap refresh twice. We spend the first ten minutes of the review on the control effectiveness review. In the review drill, Leo says, \"We fixed the fence before the storm.\" We swap roles so I ask the questions this time. An untrusted map beats none.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把团队演练成绩单连同三条支撑事实加进了议程。我比较了关于来年安全路线图的两种观点，诚实地都记了下来。设计评审中，我就带证据的预算申请提出了一个审慎的问题。导师带我梳理了下季安全押注在这个团队里的演变。评审演练中，Priya说：\"感谢这些平静的月份。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"下一季\"我们互换角色，这次由我来提问。没人信的地图不如没有。",
+   "zh": "我们护什么、怕什么、缺什么——一页纸，零术语。做决定之前，我把关于风险热力图刷新的笔记重读了两遍。评审的前十分钟，我们都用在了控制有效性回顾上。评审演练中，Leo说：\"暴风雨前修好了篱笆。\"我们互换角色，这次由我来提问。没人信的地图不如没有。",
    "hard": [
     {
      "w": "budget ask with evidence",
@@ -146,6 +146,33 @@
      "def": "来年安全路线图，更远的规划"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "An untrusted map beats none. The team names one clear owner for the incident frequency analysis. In the review drill, Leo says, \"Sleep comes easier prepared.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the audit findings closed list so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "An untrusted map beats none. The team names one clear owner for the incident frequency analysis. In the review drill, Leo says, \"Sleep comes easier prepared.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the audit findings closed list so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "没人信的地图不如没有。团队为事件频率分析指定了明确的负责人。评审演练中，Leo说：\"有准备的人睡得香。\"我们互换角色，这次由我来提问。我准备了一页关于审计发现关闭清单的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "What we protect, what scares us, what we need — one page, no jargon. In the review drill, Maria says, \"Gratitude for the boring months.\" We swap roles so I ask the questions this time. I add the team drill scores to the meeting agenda with three supporting facts. I compare two views on the budget ask with evidence and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "What we protect, what scares us, what we need — one page, no jargon. In the review drill, Maria says, \"Gratitude for the boring months.\" We swap roles so I ask the questions this time. I add the team drill scores to the meeting agenda with three supporting facts. I compare two views on the budget ask with evidence and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们护什么、怕什么、缺什么——一页纸，零术语。评审演练中，Maria说：\"感谢这些平静的月份。\"我们互换角色，这次由我来提问。我把团队演练成绩单连同三条支撑事实加进了议程。我比较了关于带证据的预算申请的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the next year security roadmap. Our mentor walks me through how the next quarter security bets evolved on this team. In the review drill, Leo says, \"Next season, same vigilance.\" We swap roles so I ask the questions this time. An untrusted map beats none.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the next year security roadmap. Our mentor walks me through how the next quarter security bets evolved on this team. In the review drill, Leo says, \"Next season, same vigilance.\" We swap roles so I ask the questions this time. An untrusted map beats none.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就来年安全路线图提出了一个审慎的问题。导师带我梳理了下季安全押注在这个团队里的演变。评审演练中，Leo说：\"下一季\"我们互换角色，这次由我来提问。没人信的地图不如没有。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 360,
-   "segment_count": 3,
+   "word_count": 427,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A tabletop exercise: someone has our customer list. The team names one clear owner for the control mapping. I add the compliance calendar to the meeting agenda with three supporting facts. I prepare a one-page brief about the compliance as code checks so meetings start from facts. We spend the first ten minutes of the review on the audit trail completeness test. In the review drill, Maria says, \"Insurance papers reviewed yearly.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The family document binder.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "A tabletop exercise: someone has our customer list. The team names one clear owner for the control mapping. I add the compliance calendar to the meeting agenda with three supporting facts. I prepare a one-page brief about the compliance as code checks so meetings start from facts. We spend the first ten minutes of the review on the audit trail completeness test. In the review drill, Maria says, \"Insurance papers reviewed yearly.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The family document binder.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "A tabletop exercise: someone has our customer list. The team names one clear owner for the control mapping. I add the compliance as code checks to the meeting agenda with three supporting facts. In the review drill, Leo says, \"Insurance papers reviewed yearly.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "A tabletop exercise: someone has our customer list. The team names one clear owner for the control mapping. I add the compliance as code checks to the meeting agenda with three supporting facts. In the review drill, Leo says, \"Insurance papers reviewed yearly.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "桌面推演：有人拿到了我们的客户名单。团队为控制项映射指定了明确的负责人。我把合规日历连同三条支撑事实加进了议程。我准备了一页关于合规即代码检查的简报，好让会议从事实出发。评审的前十分钟，我们都用在了审计留痕完整性测试上。评审演练中，Maria说：\"保单每年过一遍。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"家庭档案夹。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "桌面推演：有人拿到了我们的客户名单。团队为控制项映射指定了明确的负责人。我把合规即代码检查连同三条支撑事实加进了议程。评审演练中，Leo说：\"保单每年过一遍。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "control mapping",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. In the review drill, Maria says, \"Expiry dates on one calendar.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Rules for the kids are written too.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the audit prep sprint. Our mentor walks me through how the evidence automation pipeline evolved on this team. I compare two views on the access review automation and write both down honestly. Before deciding, I reread my notes about the data inventory refresh twice. We end the week with something shipped and something properly learned this time.",
-   "tts": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. In the review drill, Maria says, \"Expiry dates on one calendar.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Rules for the kids are written too.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the audit prep sprint. Our mentor walks me through how the evidence automation pipeline evolved on this team. I compare two views on the access review automation and write both down honestly. Before deciding, I reread my notes about the data inventory refresh twice. We end the week with something shipped and something properly learned this time.",
+   "en": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. In the review drill, Priya says, \"The family document binder.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the compliance calendar so meetings start from facts. We spend the first ten minutes of the review on the audit trail completeness test. We end the week with something shipped and something properly learned this time.",
+   "tts": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. In the review drill, Priya says, \"The family document binder.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the compliance calendar so meetings start from facts. We spend the first ten minutes of the review on the audit trail completeness test. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "九十分钟，一块白板，零指责，十一个缺口。评审演练中，Maria说：\"到期日都在一个日历。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"给孩子的规矩也写成文。\"我们互换角色，这次由我来提问。设计评审中，我就审计准备冲刺提出了一个审慎的问题。导师带我梳理了证据自动化管道在这个团队里的演变。我比较了关于权限审查自动化的两种观点，诚实地都记了下来。做决定之前，我把关于数据清单更新的笔记重读了两遍。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "九十分钟，一块白板，零指责，十一个缺口。评审演练中，Priya说：\"家庭档案夹。\"我们互换角色，这次由我来提问。我准备了一页关于合规日历的简报，好让会议从事实出发。评审的前十分钟，我们都用在了审计留痕完整性测试上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "audit prep sprint",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the evidence retention schedule. I add the readiness scorecard to the meeting agenda with three supporting facts. I prepare a one-page brief about the policy exceptions register so meetings start from facts. We spend the first ten minutes of the review on the attestation workflow. In the review drill, Leo says, \"Warranties in one folder.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Prepared beats scrambling every time.\" We swap roles so I ask the questions this time. Every gap found on paper is a door locked in advance.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the evidence retention schedule. I add the readiness scorecard to the meeting agenda with three supporting facts. I prepare a one-page brief about the policy exceptions register so meetings start from facts. We spend the first ten minutes of the review on the attestation workflow. In the review drill, Leo says, \"Warranties in one folder.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Prepared beats scrambling every time.\" We swap roles so I ask the questions this time. Every gap found on paper is a door locked in advance.",
+   "en": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. During the design review, I raise one careful question about the access review automation. Our mentor walks me through how the audit prep sprint evolved on this team. In the review drill, Maria says, \"Expiry dates on one calendar.\" We swap roles so I ask the questions this time. Every gap found on paper is a door locked in advance.",
+   "tts": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. During the design review, I raise one careful question about the access review automation. Our mentor walks me through how the audit prep sprint evolved on this team. In the review drill, Maria says, \"Expiry dates on one calendar.\" We swap roles so I ask the questions this time. Every gap found on paper is a door locked in advance.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为证据保留排期指定了明确的负责人。我把就绪记分卡连同三条支撑事实加进了议程。我准备了一页关于例外登记簿的简报，好让会议从事实出发。评审的前十分钟，我们都用在了签署证明流程上。评审演练中，Leo说：\"保修卡一个文件夹。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"提前准备永远胜过临时翻找。\"我们互换角色，这次由我来提问。纸上找到的每个缺口，都是提前锁好的门。",
+   "zh": "九十分钟，一块白板，零指责，十一个缺口。设计评审中，我就权限审查自动化提出了一个审慎的问题。导师带我梳理了审计准备冲刺在这个团队里的演变。评审演练中，Maria说：\"到期日都在一个日历。\"我们互换角色，这次由我来提问。纸上找到的每个缺口，都是提前锁好的门。",
    "hard": [
     {
      "w": "policy exceptions register",
@@ -146,6 +146,33 @@
      "def": "就绪记分卡，审计前的心里数"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Every gap found on paper is a door locked in advance. I compare two views on the evidence automation pipeline and write both down honestly. In the review drill, Maria says, \"Rules for the kids are written too.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the data inventory refresh twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Every gap found on paper is a door locked in advance. I compare two views on the evidence automation pipeline and write both down honestly. In the review drill, Maria says, \"Rules for the kids are written too.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the data inventory refresh twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "纸上找到的每个缺口，都是提前锁好的门。我比较了关于证据自动化管道的两种观点，诚实地都记了下来。评审演练中，Maria说：\"给孩子的规矩也写成文。\"我们互换角色，这次由我来提问。做决定之前，我把关于数据清单更新的笔记重读了两遍。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. In the review drill, Priya says, \"Warranties in one folder.\" We swap roles so I ask the questions this time. The team names one clear owner for the evidence retention schedule. I add the policy exceptions register to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "Ninety minutes, one whiteboard, zero blame, and eleven gaps discovered. In the review drill, Priya says, \"Warranties in one folder.\" We swap roles so I ask the questions this time. The team names one clear owner for the evidence retention schedule. I add the policy exceptions register to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "九十分钟，一块白板，零指责，十一个缺口。评审演练中，Priya说：\"保修卡一个文件夹。\"我们互换角色，这次由我来提问。团队为证据保留排期指定了明确的负责人。我把例外登记簿连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the readiness scorecard so meetings start from facts. We spend the first ten minutes of the review on the attestation workflow. In the review drill, Maria says, \"Prepared beats scrambling every time.\" We swap roles so I ask the questions this time. Every gap found on paper is a door locked in advance.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the readiness scorecard so meetings start from facts. We spend the first ten minutes of the review on the attestation workflow. In the review drill, Maria says, \"Prepared beats scrambling every time.\" We swap roles so I ask the questions this time. Every gap found on paper is a door locked in advance.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于就绪记分卡的简报，好让会议从事实出发。评审的前十分钟，我们都用在了签署证明流程上。评审演练中，Maria说：\"提前准备永远胜过临时翻找。\"我们互换角色，这次由我来提问。纸上找到的每个缺口，都是提前锁好的门。",
+   "hard": []
   }
  ],
  "chunks": [

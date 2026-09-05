@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 364,
-   "segment_count": 3,
+   "word_count": 429,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We rehearse the worst week: everything encrypted. Our mentor walks me through how the wifi security standard evolved on this team. I compare two views on the rogue access point detection and write both down honestly. During the design review, I raise one careful question about the badge and log correlation. Before deciding, I reread my notes about the clean desk policy check twice. In the review drill, Maria says, \"Bag in front, always.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Hotel safe for passports.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "We rehearse the worst week: everything encrypted. Our mentor walks me through how the wifi security standard evolved on this team. I compare two views on the rogue access point detection and write both down honestly. During the design review, I raise one careful question about the badge and log correlation. Before deciding, I reread my notes about the clean desk policy check twice. In the review drill, Maria says, \"Bag in front, always.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Hotel safe for passports.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "We rehearse the worst week: everything encrypted. Our mentor walks me through how the wifi security standard evolved on this team. I compare two views on the badge and log correlation and write both down honestly. In the review drill, Leo says, \"Bag in front, always.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We rehearse the worst week: everything encrypted. Our mentor walks me through how the wifi security standard evolved on this team. I compare two views on the badge and log correlation and write both down honestly. In the review drill, Leo says, \"Bag in front, always.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们排演最糟的一周：所有东西被加密。导师带我梳理了Wi-Fi 安全标准在这个团队里的演变。我比较了关于伪热点检测的两种观点，诚实地都记了下来。设计评审中，我就门禁与日志关联提出了一个审慎的问题。做决定之前，我把关于桌面清空检查的笔记重读了两遍。评审演练中，Maria说：\"背包永远在前。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"护照住酒店保险柜。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我们排演最糟的一周：所有东西被加密。导师带我梳理了Wi-Fi 安全标准在这个团队里的演变。我比较了关于门禁与日志关联的两种观点，诚实地都记了下来。评审演练中，Leo说：\"背包永远在前。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "wifi security standard",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Immutable backups, offline copies, and a restore race we finish in hours. In the review drill, Maria says, \"Two wallets trick for travel.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The phone strap after one scare.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the physical access log so meetings start from facts. I add the server room access policy to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the printer security review. The team names one clear owner for the guest wifi isolation test. We end the week with something shipped and something properly learned this time.",
-   "tts": "Immutable backups, offline copies, and a restore race we finish in hours. In the review drill, Maria says, \"Two wallets trick for travel.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The phone strap after one scare.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the physical access log so meetings start from facts. I add the server room access policy to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the printer security review. The team names one clear owner for the guest wifi isolation test. We end the week with something shipped and something properly learned this time.",
+   "en": "Immutable backups, offline copies, and a restore race we finish in hours. In the review drill, Priya says, \"Hotel safe for passports.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the rogue access point detection. Before deciding, I reread my notes about the clean desk policy check twice. We end the week with something shipped and something properly learned this time.",
+   "tts": "Immutable backups, offline copies, and a restore race we finish in hours. In the review drill, Priya says, \"Hotel safe for passports.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the rogue access point detection. Before deciding, I reread my notes about the clean desk policy check twice. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "不可变备份、离线副本，还有一场数小时内完成的恢复赛。评审演练中，Maria说：\"旅行双钱包小技巧。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"惊魂一次后上了手机绳。\"我们互换角色，这次由我来提问。我准备了一页关于物理进出记录的简报，好让会议从事实出发。我把机房进出政策连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了打印机安全评审上。团队为访客网络隔离测试指定了明确的负责人。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "不可变备份、离线副本，还有一场数小时内完成的恢复赛。评审演练中，Priya说：\"护照住酒店保险柜。\"我们互换角色，这次由我来提问。设计评审中，我就伪热点检测提出了一个审慎的问题。做决定之前，我把关于桌面清空检查的笔记重读了两遍。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "physical access log",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the asset disposal procedure evolved on this team. I compare two views on the physical entry audit and write both down honestly. During the design review, I raise one careful question about the device inventory audit. Before deciding, I reread my notes about the badge cloning awareness twice. In the review drill, Leo says, \"Room number never spoken aloud.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Luggage tags hide addresses.\" We swap roles so I ask the questions this time. The ransom note finds nothing worth paying for.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the asset disposal procedure evolved on this team. I compare two views on the physical entry audit and write both down honestly. During the design review, I raise one careful question about the device inventory audit. Before deciding, I reread my notes about the badge cloning awareness twice. In the review drill, Leo says, \"Room number never spoken aloud.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Luggage tags hide addresses.\" We swap roles so I ask the questions this time. The ransom note finds nothing worth paying for.",
+   "en": "Immutable backups, offline copies, and a restore race we finish in hours. I prepare a one-page brief about the printer security review so meetings start from facts. I add the physical access log to the meeting agenda with three supporting facts. In the review drill, Maria says, \"Two wallets trick for travel.\" We swap roles so I ask the questions this time. The ransom note finds nothing worth paying for.",
+   "tts": "Immutable backups, offline copies, and a restore race we finish in hours. I prepare a one-page brief about the printer security review so meetings start from facts. I add the physical access log to the meeting agenda with three supporting facts. In the review drill, Maria says, \"Two wallets trick for travel.\" We swap roles so I ask the questions this time. The ransom note finds nothing worth paying for.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了资产处置流程在这个团队里的演变。我比较了关于物理进入审计的两种观点，诚实地都记了下来。设计评审中，我就设备台账审计提出了一个审慎的问题。做决定之前，我把关于门禁卡克隆意识的笔记重读了两遍。评审演练中，Leo说：\"房号不出口。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"行李牌不写家庭住址。\"我们互换角色，这次由我来提问。勒索信找不到任何值得付款的东西。",
+   "zh": "不可变备份、离线副本，还有一场数小时内完成的恢复赛。我准备了一页关于打印机安全评审的简报，好让会议从事实出发。我把物理进出记录连同三条支撑事实加进了议程。评审演练中，Maria说：\"旅行双钱包小技巧。\"我们互换角色，这次由我来提问。勒索信找不到任何值得付款的东西。",
    "hard": [
     {
      "w": "device inventory audit",
@@ -146,6 +146,33 @@
      "def": "物理进入审计，谁进过机房"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The ransom note finds nothing worth paying for. We spend the first ten minutes of the review on the server room access policy. In the review drill, Maria says, \"The phone strap after one scare.\" We swap roles so I ask the questions this time. The team names one clear owner for the guest wifi isolation test. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The ransom note finds nothing worth paying for. We spend the first ten minutes of the review on the server room access policy. In the review drill, Maria says, \"The phone strap after one scare.\" We swap roles so I ask the questions this time. The team names one clear owner for the guest wifi isolation test. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "勒索信找不到任何值得付款的东西。评审的前十分钟，我们都用在了机房进出政策上。评审演练中，Maria说：\"惊魂一次后上了手机绳。\"我们互换角色，这次由我来提问。团队为访客网络隔离测试指定了明确的负责人。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Immutable backups, offline copies, and a restore race we finish in hours. In the review drill, Priya says, \"Room number never spoken aloud.\" We swap roles so I ask the questions this time. Our mentor walks me through how the asset disposal procedure evolved on this team. I compare two views on the device inventory audit and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "tts": "Immutable backups, offline copies, and a restore race we finish in hours. In the review drill, Priya says, \"Room number never spoken aloud.\" We swap roles so I ask the questions this time. Our mentor walks me through how the asset disposal procedure evolved on this team. I compare two views on the device inventory audit and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "不可变备份、离线副本，还有一场数小时内完成的恢复赛。评审演练中，Priya说：\"房号不出口。\"我们互换角色，这次由我来提问。导师带我梳理了资产处置流程在这个团队里的演变。我比较了关于设备台账审计的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the physical entry audit. Before deciding, I reread my notes about the badge cloning awareness twice. In the review drill, Maria says, \"Luggage tags hide addresses.\" We swap roles so I ask the questions this time. The ransom note finds nothing worth paying for.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the physical entry audit. Before deciding, I reread my notes about the badge cloning awareness twice. In the review drill, Maria says, \"Luggage tags hide addresses.\" We swap roles so I ask the questions this time. The ransom note finds nothing worth paying for.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就物理进入审计提出了一个审慎的问题。做决定之前，我把关于门禁卡克隆意识的笔记重读了两遍。评审演练中，Maria说：\"行李牌不写家庭住址。\"我们互换角色，这次由我来提问。勒索信找不到任何值得付款的东西。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 392,
-   "segment_count": 3,
+   "word_count": 453,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The team debates splitting the monolith. I present the event driven architecture with a timeline, the data, and one clear ask. I propose a measurable target for the eventual consistency mindset this quarter. I close the discussion on the event naming registry with a short summary. I put the consumer lag monitoring on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"The notice board posts events, not commands.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Interested residents subscribe themselves.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "The team debates splitting the monolith. I present the event driven architecture with a timeline, the data, and one clear ask. I propose a measurable target for the eventual consistency mindset this quarter. I close the discussion on the event naming registry with a short summary. I put the consumer lag monitoring on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"The notice board posts events, not commands.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Interested residents subscribe themselves.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "The team debates splitting the monolith. I present the event driven architecture with a timeline, the data, and one clear ask. I propose a measurable target for the event naming registry this quarter. In the launch rehearsal, Priya says, \"The notice board posts events, not commands.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "The team debates splitting the monolith. I present the event driven architecture with a timeline, the data, and one clear ask. I propose a measurable target for the event naming registry this quarter. In the launch rehearsal, Priya says, \"The notice board posts events, not commands.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "团队争论要不要拆分单体。我用时间线、数据和一条明确的诉求来汇报事件驱动架构。我为最终一致心态提出了本季度一个可衡量的目标。我用一段简短的总结为事件命名登记处的讨论收尾。我把消费延迟监控记录在案，让推理过程保持可见。上线彩排中，Leo说：\"公告栏播发事件不发号施令。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"感兴趣的住户自己订阅。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "团队争论要不要拆分单体。我用时间线、数据和一条明确的诉求来汇报事件驱动架构。我为事件命名登记处提出了本季度一个可衡量的目标。上线彩排中，Priya说：\"公告栏播发事件不发号施令。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "event driven architecture",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We choose modular monolith: one house, carefully separated rooms. In the launch rehearsal, Leo says, \"Old flyers expire politely.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Missed notices get re posted weekly.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the idempotent consumer design early, so execution never has to guess. We review the dead letter handling policy against the requirements, line by line. The final deck includes the schema evolution rules and what we learned from it. My report covers the replay safety checklist, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "We choose modular monolith: one house, carefully separated rooms. In the launch rehearsal, Leo says, \"Old flyers expire politely.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Missed notices get re posted weekly.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the idempotent consumer design early, so execution never has to guess. We review the dead letter handling policy against the requirements, line by line. The final deck includes the schema evolution rules and what we learned from it. My report covers the replay safety checklist, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "We choose modular monolith: one house, carefully separated rooms. In the launch rehearsal, Maria says, \"Interested residents subscribe themselves.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the eventual consistency mindset with a short summary. I put the consumer lag monitoring on the record so the reasoning stays visible. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "We choose modular monolith: one house, carefully separated rooms. In the launch rehearsal, Maria says, \"Interested residents subscribe themselves.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the eventual consistency mindset with a short summary. I put the consumer lag monitoring on the record so the reasoning stays visible. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们选择模块化单体：一栋房子，房间精心隔开。上线彩排中，Leo说：\"旧传单礼貌地过期。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"错过的公告每周重贴。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就幂等消费者设计对齐，让执行无需猜测。我们逐行对照需求检查了死信处理策略。最终的材料里有事件结构演进规则，以及我们从中学到的东西。我的报告涵盖回放安全清单、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "我们选择模块化单体：一栋房子，房间精心隔开。上线彩排中，Maria说：\"感兴趣的住户自己订阅。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为最终一致心态的讨论收尾。我把消费延迟监控记录在案，让推理过程保持可见。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "idempotent consumer design",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the event volume forecast doc with a timeline, the data, and one clear ask. I propose a measurable target for the poison message quarantine flow this quarter. I close the discussion on the event schema registry with a short summary. I put the outbox integration pattern on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"The board never knocks on doors.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Everyone reads at their own pace.\" To finish, we swap roles and I lead the entire exchange from start to finish. Walls first; moving out can wait.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the event volume forecast doc with a timeline, the data, and one clear ask. I propose a measurable target for the poison message quarantine flow this quarter. I close the discussion on the event schema registry with a short summary. I put the outbox integration pattern on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"The board never knocks on doors.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Everyone reads at their own pace.\" To finish, we swap roles and I lead the entire exchange from start to finish. Walls first; moving out can wait.",
+   "en": "We choose modular monolith: one house, carefully separated rooms. We align on the schema evolution rules early, so execution never has to guess. We review the idempotent consumer design against the requirements, line by line. In the launch rehearsal, Leo says, \"Old flyers expire politely.\" To finish, we swap roles and I lead the entire exchange from start to finish. Walls first; moving out can wait.",
+   "tts": "We choose modular monolith: one house, carefully separated rooms. We align on the schema evolution rules early, so execution never has to guess. We review the idempotent consumer design against the requirements, line by line. In the launch rehearsal, Leo says, \"Old flyers expire politely.\" To finish, we swap roles and I lead the entire exchange from start to finish. Walls first; moving out can wait.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用时间线、数据和一条明确的诉求来汇报事件量预估文档。我为毒消息隔离流程提出了本季度一个可衡量的目标。我用一段简短的总结为事件结构注册处的讨论收尾。我把发件箱集成模式记录在案，让推理过程保持可见。上线彩排中，Priya说：\"公告栏从不挨家敲门。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"大家按自己的节奏看。\"最后我们互换角色，由我从头到尾主导整段对话。先砌墙；搬家可以再等等。",
+   "zh": "我们选择模块化单体：一栋房子，房间精心隔开。我们尽早就事件结构演进规则对齐，让执行无需猜测。我们逐行对照需求检查了幂等消费者设计。上线彩排中，Leo说：\"旧传单礼貌地过期。\"最后我们互换角色，由我从头到尾主导整段对话。先砌墙；搬家可以再等等。",
    "hard": [
     {
      "w": "event schema registry",
@@ -146,6 +146,33 @@
      "def": "毒消息隔离流程，坏信也有病房"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Walls first; moving out can wait. The final deck includes the dead letter handling policy and what we learned from it. In the launch rehearsal, Leo says, \"Missed notices get re posted weekly.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the replay safety checklist, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Walls first; moving out can wait. The final deck includes the dead letter handling policy and what we learned from it. In the launch rehearsal, Leo says, \"Missed notices get re posted weekly.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the replay safety checklist, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "先砌墙；搬家可以再等等。最终的材料里有死信处理策略，以及我们从中学到的东西。上线彩排中，Leo说：\"错过的公告每周重贴。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖回放安全清单、背后的风险，以及等待的代价。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We choose modular monolith: one house, carefully separated rooms. In the launch rehearsal, Maria says, \"The board never knocks on doors.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the event volume forecast doc with a timeline, the data, and one clear ask. I propose a measurable target for the event schema registry this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "We choose modular monolith: one house, carefully separated rooms. In the launch rehearsal, Maria says, \"The board never knocks on doors.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the event volume forecast doc with a timeline, the data, and one clear ask. I propose a measurable target for the event schema registry this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们选择模块化单体：一栋房子，房间精心隔开。上线彩排中，Maria说：\"公告栏从不挨家敲门。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报事件量预估文档。我为事件结构注册处提出了本季度一个可衡量的目标。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the poison message quarantine flow with a short summary. I put the outbox integration pattern on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"Everyone reads at their own pace.\" To finish, we swap roles and I lead the entire exchange from start to finish. Walls first; moving out can wait.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the poison message quarantine flow with a short summary. I put the outbox integration pattern on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"Everyone reads at their own pace.\" To finish, we swap roles and I lead the entire exchange from start to finish. Walls first; moving out can wait.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为毒消息隔离流程的讨论收尾。我把发件箱集成模式记录在案，让推理过程保持可见。上线彩排中，Leo说：\"大家按自己的节奏看。\"最后我们互换角色，由我从头到尾主导整段对话。先砌墙；搬家可以再等等。",
+   "hard": []
   }
  ],
  "chunks": [

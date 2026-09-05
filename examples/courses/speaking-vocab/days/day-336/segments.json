@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 394,
-   "segment_count": 3,
+   "word_count": 453,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We decline a candidate, and she thanks us for the respect. I propose a measurable target for the interview loop design this quarter. I put the work sample exercise design on the record so the reasoning stays visible. We review the shadow then reverse shadow interview against the requirements, line by line. My report covers the interview feedback quality lint, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"We designed questions before meeting.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Same questions, comparable answers.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "We decline a candidate, and she thanks us for the respect. I propose a measurable target for the interview loop design this quarter. I put the work sample exercise design on the record so the reasoning stays visible. We review the shadow then reverse shadow interview against the requirements, line by line. My report covers the interview feedback quality lint, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"We designed questions before meeting.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Same questions, comparable answers.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "We decline a candidate, and she thanks us for the respect. I propose a measurable target for the interview loop design this quarter. I put the shadow then reverse shadow interview on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"We designed questions before meeting.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "We decline a candidate, and she thanks us for the respect. I propose a measurable target for the interview loop design this quarter. I put the shadow then reverse shadow interview on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"We designed questions before meeting.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们婉拒了一位候选人，她却感谢我们的尊重。我为面试流程设计提出了本季度一个可衡量的目标。我把工作样本题设计记录在案，让推理过程保持可见。我们逐行对照需求检查了影子面试到反影子。我的报告涵盖面试反馈质量检查、背后的风险，以及等待的代价。上线彩排中，Leo说：\"见面之前先设计问题。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"同样的问题才有可比的答案。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "我们婉拒了一位候选人，她却感谢我们的尊重。我为面试流程设计提出了本季度一个可衡量的目标。我把影子面试到反影子记录在案，让推理过程保持可见。上线彩排中，Priya说：\"见面之前先设计问题。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "interview loop design",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Detailed feedback, a real timeline, and no ghosting anywhere. In the launch rehearsal, Leo says, \"A trial afternoon beats ten talks.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"References called, twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the structured interview rubric with a short summary. We align on the bias check in debrief early, so execution never has to guess. The final deck includes the panel debrief facilitation and what we learned from it. I present the no hire courtesy standard with a timeline, the data, and one clear ask. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "Detailed feedback, a real timeline, and no ghosting anywhere. In the launch rehearsal, Leo says, \"A trial afternoon beats ten talks.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"References called, twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the structured interview rubric with a short summary. We align on the bias check in debrief early, so execution never has to guess. The final deck includes the panel debrief facilitation and what we learned from it. I present the no hire courtesy standard with a timeline, the data, and one clear ask. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "Detailed feedback, a real timeline, and no ghosting anywhere. In the launch rehearsal, Maria says, \"Same questions, comparable answers.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the work sample exercise design against the requirements, line by line. My report covers the interview feedback quality lint, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Detailed feedback, a real timeline, and no ghosting anywhere. In the launch rehearsal, Maria says, \"Same questions, comparable answers.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the work sample exercise design against the requirements, line by line. My report covers the interview feedback quality lint, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "详细的反馈、真实的时间线，全程没有任何消失。上线彩排中，Leo说：\"试工半天胜过十次面谈。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"推荐人打了两遍。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为结构化面试评分表的讨论收尾。我们尽早就讨论环节偏见检查对齐，让执行无需猜测。最终的材料里有面评讨论主持，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报拒信礼貌标准。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "详细的反馈、真实的时间线，全程没有任何消失。上线彩排中，Maria说：\"同样的问题才有可比的答案。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了工作样本题设计。我的报告涵盖面试反馈质量检查、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "structured interview rubric",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the interviewer calibration sessions this quarter. I put the candidate follow up survey on the record so the reasoning stays visible. We review the candidate experience audit against the requirements, line by line. My report covers the hiring bar calibration, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"The kid had veto power.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Kind rejection letters matter.\" To finish, we swap roles and I lead the entire exchange from start to finish. Rejections ripple further than offers.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the interviewer calibration sessions this quarter. I put the candidate follow up survey on the record so the reasoning stays visible. We review the candidate experience audit against the requirements, line by line. My report covers the hiring bar calibration, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"The kid had veto power.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Kind rejection letters matter.\" To finish, we swap roles and I lead the entire exchange from start to finish. Rejections ripple further than offers.",
+   "en": "Detailed feedback, a real timeline, and no ghosting anywhere. I close the discussion on the panel debrief facilitation with a short summary. We align on the structured interview rubric early, so execution never has to guess. In the launch rehearsal, Leo says, \"A trial afternoon beats ten talks.\" To finish, we swap roles and I lead the entire exchange from start to finish. Rejections ripple further than offers.",
+   "tts": "Detailed feedback, a real timeline, and no ghosting anywhere. I close the discussion on the panel debrief facilitation with a short summary. We align on the structured interview rubric early, so execution never has to guess. In the launch rehearsal, Leo says, \"A trial afternoon beats ten talks.\" To finish, we swap roles and I lead the entire exchange from start to finish. Rejections ripple further than offers.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为面试官校准会提出了本季度一个可衡量的目标。我把候选人跟踪问卷记录在案，让推理过程保持可见。我们逐行对照需求检查了候选人体验审计。我的报告涵盖录用标准校准、背后的风险，以及等待的代价。上线彩排中，Priya说：\"孩子有一票否决。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"温和的拒信也重要。\"最后我们互换角色，由我从头到尾主导整段对话。拒信的涟漪比录用通知传得更远。",
+   "zh": "详细的反馈、真实的时间线，全程没有任何消失。我用一段简短的总结为面评讨论主持的讨论收尾。我们尽早就结构化面试评分表对齐，让执行无需猜测。上线彩排中，Leo说：\"试工半天胜过十次面谈。\"最后我们互换角色，由我从头到尾主导整段对话。拒信的涟漪比录用通知传得更远。",
    "hard": [
     {
      "w": "candidate experience audit",
@@ -146,6 +146,33 @@
      "def": "候选人跟踪问卷，体验改进闭环"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Rejections ripple further than offers. The final deck includes the bias check in debrief and what we learned from it. In the launch rehearsal, Leo says, \"References called, twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the no hire courtesy standard with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Rejections ripple further than offers. The final deck includes the bias check in debrief and what we learned from it. In the launch rehearsal, Leo says, \"References called, twice.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the no hire courtesy standard with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "拒信的涟漪比录用通知传得更远。最终的材料里有讨论环节偏见检查，以及我们从中学到的东西。上线彩排中，Leo说：\"推荐人打了两遍。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报拒信礼貌标准。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Detailed feedback, a real timeline, and no ghosting anywhere. In the launch rehearsal, Maria says, \"The kid had veto power.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the interviewer calibration sessions this quarter. I put the candidate experience audit on the record so the reasoning stays visible. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Detailed feedback, a real timeline, and no ghosting anywhere. In the launch rehearsal, Maria says, \"The kid had veto power.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the interviewer calibration sessions this quarter. I put the candidate experience audit on the record so the reasoning stays visible. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "详细的反馈、真实的时间线，全程没有任何消失。上线彩排中，Maria说：\"孩子有一票否决。\"最后我们互换角色，由我从头到尾主导整段对话。我为面试官校准会提出了本季度一个可衡量的目标。我把候选人体验审计记录在案，让推理过程保持可见。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the candidate follow up survey against the requirements, line by line. My report covers the hiring bar calibration, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Kind rejection letters matter.\" To finish, we swap roles and I lead the entire exchange from start to finish. Rejections ripple further than offers.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the candidate follow up survey against the requirements, line by line. My report covers the hiring bar calibration, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Kind rejection letters matter.\" To finish, we swap roles and I lead the entire exchange from start to finish. Rejections ripple further than offers.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了候选人跟踪问卷。我的报告涵盖录用标准校准、背后的风险，以及等待的代价。上线彩排中，Leo说：\"温和的拒信也重要。\"最后我们互换角色，由我从头到尾主导整段对话。拒信的涟漪比录用通知传得更远。",
+   "hard": []
   }
  ],
  "chunks": [

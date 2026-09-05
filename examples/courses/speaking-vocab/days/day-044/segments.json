@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 295,
-   "segment_count": 3,
+   "word_count": 340,
+   "segment_count": 6,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业表达 · 提炼观点 · 做一次英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We plan a gradual rollout with a feature flag. Before I reply, I look at the error page once more. I add the page not found to my checklist for tomorrow. I keep one real example of the rollback drill in my notes. After that, I reread my notes about the previous build after lunch. Before we move on, Maria says, \"Don't be too hard on yourself.\" I answer, then reuse it in my update. Before we move on, Maria says, \"You're making real progress.\" I answer, then reuse it in my update. The day ends with a clear plan for tomorrow.",
-   "tts": "We plan a gradual rollout with a feature flag. Before I reply, I look at the error page once more. I add the page not found to my checklist for tomorrow. I keep one real example of the rollback drill in my notes. After that, I reread my notes about the previous build after lunch. Before we move on, Maria says, \"Don't be too hard on yourself.\" I answer, then reuse it in my update. Before we move on, Maria says, \"You're making real progress.\" I answer, then reuse it in my update. The day ends with a clear plan for tomorrow.",
+   "en": "We plan a gradual rollout with a feature flag. Before I reply, I look at the error page once more. I add the rollback drill to my checklist for tomorrow. Before we move on, Leo says, \"Don't be too hard on yourself.\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
+   "tts": "We plan a gradual rollout with a feature flag. Before I reply, I look at the error page once more. I add the rollback drill to my checklist for tomorrow. Before we move on, Leo says, \"Don't be too hard on yourself.\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们计划用功能开关做渐进发布。回复之前，我又看了一遍错误页面。我把页面未找到加进了明天的清单。我在笔记里留了一个回滚演练的真实例子。在那之后，午饭后我重读了关于上一个构建的笔记。继续之前，Maria说：\"别对自己太苛刻。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"你真的在进步。\"我回答，然后把它用进了自己的汇报。这一天以一份清晰的明日计划结束。",
+   "zh": "我们计划用功能开关做渐进发布。回复之前，我又看了一遍错误页面。我把回滚演练加进了明天的清单。继续之前，Leo说：\"别对自己太苛刻。\"我清楚地回答，并记下了这个说法。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "error page",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "First the team, then five percent of users, then everyone. Before we move on, Priya says, \"Everyone starts somewhere.\" I answer, and we compare notes. Before we move on, Priya says, \"I believe in you.\" I answer, and we compare notes. After that, I go through the try again button with Priya and note her advice. We spend a few minutes on the support link at the standup. I double-check the restore point before the review. After a short break, I walk a new teammate through the incident channel. I check my notes and confirm the next step.",
-   "tts": "First the team, then five percent of users, then everyone. Before we move on, Priya says, \"Everyone starts somewhere.\" I answer, and we compare notes. Before we move on, Priya says, \"I believe in you.\" I answer, and we compare notes. After that, I go through the try again button with Priya and note her advice. We spend a few minutes on the support link at the standup. I double-check the restore point before the review. After a short break, I walk a new teammate through the incident channel. I check my notes and confirm the next step.",
+   "en": "First the team, then five percent of users, then everyone. Before we move on, Maria says, \"You're making real progress.\" I answer, then reuse it in my update. I keep one real example of the page not found in my notes. I reread my notes about the previous build after lunch. I check my notes and confirm the next step.",
+   "tts": "First the team, then five percent of users, then everyone. Before we move on, Maria says, \"You're making real progress.\" I answer, then reuse it in my update. I keep one real example of the page not found in my notes. I reread my notes about the previous build after lunch. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "先给团队，再给百分之五的用户，最后全面开放。继续之前，Priya说：\"每个人都是从零开始的。\"我回答，我们互相对了笔记。继续之前，Priya说：\"我相信你可以。\"我回答，我们互相对了笔记。在那之后，我和 Priya 过了一遍重试按钮，记下了她的建议。站会上我们花了几分钟讨论支持链接。评审之前，我再核对一遍还原点。稍作休息后，我带一位新队友过了一遍事件频道。我检查笔记，确认了下一步。",
+   "zh": "先给团队，再给百分之五的用户，最后全面开放。继续之前，Maria说：\"你真的在进步。\"我回答，然后把它用进了自己的汇报。我在笔记里留了一个页面未找到的真实例子。午饭后我重读了关于上一个构建的笔记。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "try again button",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. During the review, I ask one question about the post-mortem doc. After a short break, I suggest that we check the action item first. Before I reply, I look at the error code once more. I add the friendly message to my checklist for tomorrow. Before we move on, Priya says, \"One step at a time.\" I answer, and we compare notes. Before we move on, Priya says, \"You'll get there.\" I answer, and we compare notes. A kill switch makes brave plans safe.",
-   "tts": "Before I leave, I write a short summary for the team. During the review, I ask one question about the post-mortem doc. After a short break, I suggest that we check the action item first. Before I reply, I look at the error code once more. I add the friendly message to my checklist for tomorrow. Before we move on, Priya says, \"One step at a time.\" I answer, and we compare notes. Before we move on, Priya says, \"You'll get there.\" I answer, and we compare notes. A kill switch makes brave plans safe.",
+   "en": "First the team, then five percent of users, then everyone. I go through the restore point with Priya and note her advice. We spend a few minutes on the try again button at the standup. Before we move on, Priya says, \"Everyone starts somewhere.\" I answer, and we compare notes. A kill switch makes brave plans safe.",
+   "tts": "First the team, then five percent of users, then everyone. I go through the restore point with Priya and note her advice. We spend a few minutes on the try again button at the standup. Before we move on, Priya says, \"Everyone starts somewhere.\" I answer, and we compare notes. A kill switch makes brave plans safe.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。评审时，我就复盘文档提了一个问题。稍作休息后，我建议我们先检查行动项。回复之前，我又看了一遍错误代码。我把友好提示加进了明天的清单。继续之前，Priya说：\"一步一步来。\"我回答，我们互相对了笔记。继续之前，Priya说：\"你会做到的。\"我回答，我们互相对了笔记。紧急开关让大胆的计划变得安全。",
+   "zh": "先给团队，再给百分之五的用户，最后全面开放。我和 Priya 过了一遍还原点，记下了她的建议。站会上我们花了几分钟讨论重试按钮。继续之前，Priya说：\"每个人都是从零开始的。\"我回答，我们互相对了笔记。紧急开关让大胆的计划变得安全。",
    "hard": [
     {
      "w": "error code",
@@ -146,6 +146,33 @@
      "def": "行动项，复盘后要落实的具体任务"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "A kill switch makes brave plans safe. After that, I double-check the support link before the review. Before we move on, Maria says, \"I believe in you.\" I answer, then reuse it in my update. I walk a new teammate through the incident channel. The day ends with a clear plan for tomorrow.",
+   "tts": "A kill switch makes brave plans safe. After that, I double-check the support link before the review. Before we move on, Maria says, \"I believe in you.\" I answer, then reuse it in my update. I walk a new teammate through the incident channel. The day ends with a clear plan for tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "紧急开关让大胆的计划变得安全。在那之后，评审之前，我再核对一遍支持链接。继续之前，Maria说：\"我相信你可以。\"我回答，然后把它用进了自己的汇报。我带一位新队友过了一遍事件频道。这一天以一份清晰的明日计划结束。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "First the team, then five percent of users, then everyone. Before we move on, Maria says, \"One step at a time.\" I answer, then reuse it in my update. During the review, I ask one question about the post-mortem doc. I suggest that we check the error code first. I check my notes and confirm the next step.",
+   "tts": "First the team, then five percent of users, then everyone. Before we move on, Maria says, \"One step at a time.\" I answer, then reuse it in my update. During the review, I ask one question about the post-mortem doc. I suggest that we check the error code first. I check my notes and confirm the next step.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "先给团队，再给百分之五的用户，最后全面开放。继续之前，Maria说：\"一步一步来。\"我回答，然后把它用进了自己的汇报。评审时，我就复盘文档提了一个问题。我建议我们先检查错误代码。我检查笔记，确认了下一步。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I write a short summary for the team. Before I reply, I look at the action item once more. I add the friendly message to my checklist for tomorrow. Before we move on, Priya says, \"You'll get there.\" I answer, and we compare notes. A kill switch makes brave plans safe.",
+   "tts": "Before I leave, I write a short summary for the team. Before I reply, I look at the action item once more. I add the friendly message to my checklist for tomorrow. Before we move on, Priya says, \"You'll get there.\" I answer, and we compare notes. A kill switch makes brave plans safe.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队写了一份简短的总结。回复之前，我又看了一遍行动项。我把友好提示加进了明天的清单。继续之前，Priya说：\"你会做到的。\"我回答，我们互相对了笔记。紧急开关让大胆的计划变得安全。",
+   "hard": []
   }
  ],
  "chunks": [

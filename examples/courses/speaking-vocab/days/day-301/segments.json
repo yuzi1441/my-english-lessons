@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 401,
-   "segment_count": 3,
+   "word_count": 479,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Month eleven opens with Maria handing me a strange gift: a small architect hat. I propose a measurable target for the architecture review board this quarter. We align on the design doc template early, so execution never has to guess. The final deck includes the design doc review ritual and what we learned from it. We review the alternatives considered honestly against the requirements, line by line. In the launch rehearsal, Priya says, \"We check which walls carry load.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The old wiring gets a plan.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "Month eleven opens with Maria handing me a strange gift: a small architect hat. I propose a measurable target for the architecture review board this quarter. We align on the design doc template early, so execution never has to guess. The final deck includes the design doc review ritual and what we learned from it. We review the alternatives considered honestly against the requirements, line by line. In the launch rehearsal, Priya says, \"We check which walls carry load.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The old wiring gets a plan.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "Month eleven opens with Maria handing me a strange gift: a small architect hat. I propose a measurable target for the architecture review board this quarter. We align on the design doc review ritual early, so execution never has to guess. In the launch rehearsal, Maria says, \"We check which walls carry load.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Month eleven opens with Maria handing me a strange gift: a small architect hat. I propose a measurable target for the architecture review board this quarter. We align on the design doc review ritual early, so execution never has to guess. In the launch rehearsal, Maria says, \"We check which walls carry load.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第十一个月以一种庄重的开场开始：Maria 送我一顶小小的建筑师帽。我为架构评审会提出了本季度一个可衡量的目标。我们尽早就设计文档模板对齐，让执行无需猜测。最终的材料里有设计文档评审仪式，以及我们从中学到的东西。我们逐行对照需求检查了诚实考虑过的备选。上线彩排中，Priya说：\"我们查哪些墙承重。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"老旧线路有了改造计划。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "第十一个月以一种庄重的开场开始：Maria 送我一顶小小的建筑师帽。我为架构评审会提出了本季度一个可衡量的目标。我们尽早就设计文档评审仪式对齐，让执行无需猜测。上线彩排中，Maria说：\"我们查哪些墙承重。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "architecture review board",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "\"You will still write code,\" she says, \"but now you draw the map first.\" In the launch rehearsal, Priya says, \"Renovation budget has surprises.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"We renovate one room at a time.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the trade off table with a short summary. I put the load bearing decision on the record so the reasoning stays visible. I present the consequences section first with a timeline, the data, and one clear ask. My report covers the decision record discipline, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "\"You will still write code,\" she says, \"but now you draw the map first.\" In the launch rehearsal, Priya says, \"Renovation budget has surprises.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"We renovate one room at a time.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the trade off table with a short summary. I put the load bearing decision on the record so the reasoning stays visible. I present the consequences section first with a timeline, the data, and one clear ask. My report covers the decision record discipline, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "\"You will still write code,\" she says, \"but now you draw the map first.\" In the launch rehearsal, Leo says, \"The old wiring gets a plan.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the design doc template and what we learned from it. We review the alternatives considered honestly against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "\"You will still write code,\" she says, \"but now you draw the map first.\" In the launch rehearsal, Leo says, \"The old wiring gets a plan.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the design doc template and what we learned from it. We review the alternatives considered honestly against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "她说：“你仍然写代码，但现在要先画地图。”上线彩排中，Priya说：\"装修预算总有惊喜。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"一次只翻新一间房。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为取舍对照表的讨论收尾。我把承重决策记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报后果段落前置。我的报告涵盖决策记录纪律、背后的风险，以及等待的代价。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "她说：“你仍然写代码，但现在要先画地图。”上线彩排中，Leo说：\"老旧线路有了改造计划。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有设计文档模板，以及我们从中学到的东西。我们逐行对照需求检查了诚实考虑过的备选。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "trade off table",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the architectureGuild office hours this quarter. We align on the adr index by domain early, so execution never has to guess. The final deck includes the reversibility rating and what we learned from it. We review the architectural runway against the requirements, line by line. In the launch rehearsal, Maria says, \"The blueprint beats enthusiasm.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Old houses reward patience.\" To finish, we swap roles and I lead the entire exchange from start to finish. The hat is too small and the responsibility is not.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the architectureGuild office hours this quarter. We align on the adr index by domain early, so execution never has to guess. The final deck includes the reversibility rating and what we learned from it. We review the architectural runway against the requirements, line by line. In the launch rehearsal, Maria says, \"The blueprint beats enthusiasm.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Old houses reward patience.\" To finish, we swap roles and I lead the entire exchange from start to finish. The hat is too small and the responsibility is not.",
+   "en": "\"You will still write code,\" she says, \"but now you draw the map first.\" I close the discussion on the consequences section first with a short summary. I put the trade off table on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"Renovation budget has surprises.\" To finish, we swap roles and I lead the entire exchange from start to finish. The hat is too small and the responsibility is not.",
+   "tts": "\"You will still write code,\" she says, \"but now you draw the map first.\" I close the discussion on the consequences section first with a short summary. I put the trade off table on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"Renovation budget has surprises.\" To finish, we swap roles and I lead the entire exchange from start to finish. The hat is too small and the responsibility is not.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为架构公会答疑时间提出了本季度一个可衡量的目标。我们尽早就按领域索引的决策记录对齐，让执行无需猜测。最终的材料里有可逆性评级，以及我们从中学到的东西。我们逐行对照需求检查了架构跑道。上线彩排中，Maria说：\"图纸胜过一时热情。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"老房子回报耐心。\"最后我们互换角色，由我从头到尾主导整段对话。帽子太小，责任不小。",
+   "zh": "她说：“你仍然写代码，但现在要先画地图。”我用一段简短的总结为后果段落前置的讨论收尾。我把取舍对照表记录在案，让推理过程保持可见。上线彩排中，Priya说：\"装修预算总有惊喜。\"最后我们互换角色，由我从头到尾主导整段对话。帽子太小，责任不小。",
    "hard": [
     {
      "w": "reversibility rating",
@@ -146,6 +146,33 @@
      "def": "按领域索引的决策记录，历史可查"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The hat is too small and the responsibility is not. I present the load bearing decision with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"We renovate one room at a time.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the decision record discipline, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The hat is too small and the responsibility is not. I present the load bearing decision with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"We renovate one room at a time.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the decision record discipline, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "帽子太小，责任不小。我用时间线、数据和一条明确的诉求来汇报承重决策。上线彩排中，Priya说：\"一次只翻新一间房。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖决策记录纪律、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "\"You will still write code,\" she says, \"but now you draw the map first.\" In the launch rehearsal, Leo says, \"The blueprint beats enthusiasm.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the architectureGuild office hours this quarter. We align on the reversibility rating early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "\"You will still write code,\" she says, \"but now you draw the map first.\" In the launch rehearsal, Leo says, \"The blueprint beats enthusiasm.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the architectureGuild office hours this quarter. We align on the reversibility rating early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "她说：“你仍然写代码，但现在要先画地图。”上线彩排中，Leo说：\"图纸胜过一时热情。\"最后我们互换角色，由我从头到尾主导整段对话。我为架构公会答疑时间提出了本季度一个可衡量的目标。我们尽早就可逆性评级对齐，让执行无需猜测。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the adr index by domain and what we learned from it. We review the architectural runway against the requirements, line by line. In the launch rehearsal, Priya says, \"Old houses reward patience.\" To finish, we swap roles and I lead the entire exchange from start to finish. The hat is too small and the responsibility is not.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the adr index by domain and what we learned from it. We review the architectural runway against the requirements, line by line. In the launch rehearsal, Priya says, \"Old houses reward patience.\" To finish, we swap roles and I lead the entire exchange from start to finish. The hat is too small and the responsibility is not.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。最终的材料里有按领域索引的决策记录，以及我们从中学到的东西。我们逐行对照需求检查了架构跑道。上线彩排中，Priya说：\"老房子回报耐心。\"最后我们互换角色，由我从头到尾主导整段对话。帽子太小，责任不小。",
+   "hard": []
   }
  ],
  "chunks": [

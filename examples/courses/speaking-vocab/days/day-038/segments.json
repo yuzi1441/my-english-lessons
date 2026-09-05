@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 293,
-   "segment_count": 3,
+   "word_count": 336,
+   "segment_count": 6,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业表达 · 提炼观点 · 做一次英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Two days pass with no review comments. After a short break, I go through the time zone with Priya and note her advice. I suggest that we check the timestamp first. I walk a new teammate through the what and why. After that, I double-check the screenshots before the review. Before we move on, Maria says, \"I'm stuck in traffic.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I'll be ten minutes late.\" I answer, then reuse it in my update. The day ends with a clear plan for tomorrow.",
-   "tts": "Two days pass with no review comments. After a short break, I go through the time zone with Priya and note her advice. I suggest that we check the timestamp first. I walk a new teammate through the what and why. After that, I double-check the screenshots before the review. Before we move on, Maria says, \"I'm stuck in traffic.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I'll be ten minutes late.\" I answer, then reuse it in my update. The day ends with a clear plan for tomorrow.",
+   "en": "Two days pass with no review comments. After a short break, I go through the time zone with Priya and note her advice. I suggest that we check the what and why first. Before we move on, Leo says, \"I'm stuck in traffic.\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
+   "tts": "Two days pass with no review comments. After a short break, I go through the time zone with Priya and note her advice. I suggest that we check the what and why first. Before we move on, Leo says, \"I'm stuck in traffic.\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "两天过去了，没有任何评审意见。稍作休息后，我和 Priya 过了一遍时区，记下了她的建议。我建议我们先检查时间戳。我带一位新队友过了一遍改动与原因。在那之后，评审之前，我再核对一遍界面截图。继续之前，Maria说：\"我被堵在路上了。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我会迟到十分钟。\"我回答，然后把它用进了自己的汇报。这一天以一份清晰的明日计划结束。",
+   "zh": "两天过去了，没有任何评审意见。稍作休息后，我和 Priya 过了一遍时区，记下了她的建议。我建议我们先检查改动与原因。继续之前，Leo说：\"我被堵在路上了。\"我清楚地回答，并记下了这个说法。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "time zone",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I ask politely instead of waiting silently. Before we move on, Priya says, \"Please go ahead without me.\" I answer, and we compare notes. Before we move on, Priya says, \"Thanks for waiting for me.\" I answer, and we compare notes. Before I reply, I look at the date format once more. I reread my notes about the countdown after lunch. I add the testing notes to my checklist for tomorrow. After a short break, We spend a few minutes on the breaking change notice at the standup. I check my notes and confirm the next step.",
-   "tts": "I ask politely instead of waiting silently. Before we move on, Priya says, \"Please go ahead without me.\" I answer, and we compare notes. Before we move on, Priya says, \"Thanks for waiting for me.\" I answer, and we compare notes. Before I reply, I look at the date format once more. I reread my notes about the countdown after lunch. I add the testing notes to my checklist for tomorrow. After a short break, We spend a few minutes on the breaking change notice at the standup. I check my notes and confirm the next step.",
+   "en": "I ask politely instead of waiting silently. Before we move on, Maria says, \"I'll be ten minutes late.\" I answer, then reuse it in my update. I walk a new teammate through the timestamp. I double-check the screenshots before the review. I check my notes and confirm the next step.",
+   "tts": "I ask politely instead of waiting silently. Before we move on, Maria says, \"I'll be ten minutes late.\" I answer, then reuse it in my update. I walk a new teammate through the timestamp. I double-check the screenshots before the review. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我没有默默等待，而是礼貌地问了问。继续之前，Priya说：\"请各位先开始\"我回答，我们互相对了笔记。继续之前，Priya说：\"谢谢你们等我。\"我回答，我们互相对了笔记。回复之前，我又看了一遍日期格式。午饭后我重读了关于倒计时的笔记。我把测试说明加进了明天的清单。稍作休息后，站会上我们花了几分钟讨论破坏性变更声明。我检查笔记，确认了下一步。",
+   "zh": "我没有默默等待，而是礼貌地问了问。继续之前，Maria说：\"我会迟到十分钟。\"我回答，然后把它用进了自己的汇报。我带一位新队友过了一遍时间戳。评审之前，我再核对一遍界面截图。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "date format",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. During the review, I ask one question about the related issues. After a short break, I keep one real example of the checklist item in my notes. I go through the local time with Priya and note her advice. If we schedule a job, the result should be safe. Before we move on, Priya says, \"The meeting ran over.\" I answer, and we compare notes. Before we move on, Priya says, \"Let's reschedule to tomorrow.\" I answer, and we compare notes. The reviewer thanks me and starts that afternoon.",
-   "tts": "Before I leave, I write a short summary for the team. During the review, I ask one question about the related issues. After a short break, I keep one real example of the checklist item in my notes. I go through the local time with Priya and note her advice. If we schedule a job, the result should be safe. Before we move on, Priya says, \"The meeting ran over.\" I answer, and we compare notes. Before we move on, Priya says, \"Let's reschedule to tomorrow.\" I answer, and we compare notes. The reviewer thanks me and starts that afternoon.",
+   "en": "I ask politely instead of waiting silently. Before I reply, I look at the testing notes once more. I reread my notes about the date format after lunch. Before we move on, Priya says, \"Please go ahead without me.\" I answer, and we compare notes. The reviewer thanks me and starts that afternoon.",
+   "tts": "I ask politely instead of waiting silently. Before I reply, I look at the testing notes once more. I reread my notes about the date format after lunch. Before we move on, Priya says, \"Please go ahead without me.\" I answer, and we compare notes. The reviewer thanks me and starts that afternoon.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。评审时，我就关联问题单提了一个问题。稍作休息后，我在笔记里留了一个检查项的真实例子。我和 Priya 过了一遍本地时间，记下了她的建议。如果我们调度任务，结果应该是安全的。继续之前，Priya说：\"会议拖堂了。\"我回答，我们互相对了笔记。继续之前，Priya说：\"我们改到明天吧。\"我回答，我们互相对了笔记。评审人向我道谢，当天下午就开始看了。",
+   "zh": "我没有默默等待，而是礼貌地问了问。回复之前，我又看了一遍测试说明。午饭后我重读了关于日期格式的笔记。继续之前，Priya说：\"请各位先开始\"我回答，我们互相对了笔记。评审人向我道谢，当天下午就开始看了。",
    "hard": [
     {
      "w": "local time",
@@ -146,6 +146,33 @@
      "def": "检查项，PR 模板里逐项确认的小任务"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The reviewer thanks me and starts that afternoon. After that, I add the countdown to my checklist for tomorrow. Before we move on, Maria says, \"Thanks for waiting for me.\" I answer, then reuse it in my update. We spend a few minutes on the breaking change notice at the standup. The day ends with a clear plan for tomorrow.",
+   "tts": "The reviewer thanks me and starts that afternoon. After that, I add the countdown to my checklist for tomorrow. Before we move on, Maria says, \"Thanks for waiting for me.\" I answer, then reuse it in my update. We spend a few minutes on the breaking change notice at the standup. The day ends with a clear plan for tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "评审人向我道谢，当天下午就开始看了。在那之后，我把倒计时加进了明天的清单。继续之前，Maria说：\"谢谢你们等我。\"我回答，然后把它用进了自己的汇报。站会上我们花了几分钟讨论破坏性变更声明。这一天以一份清晰的明日计划结束。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "I ask politely instead of waiting silently. Before we move on, Maria says, \"The meeting ran over.\" I answer, then reuse it in my update. During the review, I ask one question about the related issues. I keep one real example of the local time in my notes. I check my notes and confirm the next step.",
+   "tts": "I ask politely instead of waiting silently. Before we move on, Maria says, \"The meeting ran over.\" I answer, then reuse it in my update. During the review, I ask one question about the related issues. I keep one real example of the local time in my notes. I check my notes and confirm the next step.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我没有默默等待，而是礼貌地问了问。继续之前，Maria说：\"会议拖堂了。\"我回答，然后把它用进了自己的汇报。评审时，我就关联问题单提了一个问题。我在笔记里留了一个本地时间的真实例子。我检查笔记，确认了下一步。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I write a short summary for the team. I go through the checklist item with Priya and note her advice. If we schedule a job, the result should be safe. Before we move on, Priya says, \"Let's reschedule to tomorrow.\" I answer, and we compare notes. The reviewer thanks me and starts that afternoon.",
+   "tts": "Before I leave, I write a short summary for the team. I go through the checklist item with Priya and note her advice. If we schedule a job, the result should be safe. Before we move on, Priya says, \"Let's reschedule to tomorrow.\" I answer, and we compare notes. The reviewer thanks me and starts that afternoon.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队写了一份简短的总结。我和 Priya 过了一遍检查项，记下了她的建议。如果我们调度任务，结果应该是安全的。继续之前，Priya说：\"我们改到明天吧。\"我回答，我们互相对了笔记。评审人向我道谢，当天下午就开始看了。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 409,
-   "segment_count": 3,
+   "word_count": 477,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The platform team paves a golden path from repo to production. I present the cross team architecture sync with a timeline, the data, and one clear ask. I put the interface owner pairing on the record so the reasoning stays visible. My report covers the shared adr reading group, the risks behind it, and the cost of waiting. We align on the boundary owner registry early, so execution never has to guess. In the launch rehearsal, Priya says, \"Two buildings share one driveway.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Repairs need both committees' signatures.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "The platform team paves a golden path from repo to production. I present the cross team architecture sync with a timeline, the data, and one clear ask. I put the interface owner pairing on the record so the reasoning stays visible. My report covers the shared adr reading group, the risks behind it, and the cost of waiting. We align on the boundary owner registry early, so execution never has to guess. In the launch rehearsal, Priya says, \"Two buildings share one driveway.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Repairs need both committees' signatures.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "The platform team paves a golden path from repo to production. I present the cross team architecture sync with a timeline, the data, and one clear ask. I put the shared adr reading group on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"Two buildings share one driveway.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The platform team paves a golden path from repo to production. I present the cross team architecture sync with a timeline, the data, and one clear ask. I put the shared adr reading group on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"Two buildings share one driveway.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "平台团队铺了一条从仓库到生产的黄金大道。我用时间线、数据和一条明确的诉求来汇报跨团队架构同步会。我把接口负责人结对记录在案，让推理过程保持可见。我的报告涵盖共享 ADR 读书会、背后的风险，以及等待的代价。我们尽早就边界负责人登记处对齐，让执行无需猜测。上线彩排中，Priya说：\"两栋楼共用一条车道。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"维修需要两边业委会签字。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "平台团队铺了一条从仓库到生产的黄金大道。我用时间线、数据和一条明确的诉求来汇报跨团队架构同步会。我把共享 ADR 读书会记录在案，让推理过程保持可见。上线彩排中，Maria说：\"两栋楼共用一条车道。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "cross team architecture sync",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One command scaffolds a service with dashboards and alarms included. In the launch rehearsal, Priya says, \"The shared gate got one remote, then two.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Shared costs split by traffic count.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the shared service council against the requirements, line by line. The final deck includes the dependency upgrade coalition and what we learned from it. I propose a measurable target for the cross team spike days this quarter. I close the discussion on the integration freeze calendar with a short summary. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "One command scaffolds a service with dashboards and alarms included. In the launch rehearsal, Priya says, \"The shared gate got one remote, then two.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Shared costs split by traffic count.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the shared service council against the requirements, line by line. The final deck includes the dependency upgrade coalition and what we learned from it. I propose a measurable target for the cross team spike days this quarter. I close the discussion on the integration freeze calendar with a short summary. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "One command scaffolds a service with dashboards and alarms included. In the launch rehearsal, Leo says, \"Repairs need both committees' signatures.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the interface owner pairing, the risks behind it, and the cost of waiting. We align on the boundary owner registry early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "One command scaffolds a service with dashboards and alarms included. In the launch rehearsal, Leo says, \"Repairs need both committees' signatures.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the interface owner pairing, the risks behind it, and the cost of waiting. We align on the boundary owner registry early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一条命令生成服务，自带看板和告警。上线彩排中，Priya说：\"共用大门的遥控器从一把变两把。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"费用按车流次数分摊。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了共享服务理事会。最终的材料里有依赖升级联盟，以及我们从中学到的东西。我为跨团队探针日提出了本季度一个可衡量的目标。我用一段简短的总结为集成冻结日历的讨论收尾。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "一条命令生成服务，自带看板和告警。上线彩排中，Leo说：\"维修需要两边业委会签字。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖接口负责人结对、背后的风险，以及等待的代价。我们尽早就边界负责人登记处对齐，让执行无需猜测。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "shared service council",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the joint postmortem sessions with a timeline, the data, and one clear ask. I put the architecture newsletter cross post on the record so the reasoning stays visible. My report covers the architecture decision feed, the risks behind it, and the cost of waiting. We align on the federated design review early, so execution never has to guess. In the launch rehearsal, Maria says, \"Joint maintenance beats ping pong fixes.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The driveway charter is one page.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the joint postmortem sessions with a timeline, the data, and one clear ask. I put the architecture newsletter cross post on the record so the reasoning stays visible. My report covers the architecture decision feed, the risks behind it, and the cost of waiting. We align on the federated design review early, so execution never has to guess. In the launch rehearsal, Maria says, \"Joint maintenance beats ping pong fixes.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The driveway charter is one page.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
+   "en": "One command scaffolds a service with dashboards and alarms included. We review the cross team spike days against the requirements, line by line. The final deck includes the shared service council and what we learned from it. In the launch rehearsal, Priya says, \"The shared gate got one remote, then two.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
+   "tts": "One command scaffolds a service with dashboards and alarms included. We review the cross team spike days against the requirements, line by line. The final deck includes the shared service council and what we learned from it. In the launch rehearsal, Priya says, \"The shared gate got one remote, then two.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用时间线、数据和一条明确的诉求来汇报联合复盘会。我把架构通讯互转记录在案，让推理过程保持可见。我的报告涵盖架构决策信息流、背后的风险，以及等待的代价。我们尽早就联邦式设计评审对齐，让执行无需猜测。上线彩排中，Maria说：\"共同养护胜过踢皮球式修补。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"车道章程只有一页。\"最后我们互换角色，由我从头到尾主导整段对话。铺好的路赢了，因为它真的好走。",
+   "zh": "一条命令生成服务，自带看板和告警。我们逐行对照需求检查了跨团队探针日。最终的材料里有共享服务理事会，以及我们从中学到的东西。上线彩排中，Priya说：\"共用大门的遥控器从一把变两把。\"最后我们互换角色，由我从头到尾主导整段对话。铺好的路赢了，因为它真的好走。",
    "hard": [
     {
      "w": "architecture decision feed",
@@ -146,6 +146,33 @@
      "def": "架构通讯互转，我的教训你预习"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The paved road won because it is genuinely nicer. I propose a measurable target for the dependency upgrade coalition this quarter. In the launch rehearsal, Priya says, \"Shared costs split by traffic count.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the integration freeze calendar with a short summary. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The paved road won because it is genuinely nicer. I propose a measurable target for the dependency upgrade coalition this quarter. In the launch rehearsal, Priya says, \"Shared costs split by traffic count.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the integration freeze calendar with a short summary. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "铺好的路赢了，因为它真的好走。我为依赖升级联盟提出了本季度一个可衡量的目标。上线彩排中，Priya说：\"费用按车流次数分摊。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为集成冻结日历的讨论收尾。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "One command scaffolds a service with dashboards and alarms included. In the launch rehearsal, Leo says, \"Joint maintenance beats ping pong fixes.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the joint postmortem sessions with a timeline, the data, and one clear ask. I put the architecture decision feed on the record so the reasoning stays visible. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "One command scaffolds a service with dashboards and alarms included. In the launch rehearsal, Leo says, \"Joint maintenance beats ping pong fixes.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the joint postmortem sessions with a timeline, the data, and one clear ask. I put the architecture decision feed on the record so the reasoning stays visible. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "一条命令生成服务，自带看板和告警。上线彩排中，Leo说：\"共同养护胜过踢皮球式修补。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报联合复盘会。我把架构决策信息流记录在案，让推理过程保持可见。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the architecture newsletter cross post, the risks behind it, and the cost of waiting. We align on the federated design review early, so execution never has to guess. In the launch rehearsal, Priya says, \"The driveway charter is one page.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the architecture newsletter cross post, the risks behind it, and the cost of waiting. We align on the federated design review early, so execution never has to guess. In the launch rehearsal, Priya says, \"The driveway charter is one page.\" To finish, we swap roles and I lead the entire exchange from start to finish. The paved road won because it is genuinely nicer.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖架构通讯互转、背后的风险，以及等待的代价。我们尽早就联邦式设计评审对齐，让执行无需猜测。上线彩排中，Priya说：\"车道章程只有一页。\"最后我们互换角色，由我从头到尾主导整段对话。铺好的路赢了，因为它真的好走。",
+   "hard": []
   }
  ],
  "chunks": [

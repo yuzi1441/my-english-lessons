@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 257,
+   "word_count": 205,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A new issue comes in. The team asks who can take it. I ask one question about the HTTP request. After a short break, I write a short note about the HTTP response. Leo shows me an example of the assignee. I need to assign an issue before lunch. Then Priya asks, \"Where is the check-in counter?\" I think for a second, then answer. Then Priya says, \"I'd like an aisle seat.\" I think for a second, then answer. The team gives me good advice.",
-   "tts": "A new issue comes in. The team asks who can take it. I ask one question about the H T T P request. After a short break, I write a short note about the H T T P response. Leo shows me an example of the assignee. I need to assign an issue before lunch. Then Priya asks, \"Where is the check-in counter?\" I think for a second, then answer. Then Priya says, \"I'd like an aisle seat.\" I think for a second, then answer. The team gives me good advice.",
+   "en": "Day thirteen enters web communication. \"An HTTP request goes from client to server,\" Maria says. \"An HTTP response comes back. The status code tells you the result. Request headers carry metadata. The response body carries the data. A GET request reads data.\" I take notes. Later, at the airport for a business trip: \"Where is the check-in counter?\" I ask. \"I'd like an aisle seat.\" \"Where is the security check?\" \"What gate is it?\"",
+   "tts": "Day thirteen enters web communication. \"An H T T P request goes from client to server,\" Maria says. \"An H T T P response comes back. The status code tells you the result. Request headers carry metadata. The response body carries the data. A GET request reads data.\" I take notes. Later, at the airport for a business trip: \"Where is the check-in counter?\" I ask. \"I'd like an aisle seat.\" \"Where is the security check?\" \"What gate is it?\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个新的问题单进来了。团队问谁能负责。我问了一个关于HTTP 请求的问题。稍作休息后，我给HTTP 响应写了一条简短的笔记。Leo 给我看了一个负责人的例子。午饭前，我需要分配问题单。接着Priya问：\"值机柜台在哪里？\"我想了一下，然后回答。接着Priya说：\"我想要靠过道的座位。\"我想了一下，然后回答。团队给了我很好的建议。",
+   "zh": "第十三天进入网络通信。\"HTTP 请求从客户端发到服务器，\"Maria 说。\"HTTP 响应返回来。状态码告诉你结果。请求头携带元数据。响应体携带数据。GET 请求读取数据。\"我做笔记。后来，出差到机场：\"值机柜台在哪里？\"我问。\"我想要靠过道的座位。\"\"安检在哪里？\"\"哪个登机口？\"",
    "hard": [
     {
      "w": "HTTP request",
@@ -46,36 +46,6 @@
      "def": "HTTP 响应，服务器返回给客户端的结果"
     },
     {
-     "w": "Where is the check-in counter?",
-     "type": "term",
-     "def": "值机柜台在哪里？"
-    },
-    {
-     "w": "I'd like an aisle seat.",
-     "type": "term",
-     "def": "我想要靠过道的座位。"
-    },
-    {
-     "w": "assignee",
-     "type": "term",
-     "def": "负责人，被指定处理事项的人"
-    },
-    {
-     "w": "assign an issue",
-     "type": "term",
-     "def": "分配问题单，把事项交给某个人处理"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "Leo goes to the airport. His flight is delayed. Then Leo asks, \"Where is the security check?\" I answer as best I can. Then Leo asks, \"What gate is it?\" I answer as best I can. Maria explains the status code to me. After that, I read the short guide about the request header twice. I mention a teammate, and Maria checks it. I learn about the team mention because it is useful. The day is busy, but I learn a lot.",
-   "tts": "Leo goes to the airport. His flight is delayed. Then Leo asks, \"Where is the security check?\" I answer as best I can. Then Leo asks, \"What gate is it?\" I answer as best I can. Maria explains the status code to me. After that, I read the short guide about the request header twice. I mention a teammate, and Maria checks it. I learn about the team mention because it is useful. The day is busy, but I learn a lot.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "Leo 去机场。他的航班延误了。接着Leo问：\"安检在哪里？\"我尽力回答。接着Leo问：\"是哪个登机口？\"我尽力回答。Maria 给我讲解状态码。在那之后，我把关于请求头的简短说明读了两遍。我提及队友，Maria 来检查。我学习团队提及，因为它很有用。这天很忙，但我学到了很多。",
-   "hard": [
-    {
      "w": "status code",
      "type": "term",
      "def": "状态码，用数字表示请求处理结果"
@@ -85,36 +55,6 @@
      "type": "term",
      "def": "请求头，随请求发送的附加信息"
     },
-    {
-     "w": "Where is the security check?",
-     "type": "term",
-     "def": "安检在哪里？"
-    },
-    {
-     "w": "What gate is it?",
-     "type": "term",
-     "def": "是哪个登机口？"
-    },
-    {
-     "w": "mention a teammate",
-     "type": "term",
-     "def": "提及队友，用 @ 提醒某位成员"
-    },
-    {
-     "w": "team mention",
-     "type": "term",
-     "def": "团队提及，用 @ 一次通知整个团队"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I finish one last task. Today I subscribe to an issue for the first time. I unsubscribe from updates one small step at a time. After a short break, Now I understand the response body. I hear the GET request in the meeting and write it down. Then Leo says, \"The flight is delayed.\" I answer as best I can. Then Leo asks, \"Where can I collect my luggage?\" I answer as best I can. I take the issue. The team mentions me, and I see it.",
-   "tts": "Before I leave, I finish one last task. Today I subscribe to an issue for the first time. I unsubscribe from updates one small step at a time. After a short break, Now I understand the response body. I hear the GET request in the meeting and write it down. Then Leo says, \"The flight is delayed.\" I answer as best I can. Then Leo asks, \"Where can I collect my luggage?\" I answer as best I can. I take the issue. The team mentions me, and I see it.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。今天我第一次订阅问题单。我一步一步地取消订阅更新。稍作休息后，现在我理解了响应体。我在会上听到GET 请求，把它记了下来。接着Leo说：\"航班延误了。\"我尽力回答。接着Leo问：\"我在哪里取行李？\"我尽力回答。我接下了这个问题单。团队提到了我，我看到了提醒。",
-   "hard": [
     {
      "w": "response body",
      "type": "term",
@@ -126,6 +66,36 @@
      "def": "GET 请求，通常用于读取服务器数据"
     },
     {
+     "w": "Where is the check-in counter?",
+     "type": "term",
+     "def": "值机柜台在哪里？"
+    },
+    {
+     "w": "I'd like an aisle seat.",
+     "type": "term",
+     "def": "我想要靠过道的座位。"
+    },
+    {
+     "w": "Where is the security check?",
+     "type": "term",
+     "def": "安检在哪里？"
+    },
+    {
+     "w": "What gate is it?",
+     "type": "term",
+     "def": "是哪个登机口？"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "\"The flight is delayed,\" the screen announces. \"Where can I collect my luggage?\" I ask the information desk. Back at the office on Monday, Leo explains GitHub assignees. \"An assignee is responsible for an issue. You assign an issue to someone. You mention a teammate with @ to notify them. A team mention notifies everyone. Subscribe to an issue to follow updates. Unsubscribe when you're done.\"",
+   "tts": "\"The flight is delayed,\" the screen announces. \"Where can I collect my luggage?\" I ask the information desk. Back at the office on Monday, Leo explains Git Hub assignees. \"An assignee is responsible for an issue. You assign an issue to someone. You mention a teammate with @ to notify them. A team mention notifies everyone. Subscribe to an issue to follow updates. Unsubscribe when you're done.\"",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "\"航班延误了，\"屏幕显示。\"在哪里取行李？\"我问服务台。周一回到办公室，Leo 解释了 GitHub 的负责人。\"负责人负责一个问题单。你把问题单分配给某个人。你用 @ 提及队友来通知他们。团队提及通知所有人。订阅问题单关注更新。完成后取消订阅。\"",
+   "hard": [
+    {
      "w": "The flight is delayed.",
      "type": "term",
      "def": "航班延误了。"
@@ -136,6 +106,26 @@
      "def": "我在哪里取行李？"
     },
     {
+     "w": "assignee",
+     "type": "term",
+     "def": "负责人，被指定处理事项的人"
+    },
+    {
+     "w": "assign an issue",
+     "type": "term",
+     "def": "分配问题单，把事项交给某个人处理"
+    },
+    {
+     "w": "mention a teammate",
+     "type": "term",
+     "def": "提及队友，用 @ 提醒某位成员"
+    },
+    {
+     "w": "team mention",
+     "type": "term",
+     "def": "团队提及，用 @ 一次通知整个团队"
+    },
+    {
      "w": "subscribe to an issue",
      "type": "term",
      "def": "订阅问题单，接收后续更新"
@@ -144,6 +134,26 @@
      "w": "unsubscribe from updates",
      "type": "term",
      "def": "取消订阅更新，不再接收相关通知"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Airports and GitHub both manage flow. Passengers are like issues — they need routing, gates, and status updates. I write: 'Day 13 — HTTP is how computers talk. Status codes are mood rings for responses. Assignees own their issues like passengers own their boarding passes.' My English vocabulary now spans airports, GitHub, and HTTP protocols. The boundaries between learning contexts are dissolving. Everything is connected.",
+   "tts": "Airports and Git Hub both manage flow. Passengers are like issues — they need routing, gates, and status updates. I write: 'Day 13 — H T T P is how computers talk. Status codes are mood rings for responses. Assignees own their issues like passengers own their boarding passes.' My English vocabulary now spans airports, Git Hub, and H T T P protocols. The boundaries between learning contexts are dissolving. Everything is connected.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "机场和 GitHub 都在管理流量。乘客像问题单——需要路由、登机口和状态更新。我写：'第十三天——HTTP 是计算机的对话方式。状态码是响应的心情戒指。负责人拥有问题单就像乘客拥有登机牌。'我的英语词汇现在跨越了机场、GitHub 和 HTTP 协议。学习场景之间的边界在消失。一切都是相通的。",
+   "hard": [
+    {
+     "w": "status code",
+     "type": "term",
+     "def": "状态码，用数字表示请求处理结果"
+    },
+    {
+     "w": "assign an issue",
+     "type": "term",
+     "def": "分配问题单，把事项交给某个人处理"
     }
    ]
   }

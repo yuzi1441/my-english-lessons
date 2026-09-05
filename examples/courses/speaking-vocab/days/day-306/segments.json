@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 412,
-   "segment_count": 3,
+   "word_count": 481,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Three messages fail processing every night at the same minute. I present the polyglot persistence tradeoff with a timeline, the data, and one clear ask. We align on the read model vs write model early, so execution never has to guess. I close the discussion on the dry run migration rehearsal with a short summary. My report covers the data diff verification tool, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Birth certificates live in the safe.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Old school reports go to boxes.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Three messages fail processing every night at the same minute. I present the polyglot persistence tradeoff with a timeline, the data, and one clear ask. We align on the read model vs write model early, so execution never has to guess. I close the discussion on the dry run migration rehearsal with a short summary. My report covers the data diff verification tool, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Birth certificates live in the safe.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Old school reports go to boxes.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Three messages fail processing every night at the same minute. I present the polyglot persistence tradeoff with a timeline, the data, and one clear ask. We align on the dry run migration rehearsal early, so execution never has to guess. In the launch rehearsal, Priya says, \"Birth certificates live in the safe.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Three messages fail processing every night at the same minute. I present the polyglot persistence tradeoff with a timeline, the data, and one clear ask. We align on the dry run migration rehearsal early, so execution never has to guess. In the launch rehearsal, Priya says, \"Birth certificates live in the safe.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "每晚同一分钟有三条消息处理失败。我用时间线、数据和一条明确的诉求来汇报多语言持久化取舍。我们尽早就读模型与写模型对齐，让执行无需猜测。我用一段简短的总结为迁移干跑彩排的讨论收尾。我的报告涵盖数据差异校验工具、背后的风险，以及等待的代价。上线彩排中，Leo说：\"出生证住保险柜。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"旧成绩单装箱入柜。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "每晚同一分钟有三条消息处理失败。我用时间线、数据和一条明确的诉求来汇报多语言持久化取舍。我们尽早就迁移干跑彩排对齐，让执行无需猜测。上线彩排中，Priya说：\"出生证住保险柜。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "polyglot persistence tradeoff",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The dead letter queue becomes an office with a clerk: us. In the launch rehearsal, Leo says, \"The photo archive has its own shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"We archive by year, retrieve by person.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the event sourcing basics against the requirements, line by line. I put the materialized view strategy on the record so the reasoning stays visible. I propose a measurable target for the rollback time objective test this quarter. The final deck includes the cutover communication plan and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "The dead letter queue becomes an office with a clerk: us. In the launch rehearsal, Leo says, \"The photo archive has its own shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"We archive by year, retrieve by person.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the event sourcing basics against the requirements, line by line. I put the materialized view strategy on the record so the reasoning stays visible. I propose a measurable target for the rollback time objective test this quarter. The final deck includes the cutover communication plan and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "The dead letter queue becomes an office with a clerk: us. In the launch rehearsal, Maria says, \"Old school reports go to boxes.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the read model vs write model with a short summary. My report covers the data diff verification tool, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The dead letter queue becomes an office with a clerk: us. In the launch rehearsal, Maria says, \"Old school reports go to boxes.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the read model vs write model with a short summary. My report covers the data diff verification tool, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "死信队列变成了一间有办事员的办公室：就是我们。上线彩排中，Leo说：\"照片档案有专属架。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"按年归档按人查找。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了事件溯源入门。我把物化视图策略记录在案，让推理过程保持可见。我为回滚时限测试提出了本季度一个可衡量的目标。最终的材料里有切换沟通计划，以及我们从中学到的东西。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "死信队列变成了一间有办事员的办公室：就是我们。上线彩排中，Maria说：\"旧成绩单装箱入柜。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为读模型与写模型的讨论收尾。我的报告涵盖数据差异校验工具、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "event sourcing basics",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the post migration validation suite with a timeline, the data, and one clear ask. We align on the legacy read only window early, so execution never has to guess. I close the discussion on the data retention architecture with a short summary. My report covers the migration rollback symmetry, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Frequently asked documents get copies.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"One inventory list guards it all.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every poison message now leaves with a diagnosis.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I present the post migration validation suite with a timeline, the data, and one clear ask. We align on the legacy read only window early, so execution never has to guess. I close the discussion on the data retention architecture with a short summary. My report covers the migration rollback symmetry, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Frequently asked documents get copies.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"One inventory list guards it all.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every poison message now leaves with a diagnosis.",
+   "en": "The dead letter queue becomes an office with a clerk: us. We review the rollback time objective test against the requirements, line by line. I put the event sourcing basics on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"The photo archive has its own shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every poison message now leaves with a diagnosis.",
+   "tts": "The dead letter queue becomes an office with a clerk: us. We review the rollback time objective test against the requirements, line by line. I put the event sourcing basics on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"The photo archive has its own shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every poison message now leaves with a diagnosis.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用时间线、数据和一条明确的诉求来汇报迁移后验证套件。我们尽早就旧库只读窗口对齐，让执行无需猜测。我用一段简短的总结为数据保留架构的讨论收尾。我的报告涵盖迁移回滚对称性、背后的风险，以及等待的代价。上线彩排中，Priya说：\"常查的文件备副本。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"一张清单守住全局。\"最后我们互换角色，由我从头到尾主导整段对话。每封毒信离开时都带着诊断书。",
+   "zh": "死信队列变成了一间有办事员的办公室：就是我们。我们逐行对照需求检查了回滚时限测试。我把事件溯源入门记录在案，让推理过程保持可见。上线彩排中，Leo说：\"照片档案有专属架。\"最后我们互换角色，由我从头到尾主导整段对话。每封毒信离开时都带着诊断书。",
    "hard": [
     {
      "w": "data retention architecture",
@@ -146,6 +146,33 @@
      "def": "旧库只读窗口，搬家期间只许看"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Every poison message now leaves with a diagnosis. I propose a measurable target for the materialized view strategy this quarter. In the launch rehearsal, Leo says, \"We archive by year, retrieve by person.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the cutover communication plan and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Every poison message now leaves with a diagnosis. I propose a measurable target for the materialized view strategy this quarter. In the launch rehearsal, Leo says, \"We archive by year, retrieve by person.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the cutover communication plan and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "每封毒信离开时都带着诊断书。我为物化视图策略提出了本季度一个可衡量的目标。上线彩排中，Leo说：\"按年归档按人查找。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有切换沟通计划，以及我们从中学到的东西。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The dead letter queue becomes an office with a clerk: us. In the launch rehearsal, Maria says, \"Frequently asked documents get copies.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the post migration validation suite with a timeline, the data, and one clear ask. We align on the data retention architecture early, so execution never has to guess. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The dead letter queue becomes an office with a clerk: us. In the launch rehearsal, Maria says, \"Frequently asked documents get copies.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the post migration validation suite with a timeline, the data, and one clear ask. We align on the data retention architecture early, so execution never has to guess. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "死信队列变成了一间有办事员的办公室：就是我们。上线彩排中，Maria说：\"常查的文件备副本。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报迁移后验证套件。我们尽早就数据保留架构对齐，让执行无需猜测。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the legacy read only window with a short summary. My report covers the migration rollback symmetry, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"One inventory list guards it all.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every poison message now leaves with a diagnosis.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the legacy read only window with a short summary. My report covers the migration rollback symmetry, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"One inventory list guards it all.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every poison message now leaves with a diagnosis.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为旧库只读窗口的讨论收尾。我的报告涵盖迁移回滚对称性、背后的风险，以及等待的代价。上线彩排中，Leo说：\"一张清单守住全局。\"最后我们互换角色，由我从头到尾主导整段对话。每封毒信离开时都带着诊断书。",
+   "hard": []
   }
  ],
  "chunks": [

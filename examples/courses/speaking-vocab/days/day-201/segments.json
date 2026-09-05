@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 326,
-   "segment_count": 3,
+   "word_count": 387,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "New hires reach first merged PR in four days now. In today's standup, I mention the architecture review copilot and what comes next. Priya suggests a cleaner way to think about the dependency scanner. While the details are fresh, I write down the adr with ai assist. I compare my notes about the alternatives section with Priya's. In the meeting drill, Leo says, \"The conference lottery.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Workshop versus talks math.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "New hires reach first merged P R in four days now. In today's standup, I mention the architecture review copilot and what comes next. Priya suggests a cleaner way to think about the dependency scanner. While the details are fresh, I write down the adr with ai assist. I compare my notes about the alternatives section with Priya's. In the meeting drill, Leo says, \"The conference lottery.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Workshop versus talks math.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "en": "New hires reach first merged PR in four days now. In today's standup, I mention the architecture review copilot and what comes next. Priya suggests a cleaner way to think about the adr with ai assist. In the meeting drill, Priya says, \"The conference lottery.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "New hires reach first merged P R in four days now. In today's standup, I mention the architecture review copilot and what comes next. Priya suggests a cleaner way to think about the adr with ai assist. In the meeting drill, Priya says, \"The conference lottery.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "新人四天就能合并第一个 PR。今天的站会上，我提到架构评审副驾驶和接下来的安排。Priya 提出了一个更清晰的依赖扫描器思考方式。趁细节还新鲜，我把ADR 加 AI 辅助写了下来。我把关于备选方案区块的笔记和 Priya 的对照了一下。会议演练中，Leo说：\"大会门票抽签。\"之后我们换角色再练一遍。会议演练中，Maria说：\"工作坊与讲座的取舍题。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "新人四天就能合并第一个 PR。今天的站会上，我提到架构评审副驾驶和接下来的安排。Priya 提出了一个更清晰的ADR 加 AI 辅助思考方式。会议演练中，Priya说：\"大会门票抽签。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "architecture review copilot",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The context pack, the playground, and a patient apprentice do the heavy lifting. In the meeting drill, Leo says, \"The hallway track value.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Swag bag economics.\" After that, we swap roles and run it again. The guide now has a short section on the scale estimator. At the review, we spend ten minutes on the tech debt heatmap. I connect the consequences section to the ticket so nothing gets lost. We agree to give the design signoff flow one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "The context pack, the playground, and a patient apprentice do the heavy lifting. In the meeting drill, Leo says, \"The hallway track value.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Swag bag economics.\" After that, we swap roles and run it again. The guide now has a short section on the scale estimator. At the review, we spend ten minutes on the tech debt heatmap. I connect the consequences section to the ticket so nothing gets lost. We agree to give the design signoff flow one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "The context pack, the playground, and a patient apprentice do the heavy lifting. In the meeting drill, Maria says, \"Workshop versus talks math.\" After that, we swap roles and run it again. While the details are fresh, I write down the dependency scanner. I compare my notes about the alternatives section with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "The context pack, the playground, and a patient apprentice do the heavy lifting. In the meeting drill, Maria says, \"Workshop versus talks math.\" After that, we swap roles and run it again. While the details are fresh, I write down the dependency scanner. I compare my notes about the alternatives section with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "上下文包、试炼场，和一位耐心的学徒扛了重活。会议演练中，Leo说：\"走廊交流的含金量。\"之后我们换角色再练一遍。会议演练中，Maria说：\"周边礼包经济学。\"之后我们换角色再练一遍。指南里现在有关于规模估算助手的简短章节。评审时，我们花了十分钟在技术债热力图上。我把后果区块关联到工单上，免得遗漏。我们说好这周再把设计签字流程仔细看一次。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "上下文包、试炼场，和一位耐心的学徒扛了重活。会议演练中，Maria说：\"工作坊与讲座的取舍题。\"之后我们换角色再练一遍。趁细节还新鲜，我把依赖扫描器写了下来。我把关于备选方案区块的笔记和 Priya 的对照了一下。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "scale estimator",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the adr search by topic and what comes next. Priya suggests a cleaner way to think about the stale adr detection. While the details are fresh, I write down the design doc drafter. I compare my notes about the decision record hints with Priya's. In the meeting drill, Priya says, \"Jet lag mitigation science.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Notes or it never happened.\" After that, we swap roles and run it again. Faster starts, same deep foundations.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the adr search by topic and what comes next. Priya suggests a cleaner way to think about the stale adr detection. While the details are fresh, I write down the design doc drafter. I compare my notes about the decision record hints with Priya's. In the meeting drill, Priya says, \"Jet lag mitigation science.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Notes or it never happened.\" After that, we swap roles and run it again. Faster starts, same deep foundations.",
+   "en": "The context pack, the playground, and a patient apprentice do the heavy lifting. The guide now has a short section on the consequences section. At the review, we spend ten minutes on the scale estimator. In the meeting drill, Leo says, \"The hallway track value.\" After that, we swap roles and run it again. Faster starts, same deep foundations.",
+   "tts": "The context pack, the playground, and a patient apprentice do the heavy lifting. The guide now has a short section on the consequences section. At the review, we spend ten minutes on the scale estimator. In the meeting drill, Leo says, \"The hallway track value.\" After that, we swap roles and run it again. Faster starts, same deep foundations.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到按主题检索 ADR和接下来的安排。Priya 提出了一个更清晰的陈旧 ADR 检测思考方式。趁细节还新鲜，我把设计文档起草助手写了下来。我把关于决策记录提示的笔记和 Priya 的对照了一下。会议演练中，Priya说：\"倒时差的科学。\"之后我们换角色再练一遍。会议演练中，Leo说：\"不记笔记等于没去。\"之后我们换角色再练一遍。起步更快，地基一样深。",
+   "zh": "上下文包、试炼场，和一位耐心的学徒扛了重活。指南里现在有关于后果区块的简短章节。评审时，我们花了十分钟在规模估算助手上。会议演练中，Leo说：\"走廊交流的含金量。\"之后我们换角色再练一遍。起步更快，地基一样深。",
    "hard": [
     {
      "w": "design doc drafter",
@@ -146,6 +146,33 @@
      "def": "陈旧 ADR 检测，现实变了要更新"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Faster starts, same deep foundations. I connect the tech debt heatmap to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Swag bag economics.\" After that, we swap roles and run it again. We agree to give the design signoff flow one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Faster starts, same deep foundations. I connect the tech debt heatmap to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Swag bag economics.\" After that, we swap roles and run it again. We agree to give the design signoff flow one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "起步更快，地基一样深。我把技术债热力图关联到工单上，免得遗漏。会议演练中，Leo说：\"周边礼包经济学。\"之后我们换角色再练一遍。我们说好这周再把设计签字流程仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The context pack, the playground, and a patient apprentice do the heavy lifting. In the meeting drill, Maria says, \"Jet lag mitigation science.\" After that, we swap roles and run it again. In today's standup, I mention the adr search by topic and what comes next. Priya suggests a cleaner way to think about the design doc drafter. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "The context pack, the playground, and a patient apprentice do the heavy lifting. In the meeting drill, Maria says, \"Jet lag mitigation science.\" After that, we swap roles and run it again. In today's standup, I mention the adr search by topic and what comes next. Priya suggests a cleaner way to think about the design doc drafter. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "上下文包、试炼场，和一位耐心的学徒扛了重活。会议演练中，Maria说：\"倒时差的科学。\"之后我们换角色再练一遍。今天的站会上，我提到按主题检索 ADR和接下来的安排。Priya 提出了一个更清晰的设计文档起草助手思考方式。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the stale adr detection. I compare my notes about the decision record hints with Priya's. In the meeting drill, Leo says, \"Notes or it never happened.\" After that, we swap roles and run it again. Faster starts, same deep foundations.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the stale adr detection. I compare my notes about the decision record hints with Priya's. In the meeting drill, Leo says, \"Notes or it never happened.\" After that, we swap roles and run it again. Faster starts, same deep foundations.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把陈旧 ADR 检测写了下来。我把关于决策记录提示的笔记和 Priya 的对照了一下。会议演练中，Leo说：\"不记笔记等于没去。\"之后我们换角色再练一遍。起步更快，地基一样深。",
+   "hard": []
   }
  ],
  "chunks": [

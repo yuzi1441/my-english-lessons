@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 368,
-   "segment_count": 3,
+   "word_count": 436,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day two hundred forty: my run and the settings page share a pace now. I compare two views on the perf culture win and write both down honestly. The team names one clear owner for the optimization playbook. Before deciding, I reread my notes about the perf goals met review twice. I prepare a one-page brief about the system speed history so meetings start from facts. In the review drill, Leo says, \"Day two hundred forty pace.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Faster is a habit now.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
-   "tts": "Day two hundred forty: my run and the settings page share a pace now. I compare two views on the perf culture win and write both down honestly. The team names one clear owner for the optimization playbook. Before deciding, I reread my notes about the perf goals met review twice. I prepare a one-page brief about the system speed history so meetings start from facts. In the review drill, Leo says, \"Day two hundred forty pace.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Faster is a habit now.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "en": "Day two hundred forty: my run and the settings page share a pace now. I compare two views on the perf culture win and write both down honestly. The team names one clear owner for the perf goals met review. In the review drill, Priya says, \"Day two hundred forty pace.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "Day two hundred forty: my run and the settings page share a pace now. I compare two views on the perf culture win and write both down honestly. The team names one clear owner for the perf goals met review. In the review drill, Priya says, \"Day two hundred forty pace.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第二百四十天：我的跑步配速和设置页面同频了。我比较了关于性能文化成果的两种观点，诚实地都记了下来。团队为优化手册第一版指定了明确的负责人。做决定之前，我把关于性能目标达成回顾的笔记重读了两遍。我准备了一页关于系统速度编年史的简报，好让会议从事实出发。评审演练中，Leo说：\"第二百四十天的配速。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"快\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "第二百四十天：我的跑步配速和设置页面同频了。我比较了关于性能文化成果的两种观点，诚实地都记了下来。团队为性能目标达成回顾指定了明确的负责人。评审演练中，Priya说：\"第二百四十天的配速。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "perf culture win",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria laughs, \"You optimized your rest days too.\" In the review drill, Leo says, \"The watch and I agree.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Rest is still strategic.\" We swap roles so I ask the questions this time. I add the system hotspot map to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the latency wins ledger. During the design review, I raise one careful question about the optimization debt cleared. Our mentor walks me through how the tooling we built evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Maria laughs, \"You optimized your rest days too.\" In the review drill, Leo says, \"The watch and I agree.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Rest is still strategic.\" We swap roles so I ask the questions this time. I add the system hotspot map to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the latency wins ledger. During the design review, I raise one careful question about the optimization debt cleared. Our mentor walks me through how the tooling we built evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Maria laughs, \"You optimized your rest days too.\" In the review drill, Maria says, \"Faster is a habit now.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the optimization playbook twice. I prepare a one-page brief about the system speed history so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Maria laughs, \"You optimized your rest days too.\" In the review drill, Maria says, \"Faster is a habit now.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the optimization playbook twice. I prepare a one-page brief about the system speed history so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 笑道：“你连休息日都优化了。”评审演练中，Leo说：\"手表与我意见一致。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"休息依然是策略。\"我们互换角色，这次由我来提问。我把系统热点地图连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了延迟战果清单上。设计评审中，我就优化债清零提出了一个审慎的问题。导师带我梳理了我们造的工具在这个团队里的演变。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "Maria 笑道：“你连休息日都优化了。”评审演练中，Maria说：\"快\"我们互换角色，这次由我来提问。做决定之前，我把关于优化手册第一版的笔记重读了两遍。我准备了一页关于系统速度编年史的简报，好让会议从事实出发。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "system hotspot map",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the unblocked teams and write both down honestly. The team names one clear owner for the road to ten x. Before deciding, I reread my notes about the boring speed wins twice. I prepare a one-page brief about the next quarter perf bets so meetings start from facts. In the review drill, Priya says, \"Small gains compound quietly.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The long run continues.\" We swap roles so I ask the questions this time. Some things I deliberately leave slow: Sunday, soup, and long goodbyes.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the unblocked teams and write both down honestly. The team names one clear owner for the road to ten x. Before deciding, I reread my notes about the boring speed wins twice. I prepare a one-page brief about the next quarter perf bets so meetings start from facts. In the review drill, Priya says, \"Small gains compound quietly.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The long run continues.\" We swap roles so I ask the questions this time. Some things I deliberately leave slow: Sunday, soup, and long goodbyes.",
+   "en": "Maria laughs, \"You optimized your rest days too.\" I add the optimization debt cleared to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the system hotspot map. In the review drill, Leo says, \"The watch and I agree.\" We swap roles so I ask the questions this time. Some things I deliberately leave slow: Sunday, soup, and long goodbyes.",
+   "tts": "Maria laughs, \"You optimized your rest days too.\" I add the optimization debt cleared to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the system hotspot map. In the review drill, Leo says, \"The watch and I agree.\" We swap roles so I ask the questions this time. Some things I deliberately leave slow: Sunday, soup, and long goodbyes.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于我们解锁的团队的两种观点，诚实地都记了下来。团队为通往十倍的路指定了明确的负责人。做决定之前，我把关于不起眼的提速的笔记重读了两遍。我准备了一页关于下季性能押注的简报，好让会议从事实出发。评审演练中，Priya说：\"小提升悄悄复利。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"长跑继续。\"我们互换角色，这次由我来提问。有些我刻意留着慢：周日、热汤，和长长的告别。",
+   "zh": "Maria 笑道：“你连休息日都优化了。”我把优化债清零连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了系统热点地图上。评审演练中，Leo说：\"手表与我意见一致。\"我们互换角色，这次由我来提问。有些我刻意留着慢：周日、热汤，和长长的告别。",
    "hard": [
     {
      "w": "boring speed wins",
@@ -146,6 +146,33 @@
      "def": "通往十倍的路，下一程"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Some things I deliberately leave slow: Sunday, soup, and long goodbyes. During the design review, I raise one careful question about the latency wins ledger. In the review drill, Leo says, \"Rest is still strategic.\" We swap roles so I ask the questions this time. Our mentor walks me through how the tooling we built evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "tts": "Some things I deliberately leave slow: Sunday, soup, and long goodbyes. During the design review, I raise one careful question about the latency wins ledger. In the review drill, Leo says, \"Rest is still strategic.\" We swap roles so I ask the questions this time. Our mentor walks me through how the tooling we built evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "有些我刻意留着慢：周日、热汤，和长长的告别。设计评审中，我就延迟战果清单提出了一个审慎的问题。评审演练中，Leo说：\"休息依然是策略。\"我们互换角色，这次由我来提问。导师带我梳理了我们造的工具在这个团队里的演变。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Maria laughs, \"You optimized your rest days too.\" In the review drill, Maria says, \"Small gains compound quietly.\" We swap roles so I ask the questions this time. I compare two views on the unblocked teams and write both down honestly. The team names one clear owner for the boring speed wins. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Maria laughs, \"You optimized your rest days too.\" In the review drill, Maria says, \"Small gains compound quietly.\" We swap roles so I ask the questions this time. I compare two views on the unblocked teams and write both down honestly. The team names one clear owner for the boring speed wins. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "Maria 笑道：“你连休息日都优化了。”评审演练中，Maria说：\"小提升悄悄复利。\"我们互换角色，这次由我来提问。我比较了关于我们解锁的团队的两种观点，诚实地都记了下来。团队为不起眼的提速指定了明确的负责人。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the road to ten x twice. I prepare a one-page brief about the next quarter perf bets so meetings start from facts. In the review drill, Leo says, \"The long run continues.\" We swap roles so I ask the questions this time. Some things I deliberately leave slow: Sunday, soup, and long goodbyes.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the road to ten x twice. I prepare a one-page brief about the next quarter perf bets so meetings start from facts. In the review drill, Leo says, \"The long run continues.\" We swap roles so I ask the questions this time. Some things I deliberately leave slow: Sunday, soup, and long goodbyes.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于通往十倍的路的笔记重读了两遍。我准备了一页关于下季性能押注的简报，好让会议从事实出发。评审演练中，Leo说：\"长跑继续。\"我们互换角色，这次由我来提问。有些我刻意留着慢：周日、热汤，和长长的告别。",
+   "hard": []
   }
  ],
  "chunks": [

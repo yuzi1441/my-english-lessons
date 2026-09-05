@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 341,
-   "segment_count": 3,
+   "word_count": 416,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I name the coding assistant the Apprentice, because that is what it is. At the review, we spend ten minutes on the zero shot prompt. The guide now has a short section on the few shot prompt. While the details are fresh, I write down the prompt library. I connect the prompt versioning to the ticket so nothing gets lost. In the meeting drill, Maria says, \"The tutorial at two times speed.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Timeline anxiety.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "I name the coding assistant the Apprentice, because that is what it is. At the review, we spend ten minutes on the zero shot prompt. The guide now has a short section on the few shot prompt. While the details are fresh, I write down the prompt library. I connect the prompt versioning to the ticket so nothing gets lost. In the meeting drill, Maria says, \"The tutorial at two times speed.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Timeline anxiety.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "I name the coding assistant the Apprentice, because that is what it is. At the review, we spend ten minutes on the zero shot prompt. The guide now has a short section on the prompt library. In the meeting drill, Leo says, \"The tutorial at two times speed.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "I name the coding assistant the Apprentice, because that is what it is. At the review, we spend ten minutes on the zero shot prompt. The guide now has a short section on the prompt library. In the meeting drill, Leo says, \"The tutorial at two times speed.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我把编程助手叫做“学徒”，因为它就是个学徒。评审时，我们花了十分钟在零样本提示上。指南里现在有关于少样本提示的简短章节。趁细节还新鲜，我把提示词库写了下来。我把提示词版本化关联到工单上，免得遗漏。会议演练中，Maria说：\"二倍速看教程。\"之后我们换角色再练一遍。会议演练中，Priya说：\"时间轴焦虑症。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我把编程助手叫做“学徒”，因为它就是个学徒。评审时，我们花了十分钟在零样本提示上。指南里现在有关于提示词库的简短章节。会议演练中，Leo说：\"二倍速看教程。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "zero shot prompt",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "It writes boilerplate in seconds and hallucinates an API in the next breath. In the meeting drill, Maria says, \"One cut fixes the pacing.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Music too loud, again.\" After that, we swap roles and run it again. We agree to give the chain of thought prompt one more careful look this week. Priya suggests a cleaner way to think about the role framing. In today's standup, I mention the few shot examples curation and what comes next. I compare my notes about the shared system prompts with Priya's. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "It writes boilerplate in seconds and hallucinates an A P I in the next breath. In the meeting drill, Maria says, \"One cut fixes the pacing.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Music too loud, again.\" After that, we swap roles and run it again. We agree to give the chain of thought prompt one more careful look this week. Priya suggests a cleaner way to think about the role framing. In today's standup, I mention the few shot examples curation and what comes next. I compare my notes about the shared system prompts with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "en": "It writes boilerplate in seconds and hallucinates an API in the next breath. In the meeting drill, Priya says, \"Timeline anxiety.\" After that, we swap roles and run it again. While the details are fresh, I write down the few shot prompt. I connect the prompt versioning to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "It writes boilerplate in seconds and hallucinates an A P I in the next breath. In the meeting drill, Priya says, \"Timeline anxiety.\" After that, we swap roles and run it again. While the details are fresh, I write down the few shot prompt. I connect the prompt versioning to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "它几秒写完样板代码，下一句就编造了一个不存在的接口。会议演练中，Maria说：\"一个剪切救活节奏。\"之后我们换角色再练一遍。会议演练中，Priya说：\"音乐又太响了。\"之后我们换角色再练一遍。我们说好这周再把思维链提示仔细看一次。Priya 提出了一个更清晰的角色框定思考方式。今天的站会上，我提到少样本示例精选和接下来的安排。我把关于共享系统提示的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "它几秒写完样板代码，下一句就编造了一个不存在的接口。会议演练中，Priya说：\"时间轴焦虑症。\"之后我们换角色再练一遍。趁细节还新鲜，我把少样本提示写了下来。我把提示词版本化关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "chain of thought prompt",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the prompt lint checklist. The guide now has a short section on the eval before promote. While the details are fresh, I write down the output format spec. I connect the prompt iteration loop to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Render, wait, forget, rediscover.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"My first sixty seconds.\" After that, we swap roles and run it again. Brilliant, fast, and never allowed to touch the main branch alone.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the prompt lint checklist. The guide now has a short section on the eval before promote. While the details are fresh, I write down the output format spec. I connect the prompt iteration loop to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Render, wait, forget, rediscover.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"My first sixty seconds.\" After that, we swap roles and run it again. Brilliant, fast, and never allowed to touch the main branch alone.",
+   "en": "It writes boilerplate in seconds and hallucinates an API in the next breath. We agree to give the few shot examples curation one more careful look this week. Priya suggests a cleaner way to think about the chain of thought prompt. In the meeting drill, Maria says, \"One cut fixes the pacing.\" After that, we swap roles and run it again. Brilliant, fast, and never allowed to touch the main branch alone.",
+   "tts": "It writes boilerplate in seconds and hallucinates an A P I in the next breath. We agree to give the few shot examples curation one more careful look this week. Priya suggests a cleaner way to think about the chain of thought prompt. In the meeting drill, Maria says, \"One cut fixes the pacing.\" After that, we swap roles and run it again. Brilliant, fast, and never allowed to touch the main branch alone.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在提示检查清单上。指南里现在有关于晋级前先评测的简短章节。趁细节还新鲜，我把输出格式约定写了下来。我把提示迭代循环关联到工单上，免得遗漏。会议演练中，Leo说：\"渲染、等待、忘记、重新发现。\"之后我们换角色再练一遍。会议演练中，Maria说：\"我的第一分钟作品。\"之后我们换角色再练一遍。聪明、飞快，但绝不允许独自碰主干分支。",
+   "zh": "它几秒写完样板代码，下一句就编造了一个不存在的接口。我们说好这周再把少样本示例精选仔细看一次。Priya 提出了一个更清晰的思维链提示思考方式。会议演练中，Maria说：\"一个剪切救活节奏。\"之后我们换角色再练一遍。聪明、飞快，但绝不允许独自碰主干分支。",
    "hard": [
     {
      "w": "output format spec",
@@ -146,6 +146,33 @@
      "def": "晋级前先评测，数据说话"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Brilliant, fast, and never allowed to touch the main branch alone. In today's standup, I mention the role framing and what comes next. In the meeting drill, Maria says, \"Music too loud, again.\" After that, we swap roles and run it again. I compare my notes about the shared system prompts with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Brilliant, fast, and never allowed to touch the main branch alone. In today's standup, I mention the role framing and what comes next. In the meeting drill, Maria says, \"Music too loud, again.\" After that, we swap roles and run it again. I compare my notes about the shared system prompts with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "聪明、飞快，但绝不允许独自碰主干分支。今天的站会上，我提到角色框定和接下来的安排。会议演练中，Maria说：\"音乐又太响了。\"之后我们换角色再练一遍。我把关于共享系统提示的笔记和 Priya 的对照了一下。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "It writes boilerplate in seconds and hallucinates an API in the next breath. In the meeting drill, Priya says, \"Render, wait, forget, rediscover.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the prompt lint checklist. The guide now has a short section on the output format spec. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "It writes boilerplate in seconds and hallucinates an A P I in the next breath. In the meeting drill, Priya says, \"Render, wait, forget, rediscover.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the prompt lint checklist. The guide now has a short section on the output format spec. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "它几秒写完样板代码，下一句就编造了一个不存在的接口。会议演练中，Priya说：\"渲染、等待、忘记、重新发现。\"之后我们换角色再练一遍。评审时，我们花了十分钟在提示检查清单上。指南里现在有关于输出格式约定的简短章节。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the eval before promote. I connect the prompt iteration loop to the ticket so nothing gets lost. In the meeting drill, Maria says, \"My first sixty seconds.\" After that, we swap roles and run it again. Brilliant, fast, and never allowed to touch the main branch alone.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the eval before promote. I connect the prompt iteration loop to the ticket so nothing gets lost. In the meeting drill, Maria says, \"My first sixty seconds.\" After that, we swap roles and run it again. Brilliant, fast, and never allowed to touch the main branch alone.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把晋级前先评测写了下来。我把提示迭代循环关联到工单上，免得遗漏。会议演练中，Maria说：\"我的第一分钟作品。\"之后我们换角色再练一遍。聪明、飞快，但绝不允许独自碰主干分支。",
+   "hard": []
   }
  ],
  "chunks": [

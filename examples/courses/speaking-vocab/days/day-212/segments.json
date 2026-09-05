@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 361,
-   "segment_count": 3,
+   "word_count": 434,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My first rule for the quarter: measure before blaming anything. The team names one clear owner for the thread pool. I compare two views on the lock contention and write both down honestly. I prepare a one-page brief about the race condition test so meetings start from facts. We spend the first ten minutes of the review on the stress profile label. In the review drill, Maria says, \"The bathroom schedule works.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"We deadlocked over the TV remote.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "My first rule for the quarter: measure before blaming anything. The team names one clear owner for the thread pool. I compare two views on the lock contention and write both down honestly. I prepare a one-page brief about the race condition test so meetings start from facts. We spend the first ten minutes of the review on the stress profile label. In the review drill, Maria says, \"The bathroom schedule works.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"We deadlocked over the TV remote.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "My first rule for the quarter: measure before blaming anything. The team names one clear owner for the thread pool. I compare two views on the race condition test and write both down honestly. In the review drill, Leo says, \"The bathroom schedule works.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "My first rule for the quarter: measure before blaming anything. The team names one clear owner for the thread pool. I compare two views on the race condition test and write both down honestly. In the review drill, Leo says, \"The bathroom schedule works.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我这个季度的第一条规矩：先测量，再怪罪。团队为线程池指定了明确的负责人。我比较了关于锁竞争的两种观点，诚实地都记了下来。我准备了一页关于竞态测试的简报，好让会议从事实出发。评审的前十分钟，我们都用在了压力画像标签上。评审演练中，Maria说：\"卫生间时刻表生效了。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"我们为遥控器僵持过。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我这个季度的第一条规矩：先测量，再怪罪。团队为线程池指定了明确的负责人。我比较了关于竞态测试的两种观点，诚实地都记了下来。评审演练中，Leo说：\"卫生间时刻表生效了。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "thread pool",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. In the review drill, Maria says, \"One queue beats five lines.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Take a number, stay calm.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the deadlock twice. I add the race condition to the meeting agenda with three supporting facts. During the design review, I raise one careful question about the concurrency bug tracker. Our mentor walks me through how the deterministic replay log evolved on this team. We end the week with something shipped and something properly learned this time.",
-   "tts": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. In the review drill, Maria says, \"One queue beats five lines.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Take a number, stay calm.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the deadlock twice. I add the race condition to the meeting agenda with three supporting facts. During the design review, I raise one careful question about the concurrency bug tracker. Our mentor walks me through how the deterministic replay log evolved on this team. We end the week with something shipped and something properly learned this time.",
+   "en": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. In the review drill, Priya says, \"We deadlocked over the TV remote.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the lock contention so meetings start from facts. We spend the first ten minutes of the review on the stress profile label. We end the week with something shipped and something properly learned this time.",
+   "tts": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. In the review drill, Priya says, \"We deadlocked over the TV remote.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the lock contention so meetings start from facts. We spend the first ten minutes of the review on the stress profile label. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "瓶颈居然是串行调用组成的瀑布，而不是人人怀疑的数据库。评审演练中，Maria说：\"一条队胜过五条线。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"取个号\"我们互换角色，这次由我来提问。做决定之前，我把关于死锁的笔记重读了两遍。我把竞态条件连同三条支撑事实加进了议程。设计评审中，我就并发缺陷追踪提出了一个审慎的问题。导师带我梳理了确定性回放日志在这个团队里的演变。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "瓶颈居然是串行调用组成的瀑布，而不是人人怀疑的数据库。评审演练中，Priya说：\"我们为遥控器僵持过。\"我们互换角色，这次由我来提问。我准备了一页关于锁竞争的简报，好让会议从事实出发。评审的前十分钟，我们都用在了压力画像标签上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "deadlock",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the lock audit report. I compare two views on the goroutine leak check and write both down honestly. I prepare a one-page brief about the atomic operation so meetings start from facts. We spend the first ten minutes of the review on the lock free queue. In the review drill, Leo says, \"The microwave is fair game.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Fairness ends the bickering.\" We swap roles so I ask the questions this time. Two assumptions died quietly in the profiling report.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the lock audit report. I compare two views on the goroutine leak check and write both down honestly. I prepare a one-page brief about the atomic operation so meetings start from facts. We spend the first ten minutes of the review on the lock free queue. In the review drill, Leo says, \"The microwave is fair game.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Fairness ends the bickering.\" We swap roles so I ask the questions this time. Two assumptions died quietly in the profiling report.",
+   "en": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. Before deciding, I reread my notes about the concurrency bug tracker twice. I add the deadlock to the meeting agenda with three supporting facts. In the review drill, Maria says, \"One queue beats five lines.\" We swap roles so I ask the questions this time. Two assumptions died quietly in the profiling report.",
+   "tts": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. Before deciding, I reread my notes about the concurrency bug tracker twice. I add the deadlock to the meeting agenda with three supporting facts. In the review drill, Maria says, \"One queue beats five lines.\" We swap roles so I ask the questions this time. Two assumptions died quietly in the profiling report.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为锁使用审计报告指定了明确的负责人。我比较了关于协程泄漏检查的两种观点，诚实地都记了下来。我准备了一页关于原子操作的简报，好让会议从事实出发。评审的前十分钟，我们都用在了无锁队列上。评审演练中，Leo说：\"微波炉先到先用。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"公平终结了斗嘴。\"我们互换角色，这次由我来提问。两个假设在性能画像报告里悄悄死掉了。",
+   "zh": "瓶颈居然是串行调用组成的瀑布，而不是人人怀疑的数据库。做决定之前，我把关于并发缺陷追踪的笔记重读了两遍。我把死锁连同三条支撑事实加进了议程。评审演练中，Maria说：\"一条队胜过五条线。\"我们互换角色，这次由我来提问。两个假设在性能画像报告里悄悄死掉了。",
    "hard": [
     {
      "w": "atomic operation",
@@ -146,6 +146,33 @@
      "def": "协程泄漏检查，起了要收"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Two assumptions died quietly in the profiling report. During the design review, I raise one careful question about the race condition. In the review drill, Maria says, \"Take a number, stay calm.\" We swap roles so I ask the questions this time. Our mentor walks me through how the deterministic replay log evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Two assumptions died quietly in the profiling report. During the design review, I raise one careful question about the race condition. In the review drill, Maria says, \"Take a number, stay calm.\" We swap roles so I ask the questions this time. Our mentor walks me through how the deterministic replay log evolved on this team. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "两个假设在性能画像报告里悄悄死掉了。设计评审中，我就竞态条件提出了一个审慎的问题。评审演练中，Maria说：\"取个号\"我们互换角色，这次由我来提问。导师带我梳理了确定性回放日志在这个团队里的演变。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. In the review drill, Priya says, \"The microwave is fair game.\" We swap roles so I ask the questions this time. The team names one clear owner for the lock audit report. I compare two views on the atomic operation and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "tts": "The bottleneck turns out to be a waterfall of sequential calls, not the database everyone suspects. In the review drill, Priya says, \"The microwave is fair game.\" We swap roles so I ask the questions this time. The team names one clear owner for the lock audit report. I compare two views on the atomic operation and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "瓶颈居然是串行调用组成的瀑布，而不是人人怀疑的数据库。评审演练中，Priya说：\"微波炉先到先用。\"我们互换角色，这次由我来提问。团队为锁使用审计报告指定了明确的负责人。我比较了关于原子操作的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the goroutine leak check so meetings start from facts. We spend the first ten minutes of the review on the lock free queue. In the review drill, Maria says, \"Fairness ends the bickering.\" We swap roles so I ask the questions this time. Two assumptions died quietly in the profiling report.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the goroutine leak check so meetings start from facts. We spend the first ten minutes of the review on the lock free queue. In the review drill, Maria says, \"Fairness ends the bickering.\" We swap roles so I ask the questions this time. Two assumptions died quietly in the profiling report.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于协程泄漏检查的简报，好让会议从事实出发。评审的前十分钟，我们都用在了无锁队列上。评审演练中，Maria说：\"公平终结了斗嘴。\"我们互换角色，这次由我来提问。两个假设在性能画像报告里悄悄死掉了。",
+   "hard": []
   }
  ],
  "chunks": [

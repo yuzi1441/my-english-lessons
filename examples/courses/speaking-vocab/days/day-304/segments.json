@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 406,
-   "segment_count": 3,
+   "word_count": 474,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A friend team split too early and now pays the distributed tax. We align on the api contract first design early, so execution never has to guess. I propose a measurable target for the breaking change review board this quarter. I put the contract diff in ci on the record so the reasoning stays visible. I close the discussion on the mock server from spec with a short summary. In the launch rehearsal, Priya says, \"The kitchen rules are contracts too.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Label your food, claim your shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "A friend team split too early and now pays the distributed tax. We align on the api contract first design early, so execution never has to guess. I propose a measurable target for the breaking change review board this quarter. I put the contract diff in ci on the record so the reasoning stays visible. I close the discussion on the mock server from spec with a short summary. In the launch rehearsal, Priya says, \"The kitchen rules are contracts too.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Label your food, claim your shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "A friend team split too early and now pays the distributed tax. We align on the api contract first design early, so execution never has to guess. I propose a measurable target for the contract diff in ci this quarter. In the launch rehearsal, Maria says, \"The kitchen rules are contracts too.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "A friend team split too early and now pays the distributed tax. We align on the api contract first design early, so execution never has to guess. I propose a measurable target for the contract diff in ci this quarter. In the launch rehearsal, Maria says, \"The kitchen rules are contracts too.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个友队拆分太早，如今按月缴分布式的税。我们尽早就契约优先设计对齐，让执行无需猜测。我为破坏性变更评审会提出了本季度一个可衡量的目标。我把CI 里的契约差异检查记录在案，让推理过程保持可见。我用一段简短的总结为从规格生成模拟服务的讨论收尾。上线彩排中，Priya说：\"厨房守则也是契约。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"贴上标签占有架子。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "一个友队拆分太早，如今按月缴分布式的税。我们尽早就契约优先设计对齐，让执行无需猜测。我为CI 里的契约差异检查提出了本季度一个可衡量的目标。上线彩排中，Maria说：\"厨房守则也是契约。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "api contract first design",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Network flakiness, version skew, and three new dashboards of pain. In the launch rehearsal, Priya says, \"Expired unlabeled food is fair game.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"New flatmates get the rules day one.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the version deprecation calendar with a timeline, the data, and one clear ask. My report covers the consumer driven contract test, the risks behind it, and the cost of waiting. We review the api changelog automation against the requirements, line by line. The final deck includes the deprecation header rollout and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "Network flakiness, version skew, and three new dashboards of pain. In the launch rehearsal, Priya says, \"Expired unlabeled food is fair game.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"New flatmates get the rules day one.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the version deprecation calendar with a timeline, the data, and one clear ask. My report covers the consumer driven contract test, the risks behind it, and the cost of waiting. We review the api changelog automation against the requirements, line by line. The final deck includes the deprecation header rollout and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "Network flakiness, version skew, and three new dashboards of pain. In the launch rehearsal, Leo says, \"Label your food, claim your shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the breaking change review board on the record so the reasoning stays visible. I close the discussion on the mock server from spec with a short summary. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Network flakiness, version skew, and three new dashboards of pain. In the launch rehearsal, Leo says, \"Label your food, claim your shelf.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the breaking change review board on the record so the reasoning stays visible. I close the discussion on the mock server from spec with a short summary. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "网络抖动、版本错位，还有三块令人心痛的新看板。上线彩排中，Priya说：\"过期无主食物大家处置。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"新室友第一天拿到守则。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报版本弃用日历。我的报告涵盖消费方驱动的契约测试、背后的风险，以及等待的代价。我们逐行对照需求检查了接口变更日志自动化。最终的材料里有弃用响应头推广，以及我们从中学到的东西。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "网络抖动、版本错位，还有三块令人心痛的新看板。上线彩排中，Leo说：\"贴上标签占有架子。\"最后我们互换角色，由我从头到尾主导整段对话。我把破坏性变更评审会记录在案，让推理过程保持可见。我用一段简短的总结为从规格生成模拟服务的讨论收尾。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "version deprecation calendar",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the breaking change escape hatch early, so execution never has to guess. I propose a measurable target for the consumer notification list this quarter. I put the api guideline enforcement lint on the record so the reasoning stays visible. I close the discussion on the sdk generation pipeline with a short summary. In the launch rehearsal, Maria says, \"Broken agreements get one conversation.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Contracts make cohabitation boring, wonderfully.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their lesson was cheaper than ours would have been.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the breaking change escape hatch early, so execution never has to guess. I propose a measurable target for the consumer notification list this quarter. I put the api guideline enforcement lint on the record so the reasoning stays visible. I close the discussion on the sdk generation pipeline with a short summary. In the launch rehearsal, Maria says, \"Broken agreements get one conversation.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Contracts make cohabitation boring, wonderfully.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their lesson was cheaper than ours would have been.",
+   "en": "Network flakiness, version skew, and three new dashboards of pain. I present the api changelog automation with a timeline, the data, and one clear ask. My report covers the version deprecation calendar, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Expired unlabeled food is fair game.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their lesson was cheaper than ours would have been.",
+   "tts": "Network flakiness, version skew, and three new dashboards of pain. I present the api changelog automation with a timeline, the data, and one clear ask. My report covers the version deprecation calendar, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Expired unlabeled food is fair game.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their lesson was cheaper than ours would have been.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们尽早就破坏性变更特批流程对齐，让执行无需猜测。我为调用方通知清单提出了本季度一个可衡量的目标。我把接口规范检查记录在案，让推理过程保持可见。我用一段简短的总结为SDK 生成流水线的讨论收尾。上线彩排中，Maria说：\"违约只谈一次。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"契约让合住无聊得很美好。\"最后我们互换角色，由我从头到尾主导整段对话。他们替我们交了便宜的学费。",
+   "zh": "网络抖动、版本错位，还有三块令人心痛的新看板。我用时间线、数据和一条明确的诉求来汇报接口变更日志自动化。我的报告涵盖版本弃用日历、背后的风险，以及等待的代价。上线彩排中，Priya说：\"过期无主食物大家处置。\"最后我们互换角色，由我从头到尾主导整段对话。他们替我们交了便宜的学费。",
    "hard": [
     {
      "w": "api guideline enforcement lint",
@@ -146,6 +146,33 @@
      "def": "调用方通知清单，改接口先喊人"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Their lesson was cheaper than ours would have been. We review the consumer driven contract test against the requirements, line by line. In the launch rehearsal, Priya says, \"New flatmates get the rules day one.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the deprecation header rollout and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Their lesson was cheaper than ours would have been. We review the consumer driven contract test against the requirements, line by line. In the launch rehearsal, Priya says, \"New flatmates get the rules day one.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the deprecation header rollout and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "他们替我们交了便宜的学费。我们逐行对照需求检查了消费方驱动的契约测试。上线彩排中，Priya说：\"新室友第一天拿到守则。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有弃用响应头推广，以及我们从中学到的东西。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Network flakiness, version skew, and three new dashboards of pain. In the launch rehearsal, Leo says, \"Broken agreements get one conversation.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the breaking change escape hatch early, so execution never has to guess. I propose a measurable target for the api guideline enforcement lint this quarter. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Network flakiness, version skew, and three new dashboards of pain. In the launch rehearsal, Leo says, \"Broken agreements get one conversation.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the breaking change escape hatch early, so execution never has to guess. I propose a measurable target for the api guideline enforcement lint this quarter. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "网络抖动、版本错位，还有三块令人心痛的新看板。上线彩排中，Leo说：\"违约只谈一次。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就破坏性变更特批流程对齐，让执行无需猜测。我为接口规范检查提出了本季度一个可衡量的目标。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the consumer notification list on the record so the reasoning stays visible. I close the discussion on the sdk generation pipeline with a short summary. In the launch rehearsal, Priya says, \"Contracts make cohabitation boring, wonderfully.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their lesson was cheaper than ours would have been.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the consumer notification list on the record so the reasoning stays visible. I close the discussion on the sdk generation pipeline with a short summary. In the launch rehearsal, Priya says, \"Contracts make cohabitation boring, wonderfully.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their lesson was cheaper than ours would have been.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把调用方通知清单记录在案，让推理过程保持可见。我用一段简短的总结为SDK 生成流水线的讨论收尾。上线彩排中，Priya说：\"契约让合住无聊得很美好。\"最后我们互换角色，由我从头到尾主导整段对话。他们替我们交了便宜的学费。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 313,
-   "segment_count": 3,
+   "word_count": 357,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A user in a far time zone reports slow saves. My notes about the auth at the edge look clearer this week. I add the request shaping to my study notes before I forget it. I go over the public api one more time before lunch. I ask one good question about the api reference in the meeting. In the warm-up round, Maria says, \"Paper beats screens for me.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I index my notebook.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
-   "tts": "A user in a far time zone reports slow saves. My notes about the auth at the edge look clearer this week. I add the request shaping to my study notes before I forget it. I go over the public api one more time before lunch. I ask one good question about the api reference in the meeting. In the warm-up round, Maria says, \"Paper beats screens for me.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I index my notebook.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "en": "A user in a far time zone reports slow saves. My notes about the auth at the edge look clearer this week. I add the public api to my study notes before I forget it. In the warm-up round, Leo says, \"Paper beats screens for me.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "A user in a far time zone reports slow saves. My notes about the auth at the edge look clearer this week. I add the public api to my study notes before I forget it. In the warm-up round, Leo says, \"Paper beats screens for me.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位远时区用户反馈保存很慢。这周我关于边缘鉴权的笔记清楚多了。我趁还没忘，把请求整形记进了学习笔记。午饭前我又过了一遍公开接口。会上关于接口参考，我问了一个好问题。热身环节里，Maria说：\"纸比屏幕更适合我。\"然后我们换角色，由我来问。热身环节里，Priya说：\"我给笔记本做索引。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
+   "zh": "一位远时区用户反馈保存很慢。这周我关于边缘鉴权的笔记清楚多了。我趁还没忘，把公开接口记进了学习笔记。热身环节里，Leo说：\"纸比屏幕更适合我。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "auth at the edge",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The p95 tells the truth my averages hid. In the warm-up round, Maria says, \"Good pens write smoother.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Sticky notes are my sprints.\" Then we swap roles and I ask it back. Sam asks me about the header propagation, and I explain the basics. I keep one real example of the gateway retry in my notebook. There is a short paragraph about the api key in the guide. I spend ten quiet minutes on the usage example after the standup. I end the day with fewer unknowns than I started with.",
-   "tts": "The p95 tells the truth my averages hid. In the warm-up round, Maria says, \"Good pens write smoother.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Sticky notes are my sprints.\" Then we swap roles and I ask it back. Sam asks me about the header propagation, and I explain the basics. I keep one real example of the gateway retry in my notebook. There is a short paragraph about the api key in the guide. I spend ten quiet minutes on the usage example after the standup. I end the day with fewer unknowns than I started with.",
+   "en": "The p95 tells the truth my averages hid. In the warm-up round, Priya says, \"I index my notebook.\" Then we swap roles and I ask it back. I go over the request shaping one more time before lunch. I ask one good question about the api reference in the meeting. I end the day with fewer unknowns than I started with.",
+   "tts": "The p95 tells the truth my averages hid. In the warm-up round, Priya says, \"I index my notebook.\" Then we swap roles and I ask it back. I go over the request shaping one more time before lunch. I ask one good question about the api reference in the meeting. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "第 95 百分位数据说出了平均值掩盖的真相。热身环节里，Maria说：\"好笔写起来更顺滑。\"然后我们换角色，由我来问。热身环节里，Priya说：\"便利贴就是我的迭代。\"然后我们换角色，由我来问。Sam 问起头透传，我讲了讲基础。我在笔记本里留了一个网关重试的真实例子。指南里有一小段关于接口密钥的介绍。站会之后，我安安静静花了十分钟在用法示例上。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "第 95 百分位数据说出了平均值掩盖的真相。热身环节里，Priya说：\"我给笔记本做索引。\"然后我们换角色，由我来问。午饭前我又过了一遍请求整形。会上关于接口参考，我问了一个好问题。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "header propagation",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the sandbox look clearer this week. I add the deprecation header to my study notes before I forget it. I go over the response cache one more time before lunch. I ask one good question about the request id in the meeting. In the warm-up round, Leo says, \"I date every page.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Analog slows my thoughts nicely.\" Then we swap roles and I ask it back. Averages flatter; percentiles confess.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the sandbox look clearer this week. I add the deprecation header to my study notes before I forget it. I go over the response cache one more time before lunch. I ask one good question about the request id in the meeting. In the warm-up round, Leo says, \"I date every page.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Analog slows my thoughts nicely.\" Then we swap roles and I ask it back. Averages flatter; percentiles confess.",
+   "en": "The p95 tells the truth my averages hid. Sam asks me about the api key, and I explain the basics. I keep one real example of the header propagation in my notebook. In the warm-up round, Maria says, \"Good pens write smoother.\" Then we swap roles and I ask it back. Averages flatter; percentiles confess.",
+   "tts": "The p95 tells the truth my averages hid. Sam asks me about the api key, and I explain the basics. I keep one real example of the header propagation in my notebook. In the warm-up round, Maria says, \"Good pens write smoother.\" Then we swap roles and I ask it back. Averages flatter; percentiles confess.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于沙箱环境的笔记清楚多了。我趁还没忘，把弃用响应头记进了学习笔记。午饭前我又过了一遍响应缓存。会上关于请求标识，我问了一个好问题。热身环节里，Leo说：\"我给每页写上日期。\"然后我们换角色，由我来问。热身环节里，Maria说：\"纸笔让思绪慢下来\"然后我们换角色，由我来问。平均值会粉饰，百分位数会坦白。",
+   "zh": "第 95 百分位数据说出了平均值掩盖的真相。Sam 问起接口密钥，我讲了讲基础。我在笔记本里留了一个头透传的真实例子。热身环节里，Maria说：\"好笔写起来更顺滑。\"然后我们换角色，由我来问。平均值会粉饰，百分位数会坦白。",
    "hard": [
     {
      "w": "response cache",
@@ -146,6 +146,33 @@
      "def": "弃用响应头，告知接口即将退场"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Averages flatter; percentiles confess. There is a short paragraph about the gateway retry in the guide. In the warm-up round, Maria says, \"Sticky notes are my sprints.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the usage example after the standup. The task moves forward, and so does my confidence.",
+   "tts": "Averages flatter; percentiles confess. There is a short paragraph about the gateway retry in the guide. In the warm-up round, Maria says, \"Sticky notes are my sprints.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the usage example after the standup. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "平均值会粉饰，百分位数会坦白。指南里有一小段关于网关重试的介绍。热身环节里，Maria说：\"便利贴就是我的迭代。\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在用法示例上。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The p95 tells the truth my averages hid. In the warm-up round, Priya says, \"I date every page.\" Then we swap roles and I ask it back. My notes about the sandbox look clearer this week. I add the response cache to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "tts": "The p95 tells the truth my averages hid. In the warm-up round, Priya says, \"I date every page.\" Then we swap roles and I ask it back. My notes about the sandbox look clearer this week. I add the response cache to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "第 95 百分位数据说出了平均值掩盖的真相。热身环节里，Priya说：\"我给每页写上日期。\"然后我们换角色，由我来问。这周我关于沙箱环境的笔记清楚多了。我趁还没忘，把响应缓存记进了学习笔记。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the deprecation header one more time before lunch. I ask one good question about the request id in the meeting. In the warm-up round, Maria says, \"Analog slows my thoughts nicely.\" Then we swap roles and I ask it back. Averages flatter; percentiles confess.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the deprecation header one more time before lunch. I ask one good question about the request id in the meeting. In the warm-up round, Maria says, \"Analog slows my thoughts nicely.\" Then we swap roles and I ask it back. Averages flatter; percentiles confess.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍弃用响应头。会上关于请求标识，我问了一个好问题。热身环节里，Maria说：\"纸笔让思绪慢下来\"然后我们换角色，由我来问。平均值会粉饰，百分位数会坦白。",
+   "hard": []
   }
  ],
  "chunks": [

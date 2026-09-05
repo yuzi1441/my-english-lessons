@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 330,
-   "segment_count": 3,
+   "word_count": 393,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The data team invites us to a joint design session. At the review, we spend ten minutes on the delivery cadence. I connect the weekly cut to the ticket so nothing gets lost. In today's standup, I mention the process map page and what comes next. The guide now has a short section on the responsibility legend. In the meeting drill, Leo says, \"Golden hour is nature's filter.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The same route, new details.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "The data team invites us to a joint design session. At the review, we spend ten minutes on the delivery cadence. I connect the weekly cut to the ticket so nothing gets lost. In today's standup, I mention the process map page and what comes next. The guide now has a short section on the responsibility legend. In the meeting drill, Leo says, \"Golden hour is nature's filter.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The same route, new details.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "en": "The data team invites us to a joint design session. At the review, we spend ten minutes on the delivery cadence. I connect the process map page to the ticket so nothing gets lost. In the meeting drill, Priya says, \"Golden hour is nature's filter.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The data team invites us to a joint design session. At the review, we spend ten minutes on the delivery cadence. I connect the process map page to the ticket so nothing gets lost. In the meeting drill, Priya says, \"Golden hour is nature's filter.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "数据团队邀请我们参加联合设计会。评审时，我们花了十分钟在交付节律上。我把每周剪版关联到工单上，免得遗漏。今天的站会上，我提到流程地图页和接下来的安排。指南里现在有关于职责图例的简短章节。会议演练中，Leo说：\"黄金时刻是大自然的滤镜。\"之后我们换角色再练一遍。会议演练中，Maria说：\"同一条路\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "数据团队邀请我们参加联合设计会。评审时，我们花了十分钟在交付节律上。我把流程地图页关联到工单上，免得遗漏。会议演练中，Priya说：\"黄金时刻是大自然的滤镜。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "delivery cadence",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Their contracts meet our events, and both sides leave with a shared diagram. In the meeting drill, Leo says, \"Dogs choose their humans.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Bakery countdown begins.\" After that, we swap roles and run it again. While the details are fresh, I write down the batch size control. We agree to give the flow efficiency one more careful look this week. Priya suggests a cleaner way to think about the process change log. I compare my notes about the on call runbook index with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Their contracts meet our events, and both sides leave with a shared diagram. In the meeting drill, Leo says, \"Dogs choose their humans.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Bakery countdown begins.\" After that, we swap roles and run it again. While the details are fresh, I write down the batch size control. We agree to give the flow efficiency one more careful look this week. Priya suggests a cleaner way to think about the process change log. I compare my notes about the on call runbook index with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Their contracts meet our events, and both sides leave with a shared diagram. In the meeting drill, Maria says, \"The same route, new details.\" After that, we swap roles and run it again. In today's standup, I mention the weekly cut and what comes next. The guide now has a short section on the responsibility legend. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Their contracts meet our events, and both sides leave with a shared diagram. In the meeting drill, Maria says, \"The same route, new details.\" After that, we swap roles and run it again. In today's standup, I mention the weekly cut and what comes next. The guide now has a short section on the responsibility legend. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "他们的契约遇上我们的事件，双方带着同一张图离开。会议演练中，Leo说：\"狗选中它的人类。\"之后我们换角色再练一遍。会议演练中，Maria说：\"面包店倒计时开始。\"之后我们换角色再练一遍。趁细节还新鲜，我把批量大小控制写了下来。我们说好这周再把流动效率仔细看一次。Priya 提出了一个更清晰的流程变更日志思考方式。我把关于值班手册索引的笔记和 Priya 的对照了一下。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "他们的契约遇上我们的事件，双方带着同一张图离开。会议演练中，Maria说：\"同一条路\"之后我们换角色再练一遍。今天的站会上，我提到每周剪版和接下来的安排。指南里现在有关于职责图例的简短章节。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "batch size control",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the process faq. I connect the single source of truth to the ticket so nothing gets lost. In today's standup, I mention the kanban board hygiene and what comes next. The guide now has a short section on the cycle time trend. In the meeting drill, Priya says, \"Streetlights flicker on like ideas.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Evenings end softly.\" After that, we swap roles and run it again. Bridges need maintenance, not just construction.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the process faq. I connect the single source of truth to the ticket so nothing gets lost. In today's standup, I mention the kanban board hygiene and what comes next. The guide now has a short section on the cycle time trend. In the meeting drill, Priya says, \"Streetlights flicker on like ideas.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Evenings end softly.\" After that, we swap roles and run it again. Bridges need maintenance, not just construction.",
+   "en": "Their contracts meet our events, and both sides leave with a shared diagram. While the details are fresh, I write down the process change log. We agree to give the batch size control one more careful look this week. In the meeting drill, Leo says, \"Dogs choose their humans.\" After that, we swap roles and run it again. Bridges need maintenance, not just construction.",
+   "tts": "Their contracts meet our events, and both sides leave with a shared diagram. While the details are fresh, I write down the process change log. We agree to give the batch size control one more careful look this week. In the meeting drill, Leo says, \"Dogs choose their humans.\" After that, we swap roles and run it again. Bridges need maintenance, not just construction.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在流程 FAQ上。我把唯一事实源关联到工单上，免得遗漏。今天的站会上，我提到看板卫生和接下来的安排。指南里现在有关于周期时间趋势的简短章节。会议演练中，Priya说：\"路灯像灵感一样亮起。\"之后我们换角色再练一遍。会议演练中，Leo说：\"黄昏总是温柔收尾。\"之后我们换角色再练一遍。桥需要养护，不只是修建。",
+   "zh": "他们的契约遇上我们的事件，双方带着同一张图离开。趁细节还新鲜，我把流程变更日志写了下来。我们说好这周再把批量大小控制仔细看一次。会议演练中，Leo说：\"狗选中它的人类。\"之后我们换角色再练一遍。桥需要养护，不只是修建。",
    "hard": [
     {
      "w": "kanban board hygiene",
@@ -146,6 +146,33 @@
      "def": "唯一事实源，一处定义处处引用"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Bridges need maintenance, not just construction. Priya suggests a cleaner way to think about the flow efficiency. In the meeting drill, Leo says, \"Bakery countdown begins.\" After that, we swap roles and run it again. I compare my notes about the on call runbook index with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Bridges need maintenance, not just construction. Priya suggests a cleaner way to think about the flow efficiency. In the meeting drill, Leo says, \"Bakery countdown begins.\" After that, we swap roles and run it again. I compare my notes about the on call runbook index with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "桥需要养护，不只是修建。Priya 提出了一个更清晰的流动效率思考方式。会议演练中，Leo说：\"面包店倒计时开始。\"之后我们换角色再练一遍。我把关于值班手册索引的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Their contracts meet our events, and both sides leave with a shared diagram. In the meeting drill, Maria says, \"Streetlights flicker on like ideas.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the process faq. I connect the kanban board hygiene to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Their contracts meet our events, and both sides leave with a shared diagram. In the meeting drill, Maria says, \"Streetlights flicker on like ideas.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the process faq. I connect the kanban board hygiene to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "他们的契约遇上我们的事件，双方带着同一张图离开。会议演练中，Maria说：\"路灯像灵感一样亮起。\"之后我们换角色再练一遍。评审时，我们花了十分钟在流程 FAQ上。我把看板卫生关联到工单上，免得遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the single source of truth and what comes next. The guide now has a short section on the cycle time trend. In the meeting drill, Leo says, \"Evenings end softly.\" After that, we swap roles and run it again. Bridges need maintenance, not just construction.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the single source of truth and what comes next. The guide now has a short section on the cycle time trend. In the meeting drill, Leo says, \"Evenings end softly.\" After that, we swap roles and run it again. Bridges need maintenance, not just construction.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到唯一事实源和接下来的安排。指南里现在有关于周期时间趋势的简短章节。会议演练中，Leo说：\"黄昏总是温柔收尾。\"之后我们换角色再练一遍。桥需要养护，不只是修建。",
+   "hard": []
   }
  ],
  "chunks": [

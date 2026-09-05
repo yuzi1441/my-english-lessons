@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 404,
-   "segment_count": 3,
+   "word_count": 469,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We rehearse scaling at double the expected peak. I close the discussion on the security architecture review with a short summary. The final deck includes the compliance driven design constraints and what we learned from it. My report covers the security controls as code, the risks behind it, and the cost of waiting. We review the compliance test suite in ci against the requirements, line by line. In the launch rehearsal, Leo says, \"The electrician quotes code compliance.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Smoke alarms wired, not optional.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "We rehearse scaling at double the expected peak. I close the discussion on the security architecture review with a short summary. The final deck includes the compliance driven design constraints and what we learned from it. My report covers the security controls as code, the risks behind it, and the cost of waiting. We review the compliance test suite in ci against the requirements, line by line. In the launch rehearsal, Leo says, \"The electrician quotes code compliance.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Smoke alarms wired, not optional.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "We rehearse scaling at double the expected peak. I close the discussion on the security architecture review with a short summary. The final deck includes the security controls as code and what we learned from it. In the launch rehearsal, Priya says, \"The electrician quotes code compliance.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "We rehearse scaling at double the expected peak. I close the discussion on the security architecture review with a short summary. The final deck includes the security controls as code and what we learned from it. In the launch rehearsal, Priya says, \"The electrician quotes code compliance.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们彩排两倍预期峰值的扩容。我用一段简短的总结为安全架构评审的讨论收尾。最终的材料里有合规驱动的设计约束，以及我们从中学到的东西。我的报告涵盖安全控制即代码、背后的风险，以及等待的代价。我们逐行对照需求检查了CI 合规测试套件。上线彩排中，Leo说：\"电工报价含合规。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"烟感是布线的不选装。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "我们彩排两倍预期峰值的扩容。我用一段简短的总结为安全架构评审的讨论收尾。最终的材料里有安全控制即代码，以及我们从中学到的东西。上线彩排中，Priya说：\"电工报价含合规。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "security architecture review",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The stateless services stretch; the stateful ones negotiate. In the launch rehearsal, Leo says, \"Child proofing passed inspection first.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Emergency exits stay furniture free.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the audit trail by design with a timeline, the data, and one clear ask. We align on the data boundary in diagrams early, so execution never has to guess. I put the data residency routing design on the record so the reasoning stays visible. I propose a measurable target for the audit evidence auto export this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "The stateless services stretch; the stateful ones negotiate. In the launch rehearsal, Leo says, \"Child proofing passed inspection first.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Emergency exits stay furniture free.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the audit trail by design with a timeline, the data, and one clear ask. We align on the data boundary in diagrams early, so execution never has to guess. I put the data residency routing design on the record so the reasoning stays visible. I propose a measurable target for the audit evidence auto export this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "The stateless services stretch; the stateful ones negotiate. In the launch rehearsal, Maria says, \"Smoke alarms wired, not optional.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the compliance driven design constraints, the risks behind it, and the cost of waiting. We review the compliance test suite in ci against the requirements, line by line. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The stateless services stretch; the stateful ones negotiate. In the launch rehearsal, Maria says, \"Smoke alarms wired, not optional.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the compliance driven design constraints, the risks behind it, and the cost of waiting. We review the compliance test suite in ci against the requirements, line by line. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "无状态服务伸展开；有状态的服务开始谈判。上线彩排中，Leo说：\"儿童防护先过验收。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"消防通道不堆家具。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报审计留痕始于设计。我们尽早就数据边界入图对齐，让执行无需猜测。我把数据驻留路由设计记录在案，让推理过程保持可见。我为审计证据自动导出提出了本季度一个可衡量的目标。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "无状态服务伸展开；有状态的服务开始谈判。上线彩排中，Maria说：\"烟感是布线的不选装。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖合规驱动的设计约束、背后的风险，以及等待的代价。我们逐行对照需求检查了CI 合规测试套件。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "audit trail by design",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the privacy review gate in pipeline with a short summary. The final deck includes the regulation watch backlog and what we learned from it. My report covers the least privilege network zones, the risks behind it, and the cost of waiting. We review the secret rotation friendly design against the requirements, line by line. In the launch rehearsal, Priya says, \"The safe is anchored to concrete.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Code compliance is quiet comfort.\" To finish, we swap roles and I lead the entire exchange from start to finish. The capacity doc now has numbers instead of vibes.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the privacy review gate in pipeline with a short summary. The final deck includes the regulation watch backlog and what we learned from it. My report covers the least privilege network zones, the risks behind it, and the cost of waiting. We review the secret rotation friendly design against the requirements, line by line. In the launch rehearsal, Priya says, \"The safe is anchored to concrete.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Code compliance is quiet comfort.\" To finish, we swap roles and I lead the entire exchange from start to finish. The capacity doc now has numbers instead of vibes.",
+   "en": "The stateless services stretch; the stateful ones negotiate. I present the data residency routing design with a timeline, the data, and one clear ask. We align on the audit trail by design early, so execution never has to guess. In the launch rehearsal, Leo says, \"Child proofing passed inspection first.\" To finish, we swap roles and I lead the entire exchange from start to finish. The capacity doc now has numbers instead of vibes.",
+   "tts": "The stateless services stretch; the stateful ones negotiate. I present the data residency routing design with a timeline, the data, and one clear ask. We align on the audit trail by design early, so execution never has to guess. In the launch rehearsal, Leo says, \"Child proofing passed inspection first.\" To finish, we swap roles and I lead the entire exchange from start to finish. The capacity doc now has numbers instead of vibes.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为流水线隐私评审门的讨论收尾。最终的材料里有法规监视积压单，以及我们从中学到的东西。我的报告涵盖最小权限网络分区、背后的风险，以及等待的代价。我们逐行对照需求检查了密钥轮换友好设计。上线彩排中，Priya说：\"保险柜锚进混凝土。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"合规是安静的安心。\"最后我们互换角色，由我从头到尾主导整段对话。容量文档里终于有数字而不是气氛。",
+   "zh": "无状态服务伸展开；有状态的服务开始谈判。我用时间线、数据和一条明确的诉求来汇报数据驻留路由设计。我们尽早就审计留痕始于设计对齐，让执行无需猜测。上线彩排中，Leo说：\"儿童防护先过验收。\"最后我们互换角色，由我从头到尾主导整段对话。容量文档里终于有数字而不是气氛。",
    "hard": [
     {
      "w": "least privilege network zones",
@@ -146,6 +146,33 @@
      "def": "法规监视积压单，新规变任务"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The capacity doc now has numbers instead of vibes. I put the data boundary in diagrams on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"Emergency exits stay furniture free.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the audit evidence auto export this quarter. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "The capacity doc now has numbers instead of vibes. I put the data boundary in diagrams on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"Emergency exits stay furniture free.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the audit evidence auto export this quarter. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "容量文档里终于有数字而不是气氛。我把数据边界入图记录在案，让推理过程保持可见。上线彩排中，Leo说：\"消防通道不堆家具。\"最后我们互换角色，由我从头到尾主导整段对话。我为审计证据自动导出提出了本季度一个可衡量的目标。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The stateless services stretch; the stateful ones negotiate. In the launch rehearsal, Maria says, \"The safe is anchored to concrete.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the privacy review gate in pipeline with a short summary. The final deck includes the least privilege network zones and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The stateless services stretch; the stateful ones negotiate. In the launch rehearsal, Maria says, \"The safe is anchored to concrete.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the privacy review gate in pipeline with a short summary. The final deck includes the least privilege network zones and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "无状态服务伸展开；有状态的服务开始谈判。上线彩排中，Maria说：\"保险柜锚进混凝土。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为流水线隐私评审门的讨论收尾。最终的材料里有最小权限网络分区，以及我们从中学到的东西。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the regulation watch backlog, the risks behind it, and the cost of waiting. We review the secret rotation friendly design against the requirements, line by line. In the launch rehearsal, Leo says, \"Code compliance is quiet comfort.\" To finish, we swap roles and I lead the entire exchange from start to finish. The capacity doc now has numbers instead of vibes.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the regulation watch backlog, the risks behind it, and the cost of waiting. We review the secret rotation friendly design against the requirements, line by line. In the launch rehearsal, Leo says, \"Code compliance is quiet comfort.\" To finish, we swap roles and I lead the entire exchange from start to finish. The capacity doc now has numbers instead of vibes.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖法规监视积压单、背后的风险，以及等待的代价。我们逐行对照需求检查了密钥轮换友好设计。上线彩排中，Leo说：\"合规是安静的安心。\"最后我们互换角色，由我从头到尾主导整段对话。容量文档里终于有数字而不是气氛。",
+   "hard": []
   }
  ],
  "chunks": [

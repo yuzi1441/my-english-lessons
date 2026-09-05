@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 400,
-   "segment_count": 3,
+   "word_count": 475,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My hundredth one on one falls on a rainy Tuesday. I close the discussion on the delegation level framework with a short summary. We review the outcome over method briefing against the requirements, line by line. I propose a measurable target for the ownership transfer checklist this quarter. We align on the code ownership by interest early, so execution never has to guess. In the launch rehearsal, Leo says, \"She cracks eggs her own way.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"I bite back the corrections.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "My hundredth one on one falls on a rainy Tuesday. I close the discussion on the delegation level framework with a short summary. We review the outcome over method briefing against the requirements, line by line. I propose a measurable target for the ownership transfer checklist this quarter. We align on the code ownership by interest early, so execution never has to guess. In the launch rehearsal, Leo says, \"She cracks eggs her own way.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"I bite back the corrections.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "My hundredth one on one falls on a rainy Tuesday. I close the discussion on the delegation level framework with a short summary. We review the ownership transfer checklist against the requirements, line by line. In the launch rehearsal, Priya says, \"She cracks eggs her own way.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "My hundredth one on one falls on a rainy Tuesday. I close the discussion on the delegation level framework with a short summary. We review the ownership transfer checklist against the requirements, line by line. In the launch rehearsal, Priya says, \"She cracks eggs her own way.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第一百次一对一落在一个雨天的周二。我用一段简短的总结为委派层级框架的讨论收尾。我们逐行对照需求检查了讲结果不讲方法。我为所有权转移清单提出了本季度一个可衡量的目标。我们尽早就按兴趣分代码归属对齐，让执行无需猜测。上线彩排中，Leo说：\"她有自己的打蛋方式。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"我忍住了纠正的冲动。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "第一百次一对一落在一个雨天的周二。我用一段简短的总结为委派层级框架的讨论收尾。我们逐行对照需求检查了所有权转移清单。上线彩排中，Priya说：\"她有自己的打蛋方式。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "delegation level framework",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We read the first notes together and laugh at how scared we both were. In the launch rehearsal, Leo says, \"The kitchen survives the experiment.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Her pasta has a secret now.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the context transfer doc with a timeline, the data, and one clear ask. I put the trust but verify checkpoints on the record so the reasoning stays visible. The final deck includes the review load rebalancing and what we learned from it. My report covers the first release ownership, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "We read the first notes together and laugh at how scared we both were. In the launch rehearsal, Leo says, \"The kitchen survives the experiment.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Her pasta has a secret now.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the context transfer doc with a timeline, the data, and one clear ask. I put the trust but verify checkpoints on the record so the reasoning stays visible. The final deck includes the review load rebalancing and what we learned from it. My report covers the first release ownership, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "We read the first notes together and laugh at how scared we both were. In the launch rehearsal, Maria says, \"I bite back the corrections.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the outcome over method briefing this quarter. We align on the code ownership by interest early, so execution never has to guess. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "We read the first notes together and laugh at how scared we both were. In the launch rehearsal, Maria says, \"I bite back the corrections.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the outcome over method briefing this quarter. We align on the code ownership by interest early, so execution never has to guess. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们一起读最初的笔记，笑当初彼此都那么怕。上线彩排中，Leo说：\"厨房挺过了实验。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"她的意面有了秘密配方。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报上下文转移文档。我把信任但设检查点记录在案，让推理过程保持可见。最终的材料里有评审负载再平衡，以及我们从中学到的东西。我的报告涵盖第一次发布所有权、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "我们一起读最初的笔记，笑当初彼此都那么怕。上线彩排中，Maria说：\"我忍住了纠正的冲动。\"最后我们互换角色，由我从头到尾主导整段对话。我为讲结果不讲方法提出了本季度一个可衡量的目标。我们尽早就按兴趣分代码归属对齐，让执行无需猜测。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "context transfer doc",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the mentored pr flow with a short summary. We review the delegation retro questions against the requirements, line by line. I propose a measurable target for the boring task automation first this quarter. We align on the growth stretch assignment early, so execution never has to guess. In the launch rehearsal, Priya says, \"Mess is the tuition of learning.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Proud chef, proud aunt.\" To finish, we swap roles and I lead the entire exchange from start to finish. A hundred cups of tea built a team.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the mentored pr flow with a short summary. We review the delegation retro questions against the requirements, line by line. I propose a measurable target for the boring task automation first this quarter. We align on the growth stretch assignment early, so execution never has to guess. In the launch rehearsal, Priya says, \"Mess is the tuition of learning.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Proud chef, proud aunt.\" To finish, we swap roles and I lead the entire exchange from start to finish. A hundred cups of tea built a team.",
+   "en": "We read the first notes together and laugh at how scared we both were. I present the review load rebalancing with a timeline, the data, and one clear ask. I put the context transfer doc on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"The kitchen survives the experiment.\" To finish, we swap roles and I lead the entire exchange from start to finish. A hundred cups of tea built a team.",
+   "tts": "We read the first notes together and laugh at how scared we both were. I present the review load rebalancing with a timeline, the data, and one clear ask. I put the context transfer doc on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"The kitchen survives the experiment.\" To finish, we swap roles and I lead the entire exchange from start to finish. A hundred cups of tea built a team.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为带教式 PR 流程的讨论收尾。我们逐行对照需求检查了委派复盘问题。我为无聊任务先自动化提出了本季度一个可衡量的目标。我们尽早就拉伸式任务分配对齐，让执行无需猜测。上线彩排中，Priya说：\"混乱是学习的学费。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"骄傲的厨师\"最后我们互换角色，由我从头到尾主导整段对话。一百杯茶筑起了一个团队。",
+   "zh": "我们一起读最初的笔记，笑当初彼此都那么怕。我用时间线、数据和一条明确的诉求来汇报评审负载再平衡。我把上下文转移文档记录在案，让推理过程保持可见。上线彩排中，Leo说：\"厨房挺过了实验。\"最后我们互换角色，由我从头到尾主导整段对话。一百杯茶筑起了一个团队。",
    "hard": [
     {
      "w": "boring task automation first",
@@ -146,6 +146,33 @@
      "def": "委派复盘问题，哪些该早放手"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "A hundred cups of tea built a team. The final deck includes the trust but verify checkpoints and what we learned from it. In the launch rehearsal, Leo says, \"Her pasta has a secret now.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the first release ownership, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "A hundred cups of tea built a team. The final deck includes the trust but verify checkpoints and what we learned from it. In the launch rehearsal, Leo says, \"Her pasta has a secret now.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the first release ownership, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "一百杯茶筑起了一个团队。最终的材料里有信任但设检查点，以及我们从中学到的东西。上线彩排中，Leo说：\"她的意面有了秘密配方。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖第一次发布所有权、背后的风险，以及等待的代价。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We read the first notes together and laugh at how scared we both were. In the launch rehearsal, Maria says, \"Mess is the tuition of learning.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the mentored pr flow with a short summary. We review the boring task automation first against the requirements, line by line. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "We read the first notes together and laugh at how scared we both were. In the launch rehearsal, Maria says, \"Mess is the tuition of learning.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the mentored pr flow with a short summary. We review the boring task automation first against the requirements, line by line. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们一起读最初的笔记，笑当初彼此都那么怕。上线彩排中，Maria说：\"混乱是学习的学费。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为带教式 PR 流程的讨论收尾。我们逐行对照需求检查了无聊任务先自动化。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the delegation retro questions this quarter. We align on the growth stretch assignment early, so execution never has to guess. In the launch rehearsal, Leo says, \"Proud chef, proud aunt.\" To finish, we swap roles and I lead the entire exchange from start to finish. A hundred cups of tea built a team.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the delegation retro questions this quarter. We align on the growth stretch assignment early, so execution never has to guess. In the launch rehearsal, Leo says, \"Proud chef, proud aunt.\" To finish, we swap roles and I lead the entire exchange from start to finish. A hundred cups of tea built a team.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为委派复盘问题提出了本季度一个可衡量的目标。我们尽早就拉伸式任务分配对齐，让执行无需猜测。上线彩排中，Leo说：\"骄傲的厨师\"最后我们互换角色，由我从头到尾主导整段对话。一百杯茶筑起了一个团队。",
+   "hard": []
   }
  ],
  "chunks": [

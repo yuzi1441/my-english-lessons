@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 338,
-   "segment_count": 3,
+   "word_count": 409,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "An AI generated chart looks flawless in the review deck. The guide now has a short section on the meeting transcription. While the details are fresh, I write down the action item extraction. I connect the auto triage draft to the ticket so nothing gets lost. We agree to give the duplicate detection assist one more careful look this week. In the meeting drill, Maria says, \"The too perfect photo.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Six fingers, the classic tell.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "An A I generated chart looks flawless in the review deck. The guide now has a short section on the meeting transcription. While the details are fresh, I write down the action item extraction. I connect the auto triage draft to the ticket so nothing gets lost. We agree to give the duplicate detection assist one more careful look this week. In the meeting drill, Maria says, \"The too perfect photo.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Six fingers, the classic tell.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "An AI generated chart looks flawless in the review deck. The guide now has a short section on the meeting transcription. While the details are fresh, I write down the auto triage draft. In the meeting drill, Leo says, \"The too perfect photo.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "An A I generated chart looks flawless in the review deck. The guide now has a short section on the meeting transcription. While the details are fresh, I write down the auto triage draft. In the meeting drill, Leo says, \"The too perfect photo.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一张 AI 生成的图表在评审稿里完美无瑕。指南里现在有关于会议转写的简短章节。趁细节还新鲜，我把行动项提取写了下来。我把自动分诊草稿关联到工单上，免得遗漏。我们说好这周再把重复检测辅助仔细看一次。会议演练中，Maria说：\"完美得可疑的照片。\"之后我们换角色再练一遍。会议演练中，Priya说：\"六根手指\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "一张 AI 生成的图表在评审稿里完美无瑕。指南里现在有关于会议转写的简短章节。趁细节还新鲜，我把自动分诊草稿写了下来。会议演练中，Leo说：\"完美得可疑的照片。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "meeting transcription",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The axis labels are gibberish; nobody had looked below the headline. In the meeting drill, Maria says, \"Reverse image search habit.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The emotional headline pause.\" After that, we swap roles and run it again. I compare my notes about the summary etiquette with Priya's. Priya suggests a cleaner way to think about the speaker attribution errors. At the review, we spend ten minutes on the severity suggestion review. In today's standup, I mention the label suggestion acceptance and what comes next. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "The axis labels are gibberish; nobody had looked below the headline. In the meeting drill, Maria says, \"Reverse image search habit.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The emotional headline pause.\" After that, we swap roles and run it again. I compare my notes about the summary etiquette with Priya's. Priya suggests a cleaner way to think about the speaker attribution errors. At the review, we spend ten minutes on the severity suggestion review. In today's standup, I mention the label suggestion acceptance and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "en": "The axis labels are gibberish; nobody had looked below the headline. In the meeting drill, Priya says, \"Six fingers, the classic tell.\" After that, we swap roles and run it again. I connect the action item extraction to the ticket so nothing gets lost. We agree to give the duplicate detection assist one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The axis labels are gibberish; nobody had looked below the headline. In the meeting drill, Priya says, \"Six fingers, the classic tell.\" After that, we swap roles and run it again. I connect the action item extraction to the ticket so nothing gets lost. We agree to give the duplicate detection assist one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "坐标轴标签是乱码；没人看过标题以下的部分。会议演练中，Maria说：\"反向搜图的习惯。\"之后我们换角色再练一遍。会议演练中，Priya说：\"情绪化标题先停一秒。\"之后我们换角色再练一遍。我把关于摘要礼仪的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的说话人标注错误思考方式。评审时，我们花了十分钟在严重级别建议复核上。今天的站会上，我提到标签建议采纳率和接下来的安排。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "坐标轴标签是乱码；没人看过标题以下的部分。会议演练中，Priya说：\"六根手指\"之后我们换角色再练一遍。我把行动项提取关联到工单上，免得遗漏。我们说好这周再把重复检测辅助仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "summary etiquette",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the escalation false positives. While the details are fresh, I write down the triage bot fallback. I connect the sensitive meeting opt out to the ticket so nothing gets lost. We agree to give the searchable meeting archive one more careful look this week. In the meeting drill, Leo says, \"Share slower than bots.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Media literacy at dinner.\" After that, we swap roles and run it again. We add one rule: AI drafts, humans fact-check the confident parts.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the escalation false positives. While the details are fresh, I write down the triage bot fallback. I connect the sensitive meeting opt out to the ticket so nothing gets lost. We agree to give the searchable meeting archive one more careful look this week. In the meeting drill, Leo says, \"Share slower than bots.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Media literacy at dinner.\" After that, we swap roles and run it again. We add one rule: A I drafts, humans fact-check the confident parts.",
+   "en": "The axis labels are gibberish; nobody had looked below the headline. I compare my notes about the severity suggestion review with Priya's. Priya suggests a cleaner way to think about the summary etiquette. In the meeting drill, Maria says, \"Reverse image search habit.\" After that, we swap roles and run it again. We add one rule: AI drafts, humans fact-check the confident parts.",
+   "tts": "The axis labels are gibberish; nobody had looked below the headline. I compare my notes about the severity suggestion review with Priya's. Priya suggests a cleaner way to think about the summary etiquette. In the meeting drill, Maria says, \"Reverse image search habit.\" After that, we swap roles and run it again. We add one rule: A I drafts, humans fact-check the confident parts.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于升级误报治理的简短章节。趁细节还新鲜，我把分诊机器人兜底写了下来。我把敏感会议退出机制关联到工单上，免得遗漏。我们说好这周再把可检索会议存档仔细看一次。会议演练中，Leo说：\"比机器人慢一点转发。\"之后我们换角色再练一遍。会议演练中，Maria说：\"饭桌上的媒介素养。\"之后我们换角色再练一遍。我们加了一条规则：AI 起草，人来核实那些自信的部分。",
+   "zh": "坐标轴标签是乱码；没人看过标题以下的部分。我把关于严重级别建议复核的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的摘要礼仪思考方式。会议演练中，Maria说：\"反向搜图的习惯。\"之后我们换角色再练一遍。我们加了一条规则：AI 起草，人来核实那些自信的部分。",
    "hard": [
     {
      "w": "sensitive meeting opt out",
@@ -146,6 +146,33 @@
      "def": "分诊机器人兜底，拿不准就转人"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "We add one rule: AI drafts, humans fact-check the confident parts. At the review, we spend ten minutes on the speaker attribution errors. In the meeting drill, Maria says, \"The emotional headline pause.\" After that, we swap roles and run it again. In today's standup, I mention the label suggestion acceptance and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We add one rule: A I drafts, humans fact-check the confident parts. At the review, we spend ten minutes on the speaker attribution errors. In the meeting drill, Maria says, \"The emotional headline pause.\" After that, we swap roles and run it again. In today's standup, I mention the label suggestion acceptance and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "我们加了一条规则：AI 起草，人来核实那些自信的部分。评审时，我们花了十分钟在说话人标注错误上。会议演练中，Maria说：\"情绪化标题先停一秒。\"之后我们换角色再练一遍。今天的站会上，我提到标签建议采纳率和接下来的安排。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The axis labels are gibberish; nobody had looked below the headline. In the meeting drill, Priya says, \"Share slower than bots.\" After that, we swap roles and run it again. The guide now has a short section on the escalation false positives. While the details are fresh, I write down the sensitive meeting opt out. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The axis labels are gibberish; nobody had looked below the headline. In the meeting drill, Priya says, \"Share slower than bots.\" After that, we swap roles and run it again. The guide now has a short section on the escalation false positives. While the details are fresh, I write down the sensitive meeting opt out. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "坐标轴标签是乱码；没人看过标题以下的部分。会议演练中，Priya说：\"比机器人慢一点转发。\"之后我们换角色再练一遍。指南里现在有关于升级误报治理的简短章节。趁细节还新鲜，我把敏感会议退出机制写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the triage bot fallback to the ticket so nothing gets lost. We agree to give the searchable meeting archive one more careful look this week. In the meeting drill, Maria says, \"Media literacy at dinner.\" After that, we swap roles and run it again. We add one rule: AI drafts, humans fact-check the confident parts.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the triage bot fallback to the ticket so nothing gets lost. We agree to give the searchable meeting archive one more careful look this week. In the meeting drill, Maria says, \"Media literacy at dinner.\" After that, we swap roles and run it again. We add one rule: A I drafts, humans fact-check the confident parts.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把分诊机器人兜底关联到工单上，免得遗漏。我们说好这周再把可检索会议存档仔细看一次。会议演练中，Maria说：\"饭桌上的媒介素养。\"之后我们换角色再练一遍。我们加了一条规则：AI 起草，人来核实那些自信的部分。",
+   "hard": []
   }
  ],
  "chunks": [

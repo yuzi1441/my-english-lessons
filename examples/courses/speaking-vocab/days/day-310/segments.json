@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 402,
-   "segment_count": 3,
+   "word_count": 472,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Regional rules arrive: certain data must stay in country. We review the architecture debt register against the requirements, line by line. We align on the refactor vs rewrite decision early, so execution never has to guess. I put the debt review quarterly ritual on the record so the reasoning stays visible. My report covers the debt interest estimation guide, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"We patch the roof before the rainy season.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Cosmetic upgrades wait for structure.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "Regional rules arrive: certain data must stay in country. We review the architecture debt register against the requirements, line by line. We align on the refactor vs rewrite decision early, so execution never has to guess. I put the debt review quarterly ritual on the record so the reasoning stays visible. My report covers the debt interest estimation guide, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"We patch the roof before the rainy season.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Cosmetic upgrades wait for structure.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "Regional rules arrive: certain data must stay in country. We review the architecture debt register against the requirements, line by line. We align on the debt review quarterly ritual early, so execution never has to guess. In the launch rehearsal, Maria says, \"We patch the roof before the rainy season.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Regional rules arrive: certain data must stay in country. We review the architecture debt register against the requirements, line by line. We align on the debt review quarterly ritual early, so execution never has to guess. In the launch rehearsal, Maria says, \"We patch the roof before the rainy season.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "区域法规到了：某些数据必须留在境内。我们逐行对照需求检查了架构债登记簿。我们尽早就重构还是重写决策对齐，让执行无需猜测。我把季度架构债复盘仪式记录在案，让推理过程保持可见。我的报告涵盖债务利息估算指南、背后的风险，以及等待的代价。上线彩排中，Priya说：\"雨季前修屋顶。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"结构没好不谈颜值。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "区域法规到了：某些数据必须留在境内。我们逐行对照需求检查了架构债登记簿。我们尽早就季度架构债复盘仪式对齐，让执行无需猜测。上线彩排中，Maria说：\"雨季前修屋顶。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "architecture debt register",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We route by residency and design the borders into the diagram. In the launch rehearsal, Priya says, \"The foundation inspection is yearly.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Old houses teach incrementalism.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the modernization wave plan and what we learned from it. I close the discussion on the compatibility shim strategy with a short summary. I present the refactor window scheduling with a timeline, the data, and one clear ask. I propose a measurable target for the architecture decision archaeology this quarter. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "We route by residency and design the borders into the diagram. In the launch rehearsal, Priya says, \"The foundation inspection is yearly.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Old houses teach incrementalism.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the modernization wave plan and what we learned from it. I close the discussion on the compatibility shim strategy with a short summary. I present the refactor window scheduling with a timeline, the data, and one clear ask. I propose a measurable target for the architecture decision archaeology this quarter. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "We route by residency and design the borders into the diagram. In the launch rehearsal, Leo says, \"Cosmetic upgrades wait for structure.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the refactor vs rewrite decision on the record so the reasoning stays visible. My report covers the debt interest estimation guide, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "We route by residency and design the borders into the diagram. In the launch rehearsal, Leo says, \"Cosmetic upgrades wait for structure.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the refactor vs rewrite decision on the record so the reasoning stays visible. My report covers the debt interest estimation guide, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们按驻留路由，把边界画进了架构图。上线彩排中，Priya说：\"地基年检雷打不动。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"老房子教增量主义。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有现代化浪潮计划，以及我们从中学到的东西。我用一段简短的总结为兼容垫片策略的讨论收尾。我用时间线、数据和一条明确的诉求来汇报重构窗口排期。我为架构决策考古提出了本季度一个可衡量的目标。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "我们按驻留路由，把边界画进了架构图。上线彩排中，Leo说：\"结构没好不谈颜值。\"最后我们互换角色，由我从头到尾主导整段对话。我把重构还是重写决策记录在案，让推理过程保持可见。我的报告涵盖债务利息估算指南、背后的风险，以及等待的代价。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "modernization wave plan",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the legacy module quarantine plan against the requirements, line by line. We align on the debt burn down chart early, so execution never has to guess. I put the debt interest visualization on the record so the reasoning stays visible. My report covers the big rewrite risk checklist, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"Every repair gets documented.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Demolition is the last resort.\" To finish, we swap roles and I lead the entire exchange from start to finish. Compliance shaped the architecture, and it looks better now.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the legacy module quarantine plan against the requirements, line by line. We align on the debt burn down chart early, so execution never has to guess. I put the debt interest visualization on the record so the reasoning stays visible. My report covers the big rewrite risk checklist, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"Every repair gets documented.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Demolition is the last resort.\" To finish, we swap roles and I lead the entire exchange from start to finish. Compliance shaped the architecture, and it looks better now.",
+   "en": "We route by residency and design the borders into the diagram. The final deck includes the refactor window scheduling and what we learned from it. I close the discussion on the modernization wave plan with a short summary. In the launch rehearsal, Priya says, \"The foundation inspection is yearly.\" To finish, we swap roles and I lead the entire exchange from start to finish. Compliance shaped the architecture, and it looks better now.",
+   "tts": "We route by residency and design the borders into the diagram. The final deck includes the refactor window scheduling and what we learned from it. I close the discussion on the modernization wave plan with a short summary. In the launch rehearsal, Priya says, \"The foundation inspection is yearly.\" To finish, we swap roles and I lead the entire exchange from start to finish. Compliance shaped the architecture, and it looks better now.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了遗留模块隔离计划。我们尽早就债务燃尽图对齐，让执行无需猜测。我把债务利息可视化记录在案，让推理过程保持可见。我的报告涵盖大重写风险清单、背后的风险，以及等待的代价。上线彩排中，Maria说：\"每次维修都记录在案。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"推倒是最后手段。\"最后我们互换角色，由我从头到尾主导整段对话。合规塑造了架构，而且它因此更好看了。",
+   "zh": "我们按驻留路由，把边界画进了架构图。最终的材料里有重构窗口排期，以及我们从中学到的东西。我用一段简短的总结为现代化浪潮计划的讨论收尾。上线彩排中，Priya说：\"地基年检雷打不动。\"最后我们互换角色，由我从头到尾主导整段对话。合规塑造了架构，而且它因此更好看了。",
    "hard": [
     {
      "w": "debt interest visualization",
@@ -146,6 +146,33 @@
      "def": "债务燃尽图，还债看得见"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Compliance shaped the architecture, and it looks better now. I present the compatibility shim strategy with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"Old houses teach incrementalism.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the architecture decision archaeology this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Compliance shaped the architecture, and it looks better now. I present the compatibility shim strategy with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"Old houses teach incrementalism.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the architecture decision archaeology this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "合规塑造了架构，而且它因此更好看了。我用时间线、数据和一条明确的诉求来汇报兼容垫片策略。上线彩排中，Priya说：\"老房子教增量主义。\"最后我们互换角色，由我从头到尾主导整段对话。我为架构决策考古提出了本季度一个可衡量的目标。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We route by residency and design the borders into the diagram. In the launch rehearsal, Leo says, \"Every repair gets documented.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the legacy module quarantine plan against the requirements, line by line. We align on the debt interest visualization early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "We route by residency and design the borders into the diagram. In the launch rehearsal, Leo says, \"Every repair gets documented.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the legacy module quarantine plan against the requirements, line by line. We align on the debt interest visualization early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们按驻留路由，把边界画进了架构图。上线彩排中，Leo说：\"每次维修都记录在案。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了遗留模块隔离计划。我们尽早就债务利息可视化对齐，让执行无需猜测。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the debt burn down chart on the record so the reasoning stays visible. My report covers the big rewrite risk checklist, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Demolition is the last resort.\" To finish, we swap roles and I lead the entire exchange from start to finish. Compliance shaped the architecture, and it looks better now.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the debt burn down chart on the record so the reasoning stays visible. My report covers the big rewrite risk checklist, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Demolition is the last resort.\" To finish, we swap roles and I lead the entire exchange from start to finish. Compliance shaped the architecture, and it looks better now.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把债务燃尽图记录在案，让推理过程保持可见。我的报告涵盖大重写风险清单、背后的风险，以及等待的代价。上线彩排中，Priya说：\"推倒是最后手段。\"最后我们互换角色，由我从头到尾主导整段对话。合规塑造了架构，而且它因此更好看了。",
+   "hard": []
   }
  ],
  "chunks": [

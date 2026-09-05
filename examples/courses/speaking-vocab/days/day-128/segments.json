@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 329,
-   "segment_count": 3,
+   "word_count": 394,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My calendar audit finds eleven hours of weekly meetings. I connect the release calendar to the ticket so nothing gets lost. The guide now has a short section on the change traffic light. At the review, we spend ten minutes on the release announcer. I compare my notes about the test pilot with Priya's. In the meeting drill, Maria says, \"Latte art practice continues.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The regulars' orders by heart.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "My calendar audit finds eleven hours of weekly meetings. I connect the release calendar to the ticket so nothing gets lost. The guide now has a short section on the change traffic light. At the review, we spend ten minutes on the release announcer. I compare my notes about the test pilot with Priya's. In the meeting drill, Maria says, \"Latte art practice continues.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The regulars' orders by heart.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "My calendar audit finds eleven hours of weekly meetings. I connect the release calendar to the ticket so nothing gets lost. The guide now has a short section on the release announcer. In the meeting drill, Leo says, \"Latte art practice continues.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "My calendar audit finds eleven hours of weekly meetings. I connect the release calendar to the ticket so nothing gets lost. The guide now has a short section on the release announcer. In the meeting drill, Leo says, \"Latte art practice continues.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的会议审计发现每周十一小时在开会。我把发布日历关联到工单上，免得遗漏。指南里现在有关于变更红绿灯的简短章节。评审时，我们花了十分钟在发布播音员上。我把关于试飞员的笔记和 Priya 的对照了一下。会议演练中，Maria说：\"拉花练习还在继续。\"之后我们换角色再练一遍。会议演练中，Priya说：\"熟客的订单都背下来了。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我的会议审计发现每周十一小时在开会。我把发布日历关联到工单上，免得遗漏。指南里现在有关于发布播音员的简短章节。会议演练中，Leo说：\"拉花练习还在继续。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "release calendar",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We cut half, shorten the rest, and async the status ones. In the meeting drill, Maria says, \"A bad day fixed by foam.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"New beans, brighter notes.\" After that, we swap roles and run it again. We agree to give the freeze notice board one more careful look this week. In today's standup, I mention the release train ticket and what comes next. Priya suggests a cleaner way to think about the notes scribe. While the details are fresh, I write down the timeline keeper. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "We cut half, shorten the rest, and async the status ones. In the meeting drill, Maria says, \"A bad day fixed by foam.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"New beans, brighter notes.\" After that, we swap roles and run it again. We agree to give the freeze notice board one more careful look this week. In today's standup, I mention the release train ticket and what comes next. Priya suggests a cleaner way to think about the notes scribe. While the details are fresh, I write down the timeline keeper. I close the ticket with a clear result and one lesson for next time.",
+   "en": "We cut half, shorten the rest, and async the status ones. In the meeting drill, Priya says, \"The regulars' orders by heart.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the change traffic light. I compare my notes about the test pilot with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We cut half, shorten the rest, and async the status ones. In the meeting drill, Priya says, \"The regulars' orders by heart.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the change traffic light. I compare my notes about the test pilot with Priya's. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们砍掉一半、缩短其余，状态类全部异步。会议演练中，Maria说：\"奶泡治愈糟糕的一天。\"之后我们换角色再练一遍。会议演练中，Priya说：\"新豆子\"之后我们换角色再练一遍。我们说好这周再把冻结公告板仔细看一次。今天的站会上，我提到发布列车票和接下来的安排。Priya 提出了一个更清晰的发布书记思考方式。趁细节还新鲜，我把时间线管理员写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我们砍掉一半、缩短其余，状态类全部异步。会议演练中，Priya说：\"熟客的订单都背下来了。\"之后我们换角色再练一遍。评审时，我们花了十分钟在变更红绿灯上。我把关于试飞员的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "freeze notice board",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the go signal holder to the ticket so nothing gets lost. The guide now has a short section on the post release scribe. At the review, we spend ten minutes on the late change policy. I compare my notes about the announcement draft review with Priya's. In the meeting drill, Leo says, \"Closing shift stories.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Tips in the community jar.\" After that, we swap roles and run it again. Silence on a calendar is also a feature.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the go signal holder to the ticket so nothing gets lost. The guide now has a short section on the post release scribe. At the review, we spend ten minutes on the late change policy. I compare my notes about the announcement draft review with Priya's. In the meeting drill, Leo says, \"Closing shift stories.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Tips in the community jar.\" After that, we swap roles and run it again. Silence on a calendar is also a feature.",
+   "en": "We cut half, shorten the rest, and async the status ones. We agree to give the notes scribe one more careful look this week. In today's standup, I mention the freeze notice board and what comes next. In the meeting drill, Maria says, \"A bad day fixed by foam.\" After that, we swap roles and run it again. Silence on a calendar is also a feature.",
+   "tts": "We cut half, shorten the rest, and async the status ones. We agree to give the notes scribe one more careful look this week. In today's standup, I mention the freeze notice board and what comes next. In the meeting drill, Maria says, \"A bad day fixed by foam.\" After that, we swap roles and run it again. Silence on a calendar is also a feature.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把放行信号员关联到工单上，免得遗漏。指南里现在有关于发布后记录员的简短章节。评审时，我们花了十分钟在迟来变更政策上。我把关于公告草稿评审的笔记和 Priya 的对照了一下。会议演练中，Leo说：\"晚班收店的故事。\"之后我们换角色再练一遍。会议演练中，Maria说：\"小费进了社区罐子。\"之后我们换角色再练一遍。日历上的空白也是一种功能。",
+   "zh": "我们砍掉一半、缩短其余，状态类全部异步。我们说好这周再把发布书记仔细看一次。今天的站会上，我提到冻结公告板和接下来的安排。会议演练中，Maria说：\"奶泡治愈糟糕的一天。\"之后我们换角色再练一遍。日历上的空白也是一种功能。",
    "hard": [
     {
      "w": "late change policy",
@@ -146,6 +146,33 @@
      "def": "发布后记录员，写总结的人"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Silence on a calendar is also a feature. Priya suggests a cleaner way to think about the release train ticket. In the meeting drill, Maria says, \"New beans, brighter notes.\" After that, we swap roles and run it again. While the details are fresh, I write down the timeline keeper. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Silence on a calendar is also a feature. Priya suggests a cleaner way to think about the release train ticket. In the meeting drill, Maria says, \"New beans, brighter notes.\" After that, we swap roles and run it again. While the details are fresh, I write down the timeline keeper. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "日历上的空白也是一种功能。Priya 提出了一个更清晰的发布列车票思考方式。会议演练中，Maria说：\"新豆子\"之后我们换角色再练一遍。趁细节还新鲜，我把时间线管理员写了下来。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We cut half, shorten the rest, and async the status ones. In the meeting drill, Priya says, \"Closing shift stories.\" After that, we swap roles and run it again. I connect the go signal holder to the ticket so nothing gets lost. The guide now has a short section on the late change policy. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We cut half, shorten the rest, and async the status ones. In the meeting drill, Priya says, \"Closing shift stories.\" After that, we swap roles and run it again. I connect the go signal holder to the ticket so nothing gets lost. The guide now has a short section on the late change policy. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们砍掉一半、缩短其余，状态类全部异步。会议演练中，Priya说：\"晚班收店的故事。\"之后我们换角色再练一遍。我把放行信号员关联到工单上，免得遗漏。指南里现在有关于迟来变更政策的简短章节。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the post release scribe. I compare my notes about the announcement draft review with Priya's. In the meeting drill, Maria says, \"Tips in the community jar.\" After that, we swap roles and run it again. Silence on a calendar is also a feature.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the post release scribe. I compare my notes about the announcement draft review with Priya's. In the meeting drill, Maria says, \"Tips in the community jar.\" After that, we swap roles and run it again. Silence on a calendar is also a feature.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在发布后记录员上。我把关于公告草稿评审的笔记和 Priya 的对照了一下。会议演练中，Maria说：\"小费进了社区罐子。\"之后我们换角色再练一遍。日历上的空白也是一种功能。",
+   "hard": []
   }
  ],
  "chunks": [

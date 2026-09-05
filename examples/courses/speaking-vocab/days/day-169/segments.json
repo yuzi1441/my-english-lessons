@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 334,
-   "segment_count": 3,
+   "word_count": 398,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We audit our own metrics for vanity. The guide now has a short section on the row count anomaly alert. I compare my notes about the schema change alert with Priya's. In today's standup, I mention the results in plain language and what comes next. I connect the honest confidence statement to the ticket so nothing gets lost. In the meeting drill, Priya says, \"The pothos forgives everything.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Watering schedule on the fridge.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "We audit our own metrics for vanity. The guide now has a short section on the row count anomaly alert. I compare my notes about the schema change alert with Priya's. In today's standup, I mention the results in plain language and what comes next. I connect the honest confidence statement to the ticket so nothing gets lost. In the meeting drill, Priya says, \"The pothos forgives everything.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Watering schedule on the fridge.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "We audit our own metrics for vanity. The guide now has a short section on the row count anomaly alert. I compare my notes about the results in plain language with Priya's. In the meeting drill, Maria says, \"The pothos forgives everything.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "We audit our own metrics for vanity. The guide now has a short section on the row count anomaly alert. I compare my notes about the results in plain language with Priya's. In the meeting drill, Maria says, \"The pothos forgives everything.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们审计自己的指标，抓虚荣。指南里现在有关于行数异动告警的简短章节。我把关于结构变更告警的笔记和 Priya 的对照了一下。今天的站会上，我提到平实语言写结果和接下来的安排。我把诚实表达信心关联到工单上，免得遗漏。会议演练中，Priya说：\"绿萝原谅一切。\"之后我们换角色再练一遍。会议演练中，Leo说：\"浇水表贴在冰箱上。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我们审计自己的指标，抓虚荣。指南里现在有关于行数异动告警的简短章节。我把关于平实语言写结果的笔记和 Priya 的对照了一下。会议演练中，Maria说：\"绿萝原谅一切。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "row count anomaly alert",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Total signups retires with honor; activated teams takes the throne. In the meeting drill, Priya says, \"New leaf, tiny festival.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Yellow leaf says slow down.\" After that, we swap roles and run it again. We agree to give the duplicate spike detector one more careful look this week. At the review, we spend ten minutes on the null rate monitor. While the details are fresh, I write down the what we would do differently. Priya suggests a cleaner way to think about the decision announced widely. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Total signups retires with honor; activated teams takes the throne. In the meeting drill, Priya says, \"New leaf, tiny festival.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Yellow leaf says slow down.\" After that, we swap roles and run it again. We agree to give the duplicate spike detector one more careful look this week. At the review, we spend ten minutes on the null rate monitor. While the details are fresh, I write down the what we would do differently. Priya suggests a cleaner way to think about the decision announced widely. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Total signups retires with honor; activated teams takes the throne. In the meeting drill, Leo says, \"Watering schedule on the fridge.\" After that, we swap roles and run it again. In today's standup, I mention the schema change alert and what comes next. I connect the honest confidence statement to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Total signups retires with honor; activated teams takes the throne. In the meeting drill, Leo says, \"Watering schedule on the fridge.\" After that, we swap roles and run it again. In today's standup, I mention the schema change alert and what comes next. I connect the honest confidence statement to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "累计注册光荣退役；激活团队登上王座。会议演练中，Priya说：\"新叶子\"之后我们换角色再练一遍。会议演练中，Leo说：\"黄叶说：慢一点。\"之后我们换角色再练一遍。我们说好这周再把重复激增检测器仔细看一次。评审时，我们花了十分钟在空值率监控上。趁细节还新鲜，我把下次会怎么做写了下来。Priya 提出了一个更清晰的决定广而告之思考方式。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "累计注册光荣退役；激活团队登上王座。会议演练中，Leo说：\"浇水表贴在冰箱上。\"之后我们换角色再练一遍。今天的站会上，我提到结构变更告警和接下来的安排。我把诚实表达信心关联到工单上，免得遗漏。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "duplicate spike detector",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the thank the holdout group. I compare my notes about the archived thread link with Priya's. In today's standup, I mention the pipeline runtime trend and what comes next. I connect the freshness lag chart to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Plants judge overwatering.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Green room, green mind.\" After that, we swap roles and run it again. A metric should change your decisions or change its job.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the thank the holdout group. I compare my notes about the archived thread link with Priya's. In today's standup, I mention the pipeline runtime trend and what comes next. I connect the freshness lag chart to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Plants judge overwatering.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Green room, green mind.\" After that, we swap roles and run it again. A metric should change your decisions or change its job.",
+   "en": "Total signups retires with honor; activated teams takes the throne. We agree to give the what we would do differently one more careful look this week. At the review, we spend ten minutes on the duplicate spike detector. In the meeting drill, Priya says, \"New leaf, tiny festival.\" After that, we swap roles and run it again. A metric should change your decisions or change its job.",
+   "tts": "Total signups retires with honor; activated teams takes the throne. We agree to give the what we would do differently one more careful look this week. At the review, we spend ten minutes on the duplicate spike detector. In the meeting drill, Priya says, \"New leaf, tiny festival.\" After that, we swap roles and run it again. A metric should change your decisions or change its job.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于感谢保留组的简短章节。我把关于归档讨论链接的笔记和 Priya 的对照了一下。今天的站会上，我提到管道耗时趋势和接下来的安排。我把新鲜度滞后图关联到工单上，免得遗漏。会议演练中，Maria说：\"植物审判过度关心。\"之后我们换角色再练一遍。会议演练中，Priya说：\"满眼绿色\"之后我们换角色再练一遍。一个指标要么改变你的决策，要么改行。",
+   "zh": "累计注册光荣退役；激活团队登上王座。我们说好这周再把下次会怎么做仔细看一次。评审时，我们花了十分钟在重复激增检测器上。会议演练中，Priya说：\"新叶子\"之后我们换角色再练一遍。一个指标要么改变你的决策，要么改行。",
    "hard": [
     {
      "w": "pipeline runtime trend",
@@ -146,6 +146,33 @@
      "def": "归档讨论链接，结论有出处"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "A metric should change your decisions or change its job. While the details are fresh, I write down the null rate monitor. In the meeting drill, Priya says, \"Yellow leaf says slow down.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the decision announced widely. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "A metric should change your decisions or change its job. While the details are fresh, I write down the null rate monitor. In the meeting drill, Priya says, \"Yellow leaf says slow down.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the decision announced widely. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "一个指标要么改变你的决策，要么改行。趁细节还新鲜，我把空值率监控写了下来。会议演练中，Priya说：\"黄叶说：慢一点。\"之后我们换角色再练一遍。Priya 提出了一个更清晰的决定广而告之思考方式。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Total signups retires with honor; activated teams takes the throne. In the meeting drill, Leo says, \"Plants judge overwatering.\" After that, we swap roles and run it again. The guide now has a short section on the thank the holdout group. I compare my notes about the pipeline runtime trend with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Total signups retires with honor; activated teams takes the throne. In the meeting drill, Leo says, \"Plants judge overwatering.\" After that, we swap roles and run it again. The guide now has a short section on the thank the holdout group. I compare my notes about the pipeline runtime trend with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "累计注册光荣退役；激活团队登上王座。会议演练中，Leo说：\"植物审判过度关心。\"之后我们换角色再练一遍。指南里现在有关于感谢保留组的简短章节。我把关于管道耗时趋势的笔记和 Priya 的对照了一下。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the archived thread link and what comes next. I connect the freshness lag chart to the ticket so nothing gets lost. In the meeting drill, Priya says, \"Green room, green mind.\" After that, we swap roles and run it again. A metric should change your decisions or change its job.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the archived thread link and what comes next. I connect the freshness lag chart to the ticket so nothing gets lost. In the meeting drill, Priya says, \"Green room, green mind.\" After that, we swap roles and run it again. A metric should change your decisions or change its job.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到归档讨论链接和接下来的安排。我把新鲜度滞后图关联到工单上，免得遗漏。会议演练中，Priya说：\"满眼绿色\"之后我们换角色再练一遍。一个指标要么改变你的决策，要么改行。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 325,
-   "segment_count": 3,
+   "word_count": 386,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Morning walk, two coffees, one whiteboard in the park. While the details are fresh, I write down the brown bag talk. I connect the screencast to the ticket so nothing gets lost. In today's standup, I mention the milestone burn chart and what comes next. Priya suggests a cleaner way to think about the scope cut ritual. In the meeting drill, Maria says, \"The family group at 7 a.m.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Stickers do the talking.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Morning walk, two coffees, one whiteboard in the park. While the details are fresh, I write down the brown bag talk. I connect the screencast to the ticket so nothing gets lost. In today's standup, I mention the milestone burn chart and what comes next. Priya suggests a cleaner way to think about the scope cut ritual. In the meeting drill, Maria says, \"The family group at 7 a.m.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Stickers do the talking.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Morning walk, two coffees, one whiteboard in the park. While the details are fresh, I write down the brown bag talk. I connect the milestone burn chart to the ticket so nothing gets lost. In the meeting drill, Leo says, \"The family group at 7 a.m.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Morning walk, two coffees, one whiteboard in the park. While the details are fresh, I write down the brown bag talk. I connect the milestone burn chart to the ticket so nothing gets lost. In the meeting drill, Leo says, \"The family group at 7 a.m.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "清晨散步，两杯咖啡，公园里的一块白板。趁细节还新鲜，我把午餐分享会写了下来。我把录屏教程关联到工单上，免得遗漏。今天的站会上，我提到里程碑燃尽图和接下来的安排。Priya 提出了一个更清晰的砍范围仪式思考方式。会议演练中，Maria说：\"家族群早上七点准时热闹。\"之后我们换角色再练一遍。会议演练中，Priya说：\"表情包替大家说话。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "清晨散步，两杯咖啡，公园里的一块白板。趁细节还新鲜，我把午餐分享会写了下来。我把里程碑燃尽图关联到工单上，免得遗漏。会议演练中，Leo说：\"家族群早上七点准时热闹。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "brown bag talk",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Fresh air turns our options into a table instead of a wall. In the meeting drill, Maria says, \"Dad discovered voice messages.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"We coordinate holidays there.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the interactive demo. We agree to give the lightning talk one more careful look this week. The guide now has a short section on the date confidence poll. I compare my notes about the dependency tracker with Priya's. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Fresh air turns our options into a table instead of a wall. In the meeting drill, Maria says, \"Dad discovered voice messages.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"We coordinate holidays there.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the interactive demo. We agree to give the lightning talk one more careful look this week. The guide now has a short section on the date confidence poll. I compare my notes about the dependency tracker with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Fresh air turns our options into a table instead of a wall. In the meeting drill, Priya says, \"Stickers do the talking.\" After that, we swap roles and run it again. In today's standup, I mention the screencast and what comes next. Priya suggests a cleaner way to think about the scope cut ritual. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Fresh air turns our options into a table instead of a wall. In the meeting drill, Priya says, \"Stickers do the talking.\" After that, we swap roles and run it again. In today's standup, I mention the screencast and what comes next. Priya suggests a cleaner way to think about the scope cut ritual. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "新鲜空气把我们的选项从墙变成了表格。会议演练中，Maria说：\"爸发现了语音消息。\"之后我们换角色再练一遍。会议演练中，Priya说：\"假期安排都在群里定。\"之后我们换角色再练一遍。评审时，我们花了十分钟在互动演示上。我们说好这周再把闪电演讲仔细看一次。指南里现在有关于日期信心投票的简短章节。我把关于依赖跟踪表的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "新鲜空气把我们的选项从墙变成了表格。会议演练中，Priya说：\"表情包替大家说话。\"之后我们换角色再练一遍。今天的站会上，我提到录屏教程和接下来的安排。Priya 提出了一个更清晰的砍范围仪式思考方式。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "interactive demo",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the release candidate checklist. I connect the milestone retro to the ticket so nothing gets lost. In today's standup, I mention the reading group and what comes next. Priya suggests a cleaner way to think about the conference recap. In the meeting drill, Leo says, \"Mute during meetings, always.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Grandma sends sunset photos.\" After that, we swap roles and run it again. Walks solve what standups cannot.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the release candidate checklist. I connect the milestone retro to the ticket so nothing gets lost. In today's standup, I mention the reading group and what comes next. Priya suggests a cleaner way to think about the conference recap. In the meeting drill, Leo says, \"Mute during meetings, always.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Grandma sends sunset photos.\" After that, we swap roles and run it again. Walks solve what standups cannot.",
+   "en": "Fresh air turns our options into a table instead of a wall. At the review, we spend ten minutes on the date confidence poll. We agree to give the interactive demo one more careful look this week. In the meeting drill, Maria says, \"Dad discovered voice messages.\" After that, we swap roles and run it again. Walks solve what standups cannot.",
+   "tts": "Fresh air turns our options into a table instead of a wall. At the review, we spend ten minutes on the date confidence poll. We agree to give the interactive demo one more careful look this week. In the meeting drill, Maria says, \"Dad discovered voice messages.\" After that, we swap roles and run it again. Walks solve what standups cannot.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把候选版本清单写了下来。我把里程碑复盘关联到工单上，免得遗漏。今天的站会上，我提到读书会和接下来的安排。Priya 提出了一个更清晰的大会回顾思考方式。会议演练中，Leo说：\"开会必静音。\"之后我们换角色再练一遍。会议演练中，Maria说：\"奶奶发日落照片。\"之后我们换角色再练一遍。散步能解决站会解决不了的事。",
+   "zh": "新鲜空气把我们的选项从墙变成了表格。评审时，我们花了十分钟在日期信心投票上。我们说好这周再把互动演示仔细看一次。会议演练中，Maria说：\"爸发现了语音消息。\"之后我们换角色再练一遍。散步能解决站会解决不了的事。",
    "hard": [
     {
      "w": "reading group",
@@ -146,6 +146,33 @@
      "def": "里程碑复盘，每个大节点回顾"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Walks solve what standups cannot. The guide now has a short section on the lightning talk. In the meeting drill, Maria says, \"We coordinate holidays there.\" After that, we swap roles and run it again. I compare my notes about the dependency tracker with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Walks solve what standups cannot. The guide now has a short section on the lightning talk. In the meeting drill, Maria says, \"We coordinate holidays there.\" After that, we swap roles and run it again. I compare my notes about the dependency tracker with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "散步能解决站会解决不了的事。指南里现在有关于闪电演讲的简短章节。会议演练中，Maria说：\"假期安排都在群里定。\"之后我们换角色再练一遍。我把关于依赖跟踪表的笔记和 Priya 的对照了一下。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Fresh air turns our options into a table instead of a wall. In the meeting drill, Priya says, \"Mute during meetings, always.\" After that, we swap roles and run it again. While the details are fresh, I write down the release candidate checklist. I connect the reading group to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Fresh air turns our options into a table instead of a wall. In the meeting drill, Priya says, \"Mute during meetings, always.\" After that, we swap roles and run it again. While the details are fresh, I write down the release candidate checklist. I connect the reading group to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "新鲜空气把我们的选项从墙变成了表格。会议演练中，Priya说：\"开会必静音。\"之后我们换角色再练一遍。趁细节还新鲜，我把候选版本清单写了下来。我把读书会关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the milestone retro and what comes next. Priya suggests a cleaner way to think about the conference recap. In the meeting drill, Maria says, \"Grandma sends sunset photos.\" After that, we swap roles and run it again. Walks solve what standups cannot.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the milestone retro and what comes next. Priya suggests a cleaner way to think about the conference recap. In the meeting drill, Maria says, \"Grandma sends sunset photos.\" After that, we swap roles and run it again. Walks solve what standups cannot.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到里程碑复盘和接下来的安排。Priya 提出了一个更清晰的大会回顾思考方式。会议演练中，Maria说：\"奶奶发日落照片。\"之后我们换角色再练一遍。散步能解决站会解决不了的事。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 397,
-   "segment_count": 3,
+   "word_count": 462,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We want a clearer ownership line, so we rearrange teams first. I put the search index architecture on the record so the reasoning stays visible. I close the discussion on the index freshness lag with a short summary. I propose a measurable target for the zero result report review this quarter. My report covers the index rebuild runbook, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"The librarian guesses what you mean.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Misspelled titles still found.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "We want a clearer ownership line, so we rearrange teams first. I put the search index architecture on the record so the reasoning stays visible. I close the discussion on the index freshness lag with a short summary. I propose a measurable target for the zero result report review this quarter. My report covers the index rebuild runbook, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"The librarian guesses what you mean.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Misspelled titles still found.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "We want a clearer ownership line, so we rearrange teams first. I put the search index architecture on the record so the reasoning stays visible. I close the discussion on the zero result report review with a short summary. In the launch rehearsal, Priya says, \"The librarian guesses what you mean.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "We want a clearer ownership line, so we rearrange teams first. I put the search index architecture on the record so the reasoning stays visible. I close the discussion on the zero result report review with a short summary. In the launch rehearsal, Priya says, \"The librarian guesses what you mean.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们想要更清晰的所有权线，所以先调整团队。我把搜索索引架构记录在案，让推理过程保持可见。我用一段简短的总结为索引新鲜度延迟的讨论收尾。我为零结果报告评审提出了本季度一个可衡量的目标。我的报告涵盖索引重建手册、背后的风险，以及等待的代价。上线彩排中，Leo说：\"图书管理员猜得到你想找什么。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"拼错的书名也找得到。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "我们想要更清晰的所有权线，所以先调整团队。我把搜索索引架构记录在案，让推理过程保持可见。我用一段简短的总结为零结果报告评审的讨论收尾。上线彩排中，Priya说：\"图书管理员猜得到你想找什么。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "search index architecture",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The system boundary follows the team boundary, like water. In the launch rehearsal, Leo says, \"Popular books have copies upfront.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The returns cart is a cache too.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the relevance tuning process with a timeline, the data, and one clear ask. We align on the typo tolerance strategy early, so execution never has to guess. The final deck includes the relevance experiment protocol and what we learned from it. We review the synonym list curation against the requirements, line by line. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "The system boundary follows the team boundary, like water. In the launch rehearsal, Leo says, \"Popular books have copies upfront.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The returns cart is a cache too.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the relevance tuning process with a timeline, the data, and one clear ask. We align on the typo tolerance strategy early, so execution never has to guess. The final deck includes the relevance experiment protocol and what we learned from it. We review the synonym list curation against the requirements, line by line. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "The system boundary follows the team boundary, like water. In the launch rehearsal, Maria says, \"Misspelled titles still found.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the index freshness lag this quarter. My report covers the index rebuild runbook, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The system boundary follows the team boundary, like water. In the launch rehearsal, Maria says, \"Misspelled titles still found.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the index freshness lag this quarter. My report covers the index rebuild runbook, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "系统边界跟着团队边界流动，像水一样。上线彩排中，Leo说：\"畅销书备了复本。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"还书车也是一个缓存。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报相关性调优流程。我们尽早就拼写容错策略对齐，让执行无需猜测。最终的材料里有相关性实验规程，以及我们从中学到的东西。我们逐行对照需求检查了同义词表维护。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "系统边界跟着团队边界流动，像水一样。上线彩排中，Maria说：\"拼错的书名也找得到。\"最后我们互换角色，由我从头到尾主导整段对话。我为索引新鲜度延迟提出了本季度一个可衡量的目标。我的报告涵盖索引重建手册、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "relevance tuning process",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the search quality scorecard on the record so the reasoning stays visible. I close the discussion on the faceted navigation review with a short summary. I propose a measurable target for the search analytics feedback this quarter. My report covers the query understanding basics, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Search logs buy new books.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Ask once, get three suggestions.\" To finish, we swap roles and I lead the entire exchange from start to finish. Change the people map; the code map follows.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the search quality scorecard on the record so the reasoning stays visible. I close the discussion on the faceted navigation review with a short summary. I propose a measurable target for the search analytics feedback this quarter. My report covers the query understanding basics, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Search logs buy new books.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Ask once, get three suggestions.\" To finish, we swap roles and I lead the entire exchange from start to finish. Change the people map; the code map follows.",
+   "en": "The system boundary follows the team boundary, like water. I present the relevance experiment protocol with a timeline, the data, and one clear ask. We align on the relevance tuning process early, so execution never has to guess. In the launch rehearsal, Leo says, \"Popular books have copies upfront.\" To finish, we swap roles and I lead the entire exchange from start to finish. Change the people map; the code map follows.",
+   "tts": "The system boundary follows the team boundary, like water. I present the relevance experiment protocol with a timeline, the data, and one clear ask. We align on the relevance tuning process early, so execution never has to guess. In the launch rehearsal, Leo says, \"Popular books have copies upfront.\" To finish, we swap roles and I lead the entire exchange from start to finish. Change the people map; the code map follows.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把搜索质量记分卡记录在案，让推理过程保持可见。我用一段简短的总结为分面导航评审的讨论收尾。我为搜索分析反馈提出了本季度一个可衡量的目标。我的报告涵盖查询理解入门、背后的风险，以及等待的代价。上线彩排中，Priya说：\"搜索记录决定进什么书。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"问一次得三个推荐。\"最后我们互换角色，由我从头到尾主导整段对话。改人的地图，代码的地图跟上。",
+   "zh": "系统边界跟着团队边界流动，像水一样。我用时间线、数据和一条明确的诉求来汇报相关性实验规程。我们尽早就相关性调优流程对齐，让执行无需猜测。上线彩排中，Leo说：\"畅销书备了复本。\"最后我们互换角色，由我从头到尾主导整段对话。改人的地图，代码的地图跟上。",
    "hard": [
     {
      "w": "search analytics feedback",
@@ -146,6 +146,33 @@
      "def": "分面导航评审，筛选不迷路"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Change the people map; the code map follows. The final deck includes the typo tolerance strategy and what we learned from it. In the launch rehearsal, Leo says, \"The returns cart is a cache too.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the synonym list curation against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Change the people map; the code map follows. The final deck includes the typo tolerance strategy and what we learned from it. In the launch rehearsal, Leo says, \"The returns cart is a cache too.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the synonym list curation against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "改人的地图，代码的地图跟上。最终的材料里有拼写容错策略，以及我们从中学到的东西。上线彩排中，Leo说：\"还书车也是一个缓存。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了同义词表维护。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The system boundary follows the team boundary, like water. In the launch rehearsal, Maria says, \"Search logs buy new books.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the search quality scorecard on the record so the reasoning stays visible. I close the discussion on the search analytics feedback with a short summary. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "The system boundary follows the team boundary, like water. In the launch rehearsal, Maria says, \"Search logs buy new books.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the search quality scorecard on the record so the reasoning stays visible. I close the discussion on the search analytics feedback with a short summary. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "系统边界跟着团队边界流动，像水一样。上线彩排中，Maria说：\"搜索记录决定进什么书。\"最后我们互换角色，由我从头到尾主导整段对话。我把搜索质量记分卡记录在案，让推理过程保持可见。我用一段简短的总结为搜索分析反馈的讨论收尾。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the faceted navigation review this quarter. My report covers the query understanding basics, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Ask once, get three suggestions.\" To finish, we swap roles and I lead the entire exchange from start to finish. Change the people map; the code map follows.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the faceted navigation review this quarter. My report covers the query understanding basics, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Ask once, get three suggestions.\" To finish, we swap roles and I lead the entire exchange from start to finish. Change the people map; the code map follows.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为分面导航评审提出了本季度一个可衡量的目标。我的报告涵盖查询理解入门、背后的风险，以及等待的代价。上线彩排中，Leo说：\"问一次得三个推荐。\"最后我们互换角色，由我从头到尾主导整段对话。改人的地图，代码的地图跟上。",
+   "hard": []
   }
  ],
  "chunks": [

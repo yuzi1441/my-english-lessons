@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 179,
+   "word_count": 235,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My branch is ready. Today I push it to the team's server. I see the input. I process data. Maria asks me to push changes. I pull changes with Maria. Maria says the pattern, and I repeat it: I'd like to order ... Leo asks, \"Could I have ...?\" I answer politely. I feel good today.",
-   "tts": "My branch is ready. Today I push it to the team's server. I see the input. I process data. Maria asks me to push changes. I pull changes with Maria. Maria says the pattern, and I repeat it: I'd like to order  Leo asks, \"Could I have ?\" I answer politely. I feel good today.",
+   "en": "Day five is about input and output. \"A function takes a parameter and returns a value,\" Maria explains. \"You process data inside the function.\" She writes an example on the board. I copy it and run it. The output value appears on screen. \"What do you recommend for learning more?\" I ask. \"Just practise,\" she says. At lunch, I order at the café. \"I'd like to order the pasta,\" I tell the waiter. \"Could I have no cheese?\" He nods.",
+   "tts": "Day five is about input and output. \"A function takes a parameter and returns a value,\" Maria explains. \"You process data inside the function.\" She writes an example on the board. I copy it and run it. The output value appears on screen. \"What do you recommend for learning more?\" I ask. \"Just practise,\" she says. At lunch, I order at the café. \"I'd like to order the pasta,\" I tell the waiter. \"Could I have no cheese?\" He nods.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的分支准备好了。今天我把它推送到团队的服务器上。我看到了输入。我处理数据。Maria 让我推送更改。我和 Maria 一起拉取更改。Maria 说出这个句型，我跟着重复：我想点……Leo问：\"我可以要……吗？\"我礼貌地回应。我今天感觉很好。",
+   "zh": "第五天讲输入和输出。\"函数接收一个参数，返回一个值，\"Maria 解释。\"你在函数内部处理数据。\"她在白板上写了个例子。我复制并运行。输出值出现在屏幕上。\"学更多你推荐什么？\"我问。\"多练，\"她说。午餐时，我在咖啡馆点餐。\"我想点意面，\"我跟服务员说。\"能不加芝士吗？\"他点头。",
    "hard": [
     {
      "w": "input",
@@ -46,36 +46,6 @@
      "def": "处理数据，按照规则改变或分析数据"
     },
     {
-     "w": "I'd like to order ...",
-     "type": "term",
-     "def": "我想点……"
-    },
-    {
-     "w": "Could I have ...?",
-     "type": "term",
-     "def": "我可以要……吗？"
-    },
-    {
-     "w": "push changes",
-     "type": "term",
-     "def": "推送更改，把本地提交发送到远程仓库"
-    },
-    {
-     "w": "pull changes",
-     "type": "term",
-     "def": "拉取更改，取得并合并远程的新提交"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "The team orders lunch together, and I order too. Maria asks, \"What do you recommend?\" I answer with a smile. Maria says, \"No ice, please.\" I answer with a smile. I look at the output value. I point to the function. Now I can fetch updates. This is the origin remote. I learn one new thing.",
-   "tts": "The team orders lunch together, and I order too. Maria asks, \"What do you recommend?\" I answer with a smile. Maria says, \"No ice, please.\" I answer with a smile. I look at the output value. I point to the function. Now I can fetch updates. This is the origin remote. I learn one new thing.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "团队一起点午餐，我也点了。Maria问：\"你推荐什么？\"我微笑着回答。Maria说：\"请不要加冰。\"我微笑着回答。我看着输出值。我指着函数。现在我会获取更新了。这是origin 远程。我学到了一件新东西。",
-   "hard": [
-    {
      "w": "output value",
      "type": "term",
      "def": "输出值，程序处理后返回的结果"
@@ -85,36 +55,6 @@
      "type": "term",
      "def": "函数，可以重复调用的一组指令"
     },
-    {
-     "w": "What do you recommend?",
-     "type": "term",
-     "def": "你推荐什么？"
-    },
-    {
-     "w": "No ice, please.",
-     "type": "term",
-     "def": "请不要加冰。"
-    },
-    {
-     "w": "fetch updates",
-     "type": "term",
-     "def": "获取更新，只下载远程信息而暂不合并"
-    },
-    {
-     "w": "origin remote",
-     "type": "term",
-     "def": "origin 远程，克隆仓库时默认的远程名称"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I do one last thing. Maria shows me the upstream remote. I try to sync with remote. The parameter is new to me. I see the return value. Maria asks, \"Could we have the bill?\" I answer with a smile. Maria asks, \"Is service included?\" I answer with a smile. I pull the team's new code before I leave. We are in sync now.",
-   "tts": "Before I leave, I do one last thing. Maria shows me the upstream remote. I try to sync with remote. The parameter is new to me. I see the return value. Maria asks, \"Could we have the bill?\" I answer with a smile. Maria asks, \"Is service included?\" I answer with a smile. I pull the team's new code before I leave. We are in sync now.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。Maria 给我看了upstream 远程。我试着与远程同步。参数对我来说很新。我看到了返回值。Maria问：\"可以给我们账单吗？\"我微笑着回答。Maria问：\"包含服务费吗？\"我微笑着回答。离开前，我拉取了团队的新代码。我们同步了。",
-   "hard": [
     {
      "w": "parameter",
      "type": "term",
@@ -126,14 +66,49 @@
      "def": "返回值，函数完成后交回的结果"
     },
     {
-     "w": "Could we have the bill?",
+     "w": "What do you recommend?",
      "type": "term",
-     "def": "可以给我们账单吗？"
+     "def": "你推荐什么？"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "After lunch, Maria introduces remote collaboration. \"You push changes to share your work. You pull changes to get others' work. You fetch updates to see what's new without merging.\" She shows me the origin remote — that's the team's copy on GitHub. \"The upstream remote is the original project if you forked it. Sync with remote keeps you up to date.\" I practise all three. Push, pull, fetch. \"No ice, please,\" I say at the coffee machine, practising my English on everything.",
+   "tts": "After lunch, Maria introduces remote collaboration. \"You push changes to share your work. You pull changes to get others' work. You fetch updates to see what's new without merging.\" She shows me the origin remote — that's the team's copy on Git Hub. \"The upstream remote is the original project if you forked it. Sync with remote keeps you up to date.\" I practise all three. Push, pull, fetch. \"No ice, please,\" I say at the coffee machine, practising my English on everything.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "午餐后，Maria 介绍远程协作。\"你推送更改来分享你的工作。你拉取更改来获取别人的成果。你获取更新来看新东西但不合并。\"她给我看 origin 远程——那是团队在 GitHub 上的副本。\"upstream 远程是原始项目（如果你 fork 了）。与远程同步让你保持最新。\"三个都练了。推、拉、取。\"请不要加冰，\"我在咖啡机旁说，什么都在练英语。",
+   "hard": [
+    {
+     "w": "Could I have ...?",
+     "type": "term",
+     "def": "我可以要……吗？"
     },
     {
-     "w": "Is service included?",
+     "w": "No ice, please.",
      "type": "term",
-     "def": "包含服务费吗？"
+     "def": "请不要加冰。"
+    },
+    {
+     "w": "push changes",
+     "type": "term",
+     "def": "推送更改，把本地提交发送到远程仓库"
+    },
+    {
+     "w": "pull changes",
+     "type": "term",
+     "def": "拉取更改，取得并合并远程的新提交"
+    },
+    {
+     "w": "fetch updates",
+     "type": "term",
+     "def": "获取更新，只下载远程信息而暂不合并"
+    },
+    {
+     "w": "origin remote",
+     "type": "term",
+     "def": "origin 远程，克隆仓库时默认的远程名称"
     },
     {
      "w": "upstream remote",
@@ -144,6 +119,26 @@
      "w": "sync with remote",
      "type": "term",
      "def": "与远程同步，让本地和远程进度保持一致"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "\"Could we have the bill?\" I ask at dinner. \"Is service included?\" It is. I pay and walk home thinking about the day. Input becomes output. Parameters go in, return values come out. Push and pull keep the team in sync. The patterns repeat everywhere — in code, in restaurants, in life. Before bed, I write: 'Day 5 — functions are recipes. Push is sharing. Pull is receiving. Fetch is peeking without merging.'",
+   "tts": "\"Could we have the bill?\" I ask at dinner. \"Is service included?\" It is. I pay and walk home thinking about the day. Input becomes output. Parameters go in, return values come out. Push and pull keep the team in sync. The patterns repeat everywhere — in code, in restaurants, in life. Before bed, I write: 'Day 5 — functions are recipes. Push is sharing. Pull is receiving. Fetch is peeking without merging.'",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "\"可以结账吗？\"晚餐时我问。\"含服务费吗？\"含。我付了钱走回家，想着这一天。输入变成输出。参数进去，返回值出来。推送和拉取让团队同步。这个模式到处都在——代码里、餐厅里、生活里。睡前我写：'第五天——函数是菜谱。推送是分享。拉取是接收。获取是偷看但不合并。'",
+   "hard": [
+    {
+     "w": "Could we have the bill?",
+     "type": "term",
+     "def": "可以给我们账单吗？"
+    },
+    {
+     "w": "Is service included?",
+     "type": "term",
+     "def": "包含服务费吗？"
     }
    ]
   }

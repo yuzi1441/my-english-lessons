@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 321,
-   "segment_count": 3,
+   "word_count": 380,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day sixty: the offline drafts are live for everyone. I ask one good question about the environment variable in the meeting. I keep one real example of the volume mount in my notebook. Sam asks me about the good first issue, and I explain the basics. I spend ten quiet minutes on the issue triage after the standup. In the warm-up round, Leo says, \"We shipped it!\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Cheers to the team!\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "Day sixty: the offline drafts are live for everyone. I ask one good question about the environment variable in the meeting. I keep one real example of the volume mount in my notebook. Sam asks me about the good first issue, and I explain the basics. I spend ten quiet minutes on the issue triage after the standup. In the warm-up round, Leo says, \"We shipped it!\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Cheers to the team!\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "Day sixty: the offline drafts are live for everyone. I ask one good question about the environment variable in the meeting. I keep one real example of the good first issue in my notebook. In the warm-up round, Priya says, \"We shipped it!\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "Day sixty: the offline drafts are live for everyone. I ask one good question about the environment variable in the meeting. I keep one real example of the good first issue in my notebook. In the warm-up round, Priya says, \"We shipped it!\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第六十天：离线草稿对所有人开放了。会上关于环境变量，我问了一个好问题。我在笔记本里留了一个卷挂载的真实例子。Sam 问起新手任务，我讲了讲基础。站会之后，我安安静静花了十分钟在问题分诊上。热身环节里，Leo说：\"我们成功发布了！\"然后我们换角色，由我来问。热身环节里，Maria说：\"为团队干杯！\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "第六十天：离线草稿对所有人开放了。会上关于环境变量，我问了一个好问题。我在笔记本里留了一个新手任务的真实例子。热身环节里，Priya说：\"我们成功发布了！\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "environment variable",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We celebrate with cheap pizza and expensive pride. In the warm-up round, Leo says, \"This calls for a celebration.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I'm proud of what we built.\" Then we swap roles and I ask it back. There is a short paragraph about the container registry in the guide. I add the image tag to my study notes before I forget it. I go over the community health file one more time before lunch. My notes about the first response look clearer this week. Small progress today prepares the bigger step tomorrow.",
-   "tts": "We celebrate with cheap pizza and expensive pride. In the warm-up round, Leo says, \"This calls for a celebration.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I'm proud of what we built.\" Then we swap roles and I ask it back. There is a short paragraph about the container registry in the guide. I add the image tag to my study notes before I forget it. I go over the community health file one more time before lunch. My notes about the first response look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "en": "We celebrate with cheap pizza and expensive pride. In the warm-up round, Maria says, \"Cheers to the team!\" Then we swap roles and I ask it back. Sam asks me about the volume mount, and I explain the basics. I spend ten quiet minutes on the issue triage after the standup. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We celebrate with cheap pizza and expensive pride. In the warm-up round, Maria says, \"Cheers to the team!\" Then we swap roles and I ask it back. Sam asks me about the volume mount, and I explain the basics. I spend ten quiet minutes on the issue triage after the standup. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们用便宜的披萨和昂贵的自豪感庆祝。热身环节里，Leo说：\"这值得庆祝一下。\"然后我们换角色，由我来问。热身环节里，Maria说：\"我为我们的成果自豪。\"然后我们换角色，由我来问。指南里有一小段关于镜像仓库的介绍。我趁还没忘，把镜像标签记进了学习笔记。午饭前我又过了一遍社区健康文件。这周我关于首次回应的笔记清楚多了。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们用便宜的披萨和昂贵的自豪感庆祝。热身环节里，Maria说：\"为团队干杯！\"然后我们换角色，由我来问。Sam 问起卷挂载，我讲了讲基础。站会之后，我安安静静花了十分钟在问题分诊上。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "container registry",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the recognition in the meeting. I keep one real example of the roadmap page in my notebook. Sam asks me about the resource limit, and I explain the basics. I spend ten quiet minutes on the port mapping after the standup. In the warm-up round, Priya says, \"Hard work paid off.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Let's take a breath today.\" Then we swap roles and I ask it back. Two months ago I cloned a repository. Today I shipped a feature.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the recognition in the meeting. I keep one real example of the roadmap page in my notebook. Sam asks me about the resource limit, and I explain the basics. I spend ten quiet minutes on the port mapping after the standup. In the warm-up round, Priya says, \"Hard work paid off.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Let's take a breath today.\" Then we swap roles and I ask it back. Two months ago I cloned a repository. Today I shipped a feature.",
+   "en": "We celebrate with cheap pizza and expensive pride. There is a short paragraph about the community health file in the guide. I add the container registry to my study notes before I forget it. In the warm-up round, Leo says, \"This calls for a celebration.\" Then we swap roles and I ask it back. Two months ago I cloned a repository. Today I shipped a feature.",
+   "tts": "We celebrate with cheap pizza and expensive pride. There is a short paragraph about the community health file in the guide. I add the container registry to my study notes before I forget it. In the warm-up round, Leo says, \"This calls for a celebration.\" Then we swap roles and I ask it back. Two months ago I cloned a repository. Today I shipped a feature.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于致谢，我问了一个好问题。我在笔记本里留了一个路线图页的真实例子。Sam 问起资源限制，我讲了讲基础。站会之后，我安安静静花了十分钟在端口映射上。热身环节里，Priya说：\"努力有了回报。\"然后我们换角色，由我来问。热身环节里，Leo说：\"今天我们喘口气。\"然后我们换角色，由我来问。两个月前我克隆了一个仓库。今天我发布了一个功能。",
+   "zh": "我们用便宜的披萨和昂贵的自豪感庆祝。指南里有一小段关于社区健康文件的介绍。我趁还没忘，把镜像仓库记进了学习笔记。热身环节里，Leo说：\"这值得庆祝一下。\"然后我们换角色，由我来问。两个月前我克隆了一个仓库。今天我发布了一个功能。",
    "hard": [
     {
      "w": "resource limit",
@@ -146,6 +146,33 @@
      "def": "路线图页，展示项目计划的页面"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Two months ago I cloned a repository. Today I shipped a feature. I go over the image tag one more time before lunch. In the warm-up round, Leo says, \"I'm proud of what we built.\" Then we swap roles and I ask it back. My notes about the first response look clearer this week. I end the day with fewer unknowns than I started with.",
+   "tts": "Two months ago I cloned a repository. Today I shipped a feature. I go over the image tag one more time before lunch. In the warm-up round, Leo says, \"I'm proud of what we built.\" Then we swap roles and I ask it back. My notes about the first response look clearer this week. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "两个月前我克隆了一个仓库。今天我发布了一个功能。午饭前我又过了一遍镜像标签。热身环节里，Leo说：\"我为我们的成果自豪。\"然后我们换角色，由我来问。这周我关于首次回应的笔记清楚多了。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We celebrate with cheap pizza and expensive pride. In the warm-up round, Maria says, \"Hard work paid off.\" Then we swap roles and I ask it back. I ask one good question about the recognition in the meeting. I keep one real example of the resource limit in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We celebrate with cheap pizza and expensive pride. In the warm-up round, Maria says, \"Hard work paid off.\" Then we swap roles and I ask it back. I ask one good question about the recognition in the meeting. I keep one real example of the resource limit in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们用便宜的披萨和昂贵的自豪感庆祝。热身环节里，Maria说：\"努力有了回报。\"然后我们换角色，由我来问。会上关于致谢，我问了一个好问题。我在笔记本里留了一个资源限制的真实例子。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the roadmap page, and I explain the basics. I spend ten quiet minutes on the port mapping after the standup. In the warm-up round, Leo says, \"Let's take a breath today.\" Then we swap roles and I ask it back. Two months ago I cloned a repository. Today I shipped a feature.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the roadmap page, and I explain the basics. I spend ten quiet minutes on the port mapping after the standup. In the warm-up round, Leo says, \"Let's take a breath today.\" Then we swap roles and I ask it back. Two months ago I cloned a repository. Today I shipped a feature.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起路线图页，我讲了讲基础。站会之后，我安安静静花了十分钟在端口映射上。热身环节里，Leo说：\"今天我们喘口气。\"然后我们换角色，由我来问。两个月前我克隆了一个仓库。今天我发布了一个功能。",
+   "hard": []
   }
  ],
  "chunks": [

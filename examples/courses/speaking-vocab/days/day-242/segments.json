@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 360,
-   "segment_count": 3,
+   "word_count": 429,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Sam and I walk the attack surface like tourists. I add the identity provider to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the federated login. During the design review, I raise one careful question about the least privilege audit. I prepare a one-page brief about the privilege creep review so meetings start from facts. In the review drill, Maria says, \"I cover the camera on paper forms.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Copies get watermark notes.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Sam and I walk the attack surface like tourists. I add the identity provider to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the federated login. During the design review, I raise one careful question about the least privilege audit. I prepare a one-page brief about the privilege creep review so meetings start from facts. In the review drill, Maria says, \"I cover the camera on paper forms.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Copies get watermark notes.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Sam and I walk the attack surface like tourists. I add the identity provider to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the least privilege audit. In the review drill, Leo says, \"I cover the camera on paper forms.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Sam and I walk the attack surface like tourists. I add the identity provider to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the least privilege audit. In the review drill, Leo says, \"I cover the camera on paper forms.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Sam 和我像游客一样把攻击面逛了一遍。我把身份提供方连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了联邦登录上。设计评审中，我就最小权限审计提出了一个审慎的问题。我准备了一页关于权限蔓延检查的简报，好让会议从事实出发。评审演练中，Maria说：\"纸质表单我遮着填。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"复印件都加水印。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "Sam 和我像游客一样把攻击面逛了一遍。我把身份提供方连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了最小权限审计上。评审演练中，Leo说：\"纸质表单我遮着填。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "identity provider",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. In the review drill, Maria says, \"The ID photo rule.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Shred before you bin.\" We swap roles so I ask the questions this time. The team names one clear owner for the passkey. Our mentor walks me through how the hardware key evolved on this team. Before deciding, I reread my notes about the onboarding access bundle twice. I compare two views on the offboarding checklist and write both down honestly. We end the week with something shipped and something properly learned this time.",
-   "tts": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. In the review drill, Maria says, \"The ID photo rule.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Shred before you bin.\" We swap roles so I ask the questions this time. The team names one clear owner for the passkey. Our mentor walks me through how the hardware key evolved on this team. Before deciding, I reread my notes about the onboarding access bundle twice. I compare two views on the offboarding checklist and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "en": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. In the review drill, Priya says, \"Copies get watermark notes.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the federated login. I prepare a one-page brief about the privilege creep review so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. In the review drill, Priya says, \"Copies get watermark notes.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the federated login. I prepare a one-page brief about the privilege creep review so meetings start from facts. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们数出四十一扇门：接口、登录、上传，还有一台被遗忘的测试服务器。评审演练中，Maria说：\"证件复印件要写用途。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"先碎纸再扔垃圾桶。\"我们互换角色，这次由我来提问。团队为通行密钥指定了明确的负责人。导师带我梳理了硬件密钥在这个团队里的演变。做决定之前，我把关于入职权限包的笔记重读了两遍。我比较了关于离职权限清单的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们数出四十一扇门：接口、登录、上传，还有一台被遗忘的测试服务器。评审演练中，Priya说：\"复印件都加水印。\"我们互换角色，这次由我来提问。设计评审中，我就联邦登录提出了一个审慎的问题。我准备了一页关于权限蔓延检查的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "passkey",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the service account list to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the emergency access check. During the design review, I raise one careful question about the device trust score. I prepare a one-page brief about the session revoke so meetings start from facts. In the review drill, Leo says, \"Two factor, not two headaches.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Wallet inventory twice a year.\" We swap roles so I ask the questions this time. The forgotten server got shutdown and a map spot.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the service account list to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the emergency access check. During the design review, I raise one careful question about the device trust score. I prepare a one-page brief about the session revoke so meetings start from facts. In the review drill, Leo says, \"Two factor, not two headaches.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Wallet inventory twice a year.\" We swap roles so I ask the questions this time. The forgotten server got shutdown and a map spot.",
+   "en": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. The team names one clear owner for the onboarding access bundle. Our mentor walks me through how the passkey evolved on this team. In the review drill, Maria says, \"The ID photo rule.\" We swap roles so I ask the questions this time. The forgotten server got shutdown and a map spot.",
+   "tts": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. The team names one clear owner for the onboarding access bundle. Our mentor walks me through how the passkey evolved on this team. In the review drill, Maria says, \"The ID photo rule.\" We swap roles so I ask the questions this time. The forgotten server got shutdown and a map spot.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把服务账号清单连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了紧急权限复核上。设计评审中，我就设备信任分提出了一个审慎的问题。我准备了一页关于会话吊销的简报，好让会议从事实出发。评审演练中，Leo说：\"两步验证不是两份麻烦。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"钱包清单半年一查。\"我们互换角色，这次由我来提问。被遗忘的服务器关了机，图上留了名。",
+   "zh": "我们数出四十一扇门：接口、登录、上传，还有一台被遗忘的测试服务器。团队为入职权限包指定了明确的负责人。导师带我梳理了通行密钥在这个团队里的演变。评审演练中，Maria说：\"证件复印件要写用途。\"我们互换角色，这次由我来提问。被遗忘的服务器关了机，图上留了名。",
    "hard": [
     {
      "w": "device trust score",
@@ -146,6 +146,33 @@
      "def": "紧急权限复核，多开的账"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The forgotten server got shutdown and a map spot. Before deciding, I reread my notes about the hardware key twice. In the review drill, Maria says, \"Shred before you bin.\" We swap roles so I ask the questions this time. I compare two views on the offboarding checklist and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The forgotten server got shutdown and a map spot. Before deciding, I reread my notes about the hardware key twice. In the review drill, Maria says, \"Shred before you bin.\" We swap roles so I ask the questions this time. I compare two views on the offboarding checklist and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "被遗忘的服务器关了机，图上留了名。做决定之前，我把关于硬件密钥的笔记重读了两遍。评审演练中，Maria说：\"先碎纸再扔垃圾桶。\"我们互换角色，这次由我来提问。我比较了关于离职权限清单的两种观点，诚实地都记了下来。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. In the review drill, Priya says, \"Two factor, not two headaches.\" We swap roles so I ask the questions this time. I add the service account list to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the device trust score. We end the week with something shipped and something properly learned this time.",
+   "tts": "We count forty one doors: APIs, logins, uploads, and one forgotten test server. In the review drill, Priya says, \"Two factor, not two headaches.\" We swap roles so I ask the questions this time. I add the service account list to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the device trust score. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们数出四十一扇门：接口、登录、上传，还有一台被遗忘的测试服务器。评审演练中，Priya说：\"两步验证不是两份麻烦。\"我们互换角色，这次由我来提问。我把服务账号清单连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了设备信任分上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the emergency access check. I prepare a one-page brief about the session revoke so meetings start from facts. In the review drill, Maria says, \"Wallet inventory twice a year.\" We swap roles so I ask the questions this time. The forgotten server got shutdown and a map spot.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the emergency access check. I prepare a one-page brief about the session revoke so meetings start from facts. In the review drill, Maria says, \"Wallet inventory twice a year.\" We swap roles so I ask the questions this time. The forgotten server got shutdown and a map spot.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就紧急权限复核提出了一个审慎的问题。我准备了一页关于会话吊销的简报，好让会议从事实出发。评审演练中，Maria说：\"钱包清单半年一查。\"我们互换角色，这次由我来提问。被遗忘的服务器关了机，图上留了名。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 340,
-   "segment_count": 3,
+   "word_count": 403,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We count the Apprentice's confident mistakes for two weeks. In today's standup, I mention the model size tradeoff and what comes next. Priya suggests a cleaner way to think about the latency budget for ai. At the review, we spend ten minutes on the default off rollout. The guide now has a short section on the opt in rollout. In the meeting drill, Maria says, \"The twenty percent rule.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Power bank inventory audit.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "We count the Apprentice's confident mistakes for two weeks. In today's standup, I mention the model size tradeoff and what comes next. Priya suggests a cleaner way to think about the latency budget for ai. At the review, we spend ten minutes on the default off rollout. The guide now has a short section on the opt in rollout. In the meeting drill, Maria says, \"The twenty percent rule.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Power bank inventory audit.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "We count the Apprentice's confident mistakes for two weeks. In today's standup, I mention the model size tradeoff and what comes next. Priya suggests a cleaner way to think about the default off rollout. In the meeting drill, Leo says, \"The twenty percent rule.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We count the Apprentice's confident mistakes for two weeks. In today's standup, I mention the model size tradeoff and what comes next. Priya suggests a cleaner way to think about the default off rollout. In the meeting drill, Leo says, \"The twenty percent rule.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们统计了两周里学徒自信满满犯的错。今天的站会上，我提到模型大小取舍和接下来的安排。Priya 提出了一个更清晰的AI 延迟预算思考方式。评审时，我们花了十分钟在默认关闭放量上。指南里现在有关于选择加入放量的简短章节。会议演练中，Maria说：\"百分之二十的规矩。\"之后我们换角色再练一遍。会议演练中，Priya说：\"充电宝库存审计。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我们统计了两周里学徒自信满满犯的错。今天的站会上，我提到模型大小取舍和接下来的安排。Priya 提出了一个更清晰的默认关闭放量思考方式。会议演练中，Leo说：\"百分之二十的规矩。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "model size tradeoff",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Forty one hallucinations, all fluent, three nearly merged. In the meeting drill, Maria says, \"Battery health at eighty seven.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The overnight charging debate.\" After that, we swap roles and run it again. I connect the small model first policy to the ticket so nothing gets lost. I compare my notes about the fallback model chain with Priya's. We agree to give the ai output feedback button one more careful look this week. While the details are fresh, I write down the incident runbook for ai. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Forty one hallucinations, all fluent, three nearly merged. In the meeting drill, Maria says, \"Battery health at eighty seven.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The overnight charging debate.\" After that, we swap roles and run it again. I connect the small model first policy to the ticket so nothing gets lost. I compare my notes about the fallback model chain with Priya's. We agree to give the ai output feedback button one more careful look this week. While the details are fresh, I write down the incident runbook for ai. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Forty one hallucinations, all fluent, three nearly merged. In the meeting drill, Priya says, \"Power bank inventory audit.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the latency budget for ai. The guide now has a short section on the opt in rollout. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Forty one hallucinations, all fluent, three nearly merged. In the meeting drill, Priya says, \"Power bank inventory audit.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the latency budget for ai. The guide now has a short section on the opt in rollout. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "四十一次幻觉，全部流畅，三次差点合并。会议演练中，Maria说：\"电池健康八十七。\"之后我们换角色再练一遍。会议演练中，Priya说：\"整夜充电之争。\"之后我们换角色再练一遍。我把小模型优先策略关联到工单上，免得遗漏。我把关于降级模型链的笔记和 Priya 的对照了一下。我们说好这周再把AI 输出反馈按钮仔细看一次。趁细节还新鲜，我把AI 功能事故手册写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "四十一次幻觉，全部流畅，三次差点合并。会议演练中，Priya说：\"充电宝库存审计。\"之后我们换角色再练一遍。评审时，我们花了十分钟在AI 延迟预算上。指南里现在有关于选择加入放量的简短章节。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "small model first policy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the model card in release notes and what comes next. Priya suggests a cleaner way to think about the kill switch for genai. At the review, we spend ten minutes on the on device inference. The guide now has a short section on the energy cost awareness. In the meeting drill, Leo says, \"The cable graveyard drawer.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Airplane mode is a spa.\" After that, we swap roles and run it again. The report is not anti AI; it is pro truth.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the model card in release notes and what comes next. Priya suggests a cleaner way to think about the kill switch for genai. At the review, we spend ten minutes on the on device inference. The guide now has a short section on the energy cost awareness. In the meeting drill, Leo says, \"The cable graveyard drawer.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Airplane mode is a spa.\" After that, we swap roles and run it again. The report is not anti A I; it is pro truth.",
+   "en": "Forty one hallucinations, all fluent, three nearly merged. I connect the ai output feedback button to the ticket so nothing gets lost. I compare my notes about the small model first policy with Priya's. In the meeting drill, Maria says, \"Battery health at eighty seven.\" After that, we swap roles and run it again. The report is not anti AI; it is pro truth.",
+   "tts": "Forty one hallucinations, all fluent, three nearly merged. I connect the ai output feedback button to the ticket so nothing gets lost. I compare my notes about the small model first policy with Priya's. In the meeting drill, Maria says, \"Battery health at eighty seven.\" After that, we swap roles and run it again. The report is not anti A I; it is pro truth.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到发布说明里的模型卡和接下来的安排。Priya 提出了一个更清晰的生成式 AI 紧急开关思考方式。评审时，我们花了十分钟在端侧推理上。指南里现在有关于能耗成本意识的简短章节。会议演练中，Leo说：\"数据线坟场抽屉。\"之后我们换角色再练一遍。会议演练中，Maria说：\"飞行模式是高压度假。\"之后我们换角色再练一遍。这份报告不是反 AI，是挺真相。",
+   "zh": "四十一次幻觉，全部流畅，三次差点合并。我把AI 输出反馈按钮关联到工单上，免得遗漏。我把关于小模型优先策略的笔记和 Priya 的对照了一下。会议演练中，Maria说：\"电池健康八十七。\"之后我们换角色再练一遍。这份报告不是反 AI，是挺真相。",
    "hard": [
     {
      "w": "on device inference",
@@ -146,6 +146,33 @@
      "def": "生成式 AI 紧急开关，一键暂停"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The report is not anti AI; it is pro truth. We agree to give the fallback model chain one more careful look this week. In the meeting drill, Maria says, \"The overnight charging debate.\" After that, we swap roles and run it again. While the details are fresh, I write down the incident runbook for ai. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The report is not anti A I; it is pro truth. We agree to give the fallback model chain one more careful look this week. In the meeting drill, Maria says, \"The overnight charging debate.\" After that, we swap roles and run it again. While the details are fresh, I write down the incident runbook for ai. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "这份报告不是反 AI，是挺真相。我们说好这周再把降级模型链仔细看一次。会议演练中，Maria说：\"整夜充电之争。\"之后我们换角色再练一遍。趁细节还新鲜，我把AI 功能事故手册写了下来。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Forty one hallucinations, all fluent, three nearly merged. In the meeting drill, Priya says, \"The cable graveyard drawer.\" After that, we swap roles and run it again. In today's standup, I mention the model card in release notes and what comes next. Priya suggests a cleaner way to think about the on device inference. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Forty one hallucinations, all fluent, three nearly merged. In the meeting drill, Priya says, \"The cable graveyard drawer.\" After that, we swap roles and run it again. In today's standup, I mention the model card in release notes and what comes next. Priya suggests a cleaner way to think about the on device inference. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "四十一次幻觉，全部流畅，三次差点合并。会议演练中，Priya说：\"数据线坟场抽屉。\"之后我们换角色再练一遍。今天的站会上，我提到发布说明里的模型卡和接下来的安排。Priya 提出了一个更清晰的端侧推理思考方式。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the kill switch for genai. The guide now has a short section on the energy cost awareness. In the meeting drill, Maria says, \"Airplane mode is a spa.\" After that, we swap roles and run it again. The report is not anti AI; it is pro truth.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the kill switch for genai. The guide now has a short section on the energy cost awareness. In the meeting drill, Maria says, \"Airplane mode is a spa.\" After that, we swap roles and run it again. The report is not anti A I; it is pro truth.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在生成式 AI 紧急开关上。指南里现在有关于能耗成本意识的简短章节。会议演练中，Maria说：\"飞行模式是高压度假。\"之后我们换角色再练一遍。这份报告不是反 AI，是挺真相。",
+   "hard": []
   }
  ],
  "chunks": [

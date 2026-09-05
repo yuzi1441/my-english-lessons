@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 401,
-   "segment_count": 3,
+   "word_count": 472,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The helper's first week uses my own docs and runbooks. We review the moonlighting policy check against the requirements, line by line. I put the conflict of interest guard on the record so the reasoning stays visible. I propose a measurable target for the separate identity setup this quarter. The final deck includes the work hours commit lint and what we learned from it. In the launch rehearsal, Leo says, \"The fridge calendar holds two careers.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Protected evenings actually protected.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "The helper's first week uses my own docs and runbooks. We review the moonlighting policy check against the requirements, line by line. I put the conflict of interest guard on the record so the reasoning stays visible. I propose a measurable target for the separate identity setup this quarter. The final deck includes the work hours commit lint and what we learned from it. In the launch rehearsal, Leo says, \"The fridge calendar holds two careers.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Protected evenings actually protected.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "The helper's first week uses my own docs and runbooks. We review the moonlighting policy check against the requirements, line by line. I put the separate identity setup on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"The fridge calendar holds two careers.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "The helper's first week uses my own docs and runbooks. We review the moonlighting policy check against the requirements, line by line. I put the separate identity setup on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"The fridge calendar holds two careers.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "帮手的第一周全靠我写的文档和手册。我们逐行对照需求检查了兼职合规检查。我把利益冲突防线记录在案，让推理过程保持可见。我为独立身份配置提出了本季度一个可衡量的目标。最终的材料里有工作时间提交检查，以及我们从中学到的东西。上线彩排中，Leo说：\"冰箱日历装下两份事业。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"被守护的夜晚真的没被打扰。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "帮手的第一周全靠我写的文档和手册。我们逐行对照需求检查了兼职合规检查。我把独立身份配置记录在案，让推理过程保持可见。上线彩排中，Priya说：\"冰箱日历装下两份事业。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "moonlighting policy check",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One gap found: the refund policy lived only in my head. In the launch rehearsal, Leo says, \"We trade energy, not just chores.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"One weekend a month is sacred.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the time tracking honesty, the risks behind it, and the cost of waiting. We align on the energy budget across jobs early, so execution never has to guess. I close the discussion on the focus hours calendar blocks with a short summary. I present the project energy review with a timeline, the data, and one clear ask. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "One gap found: the refund policy lived only in my head. In the launch rehearsal, Leo says, \"We trade energy, not just chores.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"One weekend a month is sacred.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the time tracking honesty, the risks behind it, and the cost of waiting. We align on the energy budget across jobs early, so execution never has to guess. I close the discussion on the focus hours calendar blocks with a short summary. I present the project energy review with a timeline, the data, and one clear ask. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "One gap found: the refund policy lived only in my head. In the launch rehearsal, Maria says, \"Protected evenings actually protected.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the conflict of interest guard this quarter. The final deck includes the work hours commit lint and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "One gap found: the refund policy lived only in my head. In the launch rehearsal, Maria says, \"Protected evenings actually protected.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the conflict of interest guard this quarter. The final deck includes the work hours commit lint and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "发现一个缺口：退款政策只存在于我的脑子里。上线彩排中，Leo说：\"我们交换精力不只是家务。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"每月一个周末神圣不可侵犯。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖时间记录诚实法、背后的风险，以及等待的代价。我们尽早就精力预算分配对齐，让执行无需猜测。我用一段简短的总结为专注时段日历块的讨论收尾。我用时间线、数据和一条明确的诉求来汇报项目精力复盘。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "发现一个缺口：退款政策只存在于我的脑子里。上线彩排中，Maria说：\"被守护的夜晚真的没被打扰。\"最后我们互换角色，由我从头到尾主导整段对话。我为利益冲突防线提出了本季度一个可衡量的目标。最终的材料里有工作时间提交检查，以及我们从中学到的东西。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "time tracking honesty",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the stop doing list review against the requirements, line by line. I put the rest as release gate on the record so the reasoning stays visible. I propose a measurable target for the intellectual property boundaries this quarter. The final deck includes the burnout early warning list and what we learned from it. In the launch rehearsal, Priya says, \"Tired but not resentful.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The boundary is a kindness.\" To finish, we swap roles and I lead the entire exchange from start to finish. If it is not written, it is not delegated.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the stop doing list review against the requirements, line by line. I put the rest as release gate on the record so the reasoning stays visible. I propose a measurable target for the intellectual property boundaries this quarter. The final deck includes the burnout early warning list and what we learned from it. In the launch rehearsal, Priya says, \"Tired but not resentful.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The boundary is a kindness.\" To finish, we swap roles and I lead the entire exchange from start to finish. If it is not written, it is not delegated.",
+   "en": "One gap found: the refund policy lived only in my head. My report covers the focus hours calendar blocks, the risks behind it, and the cost of waiting. We align on the time tracking honesty early, so execution never has to guess. In the launch rehearsal, Leo says, \"We trade energy, not just chores.\" To finish, we swap roles and I lead the entire exchange from start to finish. If it is not written, it is not delegated.",
+   "tts": "One gap found: the refund policy lived only in my head. My report covers the focus hours calendar blocks, the risks behind it, and the cost of waiting. We align on the time tracking honesty early, so execution never has to guess. In the launch rehearsal, Leo says, \"We trade energy, not just chores.\" To finish, we swap roles and I lead the entire exchange from start to finish. If it is not written, it is not delegated.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了停止事项清单回顾。我把休息作为发布门禁记录在案，让推理过程保持可见。我为知识产权边界提出了本季度一个可衡量的目标。最终的材料里有倦怠早期警报清单，以及我们从中学到的东西。上线彩排中，Priya说：\"累但不怨。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"边界是种温柔。\"最后我们互换角色，由我从头到尾主导整段对话。没写下来的，就没委托出去。",
+   "zh": "发现一个缺口：退款政策只存在于我的脑子里。我的报告涵盖专注时段日历块、背后的风险，以及等待的代价。我们尽早就时间记录诚实法对齐，让执行无需猜测。上线彩排中，Leo说：\"我们交换精力不只是家务。\"最后我们互换角色，由我从头到尾主导整段对话。没写下来的，就没委托出去。",
    "hard": [
     {
      "w": "intellectual property boundaries",
@@ -146,6 +146,33 @@
      "def": "休息作为发布门禁，累了就不发版"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "If it is not written, it is not delegated. I close the discussion on the energy budget across jobs with a short summary. In the launch rehearsal, Leo says, \"One weekend a month is sacred.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the project energy review with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "If it is not written, it is not delegated. I close the discussion on the energy budget across jobs with a short summary. In the launch rehearsal, Leo says, \"One weekend a month is sacred.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the project energy review with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "没写下来的，就没委托出去。我用一段简短的总结为精力预算分配的讨论收尾。上线彩排中，Leo说：\"每月一个周末神圣不可侵犯。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报项目精力复盘。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "One gap found: the refund policy lived only in my head. In the launch rehearsal, Maria says, \"Tired but not resentful.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the stop doing list review against the requirements, line by line. I put the intellectual property boundaries on the record so the reasoning stays visible. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "One gap found: the refund policy lived only in my head. In the launch rehearsal, Maria says, \"Tired but not resentful.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the stop doing list review against the requirements, line by line. I put the intellectual property boundaries on the record so the reasoning stays visible. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "发现一个缺口：退款政策只存在于我的脑子里。上线彩排中，Maria说：\"累但不怨。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了停止事项清单回顾。我把知识产权边界记录在案，让推理过程保持可见。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the rest as release gate this quarter. The final deck includes the burnout early warning list and what we learned from it. In the launch rehearsal, Leo says, \"The boundary is a kindness.\" To finish, we swap roles and I lead the entire exchange from start to finish. If it is not written, it is not delegated.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I propose a measurable target for the rest as release gate this quarter. The final deck includes the burnout early warning list and what we learned from it. In the launch rehearsal, Leo says, \"The boundary is a kindness.\" To finish, we swap roles and I lead the entire exchange from start to finish. If it is not written, it is not delegated.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我为休息作为发布门禁提出了本季度一个可衡量的目标。最终的材料里有倦怠早期警报清单，以及我们从中学到的东西。上线彩排中，Leo说：\"边界是种温柔。\"最后我们互换角色，由我从头到尾主导整段对话。没写下来的，就没委托出去。",
+   "hard": []
   }
  ],
  "chunks": [

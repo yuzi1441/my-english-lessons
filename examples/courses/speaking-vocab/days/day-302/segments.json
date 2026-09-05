@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 403,
-   "segment_count": 3,
+   "word_count": 468,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My first big design doc meets the review board. My report covers the monolith first strategy, the risks behind it, and the cost of waiting. I present the modular monolith with a timeline, the data, and one clear ask. I put the strangler fig migration plan on the record so the reasoning stays visible. I close the discussion on the branch by abstraction technique with a short summary. In the launch rehearsal, Maria says, \"Flatmates split the rent but share the mess.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"House rules replace good intentions.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "My first big design doc meets the review board. My report covers the monolith first strategy, the risks behind it, and the cost of waiting. I present the modular monolith with a timeline, the data, and one clear ask. I put the strangler fig migration plan on the record so the reasoning stays visible. I close the discussion on the branch by abstraction technique with a short summary. In the launch rehearsal, Maria says, \"Flatmates split the rent but share the mess.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"House rules replace good intentions.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "My first big design doc meets the review board. My report covers the monolith first strategy, the risks behind it, and the cost of waiting. I present the strangler fig migration plan with a timeline, the data, and one clear ask. In the launch rehearsal, Leo says, \"Flatmates split the rent but share the mess.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "My first big design doc meets the review board. My report covers the monolith first strategy, the risks behind it, and the cost of waiting. I present the strangler fig migration plan with a timeline, the data, and one clear ask. In the launch rehearsal, Leo says, \"Flatmates split the rent but share the mess.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的第一份重要设计文档接受评审会检阅。我的报告涵盖单体优先策略、背后的风险，以及等待的代价。我用时间线、数据和一条明确的诉求来汇报模块化单体。我把绞杀者迁移计划记录在案，让推理过程保持可见。我用一段简短的总结为抽象分支技法的讨论收尾。上线彩排中，Maria说：\"合租分摊房租也共享混乱。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"家规取代善意假设。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "我的第一份重要设计文档接受评审会检阅。我的报告涵盖单体优先策略、背后的风险，以及等待的代价。我用时间线、数据和一条明确的诉求来汇报绞杀者迁移计划。上线彩排中，Leo说：\"合租分摊房租也共享混乱。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "monolith first strategy",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Alternatives considered, consequences honest, reversibility rated in plain words. In the launch rehearsal, Maria says, \"Solo living doubles the chores.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The shared kitchen needed a scheduler.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the service extraction criteria and what we learned from it. We align on the distributed system tax early, so execution never has to guess. I propose a measurable target for the parallel run verification this quarter. We review the cutover checklist against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Alternatives considered, consequences honest, reversibility rated in plain words. In the launch rehearsal, Maria says, \"Solo living doubles the chores.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The shared kitchen needed a scheduler.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the service extraction criteria and what we learned from it. We align on the distributed system tax early, so execution never has to guess. I propose a measurable target for the parallel run verification this quarter. We review the cutover checklist against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Alternatives considered, consequences honest, reversibility rated in plain words. In the launch rehearsal, Priya says, \"House rules replace good intentions.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the modular monolith on the record so the reasoning stays visible. I close the discussion on the branch by abstraction technique with a short summary. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Alternatives considered, consequences honest, reversibility rated in plain words. In the launch rehearsal, Priya says, \"House rules replace good intentions.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the modular monolith on the record so the reasoning stays visible. I close the discussion on the branch by abstraction technique with a short summary. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "备选方案、诚实的后果、用大白话标注的可逆性。上线彩排中，Maria说：\"独居让家务翻倍。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"共用厨房需要一个排班表。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有服务拆分标准，以及我们从中学到的东西。我们尽早就分布式税对齐，让执行无需猜测。我为并行运行验证提出了本季度一个可衡量的目标。我们逐行对照需求检查了切换检查清单。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "备选方案、诚实的后果、用大白话标注的可逆性。上线彩排中，Priya说：\"家规取代善意假设。\"最后我们互换角色，由我从头到尾主导整段对话。我把模块化单体记录在案，让推理过程保持可见。我用一段简短的总结为抽象分支技法的讨论收尾。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "service extraction criteria",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the rollback to monolith plan, the risks behind it, and the cost of waiting. I present the service contract test suite with a timeline, the data, and one clear ask. I put the data ownership boundary on the record so the reasoning stays visible. I close the discussion on the team cognitive load with a short summary. In the launch rehearsal, Leo says, \"Moving out has hidden moving costs.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"We chose rooms by noise, not size.\" To finish, we swap roles and I lead the entire exchange from start to finish. Writing the doc found two bugs before code did.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the rollback to monolith plan, the risks behind it, and the cost of waiting. I present the service contract test suite with a timeline, the data, and one clear ask. I put the data ownership boundary on the record so the reasoning stays visible. I close the discussion on the team cognitive load with a short summary. In the launch rehearsal, Leo says, \"Moving out has hidden moving costs.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"We chose rooms by noise, not size.\" To finish, we swap roles and I lead the entire exchange from start to finish. Writing the doc found two bugs before code did.",
+   "en": "Alternatives considered, consequences honest, reversibility rated in plain words. The final deck includes the parallel run verification and what we learned from it. We align on the service extraction criteria early, so execution never has to guess. In the launch rehearsal, Maria says, \"Solo living doubles the chores.\" To finish, we swap roles and I lead the entire exchange from start to finish. Writing the doc found two bugs before code did.",
+   "tts": "Alternatives considered, consequences honest, reversibility rated in plain words. The final deck includes the parallel run verification and what we learned from it. We align on the service extraction criteria early, so execution never has to guess. In the launch rehearsal, Maria says, \"Solo living doubles the chores.\" To finish, we swap roles and I lead the entire exchange from start to finish. Writing the doc found two bugs before code did.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖回滚单体预案、背后的风险，以及等待的代价。我用时间线、数据和一条明确的诉求来汇报服务契约测试套件。我把数据归属边界记录在案，让推理过程保持可见。我用一段简短的总结为团队认知负荷的讨论收尾。上线彩排中，Leo说：\"搬出去有隐藏的搬家成本。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"我们按噪音选房间不看面积。\"最后我们互换角色，由我从头到尾主导整段对话。写文档先于代码发现了两个缺陷。",
+   "zh": "备选方案、诚实的后果、用大白话标注的可逆性。最终的材料里有并行运行验证，以及我们从中学到的东西。我们尽早就服务拆分标准对齐，让执行无需猜测。上线彩排中，Maria说：\"独居让家务翻倍。\"最后我们互换角色，由我从头到尾主导整段对话。写文档先于代码发现了两个缺陷。",
    "hard": [
     {
      "w": "data ownership boundary",
@@ -146,6 +146,33 @@
      "def": "服务契约测试套件，拆开也要守约"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Writing the doc found two bugs before code did. I propose a measurable target for the distributed system tax this quarter. In the launch rehearsal, Maria says, \"The shared kitchen needed a scheduler.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the cutover checklist against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Writing the doc found two bugs before code did. I propose a measurable target for the distributed system tax this quarter. In the launch rehearsal, Maria says, \"The shared kitchen needed a scheduler.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the cutover checklist against the requirements, line by line. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "写文档先于代码发现了两个缺陷。我为分布式税提出了本季度一个可衡量的目标。上线彩排中，Maria说：\"共用厨房需要一个排班表。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了切换检查清单。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Alternatives considered, consequences honest, reversibility rated in plain words. In the launch rehearsal, Priya says, \"Moving out has hidden moving costs.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the rollback to monolith plan, the risks behind it, and the cost of waiting. I present the data ownership boundary with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Alternatives considered, consequences honest, reversibility rated in plain words. In the launch rehearsal, Priya says, \"Moving out has hidden moving costs.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the rollback to monolith plan, the risks behind it, and the cost of waiting. I present the data ownership boundary with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "备选方案、诚实的后果、用大白话标注的可逆性。上线彩排中，Priya说：\"搬出去有隐藏的搬家成本。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖回滚单体预案、背后的风险，以及等待的代价。我用时间线、数据和一条明确的诉求来汇报数据归属边界。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the service contract test suite on the record so the reasoning stays visible. I close the discussion on the team cognitive load with a short summary. In the launch rehearsal, Maria says, \"We chose rooms by noise, not size.\" To finish, we swap roles and I lead the entire exchange from start to finish. Writing the doc found two bugs before code did.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the service contract test suite on the record so the reasoning stays visible. I close the discussion on the team cognitive load with a short summary. In the launch rehearsal, Maria says, \"We chose rooms by noise, not size.\" To finish, we swap roles and I lead the entire exchange from start to finish. Writing the doc found two bugs before code did.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把服务契约测试套件记录在案，让推理过程保持可见。我用一段简短的总结为团队认知负荷的讨论收尾。上线彩排中，Maria说：\"我们按噪音选房间不看面积。\"最后我们互换角色，由我从头到尾主导整段对话。写文档先于代码发现了两个缺陷。",
+   "hard": []
   }
  ],
  "chunks": [

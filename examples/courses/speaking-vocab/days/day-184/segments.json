@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 328,
-   "segment_count": 3,
+   "word_count": 398,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We turn good prompts into a shared library. We agree to give the evaluation dataset one more careful look this week. At the review, we spend ten minutes on the golden answer set. I review ai suggestions carefully, then I note one thing I learned. We agree that I will test generated code twice this week. In the meeting drill, Priya says, \"The menu translator triumph.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Idioms die in translation.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "We turn good prompts into a shared library. We agree to give the evaluation dataset one more careful look this week. At the review, we spend ten minutes on the golden answer set. I review ai suggestions carefully, then I note one thing I learned. We agree that I will test generated code twice this week. In the meeting drill, Priya says, \"The menu translator triumph.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Idioms die in translation.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "We turn good prompts into a shared library. We agree to give the evaluation dataset one more careful look this week. I review ai suggestions carefully, then I note one thing I learned. In the meeting drill, Maria says, \"The menu translator triumph.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "We turn good prompts into a shared library. We agree to give the evaluation dataset one more careful look this week. I review ai suggestions carefully, then I note one thing I learned. In the meeting drill, Maria says, \"The menu translator triumph.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们把好提示词变成共享图书馆。我们说好这周再把评测数据集仔细看一次。评审时，我们花了十分钟在黄金答案集上。我仔细评审 AI 建议，然后记下一条学到的东西。我们说好这周由我来AI 生成的代码多测一遍。会议演练中，Priya说：\"菜单翻译的胜利时刻。\"之后我们换角色再练一遍。会议演练中，Leo说：\"习语在翻译中阵亡。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我们把好提示词变成共享图书馆。我们说好这周再把评测数据集仔细看一次。我仔细评审 AI 建议，然后记下一条学到的东西。会议演练中，Maria说：\"菜单翻译的胜利时刻。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "evaluation dataset",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Each prompt has an owner, a version, and a note about when it fails. In the meeting drill, Priya says, \"The polite form problem.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Handwritten notes, unreadable.\" After that, we swap roles and run it again. In today's standup, I mention the human review loop and what comes next. The guide now has a short section on the regression eval on upgrade. In today's session, I security scan ai patches with Priya's help. The team decides that I should reject fluent nonsense first. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Each prompt has an owner, a version, and a note about when it fails. In the meeting drill, Priya says, \"The polite form problem.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Handwritten notes, unreadable.\" After that, we swap roles and run it again. In today's standup, I mention the human review loop and what comes next. The guide now has a short section on the regression eval on upgrade. In today's session, I security scan ai patches with Priya's help. The team decides that I should reject fluent nonsense first. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Each prompt has an owner, a version, and a note about when it fails. In the meeting drill, Leo says, \"Idioms die in translation.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the golden answer set. We agree that I will test generated code twice this week. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Each prompt has an owner, a version, and a note about when it fails. In the meeting drill, Leo says, \"Idioms die in translation.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the golden answer set. We agree that I will test generated code twice this week. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每条提示词有主人、有版本，还有一行“什么时候会失灵”。会议演练中，Priya说：\"敬语是个大难题。\"之后我们换角色再练一遍。会议演练中，Leo说：\"手写便条\"之后我们换角色再练一遍。今天的站会上，我提到人工评审回路和接下来的安排。指南里现在有关于升级回归评测的简短章节。今天的工作里，我在 Priya 的帮助下AI 补丁也要过安全扫描。团队决定先由我来拒绝流畅的胡说。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "每条提示词有主人、有版本，还有一行“什么时候会失灵”。会议演练中，Leo说：\"习语在翻译中阵亡。\"之后我们换角色再练一遍。评审时，我们花了十分钟在黄金答案集上。我们说好这周由我来AI 生成的代码多测一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "human review loop",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the attribution in commit. Priya suggests a cleaner way to think about the human in the loop rule. I connect the task specific benchmark to the ticket so nothing gets lost. I compare my notes about the hallucination rate check with Priya's. In the meeting drill, Maria says, \"Dialect saved by aunties.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Human translators, still precious.\" After that, we swap roles and run it again. Borrowed prompts now come with recipes, not just dishes.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the attribution in commit. Priya suggests a cleaner way to think about the human in the loop rule. I connect the task specific benchmark to the ticket so nothing gets lost. I compare my notes about the hallucination rate check with Priya's. In the meeting drill, Maria says, \"Dialect saved by aunties.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Human translators, still precious.\" After that, we swap roles and run it again. Borrowed prompts now come with recipes, not just dishes.",
+   "en": "Each prompt has an owner, a version, and a note about when it fails. In today's session, I security scan ai patches with Priya's help. In today's standup, I mention the human review loop and what comes next. In the meeting drill, Priya says, \"The polite form problem.\" After that, we swap roles and run it again. Borrowed prompts now come with recipes, not just dishes.",
+   "tts": "Each prompt has an owner, a version, and a note about when it fails. In today's session, I security scan ai patches with Priya's help. In today's standup, I mention the human review loop and what comes next. In the meeting drill, Priya says, \"The polite form problem.\" After that, we swap roles and run it again. Borrowed prompts now come with recipes, not just dishes.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把提交里注明 AI 参与写了下来。Priya 提出了一个更清晰的人始终在环上思考方式。我把任务专属基准关联到工单上，免得遗漏。我把关于幻觉率检查的笔记和 Priya 的对照了一下。会议演练中，Maria说：\"方言靠阿姨们抢救。\"之后我们换角色再练一遍。会议演练中，Priya说：\"人类译员\"之后我们换角色再练一遍。借走的提示词现在带着菜谱，而不只是一盘菜。",
+   "zh": "每条提示词有主人、有版本，还有一行“什么时候会失灵”。今天的工作里，我在 Priya 的帮助下AI 补丁也要过安全扫描。今天的站会上，我提到人工评审回路和接下来的安排。会议演练中，Priya说：\"敬语是个大难题。\"之后我们换角色再练一遍。借走的提示词现在带着菜谱，而不只是一盘菜。",
    "hard": [
     {
      "w": "task specific benchmark",
@@ -146,6 +146,33 @@
      "def": "人始终在环上，最终拍板是人"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Borrowed prompts now come with recipes, not just dishes. The guide now has a short section on the regression eval on upgrade. In the meeting drill, Priya says, \"Handwritten notes, unreadable.\" After that, we swap roles and run it again. The team decides that I should reject fluent nonsense first. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Borrowed prompts now come with recipes, not just dishes. The guide now has a short section on the regression eval on upgrade. In the meeting drill, Priya says, \"Handwritten notes, unreadable.\" After that, we swap roles and run it again. The team decides that I should reject fluent nonsense first. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "借走的提示词现在带着菜谱，而不只是一盘菜。指南里现在有关于升级回归评测的简短章节。会议演练中，Priya说：\"手写便条\"之后我们换角色再练一遍。团队决定先由我来拒绝流畅的胡说。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Each prompt has an owner, a version, and a note about when it fails. In the meeting drill, Leo says, \"Dialect saved by aunties.\" After that, we swap roles and run it again. While the details are fresh, I write down the attribution in commit. Priya suggests a cleaner way to think about the task specific benchmark. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Each prompt has an owner, a version, and a note about when it fails. In the meeting drill, Leo says, \"Dialect saved by aunties.\" After that, we swap roles and run it again. While the details are fresh, I write down the attribution in commit. Priya suggests a cleaner way to think about the task specific benchmark. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "每条提示词有主人、有版本，还有一行“什么时候会失灵”。会议演练中，Leo说：\"方言靠阿姨们抢救。\"之后我们换角色再练一遍。趁细节还新鲜，我把提交里注明 AI 参与写了下来。Priya 提出了一个更清晰的任务专属基准思考方式。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the human in the loop rule to the ticket so nothing gets lost. I compare my notes about the hallucination rate check with Priya's. In the meeting drill, Priya says, \"Human translators, still precious.\" After that, we swap roles and run it again. Borrowed prompts now come with recipes, not just dishes.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the human in the loop rule to the ticket so nothing gets lost. I compare my notes about the hallucination rate check with Priya's. In the meeting drill, Priya says, \"Human translators, still precious.\" After that, we swap roles and run it again. Borrowed prompts now come with recipes, not just dishes.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把人始终在环上关联到工单上，免得遗漏。我把关于幻觉率检查的笔记和 Priya 的对照了一下。会议演练中，Priya说：\"人类译员\"之后我们换角色再练一遍。借走的提示词现在带着菜谱，而不只是一盘菜。",
+   "hard": []
   }
  ],
  "chunks": [

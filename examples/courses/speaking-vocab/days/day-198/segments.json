@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 329,
-   "segment_count": 3,
+   "word_count": 386,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We measure acceptance rate, merge time, and defect delta. I connect the intent classification setup to the ticket so nothing gets lost. At the review, we spend ten minutes on the confidence routing. I compare my notes about the transcript to blog with Priya's. Priya suggests a cleaner way to think about the meeting notes to wiki. In the meeting drill, Leo says, \"The menu tree maze.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Say agent, louder.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "We measure acceptance rate, merge time, and defect delta. I connect the intent classification setup to the ticket so nothing gets lost. At the review, we spend ten minutes on the confidence routing. I compare my notes about the transcript to blog with Priya's. Priya suggests a cleaner way to think about the meeting notes to wiki. In the meeting drill, Leo says, \"The menu tree maze.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Say agent, louder.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "en": "We measure acceptance rate, merge time, and defect delta. I connect the intent classification setup to the ticket so nothing gets lost. At the review, we spend ten minutes on the transcript to blog. In the meeting drill, Priya says, \"The menu tree maze.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We measure acceptance rate, merge time, and defect delta. I connect the intent classification setup to the ticket so nothing gets lost. At the review, we spend ten minutes on the transcript to blog. In the meeting drill, Priya says, \"The menu tree maze.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们度量采纳率、合并时长和缺陷差值。我把意图分类配置关联到工单上，免得遗漏。评审时，我们花了十分钟在置信度路由上。我把关于讲座转写变博客的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的会议纪要进 Wiki思考方式。会议演练中，Leo说：\"按键树迷宫。\"之后我们换角色再练一遍。会议演练中，Maria说：\"喊人工\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我们度量采纳率、合并时长和缺陷差值。我把意图分类配置关联到工单上，免得遗漏。评审时，我们花了十分钟在讲座转写变博客上。会议演练中，Priya说：\"按键树迷宫。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "intent classification setup",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Faster merges, same defects, happier juniors — an honest scoreboard. In the meeting drill, Leo says, \"The bot that finally got it.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Politeness survives automation.\" After that, we swap roles and run it again. In today's standup, I mention the escalation phrase library and what comes next. We agree to give the canned response curation one more careful look this week. While the details are fresh, I write down the channel q a harvesting. The guide now has a short section on the onboarding faq autoupdate. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Faster merges, same defects, happier juniors — an honest scoreboard. In the meeting drill, Leo says, \"The bot that finally got it.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Politeness survives automation.\" After that, we swap roles and run it again. In today's standup, I mention the escalation phrase library and what comes next. We agree to give the canned response curation one more careful look this week. While the details are fresh, I write down the channel q a harvesting. The guide now has a short section on the onboarding faq autoupdate. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Faster merges, same defects, happier juniors — an honest scoreboard. In the meeting drill, Maria says, \"Say agent, louder.\" After that, we swap roles and run it again. I compare my notes about the confidence routing with Priya's. Priya suggests a cleaner way to think about the meeting notes to wiki. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Faster merges, same defects, happier juniors — an honest scoreboard. In the meeting drill, Maria says, \"Say agent, louder.\" After that, we swap roles and run it again. I compare my notes about the confidence routing with Priya's. Priya suggests a cleaner way to think about the meeting notes to wiki. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "合并更快、缺陷没变、新人更开心——一块诚实的记分板。会议演练中，Leo说：\"终于听懂的那天。\"之后我们换角色再练一遍。会议演练中，Maria说：\"自动化中幸存的礼貌。\"之后我们换角色再练一遍。今天的站会上，我提到升级话术库和接下来的安排。我们说好这周再把常用话术整理仔细看一次。趁细节还新鲜，我把频道问答收割写了下来。指南里现在有关于新人 FAQ 自动更新的简短章节。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "合并更快、缺陷没变、新人更开心——一块诚实的记分板。会议演练中，Maria说：\"喊人工\"之后我们换角色再练一遍。我把关于置信度路由的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的会议纪要进 Wiki思考方式。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "escalation phrase library",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the trend topic suggestions to the ticket so nothing gets lost. At the review, we spend ten minutes on the archive search improvements. I compare my notes about the sentiment in support flow with Priya's. Priya suggests a cleaner way to think about the customer feedback loop. In the meeting drill, Priya says, \"Old school phone wins, once.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Human agents, national treasure.\" After that, we swap roles and run it again. We publish the boring numbers too.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the trend topic suggestions to the ticket so nothing gets lost. At the review, we spend ten minutes on the archive search improvements. I compare my notes about the sentiment in support flow with Priya's. Priya suggests a cleaner way to think about the customer feedback loop. In the meeting drill, Priya says, \"Old school phone wins, once.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Human agents, national treasure.\" After that, we swap roles and run it again. We publish the boring numbers too.",
+   "en": "Faster merges, same defects, happier juniors — an honest scoreboard. In today's standup, I mention the channel q a harvesting and what comes next. We agree to give the escalation phrase library one more careful look this week. In the meeting drill, Leo says, \"The bot that finally got it.\" After that, we swap roles and run it again. We publish the boring numbers too.",
+   "tts": "Faster merges, same defects, happier juniors — an honest scoreboard. In today's standup, I mention the channel q a harvesting and what comes next. We agree to give the escalation phrase library one more careful look this week. In the meeting drill, Leo says, \"The bot that finally got it.\" After that, we swap roles and run it again. We publish the boring numbers too.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把趋势话题建议关联到工单上，免得遗漏。评审时，我们花了十分钟在归档搜索改进上。我把关于支持流程里的情绪感知的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的客户反馈回路思考方式。会议演练中，Priya说：\"老式电话偶尔获胜。\"之后我们换角色再练一遍。会议演练中，Leo说：\"人工客服\"之后我们换角色再练一遍。无聊的数字我们也照发。",
+   "zh": "合并更快、缺陷没变、新人更开心——一块诚实的记分板。今天的站会上，我提到频道问答收割和接下来的安排。我们说好这周再把升级话术库仔细看一次。会议演练中，Leo说：\"终于听懂的那天。\"之后我们换角色再练一遍。无聊的数字我们也照发。",
    "hard": [
     {
      "w": "sentiment in support flow",
@@ -146,6 +146,33 @@
      "def": "归档搜索改进，旧宝可寻"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "We publish the boring numbers too. While the details are fresh, I write down the canned response curation. In the meeting drill, Leo says, \"Politeness survives automation.\" After that, we swap roles and run it again. The guide now has a short section on the onboarding faq autoupdate. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We publish the boring numbers too. While the details are fresh, I write down the canned response curation. In the meeting drill, Leo says, \"Politeness survives automation.\" After that, we swap roles and run it again. The guide now has a short section on the onboarding faq autoupdate. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "无聊的数字我们也照发。趁细节还新鲜，我把常用话术整理写了下来。会议演练中，Leo说：\"自动化中幸存的礼貌。\"之后我们换角色再练一遍。指南里现在有关于新人 FAQ 自动更新的简短章节。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Faster merges, same defects, happier juniors — an honest scoreboard. In the meeting drill, Maria says, \"Old school phone wins, once.\" After that, we swap roles and run it again. I connect the trend topic suggestions to the ticket so nothing gets lost. At the review, we spend ten minutes on the sentiment in support flow. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Faster merges, same defects, happier juniors — an honest scoreboard. In the meeting drill, Maria says, \"Old school phone wins, once.\" After that, we swap roles and run it again. I connect the trend topic suggestions to the ticket so nothing gets lost. At the review, we spend ten minutes on the sentiment in support flow. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "合并更快、缺陷没变、新人更开心——一块诚实的记分板。会议演练中，Maria说：\"老式电话偶尔获胜。\"之后我们换角色再练一遍。我把趋势话题建议关联到工单上，免得遗漏。评审时，我们花了十分钟在支持流程里的情绪感知上。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the archive search improvements with Priya's. Priya suggests a cleaner way to think about the customer feedback loop. In the meeting drill, Leo says, \"Human agents, national treasure.\" After that, we swap roles and run it again. We publish the boring numbers too.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the archive search improvements with Priya's. Priya suggests a cleaner way to think about the customer feedback loop. In the meeting drill, Leo says, \"Human agents, national treasure.\" After that, we swap roles and run it again. We publish the boring numbers too.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于归档搜索改进的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的客户反馈回路思考方式。会议演练中，Leo说：\"人工客服\"之后我们换角色再练一遍。无聊的数字我们也照发。",
+   "hard": []
   }
  ],
  "chunks": [

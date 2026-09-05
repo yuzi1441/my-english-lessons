@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 275,
+   "word_count": 209,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "After the release, we write down what changed. Before the meeting, I review the library one more time. I compare my notes about the dependency with Priya's. After lunch, I check the changelog again. After that, I add the breaking change to my notes with one example. At that moment, Maria says, \"I prefer the first option.\" I answer, then try the line myself. At that moment, Maria says, \"I'd rather wait.\" I answer, then try the line myself. The work is not easy, but I keep going.",
-   "tts": "After the release, we write down what changed. Before the meeting, I review the library one more time. I compare my notes about the dependency with Priya's. After lunch, I check the changelog again. After that, I add the breaking change to my notes with one example. At that moment, Maria says, \"I prefer the first option.\" I answer, then try the line myself. At that moment, Maria says, \"I'd rather wait.\" I answer, then try the line myself. The work is not easy, but I keep going.",
+   "en": "Day twenty is about dependencies. \"A library is code you reuse,\" Maria says. \"A dependency is a library your project needs. A framework provides structure. A package is a bundle of code. A package manager installs packages. Dependency version matters — old versions break things.\" At lunch, I practise decision-making English. \"I prefer the first option,\" I say. \"I'd rather wait. This works better for me. The main reason is cost.\"",
+   "tts": "Day twenty is about dependencies. \"A library is code you reuse,\" Maria says. \"A dependency is a library your project needs. A framework provides structure. A package is a bundle of code. A package manager installs packages. Dependency version matters — old versions break things.\" At lunch, I practise decision-making English. \"I prefer the first option,\" I say. \"I'd rather wait. This works better for me. The main reason is cost.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "发布之后，我们记录有哪些变化。开会前，我又复习了一遍库。我把关于依赖的笔记和 Priya 的对照了一下。午饭后，我又检查了一遍变更日志。在那之后，我把破坏性变更和一个例子一起记进了笔记。这时，Maria说：\"我更喜欢第一个方案。\"我回答，然后自己把这句练了一遍。这时，Maria说：\"我宁愿等一等。\"我回答，然后自己把这句练了一遍。工作不容易，但我继续前进。",
+   "zh": "第二十天讲依赖。\"库是你复用的代码，\"Maria 说。\"依赖是你的项目需要的库。框架提供结构。包是一组代码。包管理器安装包。依赖版本很重要——旧版本会出问题。\"午餐时，我练决策英语。\"我更喜欢第一个选项，\"我说。\"我宁愿等等。这个对我来说更好。主要原因是成本。\"",
    "hard": [
     {
      "w": "library",
@@ -46,36 +46,6 @@
      "def": "依赖，项目正常运行需要的外部软件"
     },
     {
-     "w": "I prefer the first option.",
-     "type": "term",
-     "def": "我更喜欢第一个方案。"
-    },
-    {
-     "w": "I'd rather wait.",
-     "type": "term",
-     "def": "我宁愿等一等。"
-    },
-    {
-     "w": "changelog",
-     "type": "term",
-     "def": "变更日志，按版本记录项目变化的文件"
-    },
-    {
-     "w": "breaking change",
-     "type": "term",
-     "def": "破坏性变更，会让旧用法不再兼容的变化"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "We compare two plans and choose one. At that moment, Priya says, \"This works better for me.\" I reply, and she notes it down. After a short break, Leo corrects my use of the pattern: The main reason is ... I reread the section about the framework after lunch. Leo walks me through the package step by step. After that, The team talks about the new feature at the standup. Priya and I spend a few minutes on the bug fix entry. I write down what I learned today.",
-   "tts": "We compare two plans and choose one. At that moment, Priya says, \"This works better for me.\" I reply, and she notes it down. After a short break, Leo corrects my use of the pattern: The main reason is  I reread the section about the framework after lunch. Leo walks me through the package step by step. After that, The team talks about the new feature at the standup. Priya and I spend a few minutes on the bug fix entry. I write down what I learned today.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我们比较了两个方案，选择了一个。这时，Priya说：\"这个对我更合适。\"我回答，她把它记了下来。稍作休息后，Leo 纠正了我对这个句型的用法：主要原因是……午饭后我重读了关于框架的章节。Leo 一步一步带我过了软件包。在那之后，团队在站会上讨论了新功能。Priya 和我在缺陷修复条目上花了几分钟。我记下了今天学到的东西。",
-   "hard": [
-    {
      "w": "framework",
      "type": "term",
      "def": "框架，为应用提供整体结构和规则的工具"
@@ -85,36 +55,6 @@
      "type": "term",
      "def": "软件包，可安装和分发的代码集合"
     },
-    {
-     "w": "This works better for me.",
-     "type": "term",
-     "def": "这个对我更合适。"
-    },
-    {
-     "w": "The main reason is ...",
-     "type": "term",
-     "def": "主要原因是……"
-    },
-    {
-     "w": "new feature",
-     "type": "term",
-     "def": "新功能，新版本增加的能力"
-    },
-    {
-     "w": "bug fix entry",
-     "type": "term",
-     "def": "缺陷修复条目，记录某项错误修复的说明"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I review what I did today. After that, We keep a short checklist for the deprecation notice. When I get stuck, I ask Maria about the release summary. Before the meeting, I review the package manager one more time. After a short break, I compare my notes about the dependency version with Priya's. At that moment, Maria says, \"It depends on the situation.\" I answer, then try the line myself. At that moment, Maria says, \"Let's choose this one.\" I answer, then try the line myself. The changelog is clear. New users can understand it.",
-   "tts": "Before I leave, I review what I did today. After that, We keep a short checklist for the deprecation notice. When I get stuck, I ask Maria about the release summary. Before the meeting, I review the package manager one more time. After a short break, I compare my notes about the dependency version with Priya's. At that moment, Maria says, \"It depends on the situation.\" I answer, then try the line myself. At that moment, Maria says, \"Let's choose this one.\" I answer, then try the line myself. The changelog is clear. New users can understand it.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。在那之后，我们为弃用通知准备了一张简短的检查单。卡住的时候，我就向 Maria 请教发布摘要。开会前，我又复习了一遍包管理器。稍作休息后，我把关于依赖版本的笔记和 Priya 的对照了一下。这时，Maria说：\"这取决于具体情况。\"我回答，然后自己把这句练了一遍。这时，Maria说：\"我们选这个吧。\"我回答，然后自己把这句练了一遍。变更日志很清楚。新用户能看懂。",
-   "hard": [
     {
      "w": "package manager",
      "type": "term",
@@ -126,14 +66,54 @@
      "def": "依赖版本，项目指定使用的依赖发布编号"
     },
     {
-     "w": "It depends on the situation.",
+     "w": "I prefer the first option.",
      "type": "term",
-     "def": "这取决于具体情况。"
+     "def": "我更喜欢第一个方案。"
     },
     {
-     "w": "Let's choose this one.",
+     "w": "I'd rather wait.",
      "type": "term",
-     "def": "我们选这个吧。"
+     "def": "我宁愿等一等。"
+    },
+    {
+     "w": "This works better for me.",
+     "type": "term",
+     "def": "这个对我更合适。"
+    },
+    {
+     "w": "The main reason is ...",
+     "type": "term",
+     "def": "主要原因是……"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Changelog day. \"A changelog records every change,\" Leo says. \"A breaking change forces users to update. A new feature adds capability. A bug fix entry documents fixes. A deprecation notice warns about removal. A release summary wraps it all up.\" I read our latest changelog. \"It depends on the situation,\" I say about a disputed entry. \"Let's choose this one.\" We agree on the wording.",
+   "tts": "Changelog day. \"A changelog records every change,\" Leo says. \"A breaking change forces users to update. A new feature adds capability. A bug fix entry documents fixes. A deprecation notice warns about removal. A release summary wraps it all up.\" I read our latest changelog. \"It depends on the situation,\" I say about a disputed entry. \"Let's choose this one.\" We agree on the wording.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "变更日志日。\"变更日志记录每次变化，\"Leo 说。\"破坏性变更迫使用户更新。新功能增加能力。缺陷修复条目记录修复。弃用通知警告移除。发布摘要收尾。\"我读了最新的变更日志。\"这取决于情况，\"我对一个有争议的条目说。\"我们选这个吧。\"我们对措辞达成一致。",
+   "hard": [
+    {
+     "w": "changelog",
+     "type": "term",
+     "def": "变更日志，按版本记录项目变化的文件"
+    },
+    {
+     "w": "breaking change",
+     "type": "term",
+     "def": "破坏性变更，会让旧用法不再兼容的变化"
+    },
+    {
+     "w": "new feature",
+     "type": "term",
+     "def": "新功能，新版本增加的能力"
+    },
+    {
+     "w": "bug fix entry",
+     "type": "term",
+     "def": "缺陷修复条目，记录某项错误修复的说明"
     },
     {
      "w": "deprecation notice",
@@ -144,6 +124,36 @@
      "w": "release summary",
      "type": "term",
      "def": "发布摘要，用简短文字概括版本变化"
+    },
+    {
+     "w": "It depends on the situation.",
+     "type": "term",
+     "def": "这取决于具体情况。"
+    },
+    {
+     "w": "Let's choose this one.",
+     "type": "term",
+     "def": "我们选这个吧。"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Dependencies are like relationships — some are healthy, some are toxic. I write: 'Day 20 — choose dependencies carefully. A package manager is your shopping list. Breaking changes are promises you shouldn't make lightly.' It depends on the situation has become my default response to complex questions. But sometimes you just need to choose this one and move forward. Three weeks complete. Seventy words of vocabulary. Countless cups of coffee. One functioning app.",
+   "tts": "Dependencies are like relationships — some are healthy, some are toxic. I write: 'Day 20 — choose dependencies carefully. A package manager is your shopping list. Breaking changes are promises you shouldn't make lightly.' It depends on the situation has become my default response to complex questions. But sometimes you just need to choose this one and move forward. Three weeks complete. Seventy words of vocabulary. Countless cups of coffee. One functioning app.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "依赖就像关系——有些健康，有些有毒。我写：'第二十天——谨慎选择依赖。包管理器是你的购物清单。破坏性变更是不应该轻易许下的承诺。'取决于情况已经成了我对复杂问题的默认回应。但有时你只需要选这个然后向前走。三周完成。七十个词汇。无数杯咖啡。一个能运行的应用。",
+   "hard": [
+    {
+     "w": "package manager",
+     "type": "term",
+     "def": "包管理器，安装和管理软件包的工具"
+    },
+    {
+     "w": "breaking change",
+     "type": "term",
+     "def": "破坏性变更，会让旧用法不再兼容的变化"
     }
    ]
   }

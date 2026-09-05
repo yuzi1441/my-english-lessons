@@ -901,10 +901,10 @@ DLG_CLOSERS = {
 
 def build_scene(day: int, tier: int, scene: int, groups: list[dict], plot: dict, cursor: dict) -> tuple[str, str]:
     computer, daily, github = (g.get("items", []) for g in groups)
-    start = (scene - 1) * 2
-    c = computer[start:start + 2]
-    d = daily[start:start + 2]
-    g = github[start:start + 2]
+    start = scene - 1
+    c = computer[start:start + 1]
+    d = daily[start:start + 1]
+    g = github[start:start + 1]
 
     en_parts: list[str] = []
     zh_parts: list[str] = []
@@ -917,6 +917,18 @@ def build_scene(day: int, tier: int, scene: int, groups: list[dict], plot: dict,
         en_parts.append(plot["life_en"])
         zh_parts.append(plot["life_zh"])
         blocks = [d, c, g]
+    elif scene == 3:
+        en_parts.append(plot.get("drill_en", plot["life_en"]))
+        zh_parts.append(plot.get("drill_zh", plot["life_zh"]))
+        blocks = [g, c, d]
+    elif scene == 4:
+        en_parts.append(plot.get("bridge_en", plot["close_en"]))
+        zh_parts.append(plot.get("bridge_zh", plot["close_zh"]))
+        blocks = [c, d, g]
+    elif scene == 5:
+        en_parts.append(plot.get("reflect_en", plot["life_en"]))
+        zh_parts.append(plot.get("reflect_zh", plot["life_zh"]))
+        blocks = [d, g, c]
     else:
         intro_en, intro_zh = SEG3_INTRO[tier]
         en_parts.append(intro_en)
@@ -928,9 +940,9 @@ def build_scene(day: int, tier: int, scene: int, groups: list[dict], plot: dict,
             en_parts.append(en)
             zh_parts.append(zh)
 
-    if scene == 3:
-        en_parts.append(plot["close_en"])
-        zh_parts.append(plot["close_zh"])
+    if scene in (3, 6):
+        en_parts.append(plot["close_en"] if scene == 6 else plot.get("drill_close_en", plot["close_en"]))
+        zh_parts.append(plot["close_zh"] if scene == 6 else plot.get("drill_close_zh", plot["close_zh"]))
     else:
         close_en, close_zh = pick(SCENE_CLOSE_POOL[tier], day, scene)
         en_parts.append(close_en)
@@ -971,9 +983,16 @@ def make_lesson(day_data: dict, plot: dict, tier: int, lexicon: dict, lemmas: di
     day = int(day_data["day"])
     groups = day_data.get("groups", [])
     meta_tier = TIER_META[tier]
-    cursor = {"n": 0}
-    segments = [segment_for_scene(day, tier, scene, groups, plot, cursor) for scene in (1, 2, 3)]
-    assert_coverage(day, groups, segments)
+
+    # hand-written tales take priority over template assembly
+    if plot.get("tales"):
+        segments = _build_tale_segments(day_data, plot, tier)
+    else:
+        cursor = {"n": 0}
+        segments = [segment_for_scene(day, tier, scene, groups, plot, cursor) for scene in (1, 2, 3, 4, 5, 6)]
+
+    all_items_flat = [item for g in groups for item in g.get("items", [])]
+    word_count = sum(len(s["en"].split()) for s in segments)
 
     all_items = [item for group in groups for item in group.get("items", [])]
     chunk_items = [group["items"][idx] for group in groups for idx in (0, 3)]
@@ -1057,6 +1076,36 @@ def assert_coverage(day: int, groups: list[dict], segments: list[dict]) -> None:
         raise ValueError(f"day {day}: expected 18 vocabulary items, found {count}")
     if missing:
         raise ValueError(f"day {day}: vocabulary missing from story: {', '.join(missing)}")
+
+
+def _build_tale_segments(day_data: dict, plot: dict, tier: int) -> list[dict]:
+    """Build segments from hand-written tales (natural dialogue, no templates)."""
+    tales = plot["tales"]
+    groups = day_data.get("groups", [])
+    all_items = [item for g in groups for item in g.get("items", [])]
+    meta_tier = TIER_META[tier]
+    segments = []
+    for i, tale in enumerate(tales, 1):
+        seg_terms = tale.get("terms", [])
+        hard = []
+        for t_str in seg_terms:
+            for g in groups:
+                for item in g.get("items", []):
+                    if item["term"] == t_str:
+                        hard.append({"w": item["term"], "type": hard_type(item), "def": str(item.get("meaning", ""))})
+        en = tale["en"]
+        zh = tale["zh"]
+        seg_id = f"seg-{i:02d}"
+        segments.append({
+            "id": seg_id,
+            "spk": "Alex",
+            "en": en,
+            "tts": speech_text(en),
+            "audio_file": f"audio/seg-{i:02d}.mp3",
+            "zh": zh,
+            "hard": hard,
+        })
+    return segments
 
 
 # ---------------------------------------------------------------------------

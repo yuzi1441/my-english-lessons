@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 312,
-   "segment_count": 3,
+   "word_count": 359,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Game day: we break staging on purpose. My notes about the cardinality look clearer this week. I spend ten quiet minutes on the high cardinality trap after the standup. I add the sprint length to my study notes before I forget it. Sam asks me about the focus friday, and I explain the basics. In the warm-up round, Priya says, \"I joined the 6 a.m. club.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"The streets belong to runners.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Game day: we break staging on purpose. My notes about the cardinality look clearer this week. I spend ten quiet minutes on the high cardinality trap after the standup. I add the sprint length to my study notes before I forget it. Sam asks me about the focus friday, and I explain the basics. In the warm-up round, Priya says, \"I joined the 6 a.m. club.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"The streets belong to runners.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "en": "Game day: we break staging on purpose. My notes about the cardinality look clearer this week. I spend ten quiet minutes on the sprint length after the standup. In the warm-up round, Maria says, \"I joined the 6 a.m. club.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Game day: we break staging on purpose. My notes about the cardinality look clearer this week. I spend ten quiet minutes on the sprint length after the standup. In the warm-up round, Maria says, \"I joined the 6 a.m. club.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "演习日：我们故意搞坏预发布环境。这周我关于基数的笔记清楚多了。站会之后，我安安静静花了十分钟在高基数陷阱上。我趁还没忘，把迭代时长记进了学习笔记。Sam 问起专注周五，我讲了讲基础。热身环节里，Priya说：\"我加入了六点俱乐部。\"然后我们换角色，由我来问。热身环节里，Leo说：\"清晨的街道属于跑者。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
+   "zh": "演习日：我们故意搞坏预发布环境。这周我关于基数的笔记清楚多了。站会之后，我安安静静花了十分钟在迭代时长上。热身环节里，Maria说：\"我加入了六点俱乐部。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "cardinality",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Killing a replica triggers a failover we have only read about. In the warm-up round, Priya says, \"Sunrise is a free show.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"My pace is embarrassing and fine.\" Then we swap roles and I ask it back. I ask one good question about the sampling rate in the meeting. I keep one real example of the log sampling in my notebook. I go over the meeting-free block one more time before lunch. There is a short paragraph about the weekly demo in the guide. The task moves forward, and so does my confidence.",
-   "tts": "Killing a replica triggers a failover we have only read about. In the warm-up round, Priya says, \"Sunrise is a free show.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"My pace is embarrassing and fine.\" Then we swap roles and I ask it back. I ask one good question about the sampling rate in the meeting. I keep one real example of the log sampling in my notebook. I go over the meeting-free block one more time before lunch. There is a short paragraph about the weekly demo in the guide. The task moves forward, and so does my confidence.",
+   "en": "Killing a replica triggers a failover we have only read about. In the warm-up round, Leo says, \"The streets belong to runners.\" Then we swap roles and I ask it back. I add the high cardinality trap to my study notes before I forget it. Sam asks me about the focus friday, and I explain the basics. The task moves forward, and so does my confidence.",
+   "tts": "Killing a replica triggers a failover we have only read about. In the warm-up round, Leo says, \"The streets belong to runners.\" Then we swap roles and I ask it back. I add the high cardinality trap to my study notes before I forget it. Sam asks me about the focus friday, and I explain the basics. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "杀掉一个副本，触发了我们只在文档里见过的故障转移。热身环节里，Priya说：\"日出是免费的演出。\"然后我们换角色，由我来问。热身环节里，Leo说：\"配速丢人但没关系。\"然后我们换角色，由我来问。会上关于采样率，我问了一个好问题。我在笔记本里留了一个日志采样的真实例子。午饭前我又过了一遍无会时段。指南里有一小段关于每周演示的介绍。任务在推进，我的信心也在成长。",
+   "zh": "杀掉一个副本，触发了我们只在文档里见过的故障转移。热身环节里，Leo说：\"清晨的街道属于跑者。\"然后我们换角色，由我来问。我趁还没忘，把高基数陷阱记进了学习笔记。Sam 问起专注周五，我讲了讲基础。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "sampling rate",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the async standup look clearer this week. I spend ten quiet minutes on the energy check after the standup. I add the metric aggregation to my study notes before I forget it. Sam asks me about the cost per query, and I explain the basics. In the warm-up round, Maria says, \"Streaks build identity.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Sleep still wins.\" Then we swap roles and I ask it back. Practiced panic becomes procedure.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the async standup look clearer this week. I spend ten quiet minutes on the energy check after the standup. I add the metric aggregation to my study notes before I forget it. Sam asks me about the cost per query, and I explain the basics. In the warm-up round, Maria says, \"Streaks build identity.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Sleep still wins.\" Then we swap roles and I ask it back. Practiced panic becomes procedure.",
+   "en": "Killing a replica triggers a failover we have only read about. I ask one good question about the meeting-free block in the meeting. I keep one real example of the sampling rate in my notebook. In the warm-up round, Priya says, \"Sunrise is a free show.\" Then we swap roles and I ask it back. Practiced panic becomes procedure.",
+   "tts": "Killing a replica triggers a failover we have only read about. I ask one good question about the meeting-free block in the meeting. I keep one real example of the sampling rate in my notebook. In the warm-up round, Priya says, \"Sunrise is a free show.\" Then we swap roles and I ask it back. Practiced panic becomes procedure.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于异步站会的笔记清楚多了。站会之后，我安安静静花了十分钟在状态打卡上。我趁还没忘，把指标聚合记进了学习笔记。Sam 问起单次查询成本，我讲了讲基础。热身环节里，Maria说：\"连续打卡塑造身份。\"然后我们换角色，由我来问。热身环节里，Priya说：\"睡觉依然是王道。\"然后我们换角色，由我来问。演练过的慌张会变成流程。",
+   "zh": "杀掉一个副本，触发了我们只在文档里见过的故障转移。会上关于无会时段，我问了一个好问题。我在笔记本里留了一个采样率的真实例子。热身环节里，Priya说：\"日出是免费的演出。\"然后我们换角色，由我来问。演练过的慌张会变成流程。",
    "hard": [
     {
      "w": "metric aggregation",
@@ -146,6 +146,33 @@
      "def": "状态打卡，快速同步大家的状态"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Practiced panic becomes procedure. I go over the log sampling one more time before lunch. In the warm-up round, Priya says, \"My pace is embarrassing and fine.\" Then we swap roles and I ask it back. There is a short paragraph about the weekly demo in the guide. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Practiced panic becomes procedure. I go over the log sampling one more time before lunch. In the warm-up round, Priya says, \"My pace is embarrassing and fine.\" Then we swap roles and I ask it back. There is a short paragraph about the weekly demo in the guide. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "演练过的慌张会变成流程。午饭前我又过了一遍日志采样。热身环节里，Priya说：\"配速丢人但没关系。\"然后我们换角色，由我来问。指南里有一小段关于每周演示的介绍。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Killing a replica triggers a failover we have only read about. In the warm-up round, Leo says, \"Streaks build identity.\" Then we swap roles and I ask it back. My notes about the async standup look clearer this week. I spend ten quiet minutes on the metric aggregation after the standup. The task moves forward, and so does my confidence.",
+   "tts": "Killing a replica triggers a failover we have only read about. In the warm-up round, Leo says, \"Streaks build identity.\" Then we swap roles and I ask it back. My notes about the async standup look clearer this week. I spend ten quiet minutes on the metric aggregation after the standup. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "杀掉一个副本，触发了我们只在文档里见过的故障转移。热身环节里，Leo说：\"连续打卡塑造身份。\"然后我们换角色，由我来问。这周我关于异步站会的笔记清楚多了。站会之后，我安安静静花了十分钟在指标聚合上。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the energy check to my study notes before I forget it. Sam asks me about the cost per query, and I explain the basics. In the warm-up round, Priya says, \"Sleep still wins.\" Then we swap roles and I ask it back. Practiced panic becomes procedure.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the energy check to my study notes before I forget it. Sam asks me about the cost per query, and I explain the basics. In the warm-up round, Priya says, \"Sleep still wins.\" Then we swap roles and I ask it back. Practiced panic becomes procedure.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把状态打卡记进了学习笔记。Sam 问起单次查询成本，我讲了讲基础。热身环节里，Priya说：\"睡觉依然是王道。\"然后我们换角色，由我来问。演练过的慌张会变成流程。",
+   "hard": []
   }
  ],
  "chunks": [

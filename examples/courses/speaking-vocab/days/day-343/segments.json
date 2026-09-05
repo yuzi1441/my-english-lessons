@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 403,
-   "segment_count": 3,
+   "word_count": 479,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria asks what I want to leave behind. The final deck includes the sustainable sprint design and what we learned from it. I present the recovery as planning unit with a timeline, the data, and one clear ask. I close the discussion on the oncall load rebalancing with a short summary. I put the release pace sanity check on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"Sunday is officially boring.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The family do not disturb sign.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "Maria asks what I want to leave behind. The final deck includes the sustainable sprint design and what we learned from it. I present the recovery as planning unit with a timeline, the data, and one clear ask. I close the discussion on the oncall load rebalancing with a short summary. I put the release pace sanity check on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"Sunday is officially boring.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The family do not disturb sign.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "Maria asks what I want to leave behind. The final deck includes the sustainable sprint design and what we learned from it. I present the oncall load rebalancing with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Sunday is officially boring.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Maria asks what I want to leave behind. The final deck includes the sustainable sprint design and what we learned from it. I present the oncall load rebalancing with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Sunday is officially boring.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 问我想留下什么。最终的材料里有可持续迭代设计，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报恢复作为计划单元。我用一段简短的总结为值班负载再平衡的讨论收尾。我把发布节奏体检记录在案，让推理过程保持可见。上线彩排中，Priya说：\"周日官方宣布无聊。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"家庭免打扰牌。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "Maria 问我想留下什么。最终的材料里有可持续迭代设计，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报值班负载再平衡。上线彩排中，Maria说：\"周日官方宣布无聊。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "sustainable sprint design",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Not code, I answer — habits, rituals, and people who teach people. In the launch rehearsal, Priya says, \"Naps are scheduled like meetings.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Guilt free rest took practice.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the meeting load by role audit against the requirements, line by line. I propose a measurable target for the vacation coverage rehearsal this quarter. My report covers the meeting audit automation, the risks behind it, and the cost of waiting. We align on the vacation coverage doc template early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "Not code, I answer — habits, rituals, and people who teach people. In the launch rehearsal, Priya says, \"Naps are scheduled like meetings.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Guilt free rest took practice.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the meeting load by role audit against the requirements, line by line. I propose a measurable target for the vacation coverage rehearsal this quarter. My report covers the meeting audit automation, the risks behind it, and the cost of waiting. We align on the vacation coverage doc template early, so execution never has to guess. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "Not code, I answer — habits, rituals, and people who teach people. In the launch rehearsal, Leo says, \"The family do not disturb sign.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the recovery as planning unit with a short summary. I put the release pace sanity check on the record so the reasoning stays visible. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Not code, I answer — habits, rituals, and people who teach people. In the launch rehearsal, Leo says, \"The family do not disturb sign.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the recovery as planning unit with a short summary. I put the release pace sanity check on the record so the reasoning stays visible. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "不是代码，我说——是习惯、仪式，和会教人的人。上线彩排中，Priya说：\"午睡像会议一样排期。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"不带愧疚的休息需要练习。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了按角色审计会议负载。我为休假覆盖演练提出了本季度一个可衡量的目标。我的报告涵盖会议负载自动审计、背后的风险，以及等待的代价。我们尽早就休假覆盖文档模板对齐，让执行无需猜测。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "不是代码，我说——是习惯、仪式，和会教人的人。上线彩排中，Leo说：\"家庭免打扰牌。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为恢复作为计划单元的讨论收尾。我把发布节奏体检记录在案，让推理过程保持可见。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "meeting load by role audit",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the overtime alert threshold and what we learned from it. I present the rest retrospective question with a timeline, the data, and one clear ask. I close the discussion on the energy check in retros with a short summary. I put the overtime debt visibility on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"We protect each other's naps.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Recharge is a shared value.\" To finish, we swap roles and I lead the entire exchange from start to finish. Legacy walks out the door every evening on its own feet.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the overtime alert threshold and what we learned from it. I present the rest retrospective question with a timeline, the data, and one clear ask. I close the discussion on the energy check in retros with a short summary. I put the overtime debt visibility on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"We protect each other's naps.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Recharge is a shared value.\" To finish, we swap roles and I lead the entire exchange from start to finish. Legacy walks out the door every evening on its own feet.",
+   "en": "Not code, I answer — habits, rituals, and people who teach people. We review the meeting audit automation against the requirements, line by line. I propose a measurable target for the meeting load by role audit this quarter. In the launch rehearsal, Priya says, \"Naps are scheduled like meetings.\" To finish, we swap roles and I lead the entire exchange from start to finish. Legacy walks out the door every evening on its own feet.",
+   "tts": "Not code, I answer — habits, rituals, and people who teach people. We review the meeting audit automation against the requirements, line by line. I propose a measurable target for the meeting load by role audit this quarter. In the launch rehearsal, Priya says, \"Naps are scheduled like meetings.\" To finish, we swap roles and I lead the entire exchange from start to finish. Legacy walks out the door every evening on its own feet.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。最终的材料里有加班告警阈值，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报复盘必问休息。我用一段简短的总结为复盘里的能量检查的讨论收尾。我把加班债可视化记录在案，让推理过程保持可见。上线彩排中，Maria说：\"我们互相守护午睡。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"充电是全家共识。\"最后我们互换角色，由我从头到尾主导整段对话。遗产每天晚上自己走路回家。",
+   "zh": "不是代码，我说——是习惯、仪式，和会教人的人。我们逐行对照需求检查了会议负载自动审计。我为按角色审计会议负载提出了本季度一个可衡量的目标。上线彩排中，Priya说：\"午睡像会议一样排期。\"最后我们互换角色，由我从头到尾主导整段对话。遗产每天晚上自己走路回家。",
    "hard": [
     {
      "w": "energy check in retros",
@@ -146,6 +146,33 @@
      "def": "复盘必问休息，睡够了吗也上议程"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Legacy walks out the door every evening on its own feet. My report covers the vacation coverage rehearsal, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Guilt free rest took practice.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the vacation coverage doc template early, so execution never has to guess. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Legacy walks out the door every evening on its own feet. My report covers the vacation coverage rehearsal, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Guilt free rest took practice.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the vacation coverage doc template early, so execution never has to guess. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "遗产每天晚上自己走路回家。我的报告涵盖休假覆盖演练、背后的风险，以及等待的代价。上线彩排中，Priya说：\"不带愧疚的休息需要练习。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就休假覆盖文档模板对齐，让执行无需猜测。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Not code, I answer — habits, rituals, and people who teach people. In the launch rehearsal, Leo says, \"We protect each other's naps.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the overtime alert threshold and what we learned from it. I present the energy check in retros with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Not code, I answer — habits, rituals, and people who teach people. In the launch rehearsal, Leo says, \"We protect each other's naps.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the overtime alert threshold and what we learned from it. I present the energy check in retros with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "不是代码，我说——是习惯、仪式，和会教人的人。上线彩排中，Leo说：\"我们互相守护午睡。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有加班告警阈值，以及我们从中学到的东西。我用时间线、数据和一条明确的诉求来汇报复盘里的能量检查。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the rest retrospective question with a short summary. I put the overtime debt visibility on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"Recharge is a shared value.\" To finish, we swap roles and I lead the entire exchange from start to finish. Legacy walks out the door every evening on its own feet.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the rest retrospective question with a short summary. I put the overtime debt visibility on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"Recharge is a shared value.\" To finish, we swap roles and I lead the entire exchange from start to finish. Legacy walks out the door every evening on its own feet.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为复盘必问休息的讨论收尾。我把加班债可视化记录在案，让推理过程保持可见。上线彩排中，Priya说：\"充电是全家共识。\"最后我们互换角色，由我从头到尾主导整段对话。遗产每天晚上自己走路回家。",
+   "hard": []
   }
  ],
  "chunks": [

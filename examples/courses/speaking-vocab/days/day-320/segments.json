@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 401,
-   "segment_count": 3,
+   "word_count": 466,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A chaos drill floods the least protected zone, as designed. I put the tenant isolation model on the record so the reasoning stays visible. We review the noisy neighbor mitigation against the requirements, line by line. My report covers the tenant onboarding automation, the risks behind it, and the cost of waiting. The final deck includes the noisy tenant detection rules and what we learned from it. In the launch rehearsal, Maria says, \"Labeled shelves end most disputes.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The wifi has guest and family lanes.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "A chaos drill floods the least protected zone, as designed. I put the tenant isolation model on the record so the reasoning stays visible. We review the noisy neighbor mitigation against the requirements, line by line. My report covers the tenant onboarding automation, the risks behind it, and the cost of waiting. The final deck includes the noisy tenant detection rules and what we learned from it. In the launch rehearsal, Maria says, \"Labeled shelves end most disputes.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The wifi has guest and family lanes.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "A chaos drill floods the least protected zone, as designed. I put the tenant isolation model on the record so the reasoning stays visible. We review the tenant onboarding automation against the requirements, line by line. In the launch rehearsal, Leo says, \"Labeled shelves end most disputes.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "A chaos drill floods the least protected zone, as designed. I put the tenant isolation model on the record so the reasoning stays visible. We review the tenant onboarding automation against the requirements, line by line. In the launch rehearsal, Leo says, \"Labeled shelves end most disputes.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "混沌演习淹没了防护最弱的区，一切按剧本。我把租户隔离模型记录在案，让推理过程保持可见。我们逐行对照需求检查了吵闹邻居治理。我的报告涵盖租户开通自动化、背后的风险，以及等待的代价。最终的材料里有吵闹租户检测规则，以及我们从中学到的东西。上线彩排中，Maria说：\"贴标的架子终结大部分纠纷。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"Wi-Fi 分访客和家庭道。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "混沌演习淹没了防护最弱的区，一切按剧本。我把租户隔离模型记录在案，让推理过程保持可见。我们逐行对照需求检查了租户开通自动化。上线彩排中，Leo说：\"贴标的架子终结大部分纠纷。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "tenant isolation model",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The recovery took nineteen minutes and taught us where the water enters. In the launch rehearsal, Maria says, \"Rent split by room, not appetite.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"One fridge, three zones.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the tenant aware caching early, so execution never has to guess. I propose a measurable target for the per tenant encryption keys this quarter. I close the discussion on the isolation regression tests with a short summary. I present the per tenant sla tracking with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "The recovery took nineteen minutes and taught us where the water enters. In the launch rehearsal, Maria says, \"Rent split by room, not appetite.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"One fridge, three zones.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the tenant aware caching early, so execution never has to guess. I propose a measurable target for the per tenant encryption keys this quarter. I close the discussion on the isolation regression tests with a short summary. I present the per tenant sla tracking with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "The recovery took nineteen minutes and taught us where the water enters. In the launch rehearsal, Priya says, \"The wifi has guest and family lanes.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the noisy neighbor mitigation, the risks behind it, and the cost of waiting. The final deck includes the noisy tenant detection rules and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "The recovery took nineteen minutes and taught us where the water enters. In the launch rehearsal, Priya says, \"The wifi has guest and family lanes.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the noisy neighbor mitigation, the risks behind it, and the cost of waiting. The final deck includes the noisy tenant detection rules and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "恢复花了十九分钟，并告诉我们水从哪进。上线彩排中，Maria说：\"房租按房间分不看饭量。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"一台冰箱三个分区。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就租户感知缓存对齐，让执行无需猜测。我为按租户加密密钥提出了本季度一个可衡量的目标。我用一段简短的总结为隔离回归测试的讨论收尾。我用时间线、数据和一条明确的诉求来汇报按租户 SLA 跟踪。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "恢复花了十九分钟，并告诉我们水从哪进。上线彩排中，Priya说：\"Wi-Fi 分访客和家庭道。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖吵闹邻居治理、背后的风险，以及等待的代价。最终的材料里有吵闹租户检测规则，以及我们从中学到的东西。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "tenant aware caching",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the tenant offboarding data policy on the record so the reasoning stays visible. We review the fair share scheduler review against the requirements, line by line. My report covers the tenant data migration, the risks behind it, and the cost of waiting. The final deck includes the tier based resource caps and what we learned from it. In the launch rehearsal, Leo says, \"Noise after eleven is a breach.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Boundaries keep friendships warm.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every drill buys one dry basement.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the tenant offboarding data policy on the record so the reasoning stays visible. We review the fair share scheduler review against the requirements, line by line. My report covers the tenant data migration, the risks behind it, and the cost of waiting. The final deck includes the tier based resource caps and what we learned from it. In the launch rehearsal, Leo says, \"Noise after eleven is a breach.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Boundaries keep friendships warm.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every drill buys one dry basement.",
+   "en": "The recovery took nineteen minutes and taught us where the water enters. We align on the isolation regression tests early, so execution never has to guess. I propose a measurable target for the tenant aware caching this quarter. In the launch rehearsal, Maria says, \"Rent split by room, not appetite.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every drill buys one dry basement.",
+   "tts": "The recovery took nineteen minutes and taught us where the water enters. We align on the isolation regression tests early, so execution never has to guess. I propose a measurable target for the tenant aware caching this quarter. In the launch rehearsal, Maria says, \"Rent split by room, not appetite.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every drill buys one dry basement.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把租户退租数据策略记录在案，让推理过程保持可见。我们逐行对照需求检查了公平共享调度评审。我的报告涵盖租户数据迁移、背后的风险，以及等待的代价。最终的材料里有按套餐资源上限，以及我们从中学到的东西。上线彩排中，Leo说：\"十一点后是违约。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"边界让友谊保温。\"最后我们互换角色，由我从头到尾主导整段对话。每次演习都换一间干燥的地下室。",
+   "zh": "恢复花了十九分钟，并告诉我们水从哪进。我们尽早就隔离回归测试对齐，让执行无需猜测。我为租户感知缓存提出了本季度一个可衡量的目标。上线彩排中，Maria说：\"房租按房间分不看饭量。\"最后我们互换角色，由我从头到尾主导整段对话。每次演习都换一间干燥的地下室。",
    "hard": [
     {
      "w": "tenant data migration",
@@ -146,6 +146,33 @@
      "def": "公平共享调度评审，雨露均沾"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Every drill buys one dry basement. I close the discussion on the per tenant encryption keys with a short summary. In the launch rehearsal, Maria says, \"One fridge, three zones.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the per tenant sla tracking with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Every drill buys one dry basement. I close the discussion on the per tenant encryption keys with a short summary. In the launch rehearsal, Maria says, \"One fridge, three zones.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the per tenant sla tracking with a timeline, the data, and one clear ask. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "每次演习都换一间干燥的地下室。我用一段简短的总结为按租户加密密钥的讨论收尾。上线彩排中，Maria说：\"一台冰箱三个分区。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报按租户 SLA 跟踪。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The recovery took nineteen minutes and taught us where the water enters. In the launch rehearsal, Priya says, \"Noise after eleven is a breach.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the tenant offboarding data policy on the record so the reasoning stays visible. We review the tenant data migration against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "The recovery took nineteen minutes and taught us where the water enters. In the launch rehearsal, Priya says, \"Noise after eleven is a breach.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the tenant offboarding data policy on the record so the reasoning stays visible. We review the tenant data migration against the requirements, line by line. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "恢复花了十九分钟，并告诉我们水从哪进。上线彩排中，Priya说：\"十一点后是违约。\"最后我们互换角色，由我从头到尾主导整段对话。我把租户退租数据策略记录在案，让推理过程保持可见。我们逐行对照需求检查了租户数据迁移。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the fair share scheduler review, the risks behind it, and the cost of waiting. The final deck includes the tier based resource caps and what we learned from it. In the launch rehearsal, Maria says, \"Boundaries keep friendships warm.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every drill buys one dry basement.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the fair share scheduler review, the risks behind it, and the cost of waiting. The final deck includes the tier based resource caps and what we learned from it. In the launch rehearsal, Maria says, \"Boundaries keep friendships warm.\" To finish, we swap roles and I lead the entire exchange from start to finish. Every drill buys one dry basement.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖公平共享调度评审、背后的风险，以及等待的代价。最终的材料里有按套餐资源上限，以及我们从中学到的东西。上线彩排中，Maria说：\"边界让友谊保温。\"最后我们互换角色，由我从头到尾主导整段对话。每次演习都换一间干燥的地下室。",
+   "hard": []
   }
  ],
  "chunks": [

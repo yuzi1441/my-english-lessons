@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 314,
-   "segment_count": 3,
+   "word_count": 371,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The fix is small; the process is not. There is a short paragraph about the graceful degradation in the guide. I keep one real example of the fallback path in my notebook. My notes about the game day plan look clearer this week. Sam asks me about the failure injection, and I explain the basics. In the warm-up round, Priya says, \"I work from the café on Fridays.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Corner seat, please.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
-   "tts": "The fix is small; the process is not. There is a short paragraph about the graceful degradation in the guide. I keep one real example of the fallback path in my notebook. My notes about the game day plan look clearer this week. Sam asks me about the failure injection, and I explain the basics. In the warm-up round, Priya says, \"I work from the café on Fridays.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Corner seat, please.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "en": "The fix is small; the process is not. There is a short paragraph about the graceful degradation in the guide. I keep one real example of the game day plan in my notebook. In the warm-up round, Maria says, \"I work from the café on Fridays.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The fix is small; the process is not. There is a short paragraph about the graceful degradation in the guide. I keep one real example of the game day plan in my notebook. In the warm-up round, Maria says, \"I work from the café on Fridays.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "修复很小，流程却不含糊。指南里有一小段关于优雅降级的介绍。我在笔记本里留了一个兜底路径的真实例子。这周我关于演习计划的笔记清楚多了。Sam 问起故障注入，我讲了讲基础。热身环节里，Priya说：\"我周五在咖啡馆办公。\"然后我们换角色，由我来问。热身环节里，Leo说：\"请给我角落的座位。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
+   "zh": "修复很小，流程却不含糊。指南里有一小段关于优雅降级的介绍。我在笔记本里留了一个演习计划的真实例子。热身环节里，Maria说：\"我周五在咖啡馆办公。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "graceful degradation",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We ship the hotfix through the same review, the same checks, no shortcuts. In the warm-up round, Priya says, \"The wifi password, please.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"One more flat white.\" Then we swap roles and I ask it back. I ask one good question about the bulkhead in the meeting. I go over the timeout budget one more time before lunch. I spend ten quiet minutes on the rollback rehearsal after the standup. I add the comms drill to my study notes before I forget it. The task moves forward, and so does my confidence.",
-   "tts": "We ship the hotfix through the same review, the same checks, no shortcuts. In the warm-up round, Priya says, \"The wifi password, please.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"One more flat white.\" Then we swap roles and I ask it back. I ask one good question about the bulkhead in the meeting. I go over the timeout budget one more time before lunch. I spend ten quiet minutes on the rollback rehearsal after the standup. I add the comms drill to my study notes before I forget it. The task moves forward, and so does my confidence.",
+   "en": "We ship the hotfix through the same review, the same checks, no shortcuts. In the warm-up round, Leo says, \"Corner seat, please.\" Then we swap roles and I ask it back. My notes about the fallback path look clearer this week. Sam asks me about the failure injection, and I explain the basics. The task moves forward, and so does my confidence.",
+   "tts": "We ship the hotfix through the same review, the same checks, no shortcuts. In the warm-up round, Leo says, \"Corner seat, please.\" Then we swap roles and I ask it back. My notes about the fallback path look clearer this week. Sam asks me about the failure injection, and I explain the basics. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "紧急修复走了同样的评审、同样的检查，没有任何捷径。热身环节里，Priya说：\"麻烦问下 Wi-Fi 密码。\"然后我们换角色，由我来问。热身环节里，Leo说：\"再来一杯馥芮白。\"然后我们换角色，由我来问。会上关于舱壁隔离，我问了一个好问题。午饭前我又过了一遍超时预算。站会之后，我安安静静花了十分钟在回滚彩排上。我趁还没忘，把沟通演练记进了学习笔记。任务在推进，我的信心也在成长。",
+   "zh": "紧急修复走了同样的评审、同样的检查，没有任何捷径。热身环节里，Leo说：\"请给我角落的座位。\"然后我们换角色，由我来问。这周我关于兜底路径的笔记清楚多了。Sam 问起故障注入，我讲了讲基础。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "bulkhead",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the incident commander in the guide. I keep one real example of the debrief in my notebook. My notes about the jitter look clearer this week. Sam asks me about the load shedding, and I explain the basics. In the warm-up round, Maria says, \"Background noise helps me focus.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I head home at four.\" Then we swap roles and I ask it back. Speed with discipline, not instead of it.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the incident commander in the guide. I keep one real example of the debrief in my notebook. My notes about the jitter look clearer this week. Sam asks me about the load shedding, and I explain the basics. In the warm-up round, Maria says, \"Background noise helps me focus.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I head home at four.\" Then we swap roles and I ask it back. Speed with discipline, not instead of it.",
+   "en": "We ship the hotfix through the same review, the same checks, no shortcuts. I ask one good question about the rollback rehearsal in the meeting. I go over the bulkhead one more time before lunch. In the warm-up round, Priya says, \"The wifi password, please.\" Then we swap roles and I ask it back. Speed with discipline, not instead of it.",
+   "tts": "We ship the hotfix through the same review, the same checks, no shortcuts. I ask one good question about the rollback rehearsal in the meeting. I go over the bulkhead one more time before lunch. In the warm-up round, Priya says, \"The wifi password, please.\" Then we swap roles and I ask it back. Speed with discipline, not instead of it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于事件指挥的介绍。我在笔记本里留了一个演习讲评的真实例子。这周我关于抖动的笔记清楚多了。Sam 问起负载丢弃，我讲了讲基础。热身环节里，Maria说：\"背景噪音帮我专注。\"然后我们换角色，由我来问。热身环节里，Priya说：\"我四点回家。\"然后我们换角色，由我来问。要的是有纪律的速度，而不是替代纪律。",
+   "zh": "紧急修复走了同样的评审、同样的检查，没有任何捷径。会上关于回滚彩排，我问了一个好问题。午饭前我又过了一遍舱壁隔离。热身环节里，Priya说：\"麻烦问下 Wi-Fi 密码。\"然后我们换角色，由我来问。要的是有纪律的速度，而不是替代纪律。",
    "hard": [
     {
      "w": "jitter",
@@ -146,6 +146,33 @@
      "def": "演习讲评，练完后的当场总结"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Speed with discipline, not instead of it. I spend ten quiet minutes on the timeout budget after the standup. In the warm-up round, Priya says, \"One more flat white.\" Then we swap roles and I ask it back. I add the comms drill to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Speed with discipline, not instead of it. I spend ten quiet minutes on the timeout budget after the standup. In the warm-up round, Priya says, \"One more flat white.\" Then we swap roles and I ask it back. I add the comms drill to my study notes before I forget it. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "要的是有纪律的速度，而不是替代纪律。站会之后，我安安静静花了十分钟在超时预算上。热身环节里，Priya说：\"再来一杯馥芮白。\"然后我们换角色，由我来问。我趁还没忘，把沟通演练记进了学习笔记。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We ship the hotfix through the same review, the same checks, no shortcuts. In the warm-up round, Leo says, \"Background noise helps me focus.\" Then we swap roles and I ask it back. There is a short paragraph about the incident commander in the guide. I keep one real example of the jitter in my notebook. The task moves forward, and so does my confidence.",
+   "tts": "We ship the hotfix through the same review, the same checks, no shortcuts. In the warm-up round, Leo says, \"Background noise helps me focus.\" Then we swap roles and I ask it back. There is a short paragraph about the incident commander in the guide. I keep one real example of the jitter in my notebook. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "紧急修复走了同样的评审、同样的检查，没有任何捷径。热身环节里，Leo说：\"背景噪音帮我专注。\"然后我们换角色，由我来问。指南里有一小段关于事件指挥的介绍。我在笔记本里留了一个抖动的真实例子。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the debrief look clearer this week. Sam asks me about the load shedding, and I explain the basics. In the warm-up round, Priya says, \"I head home at four.\" Then we swap roles and I ask it back. Speed with discipline, not instead of it.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the debrief look clearer this week. Sam asks me about the load shedding, and I explain the basics. In the warm-up round, Priya says, \"I head home at four.\" Then we swap roles and I ask it back. Speed with discipline, not instead of it.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于演习讲评的笔记清楚多了。Sam 问起负载丢弃，我讲了讲基础。热身环节里，Priya说：\"我四点回家。\"然后我们换角色，由我来问。要的是有纪律的速度，而不是替代纪律。",
+   "hard": []
   }
  ],
  "chunks": [

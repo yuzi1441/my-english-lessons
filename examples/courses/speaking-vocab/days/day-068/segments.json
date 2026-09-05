@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 316,
-   "segment_count": 3,
+   "word_count": 372,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Usage numbers climb without a dip in crash logs. There is a short paragraph about the cost dashboard in the guide. Sam asks me about the spot instance, and I explain the basics. I keep one real example of the release cadence in my notebook. I spend ten quiet minutes on the lts version after the standup. In the warm-up round, Maria says, \"I volunteer at the shelter.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"It's two hours a week.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
-   "tts": "Usage numbers climb without a dip in crash logs. There is a short paragraph about the cost dashboard in the guide. Sam asks me about the spot instance, and I explain the basics. I keep one real example of the release cadence in my notebook. I spend ten quiet minutes on the lts version after the standup. In the warm-up round, Maria says, \"I volunteer at the shelter.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"It's two hours a week.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "en": "Usage numbers climb without a dip in crash logs. There is a short paragraph about the cost dashboard in the guide. Sam asks me about the release cadence, and I explain the basics. In the warm-up round, Leo says, \"I volunteer at the shelter.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "Usage numbers climb without a dip in crash logs. There is a short paragraph about the cost dashboard in the guide. Sam asks me about the release cadence, and I explain the basics. In the warm-up round, Leo says, \"I volunteer at the shelter.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "使用数字在攀升，崩溃日志却没有增加。指南里有一小段关于成本面板的介绍。Sam 问起竞价实例，我讲了讲基础。我在笔记本里留了一个发布节奏的真实例子。站会之后，我安安静静花了十分钟在长期支持版上。热身环节里，Maria说：\"我在收容所做志愿者。\"然后我们换角色，由我来问。热身环节里，Priya说：\"一周两个小时。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
+   "zh": "使用数字在攀升，崩溃日志却没有增加。指南里有一小段关于成本面板的介绍。Sam 问起发布节奏，我讲了讲基础。热身环节里，Leo说：\"我在收容所做志愿者。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "cost dashboard",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Priya reads the charts out loud like a weather report. In the warm-up round, Maria says, \"It keeps me grounded.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"They need weekend help.\" Then we swap roles and I ask it back. I add the reserved capacity to my study notes before I forget it. My notes about the rightsize look clearer this week. I go over the deprecation schedule one more time before lunch. I ask one good question about the upgrade guide in the meeting. I end the day with fewer unknowns than I started with.",
-   "tts": "Priya reads the charts out loud like a weather report. In the warm-up round, Maria says, \"It keeps me grounded.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"They need weekend help.\" Then we swap roles and I ask it back. I add the reserved capacity to my study notes before I forget it. My notes about the rightsize look clearer this week. I go over the deprecation schedule one more time before lunch. I ask one good question about the upgrade guide in the meeting. I end the day with fewer unknowns than I started with.",
+   "en": "Priya reads the charts out loud like a weather report. In the warm-up round, Priya says, \"It's two hours a week.\" Then we swap roles and I ask it back. I keep one real example of the spot instance in my notebook. I spend ten quiet minutes on the lts version after the standup. I end the day with fewer unknowns than I started with.",
+   "tts": "Priya reads the charts out loud like a weather report. In the warm-up round, Priya says, \"It's two hours a week.\" Then we swap roles and I ask it back. I keep one real example of the spot instance in my notebook. I spend ten quiet minutes on the lts version after the standup. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Priya 像播天气预报一样把图表大声读出来。热身环节里，Maria说：\"这让我保持踏实。\"然后我们换角色，由我来问。热身环节里，Priya说：\"他们周末缺人手。\"然后我们换角色，由我来问。我趁还没忘，把预留容量记进了学习笔记。这周我关于规格调优的笔记清楚多了。午饭前我又过了一遍弃用时间表。会上关于升级指南，我问了一个好问题。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "Priya 像播天气预报一样把图表大声读出来。热身环节里，Priya说：\"一周两个小时。\"然后我们换角色，由我来问。我在笔记本里留了一个竞价实例的真实例子。站会之后，我安安静静花了十分钟在长期支持版上。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "reserved capacity",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the migration note in the guide. Sam asks me about the sunset date, and I explain the basics. I keep one real example of the cost anomaly in my notebook. I spend ten quiet minutes on the usage forecast after the standup. In the warm-up round, Leo says, \"Small acts matter.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Join me next time.\" Then we swap roles and I ask it back. No news on launch day is wonderful news.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the migration note in the guide. Sam asks me about the sunset date, and I explain the basics. I keep one real example of the cost anomaly in my notebook. I spend ten quiet minutes on the usage forecast after the standup. In the warm-up round, Leo says, \"Small acts matter.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Join me next time.\" Then we swap roles and I ask it back. No news on launch day is wonderful news.",
+   "en": "Priya reads the charts out loud like a weather report. I add the deprecation schedule to my study notes before I forget it. My notes about the reserved capacity look clearer this week. In the warm-up round, Maria says, \"It keeps me grounded.\" Then we swap roles and I ask it back. No news on launch day is wonderful news.",
+   "tts": "Priya reads the charts out loud like a weather report. I add the deprecation schedule to my study notes before I forget it. My notes about the reserved capacity look clearer this week. In the warm-up round, Maria says, \"It keeps me grounded.\" Then we swap roles and I ask it back. No news on launch day is wonderful news.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于迁移说明的介绍。Sam 问起退役日期，我讲了讲基础。我在笔记本里留了一个成本异动的真实例子。站会之后，我安安静静花了十分钟在用量预测上。热身环节里，Leo说：\"小事也有分量。\"然后我们换角色，由我来问。热身环节里，Maria说：\"下次一起来吧。\"然后我们换角色，由我来问。发布日没有消息，就是最好的消息。",
+   "zh": "Priya 像播天气预报一样把图表大声读出来。我趁还没忘，把弃用时间表记进了学习笔记。这周我关于预留容量的笔记清楚多了。热身环节里，Maria说：\"这让我保持踏实。\"然后我们换角色，由我来问。发布日没有消息，就是最好的消息。",
    "hard": [
     {
      "w": "cost anomaly",
@@ -146,6 +146,33 @@
      "def": "退役日期，服务停止的日子"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "No news on launch day is wonderful news. I go over the rightsize one more time before lunch. In the warm-up round, Maria says, \"They need weekend help.\" Then we swap roles and I ask it back. I ask one good question about the upgrade guide in the meeting. The task moves forward, and so does my confidence.",
+   "tts": "No news on launch day is wonderful news. I go over the rightsize one more time before lunch. In the warm-up round, Maria says, \"They need weekend help.\" Then we swap roles and I ask it back. I ask one good question about the upgrade guide in the meeting. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "发布日没有消息，就是最好的消息。午饭前我又过了一遍规格调优。热身环节里，Maria说：\"他们周末缺人手。\"然后我们换角色，由我来问。会上关于升级指南，我问了一个好问题。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Priya reads the charts out loud like a weather report. In the warm-up round, Priya says, \"Small acts matter.\" Then we swap roles and I ask it back. There is a short paragraph about the migration note in the guide. Sam asks me about the cost anomaly, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "tts": "Priya reads the charts out loud like a weather report. In the warm-up round, Priya says, \"Small acts matter.\" Then we swap roles and I ask it back. There is a short paragraph about the migration note in the guide. Sam asks me about the cost anomaly, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "Priya 像播天气预报一样把图表大声读出来。热身环节里，Priya说：\"小事也有分量。\"然后我们换角色，由我来问。指南里有一小段关于迁移说明的介绍。Sam 问起成本异动，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the sunset date in my notebook. I spend ten quiet minutes on the usage forecast after the standup. In the warm-up round, Maria says, \"Join me next time.\" Then we swap roles and I ask it back. No news on launch day is wonderful news.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the sunset date in my notebook. I spend ten quiet minutes on the usage forecast after the standup. In the warm-up round, Maria says, \"Join me next time.\" Then we swap roles and I ask it back. No news on launch day is wonderful news.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个退役日期的真实例子。站会之后，我安安静静花了十分钟在用量预测上。热身环节里，Maria说：\"下次一起来吧。\"然后我们换角色，由我来问。发布日没有消息，就是最好的消息。",
+   "hard": []
   }
  ],
  "chunks": [

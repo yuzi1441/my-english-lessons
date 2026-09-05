@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 333,
-   "segment_count": 3,
+   "word_count": 388,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We list tasks the assistant may do unattended: changelogs, link checks, test scaffolds. The guide now has a short section on the spaced repetition engine. At the review, we spend ten minutes on the skill gap quiz generator. We agree to give the examples repo for juniors one more careful look this week. I connect the katas collection to the ticket so nothing gets lost. In the meeting drill, Maria says, \"The evening class revival.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Completion rate confessions.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "We list tasks the assistant may do unattended: changelogs, link checks, test scaffolds. The guide now has a short section on the spaced repetition engine. At the review, we spend ten minutes on the skill gap quiz generator. We agree to give the examples repo for juniors one more careful look this week. I connect the katas collection to the ticket so nothing gets lost. In the meeting drill, Maria says, \"The evening class revival.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Completion rate confessions.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "We list tasks the assistant may do unattended: changelogs, link checks, test scaffolds. The guide now has a short section on the spaced repetition engine. At the review, we spend ten minutes on the examples repo for juniors. In the meeting drill, Leo says, \"The evening class revival.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We list tasks the assistant may do unattended: changelogs, link checks, test scaffolds. The guide now has a short section on the spaced repetition engine. At the review, we spend ten minutes on the examples repo for juniors. In the meeting drill, Leo says, \"The evening class revival.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们列出学徒可以独立完成的事：变更日志、链接检查、测试脚手架。指南里现在有关于间隔重复引擎的简短章节。评审时，我们花了十分钟在技能缺口测验生成上。我们说好这周再把新人示例仓库仔细看一次。我把编程套路集关联到工单上，免得遗漏。会议演练中，Maria说：\"夜课复兴。\"之后我们换角色再练一遍。会议演练中，Priya说：\"完课率的坦白。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我们列出学徒可以独立完成的事：变更日志、链接检查、测试脚手架。指南里现在有关于间隔重复引擎的简短章节。评审时，我们花了十分钟在新人示例仓库上。会议演练中，Leo说：\"夜课复兴。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "spaced repetition engine",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Everything else keeps a human name attached. In the meeting drill, Maria says, \"Handwritten notes, videos at two times.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Study buddy accountability.\" After that, we swap roles and run it again. In today's standup, I mention the personalized reading queue and what comes next. While the details are fresh, I write down the output driven learning. Priya suggests a cleaner way to think about the owned reading list. I compare my notes about the brown bag calendar with Priya's. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Everything else keeps a human name attached. In the meeting drill, Maria says, \"Handwritten notes, videos at two times.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Study buddy accountability.\" After that, we swap roles and run it again. In today's standup, I mention the personalized reading queue and what comes next. While the details are fresh, I write down the output driven learning. Priya suggests a cleaner way to think about the owned reading list. I compare my notes about the brown bag calendar with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Everything else keeps a human name attached. In the meeting drill, Priya says, \"Completion rate confessions.\" After that, we swap roles and run it again. We agree to give the skill gap quiz generator one more careful look this week. I connect the katas collection to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Everything else keeps a human name attached. In the meeting drill, Priya says, \"Completion rate confessions.\" After that, we swap roles and run it again. We agree to give the skill gap quiz generator one more careful look this week. I connect the katas collection to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "其余所有事情都保留一个人类的名字。会议演练中，Maria说：\"手写笔记\"之后我们换角色再练一遍。会议演练中，Priya说：\"学伴责任制。\"之后我们换角色再练一遍。今天的站会上，我提到个性化阅读队列和接下来的安排。趁细节还新鲜，我把输出倒逼输入写了下来。Priya 提出了一个更清晰的带认领人的书单思考方式。我把关于午餐分享日历的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "其余所有事情都保留一个人类的名字。会议演练中，Priya说：\"完课率的坦白。\"之后我们换角色再练一遍。我们说好这周再把技能缺口测验生成仔细看一次。我把编程套路集关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "personalized reading queue",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the learning budget board. At the review, we spend ten minutes on the mentor hours booking. We agree to give the mentor matching algorithm one more careful look this week. I connect the learning streak analytics to the ticket so nothing gets lost. In the meeting drill, Leo asks, \"Certificates, real or decor?\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Learning in public.\" After that, we swap roles and run it again. Delegation is a map, not a mood.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the learning budget board. At the review, we spend ten minutes on the mentor hours booking. We agree to give the mentor matching algorithm one more careful look this week. I connect the learning streak analytics to the ticket so nothing gets lost. In the meeting drill, Leo asks, \"Certificates, real or decor?\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Learning in public.\" After that, we swap roles and run it again. Delegation is a map, not a mood.",
+   "en": "Everything else keeps a human name attached. In today's standup, I mention the owned reading list and what comes next. While the details are fresh, I write down the personalized reading queue. In the meeting drill, Maria says, \"Handwritten notes, videos at two times.\" After that, we swap roles and run it again. Delegation is a map, not a mood.",
+   "tts": "Everything else keeps a human name attached. In today's standup, I mention the owned reading list and what comes next. While the details are fresh, I write down the personalized reading queue. In the meeting drill, Maria says, \"Handwritten notes, videos at two times.\" After that, we swap roles and run it again. Delegation is a map, not a mood.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于学习预算使用板的简短章节。评审时，我们花了十分钟在导师时间预约上。我们说好这周再把导师匹配算法仔细看一次。我把学习连续性分析关联到工单上，免得遗漏。会议演练中，Leo问：\"证书是真材实料还是装饰？\"之后我们换角色再练一遍。会议演练中，Maria说：\"公开学习。\"之后我们换角色再练一遍。授权是一张地图，不是一阵情绪。",
+   "zh": "其余所有事情都保留一个人类的名字。今天的站会上，我提到带认领人的书单和接下来的安排。趁细节还新鲜，我把个性化阅读队列写了下来。会议演练中，Maria说：\"手写笔记\"之后我们换角色再练一遍。授权是一张地图，不是一阵情绪。",
    "hard": [
     {
      "w": "mentor matching algorithm",
@@ -146,6 +146,33 @@
      "def": "导师时间预约，问问题不用等"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Delegation is a map, not a mood. Priya suggests a cleaner way to think about the output driven learning. In the meeting drill, Maria says, \"Study buddy accountability.\" After that, we swap roles and run it again. I compare my notes about the brown bag calendar with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Delegation is a map, not a mood. Priya suggests a cleaner way to think about the output driven learning. In the meeting drill, Maria says, \"Study buddy accountability.\" After that, we swap roles and run it again. I compare my notes about the brown bag calendar with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "授权是一张地图，不是一阵情绪。Priya 提出了一个更清晰的输出倒逼输入思考方式。会议演练中，Maria说：\"学伴责任制。\"之后我们换角色再练一遍。我把关于午餐分享日历的笔记和 Priya 的对照了一下。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Everything else keeps a human name attached. In the meeting drill, Priya asks, \"Certificates, real or decor?\" After that, we swap roles and run it again. The guide now has a short section on the learning budget board. At the review, we spend ten minutes on the mentor matching algorithm. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Everything else keeps a human name attached. In the meeting drill, Priya asks, \"Certificates, real or decor?\" After that, we swap roles and run it again. The guide now has a short section on the learning budget board. At the review, we spend ten minutes on the mentor matching algorithm. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "其余所有事情都保留一个人类的名字。会议演练中，Priya问：\"证书是真材实料还是装饰？\"之后我们换角色再练一遍。指南里现在有关于学习预算使用板的简短章节。评审时，我们花了十分钟在导师匹配算法上。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the mentor hours booking one more careful look this week. I connect the learning streak analytics to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Learning in public.\" After that, we swap roles and run it again. Delegation is a map, not a mood.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the mentor hours booking one more careful look this week. I connect the learning streak analytics to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Learning in public.\" After that, we swap roles and run it again. Delegation is a map, not a mood.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把导师时间预约仔细看一次。我把学习连续性分析关联到工单上，免得遗漏。会议演练中，Maria说：\"公开学习。\"之后我们换角色再练一遍。授权是一张地图，不是一阵情绪。",
+   "hard": []
   }
  ],
  "chunks": [

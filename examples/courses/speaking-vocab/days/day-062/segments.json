@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 322,
-   "segment_count": 3,
+   "word_count": 388,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The team triages the backlog and decides what goes in. I ask one good question about the gauge in the meeting. I go over the counter one more time before lunch. I spend ten quiet minutes on the release workflow after the standup. Sam asks me about the changelog generator, and I explain the basics. In the warm-up round, Maria says, \"I'd like to take Friday off.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I have some days to use up.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
-   "tts": "The team triages the backlog and decides what goes in. I ask one good question about the gauge in the meeting. I go over the counter one more time before lunch. I spend ten quiet minutes on the release workflow after the standup. Sam asks me about the changelog generator, and I explain the basics. In the warm-up round, Maria says, \"I'd like to take Friday off.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I have some days to use up.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "en": "The team triages the backlog and decides what goes in. I ask one good question about the gauge in the meeting. I go over the release workflow one more time before lunch. In the warm-up round, Leo says, \"I'd like to take Friday off.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "The team triages the backlog and decides what goes in. I ask one good question about the gauge in the meeting. I go over the release workflow one more time before lunch. In the warm-up round, Leo says, \"I'd like to take Friday off.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "团队梳理需求清单，决定哪些内容上车。会上关于仪表量，我问了一个好问题。午饭前我又过了一遍计数器。站会之后，我安安静静花了十分钟在发布工作流上。Sam 问起变更日志生成器，我讲了讲基础。热身环节里，Maria说：\"我想周五请个假。\"然后我们换角色，由我来问。热身环节里，Priya说：\"我有一些假期要休掉。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
+   "zh": "团队梳理需求清单，决定哪些内容上车。会上关于仪表量，我问了一个好问题。午饭前我又过了一遍发布工作流。热身环节里，Leo说：\"我想周五请个假。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "gauge",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Priya defends a small fix; Leo gives up a nice-to-have without drama. In the warm-up round, Maria asks, \"Who covers for me?\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I'll hand over my tasks.\" Then we swap roles and I ask it back. There is a short paragraph about the histogram in the guide. I add the percentile to my study notes before I forget it. My notes about the version bump PR look clearer this week. I keep one real example of the build from tag in my notebook. I end the day with fewer unknowns than I started with.",
-   "tts": "Priya defends a small fix; Leo gives up a nice-to-have without drama. In the warm-up round, Maria asks, \"Who covers for me?\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I'll hand over my tasks.\" Then we swap roles and I ask it back. There is a short paragraph about the histogram in the guide. I add the percentile to my study notes before I forget it. My notes about the version bump P R look clearer this week. I keep one real example of the build from tag in my notebook. I end the day with fewer unknowns than I started with.",
+   "en": "Priya defends a small fix; Leo gives up a nice-to-have without drama. In the warm-up round, Priya says, \"I have some days to use up.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the counter after the standup. Sam asks me about the changelog generator, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "tts": "Priya defends a small fix; Leo gives up a nice-to-have without drama. In the warm-up round, Priya says, \"I have some days to use up.\" Then we swap roles and I ask it back. I spend ten quiet minutes on the counter after the standup. Sam asks me about the changelog generator, and I explain the basics. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Priya 为一个小修复据理力争；Leo 毫不纠结地放弃了锦上添花的功能。热身环节里，Maria问：\"谁来替我？\"然后我们换角色，由我来问。热身环节里，Priya说：\"我会交接好任务。\"然后我们换角色，由我来问。指南里有一小段关于直方图的介绍。我趁还没忘，把百分位数记进了学习笔记。这周我关于版本升级 PR的笔记清楚多了。我在笔记本里留了一个按标签构建的真实例子。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "Priya 为一个小修复据理力争；Leo 毫不纠结地放弃了锦上添花的功能。热身环节里，Priya说：\"我有一些假期要休掉。\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在计数器上。Sam 问起变更日志生成器，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "histogram",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the signed artifact in the meeting. I go over the provenance one more time before lunch. I spend ten quiet minutes on the alert rule after the standup. Sam asks me about the noise floor, and I explain the basics. In the warm-up round, Leo says, \"Rest well!\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Being away feels strange.\" Then we swap roles and I ask it back. Saying no out loud is a skill I want to copy.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the signed artifact in the meeting. I go over the provenance one more time before lunch. I spend ten quiet minutes on the alert rule after the standup. Sam asks me about the noise floor, and I explain the basics. In the warm-up round, Leo says, \"Rest well!\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Being away feels strange.\" Then we swap roles and I ask it back. Saying no out loud is a skill I want to copy.",
+   "en": "Priya defends a small fix; Leo gives up a nice-to-have without drama. There is a short paragraph about the version bump PR in the guide. I add the histogram to my study notes before I forget it. In the warm-up round, Maria asks, \"Who covers for me?\" Then we swap roles and I ask it back. Saying no out loud is a skill I want to copy.",
+   "tts": "Priya defends a small fix; Leo gives up a nice-to-have without drama. There is a short paragraph about the version bump P R in the guide. I add the histogram to my study notes before I forget it. In the warm-up round, Maria asks, \"Who covers for me?\" Then we swap roles and I ask it back. Saying no out loud is a skill I want to copy.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于签名产物，我问了一个好问题。午饭前我又过了一遍来源证明。站会之后，我安安静静花了十分钟在告警规则上。Sam 问起本底噪声，我讲了讲基础。热身环节里，Leo说：\"好好休息！\"然后我们换角色，由我来问。热身环节里，Maria说：\"离开几天还真有点不习惯。\"然后我们换角色，由我来问。把拒绝说出口，是我想学会的技能。",
+   "zh": "Priya 为一个小修复据理力争；Leo 毫不纠结地放弃了锦上添花的功能。指南里有一小段关于版本升级 PR的介绍。我趁还没忘，把直方图记进了学习笔记。热身环节里，Maria问：\"谁来替我？\"然后我们换角色，由我来问。把拒绝说出口，是我想学会的技能。",
    "hard": [
     {
      "w": "alert rule",
@@ -146,6 +146,33 @@
      "def": "来源证明，说明产物如何生成的记录"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Saying no out loud is a skill I want to copy. My notes about the percentile look clearer this week. In the warm-up round, Maria says, \"I'll hand over my tasks.\" Then we swap roles and I ask it back. I keep one real example of the build from tag in my notebook. The task moves forward, and so does my confidence.",
+   "tts": "Saying no out loud is a skill I want to copy. My notes about the percentile look clearer this week. In the warm-up round, Maria says, \"I'll hand over my tasks.\" Then we swap roles and I ask it back. I keep one real example of the build from tag in my notebook. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "把拒绝说出口，是我想学会的技能。这周我关于百分位数的笔记清楚多了。热身环节里，Maria说：\"我会交接好任务。\"然后我们换角色，由我来问。我在笔记本里留了一个按标签构建的真实例子。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Priya defends a small fix; Leo gives up a nice-to-have without drama. In the warm-up round, Priya says, \"Rest well!\" Then we swap roles and I ask it back. I ask one good question about the signed artifact in the meeting. I go over the alert rule one more time before lunch. I end the day with fewer unknowns than I started with.",
+   "tts": "Priya defends a small fix; Leo gives up a nice-to-have without drama. In the warm-up round, Priya says, \"Rest well!\" Then we swap roles and I ask it back. I ask one good question about the signed artifact in the meeting. I go over the alert rule one more time before lunch. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "Priya 为一个小修复据理力争；Leo 毫不纠结地放弃了锦上添花的功能。热身环节里，Priya说：\"好好休息！\"然后我们换角色，由我来问。会上关于签名产物，我问了一个好问题。午饭前我又过了一遍告警规则。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the provenance after the standup. Sam asks me about the noise floor, and I explain the basics. In the warm-up round, Maria says, \"Being away feels strange.\" Then we swap roles and I ask it back. Saying no out loud is a skill I want to copy.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the provenance after the standup. Sam asks me about the noise floor, and I explain the basics. In the warm-up round, Maria says, \"Being away feels strange.\" Then we swap roles and I ask it back. Saying no out loud is a skill I want to copy.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在来源证明上。Sam 问起本底噪声，我讲了讲基础。热身环节里，Maria说：\"离开几天还真有点不习惯。\"然后我们换角色，由我来问。把拒绝说出口，是我想学会的技能。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 376,
-   "segment_count": 3,
+   "word_count": 436,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Every requested feature gets an icebox label, not a promise. I add the helpdesk ticket triage rules to the meeting agenda with three supporting facts. I prepare a one-page brief about the canned reply personalization so meetings start from facts. Our mentor walks me through how the ticket to issue sync evolved on this team. We spend the first ten minutes of the review on the top asks automation review. In the review drill, Leo says, \"The property hotline knows me now.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Repeats get escalations politely.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
-   "tts": "Every requested feature gets an icebox label, not a promise. I add the helpdesk ticket triage rules to the meeting agenda with three supporting facts. I prepare a one-page brief about the canned reply personalization so meetings start from facts. Our mentor walks me through how the ticket to issue sync evolved on this team. We spend the first ten minutes of the review on the top asks automation review. In the review drill, Leo says, \"The property hotline knows me now.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Repeats get escalations politely.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "en": "Every requested feature gets an icebox label, not a promise. I add the helpdesk ticket triage rules to the meeting agenda with three supporting facts. I prepare a one-page brief about the ticket to issue sync so meetings start from facts. In the review drill, Priya says, \"The property hotline knows me now.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "Every requested feature gets an icebox label, not a promise. I add the helpdesk ticket triage rules to the meeting agenda with three supporting facts. I prepare a one-page brief about the ticket to issue sync so meetings start from facts. In the review drill, Priya says, \"The property hotline knows me now.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "每个功能请求都贴上冰柜标签，而不是承诺。我把工单分诊规则连同三条支撑事实加进了议程。我准备了一页关于模板回复个性化的简报，好让会议从事实出发。导师带我梳理了工单转问题单同步在这个团队里的演变。评审的前十分钟，我们都用在了高频请求自动化评审上。评审演练中，Leo说：\"物业热线认识我了。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"重复问题礼貌升级。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "每个功能请求都贴上冰柜标签，而不是承诺。我把工单分诊规则连同三条支撑事实加进了议程。我准备了一页关于工单转问题单同步的简报，好让会议从事实出发。评审演练中，Priya说：\"物业热线认识我了。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "helpdesk ticket triage rules",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Users vote, the top three thaw each quarter. In the review drill, Leo says, \"The good agents get praise mails.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Bad news with a timeline hurts less.\" We swap roles so I ask the questions this time. The team names one clear owner for the refund decision tree. Before deciding, I reread my notes about the vip customer handling twice. During the design review, I raise one careful question about the response time dashboard. I compare two views on the customer health scoring and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Users vote, the top three thaw each quarter. In the review drill, Leo says, \"The good agents get praise mails.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Bad news with a timeline hurts less.\" We swap roles so I ask the questions this time. The team names one clear owner for the refund decision tree. Before deciding, I reread my notes about the vip customer handling twice. During the design review, I raise one careful question about the response time dashboard. I compare two views on the customer health scoring and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Users vote, the top three thaw each quarter. In the review drill, Maria says, \"Repeats get escalations politely.\" We swap roles so I ask the questions this time. Our mentor walks me through how the canned reply personalization evolved on this team. We spend the first ten minutes of the review on the top asks automation review. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Users vote, the top three thaw each quarter. In the review drill, Maria says, \"Repeats get escalations politely.\" We swap roles so I ask the questions this time. Our mentor walks me through how the canned reply personalization evolved on this team. We spend the first ten minutes of the review on the top asks automation review. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "用户投票，每季度解冻前三名。评审演练中，Leo说：\"好客服收到表扬邮件。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"带时间线的坏消息不那么疼。\"我们互换角色，这次由我来提问。团队为退款决策树指定了明确的负责人。做决定之前，我把关于重点客户应对的笔记重读了两遍。设计评审中，我就响应时长看板提出了一个审慎的问题。我比较了关于客户健康评分的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "用户投票，每季度解冻前三名。评审演练中，Maria说：\"重复问题礼貌升级。\"我们互换角色，这次由我来提问。导师带我梳理了模板回复个性化在这个团队里的演变。评审的前十分钟，我们都用在了高频请求自动化评审上。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "refund decision tree",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the refund pattern analysis to the meeting agenda with three supporting facts. I prepare a one-page brief about the support dr root cause feed so meetings start from facts. Our mentor walks me through how the sentiment escalation trigger evolved on this team. We spend the first ten minutes of the review on the support knowledge base sync. In the review drill, Priya says, \"They closed the loop twice.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Service is theater and sincerity.\" We swap roles so I ask the questions this time. Frozen ideas stay fresh without freezing me.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the refund pattern analysis to the meeting agenda with three supporting facts. I prepare a one-page brief about the support dr root cause feed so meetings start from facts. Our mentor walks me through how the sentiment escalation trigger evolved on this team. We spend the first ten minutes of the review on the support knowledge base sync. In the review drill, Priya says, \"They closed the loop twice.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Service is theater and sincerity.\" We swap roles so I ask the questions this time. Frozen ideas stay fresh without freezing me.",
+   "en": "Users vote, the top three thaw each quarter. The team names one clear owner for the response time dashboard. Before deciding, I reread my notes about the refund decision tree twice. In the review drill, Leo says, \"The good agents get praise mails.\" We swap roles so I ask the questions this time. Frozen ideas stay fresh without freezing me.",
+   "tts": "Users vote, the top three thaw each quarter. The team names one clear owner for the response time dashboard. Before deciding, I reread my notes about the refund decision tree twice. In the review drill, Leo says, \"The good agents get praise mails.\" We swap roles so I ask the questions this time. Frozen ideas stay fresh without freezing me.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把退款模式分析连同三条支撑事实加进了议程。我准备了一页关于支持问题根因回流的简报，好让会议从事实出发。导师带我梳理了情绪升级触发器在这个团队里的演变。评审的前十分钟，我们都用在了支持知识库同步上。评审演练中，Priya说：\"他们两次闭环回复。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"服务既是表演也是真心。\"我们互换角色，这次由我来提问。冰冻的点子保持新鲜，也不冻住我。",
+   "zh": "用户投票，每季度解冻前三名。团队为响应时长看板指定了明确的负责人。做决定之前，我把关于退款决策树的笔记重读了两遍。评审演练中，Leo说：\"好客服收到表扬邮件。\"我们互换角色，这次由我来提问。冰冻的点子保持新鲜，也不冻住我。",
    "hard": [
     {
      "w": "sentiment escalation trigger",
@@ -146,6 +146,33 @@
      "def": "支持问题根因回流，修一个少十张单"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Frozen ideas stay fresh without freezing me. During the design review, I raise one careful question about the vip customer handling. In the review drill, Leo says, \"Bad news with a timeline hurts less.\" We swap roles so I ask the questions this time. I compare two views on the customer health scoring and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "tts": "Frozen ideas stay fresh without freezing me. During the design review, I raise one careful question about the vip customer handling. In the review drill, Leo says, \"Bad news with a timeline hurts less.\" We swap roles so I ask the questions this time. I compare two views on the customer health scoring and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "冰冻的点子保持新鲜，也不冻住我。设计评审中，我就重点客户应对提出了一个审慎的问题。评审演练中，Leo说：\"带时间线的坏消息不那么疼。\"我们互换角色，这次由我来提问。我比较了关于客户健康评分的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Users vote, the top three thaw each quarter. In the review drill, Maria says, \"They closed the loop twice.\" We swap roles so I ask the questions this time. I add the refund pattern analysis to the meeting agenda with three supporting facts. I prepare a one-page brief about the sentiment escalation trigger so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Users vote, the top three thaw each quarter. In the review drill, Maria says, \"They closed the loop twice.\" We swap roles so I ask the questions this time. I add the refund pattern analysis to the meeting agenda with three supporting facts. I prepare a one-page brief about the sentiment escalation trigger so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "用户投票，每季度解冻前三名。评审演练中，Maria说：\"他们两次闭环回复。\"我们互换角色，这次由我来提问。我把退款模式分析连同三条支撑事实加进了议程。我准备了一页关于情绪升级触发器的简报，好让会议从事实出发。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the support dr root cause feed evolved on this team. We spend the first ten minutes of the review on the support knowledge base sync. In the review drill, Leo says, \"Service is theater and sincerity.\" We swap roles so I ask the questions this time. Frozen ideas stay fresh without freezing me.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the support dr root cause feed evolved on this team. We spend the first ten minutes of the review on the support knowledge base sync. In the review drill, Leo says, \"Service is theater and sincerity.\" We swap roles so I ask the questions this time. Frozen ideas stay fresh without freezing me.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了支持问题根因回流在这个团队里的演变。评审的前十分钟，我们都用在了支持知识库同步上。评审演练中，Leo说：\"服务既是表演也是真心。\"我们互换角色，这次由我来提问。冰冻的点子保持新鲜，也不冻住我。",
+   "hard": []
   }
  ],
  "chunks": [

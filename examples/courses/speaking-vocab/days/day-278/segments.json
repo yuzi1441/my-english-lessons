@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 373,
-   "segment_count": 3,
+   "word_count": 434,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Pricing night: free, small, and a scary professional tier. The team names one clear owner for the uptime promise for users. We spend the first ten minutes of the review on the page speed for conversion. Before deciding, I reread my notes about the solo oncall playbook twice. During the design review, I raise one careful question about the health check for money paths. In the review drill, Maria says, \"The bakery opens at six sharp.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Sourdough sold out by eight.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Pricing night: free, small, and a scary professional tier. The team names one clear owner for the uptime promise for users. We spend the first ten minutes of the review on the page speed for conversion. Before deciding, I reread my notes about the solo oncall playbook twice. During the design review, I raise one careful question about the health check for money paths. In the review drill, Maria says, \"The bakery opens at six sharp.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Sourdough sold out by eight.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Pricing night: free, small, and a scary professional tier. The team names one clear owner for the uptime promise for users. We spend the first ten minutes of the review on the solo oncall playbook. In the review drill, Leo says, \"The bakery opens at six sharp.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Pricing night: free, small, and a scary professional tier. The team names one clear owner for the uptime promise for users. We spend the first ten minutes of the review on the solo oncall playbook. In the review drill, Leo says, \"The bakery opens at six sharp.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "定价之夜：免费档、小档，和一个吓人的专业档。团队为面向用户的在线承诺指定了明确的负责人。评审的前十分钟，我们都用在了页面速度与转化上。做决定之前，我把关于单人值班手册的笔记重读了两遍。设计评审中，我就收款路径健康检查提出了一个审慎的问题。评审演练中，Maria说：\"面包房六点整开门。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"酸面包八点售罄。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "定价之夜：免费档、小档，和一个吓人的专业档。团队为面向用户的在线承诺指定了明确的负责人。评审的前十分钟，我们都用在了单人值班手册上。评审演练中，Leo说：\"面包房六点整开门。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "uptime promise for users",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The middle tier exists to make the third look brave. In the review drill, Maria says, \"A bad batch gets free replace.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The oven never misses a morning.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the error budget for features so meetings start from facts. Our mentor walks me through how the graceful degradation UX evolved on this team. I add the incident note for users to the meeting agenda with three supporting facts. I compare two views on the uptime monitoring service and write both down honestly. We end the week with something shipped and something properly learned this time.",
-   "tts": "The middle tier exists to make the third look brave. In the review drill, Maria says, \"A bad batch gets free replace.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The oven never misses a morning.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the error budget for features so meetings start from facts. Our mentor walks me through how the graceful degradation U X evolved on this team. I add the incident note for users to the meeting agenda with three supporting facts. I compare two views on the uptime monitoring service and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "en": "The middle tier exists to make the third look brave. In the review drill, Priya says, \"Sourdough sold out by eight.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the page speed for conversion twice. During the design review, I raise one careful question about the health check for money paths. We end the week with something shipped and something properly learned this time.",
+   "tts": "The middle tier exists to make the third look brave. In the review drill, Priya says, \"Sourdough sold out by eight.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the page speed for conversion twice. During the design review, I raise one careful question about the health check for money paths. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "中间档的存在，是为了让第三档显得勇敢。评审演练中，Maria说：\"烤坏的一炉免费换。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"烤箱从不错过清晨。\"我们互换角色，这次由我来提问。我准备了一页关于功能级错误预算的简报，好让会议从事实出发。导师带我梳理了优雅降级体验在这个团队里的演变。我把面向用户的事件说明连同三条支撑事实加进了议程。我比较了关于在线率监控服务的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "中间档的存在，是为了让第三档显得勇敢。评审演练中，Priya说：\"酸面包八点售罄。\"我们互换角色，这次由我来提问。做决定之前，我把关于页面速度与转化的笔记重读了两遍。设计评审中，我就收款路径健康检查提出了一个审慎的问题。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "error budget for features",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the graceful maintenance windows. We spend the first ten minutes of the review on the small scale cost control. Before deciding, I reread my notes about the status page for a side project twice. During the design review, I raise one careful question about the backup and restore for product. In the review drill, Leo says, \"Trust rises like dough here.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Reliability is the secret recipe.\" We swap roles so I ask the questions this time. I charge real money and apologize zero times.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the graceful maintenance windows. We spend the first ten minutes of the review on the small scale cost control. Before deciding, I reread my notes about the status page for a side project twice. During the design review, I raise one careful question about the backup and restore for product. In the review drill, Leo says, \"Trust rises like dough here.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Reliability is the secret recipe.\" We swap roles so I ask the questions this time. I charge real money and apologize zero times.",
+   "en": "The middle tier exists to make the third look brave. I prepare a one-page brief about the incident note for users so meetings start from facts. Our mentor walks me through how the error budget for features evolved on this team. In the review drill, Maria says, \"A bad batch gets free replace.\" We swap roles so I ask the questions this time. I charge real money and apologize zero times.",
+   "tts": "The middle tier exists to make the third look brave. I prepare a one-page brief about the incident note for users so meetings start from facts. Our mentor walks me through how the error budget for features evolved on this team. In the review drill, Maria says, \"A bad batch gets free replace.\" We swap roles so I ask the questions this time. I charge real money and apologize zero times.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为优雅的维护窗口指定了明确的负责人。评审的前十分钟，我们都用在了小规模成本控制上。做决定之前，我把关于副业的状态页的笔记重读了两遍。设计评审中，我就产品备份恢复提出了一个审慎的问题。评审演练中，Leo说：\"信任像面团一样发起来。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"可靠才是秘方。\"我们互换角色，这次由我来提问。我收了真钱，一次也没道歉。",
+   "zh": "中间档的存在，是为了让第三档显得勇敢。我准备了一页关于面向用户的事件说明的简报，好让会议从事实出发。导师带我梳理了功能级错误预算在这个团队里的演变。评审演练中，Maria说：\"烤坏的一炉免费换。\"我们互换角色，这次由我来提问。我收了真钱，一次也没道歉。",
    "hard": [
     {
      "w": "status page for a side project",
@@ -146,6 +146,33 @@
      "def": "小规模成本控制，账单比用户先醒"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "I charge real money and apologize zero times. I add the graceful degradation UX to the meeting agenda with three supporting facts. In the review drill, Maria says, \"The oven never misses a morning.\" We swap roles so I ask the questions this time. I compare two views on the uptime monitoring service and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "I charge real money and apologize zero times. I add the graceful degradation U X to the meeting agenda with three supporting facts. In the review drill, Maria says, \"The oven never misses a morning.\" We swap roles so I ask the questions this time. I compare two views on the uptime monitoring service and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "我收了真钱，一次也没道歉。我把优雅降级体验连同三条支撑事实加进了议程。评审演练中，Maria说：\"烤箱从不错过清晨。\"我们互换角色，这次由我来提问。我比较了关于在线率监控服务的两种观点，诚实地都记了下来。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The middle tier exists to make the third look brave. In the review drill, Priya says, \"Trust rises like dough here.\" We swap roles so I ask the questions this time. The team names one clear owner for the graceful maintenance windows. We spend the first ten minutes of the review on the status page for a side project. We end the week with something shipped and something properly learned this time.",
+   "tts": "The middle tier exists to make the third look brave. In the review drill, Priya says, \"Trust rises like dough here.\" We swap roles so I ask the questions this time. The team names one clear owner for the graceful maintenance windows. We spend the first ten minutes of the review on the status page for a side project. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "中间档的存在，是为了让第三档显得勇敢。评审演练中，Priya说：\"信任像面团一样发起来。\"我们互换角色，这次由我来提问。团队为优雅的维护窗口指定了明确的负责人。评审的前十分钟，我们都用在了副业的状态页上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the small scale cost control twice. During the design review, I raise one careful question about the backup and restore for product. In the review drill, Maria says, \"Reliability is the secret recipe.\" We swap roles so I ask the questions this time. I charge real money and apologize zero times.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Before deciding, I reread my notes about the small scale cost control twice. During the design review, I raise one careful question about the backup and restore for product. In the review drill, Maria says, \"Reliability is the secret recipe.\" We swap roles so I ask the questions this time. I charge real money and apologize zero times.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。做决定之前，我把关于小规模成本控制的笔记重读了两遍。设计评审中，我就产品备份恢复提出了一个审慎的问题。评审演练中，Maria说：\"可靠才是秘方。\"我们互换角色，这次由我来提问。我收了真钱，一次也没道歉。",
+   "hard": []
   }
  ],
  "chunks": [

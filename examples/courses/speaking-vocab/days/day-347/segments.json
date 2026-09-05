@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 398,
-   "segment_count": 3,
+   "word_count": 461,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The year end metrics read like thank you notes. The final deck includes the privilege handover audit and what we learned from it. We align on the secret rotation at exit early, so execution never has to guess. My report covers the handover doc final pass, the risks behind it, and the cost of waiting. I close the discussion on the shadow day for successor with a short summary. In the launch rehearsal, Maria says, \"The last night in the old flat.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"We walk every room once more.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "The year end metrics read like thank you notes. The final deck includes the privilege handover audit and what we learned from it. We align on the secret rotation at exit early, so execution never has to guess. My report covers the handover doc final pass, the risks behind it, and the cost of waiting. I close the discussion on the shadow day for successor with a short summary. In the launch rehearsal, Maria says, \"The last night in the old flat.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"We walk every room once more.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "The year end metrics read like thank you notes. The final deck includes the privilege handover audit and what we learned from it. We align on the handover doc final pass early, so execution never has to guess. In the launch rehearsal, Leo says, \"The last night in the old flat.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "The year end metrics read like thank you notes. The final deck includes the privilege handover audit and what we learned from it. We align on the handover doc final pass early, so execution never has to guess. In the launch rehearsal, Leo says, \"The last night in the old flat.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "年终指标读起来像感谢信。最终的材料里有权限交接审计，以及我们从中学到的东西。我们尽早就离岗密钥轮换对齐，让执行无需猜测。我的报告涵盖交接文档最终通读、背后的风险，以及等待的代价。我用一段简短的总结为继任者跟岗日的讨论收尾。上线彩排中，Maria说：\"老公寓的最后一夜。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"每个房间再走一遍。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "年终指标读起来像感谢信。最终的材料里有权限交接审计，以及我们从中学到的东西。我们尽早就交接文档最终通读对齐，让执行无需猜测。上线彩排中，Leo说：\"老公寓的最后一夜。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "privilege handover audit",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Zero critical incidents in the last quarter; retention doubled; one retired cache. In the launch rehearsal, Maria says, \"The wall where photos hung.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Keys on the counter, labeled.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the oncall shadow completion check with a timeline, the data, and one clear ask. I put the escalation path transfer on the record so the reasoning stays visible. We review the access revocation schedule against the requirements, line by line. I propose a measurable target for the introduction meetings batch this quarter. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Zero critical incidents in the last quarter; retention doubled; one retired cache. In the launch rehearsal, Maria says, \"The wall where photos hung.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Keys on the counter, labeled.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the oncall shadow completion check with a timeline, the data, and one clear ask. I put the escalation path transfer on the record so the reasoning stays visible. We review the access revocation schedule against the requirements, line by line. I propose a measurable target for the introduction meetings batch this quarter. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Zero critical incidents in the last quarter; retention doubled; one retired cache. In the launch rehearsal, Priya says, \"We walk every room once more.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the secret rotation at exit, the risks behind it, and the cost of waiting. I close the discussion on the shadow day for successor with a short summary. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Zero critical incidents in the last quarter; retention doubled; one retired cache. In the launch rehearsal, Priya says, \"We walk every room once more.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the secret rotation at exit, the risks behind it, and the cost of waiting. I close the discussion on the shadow day for successor with a short summary. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "上季度零严重事故；留存翻倍；一个光荣退休的缓存。上线彩排中，Maria说：\"挂过照片的那面墙。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"钥匙放在台面上贴好标签。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报值班影子完成核验。我把升级路径移交记录在案，让推理过程保持可见。我们逐行对照需求检查了权限撤销时刻表。我为引荐会议批量安排提出了本季度一个可衡量的目标。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "上季度零严重事故；留存翻倍；一个光荣退休的缓存。上线彩排中，Priya说：\"每个房间再走一遍。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖离岗密钥轮换、背后的风险，以及等待的代价。我用一段简短的总结为继任者跟岗日的讨论收尾。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "oncall shadow completion check",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the open threads inventory and what we learned from it. We align on the farewell commit signature early, so execution never has to guess. My report covers the knowledge debt clearance, the risks behind it, and the cost of waiting. I close the discussion on the farewell retro facilitation with a short summary. In the launch rehearsal, Leo says, \"Gratitude for the leaky faucet.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Doors close, homes continue.\" To finish, we swap roles and I lead the entire exchange from start to finish. Dashboards can hold confetti too.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. The final deck includes the open threads inventory and what we learned from it. We align on the farewell commit signature early, so execution never has to guess. My report covers the knowledge debt clearance, the risks behind it, and the cost of waiting. I close the discussion on the farewell retro facilitation with a short summary. In the launch rehearsal, Leo says, \"Gratitude for the leaky faucet.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Doors close, homes continue.\" To finish, we swap roles and I lead the entire exchange from start to finish. Dashboards can hold confetti too.",
+   "en": "Zero critical incidents in the last quarter; retention doubled; one retired cache. I present the access revocation schedule with a timeline, the data, and one clear ask. I put the oncall shadow completion check on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The wall where photos hung.\" To finish, we swap roles and I lead the entire exchange from start to finish. Dashboards can hold confetti too.",
+   "tts": "Zero critical incidents in the last quarter; retention doubled; one retired cache. I present the access revocation schedule with a timeline, the data, and one clear ask. I put the oncall shadow completion check on the record so the reasoning stays visible. In the launch rehearsal, Maria says, \"The wall where photos hung.\" To finish, we swap roles and I lead the entire exchange from start to finish. Dashboards can hold confetti too.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。最终的材料里有未决事项盘点，以及我们从中学到的东西。我们尽早就告别提交署名对齐，让执行无需猜测。我的报告涵盖知识债清偿、背后的风险，以及等待的代价。我用一段简短的总结为告别复盘主持的讨论收尾。上线彩排中，Leo说：\"感谢那只漏水的龙头。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"门关上了\"最后我们互换角色，由我从头到尾主导整段对话。仪表盘上也能飘彩带。",
+   "zh": "上季度零严重事故；留存翻倍；一个光荣退休的缓存。我用时间线、数据和一条明确的诉求来汇报权限撤销时刻表。我把值班影子完成核验记录在案，让推理过程保持可见。上线彩排中，Maria说：\"挂过照片的那面墙。\"最后我们互换角色，由我从头到尾主导整段对话。仪表盘上也能飘彩带。",
    "hard": [
     {
      "w": "knowledge debt clearance",
@@ -146,6 +146,33 @@
      "def": "告别提交署名，最后一次签名"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Dashboards can hold confetti too. We review the escalation path transfer against the requirements, line by line. In the launch rehearsal, Maria says, \"Keys on the counter, labeled.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the introduction meetings batch this quarter. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Dashboards can hold confetti too. We review the escalation path transfer against the requirements, line by line. In the launch rehearsal, Maria says, \"Keys on the counter, labeled.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the introduction meetings batch this quarter. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "仪表盘上也能飘彩带。我们逐行对照需求检查了升级路径移交。上线彩排中，Maria说：\"钥匙放在台面上贴好标签。\"最后我们互换角色，由我从头到尾主导整段对话。我为引荐会议批量安排提出了本季度一个可衡量的目标。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Zero critical incidents in the last quarter; retention doubled; one retired cache. In the launch rehearsal, Priya says, \"Gratitude for the leaky faucet.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the open threads inventory and what we learned from it. We align on the knowledge debt clearance early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Zero critical incidents in the last quarter; retention doubled; one retired cache. In the launch rehearsal, Priya says, \"Gratitude for the leaky faucet.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the open threads inventory and what we learned from it. We align on the knowledge debt clearance early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "上季度零严重事故；留存翻倍；一个光荣退休的缓存。上线彩排中，Priya说：\"感谢那只漏水的龙头。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有未决事项盘点，以及我们从中学到的东西。我们尽早就知识债清偿对齐，让执行无需猜测。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the farewell commit signature, the risks behind it, and the cost of waiting. I close the discussion on the farewell retro facilitation with a short summary. In the launch rehearsal, Maria says, \"Doors close, homes continue.\" To finish, we swap roles and I lead the entire exchange from start to finish. Dashboards can hold confetti too.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. My report covers the farewell commit signature, the risks behind it, and the cost of waiting. I close the discussion on the farewell retro facilitation with a short summary. In the launch rehearsal, Maria says, \"Doors close, homes continue.\" To finish, we swap roles and I lead the entire exchange from start to finish. Dashboards can hold confetti too.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我的报告涵盖告别提交署名、背后的风险，以及等待的代价。我用一段简短的总结为告别复盘主持的讨论收尾。上线彩排中，Maria说：\"门关上了\"最后我们互换角色，由我从头到尾主导整段对话。仪表盘上也能飘彩带。",
+   "hard": []
   }
  ],
  "chunks": [

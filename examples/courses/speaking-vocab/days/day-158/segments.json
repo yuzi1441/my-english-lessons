@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 331,
-   "segment_count": 3,
+   "word_count": 396,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The support lead asks for a number by Friday. At the review, we spend ten minutes on the scheduled report. In today's standup, I mention the report template engine and what comes next. We agree to give the informed rollout principle one more careful look this week. I compare my notes about the holdout ethics with Priya's. In the meeting drill, Maria says, \"The family shared calendar.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Grocery list sync war.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "The support lead asks for a number by Friday. At the review, we spend ten minutes on the scheduled report. In today's standup, I mention the report template engine and what comes next. We agree to give the informed rollout principle one more careful look this week. I compare my notes about the holdout ethics with Priya's. In the meeting drill, Maria says, \"The family shared calendar.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Grocery list sync war.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "The support lead asks for a number by Friday. At the review, we spend ten minutes on the scheduled report. In today's standup, I mention the informed rollout principle and what comes next. In the meeting drill, Leo says, \"The family shared calendar.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The support lead asks for a number by Friday. At the review, we spend ten minutes on the scheduled report. In today's standup, I mention the informed rollout principle and what comes next. In the meeting drill, Leo says, \"The family shared calendar.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "支持负责人周五前要一个数字。评审时，我们花了十分钟在定时报表上。今天的站会上，我提到报表模板引擎和接下来的安排。我们说好这周再把知情放量原则仔细看一次。我把关于保留组伦理的笔记和 Priya 的对照了一下。会议演练中，Maria说：\"家庭共享日历。\"之后我们换角色再练一遍。会议演练中，Priya说：\"购物清单同步大战。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "支持负责人周五前要一个数字。评审时，我们花了十分钟在定时报表上。今天的站会上，我提到知情放量原则和接下来的安排。会议演练中，Leo说：\"家庭共享日历。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "scheduled report",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My query runs eleven minutes; the warehouse sends me a polite bill. In the meeting drill, Maria says, \"The chores chart, surprisingly fair.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Screen time for everyone, including me.\" After that, we swap roles and run it again. I connect the export pipeline to the ticket so nothing gets lost. The guide now has a short section on the alert to report flow. Priya suggests a cleaner way to think about the dark pattern ban. While the details are fresh, I write down the experiment archival. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "My query runs eleven minutes; the warehouse sends me a polite bill. In the meeting drill, Maria says, \"The chores chart, surprisingly fair.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Screen time for everyone, including me.\" After that, we swap roles and run it again. I connect the export pipeline to the ticket so nothing gets lost. The guide now has a short section on the alert to report flow. Priya suggests a cleaner way to think about the dark pattern ban. While the details are fresh, I write down the experiment archival. I close the ticket with a clear result and one lesson for next time.",
+   "en": "My query runs eleven minutes; the warehouse sends me a polite bill. In the meeting drill, Priya says, \"Grocery list sync war.\" After that, we swap roles and run it again. We agree to give the report template engine one more careful look this week. I compare my notes about the holdout ethics with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "My query runs eleven minutes; the warehouse sends me a polite bill. In the meeting drill, Priya says, \"Grocery list sync war.\" After that, we swap roles and run it again. We agree to give the report template engine one more careful look this week. I compare my notes about the holdout ethics with Priya's. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我的查询跑了十一分钟；数仓给我寄了张礼貌的账单。会议演练中，Maria说：\"家务表\"之后我们换角色再练一遍。会议演练中，Priya说：\"屏幕时间\"之后我们换角色再练一遍。我把导出管道关联到工单上，免得遗漏。指南里现在有关于告警转报表的简短章节。Priya 提出了一个更清晰的暗黑模式禁令思考方式。趁细节还新鲜，我把实验归档写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我的查询跑了十一分钟；数仓给我寄了张礼貌的账单。会议演练中，Priya说：\"购物清单同步大战。\"之后我们换角色再练一遍。我们说好这周再把报表模板引擎仔细看一次。我把关于保留组伦理的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "export pipeline",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the results transparency. In today's standup, I mention the privacy in metrics and what comes next. We agree to give the digest email builder one more careful look this week. I compare my notes about the zero click insights with Priya's. In the meeting drill, Leo says, \"Birthday reminders on.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Family metrics with love.\" After that, we swap roles and run it again. I learn partition pruning the expensive way.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the results transparency. In today's standup, I mention the privacy in metrics and what comes next. We agree to give the digest email builder one more careful look this week. I compare my notes about the zero click insights with Priya's. In the meeting drill, Leo says, \"Birthday reminders on.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Family metrics with love.\" After that, we swap roles and run it again. I learn partition pruning the expensive way.",
+   "en": "My query runs eleven minutes; the warehouse sends me a polite bill. I connect the dark pattern ban to the ticket so nothing gets lost. The guide now has a short section on the export pipeline. In the meeting drill, Maria says, \"The chores chart, surprisingly fair.\" After that, we swap roles and run it again. I learn partition pruning the expensive way.",
+   "tts": "My query runs eleven minutes; the warehouse sends me a polite bill. I connect the dark pattern ban to the ticket so nothing gets lost. The guide now has a short section on the export pipeline. In the meeting drill, Maria says, \"The chores chart, surprisingly fair.\" After that, we swap roles and run it again. I learn partition pruning the expensive way.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在结果透明上。今天的站会上，我提到指标里的隐私和接下来的安排。我们说好这周再把摘要邮件生成器仔细看一次。我把关于零点击洞察的笔记和 Priya 的对照了一下。会议演练中，Leo说：\"生日提醒常开。\"之后我们换角色再练一遍。会议演练中，Maria说：\"有温度的家庭数据。\"之后我们换角色再练一遍。我用昂贵的方式学会了分区裁剪。",
+   "zh": "我的查询跑了十一分钟；数仓给我寄了张礼貌的账单。我把暗黑模式禁令关联到工单上，免得遗漏。指南里现在有关于导出管道的简短章节。会议演练中，Maria说：\"家务表\"之后我们换角色再练一遍。我用昂贵的方式学会了分区裁剪。",
    "hard": [
     {
      "w": "digest email builder",
@@ -146,6 +146,33 @@
      "def": "指标里的隐私，数字背后是人"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "I learn partition pruning the expensive way. Priya suggests a cleaner way to think about the alert to report flow. In the meeting drill, Maria says, \"Screen time for everyone, including me.\" After that, we swap roles and run it again. While the details are fresh, I write down the experiment archival. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "I learn partition pruning the expensive way. Priya suggests a cleaner way to think about the alert to report flow. In the meeting drill, Maria says, \"Screen time for everyone, including me.\" After that, we swap roles and run it again. While the details are fresh, I write down the experiment archival. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "我用昂贵的方式学会了分区裁剪。Priya 提出了一个更清晰的告警转报表思考方式。会议演练中，Maria说：\"屏幕时间\"之后我们换角色再练一遍。趁细节还新鲜，我把实验归档写了下来。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "My query runs eleven minutes; the warehouse sends me a polite bill. In the meeting drill, Priya says, \"Birthday reminders on.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the results transparency. In today's standup, I mention the digest email builder and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "My query runs eleven minutes; the warehouse sends me a polite bill. In the meeting drill, Priya says, \"Birthday reminders on.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the results transparency. In today's standup, I mention the digest email builder and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我的查询跑了十一分钟；数仓给我寄了张礼貌的账单。会议演练中，Priya说：\"生日提醒常开。\"之后我们换角色再练一遍。评审时，我们花了十分钟在结果透明上。今天的站会上，我提到摘要邮件生成器和接下来的安排。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the privacy in metrics one more careful look this week. I compare my notes about the zero click insights with Priya's. In the meeting drill, Maria says, \"Family metrics with love.\" After that, we swap roles and run it again. I learn partition pruning the expensive way.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the privacy in metrics one more careful look this week. I compare my notes about the zero click insights with Priya's. In the meeting drill, Maria says, \"Family metrics with love.\" After that, we swap roles and run it again. I learn partition pruning the expensive way.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把指标里的隐私仔细看一次。我把关于零点击洞察的笔记和 Priya 的对照了一下。会议演练中，Maria说：\"有温度的家庭数据。\"之后我们换角色再练一遍。我用昂贵的方式学会了分区裁剪。",
+   "hard": []
   }
  ],
  "chunks": [

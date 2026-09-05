@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 189,
+   "word_count": 282,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Yesterday I met the team. Today Maria gives me my first job: copy the project code to my computer. I see the file. Maria shows me the folder. I clone a repository with Maria. I look at the local copy. Maria asks, \"Could you help me?\" I answer with a smile. Maria says, \"I need some help.\" I answer with a smile. I feel good today.",
-   "tts": "Yesterday I met the team. Today Maria gives me my first job: copy the project code to my computer. I see the file. Maria shows me the folder. I clone a repository with Maria. I look at the local copy. Maria asks, \"Could you help me?\" I answer with a smile. Maria says, \"I need some help.\" I answer with a smile. I feel good today.",
+   "en": "Day two starts with a question. \"Could you help me?\" I ask Maria. \"I need some help finding the project files.\" She walks over. \"Sure. This is a file, this is a folder. The file path tells you where things live.\" She points at the screen. \"This is the absolute path — it starts from the root. And this is the relative path — it starts from where you are now.\" I write it all down. \"What about the file extension?\" I ask. \"The part after the dot tells you the file type,\" she says.",
+   "tts": "Day two starts with a question. \"Could you help me?\" I ask Maria. \"I need some help finding the project files.\" She walks over. \"Sure. This is a file, this is a folder. The file path tells you where things live.\" She points at the screen. \"This is the absolute path — it starts from the root. And this is the relative path — it starts from where you are now.\" I write it all down. \"What about the file extension?\" I ask. \"The part after the dot tells you the file type,\" she says.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "昨天我认识了团队。今天 Maria 给了我第一个任务：把项目代码复制到我的电脑上。我看到了文件。Maria 给我看了文件夹。我和 Maria 一起克隆仓库。我看着本地副本。Maria问：\"你能帮帮我吗？\"我微笑着回答。Maria说：\"我需要一些帮助。\"我微笑着回答。我今天感觉很好。",
+   "zh": "第二天从一个问题开始。\"你能帮帮我吗？\"我问 Maria。\"我需要一些帮助来找项目文件。\"她走过来。\"当然。这是一个文件，这是一个文件夹。文件路径告诉你东西在哪里。\"她指着屏幕。\"这是绝对路径——从根开始。这是相对路径——从你现在的位置开始。\"我全记了下来。\"那文件扩展名呢？\"我问。\"点后面的部分告诉你文件类型，\"她说。",
    "hard": [
     {
      "w": "file",
@@ -46,36 +46,6 @@
      "def": "文件夹，用来分类存放文件"
     },
     {
-     "w": "Could you help me?",
-     "type": "term",
-     "def": "你能帮帮我吗？"
-    },
-    {
-     "w": "I need some help.",
-     "type": "term",
-     "def": "我需要一些帮助。"
-    },
-    {
-     "w": "clone a repository",
-     "type": "term",
-     "def": "克隆仓库，把远程仓库完整复制到本地"
-    },
-    {
-     "w": "local copy",
-     "type": "term",
-     "def": "本地副本，保存在自己电脑上的项目版本"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "I need help, and I learn to ask for it. Priya asks, \"Could you show me how?\" I nod and reply. Priya says, \"I don't understand yet.\" I nod and reply. This is the file path. The absolute path is new to me. Now I can download the code. I point to the remote repository. I learn one new thing.",
-   "tts": "I need help, and I learn to ask for it. Priya asks, \"Could you show me how?\" I nod and reply. Priya says, \"I don't understand yet.\" I nod and reply. This is the file path. The absolute path is new to me. Now I can download the code. I point to the remote repository. I learn one new thing.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我需要帮助，也学会了开口求助。Priya问：\"你能示范一下怎么做吗？\"我点头回应。Priya说：\"我还没有理解。\"我点头回应。这是文件路径。绝对路径对我来说很新。现在我会下载代码了。我指着远程仓库。我学到了一件新东西。",
-   "hard": [
-    {
      "w": "file path",
      "type": "term",
      "def": "文件路径，表示文件所在位置的文字地址"
@@ -86,36 +56,6 @@
      "def": "绝对路径，从系统根位置开始的完整地址"
     },
     {
-     "w": "Could you show me how?",
-     "type": "term",
-     "def": "你能示范一下怎么做吗？"
-    },
-    {
-     "w": "I don't understand yet.",
-     "type": "term",
-     "def": "我还没有理解。"
-    },
-    {
-     "w": "download the code",
-     "type": "term",
-     "def": "下载代码，把代码文件保存到本地"
-    },
-    {
-     "w": "remote repository",
-     "type": "term",
-     "def": "远程仓库，保存在 GitHub 等服务器上的仓库"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I do one last thing. I see the clone URL. Maria shows me the default directory. I look at the relative path. This is the file extension. Priya says, \"Please say that again.\" I nod and reply. Priya says, \"Thank you for your help.\" I nod and reply. The code is on my computer now. I feel ready for tomorrow.",
-   "tts": "Before I leave, I do one last thing. I see the clone U R L. Maria shows me the default directory. I look at the relative path. This is the file extension. Priya says, \"Please say that again.\" I nod and reply. Priya says, \"Thank you for your help.\" I nod and reply. The code is on my computer now. I feel ready for tomorrow.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。我看到了克隆地址。Maria 给我看了默认目录。我看着相对路径。这是文件扩展名。Priya说：\"请再说一遍。\"我点头回应。Priya说：\"谢谢你的帮助。\"我点头回应。代码现在在我的电脑上了。我为明天做好了准备。",
-   "hard": [
-    {
      "w": "relative path",
      "type": "term",
      "def": "相对路径，从当前位置出发的地址"
@@ -124,6 +64,26 @@
      "w": "file extension",
      "type": "term",
      "def": "文件扩展名，表示文件类型的结尾部分"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Leo stops by my desk. \"Could you show me how you set up your workspace?\" he asks. \"I don't understand yet how the new config works.\" I share my screen. \"Please say that again?\" I ask when he mumbles. He repeats it clearly. After the setup demo, we move to the real work. \"Thank you for your help,\" Leo says. Now it's time for the exciting part. \"Today we clone a repository,\" Maria announces. \"A remote repository lives on GitHub. You make a local copy on your machine.\" She gives me the clone URL.",
+   "tts": "Leo stops by my desk. \"Could you show me how you set up your workspace?\" he asks. \"I don't understand yet how the new config works.\" I share my screen. \"Please say that again?\" I ask when he mumbles. He repeats it clearly. After the setup demo, we move to the real work. \"Thank you for your help,\" Leo says. Now it's time for the exciting part. \"Today we clone a repository,\" Maria announces. \"A remote repository lives on Git Hub. You make a local copy on your machine.\" She gives me the clone U R L.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "Leo 路过我的桌。\"你能给我看看你怎么设置工作区的吗？\"他问。\"我还不太理解新配置怎么运作。\"我共享屏幕。\"请再说一遍？\"他嘟囔时我问。他清楚地重复了。设置演示之后，我们进入正题。\"今天我们克隆一个仓库，\"Maria 宣布。\"远程仓库在 GitHub 上。你在自己机器上做一个本地副本。\"她给了我克隆地址。",
+   "hard": [
+    {
+     "w": "Could you show me how?",
+     "type": "term",
+     "def": "你能示范一下怎么做吗？"
+    },
+    {
+     "w": "I don't understand yet.",
+     "type": "term",
+     "def": "我还没有理解。"
     },
     {
      "w": "Please say that again.",
@@ -136,9 +96,49 @@
      "def": "谢谢你的帮助。"
     },
     {
+     "w": "clone a repository",
+     "type": "term",
+     "def": "克隆仓库，把远程仓库完整复制到本地"
+    },
+    {
+     "w": "remote repository",
+     "type": "term",
+     "def": "远程仓库，保存在 GitHub 等服务器上的仓库"
+    },
+    {
+     "w": "local copy",
+     "type": "term",
+     "def": "本地副本，保存在自己电脑上的项目版本"
+    },
+    {
      "w": "clone URL",
      "type": "term",
      "def": "克隆地址，用于定位远程仓库的网址"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "I paste the clone URL into the terminal and press Enter. The code downloads. \"The default directory is your project folder,\" Maria says. I look at the files on my screen. Everything from the remote repository is now sitting in a local copy on my machine. \"I need some help understanding what to do next,\" I admit. \"Could you help me?\" Leo laughs. \"We all needed help on day two. Just explore — open a file, read the code.\" I open the README again. Step by step, the pieces start to fit together.",
+   "tts": "I paste the clone U R L into the terminal and press Enter. The code downloads. \"The default directory is your project folder,\" Maria says. I look at the files on my screen. Everything from the remote repository is now sitting in a local copy on my machine. \"I need some help understanding what to do next,\" I admit. \"Could you help me?\" Leo laughs. \"We all needed help on day two. Just explore — open a file, read the code.\" I open the read me again. Step by step, the pieces start to fit together.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "我把克隆地址粘贴到终端，按回车。代码下载完成。\"默认目录就是你的项目文件夹，\"Maria 说。我看着屏幕上的文件。远程仓库的一切现在都在我机器的本地副本里了。\"我需要一些帮助来理解下一步做什么，\"我承认。\"你能帮帮我吗？\"Leo 笑了。\"第二天我们都需要帮助。随便看看——打开一个文件，读读代码。\"我又打开了 README。一步一步，拼图开始合上了。",
+   "hard": [
+    {
+     "w": "Could you help me?",
+     "type": "term",
+     "def": "你能帮帮我吗？"
+    },
+    {
+     "w": "I need some help.",
+     "type": "term",
+     "def": "我需要一些帮助。"
+    },
+    {
+     "w": "download the code",
+     "type": "term",
+     "def": "下载代码，把代码文件保存到本地"
     },
     {
      "w": "default directory",

@@ -11,7 +11,42 @@
    "life_en": "At noon, Maria sits with me. She introduces the team.",
    "life_zh": "中午，Maria 和我坐在一起。她把我介绍给团队。",
    "close_en": "I am tired, but happy. Tomorrow I will learn more.",
-   "close_zh": "我有点累，但很开心。明天我会学到更多。"
+   "close_zh": "我有点累，但很开心。明天我会学到更多。",
+   "tales": [
+    {
+     "en": "Today is my first day at a new job. I walk in and the office feels huge. Maria greets me at the door. \"Welcome! I'm Maria, your mentor. Let me show you around.\" She walks me to my desk. The monitor is bigger than I expected. \"This is your setup,\" she says. \"Monitor, keyboard, mouse — everything you need. The power button is on the right side.\" I press it and the screen lights up. \"Nice to meet you all,\" I say to the team. \"How are you doing?\" asks Leo from across the room.",
+     "zh": "今天是我新工作的第一天。我走进来，办公室感觉很大。Maria 在门口迎接我。\"欢迎！我是 Maria，你的导师。我带你转转。\"她带我走到我的桌前。显示器比我预想的大。\"这是你的设备，\"她说。\"显示器、键盘、鼠标——你需要的一切。电源按钮在右边。\"我按下它，屏幕亮了。\"很高兴见到大家，\"我对团队说。\"你怎么样？\"房间对面的 Leo 问。",
+     "terms": [
+      "monitor",
+      "keyboard",
+      "power button",
+      "Nice to meet you.",
+      "How are you doing?"
+     ]
+    },
+    {
+     "en": "At lunch, Maria introduces me to everyone. \"My name is Alex,\" I say. \"I'm new here.\" Priya smiles. \"Where are you from?\" she asks. I tell her about my hometown. After lunch, Maria opens a folder on my screen. \"This is our project folder,\" she explains. \"The source code lives here. We use code hosting on GitHub, so everything is in a public repository.\" I look at the screen. \"What's a repository?\" I ask. \"Think of it as a organised home for your code,\" she says.",
+     "zh": "午餐时，Maria 把我介绍给大家。\"我叫 Alex，\"我说。\"我是新来的。\"Priya 微笑了。\"你来自哪里？\"她问。我告诉她我的家乡。午餐后，Maria 在我的屏幕上打开一个文件夹。\"这是我们的项目文件夹，\"她解释。\"源代码在这里。我们用 GitHub 做代码托管，所以一切都在一个公开仓库里。\"我看着屏幕。\"什么是仓库？\"我问。\"把它想象成一个有序的代码之家，\"她说。",
+     "terms": [
+      "My name is ...",
+      "I'm new here.",
+      "Where are you from?",
+      "source code",
+      "project folder",
+      "code hosting",
+      "public repository"
+     ]
+    },
+    {
+     "en": "In the afternoon, Maria shows me the README file. \"Every good repository has one,\" she says. \"It explains what the project does and how to use it.\" I read it carefully. The README is clear and friendly. \"See you later,\" says Leo as he heads out. \"See you later!\" I reply. Before I leave, I look around the office one more time. My first day is almost over. The hardware is set up, the code is visible, and the team feels welcoming. I write in my notebook: 'Day 1 — learned about repositories, README files, and where the power button is.'",
+     "zh": "下午，Maria 给我看 README 文件。\"每个好的仓库都有一个，\"她说。\"它解释了项目做什么以及怎么用。\"我仔细阅读。README 清晰友好。\"回头见，\"Leo 边往外走边说。\"回头见！\"我回答。离开前，我再环顾了一次办公室。我的第一天快结束了。硬件搭好了，代码看得见，团队也很友好。我在笔记本上写道：'第一天——学了仓库、README 文件，和电源按钮在哪。'",
+     "terms": [
+      "README file",
+      "repository",
+      "See you later."
+     ]
+    }
+   ]
   },
   {
    "title_en": "Copy the First Code",
@@ -21,7 +56,45 @@
    "life_en": "I need help, and I learn to ask for it.",
    "life_zh": "我需要帮助，也学会了开口求助。",
    "close_en": "The code is on my computer now. I feel ready for tomorrow.",
-   "close_zh": "代码现在在我的电脑上了。我为明天做好了准备。"
+   "close_zh": "代码现在在我的电脑上了。我为明天做好了准备。",
+   "tales": [
+    {
+     "en": "Day two starts with a question. \"Could you help me?\" I ask Maria. \"I need some help finding the project files.\" She walks over. \"Sure. This is a file, this is a folder. The file path tells you where things live.\" She points at the screen. \"This is the absolute path — it starts from the root. And this is the relative path — it starts from where you are now.\" I write it all down. \"What about the file extension?\" I ask. \"The part after the dot tells you the file type,\" she says.",
+     "zh": "第二天从一个问题开始。\"你能帮帮我吗？\"我问 Maria。\"我需要一些帮助来找项目文件。\"她走过来。\"当然。这是一个文件，这是一个文件夹。文件路径告诉你东西在哪里。\"她指着屏幕。\"这是绝对路径——从根开始。这是相对路径——从你现在的位置开始。\"我全记了下来。\"那文件扩展名呢？\"我问。\"点后面的部分告诉你文件类型，\"她说。",
+     "terms": [
+      "file",
+      "folder",
+      "file path",
+      "absolute path",
+      "relative path",
+      "file extension"
+     ]
+    },
+    {
+     "en": "Leo stops by my desk. \"Could you show me how you set up your workspace?\" he asks. \"I don't understand yet how the new config works.\" I share my screen. \"Please say that again?\" I ask when he mumbles. He repeats it clearly. After the setup demo, we move to the real work. \"Thank you for your help,\" Leo says. Now it's time for the exciting part. \"Today we clone a repository,\" Maria announces. \"A remote repository lives on GitHub. You make a local copy on your machine.\" She gives me the clone URL.",
+     "zh": "Leo 路过我的桌。\"你能给我看看你怎么设置工作区的吗？\"他问。\"我还不太理解新配置怎么运作。\"我共享屏幕。\"请再说一遍？\"他嘟囔时我问。他清楚地重复了。设置演示之后，我们进入正题。\"今天我们克隆一个仓库，\"Maria 宣布。\"远程仓库在 GitHub 上。你在自己机器上做一个本地副本。\"她给了我克隆地址。",
+     "terms": [
+      "Could you show me how?",
+      "I don't understand yet.",
+      "Please say that again.",
+      "Thank you for your help.",
+      "clone a repository",
+      "remote repository",
+      "local copy",
+      "clone URL"
+     ]
+    },
+    {
+     "en": "I paste the clone URL into the terminal and press Enter. The code downloads. \"The default directory is your project folder,\" Maria says. I look at the files on my screen. Everything from the remote repository is now sitting in a local copy on my machine. \"I need some help understanding what to do next,\" I admit. \"Could you help me?\" Leo laughs. \"We all needed help on day two. Just explore — open a file, read the code.\" I open the README again. Step by step, the pieces start to fit together.",
+     "zh": "我把克隆地址粘贴到终端，按回车。代码下载完成。\"默认目录就是你的项目文件夹，\"Maria 说。我看着屏幕上的文件。远程仓库的一切现在都在我机器的本地副本里了。\"我需要一些帮助来理解下一步做什么，\"我承认。\"你能帮帮我吗？\"Leo 笑了。\"第二天我们都需要帮助。随便看看——打开一个文件，读读代码。\"我又打开了 README。一步一步，拼图开始合上了。",
+     "terms": [
+      "Could you help me?",
+      "I need some help.",
+      "download the code",
+      "default directory"
+     ]
+    }
+   ]
   },
   {
    "title_en": "The First Commit",
@@ -31,7 +104,44 @@
    "life_en": "At lunch, we talk about the time for a short meeting.",
    "life_zh": "午饭时，我们讨论了一个短会的时间。",
    "close_en": "Before I leave, I save my first commit. My name is in the history now.",
-   "close_zh": "离开前，我保存了第一次提交。我的名字现在进入了历史记录。"
+   "close_zh": "离开前，我保存了第一次提交。我的名字现在进入了历史记录。",
+   "tales": [
+    {
+     "en": "Day three begins with my first real command. Maria shows me the terminal. \"Type this to run a program,\" she says. I type it and press Enter. The program executes code and prints its output on the screen. \"If it hangs, you can stop a process with Ctrl+C.\" I try it. It works. \"What time is it?\" Leo asks as he walks past. \"Almost ten,\" I reply. \"What time works for you for a quick sync?\" he asks. \"I'm available at ten-thirty.\"",
+     "zh": "第三天从我的第一个真正的命令开始。Maria 给我看终端。\"输入这个来运行一个程序，\"她说。我输入并按回车。程序执行代码，在屏幕上打印输出。\"如果卡住了，你可以用 Ctrl+C 停止进程。\"我试了。成功了。\"现在几点？\"Leo 路过时问。\"快十点了，\"我回答。\"你什么时间方便快速同步一下？\"他问。\"我十点半有空。\"",
+     "terms": [
+      "run a program",
+      "execute code",
+      "output",
+      "stop a process",
+      "What time is it?",
+      "What time works for you?",
+      "I'm available at ..."
+     ]
+    },
+    {
+     "en": "At the standup, Maria asks about my schedule. \"Let's meet at two for a code walkthrough,\" she says. \"I'm running late from another meeting, so give me five minutes.\" After the standup, she explains commits. \"A commit is like saving a snapshot of your work. The commit message describes what you changed. The commit history shows all your snapshots in order. Every commit has a unique commit hash.\" I open the terminal. \"I'm going to make a commit,\" I announce. My hands shake a little.",
+     "zh": "站会上，Maria 问我的日程。\"我们两点碰一下过代码吧，\"她说。\"我另一个会要迟到，给我五分钟。\"站会后，她解释了提交。\"提交就像保存一个你工作的快照。提交说明描述你改了什么。提交历史按顺序展示你所有的快照。每次提交都有唯一的提交哈希。\"我打开终端。\"我要创建一个提交了，\"我宣布。手有点抖。",
+     "terms": [
+      "What time works for you?",
+      "Let's meet at ...",
+      "I'm running late.",
+      "commit",
+      "commit message",
+      "save a snapshot",
+      "commit history",
+      "commit hash",
+      "make a commit"
+     ]
+    },
+    {
+     "en": "The commit goes through. I stare at the screen. My code is in the commit history. Maria gives me a thumbs up. \"See you tomorrow,\" she says as the day ends. I write in my notebook: 'Day 3 — ran my first program, made my first commit, learned about output and commit hashes.' The terminal is no longer scary. It's a tool that does what I tell it. I execute code, I see output, I stop processes. Tomorrow, more.",
+     "zh": "提交成功了。我盯着屏幕。我的代码进入了提交历史。Maria 给我竖了个大拇指。\"明天见，\"她下班时说。我在笔记本上写：'第三天——跑了第一个程序，做了第一个提交，学了输出和提交哈希。'终端不再可怕了。它是一个听我指令的工具。我执行代码，看到输出，停止进程。明天，继续。",
+     "terms": [
+      "See you tomorrow."
+     ]
+    }
+   ]
   },
   {
    "title_en": "My Own Branch",
@@ -41,7 +151,46 @@
    "life_en": "After work, I buy a new notebook. I ask about the price.",
    "life_zh": "下班后，我买了一个新笔记本。我询问了价格。",
    "close_en": "My branch is small, but it is mine.",
-   "close_zh": "我的分支很小，但它是我自己的。"
+   "close_zh": "我的分支很小，但它是我自己的。",
+   "tales": [
+    {
+     "en": "Day four introduces a new concept: branches. \"Think of a branch as your own workspace,\" Maria explains. \"The main branch is the shared version. A feature branch is where you try new things. You create a branch, give it a branch name, and switch branches when you need to.\" She draws it on the whiteboard. I copy the diagram into my notebook. Variables, values, strings, integers, booleans, data types — the morning is full of new words.",
+     "zh": "第四天引入一个新概念：分支。\"把分支想象成你自己的工作区，\"Maria 解释。\"主分支是共享版本。功能分支是你尝试新事物的地方。你创建分支，给它起个分支名，需要时切换分支。\"她在白板上画了图。我把图抄进笔记本。变量、值、字符串、整数、布尔值、数据类型——上午全是新词。",
+     "terms": [
+      "branch",
+      "main branch",
+      "feature branch",
+      "create a branch",
+      "switch branches",
+      "branch name",
+      "variable",
+      "value",
+      "string",
+      "integer",
+      "boolean",
+      "data type"
+     ]
+    },
+    {
+     "en": "At lunch, I go shopping with Priya. \"How much is this?\" I ask the shopkeeper. \"That's too expensive,\" she whispers. \"Do you have a smaller size?\" I try a different one. \"Can I pay by card?\" The shopkeeper nods. \"I'd like this one,\" I say finally. \"Could I get a receipt?\" Back at the office, Priya laughs. \"You haggled like a pro.\" \"Just practising my English,\" I reply.",
+     "zh": "午餐时，我和 Priya 去逛街。\"这个多少钱？\"我问店主。\"太贵了，\"她小声说。\"有 smaller size 吗？\"我试了另一个。\"可以刷卡吗？\"店主点头。\"就要这个，\"我最终说。\"能给我收据吗？\"回到办公室，Priya 笑了。\"你讨价还价像老手。\"\"就在练英语嘛，\"我回答。",
+     "terms": [
+      "How much is this?",
+      "That's too expensive.",
+      "Do you have a smaller size?",
+      "Can I pay by card?",
+      "I'd like this one.",
+      "Could I get a receipt?"
+     ]
+    },
+    {
+     "en": "In the afternoon, I create my first branch. \"Branch name should describe what you're working on,\" Maria advises. I type: feature/user-greeting. \"Now switch branches whenever you want to work on something different.\" I switch back to main, then back to my feature branch. It feels like magic — the code changes with each switch. Before I leave, I write: 'Day 4 — branches are safe spaces. Variables hold values. Data types tell you what kind of value.'",
+     "zh": "下午，我创建了第一个分支。\"分支名应该描述你在做什么，\"Maria 建议。我输入：feature/user-greeting。\"现在随时可以切换分支去做不同的事。\"我切回 main，又切回功能分支。感觉像魔法——每次切换代码都会变。离开前，我写：'第四天——分支是安全空间。变量存值。数据类型告诉你值是什么类型。'",
+     "terms": [
+      "switch branches"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Push and Pull",
@@ -51,7 +200,44 @@
    "life_en": "The team orders lunch together, and I order too.",
    "life_zh": "团队一起点午餐，我也点了。",
    "close_en": "I pull the team's new code before I leave. We are in sync now.",
-   "close_zh": "离开前，我拉取了团队的新代码。我们同步了。"
+   "close_zh": "离开前，我拉取了团队的新代码。我们同步了。",
+   "tales": [
+    {
+     "en": "Day five is about input and output. \"A function takes a parameter and returns a value,\" Maria explains. \"You process data inside the function.\" She writes an example on the board. I copy it and run it. The output value appears on screen. \"What do you recommend for learning more?\" I ask. \"Just practise,\" she says. At lunch, I order at the café. \"I'd like to order the pasta,\" I tell the waiter. \"Could I have no cheese?\" He nods.",
+     "zh": "第五天讲输入和输出。\"函数接收一个参数，返回一个值，\"Maria 解释。\"你在函数内部处理数据。\"她在白板上写了个例子。我复制并运行。输出值出现在屏幕上。\"学更多你推荐什么？\"我问。\"多练，\"她说。午餐时，我在咖啡馆点餐。\"我想点意面，\"我跟服务员说。\"能不加芝士吗？\"他点头。",
+     "terms": [
+      "input",
+      "process data",
+      "output value",
+      "function",
+      "parameter",
+      "return value",
+      "What do you recommend?"
+     ]
+    },
+    {
+     "en": "After lunch, Maria introduces remote collaboration. \"You push changes to share your work. You pull changes to get others' work. You fetch updates to see what's new without merging.\" She shows me the origin remote — that's the team's copy on GitHub. \"The upstream remote is the original project if you forked it. Sync with remote keeps you up to date.\" I practise all three. Push, pull, fetch. \"No ice, please,\" I say at the coffee machine, practising my English on everything.",
+     "zh": "午餐后，Maria 介绍远程协作。\"你推送更改来分享你的工作。你拉取更改来获取别人的成果。你获取更新来看新东西但不合并。\"她给我看 origin 远程——那是团队在 GitHub 上的副本。\"upstream 远程是原始项目（如果你 fork 了）。与远程同步让你保持最新。\"三个都练了。推、拉、取。\"请不要加冰，\"我在咖啡机旁说，什么都在练英语。",
+     "terms": [
+      "Could I have ...?",
+      "No ice, please.",
+      "push changes",
+      "pull changes",
+      "fetch updates",
+      "origin remote",
+      "upstream remote",
+      "sync with remote"
+     ]
+    },
+    {
+     "en": "\"Could we have the bill?\" I ask at dinner. \"Is service included?\" It is. I pay and walk home thinking about the day. Input becomes output. Parameters go in, return values come out. Push and pull keep the team in sync. The patterns repeat everywhere — in code, in restaurants, in life. Before bed, I write: 'Day 5 — functions are recipes. Push is sharing. Pull is receiving. Fetch is peeking without merging.'",
+     "zh": "\"可以结账吗？\"晚餐时我问。\"含服务费吗？\"含。我付了钱走回家，想着这一天。输入变成输出。参数进去，返回值出来。推送和拉取让团队同步。这个模式到处都在——代码里、餐厅里、生活里。睡前我写：'第五天——函数是菜谱。推送是分享。拉取是接收。获取是偷看但不合并。'",
+     "terms": [
+      "Could we have the bill?",
+      "Is service included?"
+     ]
+    }
+   ]
   },
   {
    "title_en": "An Issue for the Bug",
@@ -61,7 +247,47 @@
    "life_en": "After work, I take the bus home and ask about the way.",
    "life_zh": "下班后，我坐公交回家，问了路。",
    "close_en": "I open an issue for the bug. The team can see it now.",
-   "close_zh": "我为这个缺陷开了一个问题单。团队现在能看到了。"
+   "close_zh": "我为这个缺陷开了一个问题单。团队现在能看到了。",
+   "tales": [
+    {
+     "en": "Day six brings my first bug. \"There's a bug in your code,\" Maria says gently. \"The error message tells you what went wrong.\" I read it. I don't understand. \"Debugging is just careful reading,\" she says. \"Reproduce an error, find the root cause, fix a bug.\" I follow her advice. The bug is fixed. On my way home, I get lost. \"How do I get to the station?\" I ask someone. \"Is it far from here?\" No, it's close. \"Turn left, go straight.\"",
+     "zh": "第六天迎来了我的第一个 bug。\"你的代码里有个 bug，\"Maria 温和地说。\"错误信息告诉你哪里出了问题。\"我读了。看不懂。\"调试就是仔细阅读，\"她说。\"复现错误，找根本原因，修 bug。\"我照她说的做。缺陷修好了。回家路上，我迷路了。\"车站怎么走？\"我问路人。\"离这儿远吗？\"不远，很近。\"左转，直走。\"",
+     "terms": [
+      "bug",
+      "error message",
+      "debugging",
+      "reproduce an error",
+      "root cause",
+      "fix a bug",
+      "How do I get to ...?",
+      "Is it far from here?",
+      "Turn left.",
+      "Go straight."
+     ]
+    },
+    {
+     "en": "Tuesday starts with issues. \"An issue is a to-do item on GitHub,\" Leo explains. \"You open an issue when you find a problem. Give it an issue title and an issue description. When it's resolved, you close an issue.\" I practise on a test repository. \"This bug report needs more detail,\" Maria says. I add steps to reproduce. At lunch, I navigate the city. \"Which line should I take?\" I ask. \"Where should I get off?\" The city feels smaller each day.",
+     "zh": "周二从问题单开始。\"问题单就是 GitHub 上的待办事项，\"Leo 解释。\"发现问题时你创建问题单。给它一个问题单标题和问题单描述。解决了就关闭问题单。\"我在测试仓库上练了练。\"这个缺陷报告需要更多细节，\"Maria 说。我加了复现步骤。午餐时，我在城市里认路。\"该坐哪条线？\"我问。\"该在哪站下？\"城市每天都感觉小了一点。",
+     "terms": [
+      "issue",
+      "open an issue",
+      "issue title",
+      "issue description",
+      "close an issue",
+      "bug report",
+      "Which line should I take?",
+      "Where should I get off?"
+     ]
+    },
+    {
+     "en": "Before I leave, I update my notebook. 'Day 6 — bugs are teachers. Issues are to-do lists. The city is getting easier to navigate.' The error message from this morning no longer scares me. I reproduced it, found the root cause, and fixed a bug. On the bus, I think about how far I've come in one week. A week ago, I didn't know what a repository was. Today, I opened my first issue on GitHub.",
+     "zh": "离开前，我更新了笔记本。'第六天——bug 是老师。问题单是待办清单。城市越来越容易走了。'早上的错误信息不再吓我了。我复现了它，找到了根本原因，修了 bug。公交车上，我想着一周以来的进步。一周前，我还不知道什么是仓库。今天，我在 GitHub 上创建了我的第一个问题单。",
+     "terms": [
+      "root cause",
+      "fix a bug"
+     ]
+    }
+   ]
   },
   {
    "title_en": "My First Pull Request",
@@ -71,7 +297,46 @@
    "life_en": "Leo invites me to coffee on Friday. I say yes.",
    "life_zh": "Leo 邀请我周五去喝咖啡。我答应了。",
    "close_en": "My first pull request is open. This week, I learned a lot.",
-   "close_zh": "我的第一个拉取请求打开了。这一周，我学到了很多。"
+   "close_zh": "我的第一个拉取请求打开了。这一周，我学到了很多。",
+   "tales": [
+    {
+     "en": "Day seven covers operating systems. \"The operating system runs everything,\" Maria says. \"Applications live on top of it. You install software, uninstall a program, and change system settings.\" She shows me how to restart the computer safely. In the afternoon, Leo asks about evening plans. \"Are you free tonight?\" he asks. \"Would you like to join us for dinner?\" \"That sounds great!\" I say. \"Maybe another time,\" Priya adds with a smile.",
+     "zh": "第七天讲操作系统。\"操作系统管理一切，\"Maria 说。\"应用程序在它之上运行。你安装软件、卸载程序、改系统设置。\"她给我演示怎么安全重启电脑。下午，Leo 问晚上的安排。\"今晚有空吗？\"他问。\"想和我们一起吃晚饭吗？\"\"听起来太好了！\"我说。\"也许下次吧，\"Priya 笑着补充。",
+     "terms": [
+      "operating system",
+      "application",
+      "install software",
+      "uninstall a program",
+      "system settings",
+      "restart the computer",
+      "Are you free tonight?",
+      "Would you like to join us?",
+      "That sounds great.",
+      "Maybe another time."
+     ]
+    },
+    {
+     "en": "Dinner with the team is fun. We talk about everything except code. \"What time shall we meet tomorrow?\" Leo asks. \"I'll let you know,\" I say. Back home, I think about pull requests. \"A pull request asks the team to review your code,\" Maria explained earlier. \"You open a pull request, write a PR description, and request a review. Draft changes are works in progress.\" On some platforms it's called a merge request. Same idea, different name.",
+     "zh": "和团队吃饭很开心。我们聊了除了代码以外的一切。\"明天几点碰？\"Leo 问。\"我会告诉你，\"我说。回到家，我想着拉取请求。\"拉取请求是请团队评审你的代码，\"Maria 之前解释过。\"你创建拉取请求，写 PR 描述，然后请求评审。草稿改动还在进行中。\"有些平台叫合并请求。同一个概念，不同名字。",
+     "terms": [
+      "What time shall we meet?",
+      "I'll let you know.",
+      "pull request",
+      "open a pull request",
+      "PR description",
+      "request a review",
+      "draft changes",
+      "merge request"
+     ]
+    },
+    {
+     "en": "One week complete. I write in my notebook: 'Day 7 — I can install software, restart the computer, and understand pull requests. My team is friendly. The city is getting familiar. My English is improving.' The operating system metaphor works for life too: applications run on top of a foundation. My foundation is getting stronger every day. Tomorrow starts week two.",
+     "zh": "一周完整结束。我在笔记本上写：'第七天——我会安装软件、重启电脑、理解拉取请求了。团队很友好。城市越来越熟悉。英语在进步。'操作系统的比喻对生活也适用：应用程序运行在基础之上。我的基础每天都在变强。明天开始第二周。",
+     "terms": [
+      "restart the computer"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Reading the Review",
@@ -81,7 +346,46 @@
    "life_en": "I call a teammate on video. The connection is bad, but we talk.",
    "life_zh": "我和一位队友视频通话。连接不好，但我们聊了很久。",
    "close_en": "The comments are kind. I know what to fix.",
-   "close_zh": "评论很友善。我知道该改什么了。"
+   "close_zh": "评论很友善。我知道该改什么了。",
+   "tales": [
+    {
+     "en": "Week two starts with memory and storage. \"Memory is RAM — fast but temporary,\" Maria explains. \"Storage is permanent — save to disk for long-term. When disk space runs low, you free up space.\" She shows me how to check both. In the afternoon, a video call with the remote team. \"Can you hear me?\" Priya asks. \"Your voice is breaking up,\" I say. \"The connection is unstable.\" She turns on her camera. \"You're on mute,\" I point out. We laugh and sort it out.",
+     "zh": "第二周从内存和存储开始。\"内存是 RAM——快但临时，\"Maria 解释。\"存储是永久的——保存到磁盘做长期。磁盘空间不足时，你释放空间。\"她给我演示怎么查看两者。下午，和远程团队视频通话。\"能听到我吗？\"Priya 问。\"你的声音断断续续，\"我说。\"连接不稳定。\"她打开了摄像头。\"你静音了，\"我提醒她。我们笑着解决了。",
+     "terms": [
+      "memory",
+      "RAM",
+      "storage",
+      "disk space",
+      "save to disk",
+      "free up space",
+      "Can you hear me?",
+      "Your voice is breaking up.",
+      "The connection is unstable.",
+      "Could you turn on your camera?",
+      "You're on mute.",
+      "I'll call you back."
+     ]
+    },
+    {
+     "en": "Code review day. \"A code review is when teammates check your work,\" Maria explains. \"They leave a review comment. They can approve changes or request changes.\" Leo reviews my code. \"I'll leave a comment here,\" he says. \"Can you resolve a conversation when it's addressed?\" I click the button. The conversation turns green. \"I'll call you back if there are issues,\" he adds. There aren't. My code is approved.",
+     "zh": "代码评审日。\"代码评审就是队友检查你的工作，\"Maria 解释。\"他们留下评审评论。可以批准改动或要求修改。\"Leo 评审了我的代码。\"我在这里留个评论，\"他说。\"处理完了你能解决对话吗？\"我点了按钮。对话变绿了。\"有问题我给你回电话，\"他补充。没有问题。我的代码通过了。",
+     "terms": [
+      "code review",
+      "review comment",
+      "approve changes",
+      "request changes",
+      "leave a comment",
+      "resolve a conversation"
+     ]
+    },
+    {
+     "en": "The day ends smoothly. I write: 'Day 8 — RAM is fast, storage is slow but permanent. Code reviews make code better. My first approval!' The video call taught me new phrases too. Can you hear me. You're on mute. I'll call you back. These are sentences I'll use in every meeting. Learning English and learning to code have more in common than I thought. Both need practice. Both improve with patience.",
+     "zh": "这一天顺利结束。我写：'第八天——RAM 快，存储慢但永久。代码评审让代码更好。我的第一个批准！'视频通话也教了我新短语。能听到我吗。你静音了。我回给你。这些句子每次会议都会用到。学英语和学编程比我想象的更有共同点。都需要练习。都需要耐心才能进步。",
+     "terms": [
+      "I'll call you back."
+     ]
+    }
+   ]
   },
   {
    "title_en": "The Merge Conflict",
@@ -91,7 +395,46 @@
    "life_en": "At home, I do the laundry and wash the dishes.",
    "life_zh": "在家里，我洗衣服、洗碗。",
    "close_en": "Maria helps me resolve the conflict. The merge is complete.",
-   "close_zh": "Maria 帮我解决了冲突。合并完成了。"
+   "close_zh": "Maria 帮我解决了冲突。合并完成了。",
+   "tales": [
+    {
+     "en": "Day nine goes deep into how computers think. \"The CPU is the brain,\" Maria says. \"A processor executes instructions. A process is a running program. A thread is a smaller piece of a process. Background tasks run quietly. System resources are shared between all of them.\" I nod. At home, I do my own chores: take out the trash, do the laundry, wash the dishes, clean the room. \"Pick up groceries on your way,\" my mum texts. \"Finish the chores before you rest.\"",
+     "zh": "第九天深入计算机的思考方式。\"CPU 是大脑，\"Maria 说。\"处理器执行指令。进程是运行中的程序。线程是进程里更小的部分。后台任务悄悄运行。系统资源被所有进程共享。\"我点头。在家里，我做了自己的家务：倒垃圾、洗衣服、洗碗、打扫房间。\"回来路上买点菜，\"妈妈发来短信。\"休息前把家务做完。\"",
+     "terms": [
+      "CPU",
+      "processor",
+      "process",
+      "thread",
+      "background task",
+      "system resource",
+      "take out the trash",
+      "do the laundry",
+      "wash the dishes",
+      "clean the room",
+      "pick up groceries",
+      "finish the chores"
+     ]
+    },
+    {
+     "en": "Merge conflicts arrive. \"When two people change the same line, you get a merge conflict,\" Leo explains. \"You resolve a conflict by choosing which change to keep. A conflicting change needs your attention. You accept incoming change or keep yours. Then you complete the merge.\" My first merge conflict is scary. My second is manageable. By the third, I understand: conflicts are just conversations between code.",
+     "zh": "合并冲突来了。\"当两个人改了同一行，就会产生合并冲突，\"Leo 解释。\"你通过选择保留哪个改动来解决冲突。冲突改动需要你处理。你可以接受传入改动或保留自己的。然后完成合并。\"我的第一次合并冲突很吓人。第二次就好处理了。到第三次，我明白了：冲突只是代码之间的对话。",
+     "terms": [
+      "merge branches",
+      "merge conflict",
+      "resolve a conflict",
+      "conflicting change",
+      "accept incoming change",
+      "complete the merge"
+     ]
+    },
+    {
+     "en": "The day ends with a full laundry basket and a clean git history. I write: 'Day 9 — processes have threads like chores have steps. Merge conflicts are normal. Every developer resolves them.' My English is improving alongside my coding. Take out the trash. Resolve a conflict. Pick up groceries. Complete the merge. The verbs are different, the pattern is the same: identify the task, do the work, move on.",
+     "zh": "这一天以满满一筐待洗衣物和干净的 git 历史结束。我写：'第九天——进程有线程就像家务有步骤。合并冲突是正常的。每个开发者都会解决它们。'我的英语和编程在同步进步。倒垃圾。解决冲突。买菜。完成合并。动词不同，模式一样：识别任务，做工作，继续前进。",
+     "terms": [
+      "complete the merge"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Waiting for the Checks",
@@ -101,7 +444,49 @@
    "life_en": "I reschedule a short meeting, because the time does not work.",
    "life_zh": "我重新安排了一个短会，因为那个时间不方便。",
    "close_en": "All checks are green. We merge tomorrow.",
-   "close_zh": "所有检查都是绿色的。我们明天合并。"
+   "close_zh": "所有检查都是绿色的。我们明天合并。",
+   "tales": [
+    {
+     "en": "Day ten introduces the terminal. \"The terminal is your text-based control centre,\" Maria says. \"The command line is where you type. The shell reads your commands. The command prompt shows you're ready. The current directory is where you are. Command options change behaviour.\" I open the terminal and practise. In the afternoon, a scheduling hiccup. \"Can we make an appointment?\" Leo asks. \"Actually, let's reschedule the meeting to Thursday.\" \"I'm not available then. Does Tuesday work?\" \"I'll confirm the time by email.\"",
+     "zh": "第十天介绍终端。\"终端是你的文字控制中心，\"Maria 说。\"命令行是你打字的地方。shell 读取你的命令。命令提示符表示准备就绪。当前目录是你的位置。命令选项改变行为。\"我打开终端练了练。下午，一个日程问题。\"我们能约个时间吗？\"Leo 问。\"其实，把会议改到周四吧。\"\"我那时没空。周二行吗？\"\"我邮件确认时间。\"",
+     "terms": [
+      "terminal",
+      "command line",
+      "shell",
+      "command prompt",
+      "current directory",
+      "command option",
+      "make an appointment",
+      "reschedule the meeting",
+      "cancel an appointment",
+      "confirm the time",
+      "Does Tuesday work?",
+      "I'm not available then."
+     ]
+    },
+    {
+     "en": "GitHub status checks appear. \"Before your code merges, it must pass a status check,\" Leo explains. \"A required check must pass. A pending check is still running. A passing check means success. A failed check means something broke. Check the details to see the logs.\" I watch my first status check. Pending... running... passing. Green. \"Nice,\" Leo says. On the way home, I cancel an appointment at the dentist. \"Confirm the time?\" the receptionist asks. I confirm.",
+     "zh": "GitHub 状态检查出现了。\"你的代码合并之前，必须通过状态检查，\"Leo 解释。\"必需检查必须通过。等待中的检查还在跑。通过的检查意味着成功。失败的检查说明有东西坏了。查看详情看日志。\"我看着我的第一个状态检查。等待中……运行中……通过。绿色。\"不错，\"Leo 说。回家路上，我取消了牙医预约。\"确认时间？\"前台问。我确认了。",
+     "terms": [
+      "status check",
+      "required check",
+      "pending check",
+      "passing check",
+      "failed check",
+      "check details",
+      "confirm the time",
+      "cancel an appointment"
+     ]
+    },
+    {
+     "en": "The terminal is becoming a friend rather than a stranger. I write: 'Day 10 — the shell is powerful. Status checks protect the main branch. Rescheduling is a normal part of work.' My command prompt blinks patiently. I type, it responds. Current directory, command option, shell — the words that confused me last week now feel like tools I own. Ten days. Thirty new vocabulary words. Sixty paragraphs of practice. And the journey is just beginning.",
+     "zh": "终端正在从陌生人变成朋友。我写：'第十天——shell 很强大。状态检查保护主分支。改期是工作的正常部分。'我的命令提示符耐心地闪烁。我输入，它回应。当前目录、命令选项、shell——上周还让我困惑的词现在感觉是我拥有的工具了。十天。三十个新词汇。六十段练习。旅程才刚刚开始。",
+     "terms": [
+      "command prompt",
+      "current directory"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Looking at Open Source",
@@ -111,7 +496,47 @@
    "life_en": "The weather is nice, and we chat at the window.",
    "life_zh": "天气不错，我们在窗边聊天。",
    "close_en": "I star the project and follow its updates.",
-   "close_zh": "我给项目点了星，并关注它的动态。"
+   "close_zh": "我给项目点了星，并关注它的动态。",
+   "tales": [
+    {
+     "en": "Day eleven goes networking. \"An IP address identifies your machine,\" Maria says. \"Localhost means this machine. A port number is a door number for services. A network interface connects you. Private addresses stay inside. Public addresses face the internet.\" I nod. The weather outside matches my mood: \"It's sunny today,\" Priya says. \"It looks like rain later.\" \"It's getting colder,\" I add. \"The weather is nice right now though.\" \"How was your weekend?\" she asks.",
+     "zh": "第十一天讲网络。\"IP 地址标识你的机器，\"Maria 说。\"Localhost 指本机。端口号是服务的门牌号。网络接口连接你。私有地址留在内部。公网地址面向互联网。\"我点头。外面的天气和我的心情很配：\"今天阳光很好，\"Priya 说。\"待会儿可能下雨。\"\"天气变冷了，\"我补充。\"不过现在天气不错。\"\"周末过得怎么样？\"她问。",
+     "terms": [
+      "IP address",
+      "localhost",
+      "port number",
+      "network interface",
+      "private address",
+      "public address",
+      "It's sunny today.",
+      "It looks like rain.",
+      "It's getting colder.",
+      "The weather is nice.",
+      "How was your weekend?"
+     ]
+    },
+    {
+     "en": "\"What have you been up to?\" I ask Leo. \"Exploring open source,\" he replies. \"You fork a repository to get your own copy. You star a project to bookmark it. You watch a repository to get updates. Followers see your activity feed. Notification settings control what you see.\" I try it all. I fork a repository, star a project, watch a repository. My activity feed fills up. I adjust my notification settings.",
+     "zh": "\"你最近在忙什么？\"我问 Leo。\"在探索开源，\"他回答。\"你 fork 一个仓库得到自己的副本。你 star 一个项目收藏它。你 watch 一个仓库获取更新。关注者看到你的活动信息流。通知设置控制你看到什么。\"我全试了一遍。fork 了仓库，star 了项目，watch 了仓库。我的活动信息流热闹起来。我调整了通知设置。",
+     "terms": [
+      "What have you been up to?",
+      "fork a repository",
+      "star a project",
+      "watch a repository",
+      "follower",
+      "activity feed",
+      "notification setting"
+     ]
+    },
+    {
+     "en": "The internet is a city of addresses. I write: 'Day 11 — IP addresses are street addresses. Ports are apartment numbers. Localhost is home. Fork is making your own copy. Star is bookmarking. Watch is subscribing.' The weather metaphors continue: sunny code, rainy bugs, changing seasons of difficulty. Each day the forecast improves slightly. Not because the weather changes, but because I'm learning to dress for it.",
+     "zh": "互联网是一座地址之城。我写：'第十一天——IP 地址是街道地址。端口是门牌号。Localhost 是家。Fork 是做自己的副本。Star 是收藏。Watch 是订阅。'天气的比喻还在继续：晴朗的代码，下雨的 bug，难度的四季变化。每天的预报都稍微好一点。不是因为天气变了，而是因为我学会了怎么穿衣服。",
+     "terms": [
+      "localhost",
+      "port number"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Labels and Milestones",
@@ -121,7 +546,47 @@
    "life_en": "Maria travels next week. She talks about her hotel.",
    "life_zh": "Maria 下周要出差。她聊起了她的酒店。",
    "close_en": "Every issue now has a label and a due date.",
-   "close_zh": "现在每个问题单都有了标签和截止日期。"
+   "close_zh": "现在每个问题单都有了标签和截止日期。",
+   "tales": [
+    {
+     "en": "Day twelve goes deeper into web infrastructure. \"DNS turns domain names into IP addresses,\" Maria says. \"A web address or URL includes the domain. A subdomain lives under the main domain. When you resolve a domain, you translate the name into numbers.\" At the hotel booking site, I practise different vocabulary. \"I'd like to check in,\" I say at reception. \"I have a reservation.\" \"Is breakfast included?\" \"What time is checkout?\" The receptionist answers patiently.",
+     "zh": "第十二天深入网络基础设施。\"DNS 把域名变成 IP 地址，\"Maria 说。\"网址或 URL 包含域名。子域名在主域名之下。当你解析域名，你把名字翻译成数字。\"在订酒店网站上，我练了另一组词汇。\"我想办理入住，\"我在前台说。\"我有预订。\"\"含早餐吗？\"\"几点退房？\"前台耐心地回答。",
+     "terms": [
+      "DNS",
+      "domain name",
+      "web address",
+      "URL",
+      "subdomain",
+      "resolve a domain",
+      "I'd like to check in.",
+      "I have a reservation.",
+      "Is breakfast included?",
+      "What time is checkout?"
+     ]
+    },
+    {
+     "en": "\"Could I get another towel?\" I ask on the phone. \"Can you store my luggage?\" I'm at a hotel for a team offsite. Meanwhile, back on the project, labels and milestones organise our work. \"A label categorises issues,\" Priya explains. \"A milestone groups them into a goal. Add a label, remove a label, set a due date. The project board shows everything visually.\" I practise adding labels to our issues.",
+     "zh": "\"能再给我一条毛巾吗？\"我在电话里问。\"能帮我寄存行李吗？\"我在参加团队团建的酒店。与此同时，项目上，标签和里程碑整理着我们的工作。\"标签分类问题单，\"Priya 解释。\"里程碑把它们归入一个目标。添加标签、移除标签、设截止日期。项目看板把一切可视化。\"我练着给问题单加标签。",
+     "terms": [
+      "Could I get another towel?",
+      "Can you store my luggage?",
+      "label",
+      "milestone",
+      "add a label",
+      "remove a label",
+      "due date",
+      "project board"
+     ]
+    },
+    {
+     "en": "The hotel and the project have more in common than I expected. Both need check-ins. Both have labels — room numbers and issue labels. Both have due dates — checkout time and milestone deadlines. I write: 'Day 12 — DNS is the phone book of the internet. Labels are tags. Milestones are goals. Every system has its own vocabulary but the ideas repeat.' Two weeks down, fifty more to go. The journey continues.",
+     "zh": "酒店和项目的共同点比我预期的多。都需要 check-in。都有标签——房间号和问题标签。都有截止日期——退房时间和里程碑期限。我写：'第十二天——DNS 是互联网的电话簿。标签是标记。里程碑是目标。每个系统都有自己的词汇但理念在重复。'两周过去，还有五十周。旅程继续。",
+     "terms": [
+      "due date",
+      "project board"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Who Takes the Issue",
@@ -131,7 +596,47 @@
    "life_en": "Leo goes to the airport. His flight is delayed.",
    "life_zh": "Leo 去机场。他的航班延误了。",
    "close_en": "I take the issue. The team mentions me, and I see it.",
-   "close_zh": "我接下了这个问题单。团队提到了我，我看到了提醒。"
+   "close_zh": "我接下了这个问题单。团队提到了我，我看到了提醒。",
+   "tales": [
+    {
+     "en": "Day thirteen enters web communication. \"An HTTP request goes from client to server,\" Maria says. \"An HTTP response comes back. The status code tells you the result. Request headers carry metadata. The response body carries the data. A GET request reads data.\" I take notes. Later, at the airport for a business trip: \"Where is the check-in counter?\" I ask. \"I'd like an aisle seat.\" \"Where is the security check?\" \"What gate is it?\"",
+     "zh": "第十三天进入网络通信。\"HTTP 请求从客户端发到服务器，\"Maria 说。\"HTTP 响应返回来。状态码告诉你结果。请求头携带元数据。响应体携带数据。GET 请求读取数据。\"我做笔记。后来，出差到机场：\"值机柜台在哪里？\"我问。\"我想要靠过道的座位。\"\"安检在哪里？\"\"哪个登机口？\"",
+     "terms": [
+      "HTTP request",
+      "HTTP response",
+      "status code",
+      "request header",
+      "response body",
+      "GET request",
+      "Where is the check-in counter?",
+      "I'd like an aisle seat.",
+      "Where is the security check?",
+      "What gate is it?"
+     ]
+    },
+    {
+     "en": "\"The flight is delayed,\" the screen announces. \"Where can I collect my luggage?\" I ask the information desk. Back at the office on Monday, Leo explains GitHub assignees. \"An assignee is responsible for an issue. You assign an issue to someone. You mention a teammate with @ to notify them. A team mention notifies everyone. Subscribe to an issue to follow updates. Unsubscribe when you're done.\"",
+     "zh": "\"航班延误了，\"屏幕显示。\"在哪里取行李？\"我问服务台。周一回到办公室，Leo 解释了 GitHub 的负责人。\"负责人负责一个问题单。你把问题单分配给某个人。你用 @ 提及队友来通知他们。团队提及通知所有人。订阅问题单关注更新。完成后取消订阅。\"",
+     "terms": [
+      "The flight is delayed.",
+      "Where can I collect my luggage?",
+      "assignee",
+      "assign an issue",
+      "mention a teammate",
+      "team mention",
+      "subscribe to an issue",
+      "unsubscribe from updates"
+     ]
+    },
+    {
+     "en": "Airports and GitHub both manage flow. Passengers are like issues — they need routing, gates, and status updates. I write: 'Day 13 — HTTP is how computers talk. Status codes are mood rings for responses. Assignees own their issues like passengers own their boarding passes.' My English vocabulary now spans airports, GitHub, and HTTP protocols. The boundaries between learning contexts are dissolving. Everything is connected.",
+     "zh": "机场和 GitHub 都在管理流量。乘客像问题单——需要路由、登机口和状态更新。我写：'第十三天——HTTP 是计算机的对话方式。状态码是响应的心情戒指。负责人拥有问题单就像乘客拥有登机牌。'我的英语词汇现在跨越了机场、GitHub 和 HTTP 协议。学习场景之间的边界在消失。一切都是相通的。",
+     "terms": [
+      "status code",
+      "assign an issue"
+     ]
+    }
+   ]
   },
   {
    "title_en": "The Draft Lesson",
@@ -141,7 +646,49 @@
    "life_en": "We eat at a new restaurant. I ask about the menu.",
    "life_zh": "我们去了一家新餐厅。我询问了菜单。",
    "close_en": "I open a draft pull request. The team can watch it grow.",
-   "close_zh": "我开了一个草稿拉取请求。团队可以看着它慢慢成形。"
+   "close_zh": "我开了一个草稿拉取请求。团队可以看着它慢慢成形。",
+   "tales": [
+    {
+     "en": "Day fourteen explains client-server architecture. \"A client asks. A server answers. An API is the contract between them. An endpoint is a specific address. You send a request and receive a response.\" I draw the diagram. At dinner, I practise restaurant English. \"Do you have a table for two?\" I ask. \"Could we see the menu?\" \"I'm allergic to peanuts.\" \"Is this dish spicy?\" \"Could you pack this to go?\" \"Everything was delicious.\"",
+     "zh": "第十四天讲客户端-服务器架构。\"客户端提问。服务器回答。API 是它们之间的契约。端点是具体地址。你发送请求并接收响应。\"我画了图。晚餐时，我练餐厅英语。\"有两人桌吗？\"我问。\"能看菜单吗？\"\"我对花生过敏。\"\"这道菜辣吗？\"\"能打包吗？\"\"一切都很好吃。\"",
+     "terms": [
+      "client",
+      "server",
+      "API",
+      "endpoint",
+      "send a request",
+      "receive a response",
+      "Do you have a table for two?",
+      "Could we see the menu?",
+      "I'm allergic to peanuts.",
+      "Is this dish spicy?",
+      "Could you pack this to go?",
+      "Everything was delicious."
+     ]
+    },
+    {
+     "en": "Draft pull requests appear. \"A draft pull request is work in progress,\" Priya explains. \"You mark as ready when it's done. You can convert to draft if you need more time. The review status shows where you stand. The base branch is where you're merging into. The compare branch is your work.\" I open my first draft PR. Mark as ready. The review status changes. My base branch is main. My compare branch is feature/user-greeting.",
+     "zh": "草稿拉取请求出现了。\"草稿拉取请求是进行中的工作，\"Priya 解释。\"完成后你标记为可评审。需要更多时间就转回草稿。评审状态显示你的进展。基础分支是你要合入的。比较分支是你的工作。\"我打开了我的第一个草稿 PR。标记为可评审。评审状态变了。基础分支是 main。比较分支是 feature/user-greeting。",
+     "terms": [
+      "draft pull request",
+      "mark as ready",
+      "convert to draft",
+      "review status",
+      "base branch",
+      "compare branch"
+     ]
+    },
+    {
+     "en": "Client-server is everywhere. The restaurant is a server. I am a client. The menu is the API. Ordering is sending a request. Food arriving is receiving a response. I write: 'Day 14 — APIs are contracts. Endpoints are addresses. Every conversation has a client and a server.' The draft pull request teaches me something else: it's okay to show unfinished work. Marking as ready is brave. Converting to draft is honest.",
+     "zh": "客户端-服务器无处不在。餐厅是服务器。我是客户端。菜单是 API。点餐是发送请求。菜端上来是接收响应。我写：'第十四天——API 是契约。端点是地址。每段对话都有客户端和服务器。'草稿拉取请求还教了我别的：展示未完成的工作是没问题的。标记可评审是勇敢。转回草稿是诚实。",
+     "terms": [
+      "endpoint",
+      "send a request",
+      "receive a response",
+      "mark as ready"
+     ]
+    }
+   ]
   },
   {
    "title_en": "The Pipeline",
@@ -151,7 +698,49 @@
    "life_en": "At standup, I say what I finished and what is next.",
    "life_zh": "站会上，我说了已完成的内容和下一步。",
    "close_en": "The automated tests pass. The team trusts the pipeline.",
-   "close_zh": "自动化测试通过了。团队信任这条流水线。"
+   "close_zh": "自动化测试通过了。团队信任这条流水线。",
+   "tales": [
+    {
+     "en": "Day fifteen enters databases and CI. \"A database stores data in tables,\" Maria says. \"Each table has rows and columns. You write a query to get data. Each row is a database record.\" Then she opens a new tab. \"This is continuous integration. GitHub Actions runs our workflow file. Every workflow run tests the code. Automated tests catch bugs. The build pipeline is the whole journey.\" At lunch: \"What are you working on?\" Priya asks. \"I'm working on the login page,\" I reply.",
+     "zh": "第十五天进入数据库和 CI。\"数据库用表存数据，\"Maria 说。\"每个表有行和列。你写查询来获取数据。每行是一条数据库记录。\"然后她打开新标签页。\"这是持续集成。GitHub Actions 运行我们的工作流文件。每次工作流运行测试代码。自动化测试捕获 bug。构建流水线是整个旅程。\"午餐时：\"你在做什么？\"Priya 问。\"我在做登录页面，\"我回答。",
+     "terms": [
+      "database",
+      "table",
+      "row",
+      "column",
+      "query",
+      "database record",
+      "What are you working on?",
+      "I'm working on ...",
+      "continuous integration",
+      "GitHub Actions",
+      "workflow file",
+      "workflow run",
+      "automated test",
+      "build pipeline"
+     ]
+    },
+    {
+     "en": "More standup phrases. \"I've finished the header section,\" I report. \"I'm blocked by a missing API endpoint,\" Priya says. \"My next step is to write tests.\" \"I need more time on the database schema,\" Leo admits. The vocabulary of standups is becoming second nature. What are you working on. I'm working on. I've finished. I'm blocked by. My next step is. I need more time. These sentences structure every morning.",
+     "zh": "更多站会短语。\"我完成了头部区域，\"我汇报。\"我被缺失的 API 端点卡住了，\"Priya 说。\"我的下一步是写测试。\"\"数据库设计需要更多时间，\"Leo 承认。站会词汇正在变成第二天性。你在做什么。我在做。我完成了。我被卡住。我的下一步是。我需要更多时间。这些句子组织着每个早晨。",
+     "terms": [
+      "What are you working on?",
+      "I've finished ...",
+      "I'm blocked by ...",
+      "My next step is ...",
+      "I need more time."
+     ]
+    },
+    {
+     "en": "The CI pipeline runs while I eat lunch. Green lights across the board. I write: 'Day 15 — databases are organised warehouses. CI is an automatic quality checker. Standup phrases are the grammar of teamwork.' The workflow file is YAML. The workflow run passes. The automated tests catch a small bug before it reaches production. The build pipeline works like a factory: code goes in, tested product comes out.",
+     "zh": "CI 流水线在我吃午餐时运行。一路绿灯。我写：'第十五天——数据库是有序仓库。CI 是自动质检员。站会短语是团队协作的语法。'工作流文件是 YAML。工作流运行通过。自动化测试在 bug 到达生产环境之前捕获了它。构建流水线像工厂：代码进去，测好的产品出来。",
+     "terms": [
+      "workflow run",
+      "automated test",
+      "build pipeline"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Test, Build, Deploy",
@@ -161,7 +750,47 @@
    "life_en": "My order is wrong at the shop, and I ask to change it.",
    "life_zh": "我在商店拿错了订单，我请求更换。",
    "close_en": "The deployment works. We watch the logs together.",
-   "close_zh": "部署成功了。我们一起观察日志。"
+   "close_zh": "部署成功了。我们一起观察日志。",
+   "tales": [
+    {
+     "en": "Day sixteen handles data formats and error handling. \"JSON structures data with keys and values,\" Maria says. \"CSV uses commas. A log file records events. You parse data to read it. Structured data follows rules. Each log entry is one event.\" Then a customer complaint arrives. \"I'd like to return this,\" the email reads. \"This item is damaged. I received the wrong order.\" I practise the responses: \"Could I get a refund? Could you replace it? Thank you for resolving this.\"",
+     "zh": "第十六天处理数据格式和错误处理。\"JSON 用键值对组织数据，\"Maria 说。\"CSV 用逗号。日志文件记录事件。你解析数据来读取它。结构化数据遵循规则。每条日志条目是一个事件。\"然后一封客户投诉到了。\"我想退货，\"邮件写着。\"商品损坏了。我收到了错误的订单。\"我练回复：\"能退款吗？能换货吗？感谢解决这个问题。\"",
+     "terms": [
+      "JSON",
+      "CSV",
+      "log file",
+      "parse data",
+      "structured data",
+      "log entry",
+      "I'd like to return this.",
+      "This item is damaged.",
+      "I received the wrong order.",
+      "Could I get a refund?",
+      "Could you replace it?",
+      "Thank you for resolving this."
+     ]
+    },
+    {
+     "en": "CI pipeline vocabulary deepens. \"A test suite is a collection of tests,\" Leo says. \"A build job compiles your code. A deployment job ships it. A test failure blocks deployment. The build artifact is the output. The deployment environment is where it goes.\" I watch the pipeline: build job passes, test suite runs, deployment job starts. \"Test failure!\" someone shouts. The pipeline stops. We fix the bug. The pipeline restarts.",
+     "zh": "CI 流水线词汇加深。\"测试套件是一组测试，\"Leo 说。\"构建任务编译你的代码。部署任务发布它。测试失败会阻止部署。构建产物是输出。部署环境是目的地。\"我看流水线：构建任务通过，测试套件运行，部署任务启动。\"测试失败！\"有人喊。流水线停了。我们修了 bug。流水线重启。",
+     "terms": [
+      "test suite",
+      "build job",
+      "deployment job",
+      "test failure",
+      "build artifact",
+      "deployment environment"
+     ]
+    },
+    {
+     "en": "Data formats and error handling share a principle: expect the unexpected. JSON might be malformed. Orders might be wrong. Tests might fail. The system must handle it gracefully. I write: 'Day 16 — parse data carefully. Log everything. When things break, fix them and say thank you for resolving this.' The customer with the damaged item gets a refund. The broken test gets fixed. The pipeline turns green. Order restored.",
+     "zh": "数据格式和错误处理共享一个原则：预料意外。JSON 可能格式错误。订单可能出错。测试可能失败。系统必须优雅地处理。我写：'第十六天——仔细解析数据。记录一切。东西坏了就修，然后说感谢解决。'商品损坏的客户拿到了退款。坏掉的测试修好了。流水线变绿。秩序恢复。",
+     "terms": [
+      "log entry",
+      "structured data"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Keep the Secret Safe",
@@ -171,7 +800,47 @@
    "life_en": "I visit the pharmacy and ask about the medicine.",
    "life_zh": "我去了药店，询问了这种药。",
    "close_en": "The token is safe, and the secret stays outside the code.",
-   "close_zh": "令牌是安全的，机密留在代码之外。"
+   "close_zh": "令牌是安全的，机密留在代码之外。",
+   "tales": [
+    {
+     "en": "Day seventeen covers security and health. \"Authentication proves who you are,\" Maria says. \"Authorization controls what you can do. A user account holds your identity. A login session is temporary access. Access permission is scoped. Sign out when you're done.\" Then I feel sick. \"I don't feel well,\" I tell Maria. \"I have a headache.\" \"How often should I take this?\" I ask at the pharmacy. \"Are there any side effects?\" \"I'm allergic to this medicine.\" \"I need to see a doctor.\"",
+     "zh": "第十七天涵盖安全和健康。\"认证证明你是谁，\"Maria 说。\"授权控制你能做什么。用户账号保存你的身份。登录会话是临时访问。访问权限有范围。完成后退出登录。\"然后我不舒服了。\"我不太舒服，\"我跟 Maria 说。\"我头疼。\"\"这个药多久吃一次？\"我在药店问。\"有副作用吗？\"\"我对这个药过敏。\"\"我需要看医生。\"",
+     "terms": [
+      "authentication",
+      "authorization",
+      "user account",
+      "login session",
+      "access permission",
+      "sign out",
+      "I don't feel well.",
+      "I have a headache.",
+      "How often should I take this?",
+      "Are there any side effects?",
+      "I'm allergic to this medicine.",
+      "I need to see a doctor."
+     ]
+    },
+    {
+     "en": "Security tokens arrive in my inbox. \"An access token grants API access,\" Leo explains. \"A personal access token is yours alone. Repository secrets hold sensitive values. Workflow permissions limit what actions can do. Secret scanning catches leaked credentials. Revoke a token immediately if compromised.\" I set up my first personal access token. The repository secret keeps our API key safe. Secret scanning runs automatically.",
+     "zh": "安全令牌出现在我的收件箱。\"访问令牌授予 API 访问，\"Leo 解释。\"个人访问令牌是你独有的。仓库机密保存敏感值。工作流权限限制操作范围。机密扫描捕获泄露的凭据。如果泄露立即撤销令牌。\"我设置了我的第一个个人访问令牌。仓库机密保存着我们的 API 密钥。机密扫描自动运行。",
+     "terms": [
+      "access token",
+      "personal access token",
+      "repository secret",
+      "workflow permission",
+      "secret scanning",
+      "revoke a token"
+     ]
+    },
+    {
+     "en": "Security and health share a principle: prevention beats cure. Sign out when you're done. Revoke a token when it's compromised. See a doctor when you need to. I write: 'Day 17 — authentication is your ID card. Authorization is your access badge. Personal access tokens are keys. Treat them all with care.' The headache fades with rest and water. The code stays secure with proper token management.",
+     "zh": "安全和健康共享一个原则：预防胜于治疗。用完就退出登录。令牌泄露就撤销。需要看医生就去。我写：'第十七天——认证是你的身份证。授权是你的门禁卡。个人访问令牌是钥匙。认真对待它们。'休息和喝水后头疼缓解了。代码通过正确的令牌管理保持安全。",
+     "terms": [
+      "sign out",
+      "revoke a token"
+     ]
+    }
+   ]
   },
   {
    "title_en": "The Protected Branch",
@@ -181,7 +850,48 @@
    "life_en": "In the afternoon, there is a fire drill. Everyone is safe.",
    "life_zh": "下午，大楼有消防演习。所有人都安全。",
    "close_en": "Now I understand the rule: reviews protect the main branch.",
-   "close_zh": "现在我理解了规则：评审保护主分支。"
+   "close_zh": "现在我理解了规则：评审保护主分支。",
+   "tales": [
+    {
+     "en": "Day eighteen covers encryption and emergencies. \"Encryption scrambles data,\" Maria says. \"An encrypted connection protects data in transit. Privacy settings control visibility. Data backup saves copies. Restore data from backup. A recovery key unlocks encrypted data.\" Then an emergency in the building. \"Call an ambulance!\" someone shouts. \"I need help immediately!\" \"Where is the nearest hospital?\" Someone has fallen. \"I've lost my phone!\" another voice. \"Please contact the police. Is everyone safe?\"",
+     "zh": "第十八天涵盖加密和紧急情况。\"加密打乱数据，\"Maria 说。\"加密连接保护传输中的数据。隐私设置控制可见性。数据备份保存副本。从备份恢复数据。恢复密钥解锁加密数据。\"然后楼里出现紧急情况。\"叫救护车！\"有人喊。\"我立刻需要帮助！\"\"最近的医院在哪？\"有人摔倒了。\"我手机丢了！\"另一个声音。\"请联系警察。大家都安全吗？\"",
+     "terms": [
+      "encryption",
+      "encrypted connection",
+      "privacy setting",
+      "data backup",
+      "restore data",
+      "recovery key",
+      "Call an ambulance.",
+      "I need help immediately.",
+      "Where is the nearest hospital?",
+      "I've lost my phone.",
+      "Please contact the police.",
+      "Is everyone safe?"
+     ]
+    },
+    {
+     "en": "After the ambulance leaves, the office calms down. Back to code. \"Protected branches can't be pushed to directly,\" Leo says. \"Branch protection rules enforce this. Required approval means someone must review. Restrict pushes limits who can push. A signed commit proves authorship. A security policy tells people how to report issues.\" I read our branch protection rules. Required approval: yes. Restrict pushes: yes.",
+     "zh": "救护车离开后，办公室平静下来。回到代码。\"受保护分支不能直接推送，\"Leo 说。\"分支保护规则强制执行这一点。必需批准意味着必须有人评审。限制推送控制谁能推。签名提交证明作者身份。安全政策告诉人们怎么报告问题。\"我读了我们的分支保护规则。必需批准：是。限制推送：是。",
+     "terms": [
+      "protected branch",
+      "branch protection rule",
+      "required approval",
+      "restrict pushes",
+      "signed commit",
+      "security policy"
+     ]
+    },
+    {
+     "en": "The person who fell is okay — just a sprained ankle. I write: 'Day 18 — encryption is a lock. Backup is a spare key. Protected branches are safety rails. Emergencies test your preparation.' The emergency reminded me: preparedness matters more than prevention. Data backup won't stop a fire. But it means you can restore data after one. Branch protection won't stop all bugs. But it means someone reviews before production.",
+     "zh": "摔倒的人没事——只是扭了脚踝。我写：'第十八天——加密是一把锁。备份是备用钥匙。受保护分支是安全栏杆。紧急情况考验你的准备。'这次紧急情况提醒我：准备比预防更重要。数据备份不能阻止火灾。但意味着火灾后你能恢复数据。分支保护不能阻止所有 bug。但意味着上线前有人评审。",
+     "terms": [
+      "data backup",
+      "restore data",
+      "branch protection rule"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Our First Release",
@@ -191,7 +901,47 @@
    "life_en": "I have a different view, and I say it politely.",
    "life_zh": "我有不同的看法，我礼貌地说了出来。",
    "close_en": "The release is out. Users can see the new feature.",
-   "close_zh": "版本发布了。用户能看到新功能了。"
+   "close_zh": "版本发布了。用户能看到新功能了。",
+   "tales": [
+    {
+     "en": "Day nineteen enters the cloud. \"A cloud service provides computing over the internet,\" Maria says. \"A virtual server runs in the cloud. A container packages your app. A container image is the template. The host machine runs containers. You start a container with one command.\" In a team discussion, opinions diverge. \"I see your point,\" I say. \"I have a different view. Could we look at another option?\" \"I'm not sure I agree. Let's compare the evidence.\" \"That sounds reasonable.\"",
+     "zh": "第十九天进入云。\"云服务通过互联网提供计算能力，\"Maria 说。\"虚拟服务器在云中运行。容器打包你的应用。容器镜像是模板。宿主机运行容器。一条命令启动容器。\"团队讨论中，观点分歧。\"我明白你的意思，\"我说。\"我有不同的看法。能看看另一个选项吗？\"\"我不确定我同意。让我们比较一下证据。\"\"听起来合理。\"",
+     "terms": [
+      "cloud service",
+      "virtual server",
+      "container",
+      "container image",
+      "host machine",
+      "start a container",
+      "I see your point.",
+      "I have a different view.",
+      "Could we look at another option?",
+      "I'm not sure I agree.",
+      "Let's compare the evidence.",
+      "That sounds reasonable."
+     ]
+    },
+    {
+     "en": "Release day approaches. \"A release is a version you ship,\" Leo announces. \"A release note describes what changed. A version tag marks the point. Semantic versioning uses major.minor.patch. A pre-release is for testing. You publish a release when it's ready.\" I watch the team prepare. The release note is clear. The version tag is set: v1.0.0. The pre-release tested fine. Now they publish a release. Version 1.0.0 is live.",
+     "zh": "发布日临近。\"发布是你交付的版本，\"Leo 宣布。\"发布说明描述变化。版本标记节点。语义化版本用主.次.补丁。预发布供测试。准备好了就发布。\"我看团队准备。发布说明很清晰。版本标签设定：v1.0.0。预发布测试正常。现在他们发布版本。1.0.0 上线了。",
+     "terms": [
+      "release",
+      "release note",
+      "version tag",
+      "semantic versioning",
+      "pre-release",
+      "publish a release"
+     ]
+    },
+    {
+     "en": "The release goes smoothly. I write: 'Day 19 — containers are lunchboxes for code. Cloud is someone else's computer. Releases are milestones you can point to.' The discussion about options resolved respectfully. Everyone's view was heard. That sounds reasonable became the consensus. In code and in conversation, hearing each other matters more than winning arguments. Three weeks down. The foundation is solid.",
+     "zh": "发布很顺利。我写：'第十九天——容器是代码的午餐盒。云是别人的计算机。发布是你可以指向的里程碑。'关于选项的讨论在尊重中解决了。每个人的观点都被听到了。听起来合理成了共识。在代码和对话中，倾听彼此比赢得争论更重要。三周过去。基础很稳固。",
+     "terms": [
+      "semantic versioning",
+      "publish a release"
+     ]
+    }
+   ]
   },
   {
    "title_en": "The Changelog",
@@ -201,7 +951,47 @@
    "life_en": "We compare two plans and choose one.",
    "life_zh": "我们比较了两个方案，选择了一个。",
    "close_en": "The changelog is clear. New users can understand it.",
-   "close_zh": "变更日志很清楚。新用户能看懂。"
+   "close_zh": "变更日志很清楚。新用户能看懂。",
+   "tales": [
+    {
+     "en": "Day twenty is about dependencies. \"A library is code you reuse,\" Maria says. \"A dependency is a library your project needs. A framework provides structure. A package is a bundle of code. A package manager installs packages. Dependency version matters — old versions break things.\" At lunch, I practise decision-making English. \"I prefer the first option,\" I say. \"I'd rather wait. This works better for me. The main reason is cost.\"",
+     "zh": "第二十天讲依赖。\"库是你复用的代码，\"Maria 说。\"依赖是你的项目需要的库。框架提供结构。包是一组代码。包管理器安装包。依赖版本很重要——旧版本会出问题。\"午餐时，我练决策英语。\"我更喜欢第一个选项，\"我说。\"我宁愿等等。这个对我来说更好。主要原因是成本。\"",
+     "terms": [
+      "library",
+      "dependency",
+      "framework",
+      "package",
+      "package manager",
+      "dependency version",
+      "I prefer the first option.",
+      "I'd rather wait.",
+      "This works better for me.",
+      "The main reason is ..."
+     ]
+    },
+    {
+     "en": "Changelog day. \"A changelog records every change,\" Leo says. \"A breaking change forces users to update. A new feature adds capability. A bug fix entry documents fixes. A deprecation notice warns about removal. A release summary wraps it all up.\" I read our latest changelog. \"It depends on the situation,\" I say about a disputed entry. \"Let's choose this one.\" We agree on the wording.",
+     "zh": "变更日志日。\"变更日志记录每次变化，\"Leo 说。\"破坏性变更迫使用户更新。新功能增加能力。缺陷修复条目记录修复。弃用通知警告移除。发布摘要收尾。\"我读了最新的变更日志。\"这取决于情况，\"我对一个有争议的条目说。\"我们选这个吧。\"我们对措辞达成一致。",
+     "terms": [
+      "changelog",
+      "breaking change",
+      "new feature",
+      "bug fix entry",
+      "deprecation notice",
+      "release summary",
+      "It depends on the situation.",
+      "Let's choose this one."
+     ]
+    },
+    {
+     "en": "Dependencies are like relationships — some are healthy, some are toxic. I write: 'Day 20 — choose dependencies carefully. A package manager is your shopping list. Breaking changes are promises you shouldn't make lightly.' It depends on the situation has become my default response to complex questions. But sometimes you just need to choose this one and move forward. Three weeks complete. Seventy words of vocabulary. Countless cups of coffee. One functioning app.",
+     "zh": "依赖就像关系——有些健康，有些有毒。我写：'第二十天——谨慎选择依赖。包管理器是你的购物清单。破坏性变更是不应该轻易许下的承诺。'取决于情况已经成了我对复杂问题的默认回应。但有时你只需要选这个然后向前走。三周完成。七十个词汇。无数杯咖啡。一个能运行的应用。",
+     "terms": [
+      "package manager",
+      "breaking change"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Fixing a Wrong Commit",
@@ -211,7 +1001,48 @@
    "life_en": "The sink at home is leaking. I call for help.",
    "life_zh": "家里的水槽漏水了。我打电话求助。",
    "close_en": "I revert the commit and make a clean one. The history is safe.",
-   "close_zh": "我还原了那次提交，重新做了一个干净的提交。历史是安全的。"
+   "close_zh": "我还原了那次提交，重新做了一个干净的提交。历史是安全的。",
+   "tales": [
+    {
+     "en": "Day twenty-one covers git states. \"The working tree is what you see now,\" Maria says. \"A staged change is ready to commit. An unstaged change is not. A tracked file is in git. An untracked file is new. A clean state means nothing is pending.\" Then a home emergency: \"The sink is leaking!\" I call the landlord. \"The light isn't working either. Could someone repair it? When can the technician come?\"",
+     "zh": "第二十一天讲 git 状态。\"工作树是你现在看到的，\"Maria 说。\"已暂存改动准备提交。未暂存改动还没有。已跟踪文件在 git 里。未跟踪文件是新的。干净状态意味着没有待处理的。\"然后家里出了紧急情况。\"水槽漏水了！\"我打给房东。\"灯也不亮了。能找人修吗？技师什么时候能来？\"",
+     "terms": [
+      "working tree",
+      "staged change",
+      "unstaged change",
+      "tracked file",
+      "untracked file",
+      "clean state",
+      "The sink is leaking.",
+      "The light isn't working.",
+      "Could someone repair it?",
+      "When can the technician come?"
+     ]
+    },
+    {
+     "en": "\"The problem is getting worse,\" I tell the landlord. \"It's working again now,\" I say later, relieved. Meanwhile, git surgery: \"You amend a commit to fix the last one. You revert a commit to undo it safely. You reset a branch to move backwards. You discard changes to start fresh. You restore a file from history. Never force push to shared branches.\" I practise each one on a test repo.",
+     "zh": "\"问题越来越严重了，\"我跟房东说。\"现在又能用了，\"我后来松了口气说。与此同时，git 手术：\"你修改提交来修复最近一次。你还原提交来安全撤销。你重置分支来回退。你丢弃改动重新开始。你恢复文件从历史。永远不要向共享分支强制推送。\"我在测试仓库上每个都练了。",
+     "terms": [
+      "The problem is getting worse.",
+      "It's working again now.",
+      "amend a commit",
+      "revert a commit",
+      "reset a branch",
+      "discard changes",
+      "restore a file",
+      "force push"
+     ]
+    },
+    {
+     "en": "Git states and home repairs share a truth: know your current state before you act. Clean state in git. Dry floor at home. I write: 'Day 21 — staged is ready, unstaged is not. Amend fixes the last commit. Revert undoes safely. Force push is dangerous.' The technician fixed the sink. The light works again. My branch history is clean. Three weeks and one day. Every day adds a layer.",
+     "zh": "git 状态和家务修理共享一个真理：行动之前先了解当前状态。git 干净状态。家里地板干了。我写：'第二十一天——已暂存是准备好，未暂存还没有。修改修复最近提交。还原安全撤销。强制推送很危险。'技师修好了水槽。灯也亮了。我的分支历史干净。三周零一天。每天加一层。",
+     "terms": [
+      "clean state",
+      "amend a commit",
+      "revert a commit"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Reproduce the Problem",
@@ -221,7 +1052,48 @@
    "life_en": "My package is late. I call customer service.",
    "life_zh": "我的包裹迟到了。我打了客服电话。",
    "close_en": "I write the steps to reproduce. Now the team can see the bug.",
-   "close_zh": "我写下了复现步骤。现在团队能看到这个缺陷了。"
+   "close_zh": "我写下了复现步骤。现在团队能看到这个缺陷了。",
+   "tales": [
+    {
+     "en": "Day twenty-two goes into errors. \"An exception is an error you can catch,\" Maria says. \"A stack trace shows the call path. The error type tells you the category. The line number shows where. You catch an exception with try-catch. You handle an error gracefully.\" Then a phone call: \"I'm calling about my order. My order hasn't arrived. Could you check the status? The problem started yesterday. I've already tried that. What should I do next?\"",
+     "zh": "第二十二天深入错误。\"异常是你可以捕获的错误，\"Maria 说。\"堆栈跟踪显示调用路径。错误类型告诉你类别。行号显示位置。你用 try-catch 捕获异常。你优雅地处理错误。\"然后一个电话：\"我打电话是关于我的订单。订单还没到。能查一下状态吗？问题从昨天开始。我已经试过了。下一步该怎么办？\"",
+     "terms": [
+      "exception",
+      "stack trace",
+      "error type",
+      "line number",
+      "catch an exception",
+      "handle an error",
+      "I'm calling about ...",
+      "My order hasn't arrived.",
+      "Could you check the status?",
+      "The problem started yesterday.",
+      "I've already tried that.",
+      "What should I do next?"
+     ]
+    },
+    {
+     "en": "Issue templates appear. \"An issue template guides reporters,\" Leo says. \"Steps to reproduce help developers. Expected behavior vs actual behavior shows the gap. A minimal example isolates the problem. Environment details provide context.\" I create my first issue using the template. Steps to reproduce: clear. Expected behavior: data loads. Actual behavior: error appears. Environment details: Chrome, Windows 11.",
+     "zh": "问题单模板出现了。\"问题单模板引导报告者，\"Leo 说。\"复现步骤帮助开发者。预期行为对比实际行为显示差距。最小示例隔离问题。环境详情提供上下文。\"我用模板创建了我的第一个问题单。复现步骤：清楚。预期行为：数据加载。实际行为：出现错误。环境详情：Chrome，Windows 11。",
+     "terms": [
+      "issue template",
+      "steps to reproduce",
+      "expected behavior",
+      "actual behavior",
+      "minimal example",
+      "environment details"
+     ]
+    },
+    {
+     "en": "Error handling and customer service share DNA. Both need: what happened, what was expected, what steps to take next. I write: 'Day 22 — a stack trace is a treasure map. Steps to reproduce are the directions. Expected vs actual behavior is the gap analysis.' The customer service agent resolved my order issue. I resolved my first exception. Both of us followed the same process: identify, investigate, resolve.",
+     "zh": "错误处理和客服共享 DNA。都需要：发生了什么、期望是什么、下一步怎么做。我写：'第二十二天——堆栈跟踪是藏宝图。复现步骤是方向。预期对比实际是差距分析。'客服解决了我的订单问题。我解决了我第一个异常。我们都遵循了同样的流程：识别、调查、解决。",
+     "terms": [
+      "stack trace",
+      "steps to reproduce",
+      "expected behavior"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Words for Review",
@@ -231,7 +1103,48 @@
    "life_en": "The deadline is close, and I ask for one more day.",
    "life_zh": "截止时间快到了，我请求多一天。",
    "close_en": "My comments are kind and clear. The team thanks me.",
-   "close_zh": "我的评论友善而清楚。团队向我道谢。"
+   "close_zh": "我的评论友善而清楚。团队向我道谢。",
+   "tales": [
+    {
+     "en": "Day twenty-three measures performance. \"Performance is how fast,\" Maria says. \"Latency is delay. A cache speeds things up. A cache hit means found it. A cache miss means not found. Response time is total duration.\" At the code review: \"Looks good to me,\" Leo says. \"Could you clarify this part?\" I explain. \"Please add a test.\" I add one. \"This may cause an error.\" I fix it. \"Consider renaming this variable.\" I rename it. \"Thanks for the update!\"",
+     "zh": "第二十三天衡量性能。\"性能是快不快，\"Maria 说。\"延迟是等待。缓存加速。缓存命中表示找到了。缓存未命中表示没有。响应时间是总时长。\"代码评审时：\"我觉得没问题，\"Leo 说。\"能说明一下这部分吗？\"我解释。\"请加个测试。\"我加了。\"这可能引起错误。\"我修了。\"考虑重命名这个变量。\"我重命名了。\"谢谢更新！\"",
+     "terms": [
+      "performance",
+      "latency",
+      "cache",
+      "cache hit",
+      "cache miss",
+      "response time",
+      "Looks good to me.",
+      "Could you clarify this part?",
+      "Please add a test.",
+      "This may cause an error.",
+      "Consider renaming this variable.",
+      "Thanks for the update."
+     ]
+    },
+    {
+     "en": "Decision-making day. \"What are the main differences?\" Priya asks about two tools. \"This one is more reliable. The other option is cheaper. What are the trade-offs? I need time to decide. Let's review the facts.\" We list pros and cons. We discuss trade-offs. I need time to decide becomes I've made my decision. The facts spoke for themselves.",
+     "zh": "决策日。\"主要区别是什么？\"Priya 问关于两个工具。\"这个更可靠。另一个更便宜。有哪些取舍？我需要时间决定。让我们回顾事实。\"我们列了优缺点。讨论了取舍。我需要时间决定变成了我决定了。事实不言自明。",
+     "terms": [
+      "What are the main differences?",
+      "This one is more reliable.",
+      "The other option is cheaper.",
+      "What are the trade-offs?",
+      "I need time to decide.",
+      "Let's review the facts."
+     ]
+    },
+    {
+     "en": "Performance and decisions both need data. A cache hit is a quick answer. A cache miss requires more work. Good decisions need good data too. I write: 'Day 23 — latency is waiting time. Cache is pre-computed answers. Looks good to me means I've reviewed it. Trade-offs are the costs you accept.' The review phrases are becoming natural: Please add a test. Consider renaming. Thanks for the update. Each one is short, kind, and useful.",
+     "zh": "性能和决策都需要数据。缓存命中是快速回答。缓存未命中需要更多工作。好的决策也需要好数据。我写：'第二十三天——延迟是等待时间。缓存是预计算的答案。我觉得没问题表示已评审。取舍是你接受的代价。'评审短语越来越自然了：请加个测试。考虑重命名。谢谢更新。每一条都简短、友善、有用。",
+     "terms": [
+      "cache",
+      "response time",
+      "Looks good to me."
+     ]
+    }
+   ]
   },
   {
    "title_en": "Choosing How to Merge",
@@ -241,7 +1154,48 @@
    "life_en": "We compare two options and make a decision.",
    "life_zh": "我们比较了两个选项，做出了决定。",
    "close_en": "We squash the small commits. The history is clean.",
-   "close_zh": "我们压缩了小提交。历史变得干净了。"
+   "close_zh": "我们压缩了小提交。历史变得干净了。",
+   "tales": [
+    {
+     "en": "Day twenty-four handles timeouts and schedules. \"A timeout is a maximum wait,\" Maria says. \"A retry tries again. A connection failure means you can't reach the server. A retry limit stops infinite loops. A backoff delay increases wait time. A network interruption is temporary.\" Then the schedule: \"The deadline is Friday. We're behind schedule. I need an extension. The task is taking longer than expected. I'll update you tomorrow. Thank you for your patience.\"",
+     "zh": "第二十四天讲超时和日程。\"超时是最长等待，\"Maria 说。\"重试再试一次。连接失败意味着无法到达服务器。重试上限阻止无限循环。退避延迟增加等待时间。网络中断是暂时的。\"然后是日程：\"截止日期是周五。我们落后了。我需要延期。任务比预期花了更长时间。我明天更新你。谢谢你的耐心。",
+     "terms": [
+      "timeout",
+      "retry",
+      "connection failure",
+      "retry limit",
+      "backoff delay",
+      "network interruption",
+      "The deadline is Friday.",
+      "We're behind schedule.",
+      "I need an extension.",
+      "The task is taking longer than expected.",
+      "I'll update you tomorrow.",
+      "Thank you for your patience."
+     ]
+    },
+    {
+     "en": "Merge strategies appear. \"Squash and merge combines all commits into one,\" Leo says. \"Rebase and merge replays them on top. A merge commit has two parents. Squash commits means combine them. Rebase a branch replays on new base. Linear history has no merge commits.\" I look at the options. Squash and merge keeps things clean. Rebase and merge preserves each step. Linear history is tidy but requires discipline.",
+     "zh": "合并策略出现了。\"压缩并合并把所有提交合成一个，\"Leo 说。\"变基并合并在新基上重放。合并提交有两个父提交。压缩提交就是合并它们。变基分支在新基上重放。线性历史没有合并提交。\"我看选项。压缩并合并保持干净。变基并合并保留每步。线性历史整洁但需要纪律。",
+     "terms": [
+      "squash and merge",
+      "rebase and merge",
+      "merge commit",
+      "squash commits",
+      "rebase a branch",
+      "linear history"
+     ]
+    },
+    {
+     "en": "Timeouts and deadlines share a philosophy: set boundaries, respect them. A timeout says: no more waiting. A deadline says: no more extensions. I write: 'Day 24 — retry with backoff. Merge with strategy. Deadlines need extensions sometimes, and that's okay.' Thank you for your patience has become my most-used phrase. Not just at work — in life. Learning takes patience. Networks take patience. I have patience. Some days more than others.",
+     "zh": "超时和截止日期共享一个哲学：设定边界，尊重边界。超时说：不再等待。截止日期说：不再延期。我写：'第二十四天——带退避地重试。有策略地合并。截止日期有时需要延期，没关系。'谢谢你的耐心已经成了我最常用的短语。不只在工作中——在生活中。学习需要耐心。网络需要耐心。我有耐心。有时多一点，有时少一点。",
+     "terms": [
+      "timeout",
+      "backoff delay",
+      "linear history"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Discuss Before We Build",
@@ -251,7 +1205,47 @@
    "life_en": "I am not completely sure, and I say so.",
    "life_zh": "我不是完全确定，我如实说了。",
    "close_en": "The discussion becomes a decision record. We build next week.",
-   "close_zh": "讨论变成了一份决策记录。下周开始实现。"
+   "close_zh": "讨论变成了一份决策记录。下周开始实现。",
+   "tales": [
+    {
+     "en": "Day twenty-five introduces AI. \"An AI model is a system that learns patterns,\" Maria says. \"A prompt is your instruction. A context window is what the model can see. A system instruction sets the role. A user message is your input. A model response is the output.\" Then uncertainty vocabulary: \"I'm not completely sure. As far as I know ... It seems likely that ... I may be mistaken. Let me check first. The evidence is limited.\"",
+     "zh": "第二十五天引入 AI。\"AI 模型是学习Pattern的系统，\"Maria 说。\"提示词是你的指令。上下文窗口是模型能看到的。系统指令设定角色。用户消息是你的输入。模型响应是输出。\"然后是不确定性词汇：\"我不完全确定。据我所知……看起来可能……我可能弄错了。让我先确认一下。证据有限。",
+     "terms": [
+      "AI model",
+      "prompt",
+      "context window",
+      "system instruction",
+      "user message",
+      "model response",
+      "I'm not completely sure.",
+      "As far as I know ...",
+      "It seems likely that ...",
+      "I may be mistaken.",
+      "Let me check first.",
+      "The evidence is limited."
+     ]
+    },
+    {
+     "en": "GitHub Discussions appear. \"A GitHub Discussion is for open conversation,\" Priya says. \"A request for comments invites feedback. A design proposal describes a plan. An open question needs answers. A decision record stores conclusions. A technical discussion explores options.\" I read the team's decision records. Each one follows a format: context, options, decision, consequences.",
+     "zh": "GitHub 讨论区出现了。\"GitHub 讨论区用于开放对话，\"Priya 说。\"征求意见邀请反馈。设计提案描述计划。开放问题需要答案。决策记录存储结论。技术讨论探索选项。\"我读了团队的决策记录。每个都遵循格式：背景、选项、决定、后果。",
+     "terms": [
+      "GitHub Discussion",
+      "request for comments",
+      "design proposal",
+      "open question",
+      "decision record",
+      "technical discussion"
+     ]
+    },
+    {
+     "en": "AI and uncertainty share a theme: honesty about what you know. I'm not completely sure is braver than pretending. The evidence is limited is more honest than overclaiming. I write: 'Day 25 — prompts are questions. Context windows are room sizes. Decision records are receipts for your thinking.' The evidence is limited. But the learning is not. Twenty-five days. Four hundred and fifty vocabulary words. One hundred and fifty paragraphs.",
+     "zh": "AI 和不确定性共享一个主题：对所知保持诚实。我不完全确定比假装确定更勇敢。证据有限比过度声称更诚实。我写：'第二十五天——提示词是问题。上下文窗口是房间大小。决策记录是思考的收据。'证据是有限的。但学习不是。二十五天。四百五十个词汇。一百五十段。",
+     "terms": [
+      "prompt",
+      "decision record"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Cite Your Sources",
@@ -261,7 +1255,48 @@
    "life_en": "We talk about a piece of news at lunch.",
    "life_zh": "午饭时，我们讨论了一条新闻。",
    "close_en": "Every claim now links to a source. The note is strong.",
-   "close_zh": "每个说法现在都有来源链接。这份笔记很扎实。"
+   "close_zh": "每个说法现在都有来源链接。这份笔记很扎实。",
+   "tales": [
+    {
+     "en": "Day twenty-six goes deeper into AI. \"Training data is what the model learned from,\" Maria says. \"Model training adjusts the model. Inference is when it generates. A hallucination is a confident wrong answer. A confidence level measures certainty. Verify the answer independently.\" Then media vocabulary: \"I read that article. According to the report ... What's your opinion? I agree with that point. I see it differently. We need more information.\"",
+     "zh": "第二十六天深入 AI。\"训练数据是模型学习的来源，\"Maria 说。\"模型训练调整模型。推理是生成的时候。幻觉是自信的错误答案。置信度衡量确定程度。独立验证答案。\"然后是媒体词汇：\"我读了那篇文章。根据报告……你的看法是什么？我同意那一点。我的看法不同。我们需要更多信息。",
+     "terms": [
+      "training data",
+      "model training",
+      "inference",
+      "hallucination",
+      "confidence level",
+      "verify the answer",
+      "I read that ...",
+      "According to the report ...",
+      "What's your opinion?",
+      "I agree with that point.",
+      "I see it differently.",
+      "We need more information."
+     ]
+    },
+    {
+     "en": "Documentation vocabulary appears. \"Link to documentation for details,\" Leo says. \"Cite a source when you claim something. Reference an issue to link context. Link a commit to show the change. A permanent link won't break. A documentation page explains everything.\" I add links to my latest PR. Each claim gets a source. Each reference gets a link.",
+     "zh": "文档词汇出现了。\"链接到文档获取详情，\"Leo 说。\"声称什么就引用来源。引用问题单来关联上下文。链接提交来展示变化。永久链接不会失效。文档页面解释一切。\"我在最新 PR 里加了链接。每个说法有来源。每个引用有链接。",
+     "terms": [
+      "link to documentation",
+      "cite a source",
+      "reference an issue",
+      "link a commit",
+      "permanent link",
+      "documentation page"
+     ]
+    },
+    {
+     "en": "AI literacy and information literacy are the same skill: trust but verify. Hallucinations look like facts. Reports look like truth. I write: 'Day 26 — training data has a cut-off date. Inference is prediction, not truth. Verify the answer. Cite a source. Link to documentation.' We need more information should be the default response to any claim. I agree with that point only after verification. The evidence leads; I follow.",
+     "zh": "AI 素养和信息素养是同一技能：信任但要验证。幻觉看起来像事实。报告看起来像真相。我写：'第二十六天——训练数据有截止日期。推理是预测不是真相。验证答案。引用来源。链接到文档。'我们需要更多信息应该是对任何声称的默认回应。验证之后才同意那一点。证据引路；我跟随。",
+     "terms": [
+      "hallucination",
+      "verify the answer",
+      "cite a source"
+     ]
+    }
+   ]
   },
   {
    "title_en": "The Security Alert",
@@ -271,7 +1306,48 @@
    "life_en": "I check a strange charge at the bank.",
    "life_zh": "我在银行核查了一笔可疑的扣款。",
    "close_en": "We update the dependency. The alert is resolved.",
-   "close_zh": "我们更新了依赖。警报解除了。"
+   "close_zh": "我们更新了依赖。警报解除了。",
+   "tales": [
+    {
+     "en": "Day twenty-seven covers security threats. \"Phishing is fake messages that steal data,\" Maria warns. \"Malware is harmful software. A security patch fixes vulnerabilities. A suspicious link might be dangerous. Antivirus software protects you. Update immediately when patches arrive.\" Then banking English: \"I'd like to transfer money. Has the payment gone through? I don't recognize this charge. My card was declined. Could you freeze the card? Please send me a confirmation.\"",
+     "zh": "第二十七天涵盖安全威胁。\"钓鱼是窃取数据的假消息，\"Maria 警告。\"恶意软件是有害软件。安全补丁修复漏洞。可疑链接可能危险。杀毒软件保护你。补丁到了就立即更新。\"然后是银行英语：\"我想转账。付款成功了吗？我不认识这笔扣款。我的卡被拒了。能冻结这张卡吗？请给我发确认。",
+     "terms": [
+      "phishing",
+      "malware",
+      "security patch",
+      "suspicious link",
+      "antivirus software",
+      "update immediately",
+      "I'd like to transfer money.",
+      "Has the payment gone through?",
+      "I don't recognize this charge.",
+      "My card was declined.",
+      "Could you freeze the card?",
+      "Please send me a confirmation."
+     ]
+    },
+    {
+     "en": "Security alerts arrive. \"A security advisory warns about vulnerabilities,\" Leo says. \"A Dependabot alert flags risky dependencies. A vulnerable dependency needs updating. A security update fixes it. A private vulnerability report is confidential. A patched version is safe to use.\" I check our alerts. One vulnerable dependency. I update it. The alert clears.",
+     "zh": "安全警报到了。\"安全公告警告漏洞，\"Leo 说。\"Dependabot 警报标记危险依赖。易受攻击的依赖需要更新。安全更新修复它。私密漏洞报告是保密的。已修补版本可以安全使用。\"我检查了我们的警报。一个易受攻击的依赖。我更新了它。警报解除。",
+     "terms": [
+      "security advisory",
+      "Dependabot alert",
+      "vulnerable dependency",
+      "security update",
+      "private vulnerability report",
+      "patched version"
+     ]
+    },
+    {
+     "en": "Phishing in email, vulnerabilities in code — both exploit trust. I write: 'Day 27 — a suspicious link is a lock without a key. A security patch is the key maker. Update immediately. Don't click. Don't delay.' My card was declined at lunch — I called the bank, froze the card, and got a confirmation. Not a real emergency, but I knew what to say. That's what learning does: it prepares you for moments you hope never come.",
+     "zh": "邮件里的钓鱼，代码里的漏洞——都在利用信任。我写：'第二十七天——可疑链接是没有钥匙的锁。安全补丁是制钥人。立即更新。不要点击。不要延迟。'午餐时卡被拒了——我打给银行，冻结了卡，拿到确认。不是真正的紧急情况，但我知道该说什么。这就是学习的意义：为你希望永远不来的时刻做准备。",
+     "terms": [
+      "suspicious link",
+      "security patch",
+      "update immediately"
+     ]
+    }
+   ]
   },
   {
    "title_en": "Welcoming Contributors",
@@ -281,7 +1357,47 @@
    "life_en": "Everyone is welcome here, and we keep the talk respectful.",
    "life_zh": "这里欢迎每个人，我们让讨论保持尊重。",
    "close_en": "The guide is clear. The first outside contribution is merged.",
-   "close_zh": "指南很清楚。第一个外部贡献合并了。"
+   "close_zh": "指南很清楚。第一个外部贡献合并了。",
+   "tales": [
+    {
+     "en": "Day twenty-eight celebrates open source. \"Open source means anyone can see and use the code,\" Maria says. \"A software license defines the rules. A contributor adds code. A contribution is each addition. Maintainership is long-term responsibility. A community guideline sets behaviour standards.\" The team echoes: \"Thanks for sharing. Could you explain your idea? Please be respectful. I appreciate your feedback. Let's keep the discussion focused. Everyone is welcome here.\"",
+     "zh": "第二十八天庆祝开源。\"开源意味着任何人都可以查看和使用代码，\"Maria 说。\"软件许可证定义规则。贡献者添加代码。贡献是每次添加。维护职责是长期责任。社区准则设定行为标准。\"团队附和着：\"谢谢分享。能解释一下你的想法吗？请保持尊重。感谢你的反馈。让讨论保持聚焦。这里欢迎每个人。",
+     "terms": [
+      "open source",
+      "software license",
+      "contributor",
+      "contribution",
+      "maintainership",
+      "community guideline",
+      "Thanks for sharing.",
+      "Could you explain your idea?",
+      "Please be respectful.",
+      "I appreciate your feedback.",
+      "Let's keep the discussion focused.",
+      "Everyone is welcome here."
+     ]
+    },
+    {
+     "en": "Contributor files appear. \"A CONTRIBUTING guide tells people how to help,\" Leo says. \"A CODEOWNERS file lists who reviews what. A contribution guideline adds details. A pull request template structures proposals. A code of conduct sets rules. A maintainer review is the final check.\" I read them all. Clear, kind, and professional. Open source is community with guardrails.",
+     "zh": "贡献者文件出现了。\"贡献指南告诉人们怎么帮忙，\"Leo 说。\"CODEOWNERS 文件列出谁评审什么。贡献规则补充细节。拉取请求模板结构化提案。行为准则设定规则。维护者评审是最终检查。\"我读了全部。清晰、友善、专业。开源是有护栏的社区。",
+     "terms": [
+      "CONTRIBUTING guide",
+      "CODEOWNERS file",
+      "contribution guideline",
+      "pull request template",
+      "code of conduct",
+      "maintainer review"
+     ]
+    },
+    {
+     "en": "Open source is a mirror of good teamwork. Thanks for sharing. Please be respectful. I appreciate your feedback. Everyone is welcome here. These phrases work in any community — code or not. I write: 'Day 28 — a software license is a promise. A code of conduct is a social contract. A maintainer review is quality control with kindness.' Four weeks complete. The contributions I've made feel small but real. Like drops of water filling a jar.",
+     "zh": "开源是良好团队合作的镜子。谢谢分享。请保持尊重。感谢反馈。欢迎每个人。这些短语在任何社区都适用——代码内外。我写：'第二十八天——软件许可证是承诺。行为准则是社会契约。维护者评审是带着善意的质量控制。'四周完成。我做的贡献感觉很小但真实。像水滴填满罐子。",
+     "terms": [
+      "code of conduct",
+      "maintainer review"
+     ]
+    }
+   ]
   },
   {
    "title_en": "The Release Checklist",
@@ -291,7 +1407,47 @@
    "life_en": "I practice my short presentation for the team.",
    "life_zh": "我为团队演练了我的简短介绍。",
    "close_en": "The checklist is done. The rollback plan is ready too.",
-   "close_zh": "检查表完成了。回滚方案也准备好了。"
+   "close_zh": "检查表完成了。回滚方案也准备好了。",
+   "tales": [
+    {
+     "en": "Day twenty-nine goes live. \"Deployment is putting code into production,\" Maria says. \"Monitoring watches it. A health check confirms it works. A rollback undoes problems. The production environment is where users live. A service outage is when it breaks.\" Then presentation practice: \"Today I'd like to present our progress. The goal of this project is to improve onboarding. Here is the main result. This chart shows our improvement. One limitation is the sample size. My recommendation is to continue.\"",
+     "zh": "第二十九天上线。\"部署是把代码放到生产环境，\"Maria 说。\"监控盯着它。健康检查确认正常。回滚撤销问题。生产环境是用户所在。服务中断是坏掉的时候。\"然后演示练习：\"今天我想展示我们的进展。这个项目的目标是改善入职体验。这是主要结果。这张图展示了我们的提升。一个局限是样本量。我的建议是继续。",
+     "terms": [
+      "deployment",
+      "monitoring",
+      "health check",
+      "rollback",
+      "production environment",
+      "service outage",
+      "Today I'd like to present ...",
+      "The goal of this project is ...",
+      "Here is the main result.",
+      "This chart shows ...",
+      "One limitation is ...",
+      "My recommendation is ..."
+     ]
+    },
+    {
+     "en": "Release infrastructure appears. \"A release branch holds release work,\" Leo says. \"A deployment approval is a human check. A production deploy goes to real users. A rollback plan prepares for problems. A release checklist prevents mistakes. A post-release check confirms health.\" I read the checklist. Twenty items. Each one prevents a potential disaster.",
+     "zh": "发布基础设施出现了。\"发布分支保存发布工作，\"Leo 说。\"部署批准是人工检查。生产部署面向真实用户。回滚预案为问题做准备。发布检查表防止遗漏。发布后检查确认健康。\"我读了检查表。二十项。每项防止一个潜在灾难。",
+     "terms": [
+      "release branch",
+      "deployment approval",
+      "production deploy",
+      "rollback plan",
+      "release checklist",
+      "post-release check"
+     ]
+    },
+    {
+     "en": "Presentation day. I stand up. \"Today I'd like to present our month-one progress. The goal of this project is to improve user onboarding. Here is the main result: activation improved 20%. This chart shows the trend. One limitation is the small sample size. My recommendation is to continue with the current approach.\" I sit down. Applause. Maria nods. My recommendation is to continue — and so we shall. Day twenty-nine complete.",
+     "zh": "演示日。我站起来。\"今天我想展示我们第一个月的进展。这个项目的目标是改善用户引导。这是主要结果：激活率提升了 20%。这张图展示了趋势。一个局限是样本量小。我的建议是继续目前的方法。\"我坐下。掌声。Maria 点头。我的建议是继续——我们也会这样做。第二十九天完成。",
+     "terms": [
+      "The goal of this project is ...",
+      "My recommendation is ..."
+     ]
+    }
+   ]
   },
   {
    "title_en": "The Month Review",
@@ -301,7 +1457,46 @@
    "life_en": "I say what I learned and what I will improve.",
    "life_zh": "我说了自己学到的，还要改进的。",
    "close_en": "The project update is clear. Next month, I am ready for more.",
-   "close_zh": "项目更新很清楚。下个月，我准备好了更多。"
+   "close_zh": "项目更新很清楚。下个月，我准备好了更多。",
+   "tales": [
+    {
+     "en": "Day thirty: the final day of month one. \"System architecture is the big picture,\" Maria says. \"Data flow shows movement. An interface is a contract. A component is a building block. A dependency graph shows connections. A design boundary separates concerns.\" Then reflection vocabulary: \"This month I learned so much. The hardest part was debugging. I'm proud that I never gave up. I still need to improve my speaking. Next month I will focus on testing. My next small step is to write more tests.\"",
+     "zh": "第三十天：第一个月的最后一天。\"系统架构是全局图景，\"Maria 说。\"数据流展示移动。接口是契约。组件是积木。依赖图显示连接。设计边界分离关注点。\"然后是反思词汇：\"这个月我学到了很多。最难的部分是调试。我自豪的是从未放弃。我还需要提高口语。下个月我要专注测试。我的下一个小步骤是多写测试。",
+     "terms": [
+      "system architecture",
+      "data flow",
+      "interface",
+      "component",
+      "dependency graph",
+      "design boundary",
+      "This month I learned ...",
+      "The hardest part was ...",
+      "I'm proud that ...",
+      "I still need to improve ...",
+      "Next month I will ...",
+      "My next small step is ..."
+     ]
+    },
+    {
+     "en": "The final project update. \"A project update shares progress,\" Leo says. \"Completed work shows what's done. The current blocker is what's stuck. The next action is what's next. Lessons learned are insights. A follow-up issue captures future work.\" I present to the team. \"Completed work: the onboarding feature is live. Current blocker: none. Next action: monitor user feedback. Lessons learned: always test before deploying.\"",
+     "zh": "最终项目更新。\"项目更新分享进展，\"Leo 说。\"已完成工作展示成果。当前阻碍是卡住的事。下一步行动是接下来做的。经验教训是洞察。后续问题单记录未来工作。\"我向团队汇报。\"已完成工作：引导功能已上线。当前阻碍：无。下一步行动：监控用户反馈。经验教训：部署前一定要测试。",
+     "terms": [
+      "project update",
+      "completed work",
+      "current blocker",
+      "next action",
+      "lessons learned",
+      "follow-up issue"
+     ]
+    },
+    {
+     "en": "Thirty days. One hundred and eighty paragraphs. Five hundred and forty vocabulary words. Six languages of code. One exhausted but proud developer. I close my notebook and look at the wall. My sticky notes form a timeline: Day 1, Day 5, Day 12, Day 21, Day 30. Each note is a milestone. Each milestone is a door. Behind each door is more learning. I close the notebook, open my laptop, and type: git commit -m 'Month 1 complete.' The terminal responds: done. So am I. For today.",
+     "zh": "三十天。一百八十段。五百四十个词汇。六种代码语言。一个疲惫但自豪的开发者。我合上笔记本看着墙。便利贴组成时间线：第一天、第五天、第十二天、第二十一天、第三十天。每张便签是一个里程碑。每个里程碑是一扇门。每扇门后面是更多学习。我合上笔记本，打开电脑，输入：git commit -m '第一个月完成。' 终端回应：完成。我也是。今天而言。",
+     "terms": [
+      "lessons learned"
+     ]
+    }
+   ]
   }
  ]
 }

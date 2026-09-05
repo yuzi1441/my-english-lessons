@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 320,
-   "segment_count": 3,
+   "word_count": 381,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The draft service and the chat service need to talk. I add the service boundary to my study notes before I forget it. I ask one good question about the api gateway in the meeting. I spend ten quiet minutes on the organization account after the standup. I go over the team page one more time before lunch. In the warm-up round, Leo says, \"I can't wait for the demo.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"That's fantastic news!\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
-   "tts": "The draft service and the chat service need to talk. I add the service boundary to my study notes before I forget it. I ask one good question about the api gateway in the meeting. I spend ten quiet minutes on the organization account after the standup. I go over the team page one more time before lunch. In the warm-up round, Leo says, \"I can't wait for the demo.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"That's fantastic news!\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "en": "The draft service and the chat service need to talk. I add the service boundary to my study notes before I forget it. I ask one good question about the organization account in the meeting. In the warm-up round, Priya says, \"I can't wait for the demo.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "The draft service and the chat service need to talk. I add the service boundary to my study notes before I forget it. I ask one good question about the organization account in the meeting. In the warm-up round, Priya says, \"I can't wait for the demo.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "草稿服务和聊天服务需要对话。我趁还没忘，把服务边界记进了学习笔记。会上关于API 网关，我问了一个好问题。站会之后，我安安静静花了十分钟在组织账号上。午饭前我又过了一遍团队页。热身环节里，Leo说：\"演示我等不及了。\"然后我们换角色，由我来问。热身环节里，Maria说：\"这消息太棒了！\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "草稿服务和聊天服务需要对话。我趁还没忘，把服务边界记进了学习笔记。会上关于组织账号，我问了一个好问题。热身环节里，Priya说：\"演示我等不及了。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "service boundary",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We draw the service boundary and agree the chat service stays idempotent. In the warm-up round, Leo says, \"I'm really into this project.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"It turned out amazing.\" Then we swap roles and I ask it back. Sam asks me about the service discovery, and I explain the basics. I keep one real example of the health endpoint in my notebook. There is a short paragraph about the org policy in the guide. My notes about the repository transfer look clearer this week. Small progress today prepares the bigger step tomorrow.",
-   "tts": "We draw the service boundary and agree the chat service stays idempotent. In the warm-up round, Leo says, \"I'm really into this project.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"It turned out amazing.\" Then we swap roles and I ask it back. Sam asks me about the service discovery, and I explain the basics. I keep one real example of the health endpoint in my notebook. There is a short paragraph about the org policy in the guide. My notes about the repository transfer look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "en": "We draw the service boundary and agree the chat service stays idempotent. In the warm-up round, Maria says, \"That's fantastic news!\" Then we swap roles and I ask it back. I spend ten quiet minutes on the api gateway after the standup. I go over the team page one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We draw the service boundary and agree the chat service stays idempotent. In the warm-up round, Maria says, \"That's fantastic news!\" Then we swap roles and I ask it back. I spend ten quiet minutes on the api gateway after the standup. I go over the team page one more time before lunch. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们画出了服务边界，并约定聊天服务保持幂等。热身环节里，Leo说：\"我特别喜欢这个项目。\"然后我们换角色，由我来问。热身环节里，Maria说：\"结果好得惊人。\"然后我们换角色，由我来问。Sam 问起服务发现，我讲了讲基础。我在笔记本里留了一个健康端点的真实例子。指南里有一小段关于组织政策的介绍。这周我关于仓库转移的笔记清楚多了。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们画出了服务边界，并约定聊天服务保持幂等。热身环节里，Maria说：\"这消息太棒了！\"然后我们换角色，由我来问。站会之后，我安安静静花了十分钟在API 网关上。午饭前我又过了一遍团队页。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "service discovery",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the member role to my study notes before I forget it. I ask one good question about the audit log in the meeting. I spend ten quiet minutes on the graceful shutdown after the standup. I go over the idempotent operation one more time before lunch. In the warm-up round, Priya says, \"I'm over the moon.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Count me in!\" Then we swap roles and I ask it back. A clear boundary is a kind promise between teams.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the member role to my study notes before I forget it. I ask one good question about the audit log in the meeting. I spend ten quiet minutes on the graceful shutdown after the standup. I go over the idempotent operation one more time before lunch. In the warm-up round, Priya says, \"I'm over the moon.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Count me in!\" Then we swap roles and I ask it back. A clear boundary is a kind promise between teams.",
+   "en": "We draw the service boundary and agree the chat service stays idempotent. Sam asks me about the org policy, and I explain the basics. I keep one real example of the service discovery in my notebook. In the warm-up round, Leo says, \"I'm really into this project.\" Then we swap roles and I ask it back. A clear boundary is a kind promise between teams.",
+   "tts": "We draw the service boundary and agree the chat service stays idempotent. Sam asks me about the org policy, and I explain the basics. I keep one real example of the service discovery in my notebook. In the warm-up round, Leo says, \"I'm really into this project.\" Then we swap roles and I ask it back. A clear boundary is a kind promise between teams.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把成员角色记进了学习笔记。会上关于审计日志，我问了一个好问题。站会之后，我安安静静花了十分钟在优雅停机上。午饭前我又过了一遍幂等操作。热身环节里，Priya说：\"我高兴坏了。\"然后我们换角色，由我来问。热身环节里，Leo说：\"算我一个！\"然后我们换角色，由我来问。清晰的边界是团队之间善意的承诺。",
+   "zh": "我们画出了服务边界，并约定聊天服务保持幂等。Sam 问起组织政策，我讲了讲基础。我在笔记本里留了一个服务发现的真实例子。热身环节里，Leo说：\"我特别喜欢这个项目。\"然后我们换角色，由我来问。清晰的边界是团队之间善意的承诺。",
    "hard": [
     {
      "w": "graceful shutdown",
@@ -146,6 +146,33 @@
      "def": "审计日志，记录组织重要操作的日志"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "A clear boundary is a kind promise between teams. There is a short paragraph about the health endpoint in the guide. In the warm-up round, Leo says, \"It turned out amazing.\" Then we swap roles and I ask it back. My notes about the repository transfer look clearer this week. I end the day with fewer unknowns than I started with.",
+   "tts": "A clear boundary is a kind promise between teams. There is a short paragraph about the health endpoint in the guide. In the warm-up round, Leo says, \"It turned out amazing.\" Then we swap roles and I ask it back. My notes about the repository transfer look clearer this week. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "清晰的边界是团队之间善意的承诺。指南里有一小段关于健康端点的介绍。热身环节里，Leo说：\"结果好得惊人。\"然后我们换角色，由我来问。这周我关于仓库转移的笔记清楚多了。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We draw the service boundary and agree the chat service stays idempotent. In the warm-up round, Maria says, \"I'm over the moon.\" Then we swap roles and I ask it back. I add the member role to my study notes before I forget it. I ask one good question about the graceful shutdown in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We draw the service boundary and agree the chat service stays idempotent. In the warm-up round, Maria says, \"I'm over the moon.\" Then we swap roles and I ask it back. I add the member role to my study notes before I forget it. I ask one good question about the graceful shutdown in the meeting. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们画出了服务边界，并约定聊天服务保持幂等。热身环节里，Maria说：\"我高兴坏了。\"然后我们换角色，由我来问。我趁还没忘，把成员角色记进了学习笔记。会上关于优雅停机，我问了一个好问题。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the audit log after the standup. I go over the idempotent operation one more time before lunch. In the warm-up round, Leo says, \"Count me in!\" Then we swap roles and I ask it back. A clear boundary is a kind promise between teams.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the audit log after the standup. I go over the idempotent operation one more time before lunch. In the warm-up round, Leo says, \"Count me in!\" Then we swap roles and I ask it back. A clear boundary is a kind promise between teams.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在审计日志上。午饭前我又过了一遍幂等操作。热身环节里，Leo说：\"算我一个！\"然后我们换角色，由我来问。清晰的边界是团队之间善意的承诺。",
+   "hard": []
   }
  ],
  "chunks": [

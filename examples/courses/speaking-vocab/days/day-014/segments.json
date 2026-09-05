@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 262,
+   "word_count": 219,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I start the new work, but it is not ready for review. After a short break, I read the short guide about the client twice. Now I understand the server. Maria explains the draft pull request to me. After that, I mark as ready one small step at a time. Then Maria asks, \"Do you have a table for two?\" I reply, and we keep chatting. Then Maria asks, \"Could we see the menu?\" I reply, and we keep chatting. The day is busy, but I learn a lot.",
-   "tts": "I start the new work, but it is not ready for review. After a short break, I read the short guide about the client twice. Now I understand the server. Maria explains the draft pull request to me. After that, I mark as ready one small step at a time. Then Maria asks, \"Do you have a table for two?\" I reply, and we keep chatting. Then Maria asks, \"Could we see the menu?\" I reply, and we keep chatting. The day is busy, but I learn a lot.",
+   "en": "Day fourteen explains client-server architecture. \"A client asks. A server answers. An API is the contract between them. An endpoint is a specific address. You send a request and receive a response.\" I draw the diagram. At dinner, I practise restaurant English. \"Do you have a table for two?\" I ask. \"Could we see the menu?\" \"I'm allergic to peanuts.\" \"Is this dish spicy?\" \"Could you pack this to go?\" \"Everything was delicious.\"",
+   "tts": "Day fourteen explains client-server architecture. \"A client asks. A server answers. An A P I is the contract between them. An endpoint is a specific address. You send a request and receive a response.\" I draw the diagram. At dinner, I practise restaurant English. \"Do you have a table for two?\" I ask. \"Could we see the menu?\" \"I'm allergic to peanuts.\" \"Is this dish spicy?\" \"Could you pack this to go?\" \"Everything was delicious.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我开始做新工作，但还不到评审的时候。稍作休息后，我把关于客户端的简短说明读了两遍。现在我理解了服务器。Maria 给我讲解草稿拉取请求。在那之后，我一步一步地标记为可评审。接着Maria问：\"有两个人的桌位吗？\"我回答后，我们继续聊。接着Maria问：\"可以给我们看菜单吗？\"我回答后，我们继续聊。这天很忙，但我学到了很多。",
+   "zh": "第十四天讲客户端-服务器架构。\"客户端提问。服务器回答。API 是它们之间的契约。端点是具体地址。你发送请求并接收响应。\"我画了图。晚餐时，我练餐厅英语。\"有两人桌吗？\"我问。\"能看菜单吗？\"\"我对花生过敏。\"\"这道菜辣吗？\"\"能打包吗？\"\"一切都很好吃。\"",
    "hard": [
     {
      "w": "client",
@@ -46,36 +46,6 @@
      "def": "服务器，接收请求并提供数据或功能的程序"
     },
     {
-     "w": "Do you have a table for two?",
-     "type": "term",
-     "def": "有两个人的桌位吗？"
-    },
-    {
-     "w": "Could we see the menu?",
-     "type": "term",
-     "def": "可以给我们看菜单吗？"
-    },
-    {
-     "w": "draft pull request",
-     "type": "term",
-     "def": "草稿拉取请求，尚未准备好合并的 PR"
-    },
-    {
-     "w": "mark as ready",
-     "type": "term",
-     "def": "标记为可评审，表示草稿已经准备完成"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "We eat at a new restaurant. I ask about the menu. Then Priya says, \"I'm allergic to peanuts.\" I think for a second, then answer. Then Priya asks, \"Is this dish spicy?\" I think for a second, then answer. After that, I ask one question about the API. I learn about the endpoint because it is useful. Today I convert to draft for the first time. After a short break, I hear the review status in the meeting and write it down. I understand a little more than yesterday.",
-   "tts": "We eat at a new restaurant. I ask about the menu. Then Priya says, \"I'm allergic to peanuts.\" I think for a second, then answer. Then Priya asks, \"Is this dish spicy?\" I think for a second, then answer. After that, I ask one question about the A P I. I learn about the endpoint because it is useful. Today I convert to draft for the first time. After a short break, I hear the review status in the meeting and write it down. I understand a little more than yesterday.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "我们去了一家新餐厅。我询问了菜单。接着Priya说：\"我对花生过敏。\"我想了一下，然后回答。接着Priya问：\"这道菜辣吗？\"我想了一下，然后回答。在那之后，我问了一个关于应用程序接口的问题。我学习接口端点，因为它很有用。今天我第一次转换为草稿。稍作休息后，我在会上听到评审状态，把它记了下来。我比昨天多懂了一点。",
-   "hard": [
-    {
      "w": "API",
      "type": "term",
      "def": "应用程序接口，让不同程序按约定互相通信"
@@ -84,6 +54,26 @@
      "w": "endpoint",
      "type": "term",
      "def": "接口端点，API 中提供某项功能的具体地址"
+    },
+    {
+     "w": "send a request",
+     "type": "term",
+     "def": "发送请求，向服务器提出操作或数据需求"
+    },
+    {
+     "w": "receive a response",
+     "type": "term",
+     "def": "接收响应，取得服务器返回的结果"
+    },
+    {
+     "w": "Do you have a table for two?",
+     "type": "term",
+     "def": "有两个人的桌位吗？"
+    },
+    {
+     "w": "Could we see the menu?",
+     "type": "term",
+     "def": "可以给我们看菜单吗？"
     },
     {
      "w": "I'm allergic to peanuts.",
@@ -96,6 +86,36 @@
      "def": "这道菜辣吗？"
     },
     {
+     "w": "Could you pack this to go?",
+     "type": "term",
+     "def": "可以把这个打包吗？"
+    },
+    {
+     "w": "Everything was delicious.",
+     "type": "term",
+     "def": "所有菜都很好吃。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Draft pull requests appear. \"A draft pull request is work in progress,\" Priya explains. \"You mark as ready when it's done. You can convert to draft if you need more time. The review status shows where you stand. The base branch is where you're merging into. The compare branch is your work.\" I open my first draft PR. Mark as ready. The review status changes. My base branch is main. My compare branch is feature/user-greeting.",
+   "tts": "Draft pull requests appear. \"A draft pull request is work in progress,\" Priya explains. \"You mark as ready when it's done. You can convert to draft if you need more time. The review status shows where you stand. The base branch is where you're merging into. The compare branch is your work.\" I open my first draft P R. Mark as ready. The review status changes. My base branch is main. My compare branch is feature/user-greeting.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "草稿拉取请求出现了。\"草稿拉取请求是进行中的工作，\"Priya 解释。\"完成后你标记为可评审。需要更多时间就转回草稿。评审状态显示你的进展。基础分支是你要合入的。比较分支是你的工作。\"我打开了我的第一个草稿 PR。标记为可评审。评审状态变了。基础分支是 main。比较分支是 feature/user-greeting。",
+   "hard": [
+    {
+     "w": "draft pull request",
+     "type": "term",
+     "def": "草稿拉取请求，尚未准备好合并的 PR"
+    },
+    {
+     "w": "mark as ready",
+     "type": "term",
+     "def": "标记为可评审，表示草稿已经准备完成"
+    },
+    {
      "w": "convert to draft",
      "type": "term",
      "def": "转换为草稿，把正式 PR 退回准备状态"
@@ -104,17 +124,32 @@
      "w": "review status",
      "type": "term",
      "def": "评审状态，显示 PR 当前是否获得批准"
+    },
+    {
+     "w": "base branch",
+     "type": "term",
+     "def": "基础分支，PR 最终准备合入的目标分支"
+    },
+    {
+     "w": "compare branch",
+     "type": "term",
+     "def": "比较分支，PR 中包含新改动的来源分支"
     }
    ]
   },
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. I write a short note about the base branch. After a short break, Leo shows me an example of the compare branch. Leo shows me how to send a request. I receive a response carefully. Then Priya asks, \"Could you pack this to go?\" I think for a second, then answer. Then Priya says, \"Everything was delicious.\" I think for a second, then answer. I open a draft pull request. The team can watch it grow.",
-   "tts": "Before I leave, I finish one last task. I write a short note about the base branch. After a short break, Leo shows me an example of the compare branch. Leo shows me how to send a request. I receive a response carefully. Then Priya asks, \"Could you pack this to go?\" I think for a second, then answer. Then Priya says, \"Everything was delicious.\" I think for a second, then answer. I open a draft pull request. The team can watch it grow.",
+   "en": "Client-server is everywhere. The restaurant is a server. I am a client. The menu is the API. Ordering is sending a request. Food arriving is receiving a response. I write: 'Day 14 — APIs are contracts. Endpoints are addresses. Every conversation has a client and a server.' The draft pull request teaches me something else: it's okay to show unfinished work. Marking as ready is brave. Converting to draft is honest.",
+   "tts": "Client-server is everywhere. The restaurant is a server. I am a client. The menu is the A P I. Ordering is sending a request. Food arriving is receiving a response. I write: 'Day 14 — APIs are contracts. Endpoints are addresses. Every conversation has a client and a server.' The draft pull request teaches me something else: it's okay to show unfinished work. Marking as ready is brave. Converting to draft is honest.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。我给基础分支写了一条简短的笔记。稍作休息后，Leo 给我看了一个比较分支的例子。Leo 教我怎样发送请求。我认真地接收响应。接着Priya问：\"可以把这个打包吗？\"我想了一下，然后回答。接着Priya说：\"所有菜都很好吃。\"我想了一下，然后回答。我开了一个草稿拉取请求。团队可以看着它慢慢成形。",
+   "zh": "客户端-服务器无处不在。餐厅是服务器。我是客户端。菜单是 API。点餐是发送请求。菜端上来是接收响应。我写：'第十四天——API 是契约。端点是地址。每段对话都有客户端和服务器。'草稿拉取请求还教了我别的：展示未完成的工作是没问题的。标记可评审是勇敢。转回草稿是诚实。",
    "hard": [
+    {
+     "w": "endpoint",
+     "type": "term",
+     "def": "接口端点，API 中提供某项功能的具体地址"
+    },
     {
      "w": "send a request",
      "type": "term",
@@ -126,24 +161,9 @@
      "def": "接收响应，取得服务器返回的结果"
     },
     {
-     "w": "Could you pack this to go?",
+     "w": "mark as ready",
      "type": "term",
-     "def": "可以把这个打包吗？"
-    },
-    {
-     "w": "Everything was delicious.",
-     "type": "term",
-     "def": "所有菜都很好吃。"
-    },
-    {
-     "w": "base branch",
-     "type": "term",
-     "def": "基础分支，PR 最终准备合入的目标分支"
-    },
-    {
-     "w": "compare branch",
-     "type": "term",
-     "def": "比较分支，PR 中包含新改动的来源分支"
+     "def": "标记为可评审，表示草稿已经准备完成"
     }
    ]
   }

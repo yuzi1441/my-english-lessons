@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 370,
-   "segment_count": 3,
+   "word_count": 431,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I teach onboarding security without a single policy slide. The team names one clear owner for the secret scanning in ci. I compare two views on the code secret scan and write both down honestly. During the design review, I raise one careful question about the exposed secret runbook. I prepare a one-page brief about the rotation drill schedule so meetings start from facts. In the review drill, Maria says, \"House keys never leave with labels.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The key bowl by the door.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "I teach onboarding security without a single policy slide. The team names one clear owner for the secret scanning in ci. I compare two views on the code secret scan and write both down honestly. During the design review, I raise one careful question about the exposed secret runbook. I prepare a one-page brief about the rotation drill schedule so meetings start from facts. In the review drill, Maria says, \"House keys never leave with labels.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"The key bowl by the door.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "I teach onboarding security without a single policy slide. The team names one clear owner for the secret scanning in ci. I compare two views on the exposed secret runbook and write both down honestly. In the review drill, Leo says, \"House keys never leave with labels.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "I teach onboarding security without a single policy slide. The team names one clear owner for the secret scanning in ci. I compare two views on the exposed secret runbook and write both down honestly. In the review drill, Leo says, \"House keys never leave with labels.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我讲入职安全课，一页制度幻灯片都不用。团队为CI 机密扫描指定了明确的负责人。我比较了关于代码机密扫描的两种观点，诚实地都记了下来。设计评审中，我就机密泄露手册提出了一个审慎的问题。我准备了一页关于轮换演练排期的简报，好让会议从事实出发。评审演练中，Maria说：\"钥匙上不挂地址牌。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"门口的钥匙碗。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我讲入职安全课，一页制度幻灯片都不用。团队为CI 机密扫描指定了明确的负责人。我比较了关于机密泄露手册的两种观点，诚实地都记了下来。评审演练中，Leo说：\"钥匙上不挂地址牌。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "secret scanning in ci",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We break a fake app together and fix it live. In the review drill, Maria says, \"Car keys sleep away from house keys.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Old locks get rekeyed, not trusted.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the key ceremony. Our mentor walks me through how the seal and rotate policy evolved on this team. Before deciding, I reread my notes about the secret incident severity twice. I add the history purge procedure to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
-   "tts": "We break a fake app together and fix it live. In the review drill, Maria says, \"Car keys sleep away from house keys.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Old locks get rekeyed, not trusted.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the key ceremony. Our mentor walks me through how the seal and rotate policy evolved on this team. Before deciding, I reread my notes about the secret incident severity twice. I add the history purge procedure to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "en": "We break a fake app together and fix it live. In the review drill, Priya says, \"The key bowl by the door.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the code secret scan. I prepare a one-page brief about the rotation drill schedule so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "We break a fake app together and fix it live. In the review drill, Priya says, \"The key bowl by the door.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the code secret scan. I prepare a one-page brief about the rotation drill schedule so meetings start from facts. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们一起攻破一个假应用，再当场修好它。评审演练中，Maria说：\"车钥匙和家门钥匙分房睡。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"换锁芯而不是换心态。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了密钥仪式上。导师带我梳理了封存与轮换策略在这个团队里的演变。做决定之前，我把关于机密事件分级的笔记重读了两遍。我把历史清除流程连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们一起攻破一个假应用，再当场修好它。评审演练中，Priya说：\"门口的钥匙碗。\"我们互换角色，这次由我来提问。设计评审中，我就代码机密扫描提出了一个审慎的问题。我准备了一页关于轮换演练排期的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "key ceremony",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the revocation checklist. I compare two views on the leak postmortem and write both down honestly. During the design review, I raise one careful question about the vault break glass. I prepare a one-page brief about the entropy check for keys so meetings start from facts. In the review drill, Leo says, \"Spare keys live with people, not mats.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Lost key means new lock, no debate.\" We swap roles so I ask the questions this time. Fear fades when curiosity has somewhere to go.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the revocation checklist. I compare two views on the leak postmortem and write both down honestly. During the design review, I raise one careful question about the vault break glass. I prepare a one-page brief about the entropy check for keys so meetings start from facts. In the review drill, Leo says, \"Spare keys live with people, not mats.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Lost key means new lock, no debate.\" We swap roles so I ask the questions this time. Fear fades when curiosity has somewhere to go.",
+   "en": "We break a fake app together and fix it live. We spend the first ten minutes of the review on the secret incident severity. Our mentor walks me through how the key ceremony evolved on this team. In the review drill, Maria says, \"Car keys sleep away from house keys.\" We swap roles so I ask the questions this time. Fear fades when curiosity has somewhere to go.",
+   "tts": "We break a fake app together and fix it live. We spend the first ten minutes of the review on the secret incident severity. Our mentor walks me through how the key ceremony evolved on this team. In the review drill, Maria says, \"Car keys sleep away from house keys.\" We swap roles so I ask the questions this time. Fear fades when curiosity has somewhere to go.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为吊销检查清单指定了明确的负责人。我比较了关于泄露复盘的两种观点，诚实地都记了下来。设计评审中，我就保管库应急开启提出了一个审慎的问题。我准备了一页关于密钥熵检查的简报，好让会议从事实出发。评审演练中，Leo说：\"备用钥匙在朋友家不在门垫下。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"钥匙丢了就换锁\"我们互换角色，这次由我来提问。当好奇心有了去处，恐惧就退场了。",
+   "zh": "我们一起攻破一个假应用，再当场修好它。评审的前十分钟，我们都用在了机密事件分级上。导师带我梳理了密钥仪式在这个团队里的演变。评审演练中，Maria说：\"车钥匙和家门钥匙分房睡。\"我们互换角色，这次由我来提问。当好奇心有了去处，恐惧就退场了。",
    "hard": [
     {
      "w": "vault break glass",
@@ -146,6 +146,33 @@
      "def": "泄露复盘，怎么进去的怎么说清"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Fear fades when curiosity has somewhere to go. Before deciding, I reread my notes about the seal and rotate policy twice. In the review drill, Maria says, \"Old locks get rekeyed, not trusted.\" We swap roles so I ask the questions this time. I add the history purge procedure to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Fear fades when curiosity has somewhere to go. Before deciding, I reread my notes about the seal and rotate policy twice. In the review drill, Maria says, \"Old locks get rekeyed, not trusted.\" We swap roles so I ask the questions this time. I add the history purge procedure to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "当好奇心有了去处，恐惧就退场了。做决定之前，我把关于封存与轮换策略的笔记重读了两遍。评审演练中，Maria说：\"换锁芯而不是换心态。\"我们互换角色，这次由我来提问。我把历史清除流程连同三条支撑事实加进了议程。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We break a fake app together and fix it live. In the review drill, Priya says, \"Spare keys live with people, not mats.\" We swap roles so I ask the questions this time. The team names one clear owner for the revocation checklist. I compare two views on the vault break glass and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "tts": "We break a fake app together and fix it live. In the review drill, Priya says, \"Spare keys live with people, not mats.\" We swap roles so I ask the questions this time. The team names one clear owner for the revocation checklist. I compare two views on the vault break glass and write both down honestly. We end the week with something shipped and something properly learned this time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们一起攻破一个假应用，再当场修好它。评审演练中，Priya说：\"备用钥匙在朋友家不在门垫下。\"我们互换角色，这次由我来提问。团队为吊销检查清单指定了明确的负责人。我比较了关于保管库应急开启的两种观点，诚实地都记了下来。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the leak postmortem. I prepare a one-page brief about the entropy check for keys so meetings start from facts. In the review drill, Maria says, \"Lost key means new lock, no debate.\" We swap roles so I ask the questions this time. Fear fades when curiosity has somewhere to go.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the leak postmortem. I prepare a one-page brief about the entropy check for keys so meetings start from facts. In the review drill, Maria says, \"Lost key means new lock, no debate.\" We swap roles so I ask the questions this time. Fear fades when curiosity has somewhere to go.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就泄露复盘提出了一个审慎的问题。我准备了一页关于密钥熵检查的简报，好让会议从事实出发。评审演练中，Maria说：\"钥匙丢了就换锁\"我们互换角色，这次由我来提问。当好奇心有了去处，恐惧就退场了。",
+   "hard": []
   }
  ],
  "chunks": [

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 327,
-   "segment_count": 3,
+   "word_count": 386,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Our internal support bot answers forty percent of questions. Priya suggests a cleaner way to think about the research summarization. While the details are fresh, I write down the note linking assistant. I connect the documentation drift detector to the ticket so nothing gets lost. The guide now has a short section on the example freshness bot. In the meeting drill, Leo says, \"The pet recognition album.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Grandma albums by decade.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Our internal support bot answers forty percent of questions. Priya suggests a cleaner way to think about the research summarization. While the details are fresh, I write down the note linking assistant. I connect the documentation drift detector to the ticket so nothing gets lost. The guide now has a short section on the example freshness bot. In the meeting drill, Leo says, \"The pet recognition album.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Grandma albums by decade.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Our internal support bot answers forty percent of questions. Priya suggests a cleaner way to think about the research summarization. While the details are fresh, I write down the documentation drift detector. In the meeting drill, Priya says, \"The pet recognition album.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Our internal support bot answers forty percent of questions. Priya suggests a cleaner way to think about the research summarization. While the details are fresh, I write down the documentation drift detector. In the meeting drill, Priya says, \"The pet recognition album.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "内部支持机器人能回答四成的问题。Priya 提出了一个更清晰的文献综述摘要思考方式。趁细节还新鲜，我把笔记关联助手写了下来。我把文档漂移检测器关联到工单上，免得遗漏。指南里现在有关于示例新鲜度机器人的简短章节。会议演练中，Leo说：\"宠物识别相册。\"之后我们换角色再练一遍。会议演练中，Maria说：\"奶奶的相册按年代分。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "内部支持机器人能回答四成的问题。Priya 提出了一个更清晰的文献综述摘要思考方式。趁细节还新鲜，我把文档漂移检测器写了下来。会议演练中，Priya说：\"宠物识别相册。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "research summarization",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Low confidence routes to humans, and every escalation teaches the next version. In the meeting drill, Leo says, \"Face grouping ethics at home.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The 2010s blur recovery.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the meeting prep briefing. We agree to give the inbox triage suggestions one more careful look this week. I compare my notes about the terminology helper with Priya's. In today's standup, I mention the broken link healer and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Low confidence routes to humans, and every escalation teaches the next version. In the meeting drill, Leo says, \"Face grouping ethics at home.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The 2010s blur recovery.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the meeting prep briefing. We agree to give the inbox triage suggestions one more careful look this week. I compare my notes about the terminology helper with Priya's. In today's standup, I mention the broken link healer and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Low confidence routes to humans, and every escalation teaches the next version. In the meeting drill, Maria says, \"Grandma albums by decade.\" After that, we swap roles and run it again. I connect the note linking assistant to the ticket so nothing gets lost. The guide now has a short section on the example freshness bot. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Low confidence routes to humans, and every escalation teaches the next version. In the meeting drill, Maria says, \"Grandma albums by decade.\" After that, we swap roles and run it again. I connect the note linking assistant to the ticket so nothing gets lost. The guide now has a short section on the example freshness bot. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "低置信度转人工，每次升级都在教下一版。会议演练中，Leo说：\"人脸分组的家庭伦理。\"之后我们换角色再练一遍。会议演练中，Maria说：\"2010 年代模糊照抢救。\"之后我们换角色再练一遍。评审时，我们花了十分钟在会前简报生成上。我们说好这周再把收件箱分诊建议仔细看一次。我把关于术语一致性助手的笔记和 Priya 的对照了一下。今天的站会上，我提到死链治愈者和接下来的安排。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "低置信度转人工，每次升级都在教下一版。会议演练中，Maria说：\"奶奶的相册按年代分。\"之后我们换角色再练一遍。我把笔记关联助手关联到工单上，免得遗漏。指南里现在有关于示例新鲜度机器人的简短章节。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "meeting prep briefing",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the onboarding path suggestion. While the details are fresh, I write down the knowledge debt review. I connect the follow up email drafting to the ticket so nothing gets lost. The guide now has a short section on the learning path curation. In the meeting drill, Priya says, \"Duplicate merge courage.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Memories indexed at last.\" After that, we swap roles and run it again. It got graduated, not worshipped.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the onboarding path suggestion. While the details are fresh, I write down the knowledge debt review. I connect the follow up email drafting to the ticket so nothing gets lost. The guide now has a short section on the learning path curation. In the meeting drill, Priya says, \"Duplicate merge courage.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Memories indexed at last.\" After that, we swap roles and run it again. It got graduated, not worshipped.",
+   "en": "Low confidence routes to humans, and every escalation teaches the next version. At the review, we spend ten minutes on the terminology helper. We agree to give the meeting prep briefing one more careful look this week. In the meeting drill, Leo says, \"Face grouping ethics at home.\" After that, we swap roles and run it again. It got graduated, not worshipped.",
+   "tts": "Low confidence routes to humans, and every escalation teaches the next version. At the review, we spend ten minutes on the terminology helper. We agree to give the meeting prep briefing one more careful look this week. In the meeting drill, Leo says, \"Face grouping ethics at home.\" After that, we swap roles and run it again. It got graduated, not worshipped.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的入职路径建议思考方式。趁细节还新鲜，我把知识债评审写了下来。我把跟进邮件起草关联到工单上，免得遗漏。指南里现在有关于学习路径策划的简短章节。会议演练中，Priya说：\"合并重复照片的勇气。\"之后我们换角色再练一遍。会议演练中，Leo说：\"记忆终于有了索引。\"之后我们换角色再练一遍。它是毕业了，不是封神了。",
+   "zh": "低置信度转人工，每次升级都在教下一版。评审时，我们花了十分钟在术语一致性助手上。我们说好这周再把会前简报生成仔细看一次。会议演练中，Leo说：\"人脸分组的家庭伦理。\"之后我们换角色再练一遍。它是毕业了，不是封神了。",
    "hard": [
     {
      "w": "follow up email drafting",
@@ -146,6 +146,33 @@
      "def": "知识债评审，哪些文档欠维护"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "It got graduated, not worshipped. I compare my notes about the inbox triage suggestions with Priya's. In the meeting drill, Leo says, \"The 2010s blur recovery.\" After that, we swap roles and run it again. In today's standup, I mention the broken link healer and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "It got graduated, not worshipped. I compare my notes about the inbox triage suggestions with Priya's. In the meeting drill, Leo says, \"The 2010s blur recovery.\" After that, we swap roles and run it again. In today's standup, I mention the broken link healer and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "它是毕业了，不是封神了。我把关于收件箱分诊建议的笔记和 Priya 的对照了一下。会议演练中，Leo说：\"2010 年代模糊照抢救。\"之后我们换角色再练一遍。今天的站会上，我提到死链治愈者和接下来的安排。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Low confidence routes to humans, and every escalation teaches the next version. In the meeting drill, Maria says, \"Duplicate merge courage.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the onboarding path suggestion. While the details are fresh, I write down the follow up email drafting. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Low confidence routes to humans, and every escalation teaches the next version. In the meeting drill, Maria says, \"Duplicate merge courage.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the onboarding path suggestion. While the details are fresh, I write down the follow up email drafting. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "低置信度转人工，每次升级都在教下一版。会议演练中，Maria说：\"合并重复照片的勇气。\"之后我们换角色再练一遍。Priya 提出了一个更清晰的入职路径建议思考方式。趁细节还新鲜，我把跟进邮件起草写了下来。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the knowledge debt review to the ticket so nothing gets lost. The guide now has a short section on the learning path curation. In the meeting drill, Leo says, \"Memories indexed at last.\" After that, we swap roles and run it again. It got graduated, not worshipped.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the knowledge debt review to the ticket so nothing gets lost. The guide now has a short section on the learning path curation. In the meeting drill, Leo says, \"Memories indexed at last.\" After that, we swap roles and run it again. It got graduated, not worshipped.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把知识债评审关联到工单上，免得遗漏。指南里现在有关于学习路径策划的简短章节。会议演练中，Leo说：\"记忆终于有了索引。\"之后我们换角色再练一遍。它是毕业了，不是封神了。",
+   "hard": []
   }
  ],
  "chunks": [

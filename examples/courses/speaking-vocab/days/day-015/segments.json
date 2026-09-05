@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 262,
+   "word_count": 222,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Week three. My draft is ready, and the pipeline runs. The team talks about the database at the standup. Leo walks me through the table step by step. Before the meeting, I review continuous integration one more time. I add GitHub Actions to my notes with one example. At that moment, Leo asks, \"What are you working on?\" I answer, and we go over it once more. Leo corrects my use of the pattern: I'm working on ... I write down what I learned today.",
-   "tts": "Week three. My draft is ready, and the pipeline runs. The team talks about the database at the standup. Leo walks me through the table step by step. Before the meeting, I review continuous integration one more time. I add Git Hub Actions to my notes with one example. At that moment, Leo asks, \"What are you working on?\" I answer, and we go over it once more. Leo corrects my use of the pattern: I'm working on  I write down what I learned today.",
+   "en": "Day fifteen enters databases and CI. \"A database stores data in tables,\" Maria says. \"Each table has rows and columns. You write a query to get data. Each row is a database record.\" Then she opens a new tab. \"This is continuous integration. GitHub Actions runs our workflow file. Every workflow run tests the code. Automated tests catch bugs. The build pipeline is the whole journey.\" At lunch: \"What are you working on?\" Priya asks. \"I'm working on the login page,\" I reply.",
+   "tts": "Day fifteen enters databases and C I. \"A database stores data in tables,\" Maria says. \"Each table has rows and columns. You write a query to get data. Each row is a database record.\" Then she opens a new tab. \"This is continuous integration. Git Hub Actions runs our workflow file. Every workflow run tests the code. Automated tests catch bugs. The build pipeline is the whole journey.\" At lunch: \"What are you working on?\" Priya asks. \"I'm working on the login page,\" I reply.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第三周。我的草稿准备好了，流水线开始运行。团队在站会上讨论了数据库。Leo 一步一步带我过了数据表。开会前，我又复习了一遍持续集成。我把GitHub 自动化服务和一个例子一起记进了笔记。这时，Leo问：\"你正在做什么？\"我回答后，我们又过了一遍。Leo 纠正了我对这个句型的用法：我正在处理……我记下了今天学到的东西。",
+   "zh": "第十五天进入数据库和 CI。\"数据库用表存数据，\"Maria 说。\"每个表有行和列。你写查询来获取数据。每行是一条数据库记录。\"然后她打开新标签页。\"这是持续集成。GitHub Actions 运行我们的工作流文件。每次工作流运行测试代码。自动化测试捕获 bug。构建流水线是整个旅程。\"午餐时：\"你在做什么？\"Priya 问。\"我在做登录页面，\"我回答。",
    "hard": [
     {
      "w": "database",
@@ -44,6 +44,26 @@
      "w": "table",
      "type": "term",
      "def": "数据表，以行和列组织数据的结构"
+    },
+    {
+     "w": "row",
+     "type": "term",
+     "def": "行，表中一条完整的数据记录"
+    },
+    {
+     "w": "column",
+     "type": "term",
+     "def": "列，表中同一种属性的数据字段"
+    },
+    {
+     "w": "query",
+     "type": "term",
+     "def": "查询，向数据库提出读取或修改数据的要求"
+    },
+    {
+     "w": "database record",
+     "type": "term",
+     "def": "数据库记录，代表一个对象的一组字段"
     },
     {
      "w": "What are you working on?",
@@ -64,26 +84,41 @@
      "w": "GitHub Actions",
      "type": "term",
      "def": "GitHub 自动化服务，可运行测试和部署任务"
+    },
+    {
+     "w": "workflow file",
+     "type": "term",
+     "def": "工作流文件，用 YAML 定义自动化步骤"
+    },
+    {
+     "w": "workflow run",
+     "type": "term",
+     "def": "工作流运行，某次自动化任务的执行记录"
+    },
+    {
+     "w": "automated test",
+     "type": "term",
+     "def": "自动化测试，由程序自动检查代码行为"
+    },
+    {
+     "w": "build pipeline",
+     "type": "term",
+     "def": "构建流水线，依次完成检查、构建和发布的流程"
     }
    ]
   },
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "At standup, I say what I finished and what is next. I use the pattern to ask a question: I've finished ... After that, The team practises the pattern together: I'm blocked by ... After lunch, I check the row again. When I get stuck, I ask Maria about the column. After a short break, We keep a short checklist for the workflow file. I compare my notes about the workflow run with Priya's. With the team's help, the problem becomes smaller.",
-   "tts": "At standup, I say what I finished and what is next. I use the pattern to ask a question: I've finished  After that, The team practises the pattern together: I'm blocked by  After lunch, I check the row again. When I get stuck, I ask Maria about the column. After a short break, We keep a short checklist for the workflow file. I compare my notes about the workflow run with Priya's. With the team's help, the problem becomes smaller.",
+   "en": "More standup phrases. \"I've finished the header section,\" I report. \"I'm blocked by a missing API endpoint,\" Priya says. \"My next step is to write tests.\" \"I need more time on the database schema,\" Leo admits. The vocabulary of standups is becoming second nature. What are you working on. I'm working on. I've finished. I'm blocked by. My next step is. I need more time. These sentences structure every morning.",
+   "tts": "More standup phrases. \"I've finished the header section,\" I report. \"I'm blocked by a missing A P I endpoint,\" Priya says. \"My next step is to write tests.\" \"I need more time on the database schema,\" Leo admits. The vocabulary of standups is becoming second nature. What are you working on. I'm working on. I've finished. I'm blocked by. My next step is. I need more time. These sentences structure every morning.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "站会上，我说了已完成的内容和下一步。我用这个句型提了一个问题：我已经完成……在那之后，团队一起练习这个句型：我被……阻碍了。午饭后，我又检查了一遍行。卡住的时候，我就向 Maria 请教列。稍作休息后，我们为工作流文件准备了一张简短的检查单。我把关于工作流运行的笔记和 Priya 的对照了一下。在团队的帮助下，问题变小了。",
+   "zh": "更多站会短语。\"我完成了头部区域，\"我汇报。\"我被缺失的 API 端点卡住了，\"Priya 说。\"我的下一步是写测试。\"\"数据库设计需要更多时间，\"Leo 承认。站会词汇正在变成第二天性。你在做什么。我在做。我完成了。我被卡住。我的下一步是。我需要更多时间。这些句子组织着每个早晨。",
    "hard": [
     {
-     "w": "row",
+     "w": "What are you working on?",
      "type": "term",
-     "def": "行，表中一条完整的数据记录"
-    },
-    {
-     "w": "column",
-     "type": "term",
-     "def": "列，表中同一种属性的数据字段"
+     "def": "你正在做什么？"
     },
     {
      "w": "I've finished ...",
@@ -96,36 +131,6 @@
      "def": "我被……阻碍了。"
     },
     {
-     "w": "workflow file",
-     "type": "term",
-     "def": "工作流文件，用 YAML 定义自动化步骤"
-    },
-    {
-     "w": "workflow run",
-     "type": "term",
-     "def": "工作流运行，某次自动化任务的执行记录"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I review what I did today. After a short break, I reread the section about the automated test after lunch. Priya and I spend a few minutes on the build pipeline. The team talks about the query at the standup. After that, Leo walks me through the database record step by step. I put the pattern into my own sentence: My next step is ... At that moment, Leo says, \"I need more time.\" I answer, and we go over it once more. The automated tests pass. The team trusts the pipeline.",
-   "tts": "Before I leave, I review what I did today. After a short break, I reread the section about the automated test after lunch. Priya and I spend a few minutes on the build pipeline. The team talks about the query at the standup. After that, Leo walks me through the database record step by step. I put the pattern into my own sentence: My next step is  At that moment, Leo says, \"I need more time.\" I answer, and we go over it once more. The automated tests pass. The team trusts the pipeline.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。稍作休息后，午饭后我重读了关于自动化测试的章节。Priya 和我在构建流水线上花了几分钟。团队在站会上讨论了查询。在那之后，Leo 一步一步带我过了数据库记录。我把这个句型放进自己的句子里：我的下一步是……这时，Leo说：\"我需要更多时间。\"我回答后，我们又过了一遍。自动化测试通过了。团队信任这条流水线。",
-   "hard": [
-    {
-     "w": "query",
-     "type": "term",
-     "def": "查询，向数据库提出读取或修改数据的要求"
-    },
-    {
-     "w": "database record",
-     "type": "term",
-     "def": "数据库记录，代表一个对象的一组字段"
-    },
-    {
      "w": "My next step is ...",
      "type": "term",
      "def": "我的下一步是……"
@@ -134,6 +139,21 @@
      "w": "I need more time.",
      "type": "term",
      "def": "我需要更多时间。"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "The CI pipeline runs while I eat lunch. Green lights across the board. I write: 'Day 15 — databases are organised warehouses. CI is an automatic quality checker. Standup phrases are the grammar of teamwork.' The workflow file is YAML. The workflow run passes. The automated tests catch a small bug before it reaches production. The build pipeline works like a factory: code goes in, tested product comes out.",
+   "tts": "The C I pipeline runs while I eat lunch. Green lights across the board. I write: 'Day 15 — databases are organised warehouses. C I is an automatic quality checker. Standup phrases are the grammar of teamwork.' The workflow file is ya mel. The workflow run passes. The automated tests catch a small bug before it reaches production. The build pipeline works like a factory: code goes in, tested product comes out.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "CI 流水线在我吃午餐时运行。一路绿灯。我写：'第十五天——数据库是有序仓库。CI 是自动质检员。站会短语是团队协作的语法。'工作流文件是 YAML。工作流运行通过。自动化测试在 bug 到达生产环境之前捕获了它。构建流水线像工厂：代码进去，测好的产品出来。",
+   "hard": [
+    {
+     "w": "workflow run",
+     "type": "term",
+     "def": "工作流运行，某次自动化任务的执行记录"
     },
     {
      "w": "automated test",

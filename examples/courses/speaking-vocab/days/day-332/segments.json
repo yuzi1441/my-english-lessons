@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 406,
-   "segment_count": 3,
+   "word_count": 471,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Sam runs the standup while I sit in the back row. We review the one on one cadence against the requirements, line by line. I put the listening first agenda on the record so the reasoning stays visible. We align on the standup redesign for leads early, so execution never has to guess. I present the meeting cost calculator with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Monthly walk with dad, no phones.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Mom talks more on walks.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "Sam runs the standup while I sit in the back row. We review the one on one cadence against the requirements, line by line. I put the listening first agenda on the record so the reasoning stays visible. We align on the standup redesign for leads early, so execution never has to guess. I present the meeting cost calculator with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"Monthly walk with dad, no phones.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Mom talks more on walks.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "Sam runs the standup while I sit in the back row. We review the one on one cadence against the requirements, line by line. I put the standup redesign for leads on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"Monthly walk with dad, no phones.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Sam runs the standup while I sit in the back row. We review the one on one cadence against the requirements, line by line. I put the standup redesign for leads on the record so the reasoning stays visible. In the launch rehearsal, Leo says, \"Monthly walk with dad, no phones.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Sam 主持站会，我坐最后一排。我们逐行对照需求检查了一对一节奏。我把先听后说议程记录在案，让推理过程保持可见。我们尽早就负责人版站会重设计对齐，让执行无需猜测。我用时间线、数据和一条明确的诉求来汇报会议成本计算器。上线彩排中，Maria说：\"和爸爸每月散步不带手机。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"妈妈走路时话更多。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "Sam 主持站会，我坐最后一排。我们逐行对照需求检查了一对一节奏。我把负责人版站会重设计记录在案，让推理过程保持可见。上线彩排中，Leo说：\"和爸爸每月散步不带手机。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "one on one cadence",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My mouth itches to answer; my notebook records instead. In the launch rehearsal, Maria says, \"Ask about their dreams, not tasks.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Old stories on the third ask.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the career growth questions, the risks behind it, and the cost of waiting. I propose a measurable target for the feedback that sticks this quarter. I close the discussion on the decision meeting note template with a short summary. The final deck includes the skip level listening tour and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "My mouth itches to answer; my notebook records instead. In the launch rehearsal, Maria says, \"Ask about their dreams, not tasks.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Old stories on the third ask.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the career growth questions, the risks behind it, and the cost of waiting. I propose a measurable target for the feedback that sticks this quarter. I close the discussion on the decision meeting note template with a short summary. The final deck includes the skip level listening tour and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "My mouth itches to answer; my notebook records instead. In the launch rehearsal, Priya says, \"Mom talks more on walks.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the listening first agenda early, so execution never has to guess. I present the meeting cost calculator with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "My mouth itches to answer; my notebook records instead. In the launch rehearsal, Priya says, \"Mom talks more on walks.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the listening first agenda early, so execution never has to guess. I present the meeting cost calculator with a timeline, the data, and one clear ask. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我的嘴痒着想答；我的笔记改做记录。上线彩排中，Maria说：\"问他们的梦想不是任务。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"第三次追问才有老故事。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖成长问题清单、背后的风险，以及等待的代价。我为记得住的反馈提出了本季度一个可衡量的目标。我用一段简短的总结为决策会议纪要模板的讨论收尾。最终的材料里有越层倾听之旅，以及我们从中学到的东西。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "我的嘴痒着想答；我的笔记改做记录。上线彩排中，Priya说：\"妈妈走路时话更多。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就先听后说议程对齐，让执行无需猜测。我用时间线、数据和一条明确的诉求来汇报会议成本计算器。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "career growth questions",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the meeting free core hours against the requirements, line by line. I put the agenda veto right on the record so the reasoning stays visible. We align on the private vs public praise early, so execution never has to guess. I present the follow up on old asks with a timeline, the data, and one clear ask. In the launch rehearsal, Leo says, \"Silence is part of listening.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The walk matters more than the agenda.\" To finish, we swap roles and I lead the entire exchange from start to finish. Silence, I am learning, is a leadership tool too.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the meeting free core hours against the requirements, line by line. I put the agenda veto right on the record so the reasoning stays visible. We align on the private vs public praise early, so execution never has to guess. I present the follow up on old asks with a timeline, the data, and one clear ask. In the launch rehearsal, Leo says, \"Silence is part of listening.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The walk matters more than the agenda.\" To finish, we swap roles and I lead the entire exchange from start to finish. Silence, I am learning, is a leadership tool too.",
+   "en": "My mouth itches to answer; my notebook records instead. My report covers the decision meeting note template, the risks behind it, and the cost of waiting. I propose a measurable target for the career growth questions this quarter. In the launch rehearsal, Maria says, \"Ask about their dreams, not tasks.\" To finish, we swap roles and I lead the entire exchange from start to finish. Silence, I am learning, is a leadership tool too.",
+   "tts": "My mouth itches to answer; my notebook records instead. My report covers the decision meeting note template, the risks behind it, and the cost of waiting. I propose a measurable target for the career growth questions this quarter. In the launch rehearsal, Maria says, \"Ask about their dreams, not tasks.\" To finish, we swap roles and I lead the entire exchange from start to finish. Silence, I am learning, is a leadership tool too.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了核心无会时段。我把议程否决权记录在案，让推理过程保持可见。我们尽早就公开表扬私下纠正的场景题对齐，让执行无需猜测。我用时间线、数据和一条明确的诉求来汇报旧托付的跟进。上线彩排中，Leo说：\"沉默是倾听的一部分。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"散步本身比议程重要。\"最后我们互换角色，由我从头到尾主导整段对话。我正在学：沉默也是领导工具。",
+   "zh": "我的嘴痒着想答；我的笔记改做记录。我的报告涵盖决策会议纪要模板、背后的风险，以及等待的代价。我为成长问题清单提出了本季度一个可衡量的目标。上线彩排中，Maria说：\"问他们的梦想不是任务。\"最后我们互换角色，由我从头到尾主导整段对话。我正在学：沉默也是领导工具。",
    "hard": [
     {
      "w": "private vs public praise",
@@ -146,6 +146,33 @@
      "def": "议程否决权，没有议题不开会"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Silence, I am learning, is a leadership tool too. I close the discussion on the feedback that sticks with a short summary. In the launch rehearsal, Maria says, \"Old stories on the third ask.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the skip level listening tour and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Silence, I am learning, is a leadership tool too. I close the discussion on the feedback that sticks with a short summary. In the launch rehearsal, Maria says, \"Old stories on the third ask.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the skip level listening tour and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "我正在学：沉默也是领导工具。我用一段简短的总结为记得住的反馈的讨论收尾。上线彩排中，Maria说：\"第三次追问才有老故事。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有越层倾听之旅，以及我们从中学到的东西。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "My mouth itches to answer; my notebook records instead. In the launch rehearsal, Priya says, \"Silence is part of listening.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the meeting free core hours against the requirements, line by line. I put the private vs public praise on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "My mouth itches to answer; my notebook records instead. In the launch rehearsal, Priya says, \"Silence is part of listening.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the meeting free core hours against the requirements, line by line. I put the private vs public praise on the record so the reasoning stays visible. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我的嘴痒着想答；我的笔记改做记录。上线彩排中，Priya说：\"沉默是倾听的一部分。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了核心无会时段。我把公开表扬私下纠正的场景题记录在案，让推理过程保持可见。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the agenda veto right early, so execution never has to guess. I present the follow up on old asks with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"The walk matters more than the agenda.\" To finish, we swap roles and I lead the entire exchange from start to finish. Silence, I am learning, is a leadership tool too.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the agenda veto right early, so execution never has to guess. I present the follow up on old asks with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"The walk matters more than the agenda.\" To finish, we swap roles and I lead the entire exchange from start to finish. Silence, I am learning, is a leadership tool too.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们尽早就议程否决权对齐，让执行无需猜测。我用时间线、数据和一条明确的诉求来汇报旧托付的跟进。上线彩排中，Maria说：\"散步本身比议程重要。\"最后我们互换角色，由我从头到尾主导整段对话。我正在学：沉默也是领导工具。",
+   "hard": []
   }
  ],
  "chunks": [

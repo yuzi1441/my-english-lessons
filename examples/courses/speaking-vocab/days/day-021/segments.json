@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 281,
+   "word_count": 211,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I find a mistake in my last commit. We keep a short checklist for the working tree. When I get stuck, I ask Maria about the staged change. After that, I amend a commit so the team can see the change. When I revert a commit, I follow the guide. At that moment, Leo says, \"The sink is leaking.\" I answer, and we go over it once more. At that moment, Leo says, \"The light isn't working.\" I answer, and we go over it once more. I write down what I learned today.",
-   "tts": "I find a mistake in my last commit. We keep a short checklist for the working tree. When I get stuck, I ask Maria about the staged change. After that, I amend a commit so the team can see the change. When I revert a commit, I follow the guide. At that moment, Leo says, \"The sink is leaking.\" I answer, and we go over it once more. At that moment, Leo says, \"The light isn't working.\" I answer, and we go over it once more. I write down what I learned today.",
+   "en": "Day twenty-one covers git states. \"The working tree is what you see now,\" Maria says. \"A staged change is ready to commit. An unstaged change is not. A tracked file is in git. An untracked file is new. A clean state means nothing is pending.\" Then a home emergency: \"The sink is leaking!\" I call the landlord. \"The light isn't working either. Could someone repair it? When can the technician come?\"",
+   "tts": "Day twenty-one covers git states. \"The working tree is what you see now,\" Maria says. \"A staged change is ready to commit. An unstaged change is not. A tracked file is in git. An untracked file is new. A clean state means nothing is pending.\" Then a home emergency: \"The sink is leaking!\" I call the landlord. \"The light isn't working either. Could someone repair it? When can the technician come?\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我发现上次提交里有个错误。我们为工作树准备了一张简短的检查单。卡住的时候，我就向 Maria 请教已暂存改动。在那之后，我修改最近提交，好让团队看到变化。我还原提交时，按照指南操作。这时，Leo说：\"水槽漏水了。\"我回答后，我们又过了一遍。这时，Leo说：\"灯不亮了。\"我回答后，我们又过了一遍。我记下了今天学到的东西。",
+   "zh": "第二十一天讲 git 状态。\"工作树是你现在看到的，\"Maria 说。\"已暂存改动准备提交。未暂存改动还没有。已跟踪文件在 git 里。未跟踪文件是新的。干净状态意味着没有待处理的。\"然后家里出了紧急情况。\"水槽漏水了！\"我打给房东。\"灯也不亮了。能找人修吗？技师什么时候能来？\"",
    "hard": [
     {
      "w": "working tree",
@@ -46,36 +46,6 @@
      "def": "已暂存改动，准备进入下一次提交的变化"
     },
     {
-     "w": "The sink is leaking.",
-     "type": "term",
-     "def": "水槽漏水了。"
-    },
-    {
-     "w": "The light isn't working.",
-     "type": "term",
-     "def": "灯不亮了。"
-    },
-    {
-     "w": "amend a commit",
-     "type": "term",
-     "def": "修改最近提交，补充或更正最后一次提交"
-    },
-    {
-     "w": "revert a commit",
-     "type": "term",
-     "def": "还原提交，用新提交抵消旧提交的改动"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "The sink at home is leaking. I call for help. At that moment, Maria asks, \"Could someone repair it?\" I answer, then try the line myself. At that moment, Maria asks, \"When can the technician come?\" I answer, then try the line myself. Leo walks me through the unstaged change step by step. Before the meeting, I review the tracked file one more time. After a short break, I reset a branch, and Priya watches the result. It takes me ten minutes to discard changes. With the team's help, the problem becomes smaller.",
-   "tts": "The sink at home is leaking. I call for help. At that moment, Maria asks, \"Could someone repair it?\" I answer, then try the line myself. At that moment, Maria asks, \"When can the technician come?\" I answer, then try the line myself. Leo walks me through the unstaged change step by step. Before the meeting, I review the tracked file one more time. After a short break, I reset a branch, and Priya watches the result. It takes me ten minutes to discard changes. With the team's help, the problem becomes smaller.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "家里的水槽漏水了。我打电话求助。这时，Maria问：\"可以派人来修吗？\"我回答，然后自己把这句练了一遍。这时，Maria问：\"维修人员什么时候能来？\"我回答，然后自己把这句练了一遍。Leo 一步一步带我过了未暂存改动。开会前，我又复习了一遍已跟踪文件。稍作休息后，我重置分支，Priya 在旁边看结果。我花了十分钟丢弃改动。在团队的帮助下，问题变小了。",
-   "hard": [
-    {
      "w": "unstaged change",
      "type": "term",
      "def": "未暂存改动，尚未加入提交区的变化"
@@ -85,36 +55,6 @@
      "type": "term",
      "def": "已跟踪文件，Git 已经纳入版本管理的文件"
     },
-    {
-     "w": "Could someone repair it?",
-     "type": "term",
-     "def": "可以派人来修吗？"
-    },
-    {
-     "w": "When can the technician come?",
-     "type": "term",
-     "def": "维修人员什么时候能来？"
-    },
-    {
-     "w": "reset a branch",
-     "type": "term",
-     "def": "重置分支，把分支指针移到另一提交"
-    },
-    {
-     "w": "discard changes",
-     "type": "term",
-     "def": "丢弃改动，放弃尚未保存的文件变化"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I review what I did today. Before I restore a file, I read the note. I compare my notes about the force push with Priya's. After lunch, I check the untracked file again. After that, Priya and I spend a few minutes on the clean state. At that moment, Maria says, \"The problem is getting worse.\" I answer, then try the line myself. At that moment, Maria says, \"It's working again now.\" I answer, then try the line myself. I revert the commit and make a clean one. The history is safe.",
-   "tts": "Before I leave, I review what I did today. Before I restore a file, I read the note. I compare my notes about the force push with Priya's. After lunch, I check the untracked file again. After that, Priya and I spend a few minutes on the clean state. At that moment, Maria says, \"The problem is getting worse.\" I answer, then try the line myself. At that moment, Maria says, \"It's working again now.\" I answer, then try the line myself. I revert the commit and make a clean one. The history is safe.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。在恢复文件之前，我先看了说明。我把关于强制推送的笔记和 Priya 的对照了一下。午饭后，我又检查了一遍未跟踪文件。在那之后，Priya 和我在干净状态上花了几分钟。这时，Maria说：\"问题越来越严重。\"我回答，然后自己把这句练了一遍。这时，Maria说：\"现在又能用了。\"我回答，然后自己把这句练了一遍。我还原了那次提交，重新做了一个干净的提交。历史是安全的。",
-   "hard": [
     {
      "w": "untracked file",
      "type": "term",
@@ -126,6 +66,36 @@
      "def": "干净状态，工作区没有未提交变化的状态"
     },
     {
+     "w": "The sink is leaking.",
+     "type": "term",
+     "def": "水槽漏水了。"
+    },
+    {
+     "w": "The light isn't working.",
+     "type": "term",
+     "def": "灯不亮了。"
+    },
+    {
+     "w": "Could someone repair it?",
+     "type": "term",
+     "def": "可以派人来修吗？"
+    },
+    {
+     "w": "When can the technician come?",
+     "type": "term",
+     "def": "维修人员什么时候能来？"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "\"The problem is getting worse,\" I tell the landlord. \"It's working again now,\" I say later, relieved. Meanwhile, git surgery: \"You amend a commit to fix the last one. You revert a commit to undo it safely. You reset a branch to move backwards. You discard changes to start fresh. You restore a file from history. Never force push to shared branches.\" I practise each one on a test repo.",
+   "tts": "\"The problem is getting worse,\" I tell the landlord. \"It's working again now,\" I say later, relieved. Meanwhile, git surgery: \"You amend a commit to fix the last one. You revert a commit to undo it safely. You reset a branch to move backwards. You discard changes to start fresh. You restore a file from history. Never force push to shared branches.\" I practise each one on a test repo.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "\"问题越来越严重了，\"我跟房东说。\"现在又能用了，\"我后来松了口气说。与此同时，git 手术：\"你修改提交来修复最近一次。你还原提交来安全撤销。你重置分支来回退。你丢弃改动重新开始。你恢复文件从历史。永远不要向共享分支强制推送。\"我在测试仓库上每个都练了。",
+   "hard": [
+    {
      "w": "The problem is getting worse.",
      "type": "term",
      "def": "问题越来越严重。"
@@ -136,6 +106,26 @@
      "def": "现在又能用了。"
     },
     {
+     "w": "amend a commit",
+     "type": "term",
+     "def": "修改最近提交，补充或更正最后一次提交"
+    },
+    {
+     "w": "revert a commit",
+     "type": "term",
+     "def": "还原提交，用新提交抵消旧提交的改动"
+    },
+    {
+     "w": "reset a branch",
+     "type": "term",
+     "def": "重置分支，把分支指针移到另一提交"
+    },
+    {
+     "w": "discard changes",
+     "type": "term",
+     "def": "丢弃改动，放弃尚未保存的文件变化"
+    },
+    {
      "w": "restore a file",
      "type": "term",
      "def": "恢复文件，把文件恢复到指定状态"
@@ -144,6 +134,31 @@
      "w": "force push",
      "type": "term",
      "def": "强制推送，用本地历史覆盖远程分支历史"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Git states and home repairs share a truth: know your current state before you act. Clean state in git. Dry floor at home. I write: 'Day 21 — staged is ready, unstaged is not. Amend fixes the last commit. Revert undoes safely. Force push is dangerous.' The technician fixed the sink. The light works again. My branch history is clean. Three weeks and one day. Every day adds a layer.",
+   "tts": "Git states and home repairs share a truth: know your current state before you act. Clean state in git. Dry floor at home. I write: 'Day 21 — staged is ready, unstaged is not. Amend fixes the last commit. Revert undoes safely. Force push is dangerous.' The technician fixed the sink. The light works again. My branch history is clean. Three weeks and one day. Every day adds a layer.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "git 状态和家务修理共享一个真理：行动之前先了解当前状态。git 干净状态。家里地板干了。我写：'第二十一天——已暂存是准备好，未暂存还没有。修改修复最近提交。还原安全撤销。强制推送很危险。'技师修好了水槽。灯也亮了。我的分支历史干净。三周零一天。每天加一层。",
+   "hard": [
+    {
+     "w": "clean state",
+     "type": "term",
+     "def": "干净状态，工作区没有未提交变化的状态"
+    },
+    {
+     "w": "amend a commit",
+     "type": "term",
+     "def": "修改最近提交，补充或更正最后一次提交"
+    },
+    {
+     "w": "revert a commit",
+     "type": "term",
+     "def": "还原提交，用新提交抵消旧提交的改动"
     }
    ]
   }

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 367,
-   "segment_count": 3,
+   "word_count": 440,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Our first responsible disclosure arrives from a friendly hacker. I add the immutable backup to the meeting agenda with three supporting facts. I compare two views on the backup isolation and write both down honestly. We spend the first ten minutes of the review on the immutable storage check. I prepare a one-page brief about the restore game results so meetings start from facts. In the review drill, Priya says, \"Passport copies in two places.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The emergency cash stash.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Our first responsible disclosure arrives from a friendly hacker. I add the immutable backup to the meeting agenda with three supporting facts. I compare two views on the backup isolation and write both down honestly. We spend the first ten minutes of the review on the immutable storage check. I prepare a one-page brief about the restore game results so meetings start from facts. In the review drill, Priya says, \"Passport copies in two places.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The emergency cash stash.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Our first responsible disclosure arrives from a friendly hacker. I add the immutable backup to the meeting agenda with three supporting facts. I compare two views on the immutable storage check and write both down honestly. In the review drill, Maria says, \"Passport copies in two places.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Our first responsible disclosure arrives from a friendly hacker. I add the immutable backup to the meeting agenda with three supporting facts. I compare two views on the immutable storage check and write both down honestly. In the review drill, Maria says, \"Passport copies in two places.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第一封负责任披露来自友好的白帽。我把不可变备份连同三条支撑事实加进了议程。我比较了关于备份隔离的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了不可变存储检查上。我准备了一页关于恢复比赛成绩的简报，好让会议从事实出发。评审演练中，Priya说：\"护照复印件存两处。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"应急现金的小金库。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "第一封负责任披露来自友好的白帽。我把不可变备份连同三条支撑事实加进了议程。我比较了关于不可变存储检查的两种观点，诚实地都记了下来。评审演练中，Maria说：\"护照复印件存两处。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "immutable backup",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The report is meticulous: steps, impact, and kind suggestions. In the review drill, Priya says, \"Family photos in three homes.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The recipe box survives floods.\" We swap roles so I ask the questions this time. The team names one clear owner for the ransomware playbook. Before deciding, I reread my notes about the restore priority list twice. Our mentor walks me through how the isolation network drill evolved on this team. During the design review, I raise one careful question about the backup coverage matrix. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "The report is meticulous: steps, impact, and kind suggestions. In the review drill, Priya says, \"Family photos in three homes.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The recipe box survives floods.\" We swap roles so I ask the questions this time. The team names one clear owner for the ransomware playbook. Before deciding, I reread my notes about the restore priority list twice. Our mentor walks me through how the isolation network drill evolved on this team. During the design review, I raise one careful question about the backup coverage matrix. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "The report is meticulous: steps, impact, and kind suggestions. In the review drill, Leo says, \"The emergency cash stash.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the backup isolation. I prepare a one-page brief about the restore game results so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The report is meticulous: steps, impact, and kind suggestions. In the review drill, Leo says, \"The emergency cash stash.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the backup isolation. I prepare a one-page brief about the restore game results so meetings start from facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "报告极为严谨：步骤、影响、还有善意的建议。评审演练中，Priya说：\"全家福存在三个屋。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"菜谱盒防过洪水。\"我们互换角色，这次由我来提问。团队为勒索软件手册指定了明确的负责人。做决定之前，我把关于恢复优先级清单的笔记重读了两遍。导师带我梳理了隔离网络演练在这个团队里的演变。设计评审中，我就备份覆盖矩阵提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "报告极为严谨：步骤、影响、还有善意的建议。评审演练中，Leo说：\"应急现金的小金库。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了备份隔离上。我准备了一页关于恢复比赛成绩的简报，好让会议从事实出发。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "ransomware playbook",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the ransomware tabletop notes to the meeting agenda with three supporting facts. I compare two views on the recovery runbook versions and write both down honestly. We spend the first ten minutes of the review on the backup credential separation. I prepare a one-page brief about the recovery drill cadence so meetings start from facts. In the review drill, Maria says, \"Insurance contact card offline.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Backups you can reach offline.\" We swap roles so I ask the questions this time. We fix in six days, pay the bounty, and write a thank you.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the ransomware tabletop notes to the meeting agenda with three supporting facts. I compare two views on the recovery runbook versions and write both down honestly. We spend the first ten minutes of the review on the backup credential separation. I prepare a one-page brief about the recovery drill cadence so meetings start from facts. In the review drill, Maria says, \"Insurance contact card offline.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Backups you can reach offline.\" We swap roles so I ask the questions this time. We fix in six days, pay the bounty, and write a thank you.",
+   "en": "The report is meticulous: steps, impact, and kind suggestions. The team names one clear owner for the isolation network drill. Before deciding, I reread my notes about the ransomware playbook twice. In the review drill, Priya says, \"Family photos in three homes.\" We swap roles so I ask the questions this time. We fix in six days, pay the bounty, and write a thank you.",
+   "tts": "The report is meticulous: steps, impact, and kind suggestions. The team names one clear owner for the isolation network drill. Before deciding, I reread my notes about the ransomware playbook twice. In the review drill, Priya says, \"Family photos in three homes.\" We swap roles so I ask the questions this time. We fix in six days, pay the bounty, and write a thank you.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把勒索桌演笔记连同三条支撑事实加进了议程。我比较了关于恢复手册版本化的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了备份凭证分离上。我准备了一页关于恢复演练节奏的简报，好让会议从事实出发。评审演练中，Maria说：\"保险联系方式有纸版。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"断网也拿得到的备份。\"我们互换角色，这次由我来提问。我们六天修复，支付赏金，并寄出感谢信。",
+   "zh": "报告极为严谨：步骤、影响、还有善意的建议。团队为隔离网络演练指定了明确的负责人。做决定之前，我把关于勒索软件手册的笔记重读了两遍。评审演练中，Priya说：\"全家福存在三个屋。\"我们互换角色，这次由我来提问。我们六天修复，支付赏金，并寄出感谢信。",
    "hard": [
     {
      "w": "backup credential separation",
@@ -146,6 +146,33 @@
      "def": "恢复手册版本化，剧本也要迭代"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "We fix in six days, pay the bounty, and write a thank you. Our mentor walks me through how the restore priority list evolved on this team. In the review drill, Priya says, \"The recipe box survives floods.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the backup coverage matrix. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We fix in six days, pay the bounty, and write a thank you. Our mentor walks me through how the restore priority list evolved on this team. In the review drill, Priya says, \"The recipe box survives floods.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the backup coverage matrix. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "我们六天修复，支付赏金，并寄出感谢信。导师带我梳理了恢复优先级清单在这个团队里的演变。评审演练中，Priya说：\"菜谱盒防过洪水。\"我们互换角色，这次由我来提问。设计评审中，我就备份覆盖矩阵提出了一个审慎的问题。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The report is meticulous: steps, impact, and kind suggestions. In the review drill, Leo says, \"Insurance contact card offline.\" We swap roles so I ask the questions this time. I add the ransomware tabletop notes to the meeting agenda with three supporting facts. I compare two views on the backup credential separation and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The report is meticulous: steps, impact, and kind suggestions. In the review drill, Leo says, \"Insurance contact card offline.\" We swap roles so I ask the questions this time. I add the ransomware tabletop notes to the meeting agenda with three supporting facts. I compare two views on the backup credential separation and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "报告极为严谨：步骤、影响、还有善意的建议。评审演练中，Leo说：\"保险联系方式有纸版。\"我们互换角色，这次由我来提问。我把勒索桌演笔记连同三条支撑事实加进了议程。我比较了关于备份凭证分离的两种观点，诚实地都记了下来。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the recovery runbook versions. I prepare a one-page brief about the recovery drill cadence so meetings start from facts. In the review drill, Priya says, \"Backups you can reach offline.\" We swap roles so I ask the questions this time. We fix in six days, pay the bounty, and write a thank you.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the recovery runbook versions. I prepare a one-page brief about the recovery drill cadence so meetings start from facts. In the review drill, Priya says, \"Backups you can reach offline.\" We swap roles so I ask the questions this time. We fix in six days, pay the bounty, and write a thank you.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了恢复手册版本化上。我准备了一页关于恢复演练节奏的简报，好让会议从事实出发。评审演练中，Priya说：\"断网也拿得到的备份。\"我们互换角色，这次由我来提问。我们六天修复，支付赏金，并寄出感谢信。",
+   "hard": []
   }
  ],
  "chunks": [

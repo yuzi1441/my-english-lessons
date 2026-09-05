@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 177,
+   "word_count": 210,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The bug is fixed. Today I ask the team to review my work. This is the operating system. The application is new to me. I look at the pull request. Maria asks me to open a pull request. Priya asks, \"Are you free tonight?\" I nod and reply. Priya asks, \"Would you like to join us?\" I nod and reply. Maria helps me a lot.",
-   "tts": "The bug is fixed. Today I ask the team to review my work. This is the operating system. The application is new to me. I look at the pull request. Maria asks me to open a pull request. Priya asks, \"Are you free tonight?\" I nod and reply. Priya asks, \"Would you like to join us?\" I nod and reply. Maria helps me a lot.",
+   "en": "Day seven covers operating systems. \"The operating system runs everything,\" Maria says. \"Applications live on top of it. You install software, uninstall a program, and change system settings.\" She shows me how to restart the computer safely. In the afternoon, Leo asks about evening plans. \"Are you free tonight?\" he asks. \"Would you like to join us for dinner?\" \"That sounds great!\" I say. \"Maybe another time,\" Priya adds with a smile.",
+   "tts": "Day seven covers operating systems. \"The operating system runs everything,\" Maria says. \"Applications live on top of it. You install software, uninstall a program, and change system settings.\" She shows me how to restart the computer safely. In the afternoon, Leo asks about evening plans. \"Are you free tonight?\" he asks. \"Would you like to join us for dinner?\" \"That sounds great!\" I say. \"Maybe another time,\" Priya adds with a smile.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "缺陷修好了。今天我请团队评审我的工作。这是操作系统。应用程序对我来说很新。我看着拉取请求。Maria 让我创建拉取请求。Priya问：\"你今晚有空吗？\"我点头回应。Priya问：\"你愿意加入我们吗？\"我点头回应。Maria 帮了我很多。",
+   "zh": "第七天讲操作系统。\"操作系统管理一切，\"Maria 说。\"应用程序在它之上运行。你安装软件、卸载程序、改系统设置。\"她给我演示怎么安全重启电脑。下午，Leo 问晚上的安排。\"今晚有空吗？\"他问。\"想和我们一起吃晚饭吗？\"\"听起来太好了！\"我说。\"也许下次吧，\"Priya 笑着补充。",
    "hard": [
     {
      "w": "operating system",
@@ -46,36 +46,6 @@
      "def": "应用程序，帮助用户完成具体任务的软件"
     },
     {
-     "w": "Are you free tonight?",
-     "type": "term",
-     "def": "你今晚有空吗？"
-    },
-    {
-     "w": "Would you like to join us?",
-     "type": "term",
-     "def": "你愿意加入我们吗？"
-    },
-    {
-     "w": "pull request",
-     "type": "term",
-     "def": "拉取请求，请团队检查并合并一组代码变化"
-    },
-    {
-     "w": "open a pull request",
-     "type": "term",
-     "def": "创建拉取请求，发起代码评审"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "Leo invites me to coffee on Friday. I say yes. Leo says, \"That sounds great.\" I answer politely. Leo says, \"Maybe another time.\" I answer politely. I try to install software. I uninstall a program. I see the PR description. Now I can request a review. I feel good today.",
-   "tts": "Leo invites me to coffee on Friday. I say yes. Leo says, \"That sounds great.\" I answer politely. Leo says, \"Maybe another time.\" I answer politely. I try to install software. I uninstall a program. I see the P R description. Now I can request a review. I feel good today.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "Leo 邀请我周五去喝咖啡。我答应了。Leo说：\"听起来很不错。\"我礼貌地回应。Leo说：\"也许下次吧。\"我礼貌地回应。我试着安装软件。我卸载程序。我看到了PR 描述。现在我会请求评审了。我今天感觉很好。",
-   "hard": [
-    {
      "w": "install software",
      "type": "term",
      "def": "安装软件，把软件配置到电脑上"
@@ -85,36 +55,6 @@
      "type": "term",
      "def": "卸载程序，从电脑中移除软件"
     },
-    {
-     "w": "That sounds great.",
-     "type": "term",
-     "def": "听起来很不错。"
-    },
-    {
-     "w": "Maybe another time.",
-     "type": "term",
-     "def": "也许下次吧。"
-    },
-    {
-     "w": "PR description",
-     "type": "term",
-     "def": "PR 描述，说明改动、原因和验证方法"
-    },
-    {
-     "w": "request a review",
-     "type": "term",
-     "def": "请求评审，邀请他人检查代码"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I do one last thing. Maria shows me the draft changes. I point to the merge request. These are the system settings. I restart the computer with Maria. Leo asks, \"What time shall we meet?\" I answer politely. Leo says, \"I'll let you know.\" I answer politely. My first pull request is open. This week, I learned a lot.",
-   "tts": "Before I leave, I do one last thing. Maria shows me the draft changes. I point to the merge request. These are the system settings. I restart the computer with Maria. Leo asks, \"What time shall we meet?\" I answer politely. Leo says, \"I'll let you know.\" I answer politely. My first pull request is open. This week, I learned a lot.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。Maria 给我看了草稿改动。我指着合并请求。这些是系统设置。我和 Maria 一起重新启动电脑。Leo问：\"我们几点见面？\"我礼貌地回应。Leo说：\"我会告诉你的。\"我礼貌地回应。我的第一个拉取请求打开了。这一周，我学到了很多。",
-   "hard": [
     {
      "w": "system settings",
      "type": "term",
@@ -126,6 +66,36 @@
      "def": "重新启动电脑，关闭后再次启动系统"
     },
     {
+     "w": "Are you free tonight?",
+     "type": "term",
+     "def": "你今晚有空吗？"
+    },
+    {
+     "w": "Would you like to join us?",
+     "type": "term",
+     "def": "你愿意加入我们吗？"
+    },
+    {
+     "w": "That sounds great.",
+     "type": "term",
+     "def": "听起来很不错。"
+    },
+    {
+     "w": "Maybe another time.",
+     "type": "term",
+     "def": "也许下次吧。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Dinner with the team is fun. We talk about everything except code. \"What time shall we meet tomorrow?\" Leo asks. \"I'll let you know,\" I say. Back home, I think about pull requests. \"A pull request asks the team to review your code,\" Maria explained earlier. \"You open a pull request, write a PR description, and request a review. Draft changes are works in progress.\" On some platforms it's called a merge request. Same idea, different name.",
+   "tts": "Dinner with the team is fun. We talk about everything except code. \"What time shall we meet tomorrow?\" Leo asks. \"I'll let you know,\" I say. Back home, I think about pull requests. \"A pull request asks the team to review your code,\" Maria explained earlier. \"You open a pull request, write a P R description, and request a review. Draft changes are works in progress.\" On some platforms it's called a merge request. Same idea, different name.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "和团队吃饭很开心。我们聊了除了代码以外的一切。\"明天几点碰？\"Leo 问。\"我会告诉你，\"我说。回到家，我想着拉取请求。\"拉取请求是请团队评审你的代码，\"Maria 之前解释过。\"你创建拉取请求，写 PR 描述，然后请求评审。草稿改动还在进行中。\"有些平台叫合并请求。同一个概念，不同名字。",
+   "hard": [
+    {
      "w": "What time shall we meet?",
      "type": "term",
      "def": "我们几点见面？"
@@ -136,6 +106,26 @@
      "def": "我会告诉你的。"
     },
     {
+     "w": "pull request",
+     "type": "term",
+     "def": "拉取请求，请团队检查并合并一组代码变化"
+    },
+    {
+     "w": "open a pull request",
+     "type": "term",
+     "def": "创建拉取请求，发起代码评审"
+    },
+    {
+     "w": "PR description",
+     "type": "term",
+     "def": "PR 描述，说明改动、原因和验证方法"
+    },
+    {
+     "w": "request a review",
+     "type": "term",
+     "def": "请求评审，邀请他人检查代码"
+    },
+    {
      "w": "draft changes",
      "type": "term",
      "def": "草稿改动，尚未准备好正式评审的变化"
@@ -144,6 +134,21 @@
      "w": "merge request",
      "type": "term",
      "def": "合并请求，GitLab 对类似流程的称呼"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "One week complete. I write in my notebook: 'Day 7 — I can install software, restart the computer, and understand pull requests. My team is friendly. The city is getting familiar. My English is improving.' The operating system metaphor works for life too: applications run on top of a foundation. My foundation is getting stronger every day. Tomorrow starts week two.",
+   "tts": "One week complete. I write in my notebook: 'Day 7 — I can install software, restart the computer, and understand pull requests. My team is friendly. The city is getting familiar. My English is improving.' The operating system metaphor works for life too: applications run on top of a foundation. My foundation is getting stronger every day. Tomorrow starts week two.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "一周完整结束。我在笔记本上写：'第七天——我会安装软件、重启电脑、理解拉取请求了。团队很友好。城市越来越熟悉。英语在进步。'操作系统的比喻对生活也适用：应用程序运行在基础之上。我的基础每天都在变强。明天开始第二周。",
+   "hard": [
+    {
+     "w": "restart the computer",
+     "type": "term",
+     "def": "重新启动电脑，关闭后再次启动系统"
     }
    ]
   }

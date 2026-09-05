@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 372,
-   "segment_count": 3,
+   "word_count": 443,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Month nine opens with a new badge on my profile: security champion. I prepare a one-page brief about the attack surface map so meetings start from facts. The team names one clear owner for the threat model. We spend the first ten minutes of the review on the security requirements doc. I add the abuse case review to the meeting agenda with three supporting facts. In the review drill, Priya says, \"I lock the door without being told.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The spare key hides badly, so it moved.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Month nine opens with a new badge on my profile: security champion. I prepare a one-page brief about the attack surface map so meetings start from facts. The team names one clear owner for the threat model. We spend the first ten minutes of the review on the security requirements doc. I add the abuse case review to the meeting agenda with three supporting facts. In the review drill, Priya says, \"I lock the door without being told.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The spare key hides badly, so it moved.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Month nine opens with a new badge on my profile: security champion. I prepare a one-page brief about the attack surface map so meetings start from facts. The team names one clear owner for the security requirements doc. In the review drill, Maria says, \"I lock the door without being told.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Month nine opens with a new badge on my profile: security champion. I prepare a one-page brief about the attack surface map so meetings start from facts. The team names one clear owner for the security requirements doc. In the review drill, Maria says, \"I lock the door without being told.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第九个月以一种意外的开场开始：我的名片上多了一行字——安全大使。我准备了一页关于攻击面地图的简报，好让会议从事实出发。团队为威胁建模指定了明确的负责人。评审的前十分钟，我们都用在了安全需求文档上。我把滥用案例评审连同三条支撑事实加进了议程。评审演练中，Priya说：\"不用提醒我就会锁门。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"备用钥匙藏得太差\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "第九个月以一种意外的开场开始：我的名片上多了一行字——安全大使。我准备了一页关于攻击面地图的简报，好让会议从事实出发。团队为安全需求文档指定了明确的负责人。评审演练中，Maria说：\"不用提醒我就会锁门。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "attack surface map",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria says, \"You ask the uncomfortable questions politely. Keep doing that.\" In the review drill, Priya says, \"Peephole before opening.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The neighbor collects packages.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the trust boundary twice. Our mentor walks me through how the entry point inventory evolved on this team. During the design review, I raise one careful question about the threat model update rule. I compare two views on the security signoff lane and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Maria says, \"You ask the uncomfortable questions politely. Keep doing that.\" In the review drill, Priya says, \"Peephole before opening.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"The neighbor collects packages.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the trust boundary twice. Our mentor walks me through how the entry point inventory evolved on this team. During the design review, I raise one careful question about the threat model update rule. I compare two views on the security signoff lane and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Maria says, \"You ask the uncomfortable questions politely. Keep doing that.\" In the review drill, Leo says, \"The spare key hides badly, so it moved.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the threat model. I add the abuse case review to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Maria says, \"You ask the uncomfortable questions politely. Keep doing that.\" In the review drill, Leo says, \"The spare key hides badly, so it moved.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the threat model. I add the abuse case review to the meeting agenda with three supporting facts. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 说：“你总能礼貌地问出让人不舒服的问题，继续保持。”评审演练中，Priya说：\"开门之前先看猫眼。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"邻居帮忙收快递。\"我们互换角色，这次由我来提问。做决定之前，我把关于信任边界的笔记重读了两遍。导师带我梳理了入口点清单在这个团队里的演变。设计评审中，我就威胁模型更新规则提出了一个审慎的问题。我比较了关于安全签核通道的两种观点，诚实地都记了下来。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "Maria 说：“你总能礼貌地问出让人不舒服的问题，继续保持。”评审演练中，Leo说：\"备用钥匙藏得太差\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了威胁建模上。我把滥用案例评审连同三条支撑事实加进了议程。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "trust boundary",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the attack surface changelog so meetings start from facts. The team names one clear owner for the risk acceptance form. We spend the first ten minutes of the review on the abuse case. I add the risk rating matrix to the meeting agenda with three supporting facts. In the review drill, Maria says, \"Lights on a timer when away.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Locks checked twice at night.\" We swap roles so I ask the questions this time. My first act is to map every door we own.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I prepare a one-page brief about the attack surface changelog so meetings start from facts. The team names one clear owner for the risk acceptance form. We spend the first ten minutes of the review on the abuse case. I add the risk rating matrix to the meeting agenda with three supporting facts. In the review drill, Maria says, \"Lights on a timer when away.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Locks checked twice at night.\" We swap roles so I ask the questions this time. My first act is to map every door we own.",
+   "en": "Maria says, \"You ask the uncomfortable questions politely. Keep doing that.\" Before deciding, I reread my notes about the threat model update rule twice. Our mentor walks me through how the trust boundary evolved on this team. In the review drill, Priya says, \"Peephole before opening.\" We swap roles so I ask the questions this time. My first act is to map every door we own.",
+   "tts": "Maria says, \"You ask the uncomfortable questions politely. Keep doing that.\" Before deciding, I reread my notes about the threat model update rule twice. Our mentor walks me through how the trust boundary evolved on this team. In the review drill, Priya says, \"Peephole before opening.\" We swap roles so I ask the questions this time. My first act is to map every door we own.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我准备了一页关于攻击面变更记录的简报，好让会议从事实出发。团队为风险接受表指定了明确的负责人。评审的前十分钟，我们都用在了滥用案例上。我把风险评级矩阵连同三条支撑事实加进了议程。评审演练中，Maria说：\"出门时灯用定时器。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"夜里检查两遍门锁。\"我们互换角色，这次由我来提问。我的第一个动作，是把我们所有的门画成一张图。",
+   "zh": "Maria 说：“你总能礼貌地问出让人不舒服的问题，继续保持。”做决定之前，我把关于威胁模型更新规则的笔记重读了两遍。导师带我梳理了信任边界在这个团队里的演变。评审演练中，Priya说：\"开门之前先看猫眼。\"我们互换角色，这次由我来提问。我的第一个动作，是把我们所有的门画成一张图。",
    "hard": [
     {
      "w": "abuse case",
@@ -146,6 +146,33 @@
      "def": "风险接受表，带着风险上线要签字"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "My first act is to map every door we own. During the design review, I raise one careful question about the entry point inventory. In the review drill, Priya says, \"The neighbor collects packages.\" We swap roles so I ask the questions this time. I compare two views on the security signoff lane and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "My first act is to map every door we own. During the design review, I raise one careful question about the entry point inventory. In the review drill, Priya says, \"The neighbor collects packages.\" We swap roles so I ask the questions this time. I compare two views on the security signoff lane and write both down honestly. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "我的第一个动作，是把我们所有的门画成一张图。设计评审中，我就入口点清单提出了一个审慎的问题。评审演练中，Priya说：\"邻居帮忙收快递。\"我们互换角色，这次由我来提问。我比较了关于安全签核通道的两种观点，诚实地都记了下来。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Maria says, \"You ask the uncomfortable questions politely. Keep doing that.\" In the review drill, Leo says, \"Lights on a timer when away.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the attack surface changelog so meetings start from facts. The team names one clear owner for the abuse case. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Maria says, \"You ask the uncomfortable questions politely. Keep doing that.\" In the review drill, Leo says, \"Lights on a timer when away.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the attack surface changelog so meetings start from facts. The team names one clear owner for the abuse case. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "Maria 说：“你总能礼貌地问出让人不舒服的问题，继续保持。”评审演练中，Leo说：\"出门时灯用定时器。\"我们互换角色，这次由我来提问。我准备了一页关于攻击面变更记录的简报，好让会议从事实出发。团队为滥用案例指定了明确的负责人。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the risk acceptance form. I add the risk rating matrix to the meeting agenda with three supporting facts. In the review drill, Priya says, \"Locks checked twice at night.\" We swap roles so I ask the questions this time. My first act is to map every door we own.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the risk acceptance form. I add the risk rating matrix to the meeting agenda with three supporting facts. In the review drill, Priya says, \"Locks checked twice at night.\" We swap roles so I ask the questions this time. My first act is to map every door we own.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了风险接受表上。我把风险评级矩阵连同三条支撑事实加进了议程。评审演练中，Priya说：\"夜里检查两遍门锁。\"我们互换角色，这次由我来提问。我的第一个动作，是把我们所有的门画成一张图。",
+   "hard": []
   }
  ],
  "chunks": [

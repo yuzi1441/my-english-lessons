@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 283,
+   "word_count": 206,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I try to push to the main branch, but it is protected. Leo walks me through the encryption step by step. I reread the section about the encrypted connection after lunch. After a short break, I add the protected branch to my notes with one example. When I get stuck, I ask Maria about the branch protection rule. At that moment, Leo says, \"Call an ambulance.\" I answer, and we go over it once more. At that moment, Leo says, \"I need help immediately.\" I answer, and we go over it once more. I write down what I learned today.",
-   "tts": "I try to push to the main branch, but it is protected. Leo walks me through the encryption step by step. I reread the section about the encrypted connection after lunch. After a short break, I add the protected branch to my notes with one example. When I get stuck, I ask Maria about the branch protection rule. At that moment, Leo says, \"Call an ambulance.\" I answer, and we go over it once more. At that moment, Leo says, \"I need help immediately.\" I answer, and we go over it once more. I write down what I learned today.",
+   "en": "Day eighteen covers encryption and emergencies. \"Encryption scrambles data,\" Maria says. \"An encrypted connection protects data in transit. Privacy settings control visibility. Data backup saves copies. Restore data from backup. A recovery key unlocks encrypted data.\" Then an emergency in the building. \"Call an ambulance!\" someone shouts. \"I need help immediately!\" \"Where is the nearest hospital?\" Someone has fallen. \"I've lost my phone!\" another voice. \"Please contact the police. Is everyone safe?\"",
+   "tts": "Day eighteen covers encryption and emergencies. \"Encryption scrambles data,\" Maria says. \"An encrypted connection protects data in transit. Privacy settings control visibility. Data backup saves copies. Restore data from backup. A recovery key unlocks encrypted data.\" Then an emergency in the building. \"Call an ambulance!\" someone shouts. \"I need help immediately!\" \"Where is the nearest hospital?\" Someone has fallen. \"I've lost my phone!\" another voice. \"Please contact the police. Is everyone safe?\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我想直接推送到主分支，但它是受保护的。Leo 一步一步带我过了加密。午饭后我重读了关于加密连接的章节。稍作休息后，我把受保护分支和一个例子一起记进了笔记。卡住的时候，我就向 Maria 请教分支保护规则。这时，Leo说：\"叫救护车。\"我回答后，我们又过了一遍。这时，Leo说：\"我立刻需要帮助。\"我回答后，我们又过了一遍。我记下了今天学到的东西。",
+   "zh": "第十八天涵盖加密和紧急情况。\"加密打乱数据，\"Maria 说。\"加密连接保护传输中的数据。隐私设置控制可见性。数据备份保存副本。从备份恢复数据。恢复密钥解锁加密数据。\"然后楼里出现紧急情况。\"叫救护车！\"有人喊。\"我立刻需要帮助！\"\"最近的医院在哪？\"有人摔倒了。\"我手机丢了！\"另一个声音。\"请联系警察。大家都安全吗？\"",
    "hard": [
     {
      "w": "encryption",
@@ -46,36 +46,6 @@
      "def": "加密连接，传输内容受到保护的网络连接"
     },
     {
-     "w": "Call an ambulance.",
-     "type": "term",
-     "def": "叫救护车。"
-    },
-    {
-     "w": "I need help immediately.",
-     "type": "term",
-     "def": "我立刻需要帮助。"
-    },
-    {
-     "w": "protected branch",
-     "type": "term",
-     "def": "受保护分支，限制直接修改的重要分支"
-    },
-    {
-     "w": "branch protection rule",
-     "type": "term",
-     "def": "分支保护规则，规定合并前必须满足的条件"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "In the afternoon, there is a fire drill. Everyone is safe. At that moment, Maria asks, \"Where is the nearest hospital?\" I answer, then try the line myself. At that moment, Maria says, \"I've lost my phone.\" I answer, then try the line myself. Priya and I spend a few minutes on the privacy setting. Before the meeting, I review the data backup one more time. After that, The team talks about the required approval at the standup. After I restrict pushes, I tell the team. With the team's help, the problem becomes smaller.",
-   "tts": "In the afternoon, there is a fire drill. Everyone is safe. At that moment, Maria asks, \"Where is the nearest hospital?\" I answer, then try the line myself. At that moment, Maria says, \"I've lost my phone.\" I answer, then try the line myself. Priya and I spend a few minutes on the privacy setting. Before the meeting, I review the data backup one more time. After that, The team talks about the required approval at the standup. After I restrict pushes, I tell the team. With the team's help, the problem becomes smaller.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "下午，大楼有消防演习。所有人都安全。这时，Maria问：\"最近的医院在哪里？\"我回答，然后自己把这句练了一遍。这时，Maria说：\"我的手机丢了。\"我回答，然后自己把这句练了一遍。Priya 和我在隐私设置上花了几分钟。开会前，我又复习了一遍数据备份。在那之后，团队在站会上讨论了必需批准。我限制推送之后，告诉了团队。在团队的帮助下，问题变小了。",
-   "hard": [
-    {
      "w": "privacy setting",
      "type": "term",
      "def": "隐私设置，控制个人信息如何被使用和展示"
@@ -84,6 +54,26 @@
      "w": "data backup",
      "type": "term",
      "def": "数据备份，为重要数据保存额外副本"
+    },
+    {
+     "w": "restore data",
+     "type": "term",
+     "def": "恢复数据，从备份中取回丢失或损坏的内容"
+    },
+    {
+     "w": "recovery key",
+     "type": "term",
+     "def": "恢复密钥，用于重新获得加密数据访问权的密钥"
+    },
+    {
+     "w": "Call an ambulance.",
+     "type": "term",
+     "def": "叫救护车。"
+    },
+    {
+     "w": "I need help immediately.",
+     "type": "term",
+     "def": "我立刻需要帮助。"
     },
     {
      "w": "Where is the nearest hospital?",
@@ -96,36 +86,6 @@
      "def": "我的手机丢了。"
     },
     {
-     "w": "required approval",
-     "type": "term",
-     "def": "必需批准，合并前必须获得的评审同意"
-    },
-    {
-     "w": "restrict pushes",
-     "type": "term",
-     "def": "限制推送，只允许特定人员直接推送"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I review what I did today. After lunch, I check the signed commit again. I compare my notes about the security policy with Priya's. I restore data, and Priya watches the result. After a short break, We keep a short checklist for the recovery key. At that moment, Maria says, \"Please contact the police.\" I answer, then try the line myself. At that moment, Maria asks, \"Is everyone safe?\" I answer, then try the line myself. Now I understand the rule: reviews protect the main branch.",
-   "tts": "Before I leave, I review what I did today. After lunch, I check the signed commit again. I compare my notes about the security policy with Priya's. I restore data, and Priya watches the result. After a short break, We keep a short checklist for the recovery key. At that moment, Maria says, \"Please contact the police.\" I answer, then try the line myself. At that moment, Maria asks, \"Is everyone safe?\" I answer, then try the line myself. Now I understand the rule: reviews protect the main branch.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。午饭后，我又检查了一遍签名提交。我把关于安全政策的笔记和 Priya 的对照了一下。我恢复数据，Priya 在旁边看结果。稍作休息后，我们为恢复密钥准备了一张简短的检查单。这时，Maria说：\"请联系警察。\"我回答，然后自己把这句练了一遍。这时，Maria问：\"所有人都安全吗？\"我回答，然后自己把这句练了一遍。现在我理解了规则：评审保护主分支。",
-   "hard": [
-    {
-     "w": "restore data",
-     "type": "term",
-     "def": "恢复数据，从备份中取回丢失或损坏的内容"
-    },
-    {
-     "w": "recovery key",
-     "type": "term",
-     "def": "恢复密钥，用于重新获得加密数据访问权的密钥"
-    },
-    {
      "w": "Please contact the police.",
      "type": "term",
      "def": "请联系警察。"
@@ -134,6 +94,36 @@
      "w": "Is everyone safe?",
      "type": "term",
      "def": "所有人都安全吗？"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "After the ambulance leaves, the office calms down. Back to code. \"Protected branches can't be pushed to directly,\" Leo says. \"Branch protection rules enforce this. Required approval means someone must review. Restrict pushes limits who can push. A signed commit proves authorship. A security policy tells people how to report issues.\" I read our branch protection rules. Required approval: yes. Restrict pushes: yes.",
+   "tts": "After the ambulance leaves, the office calms down. Back to code. \"Protected branches can't be pushed to directly,\" Leo says. \"Branch protection rules enforce this. Required approval means someone must review. Restrict pushes limits who can push. A signed commit proves authorship. A security policy tells people how to report issues.\" I read our branch protection rules. Required approval: yes. Restrict pushes: yes.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "救护车离开后，办公室平静下来。回到代码。\"受保护分支不能直接推送，\"Leo 说。\"分支保护规则强制执行这一点。必需批准意味着必须有人评审。限制推送控制谁能推。签名提交证明作者身份。安全政策告诉人们怎么报告问题。\"我读了我们的分支保护规则。必需批准：是。限制推送：是。",
+   "hard": [
+    {
+     "w": "protected branch",
+     "type": "term",
+     "def": "受保护分支，限制直接修改的重要分支"
+    },
+    {
+     "w": "branch protection rule",
+     "type": "term",
+     "def": "分支保护规则，规定合并前必须满足的条件"
+    },
+    {
+     "w": "required approval",
+     "type": "term",
+     "def": "必需批准，合并前必须获得的评审同意"
+    },
+    {
+     "w": "restrict pushes",
+     "type": "term",
+     "def": "限制推送，只允许特定人员直接推送"
     },
     {
      "w": "signed commit",
@@ -144,6 +134,31 @@
      "w": "security policy",
      "type": "term",
      "def": "安全政策，说明如何报告和处理安全问题"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "The person who fell is okay — just a sprained ankle. I write: 'Day 18 — encryption is a lock. Backup is a spare key. Protected branches are safety rails. Emergencies test your preparation.' The emergency reminded me: preparedness matters more than prevention. Data backup won't stop a fire. But it means you can restore data after one. Branch protection won't stop all bugs. But it means someone reviews before production.",
+   "tts": "The person who fell is okay — just a sprained ankle. I write: 'Day 18 — encryption is a lock. Backup is a spare key. Protected branches are safety rails. Emergencies test your preparation.' The emergency reminded me: preparedness matters more than prevention. Data backup won't stop a fire. But it means you can restore data after one. Branch protection won't stop all bugs. But it means someone reviews before production.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "摔倒的人没事——只是扭了脚踝。我写：'第十八天——加密是一把锁。备份是备用钥匙。受保护分支是安全栏杆。紧急情况考验你的准备。'这次紧急情况提醒我：准备比预防更重要。数据备份不能阻止火灾。但意味着火灾后你能恢复数据。分支保护不能阻止所有 bug。但意味着上线前有人评审。",
+   "hard": [
+    {
+     "w": "data backup",
+     "type": "term",
+     "def": "数据备份，为重要数据保存额外副本"
+    },
+    {
+     "w": "restore data",
+     "type": "term",
+     "def": "恢复数据，从备份中取回丢失或损坏的内容"
+    },
+    {
+     "w": "branch protection rule",
+     "type": "term",
+     "def": "分支保护规则，规定合并前必须满足的条件"
     }
    ]
   }

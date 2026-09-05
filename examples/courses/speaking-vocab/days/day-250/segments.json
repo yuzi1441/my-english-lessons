@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 368,
-   "segment_count": 3,
+   "word_count": 435,
+   "segment_count": 6,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业讨论 · 提炼观点 · 参与一次讨论",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A scan finds an old token buried in git history. The team names one clear owner for the dependency provenance check. I compare two views on the signed commit verification and write both down honestly. We spend the first ten minutes of the review on the build provenance attestation. During the design review, I raise one careful question about the pinned dependency audit. In the review drill, Priya says, \"I check where food comes from.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Repairability affects my buying.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "A scan finds an old token buried in git history. The team names one clear owner for the dependency provenance check. I compare two views on the signed commit verification and write both down honestly. We spend the first ten minutes of the review on the build provenance attestation. During the design review, I raise one careful question about the pinned dependency audit. In the review drill, Priya says, \"I check where food comes from.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Repairability affects my buying.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "A scan finds an old token buried in git history. The team names one clear owner for the dependency provenance check. I compare two views on the build provenance attestation and write both down honestly. In the review drill, Maria says, \"I check where food comes from.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "A scan finds an old token buried in git history. The team names one clear owner for the dependency provenance check. I compare two views on the build provenance attestation and write both down honestly. In the review drill, Maria says, \"I check where food comes from.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "扫描发现一枚埋在 git 历史里的旧令牌。团队为依赖来源核查指定了明确的负责人。我比较了关于签名提交核验的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了构建来源证明上。设计评审中，我就固定依赖审计提出了一个审慎的问题。评审演练中，Priya说：\"我看食品的产地。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"可修性影响我的购买。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "扫描发现一枚埋在 git 历史里的旧令牌。团队为依赖来源核查指定了明确的负责人。我比较了关于构建来源证明的两种观点，诚实地都记了下来。评审演练中，Maria说：\"我看食品的产地。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "dependency provenance check",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We rotate, purge, and write the postmortem without hunting for a villain. In the review drill, Priya says, \"The brand recall list, subscribed.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Cheap chargers, no thanks.\" We swap roles so I ask the questions this time. I add the build reproducibility check to the meeting agenda with three supporting facts. I prepare a one-page brief about the vendor risk review so meetings start from facts. Our mentor walks me through how the release artifact signing evolved on this team. Before deciding, I reread my notes about the ci runner isolation review twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "We rotate, purge, and write the postmortem without hunting for a villain. In the review drill, Priya says, \"The brand recall list, subscribed.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Cheap chargers, no thanks.\" We swap roles so I ask the questions this time. I add the build reproducibility check to the meeting agenda with three supporting facts. I prepare a one-page brief about the vendor risk review so meetings start from facts. Our mentor walks me through how the release artifact signing evolved on this team. Before deciding, I reread my notes about the ci runner isolation review twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "We rotate, purge, and write the postmortem without hunting for a villain. In the review drill, Leo says, \"Repairability affects my buying.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the signed commit verification. During the design review, I raise one careful question about the pinned dependency audit. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We rotate, purge, and write the postmortem without hunting for a villain. In the review drill, Leo says, \"Repairability affects my buying.\" We swap roles so I ask the questions this time. We spend the first ten minutes of the review on the signed commit verification. During the design review, I raise one careful question about the pinned dependency audit. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们轮换、清除、写复盘，全程没有追捕反派。评审演练中，Priya说：\"召回名单订着推送。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"杂牌充电器\"我们互换角色，这次由我来提问。我把构建可复现检查连同三条支撑事实加进了议程。我准备了一页关于供应商风险评审的简报，好让会议从事实出发。导师带我梳理了发布产物签名在这个团队里的演变。做决定之前，我把关于CI 运行器隔离评审的笔记重读了两遍。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我们轮换、清除、写复盘，全程没有追捕反派。评审演练中，Leo说：\"可修性影响我的购买。\"我们互换角色，这次由我来提问。评审的前十分钟，我们都用在了签名提交核验上。设计评审中，我就固定依赖审计提出了一个审慎的问题。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "build reproducibility check",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the upstream change watch. I compare two views on the software bill of materials and write both down honestly. We spend the first ten minutes of the review on the third party data list. During the design review, I raise one careful question about the open source usage policy. In the review drill, Maria says, \"Reviews from verified buyers only.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Fewer suppliers, deeper trust.\" We swap roles so I ask the questions this time. Git remembers everything; so should our runbooks.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the upstream change watch. I compare two views on the software bill of materials and write both down honestly. We spend the first ten minutes of the review on the third party data list. During the design review, I raise one careful question about the open source usage policy. In the review drill, Maria says, \"Reviews from verified buyers only.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Fewer suppliers, deeper trust.\" We swap roles so I ask the questions this time. Git remembers everything; so should our runbooks.",
+   "en": "We rotate, purge, and write the postmortem without hunting for a villain. I add the release artifact signing to the meeting agenda with three supporting facts. I prepare a one-page brief about the build reproducibility check so meetings start from facts. In the review drill, Priya says, \"The brand recall list, subscribed.\" We swap roles so I ask the questions this time. Git remembers everything; so should our runbooks.",
+   "tts": "We rotate, purge, and write the postmortem without hunting for a villain. I add the release artifact signing to the meeting agenda with three supporting facts. I prepare a one-page brief about the build reproducibility check so meetings start from facts. In the review drill, Priya says, \"The brand recall list, subscribed.\" We swap roles so I ask the questions this time. Git remembers everything; so should our runbooks.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为上游变更监视指定了明确的负责人。我比较了关于软件物料清单的两种观点，诚实地都记了下来。评审的前十分钟，我们都用在了第三方数据清单上。设计评审中，我就开源使用政策提出了一个审慎的问题。评审演练中，Maria说：\"只看实名买家的评价。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"更少的供应商\"我们互换角色，这次由我来提问。Git 记得一切；我们的手册也应该如此。",
+   "zh": "我们轮换、清除、写复盘，全程没有追捕反派。我把发布产物签名连同三条支撑事实加进了议程。我准备了一页关于构建可复现检查的简报，好让会议从事实出发。评审演练中，Priya说：\"召回名单订着推送。\"我们互换角色，这次由我来提问。Git 记得一切；我们的手册也应该如此。",
    "hard": [
     {
      "w": "third party data list",
@@ -146,6 +146,33 @@
      "def": "软件物料清单，成分表齐全"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Git remembers everything; so should our runbooks. Our mentor walks me through how the vendor risk review evolved on this team. In the review drill, Priya says, \"Cheap chargers, no thanks.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the ci runner isolation review twice. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Git remembers everything; so should our runbooks. Our mentor walks me through how the vendor risk review evolved on this team. In the review drill, Priya says, \"Cheap chargers, no thanks.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the ci runner isolation review twice. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "Git 记得一切；我们的手册也应该如此。导师带我梳理了供应商风险评审在这个团队里的演变。评审演练中，Priya说：\"杂牌充电器\"我们互换角色，这次由我来提问。做决定之前，我把关于CI 运行器隔离评审的笔记重读了两遍。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We rotate, purge, and write the postmortem without hunting for a villain. In the review drill, Leo says, \"Reviews from verified buyers only.\" We swap roles so I ask the questions this time. The team names one clear owner for the upstream change watch. I compare two views on the third party data list and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We rotate, purge, and write the postmortem without hunting for a villain. In the review drill, Leo says, \"Reviews from verified buyers only.\" We swap roles so I ask the questions this time. The team names one clear owner for the upstream change watch. I compare two views on the third party data list and write both down honestly. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们轮换、清除、写复盘，全程没有追捕反派。评审演练中，Leo说：\"只看实名买家的评价。\"我们互换角色，这次由我来提问。团队为上游变更监视指定了明确的负责人。我比较了关于第三方数据清单的两种观点，诚实地都记了下来。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the software bill of materials. During the design review, I raise one careful question about the open source usage policy. In the review drill, Priya says, \"Fewer suppliers, deeper trust.\" We swap roles so I ask the questions this time. Git remembers everything; so should our runbooks.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. We spend the first ten minutes of the review on the software bill of materials. During the design review, I raise one careful question about the open source usage policy. In the review drill, Priya says, \"Fewer suppliers, deeper trust.\" We swap roles so I ask the questions this time. Git remembers everything; so should our runbooks.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。评审的前十分钟，我们都用在了软件物料清单上。设计评审中，我就开源使用政策提出了一个审慎的问题。评审演练中，Priya说：\"更少的供应商\"我们互换角色，这次由我来提问。Git 记得一切；我们的手册也应该如此。",
+   "hard": []
   }
  ],
  "chunks": [

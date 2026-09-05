@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 398,
-   "segment_count": 3,
+   "word_count": 457,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Three teammates go up for promotion this cycle. We review the team health pulse survey against the requirements, line by line. We align on the sustainable pace indicators early, so execution never has to guess. I close the discussion on the pulse to action flow with a short summary. My report covers the team working agreement refresh, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"Dinner laughter is our metric.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Quiet kids get gentle check ins.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "Three teammates go up for promotion this cycle. We review the team health pulse survey against the requirements, line by line. We align on the sustainable pace indicators early, so execution never has to guess. I close the discussion on the pulse to action flow with a short summary. My report covers the team working agreement refresh, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"Dinner laughter is our metric.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Quiet kids get gentle check ins.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "Three teammates go up for promotion this cycle. We review the team health pulse survey against the requirements, line by line. We align on the pulse to action flow early, so execution never has to guess. In the launch rehearsal, Leo says, \"Dinner laughter is our metric.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Three teammates go up for promotion this cycle. We review the team health pulse survey against the requirements, line by line. We align on the pulse to action flow early, so execution never has to guess. In the launch rehearsal, Leo says, \"Dinner laughter is our metric.\" To finish, we swap roles and I lead the entire exchange from start to finish. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "这个周期有三位队友申报晋升。我们逐行对照需求检查了团队健康脉搏调研。我们尽早就可持续节奏指标对齐，让执行无需猜测。我用一段简短的总结为调研到行动流程的讨论收尾。我的报告涵盖团队公约刷新、背后的风险，以及等待的代价。上线彩排中，Maria说：\"晚餐笑声是我们的指标。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"安静的孩子得到温柔问候。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "这个周期有三位队友申报晋升。我们逐行对照需求检查了团队健康脉搏调研。我们尽早就调研到行动流程对齐，让执行无需猜测。上线彩排中，Leo说：\"晚餐笑声是我们的指标。\"最后我们互换角色，由我从头到尾主导整段对话。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "team health pulse survey",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Their packets read like gardens I helped water. In the launch rehearsal, Maria says, \"We ask the quiet one first.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Mood shares at Sunday dinner.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the oncall pain index on the record so the reasoning stays visible. I present the growth conversation coverage with a timeline, the data, and one clear ask. I propose a measurable target for the workload rebalancing ritual this quarter. The final deck includes the toil budget for the team and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Their packets read like gardens I helped water. In the launch rehearsal, Maria says, \"We ask the quiet one first.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"Mood shares at Sunday dinner.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the oncall pain index on the record so the reasoning stays visible. I present the growth conversation coverage with a timeline, the data, and one clear ask. I propose a measurable target for the workload rebalancing ritual this quarter. The final deck includes the toil budget for the team and what we learned from it. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Their packets read like gardens I helped water. In the launch rehearsal, Priya says, \"Quiet kids get gentle check ins.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the sustainable pace indicators with a short summary. My report covers the team working agreement refresh, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Their packets read like gardens I helped water. In the launch rehearsal, Priya says, \"Quiet kids get gentle check ins.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the sustainable pace indicators with a short summary. My report covers the team working agreement refresh, the risks behind it, and the cost of waiting. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "他们的材料读起来像我们一起浇灌的花园。上线彩排中，Maria说：\"我们先问最安静的人。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"周日晚餐分享心情。\"最后我们互换角色，由我从头到尾主导整段对话。我把值班痛苦指数记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报成长对话覆盖率。我为工作量再平衡仪式提出了本季度一个可衡量的目标。最终的材料里有团队琐事预算，以及我们从中学到的东西。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "他们的材料读起来像我们一起浇灌的花园。上线彩排中，Priya说：\"安静的孩子得到温柔问候。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为可持续节奏指标的讨论收尾。我的报告涵盖团队公约刷新、背后的风险，以及等待的代价。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "oncall pain index",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the psych safety practices list against the requirements, line by line. We align on the meeting free core hours audit early, so execution never has to guess. I close the discussion on the candor temperature check with a short summary. My report covers the silence pattern detection, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Grudges get aired and retired.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The vibe check is a skill.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their success is my best performance review.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the psych safety practices list against the requirements, line by line. We align on the meeting free core hours audit early, so execution never has to guess. I close the discussion on the candor temperature check with a short summary. My report covers the silence pattern detection, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Grudges get aired and retired.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The vibe check is a skill.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their success is my best performance review.",
+   "en": "Their packets read like gardens I helped water. I put the workload rebalancing ritual on the record so the reasoning stays visible. I present the oncall pain index with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"We ask the quiet one first.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their success is my best performance review.",
+   "tts": "Their packets read like gardens I helped water. I put the workload rebalancing ritual on the record so the reasoning stays visible. I present the oncall pain index with a timeline, the data, and one clear ask. In the launch rehearsal, Maria says, \"We ask the quiet one first.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their success is my best performance review.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了心理安全感实践清单。我们尽早就核心无会时段审计对齐，让执行无需猜测。我用一段简短的总结为坦率温度计的讨论收尾。我的报告涵盖沉默模式检测、背后的风险，以及等待的代价。上线彩排中，Leo说：\"怨气晒一晒就退休。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"氛围感知是门手艺。\"最后我们互换角色，由我从头到尾主导整段对话。他们的成功就是给我最好的绩效评价。",
+   "zh": "他们的材料读起来像我们一起浇灌的花园。我把工作量再平衡仪式记录在案，让推理过程保持可见。我用时间线、数据和一条明确的诉求来汇报值班痛苦指数。上线彩排中，Maria说：\"我们先问最安静的人。\"最后我们互换角色，由我从头到尾主导整段对话。他们的成功就是给我最好的绩效评价。",
    "hard": [
     {
      "w": "candor temperature check",
@@ -146,6 +146,33 @@
      "def": "核心无会时段审计，三小时神圣"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Their success is my best performance review. I propose a measurable target for the growth conversation coverage this quarter. In the launch rehearsal, Maria says, \"Mood shares at Sunday dinner.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the toil budget for the team and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "Their success is my best performance review. I propose a measurable target for the growth conversation coverage this quarter. In the launch rehearsal, Maria says, \"Mood shares at Sunday dinner.\" To finish, we swap roles and I lead the entire exchange from start to finish. The final deck includes the toil budget for the team and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "他们的成功就是给我最好的绩效评价。我为成长对话覆盖率提出了本季度一个可衡量的目标。上线彩排中，Maria说：\"周日晚餐分享心情。\"最后我们互换角色，由我从头到尾主导整段对话。最终的材料里有团队琐事预算，以及我们从中学到的东西。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Their packets read like gardens I helped water. In the launch rehearsal, Priya says, \"Grudges get aired and retired.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the psych safety practices list against the requirements, line by line. We align on the candor temperature check early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Their packets read like gardens I helped water. In the launch rehearsal, Priya says, \"Grudges get aired and retired.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the psych safety practices list against the requirements, line by line. We align on the candor temperature check early, so execution never has to guess. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "他们的材料读起来像我们一起浇灌的花园。上线彩排中，Priya说：\"怨气晒一晒就退休。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了心理安全感实践清单。我们尽早就坦率温度计对齐，让执行无需猜测。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the meeting free core hours audit with a short summary. My report covers the silence pattern detection, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"The vibe check is a skill.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their success is my best performance review.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I close the discussion on the meeting free core hours audit with a short summary. My report covers the silence pattern detection, the risks behind it, and the cost of waiting. In the launch rehearsal, Maria says, \"The vibe check is a skill.\" To finish, we swap roles and I lead the entire exchange from start to finish. Their success is my best performance review.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我用一段简短的总结为核心无会时段审计的讨论收尾。我的报告涵盖沉默模式检测、背后的风险，以及等待的代价。上线彩排中，Maria说：\"氛围感知是门手艺。\"最后我们互换角色，由我从头到尾主导整段对话。他们的成功就是给我最好的绩效评价。",
+   "hard": []
   }
  ],
  "chunks": [

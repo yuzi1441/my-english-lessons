@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 285,
-   "segment_count": 3,
+   "word_count": 338,
+   "segment_count": 6,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听专业表达 · 提炼观点 · 做一次英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The preview environment is ready. After that, I add the clipboard to my checklist for tomorrow. I copy link while the others watch the dashboard. I reread my notes about the staging branch after lunch. Before I reply, I look at the production branch once more. Before we move on, Maria says, \"It's unusually hot this week.\" I answer, then reuse it in my update. Before we move on, Maria says, \"It should cool down soon.\" I answer, then reuse it in my update. The day ends with a clear plan for tomorrow.",
-   "tts": "The preview environment is ready. After that, I add the clipboard to my checklist for tomorrow. I copy link while the others watch the dashboard. I reread my notes about the staging branch after lunch. Before I reply, I look at the production branch once more. Before we move on, Maria says, \"It's unusually hot this week.\" I answer, then reuse it in my update. Before we move on, Maria says, \"It should cool down soon.\" I answer, then reuse it in my update. The day ends with a clear plan for tomorrow.",
+   "en": "The preview environment is ready. After that, I add the clipboard to my checklist for tomorrow. I reread my notes about the staging branch after lunch. Before we move on, Leo says, \"It's unusually hot this week.\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
+   "tts": "The preview environment is ready. After that, I add the clipboard to my checklist for tomorrow. I reread my notes about the staging branch after lunch. Before we move on, Leo says, \"It's unusually hot this week.\" I answer clearly and note the phrasing. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "预览环境准备好了。在那之后，我把剪贴板加进了明天的清单。我复制链接，其他队友盯着仪表盘。午饭后我重读了关于预发布分支的笔记。回复之前，我又看了一遍生产分支。继续之前，Maria说：\"这周异常地热。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"过几天应该会凉快一些。\"我回答，然后把它用进了自己的汇报。这一天以一份清晰的明日计划结束。",
+   "zh": "预览环境准备好了。在那之后，我把剪贴板加进了明天的清单。午饭后我重读了关于预发布分支的笔记。继续之前，Leo说：\"这周异常地热。\"我清楚地回答，并记下了这个说法。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "clipboard",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I copy link, paste it in the channel, and ask for hands-on feedback. Before we move on, Priya says, \"I got caught in the rain.\" I answer, and we compare notes. Before we move on, Priya says, \"The typhoon is coming.\" I answer, and we compare notes. After a short break, I suggest that we check the paste as plain text first. If we select all, the result should be safe. I double-check the environment config before the review. After that, I promote a build and then explain the risk. I check my notes and confirm the next step.",
-   "tts": "I copy link, paste it in the channel, and ask for hands-on feedback. Before we move on, Priya says, \"I got caught in the rain.\" I answer, and we compare notes. Before we move on, Priya says, \"The typhoon is coming.\" I answer, and we compare notes. After a short break, I suggest that we check the paste as plain text first. If we select all, the result should be safe. I double-check the environment config before the review. After that, I promote a build and then explain the risk. I check my notes and confirm the next step.",
+   "en": "I copy link, paste it in the channel, and ask for hands-on feedback. Before we move on, Maria says, \"It should cool down soon.\" I answer, then reuse it in my update. I copy link while the others watch the dashboard. Before I reply, I look at the production branch once more. I check my notes and confirm the next step.",
+   "tts": "I copy link, paste it in the channel, and ask for hands-on feedback. Before we move on, Maria says, \"It should cool down soon.\" I answer, then reuse it in my update. I copy link while the others watch the dashboard. Before I reply, I look at the production branch once more. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我复制链接，贴到频道里，请大家上手体验。继续之前，Priya说：\"我淋了一场雨。\"我回答，我们互相对了笔记。继续之前，Priya说：\"台风要来了。\"我回答，我们互相对了笔记。稍作休息后，我建议我们先检查粘贴为纯文本。如果我们全选，结果应该是安全的。评审之前，我再核对一遍环境配置。在那之后，我晋级构建，然后解释了风险。我检查笔记，确认了下一步。",
+   "zh": "我复制链接，贴到频道里，请大家上手体验。继续之前，Maria说：\"过几天应该会凉快一些。\"我回答，然后把它用进了自己的汇报。我复制链接，其他队友盯着仪表盘。回复之前，我又看了一遍生产分支。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "paste as plain text",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I walk a new teammate through the hotfix branch. After that, We spend a few minutes on the deploy preview at the standup. We decide to drag and drop after the review. I go through the keyboard focus with Priya and note her advice. Before we move on, Priya says, \"Perfect hiking weather.\" I answer, and we compare notes. Before we move on, Priya says, \"My umbrella broke in the wind.\" I answer, and we compare notes. Real clicks beat imagined users.",
-   "tts": "Before I leave, I write a short summary for the team. I walk a new teammate through the hotfix branch. After that, We spend a few minutes on the deploy preview at the standup. We decide to drag and drop after the review. I go through the keyboard focus with Priya and note her advice. Before we move on, Priya says, \"Perfect hiking weather.\" I answer, and we compare notes. Before we move on, Priya says, \"My umbrella broke in the wind.\" I answer, and we compare notes. Real clicks beat imagined users.",
+   "en": "I copy link, paste it in the channel, and ask for hands-on feedback. I suggest that we check the environment config first. I double-check the paste as plain text before the review. Before we move on, Priya says, \"I got caught in the rain.\" I answer, and we compare notes. Real clicks beat imagined users.",
+   "tts": "I copy link, paste it in the channel, and ask for hands-on feedback. I suggest that we check the environment config first. I double-check the paste as plain text before the review. Before we move on, Priya says, \"I got caught in the rain.\" I answer, and we compare notes. Real clicks beat imagined users.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我带一位新队友过了一遍紧急修复分支。在那之后，站会上我们花了几分钟讨论部署预览。评审之后，我们决定拖放。我和 Priya 过了一遍键盘焦点，记下了她的建议。继续之前，Priya说：\"正是远足的好天气。\"我回答，我们互相对了笔记。继续之前，Priya说：\"我的伞被风吹坏了。\"我回答，我们互相对了笔记。真实的点击胜过想象中的用户。",
+   "zh": "我复制链接，贴到频道里，请大家上手体验。我建议我们先检查环境配置。评审之前，我再核对一遍粘贴为纯文本。继续之前，Priya说：\"我淋了一场雨。\"我回答，我们互相对了笔记。真实的点击胜过想象中的用户。",
    "hard": [
     {
      "w": "drag and drop",
@@ -146,6 +146,33 @@
      "def": "部署预览，为分支生成临时预览环境"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Real clicks beat imagined users. After a short break, If we select all, the result should be safe. Before we move on, Maria says, \"The typhoon is coming.\" I answer, then reuse it in my update. I promote a build and then explain the risk. The day ends with a clear plan for tomorrow.",
+   "tts": "Real clicks beat imagined users. After a short break, If we select all, the result should be safe. Before we move on, Maria says, \"The typhoon is coming.\" I answer, then reuse it in my update. I promote a build and then explain the risk. The day ends with a clear plan for tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "真实的点击胜过想象中的用户。稍作休息后，如果我们全选，结果应该是安全的。继续之前，Maria说：\"台风要来了。\"我回答，然后把它用进了自己的汇报。我晋级构建，然后解释了风险。这一天以一份清晰的明日计划结束。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "I copy link, paste it in the channel, and ask for hands-on feedback. Before we move on, Maria says, \"Perfect hiking weather.\" I answer, then reuse it in my update. I walk a new teammate through the hotfix branch. We decide to drag and drop after the review. I check my notes and confirm the next step.",
+   "tts": "I copy link, paste it in the channel, and ask for hands-on feedback. Before we move on, Maria says, \"Perfect hiking weather.\" I answer, then reuse it in my update. I walk a new teammate through the hotfix branch. We decide to drag and drop after the review. I check my notes and confirm the next step.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我复制链接，贴到频道里，请大家上手体验。继续之前，Maria说：\"正是远足的好天气。\"我回答，然后把它用进了自己的汇报。我带一位新队友过了一遍紧急修复分支。评审之后，我们决定拖放。我检查笔记，确认了下一步。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I write a short summary for the team. We spend a few minutes on the deploy preview at the standup. I go through the keyboard focus with Priya and note her advice. Before we move on, Priya says, \"My umbrella broke in the wind.\" I answer, and we compare notes. Real clicks beat imagined users.",
+   "tts": "Before I leave, I write a short summary for the team. We spend a few minutes on the deploy preview at the standup. I go through the keyboard focus with Priya and note her advice. Before we move on, Priya says, \"My umbrella broke in the wind.\" I answer, and we compare notes. Real clicks beat imagined users.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队写了一份简短的总结。站会上我们花了几分钟讨论部署预览。我和 Priya 过了一遍键盘焦点，记下了她的建议。继续之前，Priya说：\"我的伞被风吹坏了。\"我回答，我们互相对了笔记。真实的点击胜过想象中的用户。",
+   "hard": []
   }
  ],
  "chunks": [

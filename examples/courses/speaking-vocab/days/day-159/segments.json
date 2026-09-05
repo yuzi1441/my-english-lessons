@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 326,
-   "segment_count": 3,
+   "word_count": 385,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We design my first experiment with a real hypothesis. I compare my notes about the evidence table with Priya's. I connect the assumption log to the ticket so nothing gets lost. While the details are fresh, I write down the analyst request queue. In today's standup, I mention the ad hoc request etiquette and what comes next. In the meeting drill, Leo says, \"Numbers advise, humans decide.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The metric is not the mission.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "We design my first experiment with a real hypothesis. I compare my notes about the evidence table with Priya's. I connect the assumption log to the ticket so nothing gets lost. While the details are fresh, I write down the analyst request queue. In today's standup, I mention the ad hoc request etiquette and what comes next. In the meeting drill, Leo says, \"Numbers advise, humans decide.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The metric is not the mission.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "en": "We design my first experiment with a real hypothesis. I compare my notes about the evidence table with Priya's. I connect the analyst request queue to the ticket so nothing gets lost. In the meeting drill, Priya says, \"Numbers advise, humans decide.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We design my first experiment with a real hypothesis. I compare my notes about the evidence table with Priya's. I connect the analyst request queue to the ticket so nothing gets lost. In the meeting drill, Priya says, \"Numbers advise, humans decide.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们设计我的第一个实验，带一个真正的假设。我把关于证据表的笔记和 Priya 的对照了一下。我把假设清单关联到工单上，免得遗漏。趁细节还新鲜，我把分析师请求队列写了下来。今天的站会上，我提到临时取数礼仪和接下来的安排。会议演练中，Leo说：\"数字建议\"之后我们换角色再练一遍。会议演练中，Maria说：\"指标不是使命。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我们设计我的第一个实验，带一个真正的假设。我把关于证据表的笔记和 Priya 的对照了一下。我把分析师请求队列关联到工单上，免得遗漏。会议演练中，Priya说：\"数字建议\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "evidence table",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Sample size, guardrails, a win definition written before we peek. In the meeting drill, Leo says, \"Goodhart whispers everywhere.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"One dashboard, many truths.\" After that, we swap roles and run it again. The guide now has a short section on the confidence rating. At the review, we spend ten minutes on the pre registered analysis. Priya suggests a cleaner way to think about the self serve onboarding. We agree to give the metrics literacy session one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Sample size, guardrails, a win definition written before we peek. In the meeting drill, Leo says, \"Goodhart whispers everywhere.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"One dashboard, many truths.\" After that, we swap roles and run it again. The guide now has a short section on the confidence rating. At the review, we spend ten minutes on the pre registered analysis. Priya suggests a cleaner way to think about the self serve onboarding. We agree to give the metrics literacy session one more careful look this week. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Sample size, guardrails, a win definition written before we peek. In the meeting drill, Maria says, \"The metric is not the mission.\" After that, we swap roles and run it again. While the details are fresh, I write down the assumption log. In today's standup, I mention the ad hoc request etiquette and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Sample size, guardrails, a win definition written before we peek. In the meeting drill, Maria says, \"The metric is not the mission.\" After that, we swap roles and run it again. While the details are fresh, I write down the assumption log. In today's standup, I mention the ad hoc request etiquette and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "样本量、护栏，以及在偷看之前就写好的胜利定义。会议演练中，Leo说：\"古德哈特定律无处不在。\"之后我们换角色再练一遍。会议演练中，Maria说：\"一个面板\"之后我们换角色再练一遍。指南里现在有关于信心评级的简短章节。评审时，我们花了十分钟在预注册分析上。Priya 提出了一个更清晰的自助上手培训思考方式。我们说好这周再把指标素养课仔细看一次。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "样本量、护栏，以及在偷看之前就写好的胜利定义。会议演练中，Maria说：\"指标不是使命。\"之后我们换角色再练一遍。趁细节还新鲜，我把假设清单写了下来。今天的站会上，我提到临时取数礼仪和接下来的安排。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "confidence rating",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the data office hour with Priya's. I connect the insight newsletter to the ticket so nothing gets lost. While the details are fresh, I write down the sensitivity check. In today's standup, I mention the decision memo and what comes next. In the meeting drill, Priya says, \"I close the laptop at six.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Life has no KPI.\" After that, we swap roles and run it again. An experiment is a question asked politely.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the data office hour with Priya's. I connect the insight newsletter to the ticket so nothing gets lost. While the details are fresh, I write down the sensitivity check. In today's standup, I mention the decision memo and what comes next. In the meeting drill, Priya says, \"I close the laptop at six.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Life has no KPI.\" After that, we swap roles and run it again. An experiment is a question asked politely.",
+   "en": "Sample size, guardrails, a win definition written before we peek. The guide now has a short section on the self serve onboarding. At the review, we spend ten minutes on the confidence rating. In the meeting drill, Leo says, \"Goodhart whispers everywhere.\" After that, we swap roles and run it again. An experiment is a question asked politely.",
+   "tts": "Sample size, guardrails, a win definition written before we peek. The guide now has a short section on the self serve onboarding. At the review, we spend ten minutes on the confidence rating. In the meeting drill, Leo says, \"Goodhart whispers everywhere.\" After that, we swap roles and run it again. An experiment is a question asked politely.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于数据答疑时间的笔记和 Priya 的对照了一下。我把洞察简报关联到工单上，免得遗漏。趁细节还新鲜，我把敏感性检查写了下来。今天的站会上，我提到决策备忘和接下来的安排。会议演练中，Priya说：\"六点我合上电脑。\"之后我们换角色再练一遍。会议演练中，Leo说：\"人生没有 KPI。\"之后我们换角色再练一遍。实验是一个被礼貌提出的问题。",
+   "zh": "样本量、护栏，以及在偷看之前就写好的胜利定义。指南里现在有关于自助上手培训的简短章节。评审时，我们花了十分钟在信心评级上。会议演练中，Leo说：\"古德哈特定律无处不在。\"之后我们换角色再练一遍。实验是一个被礼貌提出的问题。",
    "hard": [
     {
      "w": "sensitivity check",
@@ -146,6 +146,33 @@
      "def": "洞察简报，每月一封干货"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "An experiment is a question asked politely. Priya suggests a cleaner way to think about the pre registered analysis. In the meeting drill, Leo says, \"One dashboard, many truths.\" After that, we swap roles and run it again. We agree to give the metrics literacy session one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "An experiment is a question asked politely. Priya suggests a cleaner way to think about the pre registered analysis. In the meeting drill, Leo says, \"One dashboard, many truths.\" After that, we swap roles and run it again. We agree to give the metrics literacy session one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "实验是一个被礼貌提出的问题。Priya 提出了一个更清晰的预注册分析思考方式。会议演练中，Leo说：\"一个面板\"之后我们换角色再练一遍。我们说好这周再把指标素养课仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Sample size, guardrails, a win definition written before we peek. In the meeting drill, Maria says, \"I close the laptop at six.\" After that, we swap roles and run it again. I compare my notes about the data office hour with Priya's. I connect the sensitivity check to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Sample size, guardrails, a win definition written before we peek. In the meeting drill, Maria says, \"I close the laptop at six.\" After that, we swap roles and run it again. I compare my notes about the data office hour with Priya's. I connect the sensitivity check to the ticket so nothing gets lost. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "样本量、护栏，以及在偷看之前就写好的胜利定义。会议演练中，Maria说：\"六点我合上电脑。\"之后我们换角色再练一遍。我把关于数据答疑时间的笔记和 Priya 的对照了一下。我把敏感性检查关联到工单上，免得遗漏。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the insight newsletter. In today's standup, I mention the decision memo and what comes next. In the meeting drill, Leo says, \"Life has no KPI.\" After that, we swap roles and run it again. An experiment is a question asked politely.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the insight newsletter. In today's standup, I mention the decision memo and what comes next. In the meeting drill, Leo says, \"Life has no KPI.\" After that, we swap roles and run it again. An experiment is a question asked politely.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把洞察简报写了下来。今天的站会上，我提到决策备忘和接下来的安排。会议演练中，Leo说：\"人生没有 KPI。\"之后我们换角色再练一遍。实验是一个被礼貌提出的问题。",
+   "hard": []
   }
  ],
  "chunks": [

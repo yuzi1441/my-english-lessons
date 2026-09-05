@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 330,
-   "segment_count": 3,
+   "word_count": 399,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I shadow the support desk for a day. We agree to give the virtual coffee roulette one more careful look this week. The guide now has a short section on the demo day playlist. I connect the process retro to the ticket so nothing gets lost. While the details are fresh, I write down the tooling wishlist. In the meeting drill, Leo says, \"The 24h noodle place.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Late shift regulars nod.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "I shadow the support desk for a day. We agree to give the virtual coffee roulette one more careful look this week. The guide now has a short section on the demo day playlist. I connect the process retro to the ticket so nothing gets lost. While the details are fresh, I write down the tooling wishlist. In the meeting drill, Leo says, \"The 24h noodle place.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Late shift regulars nod.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "en": "I shadow the support desk for a day. We agree to give the virtual coffee roulette one more careful look this week. The guide now has a short section on the process retro. In the meeting drill, Priya says, \"The 24h noodle place.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "I shadow the support desk for a day. We agree to give the virtual coffee roulette one more careful look this week. The guide now has a short section on the process retro. In the meeting drill, Priya says, \"The 24h noodle place.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我去支持团队影子了一天。我们说好这周再把线上咖啡轮盘仔细看一次。指南里现在有关于演示日歌单的简短章节。我把流程复盘关联到工单上，免得遗漏。趁细节还新鲜，我把工具愿望单写了下来。会议演练中，Leo说：\"二十四小时的面馆。\"之后我们换角色再练一遍。会议演练中，Maria说：\"晚班常客互相点头。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我去支持团队影子了一天。我们说好这周再把线上咖啡轮盘仔细看一次。指南里现在有关于流程复盘的简短章节。会议演练中，Priya说：\"二十四小时的面馆。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "virtual coffee roulette",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Eight tickets, four frustrated voices, and every one of them about clarity. In the meeting drill, Leo says, \"Broth at midnight heals.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The owner remembers your order.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the remote retro board. I compare my notes about the focus hours agreement with Priya's. Priya suggests a cleaner way to think about the collab wins thread. In today's standup, I mention the friction log and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Eight tickets, four frustrated voices, and every one of them about clarity. In the meeting drill, Leo says, \"Broth at midnight heals.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The owner remembers your order.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the remote retro board. I compare my notes about the focus hours agreement with Priya's. Priya suggests a cleaner way to think about the collab wins thread. In today's standup, I mention the friction log and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Eight tickets, four frustrated voices, and every one of them about clarity. In the meeting drill, Maria says, \"Late shift regulars nod.\" After that, we swap roles and run it again. I connect the demo day playlist to the ticket so nothing gets lost. While the details are fresh, I write down the tooling wishlist. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Eight tickets, four frustrated voices, and every one of them about clarity. In the meeting drill, Maria says, \"Late shift regulars nod.\" After that, we swap roles and run it again. I connect the demo day playlist to the ticket so nothing gets lost. While the details are fresh, I write down the tooling wishlist. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "八张工单，四个着急的声音，全都与“说清楚”有关。会议演练中，Leo说：\"午夜的热汤治愈人。\"之后我们换角色再练一遍。会议演练中，Maria说：\"老板记得你的口味。\"之后我们换角色再练一遍。评审时，我们花了十分钟在线上复盘看板上。我把关于专注时段约定的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的协作亮点帖思考方式。今天的站会上，我提到摩擦日志和接下来的安排。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "八张工单，四个着急的声音，全都与“说清楚”有关。会议演练中，Maria说：\"晚班常客互相点头。\"之后我们换角色再练一遍。我把演示日歌单关联到工单上，免得遗漏。趁细节还新鲜，我把工具愿望单写了下来。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "remote retro board",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the process experiment one more careful look this week. The guide now has a short section on the adopt or drop. I connect the team photo day to the ticket so nothing gets lost. While the details are fresh, I write down the birthday bot. In the meeting drill, Priya says, \"Quiet TV, louder warmth.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Walk home under streetlights.\" After that, we swap roles and run it again. The users read our error messages more than our changelogs.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the process experiment one more careful look this week. The guide now has a short section on the adopt or drop. I connect the team photo day to the ticket so nothing gets lost. While the details are fresh, I write down the birthday bot. In the meeting drill, Priya says, \"Quiet TV, louder warmth.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Walk home under streetlights.\" After that, we swap roles and run it again. The users read our error messages more than our changelogs.",
+   "en": "Eight tickets, four frustrated voices, and every one of them about clarity. At the review, we spend ten minutes on the collab wins thread. I compare my notes about the remote retro board with Priya's. In the meeting drill, Leo says, \"Broth at midnight heals.\" After that, we swap roles and run it again. The users read our error messages more than our changelogs.",
+   "tts": "Eight tickets, four frustrated voices, and every one of them about clarity. At the review, we spend ten minutes on the collab wins thread. I compare my notes about the remote retro board with Priya's. In the meeting drill, Leo says, \"Broth at midnight heals.\" After that, we swap roles and run it again. The users read our error messages more than our changelogs.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把流程实验仔细看一次。指南里现在有关于采纳或放弃的简短章节。我把团队合影日关联到工单上，免得遗漏。趁细节还新鲜，我把生日机器人写了下来。会议演练中，Priya说：\"电视很静\"之后我们换角色再练一遍。会议演练中，Leo说：\"路灯下走回家。\"之后我们换角色再练一遍。用户读错误信息的次数，比读更新日志多得多。",
+   "zh": "八张工单，四个着急的声音，全都与“说清楚”有关。评审时，我们花了十分钟在协作亮点帖上。我把关于线上复盘看板的笔记和 Priya 的对照了一下。会议演练中，Leo说：\"午夜的热汤治愈人。\"之后我们换角色再练一遍。用户读错误信息的次数，比读更新日志多得多。",
    "hard": [
     {
      "w": "team photo day",
@@ -146,6 +146,33 @@
      "def": "采纳或放弃，实验的两种结局"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The users read our error messages more than our changelogs. Priya suggests a cleaner way to think about the focus hours agreement. In the meeting drill, Leo says, \"The owner remembers your order.\" After that, we swap roles and run it again. In today's standup, I mention the friction log and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The users read our error messages more than our changelogs. Priya suggests a cleaner way to think about the focus hours agreement. In the meeting drill, Leo says, \"The owner remembers your order.\" After that, we swap roles and run it again. In today's standup, I mention the friction log and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "用户读错误信息的次数，比读更新日志多得多。Priya 提出了一个更清晰的专注时段约定思考方式。会议演练中，Leo说：\"老板记得你的口味。\"之后我们换角色再练一遍。今天的站会上，我提到摩擦日志和接下来的安排。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Eight tickets, four frustrated voices, and every one of them about clarity. In the meeting drill, Maria says, \"Quiet TV, louder warmth.\" After that, we swap roles and run it again. We agree to give the process experiment one more careful look this week. The guide now has a short section on the team photo day. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Eight tickets, four frustrated voices, and every one of them about clarity. In the meeting drill, Maria says, \"Quiet TV, louder warmth.\" After that, we swap roles and run it again. We agree to give the process experiment one more careful look this week. The guide now has a short section on the team photo day. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "八张工单，四个着急的声音，全都与“说清楚”有关。会议演练中，Maria说：\"电视很静\"之后我们换角色再练一遍。我们说好这周再把流程实验仔细看一次。指南里现在有关于团队合影日的简短章节。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the adopt or drop to the ticket so nothing gets lost. While the details are fresh, I write down the birthday bot. In the meeting drill, Leo says, \"Walk home under streetlights.\" After that, we swap roles and run it again. The users read our error messages more than our changelogs.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the adopt or drop to the ticket so nothing gets lost. While the details are fresh, I write down the birthday bot. In the meeting drill, Leo says, \"Walk home under streetlights.\" After that, we swap roles and run it again. The users read our error messages more than our changelogs.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把采纳或放弃关联到工单上，免得遗漏。趁细节还新鲜，我把生日机器人写了下来。会议演练中，Leo说：\"路灯下走回家。\"之后我们换角色再练一遍。用户读错误信息的次数，比读更新日志多得多。",
+   "hard": []
   }
  ],
  "chunks": [

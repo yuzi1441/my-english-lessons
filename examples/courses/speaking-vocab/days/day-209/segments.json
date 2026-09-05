@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 339,
-   "segment_count": 3,
+   "word_count": 404,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A junior asks which decisions the AI may make alone. At the review, we spend ten minutes on the project memory file. We agree to give the decision context preservation one more careful look this week. Priya suggests a cleaner way to think about the handover doc assist. I connect the video walkthrough library to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Ten years of journals, digitized.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The same worry, different years.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "A junior asks which decisions the A I may make alone. At the review, we spend ten minutes on the project memory file. We agree to give the decision context preservation one more careful look this week. Priya suggests a cleaner way to think about the handover doc assist. I connect the video walkthrough library to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Ten years of journals, digitized.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The same worry, different years.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "A junior asks which decisions the AI may make alone. At the review, we spend ten minutes on the project memory file. We agree to give the handover doc assist one more careful look this week. In the meeting drill, Leo says, \"Ten years of journals, digitized.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "A junior asks which decisions the A I may make alone. At the review, we spend ten minutes on the project memory file. We agree to give the handover doc assist one more careful look this week. In the meeting drill, Leo says, \"Ten years of journals, digitized.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "新人问哪些决定可以完全交给 AI。评审时，我们花了十分钟在项目记忆文件上。我们说好这周再把决策上下文保全仔细看一次。Priya 提出了一个更清晰的交接文档生成辅助思考方式。我把视频走讲库关联到工单上，免得遗漏。会议演练中，Maria说：\"十年日记数字化。\"之后我们换角色再练一遍。会议演练中，Priya说：\"同样的担心\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "新人问哪些决定可以完全交给 AI。评审时，我们花了十分钟在项目记忆文件上。我们说好这周再把交接文档生成辅助仔细看一次。会议演练中，Leo说：\"十年日记数字化。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "project memory file",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We write the line together: it may suggest, summarize, and scaffold; it may not decide. In the meeting drill, Maria says, \"Growth shows only in hindsight.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Search finds the old courage.\" After that, we swap roles and run it again. While the details are fresh, I write down the context compaction. In today's standup, I mention the continuity digest and what comes next. The guide now has a short section on the tacit knowledge guide. I compare my notes about the module contact map with Priya's. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "We write the line together: it may suggest, summarize, and scaffold; it may not decide. In the meeting drill, Maria says, \"Growth shows only in hindsight.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Search finds the old courage.\" After that, we swap roles and run it again. While the details are fresh, I write down the context compaction. In today's standup, I mention the continuity digest and what comes next. The guide now has a short section on the tacit knowledge guide. I compare my notes about the module contact map with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "en": "We write the line together: it may suggest, summarize, and scaffold; it may not decide. In the meeting drill, Priya says, \"The same worry, different years.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the decision context preservation. I connect the video walkthrough library to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We write the line together: it may suggest, summarize, and scaffold; it may not decide. In the meeting drill, Priya says, \"The same worry, different years.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the decision context preservation. I connect the video walkthrough library to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们一起写下这条线：它可以建议、总结、搭手手架；它不能决定。会议演练中，Maria说：\"成长只在回望时可见。\"之后我们换角色再练一遍。会议演练中，Priya说：\"搜索找到旧的勇气。\"之后我们换角色再练一遍。趁细节还新鲜，我把上下文压缩写了下来。今天的站会上，我提到连续性摘要和接下来的安排。指南里现在有关于隐性知识指南的简短章节。我把关于模块联系人地图的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我们一起写下这条线：它可以建议、总结、搭手手架；它不能决定。会议演练中，Priya说：\"同样的担心\"之后我们换角色再练一遍。Priya 提出了一个更清晰的决策上下文保全思考方式。我把视频走讲库关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "context compaction",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the decision timeline view. We agree to give the new lead ramp up plan one more careful look this week. Priya suggests a cleaner way to think about the onboarding context pack. I connect the cross quarter recall practice to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Annual rereading ritual.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The past advises, gently.\" After that, we swap roles and run it again. The roadmap stays human.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the decision timeline view. We agree to give the new lead ramp up plan one more careful look this week. Priya suggests a cleaner way to think about the onboarding context pack. I connect the cross quarter recall practice to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Annual rereading ritual.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The past advises, gently.\" After that, we swap roles and run it again. The roadmap stays human.",
+   "en": "We write the line together: it may suggest, summarize, and scaffold; it may not decide. While the details are fresh, I write down the tacit knowledge guide. In today's standup, I mention the context compaction and what comes next. In the meeting drill, Maria says, \"Growth shows only in hindsight.\" After that, we swap roles and run it again. The roadmap stays human.",
+   "tts": "We write the line together: it may suggest, summarize, and scaffold; it may not decide. While the details are fresh, I write down the tacit knowledge guide. In today's standup, I mention the context compaction and what comes next. In the meeting drill, Maria says, \"Growth shows only in hindsight.\" After that, we swap roles and run it again. The roadmap stays human.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在历史决策时间线上。我们说好这周再把新负责人上手计划仔细看一次。Priya 提出了一个更清晰的入职上下文包思考方式。我把跨季度记忆练习关联到工单上，免得遗漏。会议演练中，Leo说：\"每年重读的仪式。\"之后我们换角色再练一遍。会议演练中，Maria说：\"过去温和地建议。\"之后我们换角色再练一遍。路线图永远属于人类。",
+   "zh": "我们一起写下这条线：它可以建议、总结、搭手手架；它不能决定。趁细节还新鲜，我把隐性知识指南写了下来。今天的站会上，我提到上下文压缩和接下来的安排。会议演练中，Maria说：\"成长只在回望时可见。\"之后我们换角色再练一遍。路线图永远属于人类。",
    "hard": [
     {
      "w": "onboarding context pack",
@@ -146,6 +146,33 @@
      "def": "新负责人上手计划，一个月接得住"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The roadmap stays human. The guide now has a short section on the continuity digest. In the meeting drill, Maria says, \"Search finds the old courage.\" After that, we swap roles and run it again. I compare my notes about the module contact map with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The roadmap stays human. The guide now has a short section on the continuity digest. In the meeting drill, Maria says, \"Search finds the old courage.\" After that, we swap roles and run it again. I compare my notes about the module contact map with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "路线图永远属于人类。指南里现在有关于连续性摘要的简短章节。会议演练中，Maria说：\"搜索找到旧的勇气。\"之后我们换角色再练一遍。我把关于模块联系人地图的笔记和 Priya 的对照了一下。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "We write the line together: it may suggest, summarize, and scaffold; it may not decide. In the meeting drill, Priya says, \"Annual rereading ritual.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the decision timeline view. We agree to give the onboarding context pack one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "We write the line together: it may suggest, summarize, and scaffold; it may not decide. In the meeting drill, Priya says, \"Annual rereading ritual.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the decision timeline view. We agree to give the onboarding context pack one more careful look this week. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我们一起写下这条线：它可以建议、总结、搭手手架；它不能决定。会议演练中，Priya说：\"每年重读的仪式。\"之后我们换角色再练一遍。评审时，我们花了十分钟在历史决策时间线上。我们说好这周再把入职上下文包仔细看一次。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the new lead ramp up plan. I connect the cross quarter recall practice to the ticket so nothing gets lost. In the meeting drill, Maria says, \"The past advises, gently.\" After that, we swap roles and run it again. The roadmap stays human.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the new lead ramp up plan. I connect the cross quarter recall practice to the ticket so nothing gets lost. In the meeting drill, Maria says, \"The past advises, gently.\" After that, we swap roles and run it again. The roadmap stays human.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的新负责人上手计划思考方式。我把跨季度记忆练习关联到工单上，免得遗漏。会议演练中，Maria说：\"过去温和地建议。\"之后我们换角色再练一遍。路线图永远属于人类。",
+   "hard": []
   }
  ],
  "chunks": [

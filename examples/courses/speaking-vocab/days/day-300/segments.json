@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 421,
-   "segment_count": 3,
+   "word_count": 508,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day two hundred ninety five: the side project pays for its own server, its own support, and our Sunday brunch. I put the note taking for ideas on the record so the reasoning stays visible. The final deck includes the focus playlist science and what we learned from it. We review the repo annual health check against the requirements, line by line. My report covers the secrets rotation year task, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Lunch away from the desk, daily.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The same bowl of noodles thinks.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
-   "tts": "Day two hundred ninety five: the side project pays for its own server, its own support, and our Sunday brunch. I put the note taking for ideas on the record so the reasoning stays visible. The final deck includes the focus playlist science and what we learned from it. We review the repo annual health check against the requirements, line by line. My report covers the secrets rotation year task, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Lunch away from the desk, daily.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"The same bowl of noodles thinks.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "en": "Day two hundred ninety five: the side project pays for its own server, its own support, and our Sunday brunch. I put the note taking for ideas on the record so the reasoning stays visible. The final deck includes the repo annual health check and what we learned from it. In the launch rehearsal, Priya says, \"Lunch away from the desk, daily.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "Day two hundred ninety five: the side project pays for its own server, its own support, and our Sunday brunch. I put the note taking for ideas on the record so the reasoning stays visible. The final deck includes the repo annual health check and what we learned from it. In the launch rehearsal, Priya says, \"Lunch away from the desk, daily.\" To finish, we swap roles and I lead the entire exchange from start to finish. I own the outcome, the next step, and the story we will tell about both.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第二百九十五天：副业付得起自己的服务器、自己的客服，和周日的早午餐。我把点子速记系统记录在案，让推理过程保持可见。最终的材料里有专注歌单科学，以及我们从中学到的东西。我们逐行对照需求检查了仓库年度体检。我的报告涵盖年度密钥轮换任务、背后的风险，以及等待的代价。上线彩排中，Leo说：\"每天离开书桌吃午饭。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"同一碗面想不同的事。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "zh": "第二百九十五天：副业付得起自己的服务器、自己的客服，和周日的早午餐。我把点子速记系统记录在案，让推理过程保持可见。最终的材料里有仓库年度体检，以及我们从中学到的东西。上线彩排中，Priya说：\"每天离开书桌吃午饭。\"最后我们互换角色，由我从头到尾主导整段对话。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
    "hard": [
     {
      "w": "note taking for ideas",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria, still my mentor, asks the real question: \"Does it still bring you calm?\" In the launch rehearsal, Leo says, \"Walk before the afternoon slump.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Market lunch supports the stall.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the reading queue for builders with a timeline, the data, and one clear ask. I close the discussion on the boilerplate starter choice with a short summary. We align on the old branch burial day early, so execution never has to guess. I propose a measurable target for the readme refresh hour this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "Maria, still my mentor, asks the real question: \"Does it still bring you calm?\" In the launch rehearsal, Leo says, \"Walk before the afternoon slump.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Maria says, \"Market lunch supports the stall.\" To finish, we swap roles and I lead the entire exchange from start to finish. I present the reading queue for builders with a timeline, the data, and one clear ask. I close the discussion on the boilerplate starter choice with a short summary. We align on the old branch burial day early, so execution never has to guess. I propose a measurable target for the readme refresh hour this quarter. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "Maria, still my mentor, asks the real question: \"Does it still bring you calm?\" In the launch rehearsal, Maria says, \"The same bowl of noodles thinks.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the focus playlist science against the requirements, line by line. My report covers the secrets rotation year task, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Maria, still my mentor, asks the real question: \"Does it still bring you calm?\" In the launch rehearsal, Maria says, \"The same bowl of noodles thinks.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the focus playlist science against the requirements, line by line. My report covers the secrets rotation year task, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我的导师 Maria 问了真正的问题：“它还让你平静吗？”上线彩排中，Leo说：\"午后倦怠前先走走。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Maria说：\"市场午餐支持小摊。\"最后我们互换角色，由我从头到尾主导整段对话。我用时间线、数据和一条明确的诉求来汇报建造者书单。我用一段简短的总结为脚手架起步选型的讨论收尾。我们尽早就旧分支下葬日对齐，让执行无需猜测。我为README 刷新一小时提出了本季度一个可衡量的目标。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "我的导师 Maria 问了真正的问题：“它还让你平静吗？”上线彩排中，Maria说：\"同一碗面想不同的事。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了专注歌单科学。我的报告涵盖年度密钥轮换任务、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "reading queue for builders",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the license and credits review on the record so the reasoning stays visible. The final deck includes the archive decision and what we learned from it. We review the hardware that lasts against the requirements, line by line. My report covers the single dashboard, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Eating slow is debugging.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Cooking one dish keeps hands humble.\" To finish, we swap roles and I lead the entire exchange from start to finish. It does — on Sundays I still code just for the joy of it.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. I put the license and credits review on the record so the reasoning stays visible. The final deck includes the archive decision and what we learned from it. We review the hardware that lasts against the requirements, line by line. My report covers the single dashboard, the risks behind it, and the cost of waiting. In the launch rehearsal, Priya says, \"Eating slow is debugging.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Cooking one dish keeps hands humble.\" To finish, we swap roles and I lead the entire exchange from start to finish. It does — on Sundays I still code just for the joy of it.",
+   "en": "Maria, still my mentor, asks the real question: \"Does it still bring you calm?\" I present the old branch burial day with a timeline, the data, and one clear ask. I close the discussion on the reading queue for builders with a short summary. In the launch rehearsal, Leo says, \"Walk before the afternoon slump.\" To finish, we swap roles and I lead the entire exchange from start to finish. It does — on Sundays I still code just for the joy of it.",
+   "tts": "Maria, still my mentor, asks the real question: \"Does it still bring you calm?\" I present the old branch burial day with a timeline, the data, and one clear ask. I close the discussion on the reading queue for builders with a short summary. In the launch rehearsal, Leo says, \"Walk before the afternoon slump.\" To finish, we swap roles and I lead the entire exchange from start to finish. It does — on Sundays I still code just for the joy of it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我把许可与致谢复查记录在案，让推理过程保持可见。最终的材料里有归档决定，以及我们从中学到的东西。我们逐行对照需求检查了耐用的硬件。我的报告涵盖唯一的看板、背后的风险，以及等待的代价。上线彩排中，Priya说：\"慢慢吃就是调试。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"烧一道菜让手保持谦逊。\"最后我们互换角色，由我从头到尾主导整段对话。是的——周日我仍会纯粹为快乐写代码。",
+   "zh": "我的导师 Maria 问了真正的问题：“它还让你平静吗？”我用时间线、数据和一条明确的诉求来汇报旧分支下葬日。我用一段简短的总结为建造者书单的讨论收尾。上线彩排中，Leo说：\"午后倦怠前先走走。\"最后我们互换角色，由我从头到尾主导整段对话。是的——周日我仍会纯粹为快乐写代码。",
    "hard": [
     {
      "w": "hardware that lasts",
@@ -146,6 +146,33 @@
      "def": "归档决定，哪些仓库入博物馆"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "It does — on Sundays I still code just for the joy of it. We align on the boilerplate starter choice early, so execution never has to guess. In the launch rehearsal, Leo says, \"Market lunch supports the stall.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the readme refresh hour this quarter. I own the outcome, the next step, and the story we will tell about both.",
+   "tts": "It does — on Sundays I still code just for the joy of it. We align on the boilerplate starter choice early, so execution never has to guess. In the launch rehearsal, Leo says, \"Market lunch supports the stall.\" To finish, we swap roles and I lead the entire exchange from start to finish. I propose a measurable target for the readme refresh hour this quarter. I own the outcome, the next step, and the story we will tell about both.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "是的——周日我仍会纯粹为快乐写代码。我们尽早就脚手架起步选型对齐，让执行无需猜测。上线彩排中，Leo说：\"市场午餐支持小摊。\"最后我们互换角色，由我从头到尾主导整段对话。我为README 刷新一小时提出了本季度一个可衡量的目标。我对结果负责，对下一步负责，也对我们将来讲述的故事负责。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Maria, still my mentor, asks the real question: \"Does it still bring you calm?\" In the launch rehearsal, Maria says, \"Eating slow is debugging.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the license and credits review on the record so the reasoning stays visible. The final deck includes the hardware that lasts and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Maria, still my mentor, asks the real question: \"Does it still bring you calm?\" In the launch rehearsal, Maria says, \"Eating slow is debugging.\" To finish, we swap roles and I lead the entire exchange from start to finish. I put the license and credits review on the record so the reasoning stays visible. The final deck includes the hardware that lasts and what we learned from it. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我的导师 Maria 问了真正的问题：“它还让你平静吗？”上线彩排中，Maria说：\"慢慢吃就是调试。\"最后我们互换角色，由我从头到尾主导整段对话。我把许可与致谢复查记录在案，让推理过程保持可见。最终的材料里有耐用的硬件，以及我们从中学到的东西。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the archive decision against the requirements, line by line. My report covers the single dashboard, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Cooking one dish keeps hands humble.\" To finish, we swap roles and I lead the entire exchange from start to finish. It does — on Sundays I still code just for the joy of it.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the archive decision against the requirements, line by line. My report covers the single dashboard, the risks behind it, and the cost of waiting. In the launch rehearsal, Leo says, \"Cooking one dish keeps hands humble.\" To finish, we swap roles and I lead the entire exchange from start to finish. It does — on Sundays I still code just for the joy of it.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了归档决定。我的报告涵盖唯一的看板、背后的风险，以及等待的代价。上线彩排中，Leo说：\"烧一道菜让手保持谦逊。\"最后我们互换角色，由我从头到尾主导整段对话。是的——周日我仍会纯粹为快乐写代码。",
+   "hard": []
   }
  ],
  "chunks": [

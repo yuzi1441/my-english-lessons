@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 402,
-   "segment_count": 3,
+   "word_count": 462,
+   "segment_count": 6,
    "difficulty": "专业汇报 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听完整汇报 · 提炼观点 · 做一次完整英文汇报",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A tiny bug appears; someone else fixes it before I read the alert. We review the compound habit proof against the requirements, line by line. The final deck includes the vocabulary of a year and what we learned from it. We align on the project completion report early, so execution never has to guess. I propose a measurable target for the lessons that outlive the course this quarter. In the launch rehearsal, Priya says, \"Day three hundred sixty five feast.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Everyone shares one English sentence.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
-   "tts": "A tiny bug appears; someone else fixes it before I read the alert. We review the compound habit proof against the requirements, line by line. The final deck includes the vocabulary of a year and what we learned from it. We align on the project completion report early, so execution never has to guess. I propose a measurable target for the lessons that outlive the course this quarter. In the launch rehearsal, Priya says, \"Day three hundred sixty five feast.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"Everyone shares one English sentence.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "en": "A tiny bug appears; someone else fixes it before I read the alert. We review the compound habit proof against the requirements, line by line. The final deck includes the project completion report and what we learned from it. In the launch rehearsal, Maria says, \"Day three hundred sixty five feast.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "A tiny bug appears; someone else fixes it before I read the alert. We review the compound habit proof against the requirements, line by line. The final deck includes the project completion report and what we learned from it. In the launch rehearsal, Maria says, \"Day three hundred sixty five feast.\" To finish, we swap roles and I lead the entire exchange from start to finish. The team ships faster because we learned to speak clearly before we learned to code fast.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个小缺陷出现；我还没看到告警，别人已修好。我们逐行对照需求检查了习惯复利的证据。最终的材料里有一年的词汇量，以及我们从中学到的东西。我们尽早就项目完成报告对齐，让执行无需猜测。我为比课程更长久的教训提出了本季度一个可衡量的目标。上线彩排中，Priya说：\"第三百六十五天的家宴。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"每人说一句英文。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "zh": "一个小缺陷出现；我还没看到告警，别人已修好。我们逐行对照需求检查了习惯复利的证据。最终的材料里有项目完成报告，以及我们从中学到的东西。上线彩排中，Maria说：\"第三百六十五天的家宴。\"最后我们互换角色，由我从头到尾主导整段对话。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
    "hard": [
     {
      "w": "compound habit proof",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I close my laptop and walk in the park instead. In the launch rehearsal, Priya says, \"Grandma toast in two languages.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The year book on the table.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the confidence inventory final with a short summary. I present the story I can now tell with a timeline, the data, and one clear ask. I put the community that formed on the record so the reasoning stays visible. My report covers the open source of the course tools, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
-   "tts": "I close my laptop and walk in the park instead. In the launch rehearsal, Priya says, \"Grandma toast in two languages.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Leo says, \"The year book on the table.\" To finish, we swap roles and I lead the entire exchange from start to finish. I close the discussion on the confidence inventory final with a short summary. I present the story I can now tell with a timeline, the data, and one clear ask. I put the community that formed on the record so the reasoning stays visible. My report covers the open source of the course tools, the risks behind it, and the cost of waiting. The launch reflects a month of steady work and a year of short sentences.",
+   "en": "I close my laptop and walk in the park instead. In the launch rehearsal, Leo says, \"Everyone shares one English sentence.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the vocabulary of a year early, so execution never has to guess. I propose a measurable target for the lessons that outlive the course this quarter. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "I close my laptop and walk in the park instead. In the launch rehearsal, Leo says, \"Everyone shares one English sentence.\" To finish, we swap roles and I lead the entire exchange from start to finish. We align on the vocabulary of a year early, so execution never has to guess. I propose a measurable target for the lessons that outlive the course this quarter. The launch reflects a month of steady work and a year of short sentences.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我合上电脑，去公园散步。上线彩排中，Priya说：\"奶奶用两种语言祝酒。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Leo说：\"年册摆在桌上。\"最后我们互换角色，由我从头到尾主导整段对话。我用一段简短的总结为最终信心盘点的讨论收尾。我用时间线、数据和一条明确的诉求来汇报现在能讲出的故事。我把长出来的社区记录在案，让推理过程保持可见。我的报告涵盖课程工具的开源、背后的风险，以及等待的代价。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "zh": "我合上电脑，去公园散步。上线彩排中，Leo说：\"每人说一句英文。\"最后我们互换角色，由我从头到尾主导整段对话。我们尽早就一年的词汇量对齐，让执行无需猜测。我为比课程更长久的教训提出了本季度一个可衡量的目标。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
    "hard": [
     {
      "w": "confidence inventory final",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the next 365 invitation against the requirements, line by line. The final deck includes the day one beginner mind kept and what we learned from it. We align on the next language steps early, so execution never has to guess. I propose a measurable target for the gratitude to mentors final this quarter. In the launch rehearsal, Maria says, \"Gratitude circle before dessert.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The next book opens tomorrow.\" To finish, we swap roles and I lead the entire exchange from start to finish. Being unnecessary is the promotion.",
-   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We review the next 365 invitation against the requirements, line by line. The final deck includes the day one beginner mind kept and what we learned from it. We align on the next language steps early, so execution never has to guess. I propose a measurable target for the gratitude to mentors final this quarter. In the launch rehearsal, Maria says, \"Gratitude circle before dessert.\" To finish, we swap roles and I lead the entire exchange from start to finish. In the launch rehearsal, Priya says, \"The next book opens tomorrow.\" To finish, we swap roles and I lead the entire exchange from start to finish. Being unnecessary is the promotion.",
+   "en": "I close my laptop and walk in the park instead. I close the discussion on the community that formed with a short summary. I present the confidence inventory final with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"Grandma toast in two languages.\" To finish, we swap roles and I lead the entire exchange from start to finish. Being unnecessary is the promotion.",
+   "tts": "I close my laptop and walk in the park instead. I close the discussion on the community that formed with a short summary. I present the confidence inventory final with a timeline, the data, and one clear ask. In the launch rehearsal, Priya says, \"Grandma toast in two languages.\" To finish, we swap roles and I lead the entire exchange from start to finish. Being unnecessary is the promotion.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们逐行对照需求检查了下一个 365 的邀请。最终的材料里有保留下来的第一天初心，以及我们从中学到的东西。我们尽早就下一阶段语言计划对齐，让执行无需猜测。我为对导师的最终致谢提出了本季度一个可衡量的目标。上线彩排中，Maria说：\"甜点前围圈致谢。\"最后我们互换角色，由我从头到尾主导整段对话。上线彩排中，Priya说：\"明天翻开新的一本。\"最后我们互换角色，由我从头到尾主导整段对话。变得不再必要，就是晋升。",
+   "zh": "我合上电脑，去公园散步。我用一段简短的总结为长出来的社区的讨论收尾。我用时间线、数据和一条明确的诉求来汇报最终信心盘点。上线彩排中，Priya说：\"奶奶用两种语言祝酒。\"最后我们互换角色，由我从头到尾主导整段对话。变得不再必要，就是晋升。",
    "hard": [
     {
      "w": "next language steps",
@@ -146,6 +146,33 @@
      "def": "保留下来的第一天初心，永远的新手"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Being unnecessary is the promotion. I put the story I can now tell on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"The year book on the table.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the open source of the course tools, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "tts": "Being unnecessary is the promotion. I put the story I can now tell on the record so the reasoning stays visible. In the launch rehearsal, Priya says, \"The year book on the table.\" To finish, we swap roles and I lead the entire exchange from start to finish. My report covers the open source of the course tools, the risks behind it, and the cost of waiting. The team ships faster because we learned to speak clearly before we learned to code fast.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "变得不再必要，就是晋升。我把现在能讲出的故事记录在案，让推理过程保持可见。上线彩排中，Priya说：\"年册摆在桌上。\"最后我们互换角色，由我从头到尾主导整段对话。我的报告涵盖课程工具的开源、背后的风险，以及等待的代价。团队交付得更快，因为我们先学会了把话说清楚，再学会把代码写快。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "I close my laptop and walk in the park instead. In the launch rehearsal, Leo says, \"Gratitude circle before dessert.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the next 365 invitation against the requirements, line by line. The final deck includes the next language steps and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "tts": "I close my laptop and walk in the park instead. In the launch rehearsal, Leo says, \"Gratitude circle before dessert.\" To finish, we swap roles and I lead the entire exchange from start to finish. We review the next 365 invitation against the requirements, line by line. The final deck includes the next language steps and what we learned from it. The launch reflects a month of steady work and a year of short sentences.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我合上电脑，去公园散步。上线彩排中，Leo说：\"甜点前围圈致谢。\"最后我们互换角色，由我从头到尾主导整段对话。我们逐行对照需求检查了下一个 365 的邀请。最终的材料里有下一阶段语言计划，以及我们从中学到的东西。这次上线凝聚了一个月的稳定投入，也凝聚了一年的短句练习。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the day one beginner mind kept early, so execution never has to guess. I propose a measurable target for the gratitude to mentors final this quarter. In the launch rehearsal, Priya says, \"The next book opens tomorrow.\" To finish, we swap roles and I lead the entire exchange from start to finish. Being unnecessary is the promotion.",
+   "tts": "Before I leave, I send a short wrap-up with numbers, names, and one thank-you. We align on the day one beginner mind kept early, so execution never has to guess. I propose a measurable target for the gratitude to mentors final this quarter. In the launch rehearsal, Priya says, \"The next book opens tomorrow.\" To finish, we swap roles and I lead the entire exchange from start to finish. Being unnecessary is the promotion.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我给团队发一份简短总结，带上数字、名字和一句感谢。我们尽早就保留下来的第一天初心对齐，让执行无需猜测。我为对导师的最终致谢提出了本季度一个可衡量的目标。上线彩排中，Priya说：\"明天翻开新的一本。\"最后我们互换角色，由我从头到尾主导整段对话。变得不再必要，就是晋升。",
+   "hard": []
   }
  ],
  "chunks": [

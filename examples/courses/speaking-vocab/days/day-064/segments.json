@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 309,
-   "segment_count": 3,
+   "word_count": 364,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We stage the release and tag it as a release candidate. I keep one real example of the observability in my notebook. There is a short paragraph about the structured event in the guide. I add the dev environment to my study notes before I forget it. I go over the ephemeral environment one more time before lunch. In the warm-up round, Priya says, \"Welcome aboard!\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Ask me anything, really.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
-   "tts": "We stage the release and tag it as a release candidate. I keep one real example of the observability in my notebook. There is a short paragraph about the structured event in the guide. I add the dev environment to my study notes before I forget it. I go over the ephemeral environment one more time before lunch. In the warm-up round, Priya says, \"Welcome aboard!\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Ask me anything, really.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "en": "We stage the release and tag it as a release candidate. I keep one real example of the observability in my notebook. There is a short paragraph about the dev environment in the guide. In the warm-up round, Maria says, \"Welcome aboard!\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "We stage the release and tag it as a release candidate. I keep one real example of the observability in my notebook. There is a short paragraph about the dev environment in the guide. In the warm-up round, Maria says, \"Welcome aboard!\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们准备发布并打上候选版本的标签。我在笔记本里留了一个可观测性的真实例子。指南里有一小段关于结构化事件的介绍。我趁还没忘，把开发环境记进了学习笔记。午饭前我又过了一遍临时环境。热身环节里，Priya说：\"欢迎加入！\"然后我们换角色，由我来问。热身环节里，Leo说：\"真的\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们准备发布并打上候选版本的标签。我在笔记本里留了一个可观测性的真实例子。指南里有一小段关于开发环境的介绍。热身环节里，Maria说：\"欢迎加入！\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "observability",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The candidate runs all weekend on the staging branch without a peep. In the warm-up round, Priya says, \"The docs are in the wiki.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Take the first week slow.\" Then we swap roles and I ask it back. I ask one good question about the trace id in the meeting. I spend ten quiet minutes on the red metric after the standup. Sam asks me about the config drift, and I explain the basics. My notes about the environment parity look clearer this week. The task moves forward, and so does my confidence.",
-   "tts": "The candidate runs all weekend on the staging branch without a peep. In the warm-up round, Priya says, \"The docs are in the wiki.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Take the first week slow.\" Then we swap roles and I ask it back. I ask one good question about the trace id in the meeting. I spend ten quiet minutes on the red metric after the standup. Sam asks me about the config drift, and I explain the basics. My notes about the environment parity look clearer this week. The task moves forward, and so does my confidence.",
+   "en": "The candidate runs all weekend on the staging branch without a peep. In the warm-up round, Leo says, \"Ask me anything, really.\" Then we swap roles and I ask it back. I add the structured event to my study notes before I forget it. I go over the ephemeral environment one more time before lunch. The task moves forward, and so does my confidence.",
+   "tts": "The candidate runs all weekend on the staging branch without a peep. In the warm-up round, Leo says, \"Ask me anything, really.\" Then we swap roles and I ask it back. I add the structured event to my study notes before I forget it. I go over the ephemeral environment one more time before lunch. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "候选版本整个周末都在预发布分支上安静地跑着。热身环节里，Priya说：\"文档在 Wiki 里。\"然后我们换角色，由我来问。热身环节里，Leo说：\"第一周慢慢来。\"然后我们换角色，由我来问。会上关于追踪标识，我问了一个好问题。站会之后，我安安静静花了十分钟在RED 指标上。Sam 问起配置漂移，我讲了讲基础。这周我关于环境一致的笔记清楚多了。任务在推进，我的信心也在成长。",
+   "zh": "候选版本整个周末都在预发布分支上安静地跑着。热身环节里，Leo说：\"真的\"然后我们换角色，由我来问。我趁还没忘，把结构化事件记进了学习笔记。午饭前我又过了一遍临时环境。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "trace id",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I provision an environment twice, just to be sure. I tear it down while the office is still quiet. I keep one real example of the service dashboard in my notebook. This morning, I drill down before the first call. In the warm-up round, Maria says, \"We were all new once.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"My door is open.\" Then we swap roles and I ask it back. Stability is boring in the best way.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I provision an environment twice, just to be sure. I tear it down while the office is still quiet. I keep one real example of the service dashboard in my notebook. This morning, I drill down before the first call. In the warm-up round, Maria says, \"We were all new once.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"My door is open.\" Then we swap roles and I ask it back. Stability is boring in the best way.",
+   "en": "The candidate runs all weekend on the staging branch without a peep. I ask one good question about the config drift in the meeting. I spend ten quiet minutes on the trace id after the standup. In the warm-up round, Priya says, \"The docs are in the wiki.\" Then we swap roles and I ask it back. Stability is boring in the best way.",
+   "tts": "The candidate runs all weekend on the staging branch without a peep. I ask one good question about the config drift in the meeting. I spend ten quiet minutes on the trace id after the standup. In the warm-up round, Priya says, \"The docs are in the wiki.\" Then we swap roles and I ask it back. Stability is boring in the best way.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我开通环境了两遍，只为确定。趁办公室还安静，我拆除环境。我在笔记本里留了一个服务面板的真实例子。今天早上，第一次通话之前我先下钻分析。热身环节里，Maria说：\"我们都是从新人过来的。\"然后我们换角色，由我来问。热身环节里，Priya说：\"我的门随时敞开。\"然后我们换角色，由我来问。稳定，是以最好的方式无聊着。",
+   "zh": "候选版本整个周末都在预发布分支上安静地跑着。会上关于配置漂移，我问了一个好问题。站会之后，我安安静静花了十分钟在追踪标识上。热身环节里，Priya说：\"文档在 Wiki 里。\"然后我们换角色，由我来问。稳定，是以最好的方式无聊着。",
    "hard": [
     {
      "w": "service dashboard",
@@ -146,6 +146,33 @@
      "def": "拆除环境，用完后清理资源"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "Stability is boring in the best way. Sam asks me about the red metric, and I explain the basics. In the warm-up round, Priya says, \"Take the first week slow.\" Then we swap roles and I ask it back. My notes about the environment parity look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Stability is boring in the best way. Sam asks me about the red metric, and I explain the basics. In the warm-up round, Priya says, \"Take the first week slow.\" Then we swap roles and I ask it back. My notes about the environment parity look clearer this week. Small progress today prepares the bigger step tomorrow.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "稳定，是以最好的方式无聊着。Sam 问起RED 指标，我讲了讲基础。热身环节里，Priya说：\"第一周慢慢来。\"然后我们换角色，由我来问。这周我关于环境一致的笔记清楚多了。今天的小进步为明天更大的跨越做准备。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "The candidate runs all weekend on the staging branch without a peep. In the warm-up round, Leo says, \"We were all new once.\" Then we swap roles and I ask it back. I provision an environment twice, just to be sure. I keep one real example of the service dashboard in my notebook. The task moves forward, and so does my confidence.",
+   "tts": "The candidate runs all weekend on the staging branch without a peep. In the warm-up round, Leo says, \"We were all new once.\" Then we swap roles and I ask it back. I provision an environment twice, just to be sure. I keep one real example of the service dashboard in my notebook. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "候选版本整个周末都在预发布分支上安静地跑着。热身环节里，Leo说：\"我们都是从新人过来的。\"然后我们换角色，由我来问。我开通环境了两遍，只为确定。我在笔记本里留了一个服务面板的真实例子。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I tear it down while the office is still quiet. This morning, I drill down before the first call. In the warm-up round, Priya says, \"My door is open.\" Then we swap roles and I ask it back. Stability is boring in the best way.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I tear it down while the office is still quiet. This morning, I drill down before the first call. In the warm-up round, Priya says, \"My door is open.\" Then we swap roles and I ask it back. Stability is boring in the best way.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。趁办公室还安静，我拆除环境。今天早上，第一次通话之前我先下钻分析。热身环节里，Priya说：\"我的门随时敞开。\"然后我们换角色，由我来问。稳定，是以最好的方式无聊着。",
+   "hard": []
   }
  ],
  "chunks": [

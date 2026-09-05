@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 320,
-   "segment_count": 3,
+   "word_count": 386,
+   "segment_count": 6,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听工作表达 · 模仿语气 · 复述给同事",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Priya teaches me the rhythm: red, green, refactor. I go over the assertion one more time before lunch. There is a short paragraph about the expected output in the guide. Sam asks me about the minimal example link, and I explain the basics. I add the expected vs actual to my study notes before I forget it. In the warm-up round, Maria says, \"I don't know yet, honestly.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I'll find out by Friday.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
-   "tts": "Priya teaches me the rhythm: red, green, refactor. I go over the assertion one more time before lunch. There is a short paragraph about the expected output in the guide. Sam asks me about the minimal example link, and I explain the basics. I add the expected vs actual to my study notes before I forget it. In the warm-up round, Maria says, \"I don't know yet, honestly.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I'll find out by Friday.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "en": "Priya teaches me the rhythm: red, green, refactor. I go over the assertion one more time before lunch. There is a short paragraph about the minimal example link in the guide. In the warm-up round, Leo says, \"I don't know yet, honestly.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "Priya teaches me the rhythm: red, green, refactor. I go over the assertion one more time before lunch. There is a short paragraph about the minimal example link in the guide. In the warm-up round, Leo says, \"I don't know yet, honestly.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Priya 教我节奏：红、绿、重构。午饭前我又过了一遍断言。指南里有一小段关于期望输出的介绍。Sam 问起最小示例链接，我讲了讲基础。我趁还没忘，把期望与实际记进了学习笔记。热身环节里，Maria说：\"老实说\"然后我们换角色，由我来问。热身环节里，Priya说：\"我周五前查明。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
+   "zh": "Priya 教我节奏：红、绿、重构。午饭前我又过了一遍断言。指南里有一小段关于最小示例链接的介绍。热身环节里，Leo说：\"老实说\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "assertion",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I write a failing test first, make it pass, then tidy both. In the warm-up round, Maria says, \"My gut says yes.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Let me verify first.\" Then we swap roles and I ask it back. I ask one good question about the edge case in the meeting. I keep one real example of the negative test in my notebook. I spend ten quiet minutes on the environment info after the standup. My notes about the severity label look clearer this week. I end the day with fewer unknowns than I started with.",
-   "tts": "I write a failing test first, make it pass, then tidy both. In the warm-up round, Maria says, \"My gut says yes.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Let me verify first.\" Then we swap roles and I ask it back. I ask one good question about the edge case in the meeting. I keep one real example of the negative test in my notebook. I spend ten quiet minutes on the environment info after the standup. My notes about the severity label look clearer this week. I end the day with fewer unknowns than I started with.",
+   "en": "I write a failing test first, make it pass, then tidy both. In the warm-up round, Priya says, \"I'll find out by Friday.\" Then we swap roles and I ask it back. Sam asks me about the expected output, and I explain the basics. I add the expected vs actual to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "tts": "I write a failing test first, make it pass, then tidy both. In the warm-up round, Priya says, \"I'll find out by Friday.\" Then we swap roles and I ask it back. Sam asks me about the expected output, and I explain the basics. I add the expected vs actual to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我先写一个会失败的测试，让它通过，再把两者都整理好。热身环节里，Maria说：\"直觉说可以。\"然后我们换角色，由我来问。热身环节里，Priya说：\"我先核实一下。\"然后我们换角色，由我来问。会上关于边界情况，我问了一个好问题。我在笔记本里留了一个反向测试的真实例子。站会之后，我安安静静花了十分钟在环境信息上。这周我关于严重级别的笔记清楚多了。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我先写一个会失败的测试，让它通过，再把两者都整理好。热身环节里，Priya说：\"我周五前查明。\"然后我们换角色，由我来问。Sam 问起期望输出，我讲了讲基础。我趁还没忘，把期望与实际记进了学习笔记。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "edge case",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the steps numbering one more time before lunch. I attach the log while the office is still quiet. There is a short paragraph about the deterministic test in the guide. Sam asks me about the setup and teardown, and I explain the basics. In the warm-up round, Leo says, \"Uncertainty is uncomfortable.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I'd rather admit it.\" Then we swap roles and I ask it back. The rhythm is slow at first, then it starts to dance.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the steps numbering one more time before lunch. I attach the log while the office is still quiet. There is a short paragraph about the deterministic test in the guide. Sam asks me about the setup and teardown, and I explain the basics. In the warm-up round, Leo says, \"Uncertainty is uncomfortable.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I'd rather admit it.\" Then we swap roles and I ask it back. The rhythm is slow at first, then it starts to dance.",
+   "en": "I write a failing test first, make it pass, then tidy both. I ask one good question about the environment info in the meeting. I keep one real example of the edge case in my notebook. In the warm-up round, Maria says, \"My gut says yes.\" Then we swap roles and I ask it back. The rhythm is slow at first, then it starts to dance.",
+   "tts": "I write a failing test first, make it pass, then tidy both. I ask one good question about the environment info in the meeting. I keep one real example of the edge case in my notebook. In the warm-up round, Maria says, \"My gut says yes.\" Then we swap roles and I ask it back. The rhythm is slow at first, then it starts to dance.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍步骤编号。趁办公室还安静，我附上日志。指南里有一小段关于确定性测试的介绍。Sam 问起准备与清理，我讲了讲基础。热身环节里，Leo说：\"不确定让人不舒服。\"然后我们换角色，由我来问。热身环节里，Maria说：\"我宁愿承认它。\"然后我们换角色，由我来问。节奏起初很慢，后来开始跳舞。",
+   "zh": "我先写一个会失败的测试，让它通过，再把两者都整理好。会上关于环境信息，我问了一个好问题。我在笔记本里留了一个边界情况的真实例子。热身环节里，Maria说：\"直觉说可以。\"然后我们换角色，由我来问。节奏起初很慢，后来开始跳舞。",
    "hard": [
     {
      "w": "deterministic test",
@@ -146,6 +146,33 @@
      "def": "附上日志，给排查提供线索"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The rhythm is slow at first, then it starts to dance. I spend ten quiet minutes on the negative test after the standup. In the warm-up round, Maria says, \"Let me verify first.\" Then we swap roles and I ask it back. My notes about the severity label look clearer this week. The task moves forward, and so does my confidence.",
+   "tts": "The rhythm is slow at first, then it starts to dance. I spend ten quiet minutes on the negative test after the standup. In the warm-up round, Maria says, \"Let me verify first.\" Then we swap roles and I ask it back. My notes about the severity label look clearer this week. The task moves forward, and so does my confidence.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "节奏起初很慢，后来开始跳舞。站会之后，我安安静静花了十分钟在反向测试上。热身环节里，Maria说：\"我先核实一下。\"然后我们换角色，由我来问。这周我关于严重级别的笔记清楚多了。任务在推进，我的信心也在成长。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "I write a failing test first, make it pass, then tidy both. In the warm-up round, Priya says, \"Uncertainty is uncomfortable.\" Then we swap roles and I ask it back. I go over the steps numbering one more time before lunch. There is a short paragraph about the deterministic test in the guide. I end the day with fewer unknowns than I started with.",
+   "tts": "I write a failing test first, make it pass, then tidy both. In the warm-up round, Priya says, \"Uncertainty is uncomfortable.\" Then we swap roles and I ask it back. I go over the steps numbering one more time before lunch. There is a short paragraph about the deterministic test in the guide. I end the day with fewer unknowns than I started with.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "我先写一个会失败的测试，让它通过，再把两者都整理好。热身环节里，Priya说：\"不确定让人不舒服。\"然后我们换角色，由我来问。午饭前我又过了一遍步骤编号。指南里有一小段关于确定性测试的介绍。这一天结束时，我心中的未知比开始时更少了。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I attach the log while the office is still quiet. Sam asks me about the setup and teardown, and I explain the basics. In the warm-up round, Maria says, \"I'd rather admit it.\" Then we swap roles and I ask it back. The rhythm is slow at first, then it starts to dance.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I attach the log while the office is still quiet. Sam asks me about the setup and teardown, and I explain the basics. In the warm-up round, Maria says, \"I'd rather admit it.\" Then we swap roles and I ask it back. The rhythm is slow at first, then it starts to dance.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。趁办公室还安静，我附上日志。Sam 问起准备与清理，我讲了讲基础。热身环节里，Maria说：\"我宁愿承认它。\"然后我们换角色，由我来问。节奏起初很慢，后来开始跳舞。",
+   "hard": []
   }
  ],
  "chunks": [

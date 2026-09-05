@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 326,
-   "segment_count": 3,
+   "word_count": 387,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I give my first brown bag talk: what flaky tests taught me. At the review, we spend ten minutes on the skill matrix. I connect the t-shaped engineer to the ticket so nothing gets lost. The guide now has a short section on the org wide announcement. I compare my notes about the process council with Priya's. In the meeting drill, Maria says, \"Repair estimate first.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Planned obsolescence, resisted.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "I give my first brown bag talk: what flaky tests taught me. At the review, we spend ten minutes on the skill matrix. I connect the t-shaped engineer to the ticket so nothing gets lost. The guide now has a short section on the org wide announcement. I compare my notes about the process council with Priya's. In the meeting drill, Maria says, \"Repair estimate first.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Planned obsolescence, resisted.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "I give my first brown bag talk: what flaky tests taught me. At the review, we spend ten minutes on the skill matrix. I connect the org wide announcement to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Repair estimate first.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "I give my first brown bag talk: what flaky tests taught me. At the review, we spend ten minutes on the skill matrix. I connect the org wide announcement to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Repair estimate first.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我完成了第一次午餐分享：抖动测试教会我的事。评审时，我们花了十分钟在技能矩阵上。我把T 型工程师关联到工单上，免得遗漏。指南里现在有关于组织级公告的简短章节。我把关于流程委员会的笔记和 Priya 的对照了一下。会议演练中，Maria说：\"先问维修报价。\"之后我们换角色再练一遍。会议演练中，Priya说：\"对抗计划性报废。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我完成了第一次午餐分享：抖动测试教会我的事。评审时，我们花了十分钟在技能矩阵上。我把组织级公告关联到工单上，免得遗漏。会议演练中，Leo说：\"先问维修报价。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "skill matrix",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Twenty colleagues, one slide of cats, and zero falling asleep. In the meeting drill, Maria says, \"The fan lives another year.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Spare parts matter when buying.\" After that, we swap roles and run it again. I pair by strength, then I note one thing I learned. Priya suggests a cleaner way to think about the learning goal in sprint. We agree to give the process deprecation one more careful look this week. In today's standup, I mention the tooling budget and what comes next. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Twenty colleagues, one slide of cats, and zero falling asleep. In the meeting drill, Maria says, \"The fan lives another year.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Spare parts matter when buying.\" After that, we swap roles and run it again. I pair by strength, then I note one thing I learned. Priya suggests a cleaner way to think about the learning goal in sprint. We agree to give the process deprecation one more careful look this week. In today's standup, I mention the tooling budget and what comes next. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Twenty colleagues, one slide of cats, and zero falling asleep. In the meeting drill, Priya says, \"Planned obsolescence, resisted.\" After that, we swap roles and run it again. The guide now has a short section on the t-shaped engineer. I compare my notes about the process council with Priya's. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Twenty colleagues, one slide of cats, and zero falling asleep. In the meeting drill, Priya says, \"Planned obsolescence, resisted.\" After that, we swap roles and run it again. The guide now has a short section on the t-shaped engineer. I compare my notes about the process council with Priya's. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "二十位同事，一页猫猫幻灯片，零人睡着。会议演练中，Maria说：\"风扇又活了一年。\"之后我们换角色再练一遍。会议演练中，Priya说：\"买之前看配件。\"之后我们换角色再练一遍。我按强项配对，然后记下一条学到的东西。Priya 提出了一个更清晰的迭代里的学习目标思考方式。我们说好这周再把流程废止仔细看一次。今天的站会上，我提到工具预算和接下来的安排。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "二十位同事，一页猫猫幻灯片，零人睡着。会议演练中，Priya说：\"对抗计划性报废。\"之后我们换角色再练一遍。指南里现在有关于T 型工程师的简短章节。我把关于流程委员会的笔记和 Priya 的对照了一下。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "pair by strength",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the on call fairness review. At the review, we spend ten minutes on the internal conference. The team decides that I should shadow a role first. I connect the capability map review to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Right to repair, cheered.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Old things have souls.\" After that, we swap roles and run it again. The questions afterward are the real talk.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the on call fairness review. At the review, we spend ten minutes on the internal conference. The team decides that I should shadow a role first. I connect the capability map review to the ticket so nothing gets lost. In the meeting drill, Leo says, \"Right to repair, cheered.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Old things have souls.\" After that, we swap roles and run it again. The questions afterward are the real talk.",
+   "en": "Twenty colleagues, one slide of cats, and zero falling asleep. Priya suggests a cleaner way to think about the process deprecation. I pair by strength, then I note one thing I learned. In the meeting drill, Maria says, \"The fan lives another year.\" After that, we swap roles and run it again. The questions afterward are the real talk.",
+   "tts": "Twenty colleagues, one slide of cats, and zero falling asleep. Priya suggests a cleaner way to think about the process deprecation. I pair by strength, then I note one thing I learned. In the meeting drill, Maria says, \"The fan lives another year.\" After that, we swap roles and run it again. The questions afterward are the real talk.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把值班公平性回顾写了下来。评审时，我们花了十分钟在内部技术大会上。团队决定先由我来影子岗位。我把能力地图回顾关联到工单上，免得遗漏。会议演练中，Leo说：\"为维修权欢呼。\"之后我们换角色再练一遍。会议演练中，Maria说：\"旧物有灵魂。\"之后我们换角色再练一遍。会后的提问才是真正的分享。",
+   "zh": "二十位同事，一页猫猫幻灯片，零人睡着。Priya 提出了一个更清晰的流程废止思考方式。我按强项配对，然后记下一条学到的东西。会议演练中，Maria说：\"风扇又活了一年。\"之后我们换角色再练一遍。会后的提问才是真正的分享。",
    "hard": [
     {
      "w": "shadow a role",
@@ -146,6 +146,33 @@
      "def": "内部技术大会，一天的学习节"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The questions afterward are the real talk. We agree to give the learning goal in sprint one more careful look this week. In the meeting drill, Maria says, \"Spare parts matter when buying.\" After that, we swap roles and run it again. In today's standup, I mention the tooling budget and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The questions afterward are the real talk. We agree to give the learning goal in sprint one more careful look this week. In the meeting drill, Maria says, \"Spare parts matter when buying.\" After that, we swap roles and run it again. In today's standup, I mention the tooling budget and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "会后的提问才是真正的分享。我们说好这周再把迭代里的学习目标仔细看一次。会议演练中，Maria说：\"买之前看配件。\"之后我们换角色再练一遍。今天的站会上，我提到工具预算和接下来的安排。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Twenty colleagues, one slide of cats, and zero falling asleep. In the meeting drill, Priya says, \"Right to repair, cheered.\" After that, we swap roles and run it again. While the details are fresh, I write down the on call fairness review. The team decides that I should shadow a role first. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Twenty colleagues, one slide of cats, and zero falling asleep. In the meeting drill, Priya says, \"Right to repair, cheered.\" After that, we swap roles and run it again. While the details are fresh, I write down the on call fairness review. The team decides that I should shadow a role first. I close the ticket with a clear result and one lesson for next time.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "二十位同事，一页猫猫幻灯片，零人睡着。会议演练中，Priya说：\"为维修权欢呼。\"之后我们换角色再练一遍。趁细节还新鲜，我把值班公平性回顾写了下来。团队决定先由我来影子岗位。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the internal conference. I connect the capability map review to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Old things have souls.\" After that, we swap roles and run it again. The questions afterward are the real talk.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the internal conference. I connect the capability map review to the ticket so nothing gets lost. In the meeting drill, Maria says, \"Old things have souls.\" After that, we swap roles and run it again. The questions afterward are the real talk.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在内部技术大会上。我把能力地图回顾关联到工单上，免得遗漏。会议演练中，Maria说：\"旧物有灵魂。\"之后我们换角色再练一遍。会后的提问才是真正的分享。",
+   "hard": []
   }
  ],
  "chunks": [

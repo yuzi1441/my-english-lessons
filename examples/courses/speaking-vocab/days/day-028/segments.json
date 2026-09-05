@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 286,
+   "word_count": 204,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A new contributor joins our project. Before I reply, I look at open source once more. After that, I reread my notes about the software license after lunch. I add the CONTRIBUTING guide to my checklist for tomorrow. I go through the CODEOWNERS file with Priya and note her advice. Before we move on, Priya says, \"Thanks for sharing.\" I answer, and we compare notes. Before we move on, Priya asks, \"Could you explain your idea?\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
-   "tts": "A new contributor joins our project. Before I reply, I look at open source once more. After that, I reread my notes about the software license after lunch. I add the contributing guide to my checklist for tomorrow. I go through the code owners file with Priya and note her advice. Before we move on, Priya says, \"Thanks for sharing.\" I answer, and we compare notes. Before we move on, Priya asks, \"Could you explain your idea?\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
+   "en": "Day twenty-eight celebrates open source. \"Open source means anyone can see and use the code,\" Maria says. \"A software license defines the rules. A contributor adds code. A contribution is each addition. Maintainership is long-term responsibility. A community guideline sets behaviour standards.\" The team echoes: \"Thanks for sharing. Could you explain your idea? Please be respectful. I appreciate your feedback. Let's keep the discussion focused. Everyone is welcome here.\"",
+   "tts": "Day twenty-eight celebrates open source. \"Open source means anyone can see and use the code,\" Maria says. \"A software license defines the rules. A contributor adds code. A contribution is each addition. Maintainership is long-term responsibility. A community guideline sets behaviour standards.\" The team echoes: \"Thanks for sharing. Could you explain your idea? Please be respectful. I appreciate your feedback. Let's keep the discussion focused. Everyone is welcome here.\"",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位新贡献者加入了我们的项目。回复之前，我又看了一遍开源。在那之后，午饭后我重读了关于软件许可证的笔记。我把贡献指南加进了明天的清单。我和 Priya 过了一遍代码所有者文件，记下了她的建议。继续之前，Priya说：\"谢谢你的分享。\"我回答，我们互相对了笔记。继续之前，Priya问：\"你可以解释一下你的想法吗？\"我回答，我们互相对了笔记。团队就计划达成一致，我记录了决定。",
+   "zh": "第二十八天庆祝开源。\"开源意味着任何人都可以查看和使用代码，\"Maria 说。\"软件许可证定义规则。贡献者添加代码。贡献是每次添加。维护职责是长期责任。社区准则设定行为标准。\"团队附和着：\"谢谢分享。能解释一下你的想法吗？请保持尊重。感谢你的反馈。让讨论保持聚焦。这里欢迎每个人。",
    "hard": [
     {
      "w": "open source",
@@ -46,36 +46,6 @@
      "def": "软件许可证，规定软件可以如何使用和分发"
     },
     {
-     "w": "Thanks for sharing.",
-     "type": "term",
-     "def": "谢谢你的分享。"
-    },
-    {
-     "w": "Could you explain your idea?",
-     "type": "term",
-     "def": "你可以解释一下你的想法吗？"
-    },
-    {
-     "w": "CONTRIBUTING guide",
-     "type": "term",
-     "def": "贡献指南，说明如何参与项目的文件"
-    },
-    {
-     "w": "CODEOWNERS file",
-     "type": "term",
-     "def": "代码所有者文件，指定目录或文件的评审负责人"
-    }
-   ]
-  },
-  {
-   "id": "seg-02",
-   "spk": "Alex",
-   "en": "Everyone is welcome here, and we keep the talk respectful. Before we move on, Leo says, \"Please be respectful.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I appreciate your feedback.\" I answer clearly and note the phrasing. I keep one real example of the contributor in my notes. After a short break, I double-check the contribution before the review. I walk a new teammate through the contribution guideline. I suggest that we check the pull request template first. The day ends with a clear plan for tomorrow.",
-   "tts": "Everyone is welcome here, and we keep the talk respectful. Before we move on, Leo says, \"Please be respectful.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I appreciate your feedback.\" I answer clearly and note the phrasing. I keep one real example of the contributor in my notes. After a short break, I double-check the contribution before the review. I walk a new teammate through the contribution guideline. I suggest that we check the pull request template first. The day ends with a clear plan for tomorrow.",
-   "audio_file": "audio/seg-02.mp3",
-   "zh": "这里欢迎每个人，我们让讨论保持尊重。继续之前，Leo说：\"请保持尊重。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"感谢你的反馈。\"我清楚地回答，并记下了这个说法。我在笔记里留了一个贡献者的真实例子。稍作休息后，评审之前，我再核对一遍贡献。我带一位新队友过了一遍贡献规则。我建议我们先检查拉取请求模板。这一天以一份清晰的明日计划结束。",
-   "hard": [
-    {
      "w": "contributor",
      "type": "term",
      "def": "贡献者，为项目提供代码或其他帮助的人"
@@ -84,6 +54,26 @@
      "w": "contribution",
      "type": "term",
      "def": "贡献，提交给项目的代码、文档或建议"
+    },
+    {
+     "w": "maintainership",
+     "type": "term",
+     "def": "维护职责，长期管理项目方向和质量的责任"
+    },
+    {
+     "w": "community guideline",
+     "type": "term",
+     "def": "社区准则，规定参与者应遵守的行为方式"
+    },
+    {
+     "w": "Thanks for sharing.",
+     "type": "term",
+     "def": "谢谢你的分享。"
+    },
+    {
+     "w": "Could you explain your idea?",
+     "type": "term",
+     "def": "你可以解释一下你的想法吗？"
     },
     {
      "w": "Please be respectful.",
@@ -96,36 +86,6 @@
      "def": "感谢你的反馈。"
     },
     {
-     "w": "contribution guideline",
-     "type": "term",
-     "def": "贡献规则，项目接受贡献的具体要求"
-    },
-    {
-     "w": "pull request template",
-     "type": "term",
-     "def": "拉取请求模板，提示贡献者填写必要信息"
-    }
-   ]
-  },
-  {
-   "id": "seg-03",
-   "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. We spend a few minutes on the code of conduct at the standup. During the review, I ask one question about the maintainer review. Before I reply, I look at the maintainership once more. I reread my notes about the community guideline after lunch. Before we move on, Leo says, \"Let's keep the discussion focused.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Everyone is welcome here.\" I answer clearly and note the phrasing. The guide is clear. The first outside contribution is merged.",
-   "tts": "Before I leave, I write a short summary for the team. We spend a few minutes on the code of conduct at the standup. During the review, I ask one question about the maintainer review. Before I reply, I look at the maintainership once more. I reread my notes about the community guideline after lunch. Before we move on, Leo says, \"Let's keep the discussion focused.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Everyone is welcome here.\" I answer clearly and note the phrasing. The guide is clear. The first outside contribution is merged.",
-   "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。站会上我们花了几分钟讨论行为准则。评审时，我就维护者评审提了一个问题。回复之前，我又看了一遍维护职责。午饭后我重读了关于社区准则的笔记。继续之前，Leo说：\"让我们让讨论保持聚焦。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"这里欢迎每个人。\"我清楚地回答，并记下了这个说法。指南很清楚。第一个外部贡献合并了。",
-   "hard": [
-    {
-     "w": "maintainership",
-     "type": "term",
-     "def": "维护职责，长期管理项目方向和质量的责任"
-    },
-    {
-     "w": "community guideline",
-     "type": "term",
-     "def": "社区准则，规定参与者应遵守的行为方式"
-    },
-    {
      "w": "Let's keep the discussion focused.",
      "type": "term",
      "def": "让我们让讨论保持聚焦。"
@@ -134,7 +94,57 @@
      "w": "Everyone is welcome here.",
      "type": "term",
      "def": "这里欢迎每个人。"
+    }
+   ]
+  },
+  {
+   "id": "seg-02",
+   "spk": "Alex",
+   "en": "Contributor files appear. \"A CONTRIBUTING guide tells people how to help,\" Leo says. \"A CODEOWNERS file lists who reviews what. A contribution guideline adds details. A pull request template structures proposals. A code of conduct sets rules. A maintainer review is the final check.\" I read them all. Clear, kind, and professional. Open source is community with guardrails.",
+   "tts": "Contributor files appear. \"A contributing guide tells people how to help,\" Leo says. \"A code owners file lists who reviews what. A contribution guideline adds details. A pull request template structures proposals. A code of conduct sets rules. A maintainer review is the final check.\" I read them all. Clear, kind, and professional. Open source is community with guardrails.",
+   "audio_file": "audio/seg-02.mp3",
+   "zh": "贡献者文件出现了。\"贡献指南告诉人们怎么帮忙，\"Leo 说。\"CODEOWNERS 文件列出谁评审什么。贡献规则补充细节。拉取请求模板结构化提案。行为准则设定规则。维护者评审是最终检查。\"我读了全部。清晰、友善、专业。开源是有护栏的社区。",
+   "hard": [
+    {
+     "w": "CONTRIBUTING guide",
+     "type": "term",
+     "def": "贡献指南，说明如何参与项目的文件"
     },
+    {
+     "w": "CODEOWNERS file",
+     "type": "term",
+     "def": "代码所有者文件，指定目录或文件的评审负责人"
+    },
+    {
+     "w": "contribution guideline",
+     "type": "term",
+     "def": "贡献规则，项目接受贡献的具体要求"
+    },
+    {
+     "w": "pull request template",
+     "type": "term",
+     "def": "拉取请求模板，提示贡献者填写必要信息"
+    },
+    {
+     "w": "code of conduct",
+     "type": "term",
+     "def": "行为准则，规定社区成员应遵守的行为标准"
+    },
+    {
+     "w": "maintainer review",
+     "type": "term",
+     "def": "维护者评审，由项目维护者进行的最终检查"
+    }
+   ]
+  },
+  {
+   "id": "seg-03",
+   "spk": "Alex",
+   "en": "Open source is a mirror of good teamwork. Thanks for sharing. Please be respectful. I appreciate your feedback. Everyone is welcome here. These phrases work in any community — code or not. I write: 'Day 28 — a software license is a promise. A code of conduct is a social contract. A maintainer review is quality control with kindness.' Four weeks complete. The contributions I've made feel small but real. Like drops of water filling a jar.",
+   "tts": "Open source is a mirror of good teamwork. Thanks for sharing. Please be respectful. I appreciate your feedback. Everyone is welcome here. These phrases work in any community — code or not. I write: 'Day 28 — a software license is a promise. A code of conduct is a social contract. A maintainer review is quality control with kindness.' Four weeks complete. The contributions I've made feel small but real. Like drops of water filling a jar.",
+   "audio_file": "audio/seg-03.mp3",
+   "zh": "开源是良好团队合作的镜子。谢谢分享。请保持尊重。感谢反馈。欢迎每个人。这些短语在任何社区都适用——代码内外。我写：'第二十八天——软件许可证是承诺。行为准则是社会契约。维护者评审是带着善意的质量控制。'四周完成。我做的贡献感觉很小但真实。像水滴填满罐子。",
+   "hard": [
     {
      "w": "code of conduct",
      "type": "term",

@@ -7,8 +7,8 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 338,
-   "segment_count": 3,
+   "word_count": 414,
+   "segment_count": 6,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
    "main_practice": "听会议表达 · 提炼观点 · 做口头总结",
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Month seven opens with a proposal I almost did not write: pilot AI tools for the team. While the details are fresh, I write down the token. In today's standup, I mention the temperature and what comes next. The guide now has a short section on the ai usage guideline. I compare my notes about the ai assisted label with Priya's. In the meeting drill, Priya says, \"The voice assistant mishears dialect.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Remind me actually works.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Month seven opens with a proposal I almost did not write: pilot A I tools for the team. While the details are fresh, I write down the token. In today's standup, I mention the temperature and what comes next. The guide now has a short section on the ai usage guideline. I compare my notes about the ai assisted label with Priya's. In the meeting drill, Priya says, \"The voice assistant mishears dialect.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Remind me actually works.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Month seven opens with a proposal I almost did not write: pilot AI tools for the team. While the details are fresh, I write down the token. In today's standup, I mention the ai usage guideline and what comes next. In the meeting drill, Maria says, \"The voice assistant mishears dialect.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Month seven opens with a proposal I almost did not write: pilot A I tools for the team. While the details are fresh, I write down the token. In today's standup, I mention the ai usage guideline and what comes next. In the meeting drill, Maria says, \"The voice assistant mishears dialect.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第七个月以一种犹豫的开场开始：一份我差点没敢写的提案——为团队试点 AI 工具。趁细节还新鲜，我把词元写了下来。今天的站会上，我提到温度参数和接下来的安排。指南里现在有关于AI 使用规范的简短章节。我把关于AI 协助标记的笔记和 Priya 的对照了一下。会议演练中，Priya说：\"语音助手听不懂方言。\"之后我们换角色再练一遍。会议演练中，Leo说：\"“提醒我”真的好用。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "第七个月以一种犹豫的开场开始：一份我差点没敢写的提案——为团队试点 AI 工具。趁细节还新鲜，我把词元写了下来。今天的站会上，我提到AI 使用规范和接下来的安排。会议演练中，Maria说：\"语音助手听不懂方言。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "token",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria reads it twice and says, \"Write the risks column first this time.\" In the meeting drill, Priya says, \"It plays grandma's era songs.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Timers, its true calling.\" After that, we swap roles and run it again. We agree to give the long context handling one more careful look this week. I connect the model latency to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the disclosure policy. At the review, we spend ten minutes on the ai code ownership. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Maria reads it twice and says, \"Write the risks column first this time.\" In the meeting drill, Priya says, \"It plays grandma's era songs.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Timers, its true calling.\" After that, we swap roles and run it again. We agree to give the long context handling one more careful look this week. I connect the model latency to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the disclosure policy. At the review, we spend ten minutes on the ai code ownership. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Maria reads it twice and says, \"Write the risks column first this time.\" In the meeting drill, Leo says, \"Remind me actually works.\" After that, we swap roles and run it again. The guide now has a short section on the temperature. I compare my notes about the ai assisted label with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Maria reads it twice and says, \"Write the risks column first this time.\" In the meeting drill, Leo says, \"Remind me actually works.\" After that, we swap roles and run it again. The guide now has a short section on the temperature. I compare my notes about the ai assisted label with Priya's. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 读了两遍说：“这次先写风险那一栏。”会议演练中，Priya说：\"它会放奶奶年代的歌曲。\"之后我们换角色再练一遍。会议演练中，Leo说：\"定时器才是它的本命。\"之后我们换角色再练一遍。我们说好这周再把长上下文处理仔细看一次。我把模型延迟关联到工单上，免得遗漏。Priya 提出了一个更清晰的披露政策思考方式。评审时，我们花了十分钟在AI 代码归属上。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "Maria 读了两遍说：“这次先写风险那一栏。”会议演练中，Leo说：\"“提醒我”真的好用。\"之后我们换角色再练一遍。指南里现在有关于温度参数的简短章节。我把关于AI 协助标记的笔记和 Priya 的对照了一下。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "long context handling",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the review bot etiquette. In today's standup, I mention the prompt in pr description and what comes next. The guide now has a short section on the cost per token. I compare my notes about the model upgrade policy with Priya's. In the meeting drill, Maria says, \"Privacy settings reviewed.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Politeness costs nothing.\" After that, we swap roles and run it again. The pilot has a kill switch, a budget, and my name on it.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the review bot etiquette. In today's standup, I mention the prompt in pr description and what comes next. The guide now has a short section on the cost per token. I compare my notes about the model upgrade policy with Priya's. In the meeting drill, Maria says, \"Privacy settings reviewed.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Politeness costs nothing.\" After that, we swap roles and run it again. The pilot has a kill switch, a budget, and my name on it.",
+   "en": "Maria reads it twice and says, \"Write the risks column first this time.\" We agree to give the disclosure policy one more careful look this week. I connect the long context handling to the ticket so nothing gets lost. In the meeting drill, Priya says, \"It plays grandma's era songs.\" After that, we swap roles and run it again. The pilot has a kill switch, a budget, and my name on it.",
+   "tts": "Maria reads it twice and says, \"Write the risks column first this time.\" We agree to give the disclosure policy one more careful look this week. I connect the long context handling to the ticket so nothing gets lost. In the meeting drill, Priya says, \"It plays grandma's era songs.\" After that, we swap roles and run it again. The pilot has a kill switch, a budget, and my name on it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把评审机器人礼仪写了下来。今天的站会上，我提到PR 描述里放提示词和接下来的安排。指南里现在有关于词元成本的简短章节。我把关于模型升级策略的笔记和 Priya 的对照了一下。会议演练中，Maria说：\"隐私设置检查过了。\"之后我们换角色再练一遍。会议演练中，Priya说：\"对它礼貌不花钱。\"之后我们换角色再练一遍。这个试点有一个紧急开关、一份预算，和我的名字。",
+   "zh": "Maria 读了两遍说：“这次先写风险那一栏。”我们说好这周再把披露政策仔细看一次。我把长上下文处理关联到工单上，免得遗漏。会议演练中，Priya说：\"它会放奶奶年代的歌曲。\"之后我们换角色再练一遍。这个试点有一个紧急开关、一份预算，和我的名字。",
    "hard": [
     {
      "w": "cost per token",
@@ -146,6 +146,33 @@
      "def": "PR 描述里放提示词，由来可复现"
     }
    ]
+  },
+  {
+   "id": "seg-04",
+   "spk": "Alex",
+   "en": "The pilot has a kill switch, a budget, and my name on it. Priya suggests a cleaner way to think about the model latency. In the meeting drill, Priya says, \"Timers, its true calling.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the ai code ownership. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "The pilot has a kill switch, a budget, and my name on it. Priya suggests a cleaner way to think about the model latency. In the meeting drill, Priya says, \"Timers, its true calling.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the ai code ownership. Tomorrow builds on what we finished today, without any wasted steps.",
+   "audio_file": "audio/seg-04.mp3",
+   "zh": "这个试点有一个紧急开关、一份预算，和我的名字。Priya 提出了一个更清晰的模型延迟思考方式。会议演练中，Priya说：\"定时器才是它的本命。\"之后我们换角色再练一遍。评审时，我们花了十分钟在AI 代码归属上。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "hard": []
+  },
+  {
+   "id": "seg-05",
+   "spk": "Alex",
+   "en": "Maria reads it twice and says, \"Write the risks column first this time.\" In the meeting drill, Leo says, \"Privacy settings reviewed.\" After that, we swap roles and run it again. While the details are fresh, I write down the review bot etiquette. In today's standup, I mention the cost per token and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Maria reads it twice and says, \"Write the risks column first this time.\" In the meeting drill, Leo says, \"Privacy settings reviewed.\" After that, we swap roles and run it again. While the details are fresh, I write down the review bot etiquette. In today's standup, I mention the cost per token and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
+   "audio_file": "audio/seg-05.mp3",
+   "zh": "Maria 读了两遍说：“这次先写风险那一栏。”会议演练中，Leo说：\"隐私设置检查过了。\"之后我们换角色再练一遍。趁细节还新鲜，我把评审机器人礼仪写了下来。今天的站会上，我提到词元成本和接下来的安排。计划写好了，团队也一致了，明天有了一扇门。",
+   "hard": []
+  },
+  {
+   "id": "seg-06",
+   "spk": "Alex",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the prompt in pr description. I compare my notes about the model upgrade policy with Priya's. In the meeting drill, Priya says, \"Politeness costs nothing.\" After that, we swap roles and run it again. The pilot has a kill switch, a budget, and my name on it.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the prompt in pr description. I compare my notes about the model upgrade policy with Priya's. In the meeting drill, Priya says, \"Politeness costs nothing.\" After that, we swap roles and run it again. The pilot has a kill switch, a budget, and my name on it.",
+   "audio_file": "audio/seg-06.mp3",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于PR 描述里放提示词的简短章节。我把关于模型升级策略的笔记和 Priya 的对照了一下。会议演练中，Priya说：\"对它礼貌不花钱。\"之后我们换角色再练一遍。这个试点有一个紧急开关、一份预算，和我的名字。",
+   "hard": []
   }
  ],
  "chunks": [
