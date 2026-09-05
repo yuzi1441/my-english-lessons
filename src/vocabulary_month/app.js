@@ -553,4 +553,103 @@
     })
     .then(adoptCourse)
     .catch(error => { app.innerHTML = `<section class="error-card">课程加载失败：${esc(error.message)}</section>`; });
+
+  // ---- selection-based word lookup (划选查词) ----
+  let DICT = null;
+  (async () => {
+    try {
+      const res = await fetch("../dictionary.json", { credentials: "same-origin" });
+      if (res.ok) DICT = await res.json();
+    } catch { /* offline */ }
+  })();
+
+  function closeWordCard() { document.getElementById("wordCard")?.remove(); }
+
+  function lookupSel(text) {
+    if (!DICT) return null;
+    const key = text.toLowerCase().replace(/^['"\s]+|['"\s.]+$/g, "");
+    if (!key) return null;
+    if (DICT[key]) return { word: key, ...DICT[key] };
+    // inflection fallback
+    const cands = [];
+    if (key.endsWith("s")) cands.push(key.slice(0, -1), key.slice(0, -2));
+    if (key.endsWith("es")) cands.push(key.slice(0, -2));
+    if (key.endsWith("ed")) cands.push(key.slice(0, -1), key.slice(0, -2));
+    if (key.endsWith("ing")) cands.push(key.slice(0, -3), key.slice(0, -3) + "e");
+    if (key.endsWith("ly")) cands.push(key.slice(0, -2));
+    for (const c of cands) if (DICT[c]) return { word: c, base: c, ...DICT[c] };
+    return null;
+  }
+
+  function showSelCard(text, rect) {
+    closeWordCard();
+    const hit = lookupSel(text);
+    const pop = document.createElement("div");
+    pop.id = "wordCard";
+    const word = hit ? hit.word : text;
+    const ipa = hit && hit.p ? `<span class="wc-phon">${hit.p}</span>` : "";
+    const pos = hit && hit.pos ? `<span class="wc-phon">${hit.pos}</span>` : "";
+    const zh = hit && hit.t ? `<p class="wc-cn">${hit.t}</p>` : "";
+    const en = hit && hit.d ? `<p class="wc-def">${hit.d}</p>` : "";
+    const syn = hit && hit.syn && hit.syn.length ? `<p class="wc-syn">近义词: ${hit.syn.join(", ")}</p>` : "";
+    const ant = hit && hit.ant && hit.ant.length ? `<p class="wc-syn">反义词: ${hit.ant.join(", ")}</p>` : "";
+    const ex = hit && hit.ex && hit.ex.length ? `<p class="wc-def" style="color:#888;font-style:italic">${hit.ex[0]}</p>` : "";
+    const addBtn = `<button class="wc-add" data-word="${word}">＋ 加入生词本</button>`;
+    pop.innerHTML = `<b>${word}</b>${ipa}${pos}<div style="margin-top:4px">${zh}${en}${syn}${ant}${ex}</div>${addBtn}`;
+    document.body.appendChild(pop);
+    // position near selection
+    const popEl = document.getElementById("wordCard");
+    const pr = popEl.getBoundingClientRect();
+    let top = rect.bottom + 8;
+    let left = Math.max(10, Math.min(rect.left, window.innerWidth - pr.width - 10));
+    if (top + pr.height > window.innerHeight) top = Math.max(10, rect.top - pr.height - 8);
+    popEl.style.top = top + "px";
+    popEl.style.left = left + "px";
+    // add to notebook
+    popEl.querySelector(".wc-add").addEventListener("click", ev => {
+      ev.stopPropagation();
+      if (typeof addVocabWord === "function") {
+        addVocabWord(word, { def: hit ? (hit.t || hit.d || "") : "", type: "word" }, "");
+      } else if (typeof addWord === "function") {
+        // vocab SPA
+        toast("已查: " + word);
+      }
+      closeWordCard();
+    });
+    // close on outside click (delayed so the mouseup that triggered selection doesn't immediately close)
+    setTimeout(() => {
+      document.addEventListener("mousedown", closeWordCard, { once: true });
+    }, 200);
+  }
+
+  document.addEventListener("mouseup", event => {
+    if (event.target.closest("#wordCard") || event.target.closest("button") || event.target.closest("a") || event.target.closest("select") || event.target.closest("input")) return;
+    setTimeout(() => {
+      const sel = window.getSelection();
+      if (!sel || sel.isCollapsed) { closeWordCard(); return; }
+      const text = sel.toString().trim();
+      if (!text || text.length > 60) { closeWordCard(); return; }
+      // must contain at least one English letter
+      if (!/[A-Za-z]/.test(text)) { closeWordCard(); return; }
+      // get selection rect
+      const range = sel.getRangeAt(0);
+      const rect = range.getBoundingClientRect();
+      if (rect.width < 2) { closeWordCard(); return; }
+      showSelCard(text, rect);
+    }, 50);
+  });
+  document.addEventListener("touchend", event => {
+    if (event.target.closest("#wordCard")) return;
+    setTimeout(() => {
+      const sel = window.getSelection();
+      if (!sel || sel.isCollapsed) return;
+      const text = sel.toString().trim();
+      if (!text || text.length > 60 || !/[A-Za-z]/.test(text)) return;
+      const range = sel.getRangeAt(0);
+      const rect = range.getBoundingClientRect();
+      if (rect.width < 2) return;
+      showSelCard(text, rect);
+    }, 100);
+  });
+
 })();
