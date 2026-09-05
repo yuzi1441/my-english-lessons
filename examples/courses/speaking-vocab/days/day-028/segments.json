@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 293,
+   "word_count": 286,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A new contributor joins our project. Before I reply, I look at open source once more. After that, I reread my notes about the software license after lunch. I add the CONTRIBUTING guide to my checklist for tomorrow. I go through the CODEOWNERS file with Priya and note her advice. Before we move on, Priya says, \"Thanks for sharing.\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"Could you explain your idea?\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
-   "tts": "A new contributor joins our project. Before I reply, I look at open source once more. After that, I reread my notes about the software license after lunch. I add the contributing guide to my checklist for tomorrow. I go through the code owners file with Priya and note her advice. Before we move on, Priya says, \"Thanks for sharing.\" I answer clearly and note the phrasing. Before we move on, Leo asks, \"Could you explain your idea?\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
+   "en": "A new contributor joins our project. Before I reply, I look at open source once more. After that, I reread my notes about the software license after lunch. I add the CONTRIBUTING guide to my checklist for tomorrow. I go through the CODEOWNERS file with Priya and note her advice. Before we move on, Priya says, \"Thanks for sharing.\" I answer, and we compare notes. Before we move on, Priya asks, \"Could you explain your idea?\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
+   "tts": "A new contributor joins our project. Before I reply, I look at open source once more. After that, I reread my notes about the software license after lunch. I add the contributing guide to my checklist for tomorrow. I go through the code owners file with Priya and note her advice. Before we move on, Priya says, \"Thanks for sharing.\" I answer, and we compare notes. Before we move on, Priya asks, \"Could you explain your idea?\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位新贡献者加入了我们的项目。回复之前，我又看了一遍开源。在那之后，午饭后我重读了关于软件许可证的笔记。我把贡献指南加进了明天的清单。我和 Priya 过了一遍代码所有者文件，记下了她的建议。继续之前，Priya说：\"谢谢你的分享。\"我清楚地回答，并记下了这个说法。继续之前，Leo问：\"你可以解释一下你的想法吗？\"我回答，然后把它用进了自己的汇报。团队就计划达成一致，我记录了决定。",
+   "zh": "一位新贡献者加入了我们的项目。回复之前，我又看了一遍开源。在那之后，午饭后我重读了关于软件许可证的笔记。我把贡献指南加进了明天的清单。我和 Priya 过了一遍代码所有者文件，记下了她的建议。继续之前，Priya说：\"谢谢你的分享。\"我回答，我们互相对了笔记。继续之前，Priya问：\"你可以解释一下你的想法吗？\"我回答，我们互相对了笔记。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "open source",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Everyone is welcome here, and we keep the talk respectful. Before we move on, Priya says, \"Please be respectful.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I appreciate your feedback.\" I answer, then reuse it in my update. I keep one real example of the contributor in my notes. I double-check the contribution before the review. After that, I walk a new teammate through the contribution guideline. I suggest that we check the pull request template first. The day ends with a clear plan for tomorrow.",
-   "tts": "Everyone is welcome here, and we keep the talk respectful. Before we move on, Priya says, \"Please be respectful.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I appreciate your feedback.\" I answer, then reuse it in my update. I keep one real example of the contributor in my notes. I double-check the contribution before the review. After that, I walk a new teammate through the contribution guideline. I suggest that we check the pull request template first. The day ends with a clear plan for tomorrow.",
+   "en": "Everyone is welcome here, and we keep the talk respectful. Before we move on, Leo says, \"Please be respectful.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I appreciate your feedback.\" I answer clearly and note the phrasing. I keep one real example of the contributor in my notes. After a short break, I double-check the contribution before the review. I walk a new teammate through the contribution guideline. I suggest that we check the pull request template first. The day ends with a clear plan for tomorrow.",
+   "tts": "Everyone is welcome here, and we keep the talk respectful. Before we move on, Leo says, \"Please be respectful.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I appreciate your feedback.\" I answer clearly and note the phrasing. I keep one real example of the contributor in my notes. After a short break, I double-check the contribution before the review. I walk a new teammate through the contribution guideline. I suggest that we check the pull request template first. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "这里欢迎每个人，我们让讨论保持尊重。继续之前，Priya说：\"请保持尊重。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"感谢你的反馈。\"我回答，然后把它用进了自己的汇报。我在笔记里留了一个贡献者的真实例子。评审之前，我再核对一遍贡献。在那之后，我带一位新队友过了一遍贡献规则。我建议我们先检查拉取请求模板。这一天以一份清晰的明日计划结束。",
+   "zh": "这里欢迎每个人，我们让讨论保持尊重。继续之前，Leo说：\"请保持尊重。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"感谢你的反馈。\"我清楚地回答，并记下了这个说法。我在笔记里留了一个贡献者的真实例子。稍作休息后，评审之前，我再核对一遍贡献。我带一位新队友过了一遍贡献规则。我建议我们先检查拉取请求模板。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "contributor",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. After that, We spend a few minutes on the code of conduct at the standup. During the review, I ask one question about the maintainer review. Before I reply, I look at the maintainership once more. After a short break, I reread my notes about the community guideline after lunch. Before we move on, Maria says, \"Let's keep the discussion focused.\" I answer, and we compare notes. Before we move on, Priya says, \"Everyone is welcome here.\" I answer clearly and note the phrasing. The guide is clear. The first outside contribution is merged.",
-   "tts": "Before I leave, I write a short summary for the team. After that, We spend a few minutes on the code of conduct at the standup. During the review, I ask one question about the maintainer review. Before I reply, I look at the maintainership once more. After a short break, I reread my notes about the community guideline after lunch. Before we move on, Maria says, \"Let's keep the discussion focused.\" I answer, and we compare notes. Before we move on, Priya says, \"Everyone is welcome here.\" I answer clearly and note the phrasing. The guide is clear. The first outside contribution is merged.",
+   "en": "Before I leave, I write a short summary for the team. We spend a few minutes on the code of conduct at the standup. During the review, I ask one question about the maintainer review. Before I reply, I look at the maintainership once more. I reread my notes about the community guideline after lunch. Before we move on, Leo says, \"Let's keep the discussion focused.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Everyone is welcome here.\" I answer clearly and note the phrasing. The guide is clear. The first outside contribution is merged.",
+   "tts": "Before I leave, I write a short summary for the team. We spend a few minutes on the code of conduct at the standup. During the review, I ask one question about the maintainer review. Before I reply, I look at the maintainership once more. I reread my notes about the community guideline after lunch. Before we move on, Leo says, \"Let's keep the discussion focused.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Everyone is welcome here.\" I answer clearly and note the phrasing. The guide is clear. The first outside contribution is merged.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。在那之后，站会上我们花了几分钟讨论行为准则。评审时，我就维护者评审提了一个问题。回复之前，我又看了一遍维护职责。稍作休息后，午饭后我重读了关于社区准则的笔记。继续之前，Maria说：\"让我们让讨论保持聚焦。\"我回答，我们互相对了笔记。继续之前，Priya说：\"这里欢迎每个人。\"我清楚地回答，并记下了这个说法。指南很清楚。第一个外部贡献合并了。",
+   "zh": "离开前，我给团队写了一份简短的总结。站会上我们花了几分钟讨论行为准则。评审时，我就维护者评审提了一个问题。回复之前，我又看了一遍维护职责。午饭后我重读了关于社区准则的笔记。继续之前，Leo说：\"让我们让讨论保持聚焦。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"这里欢迎每个人。\"我清楚地回答，并记下了这个说法。指南很清楚。第一个外部贡献合并了。",
    "hard": [
     {
      "w": "maintainership",

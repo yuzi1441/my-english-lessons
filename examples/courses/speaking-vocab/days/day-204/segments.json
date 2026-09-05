@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 293,
+   "word_count": 333,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Two hundred days of lessons become the team AI playbook. At the review, we spend ten minutes on the entity extraction pipeline. I compare my notes about the relationship mapping with Priya's. Priya suggests a cleaner way to think about the call graph navigation. We agree to give the impact radius analysis one more careful look this week. Pair run: Priya starts, \"Grandma's cousin chart.\" I follow, \"The uncle everyone mentions.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Two hundred days of lessons become the team A I playbook. At the review, we spend ten minutes on the entity extraction pipeline. I compare my notes about the relationship mapping with Priya's. Priya suggests a cleaner way to think about the call graph navigation. We agree to give the impact radius analysis one more careful look this week. Pair run: Priya starts, \"Grandma's cousin chart.\" I follow, \"The uncle everyone mentions.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "Two hundred days of lessons become the team AI playbook. At the review, we spend ten minutes on the entity extraction pipeline. I compare my notes about the relationship mapping with Priya's. Priya suggests a cleaner way to think about the call graph navigation. We agree to give the impact radius analysis one more careful look this week. In the meeting drill, Leo says, \"Grandma's cousin chart.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The uncle everyone mentions.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Two hundred days of lessons become the team A I playbook. At the review, we spend ten minutes on the entity extraction pipeline. I compare my notes about the relationship mapping with Priya's. Priya suggests a cleaner way to think about the call graph navigation. We agree to give the impact radius analysis one more careful look this week. In the meeting drill, Leo says, \"Grandma's cousin chart.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The uncle everyone mentions.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "两百天的经验写成了团队 AI 手册。评审时，我们花了十分钟在实体抽取管道上。我把关于关系映射的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的调用图导航思考方式。我们说好这周再把影响半径分析仔细看一次。结对演练：Priya起头：\"奶奶的亲戚图谱。\"我跟上：\"人人都会提起的舅舅。\"Priya回应：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "两百天的经验写成了团队 AI 手册。评审时，我们花了十分钟在实体抽取管道上。我把关于关系映射的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的调用图导航思考方式。我们说好这周再把影响半径分析仔细看一次。会议演练中，Leo说：\"奶奶的亲戚图谱。\"之后我们换角色再练一遍。会议演练中，Maria说：\"人人都会提起的舅舅。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "entity extraction pipeline",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Ten pages: what to automate, what to verify, what never to paste. Drill without notes: Priya asks, \"Two cities, one surname.\" I answer, \"Stories are the real database.\" and Priya closes, \"Good point — use it in the standup.\" The guide now has a short section on the graph query basics. I connect the ontology design intro to the ticket so nothing gets lost. While the details are fresh, I write down the ownership graph. In today's standup, I mention the expert finder by area and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Ten pages: what to automate, what to verify, what never to paste. Drill without notes: Priya asks, \"Two cities, one surname.\" I answer, \"Stories are the real database.\" and Priya closes, \"Good point — use it in the standup.\" The guide now has a short section on the graph query basics. I connect the ontology design intro to the ticket so nothing gets lost. While the details are fresh, I write down the ownership graph. In today's standup, I mention the expert finder by area and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Ten pages: what to automate, what to verify, what never to paste. In the meeting drill, Leo says, \"Two cities, one surname.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Stories are the real database.\" After that, we swap roles and run it again. The guide now has a short section on the graph query basics. I connect the ontology design intro to the ticket so nothing gets lost. While the details are fresh, I write down the ownership graph. In today's standup, I mention the expert finder by area and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Ten pages: what to automate, what to verify, what never to paste. In the meeting drill, Leo says, \"Two cities, one surname.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Stories are the real database.\" After that, we swap roles and run it again. The guide now has a short section on the graph query basics. I connect the ontology design intro to the ticket so nothing gets lost. While the details are fresh, I write down the ownership graph. In today's standup, I mention the expert finder by area and what comes next. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "十页纸：什么可以自动化，什么必须核实，什么永远不要粘贴。脱稿演练：Priya问：\"两座城\"我回答：\"故事才是真正的数据库。\"Priya收束：\"说得好——站会上就用它。\"指南里现在有关于图谱查询入门的简短章节。我把本体设计入门关联到工单上，免得遗漏。趁细节还新鲜，我把归属图谱写了下来。今天的站会上，我提到按区域找专家和接下来的安排。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "十页纸：什么可以自动化，什么必须核实，什么永远不要粘贴。会议演练中，Leo说：\"两座城\"之后我们换角色再练一遍。会议演练中，Maria说：\"故事才是真正的数据库。\"之后我们换角色再练一遍。指南里现在有关于图谱查询入门的简短章节。我把本体设计入门关联到工单上，免得遗漏。趁细节还新鲜，我把归属图谱写了下来。今天的站会上，我提到按区域找专家和接下来的安排。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "graph query basics",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the deprecated usage map. I compare my notes about the component relationship doc with Priya's. Priya suggests a cleaner way to think about the graph visualization review. We agree to give the entity resolution basics one more careful look this week. Meeting rehearsal: Maria opens, \"Names repeat every generation.\" I respond, \"The family graph grows.\" and Maria confirms, \"Exactly, and it saves time too.\" Everyone signs it in the review thread, even the skeptics.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the deprecated usage map. I compare my notes about the component relationship doc with Priya's. Priya suggests a cleaner way to think about the graph visualization review. We agree to give the entity resolution basics one more careful look this week. Meeting rehearsal: Maria opens, \"Names repeat every generation.\" I respond, \"The family graph grows.\" and Maria confirms, \"Exactly, and it saves time too.\" Everyone signs it in the review thread, even the skeptics.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the deprecated usage map. I compare my notes about the component relationship doc with Priya's. Priya suggests a cleaner way to think about the graph visualization review. We agree to give the entity resolution basics one more careful look this week. In the meeting drill, Priya says, \"Names repeat every generation.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"The family graph grows.\" After that, we swap roles and run it again. Everyone signs it in the review thread, even the skeptics.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the deprecated usage map. I compare my notes about the component relationship doc with Priya's. Priya suggests a cleaner way to think about the graph visualization review. We agree to give the entity resolution basics one more careful look this week. In the meeting drill, Priya says, \"Names repeat every generation.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"The family graph grows.\" After that, we swap roles and run it again. Everyone signs it in the review thread, even the skeptics.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在废弃接口使用地图上。我把关于组件关系文档的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的图谱可视化评审思考方式。我们说好这周再把实体消歧入门仔细看一次。会议彩排：Maria开场：\"名字隔代就重播。\"我回应：\"家族图谱在生长。\"Maria确认道：\"正是，而且还省时间。\"评审线里人人都签了名，包括怀疑派。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在废弃接口使用地图上。我把关于组件关系文档的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的图谱可视化评审思考方式。我们说好这周再把实体消歧入门仔细看一次。会议演练中，Priya说：\"名字隔代就重播。\"之后我们换角色再练一遍。会议演练中，Leo说：\"家族图谱在生长。\"之后我们换角色再练一遍。评审线里人人都签了名，包括怀疑派。",
    "hard": [
     {
      "w": "graph visualization review",

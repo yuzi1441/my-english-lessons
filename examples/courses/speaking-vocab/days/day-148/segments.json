@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 281,
+   "word_count": 326,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A new hire, Nia, arrives; Sam is her onboarding buddy now. Priya suggests a cleaner way to think about the failover drill. The guide now has a short section on the restore race. I compare my notes about the release rehearsal with Priya's. We agree to give the rollback race one more careful look this week. Whiteboard practice: Maria offers, \"The power went, candles came.\" I add, \"Phones down, voices up.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "A new hire, Nia, arrives; Sam is her onboarding buddy now. Priya suggests a cleaner way to think about the failover drill. The guide now has a short section on the restore race. I compare my notes about the release rehearsal with Priya's. We agree to give the rollback race one more careful look this week. Whiteboard practice: Maria offers, \"The power went, candles came.\" I add, \"Phones down, voices up.\" then Maria sums up, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "A new hire, Nia, arrives; Sam is her onboarding buddy now. Priya suggests a cleaner way to think about the failover drill. The guide now has a short section on the restore race. I compare my notes about the release rehearsal with Priya's. We agree to give the rollback race one more careful look this week. In the meeting drill, Priya says, \"The power went, candles came.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Phones down, voices up.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "A new hire, Nia, arrives; Sam is her onboarding buddy now. Priya suggests a cleaner way to think about the failover drill. The guide now has a short section on the restore race. I compare my notes about the release rehearsal with Priya's. We agree to give the rollback race one more careful look this week. In the meeting drill, Priya says, \"The power went, candles came.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Phones down, voices up.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "新人 Nia 到岗；Sam 现在成了她的入职伙伴。Priya 提出了一个更清晰的故障转移演练思考方式。指南里现在有关于恢复比赛的简短章节。我把关于发布彩排的笔记和 Priya 的对照了一下。我们说好这周再把回滚比赛仔细看一次。白板练习：Maria给出：\"停电了\"我补充：\"手机放下\"然后Maria总结：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "新人 Nia 到岗；Sam 现在成了她的入职伙伴。Priya 提出了一个更清晰的故障转移演练思考方式。指南里现在有关于恢复比赛的简短章节。我把关于发布彩排的笔记和 Priya 的对照了一下。我们说好这周再把回滚比赛仔细看一次。会议演练中，Priya说：\"停电了\"之后我们换角色再练一遍。会议演练中，Leo说：\"手机放下\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "failover drill",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I watch my mentee mentor, and something comes full circle. Meeting rehearsal: Maria opens, \"Board games by lantern.\" I respond, \"The fridge holds its breath.\" and Maria confirms, \"Exactly, and it saves time too.\" At the review, we spend ten minutes on the chaos hour. While the details are fresh, I write down the regional evacuation plan. I connect the comms template drill to the ticket so nothing gets lost. In today's standup, I mention the commander shadowing and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "I watch my mentee mentor, and something comes full circle. Meeting rehearsal: Maria opens, \"Board games by lantern.\" I respond, \"The fridge holds its breath.\" and Maria confirms, \"Exactly, and it saves time too.\" At the review, we spend ten minutes on the chaos hour. While the details are fresh, I write down the regional evacuation plan. I connect the comms template drill to the ticket so nothing gets lost. In today's standup, I mention the commander shadowing and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "I watch my mentee mentor, and something comes full circle. In the meeting drill, Priya says, \"Board games by lantern.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"The fridge holds its breath.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the chaos hour. While the details are fresh, I write down the regional evacuation plan. I connect the comms template drill to the ticket so nothing gets lost. In today's standup, I mention the commander shadowing and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "I watch my mentee mentor, and something comes full circle. In the meeting drill, Priya says, \"Board games by lantern.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"The fridge holds its breath.\" After that, we swap roles and run it again. At the review, we spend ten minutes on the chaos hour. While the details are fresh, I write down the regional evacuation plan. I connect the comms template drill to the ticket so nothing gets lost. In today's standup, I mention the commander shadowing and what comes next. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我看着我的学员去带人，某种东西画成了圆。会议彩排：Maria开场：\"灯笼下玩桌游。\"我回应：\"冰箱屏住呼吸。\"Maria确认道：\"正是，而且还省时间。\"评审时，我们花了十分钟在混沌一小时上。趁细节还新鲜，我把区域撤离计划写了下来。我把沟通模板演练关联到工单上，免得遗漏。今天的站会上，我提到指挥官带教和接下来的安排。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我看着我的学员去带人，某种东西画成了圆。会议演练中，Priya说：\"灯笼下玩桌游。\"之后我们换角色再练一遍。会议演练中，Leo说：\"冰箱屏住呼吸。\"之后我们换角色再练一遍。评审时，我们花了十分钟在混沌一小时上。趁细节还新鲜，我把区域撤离计划写了下来。我把沟通模板演练关联到工单上，免得遗漏。今天的站会上，我提到指挥官带教和接下来的安排。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "chaos hour",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the fair drill schedule. The guide now has a short section on the lessons into runbook. I compare my notes about the rto target with Priya's. We agree to give the rpo target one more careful look this week. Pair run: Leo starts, \"Stars over an unlit town.\" I follow, \"Power back, lesson kept.\" and Leo replies, \"Keep practising, it is working.\" Knowledge that only flows one way is a bottleneck.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the fair drill schedule. The guide now has a short section on the lessons into runbook. I compare my notes about the rto target with Priya's. We agree to give the rpo target one more careful look this week. Pair run: Leo starts, \"Stars over an unlit town.\" I follow, \"Power back, lesson kept.\" and Leo replies, \"Keep practising, it is working.\" Knowledge that only flows one way is a bottleneck.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the fair drill schedule. The guide now has a short section on the lessons into runbook. I compare my notes about the rto target with Priya's. We agree to give the rpo target one more careful look this week. In the meeting drill, Maria says, \"Stars over an unlit town.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Power back, lesson kept.\" After that, we swap roles and run it again. Knowledge that only flows one way is a bottleneck.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. Priya suggests a cleaner way to think about the fair drill schedule. The guide now has a short section on the lessons into runbook. I compare my notes about the rto target with Priya's. We agree to give the rpo target one more careful look this week. In the meeting drill, Maria says, \"Stars over an unlit town.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Power back, lesson kept.\" After that, we swap roles and run it again. Knowledge that only flows one way is a bottleneck.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的演练排班公平思考方式。指南里现在有关于教训写回手册的简短章节。我把关于恢复时间目标的笔记和 Priya 的对照了一下。我们说好这周再把恢复点目标仔细看一次。结对演练：Leo起头：\"小镇熄灯后满天星。\"我跟上：\"来电了\"Leo回应：\"继续练，有效果了。\"只朝一个方向流的知识是瓶颈。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。Priya 提出了一个更清晰的演练排班公平思考方式。指南里现在有关于教训写回手册的简短章节。我把关于恢复时间目标的笔记和 Priya 的对照了一下。我们说好这周再把恢复点目标仔细看一次。会议演练中，Maria说：\"小镇熄灯后满天星。\"之后我们换角色再练一遍。会议演练中，Priya说：\"来电了\"之后我们换角色再练一遍。只朝一个方向流的知识是瓶颈。",
    "hard": [
     {
      "w": "rto target",

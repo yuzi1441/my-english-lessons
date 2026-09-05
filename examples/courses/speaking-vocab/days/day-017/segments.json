@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 286,
+   "word_count": 280,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I feel sick today, but an important task waits. Before the meeting, I review the authentication one more time. I compare my notes about the authorization with Priya's. I reread the section about the access token after lunch. After a short break, I add the personal access token to my notes with one example. At that moment, Maria says, \"I don't feel well.\" I reply, and she notes it down. At that moment, Priya says, \"I have a headache.\" I answer, and we go over it once more. The work is not easy, but I keep going.",
-   "tts": "I feel sick today, but an important task waits. Before the meeting, I review the authentication one more time. I compare my notes about the authorization with Priya's. I reread the section about the access token after lunch. After a short break, I add the personal access token to my notes with one example. At that moment, Maria says, \"I don't feel well.\" I reply, and she notes it down. At that moment, Priya says, \"I have a headache.\" I answer, and we go over it once more. The work is not easy, but I keep going.",
+   "en": "I feel sick today, but an important task waits. Before the meeting, I review the authentication one more time. I compare my notes about the authorization with Priya's. I reread the section about the access token after lunch. After a short break, I add the personal access token to my notes with one example. At that moment, Maria says, \"I don't feel well.\" I answer, then try the line myself. At that moment, Maria says, \"I have a headache.\" I answer, then try the line myself. The work is not easy, but I keep going.",
+   "tts": "I feel sick today, but an important task waits. Before the meeting, I review the authentication one more time. I compare my notes about the authorization with Priya's. I reread the section about the access token after lunch. After a short break, I add the personal access token to my notes with one example. At that moment, Maria says, \"I don't feel well.\" I answer, then try the line myself. At that moment, Maria says, \"I have a headache.\" I answer, then try the line myself. The work is not easy, but I keep going.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我今天不太舒服，但一个重要任务在等着我。开会前，我又复习了一遍身份验证。我把关于授权的笔记和 Priya 的对照了一下。午饭后我重读了关于访问令牌的章节。稍作休息后，我把个人访问令牌和一个例子一起记进了笔记。这时，Maria说：\"我感觉不舒服。\"我回答，她把它记了下来。这时，Priya说：\"我头痛。\"我回答后，我们又过了一遍。工作不容易，但我继续前进。",
+   "zh": "我今天不太舒服，但一个重要任务在等着我。开会前，我又复习了一遍身份验证。我把关于授权的笔记和 Priya 的对照了一下。午饭后我重读了关于访问令牌的章节。稍作休息后，我把个人访问令牌和一个例子一起记进了笔记。这时，Maria说：\"我感觉不舒服。\"我回答，然后自己把这句练了一遍。这时，Maria说：\"我头痛。\"我回答，然后自己把这句练了一遍。工作不容易，但我继续前进。",
    "hard": [
     {
      "w": "authentication",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I visit the pharmacy and ask about the medicine. At that moment, Maria asks, \"How often should I take this?\" I reply, and she notes it down. At that moment, Priya asks, \"Are there any side effects?\" I answer, and we go over it once more. We keep a short checklist for the user account. After that, The team talks about the login session at the standup. Priya and I spend a few minutes on the repository secret. After lunch, I check the workflow permission again. I write down what I learned today.",
-   "tts": "I visit the pharmacy and ask about the medicine. At that moment, Maria asks, \"How often should I take this?\" I reply, and she notes it down. At that moment, Priya asks, \"Are there any side effects?\" I answer, and we go over it once more. We keep a short checklist for the user account. After that, The team talks about the login session at the standup. Priya and I spend a few minutes on the repository secret. After lunch, I check the workflow permission again. I write down what I learned today.",
+   "en": "I visit the pharmacy and ask about the medicine. At that moment, Priya asks, \"How often should I take this?\" I reply, and she notes it down. At that moment, Priya asks, \"Are there any side effects?\" I reply, and she notes it down. After a short break, We keep a short checklist for the user account. The team talks about the login session at the standup. Priya and I spend a few minutes on the repository secret. After lunch, I check the workflow permission again. I write down what I learned today.",
+   "tts": "I visit the pharmacy and ask about the medicine. At that moment, Priya asks, \"How often should I take this?\" I reply, and she notes it down. At that moment, Priya asks, \"Are there any side effects?\" I reply, and she notes it down. After a short break, We keep a short checklist for the user account. The team talks about the login session at the standup. Priya and I spend a few minutes on the repository secret. After lunch, I check the workflow permission again. I write down what I learned today.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我去了药店，询问了这种药。这时，Maria问：\"这个药多久吃一次？\"我回答，她把它记了下来。这时，Priya问：\"有副作用吗？\"我回答后，我们又过了一遍。我们为用户账号准备了一张简短的检查单。在那之后，团队在站会上讨论了登录会话。Priya 和我在仓库机密上花了几分钟。午饭后，我又检查了一遍工作流权限。我记下了今天学到的东西。",
+   "zh": "我去了药店，询问了这种药。这时，Priya问：\"这个药多久吃一次？\"我回答，她把它记了下来。这时，Priya问：\"有副作用吗？\"我回答，她把它记了下来。稍作休息后，我们为用户账号准备了一张简短的检查单。团队在站会上讨论了登录会话。Priya 和我在仓库机密上花了几分钟。午饭后，我又检查了一遍工作流权限。我记下了今天学到的东西。",
    "hard": [
     {
      "w": "user account",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. When I get stuck, I ask Maria about secret scanning. Before I revoke a token, I read the note. After a short break, Leo walks me through the access permission step by step. After I sign out, I tell the team. At that moment, Leo says, \"I'm allergic to this medicine.\" I answer, then try the line myself. At that moment, Maria says, \"I need to see a doctor.\" I reply, and she notes it down. The token is safe, and the secret stays outside the code.",
-   "tts": "Before I leave, I review what I did today. When I get stuck, I ask Maria about secret scanning. Before I revoke a token, I read the note. After a short break, Leo walks me through the access permission step by step. After I sign out, I tell the team. At that moment, Leo says, \"I'm allergic to this medicine.\" I answer, then try the line myself. At that moment, Maria says, \"I need to see a doctor.\" I reply, and she notes it down. The token is safe, and the secret stays outside the code.",
+   "en": "Before I leave, I review what I did today. When I get stuck, I ask Maria about secret scanning. Before I revoke a token, I read the note. Leo walks me through the access permission step by step. After I sign out, I tell the team. At that moment, Priya says, \"I'm allergic to this medicine.\" I reply, and she notes it down. At that moment, Priya says, \"I need to see a doctor.\" I reply, and she notes it down. The token is safe, and the secret stays outside the code.",
+   "tts": "Before I leave, I review what I did today. When I get stuck, I ask Maria about secret scanning. Before I revoke a token, I read the note. Leo walks me through the access permission step by step. After I sign out, I tell the team. At that moment, Priya says, \"I'm allergic to this medicine.\" I reply, and she notes it down. At that moment, Priya says, \"I need to see a doctor.\" I reply, and she notes it down. The token is safe, and the secret stays outside the code.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。卡住的时候，我就向 Maria 请教机密扫描。在撤销令牌之前，我先看了说明。稍作休息后，Leo 一步一步带我过了访问权限。我退出登录之后，告诉了团队。这时，Leo说：\"我对这种药过敏。\"我回答，然后自己把这句练了一遍。这时，Maria说：\"我需要看医生。\"我回答，她把它记了下来。令牌是安全的，机密留在代码之外。",
+   "zh": "离开前，我回顾了今天做的事。卡住的时候，我就向 Maria 请教机密扫描。在撤销令牌之前，我先看了说明。Leo 一步一步带我过了访问权限。我退出登录之后，告诉了团队。这时，Priya说：\"我对这种药过敏。\"我回答，她把它记了下来。这时，Priya说：\"我需要看医生。\"我回答，她把它记了下来。令牌是安全的，机密留在代码之外。",
    "hard": [
     {
      "w": "access permission",

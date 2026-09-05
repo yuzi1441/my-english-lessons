@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 280,
+   "word_count": 325,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "During a small outage, the incident dashboard shines. I connect the request intake template to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the sizing data requests. I compare my notes about the weekly metrics review with Priya's. In today's standup, I mention the anomaly of the week and what comes next. Meeting rehearsal: Maria opens, \"The statistics book waits calmly.\" I respond, \"Formulas with stories stick.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "During a small outage, the incident dashboard shines. I connect the request intake template to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the sizing data requests. I compare my notes about the weekly metrics review with Priya's. In today's standup, I mention the anomaly of the week and what comes next. Meeting rehearsal: Maria opens, \"The statistics book waits calmly.\" I respond, \"Formulas with stories stick.\" and Maria confirms, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "During a small outage, the incident dashboard shines. I connect the request intake template to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the sizing data requests. I compare my notes about the weekly metrics review with Priya's. In today's standup, I mention the anomaly of the week and what comes next. In the meeting drill, Priya says, \"The statistics book waits calmly.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Formulas with stories stick.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "During a small outage, the incident dashboard shines. I connect the request intake template to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the sizing data requests. I compare my notes about the weekly metrics review with Priya's. In today's standup, I mention the anomaly of the week and what comes next. In the meeting drill, Priya says, \"The statistics book waits calmly.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Formulas with stories stick.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一次小故障中，事故看板大放异彩。我把需求受理模板关联到工单上，免得遗漏。Priya 提出了一个更清晰的数据需求估工作量思考方式。我把关于每周指标例会的笔记和 Priya 的对照了一下。今天的站会上，我提到本周异常和接下来的安排。会议彩排：Maria开场：\"统计书安静地等着。\"我回应：\"带故事的公式记得牢。\"Maria确认道：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "一次小故障中，事故看板大放异彩。我把需求受理模板关联到工单上，免得遗漏。Priya 提出了一个更清晰的数据需求估工作量思考方式。我把关于每周指标例会的笔记和 Priya 的对照了一下。今天的站会上，我提到本周异常和接下来的安排。会议演练中，Priya说：\"统计书安静地等着。\"之后我们换角色再练一遍。会议演练中，Leo说：\"带故事的公式记得牢。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "request intake template",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "One screen, the whole story, zero tab-juggling. Drill without notes: Maria asks, \"Examples beat derivations.\" I answer, \"I reread the bias chapters.\" and Maria closes, \"Exactly, and it saves time too.\" We agree to give the priority negotiation one more careful look this week. The guide now has a short section on the self service before ticket. At the review, we spend ten minutes on the experiment status round. While the details are fresh, I write down the wins and misses. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "One screen, the whole story, zero tab-juggling. Drill without notes: Maria asks, \"Examples beat derivations.\" I answer, \"I reread the bias chapters.\" and Maria closes, \"Exactly, and it saves time too.\" We agree to give the priority negotiation one more careful look this week. The guide now has a short section on the self service before ticket. At the review, we spend ten minutes on the experiment status round. While the details are fresh, I write down the wins and misses. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "One screen, the whole story, zero tab-juggling. In the meeting drill, Priya says, \"Examples beat derivations.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"I reread the bias chapters.\" After that, we swap roles and run it again. We agree to give the priority negotiation one more careful look this week. The guide now has a short section on the self service before ticket. At the review, we spend ten minutes on the experiment status round. While the details are fresh, I write down the wins and misses. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "One screen, the whole story, zero tab-juggling. In the meeting drill, Priya says, \"Examples beat derivations.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"I reread the bias chapters.\" After that, we swap roles and run it again. We agree to give the priority negotiation one more careful look this week. The guide now has a short section on the self service before ticket. At the review, we spend ten minutes on the experiment status round. While the details are fresh, I write down the wins and misses. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一屏看完整个故事，零切页。脱稿演练：Maria问：\"例子胜过推导。\"我回答：\"我又读了偏差那几章。\"Maria收束：\"正是，而且还省时间。\"我们说好这周再把优先级协商仔细看一次。指南里现在有关于先自助后提单的简短章节。评审时，我们花了十分钟在实验状态轮询上。趁细节还新鲜，我把成绩与失手写了下来。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "一屏看完整个故事，零切页。会议演练中，Priya说：\"例子胜过推导。\"之后我们换角色再练一遍。会议演练中，Leo说：\"我又读了偏差那几章。\"之后我们换角色再练一遍。我们说好这周再把优先级协商仔细看一次。指南里现在有关于先自助后提单的简短章节。评审时，我们花了十分钟在实验状态轮询上。趁细节还新鲜，我把成绩与失手写了下来。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "priority negotiation",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the guest slot rotation to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the notes published same day. I compare my notes about the rejection memo template with Priya's. In today's standup, I mention the delivery expectation setting and what comes next. Pair run: Leo starts, \"Math anxiety shrinks with practice.\" I follow, \"Slow chapters, deep roots.\" and Leo replies, \"Keep practising, it is working.\" Calm interfaces make calm responders.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the guest slot rotation to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the notes published same day. I compare my notes about the rejection memo template with Priya's. In today's standup, I mention the delivery expectation setting and what comes next. Pair run: Leo starts, \"Math anxiety shrinks with practice.\" I follow, \"Slow chapters, deep roots.\" and Leo replies, \"Keep practising, it is working.\" Calm interfaces make calm responders.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the guest slot rotation to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the notes published same day. I compare my notes about the rejection memo template with Priya's. In today's standup, I mention the delivery expectation setting and what comes next. In the meeting drill, Maria says, \"Math anxiety shrinks with practice.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Slow chapters, deep roots.\" After that, we swap roles and run it again. Calm interfaces make calm responders.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the guest slot rotation to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the notes published same day. I compare my notes about the rejection memo template with Priya's. In today's standup, I mention the delivery expectation setting and what comes next. In the meeting drill, Maria says, \"Math anxiety shrinks with practice.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Slow chapters, deep roots.\" After that, we swap roles and run it again. Calm interfaces make calm responders.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把客座席位轮换关联到工单上，免得遗漏。Priya 提出了一个更清晰的纪要当天发思考方式。我把关于婉拒需求备忘的笔记和 Priya 的对照了一下。今天的站会上，我提到交付预期管理和接下来的安排。结对演练：Leo起头：\"数学焦虑越练越小。\"我跟上：\"慢章节\"Leo回应：\"继续练，有效果了。\"平静的界面造就冷静的响应者。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把客座席位轮换关联到工单上，免得遗漏。Priya 提出了一个更清晰的纪要当天发思考方式。我把关于婉拒需求备忘的笔记和 Priya 的对照了一下。今天的站会上，我提到交付预期管理和接下来的安排。会议演练中，Maria说：\"数学焦虑越练越小。\"之后我们换角色再练一遍。会议演练中，Priya说：\"慢章节\"之后我们换角色再练一遍。平静的界面造就冷静的响应者。",
    "hard": [
     {
      "w": "rejection memo template",

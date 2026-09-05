@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 279,
+   "word_count": 275,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "After the release, we write down what changed. Before the meeting, I review the library one more time. I compare my notes about the dependency with Priya's. After lunch, I check the changelog again. After that, I add the breaking change to my notes with one example. At that moment, Maria says, \"I prefer the first option.\" I reply, and she notes it down. At that moment, Priya says, \"I'd rather wait.\" I answer, and we go over it once more. The work is not easy, but I keep going.",
-   "tts": "After the release, we write down what changed. Before the meeting, I review the library one more time. I compare my notes about the dependency with Priya's. After lunch, I check the changelog again. After that, I add the breaking change to my notes with one example. At that moment, Maria says, \"I prefer the first option.\" I reply, and she notes it down. At that moment, Priya says, \"I'd rather wait.\" I answer, and we go over it once more. The work is not easy, but I keep going.",
+   "en": "After the release, we write down what changed. Before the meeting, I review the library one more time. I compare my notes about the dependency with Priya's. After lunch, I check the changelog again. After that, I add the breaking change to my notes with one example. At that moment, Maria says, \"I prefer the first option.\" I answer, then try the line myself. At that moment, Maria says, \"I'd rather wait.\" I answer, then try the line myself. The work is not easy, but I keep going.",
+   "tts": "After the release, we write down what changed. Before the meeting, I review the library one more time. I compare my notes about the dependency with Priya's. After lunch, I check the changelog again. After that, I add the breaking change to my notes with one example. At that moment, Maria says, \"I prefer the first option.\" I answer, then try the line myself. At that moment, Maria says, \"I'd rather wait.\" I answer, then try the line myself. The work is not easy, but I keep going.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "发布之后，我们记录有哪些变化。开会前，我又复习了一遍库。我把关于依赖的笔记和 Priya 的对照了一下。午饭后，我又检查了一遍变更日志。在那之后，我把破坏性变更和一个例子一起记进了笔记。这时，Maria说：\"我更喜欢第一个方案。\"我回答，她把它记了下来。这时，Priya说：\"我宁愿等一等。\"我回答后，我们又过了一遍。工作不容易，但我继续前进。",
+   "zh": "发布之后，我们记录有哪些变化。开会前，我又复习了一遍库。我把关于依赖的笔记和 Priya 的对照了一下。午饭后，我又检查了一遍变更日志。在那之后，我把破坏性变更和一个例子一起记进了笔记。这时，Maria说：\"我更喜欢第一个方案。\"我回答，然后自己把这句练了一遍。这时，Maria说：\"我宁愿等一等。\"我回答，然后自己把这句练了一遍。工作不容易，但我继续前进。",
    "hard": [
     {
      "w": "library",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We compare two plans and choose one. At that moment, Maria says, \"This works better for me.\" I reply, and she notes it down. After that, Leo corrects my use of the pattern: The main reason is ... I reread the section about the framework after lunch. Leo walks me through the package step by step. After a short break, The team talks about the new feature at the standup. Priya and I spend a few minutes on the bug fix entry. I write down what I learned today.",
-   "tts": "We compare two plans and choose one. At that moment, Maria says, \"This works better for me.\" I reply, and she notes it down. After that, Leo corrects my use of the pattern: The main reason is  I reread the section about the framework after lunch. Leo walks me through the package step by step. After a short break, The team talks about the new feature at the standup. Priya and I spend a few minutes on the bug fix entry. I write down what I learned today.",
+   "en": "We compare two plans and choose one. At that moment, Priya says, \"This works better for me.\" I reply, and she notes it down. After a short break, Leo corrects my use of the pattern: The main reason is ... I reread the section about the framework after lunch. Leo walks me through the package step by step. After that, The team talks about the new feature at the standup. Priya and I spend a few minutes on the bug fix entry. I write down what I learned today.",
+   "tts": "We compare two plans and choose one. At that moment, Priya says, \"This works better for me.\" I reply, and she notes it down. After a short break, Leo corrects my use of the pattern: The main reason is  I reread the section about the framework after lunch. Leo walks me through the package step by step. After that, The team talks about the new feature at the standup. Priya and I spend a few minutes on the bug fix entry. I write down what I learned today.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们比较了两个方案，选择了一个。这时，Maria说：\"这个对我更合适。\"我回答，她把它记了下来。在那之后，Leo 纠正了我对这个句型的用法：主要原因是……午饭后我重读了关于框架的章节。Leo 一步一步带我过了软件包。稍作休息后，团队在站会上讨论了新功能。Priya 和我在缺陷修复条目上花了几分钟。我记下了今天学到的东西。",
+   "zh": "我们比较了两个方案，选择了一个。这时，Priya说：\"这个对我更合适。\"我回答，她把它记了下来。稍作休息后，Leo 纠正了我对这个句型的用法：主要原因是……午饭后我重读了关于框架的章节。Leo 一步一步带我过了软件包。在那之后，团队在站会上讨论了新功能。Priya 和我在缺陷修复条目上花了几分钟。我记下了今天学到的东西。",
    "hard": [
     {
      "w": "framework",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. After a short break, We keep a short checklist for the deprecation notice. When I get stuck, I ask Maria about the release summary. Before the meeting, I review the package manager one more time. After that, I compare my notes about the dependency version with Priya's. At that moment, Maria says, \"It depends on the situation.\" I reply, and she notes it down. At that moment, Priya says, \"Let's choose this one.\" I answer, and we go over it once more. The changelog is clear. New users can understand it.",
-   "tts": "Before I leave, I review what I did today. After a short break, We keep a short checklist for the deprecation notice. When I get stuck, I ask Maria about the release summary. Before the meeting, I review the package manager one more time. After that, I compare my notes about the dependency version with Priya's. At that moment, Maria says, \"It depends on the situation.\" I reply, and she notes it down. At that moment, Priya says, \"Let's choose this one.\" I answer, and we go over it once more. The changelog is clear. New users can understand it.",
+   "en": "Before I leave, I review what I did today. After that, We keep a short checklist for the deprecation notice. When I get stuck, I ask Maria about the release summary. Before the meeting, I review the package manager one more time. After a short break, I compare my notes about the dependency version with Priya's. At that moment, Maria says, \"It depends on the situation.\" I answer, then try the line myself. At that moment, Maria says, \"Let's choose this one.\" I answer, then try the line myself. The changelog is clear. New users can understand it.",
+   "tts": "Before I leave, I review what I did today. After that, We keep a short checklist for the deprecation notice. When I get stuck, I ask Maria about the release summary. Before the meeting, I review the package manager one more time. After a short break, I compare my notes about the dependency version with Priya's. At that moment, Maria says, \"It depends on the situation.\" I answer, then try the line myself. At that moment, Maria says, \"Let's choose this one.\" I answer, then try the line myself. The changelog is clear. New users can understand it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。稍作休息后，我们为弃用通知准备了一张简短的检查单。卡住的时候，我就向 Maria 请教发布摘要。开会前，我又复习了一遍包管理器。在那之后，我把关于依赖版本的笔记和 Priya 的对照了一下。这时，Maria说：\"这取决于具体情况。\"我回答，她把它记了下来。这时，Priya说：\"我们选这个吧。\"我回答后，我们又过了一遍。变更日志很清楚。新用户能看懂。",
+   "zh": "离开前，我回顾了今天做的事。在那之后，我们为弃用通知准备了一张简短的检查单。卡住的时候，我就向 Maria 请教发布摘要。开会前，我又复习了一遍包管理器。稍作休息后，我把关于依赖版本的笔记和 Priya 的对照了一下。这时，Maria说：\"这取决于具体情况。\"我回答，然后自己把这句练了一遍。这时，Maria说：\"我们选这个吧。\"我回答，然后自己把这句练了一遍。变更日志很清楚。新用户能看懂。",
    "hard": [
     {
      "w": "package manager",

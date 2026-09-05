@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 276,
+   "word_count": 315,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A type annotation stops my mistake before lunch. I test on save while the office is still quiet. I add the watch mode to my study notes before I forget it. I ask one good question about the breaking change policy in the meeting. My notes about the codemod look clearer this week. Role play with feedback: Maria says, \"The router needed a reboot.\" I try, \"New wifi, same password.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "A type annotation stops my mistake before lunch. I test on save while the office is still quiet. I add the watch mode to my study notes before I forget it. I ask one good question about the breaking change policy in the meeting. My notes about the codemod look clearer this week. Role play with feedback: Maria says, \"The router needed a reboot.\" I try, \"New wifi, same password.\" and Maria adds, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "A type annotation stops my mistake before lunch. I test on save while the office is still quiet. I add the watch mode to my study notes before I forget it. I ask one good question about the breaking change policy in the meeting. My notes about the codemod look clearer this week. In the warm-up round, Priya says, \"The router needed a reboot.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"New wifi, same password.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "A type annotation stops my mistake before lunch. I test on save while the office is still quiet. I add the watch mode to my study notes before I forget it. I ask one good question about the breaking change policy in the meeting. My notes about the codemod look clearer this week. In the warm-up round, Priya says, \"The router needed a reboot.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"New wifi, same password.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个类型标注在午饭前拦下了我的错误。趁办公室还安静，我保存即测。我趁还没忘，把监听模式记进了学习笔记。会上关于破坏性变更政策，我问了一个好问题。这周我关于代码迁移工具的笔记清楚多了。角色扮演加反馈：Maria说：\"路由器需要重启了。\"我试着说：\"新路由器\"Maria补充道：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "一个类型标注在午饭前拦下了我的错误。趁办公室还安静，我保存即测。我趁还没忘，把监听模式记进了学习笔记。会上关于破坏性变更政策，我问了一个好问题。这周我关于代码迁移工具的笔记清楚多了。热身环节里，Priya说：\"路由器需要重启了。\"然后我们换角色，由我来问。热身环节里，Leo说：\"新路由器\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "test on save",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The compile-time error points at the exact line of nonsense. We practise the dialogue: Maria opens, \"Dead zone in the bedroom.\" I answer, \"The mesh fixed it.\" and Maria nods, \"That is the one we need today.\" I keep one real example of the test selection in my notebook. There is a short paragraph about the parallel test runs in the guide. I spend ten quiet minutes on the dual support period after the standup. I go over the changelog search one more time before lunch. The task moves forward, and so does my confidence.",
-   "tts": "The compile-time error points at the exact line of nonsense. We practise the dialogue: Maria opens, \"Dead zone in the bedroom.\" I answer, \"The mesh fixed it.\" and Maria nods, \"That is the one we need today.\" I keep one real example of the test selection in my notebook. There is a short paragraph about the parallel test runs in the guide. I spend ten quiet minutes on the dual support period after the standup. I go over the changelog search one more time before lunch. The task moves forward, and so does my confidence.",
+   "en": "The compile-time error points at the exact line of nonsense. In the warm-up round, Priya says, \"Dead zone in the bedroom.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"The mesh fixed it.\" Then we swap roles and I ask it back. I keep one real example of the test selection in my notebook. There is a short paragraph about the parallel test runs in the guide. I spend ten quiet minutes on the dual support period after the standup. I go over the changelog search one more time before lunch. The task moves forward, and so does my confidence.",
+   "tts": "The compile-time error points at the exact line of nonsense. In the warm-up round, Priya says, \"Dead zone in the bedroom.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"The mesh fixed it.\" Then we swap roles and I ask it back. I keep one real example of the test selection in my notebook. There is a short paragraph about the parallel test runs in the guide. I spend ten quiet minutes on the dual support period after the standup. I go over the changelog search one more time before lunch. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "编译期错误直指那行荒唐代码的准确位置。我们练习这段对话：Maria开场：\"卧室有个信号死角。\"我回答：\"组网解决了死角。\"Maria点头说：\"今天要的就是这句。\"我在笔记本里留了一个测试选择的真实例子。指南里有一小段关于并行测试的介绍。站会之后，我安安静静花了十分钟在双版本并行期上。午饭前我又过了一遍变更日志检索。任务在推进，我的信心也在成长。",
+   "zh": "编译期错误直指那行荒唐代码的准确位置。热身环节里，Priya说：\"卧室有个信号死角。\"然后我们换角色，由我来问。热身环节里，Leo说：\"组网解决了死角。\"然后我们换角色，由我来问。我在笔记本里留了一个测试选择的真实例子。指南里有一小段关于并行测试的介绍。站会之后，我安安静静花了十分钟在双版本并行期上。午饭前我又过了一遍变更日志检索。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "test selection",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the deprecate loudly, and I explain the basics. I add the support matrix to my study notes before I forget it. I ask one good question about the test sharding in the meeting. My notes about the flaky detector look clearer this week. Warm-up round: Leo offers, \"Speed test doubled.\" I answer, \"Cables beat wifi when it matters.\" and Leo wraps up, \"Nice, keep that one handy.\" Old code welcomes gradual typing like an old coat.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the deprecate loudly, and I explain the basics. I add the support matrix to my study notes before I forget it. I ask one good question about the test sharding in the meeting. My notes about the flaky detector look clearer this week. Warm-up round: Leo offers, \"Speed test doubled.\" I answer, \"Cables beat wifi when it matters.\" and Leo wraps up, \"Nice, keep that one handy.\" Old code welcomes gradual typing like an old coat.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the deprecate loudly, and I explain the basics. I add the support matrix to my study notes before I forget it. I ask one good question about the test sharding in the meeting. My notes about the flaky detector look clearer this week. In the warm-up round, Maria says, \"Speed test doubled.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Cables beat wifi when it matters.\" Then we swap roles and I ask it back. Old code welcomes gradual typing like an old coat.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the deprecate loudly, and I explain the basics. I add the support matrix to my study notes before I forget it. I ask one good question about the test sharding in the meeting. My notes about the flaky detector look clearer this week. In the warm-up round, Maria says, \"Speed test doubled.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Cables beat wifi when it matters.\" Then we swap roles and I ask it back. Old code welcomes gradual typing like an old coat.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起大声弃用，我讲了讲基础。我趁还没忘，把支持矩阵记进了学习笔记。会上关于测试分片，我问了一个好问题。这周我关于抖动检测的笔记清楚多了。热身一轮：Leo给出：\"测速翻倍了。\"我回答：\"关键时刻网线更靠谱。\"Leo收尾道：\"不错，把这句记在手边。\"老代码像穿旧外套一样接受了渐进类型。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起大声弃用，我讲了讲基础。我趁还没忘，把支持矩阵记进了学习笔记。会上关于测试分片，我问了一个好问题。这周我关于抖动检测的笔记清楚多了。热身环节里，Maria说：\"测速翻倍了。\"然后我们换角色，由我来问。热身环节里，Priya说：\"关键时刻网线更靠谱。\"然后我们换角色，由我来问。老代码像穿旧外套一样接受了渐进类型。",
    "hard": [
     {
      "w": "test sharding",

@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>我的生词本 · Immersion Reader</title>
+  <link rel="stylesheet" href="style.css?v=vocab-ui-20260824-r4">
+</head>
+<body>
+  <canvas id="halo" aria-hidden="true"></canvas>
+  <main class="vocab-page app-shell">
+    <header class="topbar">
+      <div class="topbar-inner">
+        <div class="brand"><span class="brand-dot"></span>Immersion Reader<span class="brand-cn">· 我的生词本</span></div>
+        <div class="toolbar">
+          <span class="account-state" id="accountState">本设备保存</span>
+          <button class="tool account-open" id="accountOpen" type="button">登录同步</button>
+          <button class="tool account-logout hidden" id="accountLogout" type="button">退出</button>
+          <a class="tool" href="./">返回课程</a>
+        </div>
+      </div>
+    </header>
+
+    <section class="vocab-hero">
+      <div class="vocab-focus-card">
+        <div class="focus-copy">
+          <p class="focus-eyebrow">TODAY'S REVIEW · 今日复习</p>
+          <h1 id="heroTitle">把今天到期的词，再见一面。</h1>
+          <p class="focus-description" id="heroMessage">每次完成复习，系统会自动安排下一次见面。</p>
+          <div class="focus-actions">
+            <button class="focus-primary" data-vocab-view="due">开始今天复习 <span>→</span></button>
+            <span class="focus-plan">FSRS 自适应间隔 · 目标记忆率 90%</span>
+          </div>
+        </div>
+        <div class="focus-progress" aria-label="今日复习进度">
+          <div class="progress-ring"><strong id="heroProgressNumber">0</strong><span id="heroProgressLabel">待复习</span></div>
+          <p id="heroProgressCaption">今日还没有复习记录</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="vocab-overview" aria-label="词库概览">
+      <div class="overview-stat"><span>词库总数</span><strong id="statTotal">0</strong></div>
+      <div class="overview-stat"><span>学习中</span><strong id="statLearning">0</strong></div>
+      <div class="overview-stat"><span>今日完成</span><strong id="statDone">0</strong></div>
+      <div class="overview-stat stat-soft"><span>已进入巩固</span><strong id="statKnown">0</strong></div>
+    </section>
+
+    <section class="learning-block vocab-shell" id="vocabApp">
+      <div class="vocab-workspace-head">
+        <div>
+          <p class="section-kicker">YOUR WORDS · 词库</p>
+          <h2 id="vocabSectionTitle">今天复习什么？</h2>
+        </div>
+        <p class="vocab-workspace-tip">先独立回忆，再揭晓答案，最后按真实难度评分。</p>
+      </div>
+      <div class="vocab-tabs" role="tablist" aria-label="生词视图">
+        <button class="vocab-tab active" data-vocab-view="due" role="tab" aria-selected="true">今日复习 <b id="tabDue">0</b></button>
+        <button class="vocab-tab" data-vocab-view="all" role="tab" aria-selected="false">全部 <b id="tabAll">0</b></button>
+        <button class="vocab-tab" data-vocab-view="learning" role="tab" aria-selected="false">学习中 <b id="tabLearning">0</b></button>
+        <button class="vocab-tab" data-vocab-view="known" role="tab" aria-selected="false">巩固中 <b id="tabKnown">0</b></button>
+      </div>
+      <div class="vocab-toolbar">
+        <label class="vocab-search"><span aria-hidden="true">⌕</span><input id="vocabSearch" type="search" placeholder="搜索单词、释义、课程或例句…" autocomplete="off"></label>
+        <select id="vocabSort" aria-label="排序方式">
+          <option value="due">按复习时间</option>
+          <option value="recent">最近加入</option>
+          <option value="alpha">按字母排序</option>
+        </select>
+        <select id="vocabSource" aria-label="词汇来源">
+          <option value="all">全部来源</option>
+        </select>
+        <button id="leechOnly" class="leech-toggle" type="button" title="只看连续忘记≥5次的顽固词">顽固词</button>
+        <button id="vocabExport" class="backup-btn" type="button" title="把生词本（含 FSRS 记忆状态）下载为 JSON 备份">导出备份</button>
+        <button id="vocabImportBtn" class="backup-btn" type="button" title="从 JSON 备份合并导入">导入</button>
+        <input id="vocabImportFile" type="file" accept="application/json,.json" hidden>
+      </div>
+      <style>
+        .leech-toggle, .backup-btn { padding: 6px 10px; border: 1px solid #d8ded9; border-radius: 8px; background: #fff; cursor: pointer; font-size: 12px; color: #333; }
+        .leech-toggle.on { background: #b3261e; border-color: #b3261e; color: #fff; }
+        .leech-tag { display: inline-block; margin-left: 6px; padding: 1px 6px; border-radius: 6px; background: #f7e3e2; color: #b3261e; font-size: 11px; }
+        .review-context-link { margin-left: 8px; font-size: 12px; color: #2d6b55; }
+      </style>
+      <div class="vocab-source-summary" id="vocabSourceSummary"></div>
+      <div class="vocab-summary" id="vocabSummary"></div>
+      <div id="vocabList"></div>
+    </section>
+  </main>
+  <div class="vocab-toast" id="vocabToast" role="status" aria-live="polite"></div>
+  <div class="auth-backdrop hidden" id="authBackdrop">
+    <section class="auth-card" role="dialog" aria-modal="true" aria-labelledby="authTitle">
+      <button class="auth-close" id="authClose" type="button" aria-label="关闭">×</button>
+      <p class="focus-eyebrow auth-eyebrow">CLOUD SYNC · 多端同步</p>
+      <h2 id="authTitle">登录你的生词本</h2>
+      <p class="auth-copy">同一账号登录手机和电脑，生词、复习次数和下次复习时间会自动同步。</p>
+      <form id="authForm">
+        <label>用户名<input id="authUsername" name="username" required minlength="2" maxlength="32" autocomplete="username" placeholder="例如 liyuwen"></label>
+        <label>密码<input id="authPassword" name="password" type="password" required minlength="8" maxlength="128" autocomplete="current-password" placeholder="至少 8 位"></label>
+        <p class="auth-error" id="authError" role="alert"></p>
+        <button class="auth-submit" id="authSubmit" type="submit">登录并同步</button>
+      </form>
+      <button class="auth-switch" id="authSwitch" type="button">还没有账号？注册一个</button>
+      <p class="auth-privacy">账号只用于保存你的学习数据。密码会加密保存，本站不会读取你的课程内容。</p>
+    </section>
+  </div>
+  <script src="vendor/ts-fsrs.umd.js?v=5.4.1"></script>
+  <script src="adaptive-review.js?v=20260824-1"></script>
+  <script src="vocab.js?v=vocab-ui-20260824-r4"></script>
+</body>
+</html>

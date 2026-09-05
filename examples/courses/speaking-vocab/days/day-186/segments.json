@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 298,
+   "word_count": 338,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The Apprentice writes a beautiful function that calls nothing real. We agree to give the inline code suggestion one more careful look this week. At the review, we spend ten minutes on the accept with understanding rule. The guide now has a short section on the changelog drafting assist. I compare my notes about the release notes from commits with Priya's. Pair run: Priya starts, \"The watch coaches, gently.\" I follow, \"Training load suggestions.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "The Apprentice writes a beautiful function that calls nothing real. We agree to give the inline code suggestion one more careful look this week. At the review, we spend ten minutes on the accept with understanding rule. The guide now has a short section on the changelog drafting assist. I compare my notes about the release notes from commits with Priya's. Pair run: Priya starts, \"The watch coaches, gently.\" I follow, \"Training load suggestions.\" and Priya replies, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "The Apprentice writes a beautiful function that calls nothing real. We agree to give the inline code suggestion one more careful look this week. At the review, we spend ten minutes on the accept with understanding rule. The guide now has a short section on the changelog drafting assist. I compare my notes about the release notes from commits with Priya's. In the meeting drill, Leo says, \"The watch coaches, gently.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Training load suggestions.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The Apprentice writes a beautiful function that calls nothing real. We agree to give the inline code suggestion one more careful look this week. At the review, we spend ten minutes on the accept with understanding rule. The guide now has a short section on the changelog drafting assist. I compare my notes about the release notes from commits with Priya's. In the meeting drill, Leo says, \"The watch coaches, gently.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Training load suggestions.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "学徒写了一个优美的函数，调用着不存在的东西。我们说好这周再把行内代码建议仔细看一次。评审时，我们花了十分钟在看懂再采纳上。指南里现在有关于变更日志起草辅助的简短章节。我把关于从提交生成发布说明的笔记和 Priya 的对照了一下。结对演练：Priya起头：\"手表温柔地教练。\"我跟上：\"训练负荷建议。\"Priya回应：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "学徒写了一个优美的函数，调用着不存在的东西。我们说好这周再把行内代码建议仔细看一次。评审时，我们花了十分钟在看懂再采纳上。指南里现在有关于变更日志起草辅助的简短章节。我把关于从提交生成发布说明的笔记和 Priya 的对照了一下。会议演练中，Leo说：\"手表温柔地教练。\"之后我们换角色再练一遍。会议演练中，Maria说：\"训练负荷建议。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "inline code suggestion",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "It reads like poetry and runs like a rumor. Meeting rehearsal: Priya opens, \"I outrun its predictions sometimes.\" I respond, \"Battery dies at kilometer thirty.\" and Priya confirms, \"Good point — use it in the standup.\" In today's standup, I mention the suggestion fatigue and what comes next. Priya suggests a cleaner way to think about the context aware refactoring. I connect the pr summary quality bar to the ticket so nothing gets lost. While the details are fresh, I write down the jargon translation for users. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "It reads like poetry and runs like a rumor. Meeting rehearsal: Priya opens, \"I outrun its predictions sometimes.\" I respond, \"Battery dies at kilometer thirty.\" and Priya confirms, \"Good point — use it in the standup.\" In today's standup, I mention the suggestion fatigue and what comes next. Priya suggests a cleaner way to think about the context aware refactoring. I connect the pr summary quality bar to the ticket so nothing gets lost. While the details are fresh, I write down the jargon translation for users. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "It reads like poetry and runs like a rumor. In the meeting drill, Leo says, \"I outrun its predictions sometimes.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Battery dies at kilometer thirty.\" After that, we swap roles and run it again. In today's standup, I mention the suggestion fatigue and what comes next. Priya suggests a cleaner way to think about the context aware refactoring. I connect the pr summary quality bar to the ticket so nothing gets lost. While the details are fresh, I write down the jargon translation for users. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "It reads like poetry and runs like a rumor. In the meeting drill, Leo says, \"I outrun its predictions sometimes.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Battery dies at kilometer thirty.\" After that, we swap roles and run it again. In today's standup, I mention the suggestion fatigue and what comes next. Priya suggests a cleaner way to think about the context aware refactoring. I connect the pr summary quality bar to the ticket so nothing gets lost. While the details are fresh, I write down the jargon translation for users. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "它读起来像诗，跑起来像谣言。会议彩排：Priya开场：\"我偶尔跑赢它的预测。\"我回应：\"第三十公里它没电了。\"Priya确认道：\"说得好——站会上就用它。\"今天的站会上，我提到建议疲劳和接下来的安排。Priya 提出了一个更清晰的上下文感知重构思考方式。我把PR 摘要质量线关联到工单上，免得遗漏。趁细节还新鲜，我把面向用户的术语翻译写了下来。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "它读起来像诗，跑起来像谣言。会议演练中，Leo说：\"我偶尔跑赢它的预测。\"之后我们换角色再练一遍。会议演练中，Maria说：\"第三十公里它没电了。\"之后我们换角色再练一遍。今天的站会上，我提到建议疲劳和接下来的安排。Priya 提出了一个更清晰的上下文感知重构思考方式。我把PR 摘要质量线关联到工单上，免得遗漏。趁细节还新鲜，我把面向用户的术语翻译写了下来。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "suggestion fatigue",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the commit message suggestions one more careful look this week. At the review, we spend ten minutes on the human final edit rule. The guide now has a short section on the boilerplate elimination. I compare my notes about the pairing protocol with ai with Priya's. Whiteboard practice: Maria offers, \"Data made rest days legal.\" I add, \"It counts, I decide.\" then Maria sums up, \"Exactly, and it saves time too.\" My review comment becomes a team artifact: fluent is not finished.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the commit message suggestions one more careful look this week. At the review, we spend ten minutes on the human final edit rule. The guide now has a short section on the boilerplate elimination. I compare my notes about the pairing protocol with ai with Priya's. Whiteboard practice: Maria offers, \"Data made rest days legal.\" I add, \"It counts, I decide.\" then Maria sums up, \"Exactly, and it saves time too.\" My review comment becomes a team artifact: fluent is not finished.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the commit message suggestions one more careful look this week. At the review, we spend ten minutes on the human final edit rule. The guide now has a short section on the boilerplate elimination. I compare my notes about the pairing protocol with ai with Priya's. In the meeting drill, Priya says, \"Data made rest days legal.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"It counts, I decide.\" After that, we swap roles and run it again. My review comment becomes a team artifact: fluent is not finished.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. We agree to give the commit message suggestions one more careful look this week. At the review, we spend ten minutes on the human final edit rule. The guide now has a short section on the boilerplate elimination. I compare my notes about the pairing protocol with ai with Priya's. In the meeting drill, Priya says, \"Data made rest days legal.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"It counts, I decide.\" After that, we swap roles and run it again. My review comment becomes a team artifact: fluent is not finished.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把提交说明建议仔细看一次。评审时，我们花了十分钟在人工终审规则上。指南里现在有关于样板代码消灭的简短章节。我把关于与 AI 的结对协议的笔记和 Priya 的对照了一下。白板练习：Maria给出：\"数据让休息日名正言顺。\"我补充：\"它来计数\"然后Maria总结：\"正是，而且还省时间。\"我的评审评论成了团队名言：流畅不等于完成。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我们说好这周再把提交说明建议仔细看一次。评审时，我们花了十分钟在人工终审规则上。指南里现在有关于样板代码消灭的简短章节。我把关于与 AI 的结对协议的笔记和 Priya 的对照了一下。会议演练中，Priya说：\"数据让休息日名正言顺。\"之后我们换角色再练一遍。会议演练中，Leo说：\"它来计数\"之后我们换角色再练一遍。我的评审评论成了团队名言：流畅不等于完成。",
    "hard": [
     {
      "w": "boilerplate elimination",

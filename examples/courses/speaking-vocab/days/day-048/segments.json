@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 287,
+   "word_count": 324,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Users hate waiting, so we try an optimistic update. I spend ten quiet minutes on the application state after the standup. There is a short paragraph about the state change in the guide. I ask one good question about the template repository in the meeting. I keep one real example of the duplicate issue in my notebook. Warm-up round: Priya offers, \"Let's look at the data first.\" I answer, \"I respect your view.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Users hate waiting, so we try an optimistic update. I spend ten quiet minutes on the application state after the standup. There is a short paragraph about the state change in the guide. I ask one good question about the template repository in the meeting. I keep one real example of the duplicate issue in my notebook. Warm-up round: Priya offers, \"Let's look at the data first.\" I answer, \"I respect your view.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "en": "Users hate waiting, so we try an optimistic update. I spend ten quiet minutes on the application state after the standup. There is a short paragraph about the state change in the guide. I ask one good question about the template repository in the meeting. I keep one real example of the duplicate issue in my notebook. In the warm-up round, Leo says, \"Let's look at the data first.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I respect your view.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "Users hate waiting, so we try an optimistic update. I spend ten quiet minutes on the application state after the standup. There is a short paragraph about the state change in the guide. I ask one good question about the template repository in the meeting. I keep one real example of the duplicate issue in my notebook. In the warm-up round, Leo says, \"Let's look at the data first.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I respect your view.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "用户讨厌等待，所以我们试了乐观更新。站会之后，我安安静静花了十分钟在应用状态上。指南里有一小段关于状态变化的介绍。会上关于模板仓库，我问了一个好问题。我在笔记本里留了一个重复问题单的真实例子。热身一轮：Priya给出：\"我们先看数据再说。\"我回答：\"我尊重你的看法。\"Priya收尾道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "用户讨厌等待，所以我们试了乐观更新。站会之后，我安安静静花了十分钟在应用状态上。指南里有一小段关于状态变化的介绍。会上关于模板仓库，我问了一个好问题。我在笔记本里留了一个重复问题单的真实例子。热身环节里，Leo说：\"我们先看数据再说。\"然后我们换角色，由我来问。热身环节里，Maria说：\"我尊重你的看法。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "application state",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The screen saves first and confirms after, with a rollback state if the network lies. We drill it twice: Priya starts, \"Can we find middle ground?\" I reply, \"Let's park this for now.\" then Priya smiles, \"Good — try it in today’s task.\" Sam asks me about the event handler, and I explain the basics. My notes about the render loop look clearer this week. This morning, I scaffold a repo before the first call. I go over the default branch setting one more time before lunch. Small progress today prepares the bigger step tomorrow.",
-   "tts": "The screen saves first and confirms after, with a rollback state if the network lies. We drill it twice: Priya starts, \"Can we find middle ground?\" I reply, \"Let's park this for now.\" then Priya smiles, \"Good — try it in today’s task.\" Sam asks me about the event handler, and I explain the basics. My notes about the render loop look clearer this week. This morning, I scaffold a repo before the first call. I go over the default branch setting one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "en": "The screen saves first and confirms after, with a rollback state if the network lies. In the warm-up round, Leo asks, \"Can we find middle ground?\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Let's park this for now.\" Then we swap roles and I ask it back. Sam asks me about the event handler, and I explain the basics. My notes about the render loop look clearer this week. This morning, I scaffold a repo before the first call. I go over the default branch setting one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "tts": "The screen saves first and confirms after, with a rollback state if the network lies. In the warm-up round, Leo asks, \"Can we find middle ground?\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Let's park this for now.\" Then we swap roles and I ask it back. Sam asks me about the event handler, and I explain the basics. My notes about the render loop look clearer this week. This morning, I scaffold a repo before the first call. I go over the default branch setting one more time before lunch. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "界面先保存后确认，如果网络撒谎就回滚状态。我们练了两遍：Priya起头：\"我们能找个折中方案吗？\"我回答：\"这个我们先放一放。\"然后Priya笑着说：\"好——今天的任务里就用上。\"Sam 问起事件处理器，我讲了讲基础。这周我关于渲染循环的笔记清楚多了。今天早上，第一次通话之前我先初始化仓库。午饭前我又过了一遍默认分支设置。今天的小进步为明天更大的跨越做准备。",
+   "zh": "界面先保存后确认，如果网络撒谎就回滚状态。热身环节里，Leo问：\"我们能找个折中方案吗？\"然后我们换角色，由我来问。热身环节里，Maria说：\"这个我们先放一放。\"然后我们换角色，由我来问。Sam 问起事件处理器，我讲了讲基础。这周我关于渲染循环的笔记清楚多了。今天早上，第一次通话之前我先初始化仓库。午饭前我又过了一遍默认分支设置。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "event handler",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the repo description to my study notes before I forget it. I spend ten quiet minutes on the topic tags after the standup. There is a short paragraph about the optimistic update in the guide. I ask one good question about the rollback state in the meeting. Role play with feedback: Maria says, \"I'll defer to your judgment.\" I try, \"We want the same outcome.\" and Maria adds, \"That is the one we need today.\" Fast feels honest when the fallback works.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the repo description to my study notes before I forget it. I spend ten quiet minutes on the topic tags after the standup. There is a short paragraph about the optimistic update in the guide. I ask one good question about the rollback state in the meeting. Role play with feedback: Maria says, \"I'll defer to your judgment.\" I try, \"We want the same outcome.\" and Maria adds, \"That is the one we need today.\" Fast feels honest when the fallback works.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the repo description to my study notes before I forget it. I spend ten quiet minutes on the topic tags after the standup. There is a short paragraph about the optimistic update in the guide. I ask one good question about the rollback state in the meeting. In the warm-up round, Priya says, \"I'll defer to your judgment.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"We want the same outcome.\" Then we swap roles and I ask it back. Fast feels honest when the fallback works.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the repo description to my study notes before I forget it. I spend ten quiet minutes on the topic tags after the standup. There is a short paragraph about the optimistic update in the guide. I ask one good question about the rollback state in the meeting. In the warm-up round, Priya says, \"I'll defer to your judgment.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"We want the same outcome.\" Then we swap roles and I ask it back. Fast feels honest when the fallback works.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把仓库描述记进了学习笔记。站会之后，我安安静静花了十分钟在主题标签上。指南里有一小段关于乐观更新的介绍。会上关于回滚状态，我问了一个好问题。角色扮演加反馈：Maria说：\"我听你的判断。\"我试着说：\"我们想要的结局是一样的。\"Maria补充道：\"今天要的就是这句。\"有兜底的时候，快才显得真诚。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把仓库描述记进了学习笔记。站会之后，我安安静静花了十分钟在主题标签上。指南里有一小段关于乐观更新的介绍。会上关于回滚状态，我问了一个好问题。热身环节里，Priya说：\"我听你的判断。\"然后我们换角色，由我来问。热身环节里，Leo说：\"我们想要的结局是一样的。\"然后我们换角色，由我来问。有兜底的时候，快才显得真诚。",
    "hard": [
     {
      "w": "optimistic update",

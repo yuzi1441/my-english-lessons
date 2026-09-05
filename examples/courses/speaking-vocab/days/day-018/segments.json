@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 281,
+   "word_count": 283,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I try to push to the main branch, but it is protected. Leo walks me through the encryption step by step. I reread the section about the encrypted connection after lunch. After a short break, I add the protected branch to my notes with one example. When I get stuck, I ask Maria about the branch protection rule. At that moment, Leo says, \"Call an ambulance.\" I answer, then try the line myself. At that moment, Maria says, \"I need help immediately.\" I reply, and she notes it down. I write down what I learned today.",
-   "tts": "I try to push to the main branch, but it is protected. Leo walks me through the encryption step by step. I reread the section about the encrypted connection after lunch. After a short break, I add the protected branch to my notes with one example. When I get stuck, I ask Maria about the branch protection rule. At that moment, Leo says, \"Call an ambulance.\" I answer, then try the line myself. At that moment, Maria says, \"I need help immediately.\" I reply, and she notes it down. I write down what I learned today.",
+   "en": "I try to push to the main branch, but it is protected. Leo walks me through the encryption step by step. I reread the section about the encrypted connection after lunch. After a short break, I add the protected branch to my notes with one example. When I get stuck, I ask Maria about the branch protection rule. At that moment, Leo says, \"Call an ambulance.\" I answer, and we go over it once more. At that moment, Leo says, \"I need help immediately.\" I answer, and we go over it once more. I write down what I learned today.",
+   "tts": "I try to push to the main branch, but it is protected. Leo walks me through the encryption step by step. I reread the section about the encrypted connection after lunch. After a short break, I add the protected branch to my notes with one example. When I get stuck, I ask Maria about the branch protection rule. At that moment, Leo says, \"Call an ambulance.\" I answer, and we go over it once more. At that moment, Leo says, \"I need help immediately.\" I answer, and we go over it once more. I write down what I learned today.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我想直接推送到主分支，但它是受保护的。Leo 一步一步带我过了加密。午饭后我重读了关于加密连接的章节。稍作休息后，我把受保护分支和一个例子一起记进了笔记。卡住的时候，我就向 Maria 请教分支保护规则。这时，Leo说：\"叫救护车。\"我回答，然后自己把这句练了一遍。这时，Maria说：\"我立刻需要帮助。\"我回答，她把它记了下来。我记下了今天学到的东西。",
+   "zh": "我想直接推送到主分支，但它是受保护的。Leo 一步一步带我过了加密。午饭后我重读了关于加密连接的章节。稍作休息后，我把受保护分支和一个例子一起记进了笔记。卡住的时候，我就向 Maria 请教分支保护规则。这时，Leo说：\"叫救护车。\"我回答后，我们又过了一遍。这时，Leo说：\"我立刻需要帮助。\"我回答后，我们又过了一遍。我记下了今天学到的东西。",
    "hard": [
     {
      "w": "encryption",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "In the afternoon, there is a fire drill. Everyone is safe. At that moment, Leo asks, \"Where is the nearest hospital?\" I answer, then try the line myself. At that moment, Maria says, \"I've lost my phone.\" I reply, and she notes it down. After that, Priya and I spend a few minutes on the privacy setting. Before the meeting, I review the data backup one more time. The team talks about the required approval at the standup. After I restrict pushes, I tell the team. With the team's help, the problem becomes smaller.",
-   "tts": "In the afternoon, there is a fire drill. Everyone is safe. At that moment, Leo asks, \"Where is the nearest hospital?\" I answer, then try the line myself. At that moment, Maria says, \"I've lost my phone.\" I reply, and she notes it down. After that, Priya and I spend a few minutes on the privacy setting. Before the meeting, I review the data backup one more time. The team talks about the required approval at the standup. After I restrict pushes, I tell the team. With the team's help, the problem becomes smaller.",
+   "en": "In the afternoon, there is a fire drill. Everyone is safe. At that moment, Maria asks, \"Where is the nearest hospital?\" I answer, then try the line myself. At that moment, Maria says, \"I've lost my phone.\" I answer, then try the line myself. Priya and I spend a few minutes on the privacy setting. Before the meeting, I review the data backup one more time. After that, The team talks about the required approval at the standup. After I restrict pushes, I tell the team. With the team's help, the problem becomes smaller.",
+   "tts": "In the afternoon, there is a fire drill. Everyone is safe. At that moment, Maria asks, \"Where is the nearest hospital?\" I answer, then try the line myself. At that moment, Maria says, \"I've lost my phone.\" I answer, then try the line myself. Priya and I spend a few minutes on the privacy setting. Before the meeting, I review the data backup one more time. After that, The team talks about the required approval at the standup. After I restrict pushes, I tell the team. With the team's help, the problem becomes smaller.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "下午，大楼有消防演习。所有人都安全。这时，Leo问：\"最近的医院在哪里？\"我回答，然后自己把这句练了一遍。这时，Maria说：\"我的手机丢了。\"我回答，她把它记了下来。在那之后，Priya 和我在隐私设置上花了几分钟。开会前，我又复习了一遍数据备份。团队在站会上讨论了必需批准。我限制推送之后，告诉了团队。在团队的帮助下，问题变小了。",
+   "zh": "下午，大楼有消防演习。所有人都安全。这时，Maria问：\"最近的医院在哪里？\"我回答，然后自己把这句练了一遍。这时，Maria说：\"我的手机丢了。\"我回答，然后自己把这句练了一遍。Priya 和我在隐私设置上花了几分钟。开会前，我又复习了一遍数据备份。在那之后，团队在站会上讨论了必需批准。我限制推送之后，告诉了团队。在团队的帮助下，问题变小了。",
    "hard": [
     {
      "w": "privacy setting",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. After lunch, I check the signed commit again. After a short break, I compare my notes about the security policy with Priya's. I restore data, and Priya watches the result. We keep a short checklist for the recovery key. At that moment, Priya says, \"Please contact the police.\" I answer, and we go over it once more. At that moment, Leo asks, \"Is everyone safe?\" I answer, then try the line myself. Now I understand the rule: reviews protect the main branch.",
-   "tts": "Before I leave, I review what I did today. After lunch, I check the signed commit again. After a short break, I compare my notes about the security policy with Priya's. I restore data, and Priya watches the result. We keep a short checklist for the recovery key. At that moment, Priya says, \"Please contact the police.\" I answer, and we go over it once more. At that moment, Leo asks, \"Is everyone safe?\" I answer, then try the line myself. Now I understand the rule: reviews protect the main branch.",
+   "en": "Before I leave, I review what I did today. After lunch, I check the signed commit again. I compare my notes about the security policy with Priya's. I restore data, and Priya watches the result. After a short break, We keep a short checklist for the recovery key. At that moment, Maria says, \"Please contact the police.\" I answer, then try the line myself. At that moment, Maria asks, \"Is everyone safe?\" I answer, then try the line myself. Now I understand the rule: reviews protect the main branch.",
+   "tts": "Before I leave, I review what I did today. After lunch, I check the signed commit again. I compare my notes about the security policy with Priya's. I restore data, and Priya watches the result. After a short break, We keep a short checklist for the recovery key. At that moment, Maria says, \"Please contact the police.\" I answer, then try the line myself. At that moment, Maria asks, \"Is everyone safe?\" I answer, then try the line myself. Now I understand the rule: reviews protect the main branch.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。午饭后，我又检查了一遍签名提交。稍作休息后，我把关于安全政策的笔记和 Priya 的对照了一下。我恢复数据，Priya 在旁边看结果。我们为恢复密钥准备了一张简短的检查单。这时，Priya说：\"请联系警察。\"我回答后，我们又过了一遍。这时，Leo问：\"所有人都安全吗？\"我回答，然后自己把这句练了一遍。现在我理解了规则：评审保护主分支。",
+   "zh": "离开前，我回顾了今天做的事。午饭后，我又检查了一遍签名提交。我把关于安全政策的笔记和 Priya 的对照了一下。我恢复数据，Priya 在旁边看结果。稍作休息后，我们为恢复密钥准备了一张简短的检查单。这时，Maria说：\"请联系警察。\"我回答，然后自己把这句练了一遍。这时，Maria问：\"所有人都安全吗？\"我回答，然后自己把这句练了一遍。现在我理解了规则：评审保护主分支。",
    "hard": [
     {
      "w": "restore data",

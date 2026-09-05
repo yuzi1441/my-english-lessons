@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 297,
+   "word_count": 337,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The group tries async by default for one week. I compare my notes about the doc sprint day with Priya's. In today's standup, I mention the review before merge for docs and what comes next. The guide now has a short section on the collaboration graph. We agree to give the review diversity one more careful look this week. Meeting rehearsal: Priya opens, \"New bike lanes, new joy.\" I respond, \"Helmet hair, worth it.\" and Priya confirms, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "The group tries async by default for one week. I compare my notes about the doc sprint day with Priya's. In today's standup, I mention the review before merge for docs and what comes next. The guide now has a short section on the collaboration graph. We agree to give the review diversity one more careful look this week. Meeting rehearsal: Priya opens, \"New bike lanes, new joy.\" I respond, \"Helmet hair, worth it.\" and Priya confirms, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "The group tries async by default for one week. I compare my notes about the doc sprint day with Priya's. In today's standup, I mention the review before merge for docs and what comes next. The guide now has a short section on the collaboration graph. We agree to give the review diversity one more careful look this week. In the meeting drill, Leo says, \"New bike lanes, new joy.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Helmet hair, worth it.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The group tries async by default for one week. I compare my notes about the doc sprint day with Priya's. In today's standup, I mention the review before merge for docs and what comes next. The guide now has a short section on the collaboration graph. We agree to give the review diversity one more careful look this week. In the meeting drill, Leo says, \"New bike lanes, new joy.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Helmet hair, worth it.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "工作组尝试一整周默认异步。我把关于文档冲刺日的笔记和 Priya 的对照了一下。今天的站会上，我提到文档合并前评审和接下来的安排。指南里现在有关于协作图的简短章节。我们说好这周再把评审多样性仔细看一次。会议彩排：Priya开场：\"新自行车道\"我回应：\"头盔压的发型\"Priya确认道：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "工作组尝试一整周默认异步。我把关于文档冲刺日的笔记和 Priya 的对照了一下。今天的站会上，我提到文档合并前评审和接下来的安排。指南里现在有关于协作图的简短章节。我们说好这周再把评审多样性仔细看一次。会议演练中，Leo说：\"新自行车道\"之后我们换角色再练一遍。会议演练中，Maria说：\"头盔压的发型\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "doc sprint day",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Decisions land in writing, with time zones treated as guests, not obstacles. Pair run: Priya starts, \"The river route has no red lights.\" I follow, \"Bell is a kindness.\" and Priya replies, \"Good point — use it in the standup.\" Priya suggests a cleaner way to think about the RFC comments etiquette. I connect the doc deprecation banner to the ticket so nothing gets lost. While the details are fresh, I write down the cross team pr rate. At the review, we spend ten minutes on the onboarding time metric. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Decisions land in writing, with time zones treated as guests, not obstacles. Pair run: Priya starts, \"The river route has no red lights.\" I follow, \"Bell is a kindness.\" and Priya replies, \"Good point — use it in the standup.\" Priya suggests a cleaner way to think about the R F C comments etiquette. I connect the doc deprecation banner to the ticket so nothing gets lost. While the details are fresh, I write down the cross team pr rate. At the review, we spend ten minutes on the onboarding time metric. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Decisions land in writing, with time zones treated as guests, not obstacles. In the meeting drill, Leo says, \"The river route has no red lights.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Bell is a kindness.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the RFC comments etiquette. I connect the doc deprecation banner to the ticket so nothing gets lost. While the details are fresh, I write down the cross team pr rate. At the review, we spend ten minutes on the onboarding time metric. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Decisions land in writing, with time zones treated as guests, not obstacles. In the meeting drill, Leo says, \"The river route has no red lights.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Bell is a kindness.\" After that, we swap roles and run it again. Priya suggests a cleaner way to think about the R F C comments etiquette. I connect the doc deprecation banner to the ticket so nothing gets lost. While the details are fresh, I write down the cross team pr rate. At the review, we spend ten minutes on the onboarding time metric. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "决定落成文字，时区被当作客人而非障碍。结对演练：Priya起头：\"沿河路线一路绿灯。\"我跟上：\"车铃是种善意。\"Priya回应：\"说得好——站会上就用它。\"Priya 提出了一个更清晰的RFC 评论礼仪思考方式。我把文档弃用横幅关联到工单上，免得遗漏。趁细节还新鲜，我把跨团队 PR 比例写了下来。评审时，我们花了十分钟在入职上手时长上。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "决定落成文字，时区被当作客人而非障碍。会议演练中，Leo说：\"沿河路线一路绿灯。\"之后我们换角色再练一遍。会议演练中，Maria说：\"车铃是种善意。\"之后我们换角色再练一遍。Priya 提出了一个更清晰的RFC 评论礼仪思考方式。我把文档弃用横幅关联到工单上，免得遗漏。趁细节还新鲜，我把跨团队 PR 比例写了下来。评审时，我们花了十分钟在入职上手时长上。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "RFC comments etiquette",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the doc freshness score with Priya's. In today's standup, I mention the meeting hours per week and what comes next. The guide now has a short section on the translate as you go. We agree to give the screenshot refresh day one more careful look this week. Drill without notes: Maria asks, \"Locks matter at night.\" I answer, \"Winter riding needs gloves.\" and Maria closes, \"Exactly, and it saves time too.\" The quiet people finally spoke loudest.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the doc freshness score with Priya's. In today's standup, I mention the meeting hours per week and what comes next. The guide now has a short section on the translate as you go. We agree to give the screenshot refresh day one more careful look this week. Drill without notes: Maria asks, \"Locks matter at night.\" I answer, \"Winter riding needs gloves.\" and Maria closes, \"Exactly, and it saves time too.\" The quiet people finally spoke loudest.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the doc freshness score with Priya's. In today's standup, I mention the meeting hours per week and what comes next. The guide now has a short section on the translate as you go. We agree to give the screenshot refresh day one more careful look this week. In the meeting drill, Priya says, \"Locks matter at night.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Winter riding needs gloves.\" After that, we swap roles and run it again. The quiet people finally spoke loudest.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the doc freshness score with Priya's. In today's standup, I mention the meeting hours per week and what comes next. The guide now has a short section on the translate as you go. We agree to give the screenshot refresh day one more careful look this week. In the meeting drill, Priya says, \"Locks matter at night.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Winter riding needs gloves.\" After that, we swap roles and run it again. The quiet people finally spoke loudest.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于文档新鲜度的笔记和 Priya 的对照了一下。今天的站会上，我提到每周会议小时数和接下来的安排。指南里现在有关于随手补翻译的简短章节。我们说好这周再把截图翻新日仔细看一次。脱稿演练：Maria问：\"夜里锁很重要。\"我回答：\"冬天骑行要手套。\"Maria收束：\"正是，而且还省时间。\"安静的人终于发出了最大的声音。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于文档新鲜度的笔记和 Priya 的对照了一下。今天的站会上，我提到每周会议小时数和接下来的安排。指南里现在有关于随手补翻译的简短章节。我们说好这周再把截图翻新日仔细看一次。会议演练中，Priya说：\"夜里锁很重要。\"之后我们换角色再练一遍。会议演练中，Leo说：\"冬天骑行要手套。\"之后我们换角色再练一遍。安静的人终于发出了最大的声音。",
    "hard": [
     {
      "w": "translate as you go",

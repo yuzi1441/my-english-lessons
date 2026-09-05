@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 314,
+   "word_count": 360,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We simulate the hot key expiring at peak. I add the service worker lifecycle to the meeting agenda with three supporting facts. The team names one clear owner for the precache list. I prepare a one-page brief about the offline test suite so meetings start from facts. I compare two views on the cache size budget and write both down honestly. Review warm-up: Leo raises, \"The door checklist is precache.\" I answer, \"Keys, wallet, phone, check.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "We simulate the hot key expiring at peak. I add the service worker lifecycle to the meeting agenda with three supporting facts. The team names one clear owner for the precache list. I prepare a one-page brief about the offline test suite so meetings start from facts. I compare two views on the cache size budget and write both down honestly. Review warm-up: Leo raises, \"The door checklist is precache.\" I answer, \"Keys, wallet, phone, check.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "We simulate the hot key expiring at peak. I add the service worker lifecycle to the meeting agenda with three supporting facts. The team names one clear owner for the precache list. I prepare a one-page brief about the offline test suite so meetings start from facts. I compare two views on the cache size budget and write both down honestly. In the review drill, Maria says, \"The door checklist is precache.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Keys, wallet, phone, check.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "We simulate the hot key expiring at peak. I add the service worker lifecycle to the meeting agenda with three supporting facts. The team names one clear owner for the precache list. I prepare a one-page brief about the offline test suite so meetings start from facts. I compare two views on the cache size budget and write both down honestly. In the review drill, Maria says, \"The door checklist is precache.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Keys, wallet, phone, check.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们模拟热点缓存在高峰期失效。我把Service Worker 生命周期连同三条支撑事实加进了议程。团队为预缓存清单指定了明确的负责人。我准备了一页关于离线测试套件的简报，好让会议从事实出发。我比较了关于缓存体积预算的两种观点，诚实地都记了下来。评审热身：Leo抛出：\"出门清单就是预缓存。\"我带着数字回答：\"钥匙钱包手机\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "我们模拟热点缓存在高峰期失效。我把Service Worker 生命周期连同三条支撑事实加进了议程。团队为预缓存清单指定了明确的负责人。我准备了一页关于离线测试套件的简报，好让会议从事实出发。我比较了关于缓存体积预算的两种观点，诚实地都记了下来。评审演练中，Maria说：\"出门清单就是预缓存。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"钥匙钱包手机\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "service worker lifecycle",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A thousand requests pile into one expensive query; the lock and warmup save us. Dry run: Leo opens, \"The umbrella is offline fallback.\" I follow, \"Old lists get version numbers.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Before deciding, I reread my notes about the runtime caching strategy twice. Our mentor walks me through how the offline fallback page evolved on this team. During the design review, I raise one careful question about the sw update rollback. We spend the first ten minutes of the review on the lighthouse offline score. We end the week with something shipped and something properly learned this time.",
-   "tts": "A thousand requests pile into one expensive query; the lock and warmup save us. Dry run: Leo opens, \"The umbrella is offline fallback.\" I follow, \"Old lists get version numbers.\" plus one proposal, and Leo accepts, \"That is the level we need.\" Before deciding, I reread my notes about the runtime caching strategy twice. Our mentor walks me through how the offline fallback page evolved on this team. During the design review, I raise one careful question about the sw update rollback. We spend the first ten minutes of the review on the lighthouse offline score. We end the week with something shipped and something properly learned this time.",
+   "en": "A thousand requests pile into one expensive query; the lock and warmup save us. In the review drill, Maria says, \"The umbrella is offline fallback.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Old lists get version numbers.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the runtime caching strategy twice. Our mentor walks me through how the offline fallback page evolved on this team. During the design review, I raise one careful question about the sw update rollback. We spend the first ten minutes of the review on the lighthouse offline score. We end the week with something shipped and something properly learned this time.",
+   "tts": "A thousand requests pile into one expensive query; the lock and warmup save us. In the review drill, Maria says, \"The umbrella is offline fallback.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Old lists get version numbers.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the runtime caching strategy twice. Our mentor walks me through how the offline fallback page evolved on this team. During the design review, I raise one careful question about the sw update rollback. We spend the first ten minutes of the review on the lighthouse offline score. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "上千个请求挤向一条昂贵查询；锁和预热救了场。干跑演练：Leo开场：\"雨伞是离线兜底。\"我接上：\"旧清单有版本号。\"外加一个提案，Leo接受道：\"我们要的就是这个水平。\"做决定之前，我把关于运行时缓存策略的笔记重读了两遍。导师带我梳理了离线兜底页面在这个团队里的演变。设计评审中，我就SW 更新回滚提出了一个审慎的问题。评审的前十分钟，我们都用在了Lighthouse 离线得分上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "上千个请求挤向一条昂贵查询；锁和预热救了场。评审演练中，Maria说：\"雨伞是离线兜底。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"旧清单有版本号。\"我们互换角色，这次由我来提问。做决定之前，我把关于运行时缓存策略的笔记重读了两遍。导师带我梳理了离线兜底页面在这个团队里的演变。设计评审中，我就SW 更新回滚提出了一个审慎的问题。评审的前十分钟，我们都用在了Lighthouse 离线得分上。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "runtime caching strategy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the fallback content review to the meeting agenda with three supporting facts. The team names one clear owner for the service worker debugging guide. I prepare a one-page brief about the cache versioning so meetings start from facts. I compare two views on the update flow UX and write both down honestly. Practice debate: Priya argues, \"Update the list each season.\" I respond calmly, \"Forgetting is a cache miss.\" and Priya concedes, \"Strong answer — keep that precision.\" Drills turn surprises into runbook pages.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the fallback content review to the meeting agenda with three supporting facts. The team names one clear owner for the service worker debugging guide. I prepare a one-page brief about the cache versioning so meetings start from facts. I compare two views on the update flow U X and write both down honestly. Practice debate: Priya argues, \"Update the list each season.\" I respond calmly, \"Forgetting is a cache miss.\" and Priya concedes, \"Strong answer — keep that precision.\" Drills turn surprises into runbook pages.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the fallback content review to the meeting agenda with three supporting facts. The team names one clear owner for the service worker debugging guide. I prepare a one-page brief about the cache versioning so meetings start from facts. I compare two views on the update flow UX and write both down honestly. In the review drill, Leo says, \"Update the list each season.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Forgetting is a cache miss.\" We swap roles so I ask the questions this time. Drills turn surprises into runbook pages.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the fallback content review to the meeting agenda with three supporting facts. The team names one clear owner for the service worker debugging guide. I prepare a one-page brief about the cache versioning so meetings start from facts. I compare two views on the update flow U X and write both down honestly. In the review drill, Leo says, \"Update the list each season.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Forgetting is a cache miss.\" We swap roles so I ask the questions this time. Drills turn surprises into runbook pages.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把兜底内容评审连同三条支撑事实加进了议程。团队为SW 调试指南指定了明确的负责人。我准备了一页关于缓存版本化的简报，好让会议从事实出发。我比较了关于更新流程体验的两种观点，诚实地都记了下来。练习辩论：Priya主张：\"清单每季更新。\"我平静地回应：\"忘记就是一次未命中。\"Priya承认道：\"回答有力——保持这种精确。\"演习把意外变成手册里的一页。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把兜底内容评审连同三条支撑事实加进了议程。团队为SW 调试指南指定了明确的负责人。我准备了一页关于缓存版本化的简报，好让会议从事实出发。我比较了关于更新流程体验的两种观点，诚实地都记了下来。评审演练中，Leo说：\"清单每季更新。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"忘记就是一次未命中。\"我们互换角色，这次由我来提问。演习把意外变成手册里的一页。",
    "hard": [
     {
      "w": "cache versioning",

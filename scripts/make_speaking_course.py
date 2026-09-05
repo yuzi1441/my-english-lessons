@@ -22,6 +22,7 @@ from __future__ import annotations
 import argparse
 import bisect
 import json
+import shutil
 import random
 import re
 import sys
@@ -763,6 +764,13 @@ def pick_seq(pool: list, day: int, cursor: dict, pool_id: str = "p"):
     return item
 
 
+ROLE_SWAP = {
+    5: [("Then we swap roles and I ask it back.", "然后我们换角色，由我来问。")],
+    6: [("After that, we swap roles and run it again.", "之后我们换角色再练一遍。")],
+    7: [("We swap roles so I ask the questions this time.", "我们互换角色，这次由我来提问。")],
+    8: [("To finish, we swap roles and I lead the entire exchange from start to finish.", "最后我们互换角色，由我从头到尾主导整段对话。")],
+}
+
 LINE_ACKS = {
     1: [("I answer politely.", "我礼貌地回应。"), ("I nod and reply.", "我点头回应。"), ("I answer with a smile.", "我微笑着回答。")],
     2: [("I answer as best I can.", "我尽力回答。"), ("I think for a second, then answer.", "我想了一下，然后回答。"), ("I reply, and we keep chatting.", "我回答后，我们继续聊。")],
@@ -782,14 +790,21 @@ def solo_line_sentence(item: dict, tier: int, day: int, cursor: dict) -> tuple[s
     en_t, zh_t = SOLO_LINE[tier]
     spk = SPEAKERS[(day + cursor["n"]) % len(SPEAKERS)]
     cursor["n"] += 1
-    acks = LINE_ACKS.get(tier) or [("", "")]
-    ack_en, ack_zh = acks[(day + cursor["n"]) % len(acks)]
+    swaps = ROLE_SWAP.get(tier) or [("", "")]
+    swap_en, swap_zh = swaps[(day + cursor["n"]) % len(swaps)]
     cursor["n"] += 1
     en = cap(en_t.format(spk=spk, verb=verb, d1=term, d1z=core))
     zh = zh_t.format(spk=spk, verbz=verbz, d1z=core)
-    if ack_en:
-        en = f"{en} {ack_en}"
-        zh = f"{zh}{ack_zh}"
+    if tier <= 4:
+        acks = LINE_ACKS.get(tier) or [("", "")]
+        ack_en, ack_zh = acks[(day + cursor["n"]) % len(acks)]
+        cursor["n"] += 1
+        if ack_en:
+            en = f"{en} {ack_en}"
+            zh = f"{zh}{ack_zh}"
+    elif swap_en:
+        en = f"{en} {swap_en}"
+        zh = f"{zh}{swap_zh}"
     return en, zh
 
 
@@ -852,24 +867,11 @@ def render_items(items: list[dict], tier: int, day: int, cursor: dict) -> list[t
     natural reply beat (two learned lines never pretend to be one conversation).
     Tiers 5-8 keep the practice-framed three-turn drills."""
     out: list[tuple[str, str]] = []
-    pending_line: dict | None = None
     for item in items:
         if term_kind(item) == "line":
-            if tier <= 4:
-                out.append(solo_line_sentence(item, tier, day, cursor))
-                continue
-            if pending_line is None:
-                pending_line = item
-                continue
-            out.append(dialogue_sentence(pending_line, item, tier, day, cursor))
-            pending_line = None
+            out.append(solo_line_sentence(item, tier, day, cursor))
             continue
-        if pending_line is not None:
-            out.append(solo_line_sentence(pending_line, tier, day, cursor))
-            pending_line = None
         out.append(term_sentence(item, tier, day, cursor))
-    if pending_line is not None:
-        out.append(solo_line_sentence(pending_line, tier, day, cursor))
     return out
 
 
@@ -1153,6 +1155,14 @@ def main() -> None:
         out = days_dir / f"day-{day:03d}" / "segments.json"
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(json.dumps(lesson, ensure_ascii=False, indent=1), encoding="utf-8")
+    # per-course tap-any-word dictionary (built from ECDICT csv when present)
+    dict_src = ROOT / "examples" / "ecdict-filtered.json"
+    if dict_src.exists():
+        dict_out = ROOT / "lessons" / "week" / "courses" / course_id / "dictionary.json"
+        dict_out.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(dict_src, dict_out)
+        print(f"dictionary copied: {dict_out}")
+
     index_path = write_course_index(course_id, config, plots, tier_of)
     print(f"written {len(days)} progressive story lessons to {days_dir}")
     print(f"course home: {index_path}")

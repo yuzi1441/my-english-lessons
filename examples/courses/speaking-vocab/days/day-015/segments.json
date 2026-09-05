@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 256,
+   "word_count": 262,
    "segment_count": 3,
    "difficulty": "连贯叙述 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Week three. My draft is ready, and the pipeline runs. The team talks about the database at the standup. Leo walks me through the table step by step. Before the meeting, I review continuous integration one more time. I add GitHub Actions to my notes with one example. At that moment, Leo asks, \"What are you working on?\" I answer, then try the line myself. Leo corrects my use of the pattern: I'm working on ... I write down what I learned today.",
-   "tts": "Week three. My draft is ready, and the pipeline runs. The team talks about the database at the standup. Leo walks me through the table step by step. Before the meeting, I review continuous integration one more time. I add Git Hub Actions to my notes with one example. At that moment, Leo asks, \"What are you working on?\" I answer, then try the line myself. Leo corrects my use of the pattern: I'm working on  I write down what I learned today.",
+   "en": "Week three. My draft is ready, and the pipeline runs. The team talks about the database at the standup. Leo walks me through the table step by step. Before the meeting, I review continuous integration one more time. I add GitHub Actions to my notes with one example. At that moment, Leo asks, \"What are you working on?\" I answer, and we go over it once more. Leo corrects my use of the pattern: I'm working on ... I write down what I learned today.",
+   "tts": "Week three. My draft is ready, and the pipeline runs. The team talks about the database at the standup. Leo walks me through the table step by step. Before the meeting, I review continuous integration one more time. I add Git Hub Actions to my notes with one example. At that moment, Leo asks, \"What are you working on?\" I answer, and we go over it once more. Leo corrects my use of the pattern: I'm working on  I write down what I learned today.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第三周。我的草稿准备好了，流水线开始运行。团队在站会上讨论了数据库。Leo 一步一步带我过了数据表。开会前，我又复习了一遍持续集成。我把GitHub 自动化服务和一个例子一起记进了笔记。这时，Leo问：\"你正在做什么？\"我回答，然后自己把这句练了一遍。Leo 纠正了我对这个句型的用法：我正在处理……我记下了今天学到的东西。",
+   "zh": "第三周。我的草稿准备好了，流水线开始运行。团队在站会上讨论了数据库。Leo 一步一步带我过了数据表。开会前，我又复习了一遍持续集成。我把GitHub 自动化服务和一个例子一起记进了笔记。这时，Leo问：\"你正在做什么？\"我回答后，我们又过了一遍。Leo 纠正了我对这个句型的用法：我正在处理……我记下了今天学到的东西。",
    "hard": [
     {
      "w": "database",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "At standup, I say what I finished and what is next. I use the pattern to ask a question: I've finished ... The team practises the pattern together: I'm blocked by ... After lunch, I check the row again. When I get stuck, I ask Maria about the column. We keep a short checklist for the workflow file. After a short break, I compare my notes about the workflow run with Priya's. With the team's help, the problem becomes smaller.",
-   "tts": "At standup, I say what I finished and what is next. I use the pattern to ask a question: I've finished  The team practises the pattern together: I'm blocked by  After lunch, I check the row again. When I get stuck, I ask Maria about the column. We keep a short checklist for the workflow file. After a short break, I compare my notes about the workflow run with Priya's. With the team's help, the problem becomes smaller.",
+   "en": "At standup, I say what I finished and what is next. I use the pattern to ask a question: I've finished ... After that, The team practises the pattern together: I'm blocked by ... After lunch, I check the row again. When I get stuck, I ask Maria about the column. After a short break, We keep a short checklist for the workflow file. I compare my notes about the workflow run with Priya's. With the team's help, the problem becomes smaller.",
+   "tts": "At standup, I say what I finished and what is next. I use the pattern to ask a question: I've finished  After that, The team practises the pattern together: I'm blocked by  After lunch, I check the row again. When I get stuck, I ask Maria about the column. After a short break, We keep a short checklist for the workflow file. I compare my notes about the workflow run with Priya's. With the team's help, the problem becomes smaller.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "站会上，我说了已完成的内容和下一步。我用这个句型提了一个问题：我已经完成……团队一起练习这个句型：我被……阻碍了。午饭后，我又检查了一遍行。卡住的时候，我就向 Maria 请教列。我们为工作流文件准备了一张简短的检查单。稍作休息后，我把关于工作流运行的笔记和 Priya 的对照了一下。在团队的帮助下，问题变小了。",
+   "zh": "站会上，我说了已完成的内容和下一步。我用这个句型提了一个问题：我已经完成……在那之后，团队一起练习这个句型：我被……阻碍了。午饭后，我又检查了一遍行。卡住的时候，我就向 Maria 请教列。稍作休息后，我们为工作流文件准备了一张简短的检查单。我把关于工作流运行的笔记和 Priya 的对照了一下。在团队的帮助下，问题变小了。",
    "hard": [
     {
      "w": "row",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. I reread the section about the automated test after lunch. After a short break, Priya and I spend a few minutes on the build pipeline. The team talks about the query at the standup. Leo walks me through the database record step by step. After that, I put the pattern into my own sentence: My next step is ... At that moment, Maria says, \"I need more time.\" I reply, and she notes it down. The automated tests pass. The team trusts the pipeline.",
-   "tts": "Before I leave, I review what I did today. I reread the section about the automated test after lunch. After a short break, Priya and I spend a few minutes on the build pipeline. The team talks about the query at the standup. Leo walks me through the database record step by step. After that, I put the pattern into my own sentence: My next step is  At that moment, Maria says, \"I need more time.\" I reply, and she notes it down. The automated tests pass. The team trusts the pipeline.",
+   "en": "Before I leave, I review what I did today. After a short break, I reread the section about the automated test after lunch. Priya and I spend a few minutes on the build pipeline. The team talks about the query at the standup. After that, Leo walks me through the database record step by step. I put the pattern into my own sentence: My next step is ... At that moment, Leo says, \"I need more time.\" I answer, and we go over it once more. The automated tests pass. The team trusts the pipeline.",
+   "tts": "Before I leave, I review what I did today. After a short break, I reread the section about the automated test after lunch. Priya and I spend a few minutes on the build pipeline. The team talks about the query at the standup. After that, Leo walks me through the database record step by step. I put the pattern into my own sentence: My next step is  At that moment, Leo says, \"I need more time.\" I answer, and we go over it once more. The automated tests pass. The team trusts the pipeline.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。午饭后我重读了关于自动化测试的章节。稍作休息后，Priya 和我在构建流水线上花了几分钟。团队在站会上讨论了查询。Leo 一步一步带我过了数据库记录。在那之后，我把这个句型放进自己的句子里：我的下一步是……这时，Maria说：\"我需要更多时间。\"我回答，她把它记了下来。自动化测试通过了。团队信任这条流水线。",
+   "zh": "离开前，我回顾了今天做的事。稍作休息后，午饭后我重读了关于自动化测试的章节。Priya 和我在构建流水线上花了几分钟。团队在站会上讨论了查询。在那之后，Leo 一步一步带我过了数据库记录。我把这个句型放进自己的句子里：我的下一步是……这时，Leo说：\"我需要更多时间。\"我回答后，我们又过了一遍。自动化测试通过了。团队信任这条流水线。",
    "hard": [
     {
      "w": "query",

@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The version is ready. Today we publish a release. We keep a short checklist for the cloud service. When I get stuck, I ask Maria about the virtual server. Priya and I spend a few minutes on the release. The team talks about the release note at the standup. At that moment, Priya says, \"I see your point.\" I answer, and we go over it once more. At that moment, Leo says, \"I have a different view.\" I answer, then try the line myself. With the team's help, the problem becomes smaller.",
-   "tts": "The version is ready. Today we publish a release. We keep a short checklist for the cloud service. When I get stuck, I ask Maria about the virtual server. Priya and I spend a few minutes on the release. The team talks about the release note at the standup. At that moment, Priya says, \"I see your point.\" I answer, and we go over it once more. At that moment, Leo says, \"I have a different view.\" I answer, then try the line myself. With the team's help, the problem becomes smaller.",
+   "en": "The version is ready. Today we publish a release. We keep a short checklist for the cloud service. When I get stuck, I ask Maria about the virtual server. Priya and I spend a few minutes on the release. The team talks about the release note at the standup. At that moment, Priya says, \"I see your point.\" I reply, and she notes it down. At that moment, Priya says, \"I have a different view.\" I reply, and she notes it down. With the team's help, the problem becomes smaller.",
+   "tts": "The version is ready. Today we publish a release. We keep a short checklist for the cloud service. When I get stuck, I ask Maria about the virtual server. Priya and I spend a few minutes on the release. The team talks about the release note at the standup. At that moment, Priya says, \"I see your point.\" I reply, and she notes it down. At that moment, Priya says, \"I have a different view.\" I reply, and she notes it down. With the team's help, the problem becomes smaller.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "版本准备好了。今天我们发布一个正式版本。我们为云服务准备了一张简短的检查单。卡住的时候，我就向 Maria 请教虚拟服务器。Priya 和我在发布上花了几分钟。团队在站会上讨论了发布说明。这时，Priya说：\"我明白你的观点。\"我回答后，我们又过了一遍。这时，Leo说：\"我有不同的看法。\"我回答，然后自己把这句练了一遍。在团队的帮助下，问题变小了。",
+   "zh": "版本准备好了。今天我们发布一个正式版本。我们为云服务准备了一张简短的检查单。卡住的时候，我就向 Maria 请教虚拟服务器。Priya 和我在发布上花了几分钟。团队在站会上讨论了发布说明。这时，Priya说：\"我明白你的观点。\"我回答，她把它记了下来。这时，Priya说：\"我有不同的看法。\"我回答，她把它记了下来。在团队的帮助下，问题变小了。",
    "hard": [
     {
      "w": "cloud service",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I have a different view, and I say it politely. At that moment, Priya asks, \"Could we look at another option?\" I answer, and we go over it once more. At that moment, Leo says, \"I'm not sure I agree.\" I answer, then try the line myself. Leo walks me through the container step by step. Before the meeting, I review the container image one more time. After a short break, I reread the section about the version tag after lunch. I add the semantic versioning to my notes with one example. The work is not easy, but I keep going.",
-   "tts": "I have a different view, and I say it politely. At that moment, Priya asks, \"Could we look at another option?\" I answer, and we go over it once more. At that moment, Leo says, \"I'm not sure I agree.\" I answer, then try the line myself. Leo walks me through the container step by step. Before the meeting, I review the container image one more time. After a short break, I reread the section about the version tag after lunch. I add the semantic versioning to my notes with one example. The work is not easy, but I keep going.",
+   "en": "I have a different view, and I say it politely. At that moment, Leo asks, \"Could we look at another option?\" I answer, and we go over it once more. At that moment, Leo says, \"I'm not sure I agree.\" I answer, and we go over it once more. Leo walks me through the container step by step. Before the meeting, I review the container image one more time. I reread the section about the version tag after lunch. I add the semantic versioning to my notes with one example. The work is not easy, but I keep going.",
+   "tts": "I have a different view, and I say it politely. At that moment, Leo asks, \"Could we look at another option?\" I answer, and we go over it once more. At that moment, Leo says, \"I'm not sure I agree.\" I answer, and we go over it once more. Leo walks me through the container step by step. Before the meeting, I review the container image one more time. I reread the section about the version tag after lunch. I add the semantic versioning to my notes with one example. The work is not easy, but I keep going.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我有不同的看法，我礼貌地说了出来。这时，Priya问：\"我们可以看看另一个方案吗？\"我回答后，我们又过了一遍。这时，Leo说：\"我不确定我是否同意。\"我回答，然后自己把这句练了一遍。Leo 一步一步带我过了容器。开会前，我又复习了一遍容器镜像。稍作休息后，午饭后我重读了关于版本标签的章节。我把语义化版本和一个例子一起记进了笔记。工作不容易，但我继续前进。",
+   "zh": "我有不同的看法，我礼貌地说了出来。这时，Leo问：\"我们可以看看另一个方案吗？\"我回答后，我们又过了一遍。这时，Leo说：\"我不确定我是否同意。\"我回答后，我们又过了一遍。Leo 一步一步带我过了容器。开会前，我又复习了一遍容器镜像。午饭后我重读了关于版本标签的章节。我把语义化版本和一个例子一起记进了笔记。工作不容易，但我继续前进。",
    "hard": [
     {
      "w": "container",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. After lunch, I check the pre-release again. When I publish a release, I follow the guide. I compare my notes about the host machine with Priya's. After that, It takes me ten minutes to start a container. At that moment, Maria says, \"Let's compare the evidence.\" I reply, and she notes it down. At that moment, Priya says, \"That sounds reasonable.\" I answer, and we go over it once more. The release is out. Users can see the new feature.",
-   "tts": "Before I leave, I review what I did today. After lunch, I check the pre-release again. When I publish a release, I follow the guide. I compare my notes about the host machine with Priya's. After that, It takes me ten minutes to start a container. At that moment, Maria says, \"Let's compare the evidence.\" I reply, and she notes it down. At that moment, Priya says, \"That sounds reasonable.\" I answer, and we go over it once more. The release is out. Users can see the new feature.",
+   "en": "Before I leave, I review what I did today. After lunch, I check the pre-release again. When I publish a release, I follow the guide. After a short break, I compare my notes about the host machine with Priya's. It takes me ten minutes to start a container. At that moment, Leo says, \"Let's compare the evidence.\" I answer, and we go over it once more. At that moment, Leo says, \"That sounds reasonable.\" I answer, and we go over it once more. The release is out. Users can see the new feature.",
+   "tts": "Before I leave, I review what I did today. After lunch, I check the pre-release again. When I publish a release, I follow the guide. After a short break, I compare my notes about the host machine with Priya's. It takes me ten minutes to start a container. At that moment, Leo says, \"Let's compare the evidence.\" I answer, and we go over it once more. At that moment, Leo says, \"That sounds reasonable.\" I answer, and we go over it once more. The release is out. Users can see the new feature.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。午饭后，我又检查了一遍预发布版本。我发布版本时，按照指南操作。我把关于宿主机的笔记和 Priya 的对照了一下。在那之后，我花了十分钟启动容器。这时，Maria说：\"我们比较一下证据吧。\"我回答，她把它记了下来。这时，Priya说：\"听起来有道理。\"我回答后，我们又过了一遍。版本发布了。用户能看到新功能了。",
+   "zh": "离开前，我回顾了今天做的事。午饭后，我又检查了一遍预发布版本。我发布版本时，按照指南操作。稍作休息后，我把关于宿主机的笔记和 Priya 的对照了一下。我花了十分钟启动容器。这时，Leo说：\"我们比较一下证据吧。\"我回答后，我们又过了一遍。这时，Leo说：\"听起来有道理。\"我回答后，我们又过了一遍。版本发布了。用户能看到新功能了。",
    "hard": [
     {
      "w": "host machine",

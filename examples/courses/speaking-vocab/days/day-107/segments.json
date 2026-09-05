@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 278,
+   "word_count": 318,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The fix ships in the morning. There is a short paragraph about the headless browser in the guide. I go over the page object one more time before lunch. I spend ten quiet minutes on the freeze window after the standup. I keep one real example of the warmup plan in my notebook. We practise the dialogue: Leo opens, \"Chain squeaks, oil it.\" I answer, \"Tire pressure weekly.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "The fix ships in the morning. There is a short paragraph about the headless browser in the guide. I go over the page object one more time before lunch. I spend ten quiet minutes on the freeze window after the standup. I keep one real example of the warmup plan in my notebook. We practise the dialogue: Leo opens, \"Chain squeaks, oil it.\" I answer, \"Tire pressure weekly.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "The fix ships in the morning. There is a short paragraph about the headless browser in the guide. I go over the page object one more time before lunch. I spend ten quiet minutes on the freeze window after the standup. I keep one real example of the warmup plan in my notebook. In the warm-up round, Maria says, \"Chain squeaks, oil it.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Tire pressure weekly.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "The fix ships in the morning. There is a short paragraph about the headless browser in the guide. I go over the page object one more time before lunch. I spend ten quiet minutes on the freeze window after the standup. I keep one real example of the warmup plan in my notebook. In the warm-up round, Maria says, \"Chain squeaks, oil it.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Tire pressure weekly.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "修复在上午就发出了。指南里有一小段关于无头浏览器的介绍。午饭前我又过了一遍页面对象。站会之后，我安安静静花了十分钟在冻结窗口上。我在笔记本里留了一个预热计划的真实例子。我们练习这段对话：Leo开场：\"链条吱嘎\"我回答：\"每周查胎压。\"Leo点头说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "修复在上午就发出了。指南里有一小段关于无头浏览器的介绍。午饭前我又过了一遍页面对象。站会之后，我安安静静花了十分钟在冻结窗口上。我在笔记本里留了一个预热计划的真实例子。热身环节里，Maria说：\"链条吱嘎\"然后我们换角色，由我来问。热身环节里，Priya说：\"每周查胎压。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "headless browser",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A regression test wearing the bug's name guards that exact door forever. We drill it twice: Leo starts, \"Brake pads wear quietly.\" I reply, \"The bike computer lies about speed.\" then Leo smiles, \"Nice, keep that one handy.\" I ask one good question about the selector strategy in the meeting. Sam asks me about the wait for network idle, and I explain the basics. My notes about the comms plan look clearer this week. I add the decision point to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
-   "tts": "A regression test wearing the bug's name guards that exact door forever. We drill it twice: Leo starts, \"Brake pads wear quietly.\" I reply, \"The bike computer lies about speed.\" then Leo smiles, \"Nice, keep that one handy.\" I ask one good question about the selector strategy in the meeting. Sam asks me about the wait for network idle, and I explain the basics. My notes about the comms plan look clearer this week. I add the decision point to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "en": "A regression test wearing the bug's name guards that exact door forever. In the warm-up round, Maria says, \"Brake pads wear quietly.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"The bike computer lies about speed.\" Then we swap roles and I ask it back. I ask one good question about the selector strategy in the meeting. Sam asks me about the wait for network idle, and I explain the basics. My notes about the comms plan look clearer this week. I add the decision point to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "tts": "A regression test wearing the bug's name guards that exact door forever. In the warm-up round, Maria says, \"Brake pads wear quietly.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"The bike computer lies about speed.\" Then we swap roles and I ask it back. I ask one good question about the selector strategy in the meeting. Sam asks me about the wait for network idle, and I explain the basics. My notes about the comms plan look clearer this week. I add the decision point to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "一个以缺陷命名的回归测试，永远守住了那扇门。我们练了两遍：Leo起头：\"刹车片悄悄磨损。\"我回答：\"码表的速度是安慰剂。\"然后Leo笑着说：\"不错，把这句记在手边。\"会上关于选择器策略，我问了一个好问题。Sam 问起等待网络空闲，我讲了讲基础。这周我关于沟通计划的笔记清楚多了。我趁还没忘，把决策点记进了学习笔记。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "一个以缺陷命名的回归测试，永远守住了那扇门。热身环节里，Maria说：\"刹车片悄悄磨损。\"然后我们换角色，由我来问。热身环节里，Priya说：\"码表的速度是安慰剂。\"然后我们换角色，由我来问。会上关于选择器策略，我问了一个好问题。Sam 问起等待网络空闲，我讲了讲基础。这周我关于沟通计划的笔记清楚多了。我趁还没忘，把决策点记进了学习笔记。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "selector strategy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the rollout pause in the guide. I go over the all-clear signal one more time before lunch. I spend ten quiet minutes on the visual regression test after the standup. I keep one real example of the test id attribute in my notebook. Role play with feedback: Priya says, \"Wind direction rules the ride.\" I try, \"Fix it yourself, proudly.\" and Priya adds, \"Good — try it in today’s task.\" Every escaped bug buys a fence.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the rollout pause in the guide. I go over the all-clear signal one more time before lunch. I spend ten quiet minutes on the visual regression test after the standup. I keep one real example of the test id attribute in my notebook. Role play with feedback: Priya says, \"Wind direction rules the ride.\" I try, \"Fix it yourself, proudly.\" and Priya adds, \"Good — try it in today’s task.\" Every escaped bug buys a fence.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the rollout pause in the guide. I go over the all-clear signal one more time before lunch. I spend ten quiet minutes on the visual regression test after the standup. I keep one real example of the test id attribute in my notebook. In the warm-up round, Leo says, \"Wind direction rules the ride.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Fix it yourself, proudly.\" Then we swap roles and I ask it back. Every escaped bug buys a fence.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. There is a short paragraph about the rollout pause in the guide. I go over the all-clear signal one more time before lunch. I spend ten quiet minutes on the visual regression test after the standup. I keep one real example of the test id attribute in my notebook. In the warm-up round, Leo says, \"Wind direction rules the ride.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Fix it yourself, proudly.\" Then we swap roles and I ask it back. Every escaped bug buys a fence.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于放量暂停的介绍。午饭前我又过了一遍解除信号。站会之后，我安安静静花了十分钟在视觉回归测试上。我在笔记本里留了一个测试专用属性的真实例子。角色扮演加反馈：Priya说：\"风向决定骑行体验。\"我试着说：\"自己动手修\"Priya补充道：\"好——今天的任务里就用上。\"每个逃走的缺陷都换来一道围栏。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。指南里有一小段关于放量暂停的介绍。午饭前我又过了一遍解除信号。站会之后，我安安静静花了十分钟在视觉回归测试上。我在笔记本里留了一个测试专用属性的真实例子。热身环节里，Leo说：\"风向决定骑行体验。\"然后我们换角色，由我来问。热身环节里，Maria说：\"自己动手修\"然后我们换角色，由我来问。每个逃走的缺陷都换来一道围栏。",
    "hard": [
     {
      "w": "visual regression test",

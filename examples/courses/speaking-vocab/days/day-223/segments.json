@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 321,
+   "word_count": 366,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Three formats race on our real payloads. During the design review, I raise one careful question about the font subsetting. Our mentor walks me through how the font display swap evolved on this team. I compare two views on the first paint budget check and write both down honestly. I prepare a one-page brief about the critical css build step so meetings start from facts. Mock review: Maria probes, \"Capsule wardrobe, lighter mornings.\" I answer from memory, \"Mix and match beats quantity.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "Three formats race on our real payloads. During the design review, I raise one careful question about the font subsetting. Our mentor walks me through how the font display swap evolved on this team. I compare two views on the first paint budget check and write both down honestly. I prepare a one-page brief about the critical css build step so meetings start from facts. Mock review: Maria probes, \"Capsule wardrobe, lighter mornings.\" I answer from memory, \"Mix and match beats quantity.\" and Maria confirms, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "Three formats race on our real payloads. During the design review, I raise one careful question about the font subsetting. Our mentor walks me through how the font display swap evolved on this team. I compare two views on the first paint budget check and write both down honestly. I prepare a one-page brief about the critical css build step so meetings start from facts. In the review drill, Priya says, \"Capsule wardrobe, lighter mornings.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Mix and match beats quantity.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "Three formats race on our real payloads. During the design review, I raise one careful question about the font subsetting. Our mentor walks me through how the font display swap evolved on this team. I compare two views on the first paint budget check and write both down honestly. I prepare a one-page brief about the critical css build step so meetings start from facts. In the review drill, Priya says, \"Capsule wardrobe, lighter mornings.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Mix and match beats quantity.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "三种格式在我们的真实负载上赛跑。设计评审中，我就字体子集化提出了一个审慎的问题。导师带我梳理了字体交换显示在这个团队里的演变。我比较了关于首次绘制预算检查的两种观点，诚实地都记了下来。我准备了一页关于关键 CSS 构建步骤的简报，好让会议从事实出发。模拟评审：Maria追问：\"胶囊衣橱\"我凭记忆回答：\"能搭配胜过数量多。\"Maria确认：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "三种格式在我们的真实负载上赛跑。设计评审中，我就字体子集化提出了一个审慎的问题。导师带我梳理了字体交换显示在这个团队里的演变。我比较了关于首次绘制预算检查的两种观点，诚实地都记了下来。我准备了一页关于关键 CSS 构建步骤的简报，好让会议从事实出发。评审演练中，Priya说：\"胶囊衣橱\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"能搭配胜过数量多。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "font subsetting",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The compact winner cuts CPU cost by a third; the readable loser stays for debugging. Dry run: Maria opens, \"The seasonal swap day.\" I follow, \"Rarely worn, donation bag.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I add the critical css inlining to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the render blocking removal. The team names one clear owner for the font loading test. Before deciding, I reread my notes about the render blocking audit twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "The compact winner cuts C P U cost by a third; the readable loser stays for debugging. Dry run: Maria opens, \"The seasonal swap day.\" I follow, \"Rarely worn, donation bag.\" plus one proposal, and Maria accepts, \"Agreed, note it in the ticket.\" I add the critical css inlining to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the render blocking removal. The team names one clear owner for the font loading test. Before deciding, I reread my notes about the render blocking audit twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "The compact winner cuts CPU cost by a third; the readable loser stays for debugging. In the review drill, Priya says, \"The seasonal swap day.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Rarely worn, donation bag.\" We swap roles so I ask the questions this time. I add the critical css inlining to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the render blocking removal. The team names one clear owner for the font loading test. Before deciding, I reread my notes about the render blocking audit twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "The compact winner cuts C P U cost by a third; the readable loser stays for debugging. In the review drill, Priya says, \"The seasonal swap day.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Rarely worn, donation bag.\" We swap roles so I ask the questions this time. I add the critical css inlining to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the render blocking removal. The team names one clear owner for the font loading test. Before deciding, I reread my notes about the render blocking audit twice. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "紧凑的赢家省下三分之一 CPU；可读的输家留在调试岗。干跑演练：Maria开场：\"换季整理日。\"我接上：\"不常穿的进捐赠袋。\"外加一个提案，Maria接受道：\"同意，把这条记到工单里。\"我把关键 CSS 内联连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了渲染阻塞清除上。团队为字体加载测试指定了明确的负责人。做决定之前，我把关于渲染阻塞审计的笔记重读了两遍。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "紧凑的赢家省下三分之一 CPU；可读的输家留在调试岗。评审演练中，Priya说：\"换季整理日。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"不常穿的进捐赠袋。\"我们互换角色，这次由我来提问。我把关键 CSS 内联连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了渲染阻塞清除上。团队为字体加载测试指定了明确的负责人。做决定之前，我把关于渲染阻塞审计的笔记重读了两遍。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "critical css inlining",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the style regression test. Our mentor walks me through how the above the fold review evolved on this team. I compare two views on the variable font and write both down honestly. I prepare a one-page brief about the css containment so meetings start from facts. Review warm-up: Leo raises, \"One accent color per outfit.\" I answer, \"Getting dressed is fast now.\" and Leo grades it, \"That is the level we need.\" Formats are teammates with different jobs.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the style regression test. Our mentor walks me through how the above the fold review evolved on this team. I compare two views on the variable font and write both down honestly. I prepare a one-page brief about the css containment so meetings start from facts. Review warm-up: Leo raises, \"One accent color per outfit.\" I answer, \"Getting dressed is fast now.\" and Leo grades it, \"That is the level we need.\" Formats are teammates with different jobs.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the style regression test. Our mentor walks me through how the above the fold review evolved on this team. I compare two views on the variable font and write both down honestly. I prepare a one-page brief about the css containment so meetings start from facts. In the review drill, Maria says, \"One accent color per outfit.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Getting dressed is fast now.\" We swap roles so I ask the questions this time. Formats are teammates with different jobs.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the style regression test. Our mentor walks me through how the above the fold review evolved on this team. I compare two views on the variable font and write both down honestly. I prepare a one-page brief about the css containment so meetings start from facts. In the review drill, Maria says, \"One accent color per outfit.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Getting dressed is fast now.\" We swap roles so I ask the questions this time. Formats are teammates with different jobs.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就样式回归测试提出了一个审慎的问题。导师带我梳理了首屏评审在这个团队里的演变。我比较了关于可变字体的两种观点，诚实地都记了下来。我准备了一页关于CSS 隔离的简报，好让会议从事实出发。评审热身：Leo抛出：\"每身一个点睛色。\"我带着数字回答：\"现在穿衣服飞快。\"Leo点评道：\"我们要的就是这个水平。\"不同格式是分工不同的队友。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就样式回归测试提出了一个审慎的问题。导师带我梳理了首屏评审在这个团队里的演变。我比较了关于可变字体的两种观点，诚实地都记了下来。我准备了一页关于CSS 隔离的简报，好让会议从事实出发。评审演练中，Maria说：\"每身一个点睛色。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"现在穿衣服飞快。\"我们互换角色，这次由我来提问。不同格式是分工不同的队友。",
    "hard": [
     {
      "w": "variable font",

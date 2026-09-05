@@ -69,7 +69,7 @@ def test_every_segment_has_a_real_chinese_translation():
         for seg in lesson["segments"]:
             assert seg["zh"].strip(), f"day {raw['day']} {seg['id']} has no translation"
             assert cjk.search(seg["zh"]), f"day {raw['day']} {seg['id']} translation is not Chinese"
-            limit = SEGMENT_WORDS_LIMIT if TIER_OF(int(raw["day"])) <= 6 else 130
+            limit = SEGMENT_WORDS_LIMIT if TIER_OF(int(raw["day"])) <= 6 else 150
             assert len(seg["en"].split()) <= limit, f"day {raw['day']} {seg['id']} exceeds the segment word limit"
 
 

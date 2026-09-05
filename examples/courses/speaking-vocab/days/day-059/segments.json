@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 276,
+   "word_count": 317,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A bad script deletes a test table on Friday. My notes about the backup schedule look clearer this week. I ask one good question about the full backup in the meeting. I go over the branch overview one more time before lunch. Sam asks me about the behind main, and I explain the basics. Role play with feedback: Leo says, \"What should I get her?\" I try, \"Something small is fine.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "A bad script deletes a test table on Friday. My notes about the backup schedule look clearer this week. I ask one good question about the full backup in the meeting. I go over the branch overview one more time before lunch. Sam asks me about the behind main, and I explain the basics. Role play with feedback: Leo says, \"What should I get her?\" I try, \"Something small is fine.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "A bad script deletes a test table on Friday. My notes about the backup schedule look clearer this week. I ask one good question about the full backup in the meeting. I go over the branch overview one more time before lunch. Sam asks me about the behind main, and I explain the basics. In the warm-up round, Maria asks, \"What should I get her?\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Something small is fine.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "A bad script deletes a test table on Friday. My notes about the backup schedule look clearer this week. I ask one good question about the full backup in the meeting. I go over the branch overview one more time before lunch. Sam asks me about the behind main, and I explain the basics. In the warm-up round, Maria asks, \"What should I get her?\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Something small is fine.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "周五，一个写坏的脚本删掉了测试表。这周我关于备份计划的笔记清楚多了。会上关于全量备份，我问了一个好问题。午饭前我又过了一遍分支总览。Sam 问起落后主线，我讲了讲基础。角色扮演加反馈：Leo说：\"我该送她什么？\"我试着说：\"小礼物就够了。\"Leo补充道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "周五，一个写坏的脚本删掉了测试表。这周我关于备份计划的笔记清楚多了。会上关于全量备份，我问了一个好问题。午饭前我又过了一遍分支总览。Sam 问起落后主线，我讲了讲基础。热身环节里，Maria问：\"我该送她什么？\"然后我们换角色，由我来问。热身环节里，Priya说：\"小礼物就够了。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "backup schedule",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Our backup verification pays off: the incremental backup restores in minutes. Warm-up round: Leo offers, \"A handwritten card is thoughtful.\" I answer, \"I'll wrap it tonight.\" and Leo wraps up, \"Nice, keep that one handy.\" There is a short paragraph about the incremental backup in the guide. I keep one real example of the backup verification in my notebook. I spend ten quiet minutes on the ahead by commits after the standup. I restore a deleted branch the way the guide suggests. I end the day with fewer unknowns than I started with.",
-   "tts": "Our backup verification pays off: the incremental backup restores in minutes. Warm-up round: Leo offers, \"A handwritten card is thoughtful.\" I answer, \"I'll wrap it tonight.\" and Leo wraps up, \"Nice, keep that one handy.\" There is a short paragraph about the incremental backup in the guide. I keep one real example of the backup verification in my notebook. I spend ten quiet minutes on the ahead by commits after the standup. I restore a deleted branch the way the guide suggests. I end the day with fewer unknowns than I started with.",
+   "en": "Our backup verification pays off: the incremental backup restores in minutes. In the warm-up round, Maria says, \"A handwritten card is thoughtful.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I'll wrap it tonight.\" Then we swap roles and I ask it back. There is a short paragraph about the incremental backup in the guide. I keep one real example of the backup verification in my notebook. I spend ten quiet minutes on the ahead by commits after the standup. I restore a deleted branch the way the guide suggests. I end the day with fewer unknowns than I started with.",
+   "tts": "Our backup verification pays off: the incremental backup restores in minutes. In the warm-up round, Maria says, \"A handwritten card is thoughtful.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I'll wrap it tonight.\" Then we swap roles and I ask it back. There is a short paragraph about the incremental backup in the guide. I keep one real example of the backup verification in my notebook. I spend ten quiet minutes on the ahead by commits after the standup. I restore a deleted branch the way the guide suggests. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "备份验证派上了用场：增量备份几分钟就恢复了数据。热身一轮：Leo给出：\"手写卡片很贴心。\"我回答：\"我今晚把它包好。\"Leo收尾道：\"不错，把这句记在手边。\"指南里有一小段关于增量备份的介绍。我在笔记本里留了一个备份验证的真实例子。站会之后，我安安静静花了十分钟在领先提交数上。我按照指南建议的方式恢复已删分支。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "备份验证派上了用场：增量备份几分钟就恢复了数据。热身环节里，Maria说：\"手写卡片很贴心。\"然后我们换角色，由我来问。热身环节里，Priya说：\"我今晚把它包好。\"然后我们换角色，由我来问。指南里有一小段关于增量备份的介绍。我在笔记本里留了一个备份验证的真实例子。站会之后，我安安静静花了十分钟在领先提交数上。我按照指南建议的方式恢复已删分支。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "incremental backup",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the branch analytics to my study notes before I forget it. My notes about the default compare look clearer this week. I ask one good question about the offsite copy in the meeting. I go over the data retention one more time before lunch. We drill it twice: Priya starts, \"It's the thought that counts.\" I reply, \"She loved the gift!\" then Priya smiles, \"Good — try it in today’s task.\" A backup you never tested is only a hope.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the branch analytics to my study notes before I forget it. My notes about the default compare look clearer this week. I ask one good question about the offsite copy in the meeting. I go over the data retention one more time before lunch. We drill it twice: Priya starts, \"It's the thought that counts.\" I reply, \"She loved the gift!\" then Priya smiles, \"Good — try it in today’s task.\" A backup you never tested is only a hope.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the branch analytics to my study notes before I forget it. My notes about the default compare look clearer this week. I ask one good question about the offsite copy in the meeting. I go over the data retention one more time before lunch. In the warm-up round, Leo says, \"It's the thought that counts.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"She loved the gift!\" Then we swap roles and I ask it back. A backup you never tested is only a hope.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the branch analytics to my study notes before I forget it. My notes about the default compare look clearer this week. I ask one good question about the offsite copy in the meeting. I go over the data retention one more time before lunch. In the warm-up round, Leo says, \"It's the thought that counts.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"She loved the gift!\" Then we swap roles and I ask it back. A backup you never tested is only a hope.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把分支分析记进了学习笔记。这周我关于默认比较的笔记清楚多了。会上关于异地副本，我问了一个好问题。午饭前我又过了一遍数据保留期。我们练了两遍：Priya起头：\"心意最重要。\"我回答：\"她特别喜欢这个礼物！\"然后Priya笑着说：\"好——今天的任务里就用上。\"从没验证过的备份只是个愿望。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把分支分析记进了学习笔记。这周我关于默认比较的笔记清楚多了。会上关于异地副本，我问了一个好问题。午饭前我又过了一遍数据保留期。热身环节里，Leo说：\"心意最重要。\"然后我们换角色，由我来问。热身环节里，Maria说：\"她特别喜欢这个礼物！\"然后我们换角色，由我来问。从没验证过的备份只是个愿望。",
    "hard": [
     {
      "w": "offsite copy",

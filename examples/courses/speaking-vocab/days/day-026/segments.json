@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 284,
+   "word_count": 279,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We talk about a piece of news at lunch. Before we move on, Leo asks, \"What's your opinion?\" I answer, then reuse it in my update. Before we move on, Maria says, \"I agree with that point.\" I answer, and we compare notes. After that, I double-check the inference before the review. I add the hallucination to my checklist for tomorrow. During the review, I ask one question about the reference an issue. After a short break, We decide to link a commit after the review. I check my notes and confirm the next step.",
-   "tts": "We talk about a piece of news at lunch. Before we move on, Leo asks, \"What's your opinion?\" I answer, then reuse it in my update. Before we move on, Maria says, \"I agree with that point.\" I answer, and we compare notes. After that, I double-check the inference before the review. I add the hallucination to my checklist for tomorrow. During the review, I ask one question about the reference an issue. After a short break, We decide to link a commit after the review. I check my notes and confirm the next step.",
+   "en": "We talk about a piece of news at lunch. Before we move on, Leo asks, \"What's your opinion?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I agree with that point.\" I answer clearly and note the phrasing. I double-check the inference before the review. After a short break, I add the hallucination to my checklist for tomorrow. During the review, I ask one question about the reference an issue. We decide to link a commit after the review. I check my notes and confirm the next step.",
+   "tts": "We talk about a piece of news at lunch. Before we move on, Leo asks, \"What's your opinion?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I agree with that point.\" I answer clearly and note the phrasing. I double-check the inference before the review. After a short break, I add the hallucination to my checklist for tomorrow. During the review, I ask one question about the reference an issue. We decide to link a commit after the review. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "午饭时，我们讨论了一条新闻。继续之前，Leo问：\"你的看法是什么？\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我同意那个观点。\"我回答，我们互相对了笔记。在那之后，评审之前，我再核对一遍推理。我把幻觉加进了明天的清单。评审时，我就引用问题单提了一个问题。稍作休息后，评审之后，我们决定链接提交。我检查笔记，确认了下一步。",
+   "zh": "午饭时，我们讨论了一条新闻。继续之前，Leo问：\"你的看法是什么？\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我同意那个观点。\"我清楚地回答，并记下了这个说法。评审之前，我再核对一遍推理。稍作休息后，我把幻觉加进了明天的清单。评审时，我就引用问题单提了一个问题。评审之后，我们决定链接提交。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "inference",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I walk a new teammate through the permanent link. After a short break, I suggest that we check the documentation page first. I reread my notes about the confidence level after lunch. I verify the answer, and I record the reason. Before we move on, Priya says, \"I see it differently.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"We need more information.\" I answer, then reuse it in my update. Every claim now links to a source. The note is strong.",
-   "tts": "Before I leave, I write a short summary for the team. I walk a new teammate through the permanent link. After a short break, I suggest that we check the documentation page first. I reread my notes about the confidence level after lunch. I verify the answer, and I record the reason. Before we move on, Priya says, \"I see it differently.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"We need more information.\" I answer, then reuse it in my update. Every claim now links to a source. The note is strong.",
+   "en": "Before I leave, I write a short summary for the team. I walk a new teammate through the permanent link. I suggest that we check the documentation page first. After that, I reread my notes about the confidence level after lunch. I verify the answer, and I record the reason. Before we move on, Leo says, \"I see it differently.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"We need more information.\" I answer clearly and note the phrasing. Every claim now links to a source. The note is strong.",
+   "tts": "Before I leave, I write a short summary for the team. I walk a new teammate through the permanent link. I suggest that we check the documentation page first. After that, I reread my notes about the confidence level after lunch. I verify the answer, and I record the reason. Before we move on, Leo says, \"I see it differently.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"We need more information.\" I answer clearly and note the phrasing. Every claim now links to a source. The note is strong.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我带一位新队友过了一遍永久链接。稍作休息后，我建议我们先检查文档页面。午饭后我重读了关于置信程度的笔记。我核验答案，并记录了原因。继续之前，Priya说：\"我的看法不同。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我们需要更多信息。\"我回答，然后把它用进了自己的汇报。每个说法现在都有来源链接。这份笔记很扎实。",
+   "zh": "离开前，我给团队写了一份简短的总结。我带一位新队友过了一遍永久链接。我建议我们先检查文档页面。在那之后，午饭后我重读了关于置信程度的笔记。我核验答案，并记录了原因。继续之前，Leo说：\"我的看法不同。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我们需要更多信息。\"我清楚地回答，并记下了这个说法。每个说法现在都有来源链接。这份笔记很扎实。",
    "hard": [
     {
      "w": "confidence level",

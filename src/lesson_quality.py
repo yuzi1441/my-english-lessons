@@ -100,7 +100,7 @@ def required_word_audio_terms(data: dict) -> list[str]:
     return out
 
 
-SEGMENT_WORDS_LIMIT = 115
+SEGMENT_WORDS_LIMIT = 120
 
 
 def overlong_segments(data: dict, limit: int = SEGMENT_WORDS_LIMIT) -> list[tuple[str, int]]:

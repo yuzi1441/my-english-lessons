@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 175,
+   "word_count": 172,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria says my code is fine. Today I learn to make my own branch. I see the variable. I point to the value. The branch is new to me. This is the main branch. Priya asks, \"How much is this?\" I answer politely. Leo says, \"That's too expensive.\" I answer with a smile. Maria helps me a lot.",
-   "tts": "Maria says my code is fine. Today I learn to make my own branch. I see the variable. I point to the value. The branch is new to me. This is the main branch. Priya asks, \"How much is this?\" I answer politely. Leo says, \"That's too expensive.\" I answer with a smile. Maria helps me a lot.",
+   "en": "Maria says my code is fine. Today I learn to make my own branch. I see the variable. I point to the value. The branch is new to me. This is the main branch. Priya asks, \"How much is this?\" I nod and reply. Priya says, \"That's too expensive.\" I nod and reply. Maria helps me a lot.",
+   "tts": "Maria says my code is fine. Today I learn to make my own branch. I see the variable. I point to the value. The branch is new to me. This is the main branch. Priya asks, \"How much is this?\" I nod and reply. Priya says, \"That's too expensive.\" I nod and reply. Maria helps me a lot.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 说我的代码没问题。今天我学习建立自己的分支。我看到了变量。我指着值。分支对我来说很新。这是主分支。Priya问：\"这个多少钱？\"我礼貌地回应。Leo说：\"那太贵了。\"我微笑着回答。Maria 帮了我很多。",
+   "zh": "Maria 说我的代码没问题。今天我学习建立自己的分支。我看到了变量。我指着值。分支对我来说很新。这是主分支。Priya问：\"这个多少钱？\"我点头回应。Priya说：\"那太贵了。\"我点头回应。Maria 帮了我很多。",
    "hard": [
     {
      "w": "variable",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "After work, I buy a new notebook. I ask about the price. Priya asks, \"Do you have a smaller size?\" I answer politely. Leo asks, \"Can I pay by card?\" I answer with a smile. I look at the string. Maria shows me the integer. I see the feature branch. I create a branch slowly. I feel good today.",
-   "tts": "After work, I buy a new notebook. I ask about the price. Priya asks, \"Do you have a smaller size?\" I answer politely. Leo asks, \"Can I pay by card?\" I answer with a smile. I look at the string. Maria shows me the integer. I see the feature branch. I create a branch slowly. I feel good today.",
+   "en": "After work, I buy a new notebook. I ask about the price. Leo asks, \"Do you have a smaller size?\" I answer politely. Leo asks, \"Can I pay by card?\" I answer politely. I look at the string. Maria shows me the integer. I see the feature branch. I create a branch slowly. I feel good today.",
+   "tts": "After work, I buy a new notebook. I ask about the price. Leo asks, \"Do you have a smaller size?\" I answer politely. Leo asks, \"Can I pay by card?\" I answer politely. I look at the string. Maria shows me the integer. I see the feature branch. I create a branch slowly. I feel good today.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "下班后，我买了一个新笔记本。我询问了价格。Priya问：\"你们有小一点的尺码吗？\"我礼貌地回应。Leo问：\"我可以刷卡吗？\"我微笑着回答。我看着字符串。Maria 给我看了整数。我看到了功能分支。我慢慢创建分支。我今天感觉很好。",
+   "zh": "下班后，我买了一个新笔记本。我询问了价格。Leo问：\"你们有小一点的尺码吗？\"我礼貌地回应。Leo问：\"我可以刷卡吗？\"我礼貌地回应。我看着字符串。Maria 给我看了整数。我看到了功能分支。我慢慢创建分支。我今天感觉很好。",
    "hard": [
     {
      "w": "string",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I do one last thing. I try to switch branches. I point to the branch name. The boolean is new to me. This is the data type. Maria says, \"I'd like this one.\" I nod and reply. Priya asks, \"Could I get a receipt?\" I answer politely. My branch is small, but it is mine.",
-   "tts": "Before I leave, I do one last thing. I try to switch branches. I point to the branch name. The boolean is new to me. This is the data type. Maria says, \"I'd like this one.\" I nod and reply. Priya asks, \"Could I get a receipt?\" I answer politely. My branch is small, but it is mine.",
+   "en": "Before I leave, I do one last thing. I try to switch branches. I point to the branch name. The boolean is new to me. This is the data type. Leo says, \"I'd like this one.\" I answer politely. Leo asks, \"Could I get a receipt?\" I answer politely. My branch is small, but it is mine.",
+   "tts": "Before I leave, I do one last thing. I try to switch branches. I point to the branch name. The boolean is new to me. This is the data type. Leo says, \"I'd like this one.\" I answer politely. Leo asks, \"Could I get a receipt?\" I answer politely. My branch is small, but it is mine.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。我试着切换分支。我指着分支名称。布尔值对我来说很新。这是数据类型。Maria说：\"我想要这个。\"我点头回应。Priya问：\"可以给我收据吗？\"我礼貌地回应。我的分支很小，但它是我自己的。",
+   "zh": "离开前，我做最后一件事。我试着切换分支。我指着分支名称。布尔值对我来说很新。这是数据类型。Leo说：\"我想要这个。\"我礼貌地回应。Leo问：\"可以给我收据吗？\"我礼貌地回应。我的分支很小，但它是我自己的。",
    "hard": [
     {
      "w": "boolean",

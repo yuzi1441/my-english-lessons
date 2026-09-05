@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 288,
+   "word_count": 327,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A real incident hits: saves time out for twenty minutes. My notes about the query plan look clearer this week. I keep one real example of the explain output in my notebook. I add the compliance requirement to my study notes before I forget it. There is a short paragraph about the data residency in the guide. We drill it twice: Maria starts, \"Rain writes grey on the window.\" I reply, \"I light a small lamp.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "A real incident hits: saves time out for twenty minutes. My notes about the query plan look clearer this week. I keep one real example of the explain output in my notebook. I add the compliance requirement to my study notes before I forget it. There is a short paragraph about the data residency in the guide. We drill it twice: Maria starts, \"Rain writes grey on the window.\" I reply, \"I light a small lamp.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "A real incident hits: saves time out for twenty minutes. My notes about the query plan look clearer this week. I keep one real example of the explain output in my notebook. I add the compliance requirement to my study notes before I forget it. There is a short paragraph about the data residency in the guide. In the warm-up round, Priya says, \"Rain writes grey on the window.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I light a small lamp.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "A real incident hits: saves time out for twenty minutes. My notes about the query plan look clearer this week. I keep one real example of the explain output in my notebook. I add the compliance requirement to my study notes before I forget it. There is a short paragraph about the data residency in the guide. In the warm-up round, Priya says, \"Rain writes grey on the window.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I light a small lamp.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一场真实事故来了：保存功能超时了二十分钟。这周我关于查询计划的笔记清楚多了。我在笔记本里留了一个执行计划输出的真实例子。我趁还没忘，把合规要求记进了学习笔记。指南里有一小段关于数据驻留的介绍。我们练了两遍：Maria起头：\"雨水在窗上写着灰色。\"我回答：\"我点亮一盏小灯。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "一场真实事故来了：保存功能超时了二十分钟。这周我关于查询计划的笔记清楚多了。我在笔记本里留了一个执行计划输出的真实例子。我趁还没忘，把合规要求记进了学习笔记。指南里有一小段关于数据驻留的介绍。热身环节里，Priya说：\"雨水在窗上写着灰色。\"然后我们换角色，由我来问。热身环节里，Leo说：\"我点亮一盏小灯。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "query plan",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We escalate cleanly, mitigate with a flag, and keep users informed in plain words. We practise the dialogue: Maria opens, \"Rain sounds beat white noise.\" I answer, \"Warm drink, slow page.\" and Maria nods, \"That is the one we need today.\" Sam asks me about the n+1 query, and I explain the basics. I spend ten quiet minutes on the connection timeout after the standup. I go over the audit evidence one more time before lunch. I ask one good question about the access review in the meeting. The task moves forward, and so does my confidence.",
-   "tts": "We escalate cleanly, mitigate with a flag, and keep users informed in plain words. We practise the dialogue: Maria opens, \"Rain sounds beat white noise.\" I answer, \"Warm drink, slow page.\" and Maria nods, \"That is the one we need today.\" Sam asks me about the n+1 query, and I explain the basics. I spend ten quiet minutes on the connection timeout after the standup. I go over the audit evidence one more time before lunch. I ask one good question about the access review in the meeting. The task moves forward, and so does my confidence.",
+   "en": "We escalate cleanly, mitigate with a flag, and keep users informed in plain words. In the warm-up round, Priya says, \"Rain sounds beat white noise.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Warm drink, slow page.\" Then we swap roles and I ask it back. Sam asks me about the n+1 query, and I explain the basics. I spend ten quiet minutes on the connection timeout after the standup. I go over the audit evidence one more time before lunch. I ask one good question about the access review in the meeting. The task moves forward, and so does my confidence.",
+   "tts": "We escalate cleanly, mitigate with a flag, and keep users informed in plain words. In the warm-up round, Priya says, \"Rain sounds beat white noise.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Warm drink, slow page.\" Then we swap roles and I ask it back. Sam asks me about the n+1 query, and I explain the basics. I spend ten quiet minutes on the connection timeout after the standup. I go over the audit evidence one more time before lunch. I ask one good question about the access review in the meeting. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们有序升级，用开关缓解，并用平实的话告知用户。我们练习这段对话：Maria开场：\"雨声胜过白噪音。\"我回答：\"热饮配慢书。\"Maria点头说：\"今天要的就是这句。\"Sam 问起N+1 查询，我讲了讲基础。站会之后，我安安静静花了十分钟在连接超时上。午饭前我又过了一遍审计证据。会上关于权限审查，我问了一个好问题。任务在推进，我的信心也在成长。",
+   "zh": "我们有序升级，用开关缓解，并用平实的话告知用户。热身环节里，Priya说：\"雨声胜过白噪音。\"然后我们换角色，由我来问。热身环节里，Leo说：\"热饮配慢书。\"然后我们换角色，由我来问。Sam 问起N+1 查询，我讲了讲基础。站会之后，我安安静静花了十分钟在连接超时上。午饭前我又过了一遍审计证据。会上关于权限审查，我问了一个好问题。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "n+1 query",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the privacy notice look clearer this week. I keep one real example of the retention schedule in my notebook. I add the slow query log to my study notes before I forget it. There is a short paragraph about the read replica in the guide. Warm-up round: Leo offers, \"The plants love this weather.\" I answer, \"Clouds pass, literally.\" and Leo wraps up, \"Nice, keep that one handy.\" Twenty minutes felt like a week, and the timeline proves it took twenty.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the privacy notice look clearer this week. I keep one real example of the retention schedule in my notebook. I add the slow query log to my study notes before I forget it. There is a short paragraph about the read replica in the guide. Warm-up round: Leo offers, \"The plants love this weather.\" I answer, \"Clouds pass, literally.\" and Leo wraps up, \"Nice, keep that one handy.\" Twenty minutes felt like a week, and the timeline proves it took twenty.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the privacy notice look clearer this week. I keep one real example of the retention schedule in my notebook. I add the slow query log to my study notes before I forget it. There is a short paragraph about the read replica in the guide. In the warm-up round, Maria says, \"The plants love this weather.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Clouds pass, literally.\" Then we swap roles and I ask it back. Twenty minutes felt like a week, and the timeline proves it took twenty.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the privacy notice look clearer this week. I keep one real example of the retention schedule in my notebook. I add the slow query log to my study notes before I forget it. There is a short paragraph about the read replica in the guide. In the warm-up round, Maria says, \"The plants love this weather.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Clouds pass, literally.\" Then we swap roles and I ask it back. Twenty minutes felt like a week, and the timeline proves it took twenty.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于隐私声明的笔记清楚多了。我在笔记本里留了一个留存时间表的真实例子。我趁还没忘，把慢查询日志记进了学习笔记。指南里有一小段关于只读副本的介绍。热身一轮：Leo给出：\"植物最爱这天气。\"我回答：\"乌云会过去的\"Leo收尾道：\"不错，把这句记在手边。\"那二十分钟像一周那么长，而时间线证明它确实只有二十分钟。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于隐私声明的笔记清楚多了。我在笔记本里留了一个留存时间表的真实例子。我趁还没忘，把慢查询日志记进了学习笔记。指南里有一小段关于只读副本的介绍。热身环节里，Maria说：\"植物最爱这天气。\"然后我们换角色，由我来问。热身环节里，Priya说：\"乌云会过去的\"然后我们换角色，由我来问。那二十分钟像一周那么长，而时间线证明它确实只有二十分钟。",
    "hard": [
     {
      "w": "slow query log",

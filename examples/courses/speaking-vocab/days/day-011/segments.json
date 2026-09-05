@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 253,
+   "word_count": 256,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The merge is done. Today we look at a famous open source project. After that, Leo shows me an example of the IP address. I read the short guide about the localhost twice. I fork a repository, and Maria checks it. After a short break, I write a short note about the star a project. Then Maria says, \"It's sunny today.\" I think for a second, then answer. Then Priya says, \"It looks like rain.\" I answer as best I can. The day is busy, but I learn a lot.",
-   "tts": "The merge is done. Today we look at a famous open source project. After that, Leo shows me an example of the I P address. I read the short guide about the local host twice. I fork a repository, and Maria checks it. After a short break, I write a short note about the star a project. Then Maria says, \"It's sunny today.\" I think for a second, then answer. Then Priya says, \"It looks like rain.\" I answer as best I can. The day is busy, but I learn a lot.",
+   "en": "The merge is done. Today we look at a famous open source project. After that, Leo shows me an example of the IP address. I read the short guide about the localhost twice. I fork a repository, and Maria checks it. After a short break, I write a short note about the star a project. Then Maria says, \"It's sunny today.\" I reply, and we keep chatting. Then Maria says, \"It looks like rain.\" I reply, and we keep chatting. The day is busy, but I learn a lot.",
+   "tts": "The merge is done. Today we look at a famous open source project. After that, Leo shows me an example of the I P address. I read the short guide about the local host twice. I fork a repository, and Maria checks it. After a short break, I write a short note about the star a project. Then Maria says, \"It's sunny today.\" I reply, and we keep chatting. Then Maria says, \"It looks like rain.\" I reply, and we keep chatting. The day is busy, but I learn a lot.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "合并完成了。今天我们研究一个著名的开源项目。在那之后，Leo 给我看了一个IP 地址的例子。我把关于本地主机的简短说明读了两遍。我复刻仓库，Maria 来检查。稍作休息后，我给给项目加星写了一条简短的笔记。接着Maria说：\"今天阳光很好。\"我想了一下，然后回答。接着Priya说：\"看起来要下雨。\"我尽力回答。这天很忙，但我学到了很多。",
+   "zh": "合并完成了。今天我们研究一个著名的开源项目。在那之后，Leo 给我看了一个IP 地址的例子。我把关于本地主机的简短说明读了两遍。我复刻仓库，Maria 来检查。稍作休息后，我给给项目加星写了一条简短的笔记。接着Maria说：\"今天阳光很好。\"我回答后，我们继续聊。接着Maria说：\"看起来要下雨。\"我回答后，我们继续聊。这天很忙，但我学到了很多。",
    "hard": [
     {
      "w": "IP address",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The weather is nice, and we chat at the window. Then Maria says, \"It's getting colder.\" I think for a second, then answer. Then Priya says, \"The weather is nice.\" I answer as best I can. I ask one question about the port number. After that, I hear the network interface in the meeting and write it down. Leo shows me how to watch a repository. I learn about the follower because it is useful. I understand a little more than yesterday.",
-   "tts": "The weather is nice, and we chat at the window. Then Maria says, \"It's getting colder.\" I think for a second, then answer. Then Priya says, \"The weather is nice.\" I answer as best I can. I ask one question about the port number. After that, I hear the network interface in the meeting and write it down. Leo shows me how to watch a repository. I learn about the follower because it is useful. I understand a little more than yesterday.",
+   "en": "The weather is nice, and we chat at the window. Then Priya says, \"It's getting colder.\" I think for a second, then answer. Then Priya says, \"The weather is nice.\" I think for a second, then answer. After a short break, I ask one question about the port number. I hear the network interface in the meeting and write it down. Leo shows me how to watch a repository. After that, I learn about the follower because it is useful. I understand a little more than yesterday.",
+   "tts": "The weather is nice, and we chat at the window. Then Priya says, \"It's getting colder.\" I think for a second, then answer. Then Priya says, \"The weather is nice.\" I think for a second, then answer. After a short break, I ask one question about the port number. I hear the network interface in the meeting and write it down. Leo shows me how to watch a repository. After that, I learn about the follower because it is useful. I understand a little more than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "天气不错，我们在窗边聊天。接着Maria说：\"天气正在变冷。\"我想了一下，然后回答。接着Priya说：\"天气不错。\"我尽力回答。我问了一个关于端口号的问题。在那之后，我在会上听到网络接口，把它记了下来。Leo 教我怎样关注仓库。我学习关注者，因为它很有用。我比昨天多懂了一点。",
+   "zh": "天气不错，我们在窗边聊天。接着Priya说：\"天气正在变冷。\"我想了一下，然后回答。接着Priya说：\"天气不错。\"我想了一下，然后回答。稍作休息后，我问了一个关于端口号的问题。我在会上听到网络接口，把它记了下来。Leo 教我怎样关注仓库。在那之后，我学习关注者，因为它很有用。我比昨天多懂了一点。",
    "hard": [
     {
      "w": "port number",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. Now I understand the activity feed. Maria explains the notification setting to me. After a short break, Leo shows me an example of the private address. I read the short guide about the public address twice. Then Leo asks, \"How was your weekend?\" I reply, and we keep chatting. Then Maria asks, \"What have you been up to?\" I think for a second, then answer. I star the project and follow its updates.",
-   "tts": "Before I leave, I finish one last task. Now I understand the activity feed. Maria explains the notification setting to me. After a short break, Leo shows me an example of the private address. I read the short guide about the public address twice. Then Leo asks, \"How was your weekend?\" I reply, and we keep chatting. Then Maria asks, \"What have you been up to?\" I think for a second, then answer. I star the project and follow its updates.",
+   "en": "Before I leave, I finish one last task. Now I understand the activity feed. After that, Maria explains the notification setting to me. Leo shows me an example of the private address. I read the short guide about the public address twice. Then Priya asks, \"How was your weekend?\" I think for a second, then answer. Then Priya asks, \"What have you been up to?\" I think for a second, then answer. I star the project and follow its updates.",
+   "tts": "Before I leave, I finish one last task. Now I understand the activity feed. After that, Maria explains the notification setting to me. Leo shows me an example of the private address. I read the short guide about the public address twice. Then Priya asks, \"How was your weekend?\" I think for a second, then answer. Then Priya asks, \"What have you been up to?\" I think for a second, then answer. I star the project and follow its updates.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。现在我理解了活动信息流。Maria 给我讲解通知设置。稍作休息后，Leo 给我看了一个私有地址的例子。我把关于公网地址的简短说明读了两遍。接着Leo问：\"你周末过得怎么样？\"我回答后，我们继续聊。接着Maria问：\"你最近在忙什么？\"我想了一下，然后回答。我给项目点了星，并关注它的动态。",
+   "zh": "离开前，我完成最后一项任务。现在我理解了活动信息流。在那之后，Maria 给我讲解通知设置。Leo 给我看了一个私有地址的例子。我把关于公网地址的简短说明读了两遍。接着Priya问：\"你周末过得怎么样？\"我想了一下，然后回答。接着Priya问：\"你最近在忙什么？\"我想了一下，然后回答。我给项目点了星，并关注它的动态。",
    "hard": [
     {
      "w": "private address",

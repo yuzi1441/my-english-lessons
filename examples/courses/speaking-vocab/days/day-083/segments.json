@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 279,
+   "word_count": 319,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The postmortem doc starts with facts, not names. I keep one real example of the key rotation in my notebook. I add the secret vault to my study notes before I forget it. I spend ten quiet minutes on the vulnerable range after the standup. My notes about the patched release look clearer this week. Role play with feedback: Leo says, \"No is a complete sentence.\" I try, \"I protect my evenings.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "The postmortem doc starts with facts, not names. I keep one real example of the key rotation in my notebook. I add the secret vault to my study notes before I forget it. I spend ten quiet minutes on the vulnerable range after the standup. My notes about the patched release look clearer this week. Role play with feedback: Leo says, \"No is a complete sentence.\" I try, \"I protect my evenings.\" and Leo adds, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "The postmortem doc starts with facts, not names. I keep one real example of the key rotation in my notebook. I add the secret vault to my study notes before I forget it. I spend ten quiet minutes on the vulnerable range after the standup. My notes about the patched release look clearer this week. In the warm-up round, Maria says, \"No is a complete sentence.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I protect my evenings.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "The postmortem doc starts with facts, not names. I keep one real example of the key rotation in my notebook. I add the secret vault to my study notes before I forget it. I spend ten quiet minutes on the vulnerable range after the standup. My notes about the patched release look clearer this week. In the warm-up round, Maria says, \"No is a complete sentence.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I protect my evenings.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "复盘文档从事实开始，而不是从名字开始。我在笔记本里留了一个密钥轮换的真实例子。我趁还没忘，把机密保管库记进了学习笔记。站会之后，我安安静静花了十分钟在受影响版本范围上。这周我关于已修补版本的笔记清楚多了。角色扮演加反馈：Leo说：\"“不”本身就是完整的句子。\"我试着说：\"我保护我的晚间时光。\"Leo补充道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "复盘文档从事实开始，而不是从名字开始。我在笔记本里留了一个密钥轮换的真实例子。我趁还没忘，把机密保管库记进了学习笔记。站会之后，我安安静静花了十分钟在受影响版本范围上。这周我关于已修补版本的笔记清楚多了。热身环节里，Maria说：\"“不”本身就是完整的句子。\"然后我们换角色，由我来问。热身环节里，Priya说：\"我保护我的晚间时光。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "key rotation",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We trace the timeline, find the root cause, and two contributing factors. We practise the dialogue: Leo opens, \"I won't check messages at dinner.\" I answer, \"A soft no still counts.\" and Leo nods, \"Nice, keep that one handy.\" Sam asks me about the encryption at rest, and I explain the basics. There is a short paragraph about the encryption in transit in the guide. I ask one good question about the advisory database in the meeting. I go over the transitive risk one more time before lunch. I end the day with fewer unknowns than I started with.",
-   "tts": "We trace the timeline, find the root cause, and two contributing factors. We practise the dialogue: Leo opens, \"I won't check messages at dinner.\" I answer, \"A soft no still counts.\" and Leo nods, \"Nice, keep that one handy.\" Sam asks me about the encryption at rest, and I explain the basics. There is a short paragraph about the encryption in transit in the guide. I ask one good question about the advisory database in the meeting. I go over the transitive risk one more time before lunch. I end the day with fewer unknowns than I started with.",
+   "en": "We trace the timeline, find the root cause, and two contributing factors. In the warm-up round, Maria says, \"I won't check messages at dinner.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"A soft no still counts.\" Then we swap roles and I ask it back. Sam asks me about the encryption at rest, and I explain the basics. There is a short paragraph about the encryption in transit in the guide. I ask one good question about the advisory database in the meeting. I go over the transitive risk one more time before lunch. I end the day with fewer unknowns than I started with.",
+   "tts": "We trace the timeline, find the root cause, and two contributing factors. In the warm-up round, Maria says, \"I won't check messages at dinner.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"A soft no still counts.\" Then we swap roles and I ask it back. Sam asks me about the encryption at rest, and I explain the basics. There is a short paragraph about the encryption in transit in the guide. I ask one good question about the advisory database in the meeting. I go over the transitive risk one more time before lunch. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们梳理时间线，找到根本原因和两个促成因素。我们练习这段对话：Leo开场：\"晚餐时间我不看消息。\"我回答：\"温和的拒绝也是拒绝。\"Leo点头说：\"不错，把这句记在手边。\"Sam 问起静态加密，我讲了讲基础。指南里有一小段关于传输加密的介绍。会上关于安全公告库，我问了一个好问题。午饭前我又过了一遍传递风险。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "我们梳理时间线，找到根本原因和两个促成因素。热身环节里，Maria说：\"晚餐时间我不看消息。\"然后我们换角色，由我来问。热身环节里，Priya说：\"温和的拒绝也是拒绝。\"然后我们换角色，由我来问。Sam 问起静态加密，我讲了讲基础。指南里有一小段关于传输加密的介绍。会上关于安全公告库，我问了一个好问题。午饭前我又过了一遍传递风险。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "encryption at rest",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the upgrade pressure in my notebook. I add the supply chain policy to my study notes before I forget it. I spend ten quiet minutes on the certificate expiry after the standup. My notes about the least exposure look clearer this week. We drill it twice: Priya starts, \"Boundaries are kind.\" I reply, \"Tomorrow works better.\" then Priya smiles, \"Good — try it in today’s task.\" Blame closes mouths; curiosity opens them.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the upgrade pressure in my notebook. I add the supply chain policy to my study notes before I forget it. I spend ten quiet minutes on the certificate expiry after the standup. My notes about the least exposure look clearer this week. We drill it twice: Priya starts, \"Boundaries are kind.\" I reply, \"Tomorrow works better.\" then Priya smiles, \"Good — try it in today’s task.\" Blame closes mouths; curiosity opens them.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the upgrade pressure in my notebook. I add the supply chain policy to my study notes before I forget it. I spend ten quiet minutes on the certificate expiry after the standup. My notes about the least exposure look clearer this week. In the warm-up round, Leo says, \"Boundaries are kind.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Tomorrow works better.\" Then we swap roles and I ask it back. Blame closes mouths; curiosity opens them.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I keep one real example of the upgrade pressure in my notebook. I add the supply chain policy to my study notes before I forget it. I spend ten quiet minutes on the certificate expiry after the standup. My notes about the least exposure look clearer this week. In the warm-up round, Leo says, \"Boundaries are kind.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Tomorrow works better.\" Then we swap roles and I ask it back. Blame closes mouths; curiosity opens them.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个升级压力的真实例子。我趁还没忘，把供应链政策记进了学习笔记。站会之后，我安安静静花了十分钟在证书过期上。这周我关于最小暴露的笔记清楚多了。我们练了两遍：Priya起头：\"有边界才善良。\"我回答：\"明天更合适。\"然后Priya笑着说：\"好——今天的任务里就用上。\"追责让人闭嘴，好奇让人开口。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我在笔记本里留了一个升级压力的真实例子。我趁还没忘，把供应链政策记进了学习笔记。站会之后，我安安静静花了十分钟在证书过期上。这周我关于最小暴露的笔记清楚多了。热身环节里，Leo说：\"有边界才善良。\"然后我们换角色，由我来问。热身环节里，Maria说：\"明天更合适。\"然后我们换角色，由我来问。追责让人闭嘴，好奇让人开口。",
    "hard": [
     {
      "w": "certificate expiry",

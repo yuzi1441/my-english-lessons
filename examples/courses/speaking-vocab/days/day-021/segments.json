@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I find a mistake in my last commit. We keep a short checklist for the working tree. When I get stuck, I ask Maria about the staged change. After that, I amend a commit so the team can see the change. When I revert a commit, I follow the guide. At that moment, Leo says, \"The sink is leaking.\" I answer, then try the line myself. At that moment, Maria says, \"The light isn't working.\" I reply, and she notes it down. I write down what I learned today.",
-   "tts": "I find a mistake in my last commit. We keep a short checklist for the working tree. When I get stuck, I ask Maria about the staged change. After that, I amend a commit so the team can see the change. When I revert a commit, I follow the guide. At that moment, Leo says, \"The sink is leaking.\" I answer, then try the line myself. At that moment, Maria says, \"The light isn't working.\" I reply, and she notes it down. I write down what I learned today.",
+   "en": "I find a mistake in my last commit. We keep a short checklist for the working tree. When I get stuck, I ask Maria about the staged change. After that, I amend a commit so the team can see the change. When I revert a commit, I follow the guide. At that moment, Leo says, \"The sink is leaking.\" I answer, and we go over it once more. At that moment, Leo says, \"The light isn't working.\" I answer, and we go over it once more. I write down what I learned today.",
+   "tts": "I find a mistake in my last commit. We keep a short checklist for the working tree. When I get stuck, I ask Maria about the staged change. After that, I amend a commit so the team can see the change. When I revert a commit, I follow the guide. At that moment, Leo says, \"The sink is leaking.\" I answer, and we go over it once more. At that moment, Leo says, \"The light isn't working.\" I answer, and we go over it once more. I write down what I learned today.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我发现上次提交里有个错误。我们为工作树准备了一张简短的检查单。卡住的时候，我就向 Maria 请教已暂存改动。在那之后，我修改最近提交，好让团队看到变化。我还原提交时，按照指南操作。这时，Leo说：\"水槽漏水了。\"我回答，然后自己把这句练了一遍。这时，Maria说：\"灯不亮了。\"我回答，她把它记了下来。我记下了今天学到的东西。",
+   "zh": "我发现上次提交里有个错误。我们为工作树准备了一张简短的检查单。卡住的时候，我就向 Maria 请教已暂存改动。在那之后，我修改最近提交，好让团队看到变化。我还原提交时，按照指南操作。这时，Leo说：\"水槽漏水了。\"我回答后，我们又过了一遍。这时，Leo说：\"灯不亮了。\"我回答后，我们又过了一遍。我记下了今天学到的东西。",
    "hard": [
     {
      "w": "working tree",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The sink at home is leaking. I call for help. At that moment, Leo asks, \"Could someone repair it?\" I answer, then try the line myself. At that moment, Maria asks, \"When can the technician come?\" I reply, and she notes it down. After a short break, Leo walks me through the unstaged change step by step. Before the meeting, I review the tracked file one more time. I reset a branch, and Priya watches the result. After that, It takes me ten minutes to discard changes. With the team's help, the problem becomes smaller.",
-   "tts": "The sink at home is leaking. I call for help. At that moment, Leo asks, \"Could someone repair it?\" I answer, then try the line myself. At that moment, Maria asks, \"When can the technician come?\" I reply, and she notes it down. After a short break, Leo walks me through the unstaged change step by step. Before the meeting, I review the tracked file one more time. I reset a branch, and Priya watches the result. After that, It takes me ten minutes to discard changes. With the team's help, the problem becomes smaller.",
+   "en": "The sink at home is leaking. I call for help. At that moment, Maria asks, \"Could someone repair it?\" I answer, then try the line myself. At that moment, Maria asks, \"When can the technician come?\" I answer, then try the line myself. Leo walks me through the unstaged change step by step. Before the meeting, I review the tracked file one more time. After a short break, I reset a branch, and Priya watches the result. It takes me ten minutes to discard changes. With the team's help, the problem becomes smaller.",
+   "tts": "The sink at home is leaking. I call for help. At that moment, Maria asks, \"Could someone repair it?\" I answer, then try the line myself. At that moment, Maria asks, \"When can the technician come?\" I answer, then try the line myself. Leo walks me through the unstaged change step by step. Before the meeting, I review the tracked file one more time. After a short break, I reset a branch, and Priya watches the result. It takes me ten minutes to discard changes. With the team's help, the problem becomes smaller.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "家里的水槽漏水了。我打电话求助。这时，Leo问：\"可以派人来修吗？\"我回答，然后自己把这句练了一遍。这时，Maria问：\"维修人员什么时候能来？\"我回答，她把它记了下来。稍作休息后，Leo 一步一步带我过了未暂存改动。开会前，我又复习了一遍已跟踪文件。我重置分支，Priya 在旁边看结果。在那之后，我花了十分钟丢弃改动。在团队的帮助下，问题变小了。",
+   "zh": "家里的水槽漏水了。我打电话求助。这时，Maria问：\"可以派人来修吗？\"我回答，然后自己把这句练了一遍。这时，Maria问：\"维修人员什么时候能来？\"我回答，然后自己把这句练了一遍。Leo 一步一步带我过了未暂存改动。开会前，我又复习了一遍已跟踪文件。稍作休息后，我重置分支，Priya 在旁边看结果。我花了十分钟丢弃改动。在团队的帮助下，问题变小了。",
    "hard": [
     {
      "w": "unstaged change",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. Before I restore a file, I read the note. After that, I compare my notes about the force push with Priya's. After lunch, I check the untracked file again. Priya and I spend a few minutes on the clean state. At that moment, Priya says, \"The problem is getting worse.\" I answer, and we go over it once more. At that moment, Leo says, \"It's working again now.\" I answer, then try the line myself. I revert the commit and make a clean one. The history is safe.",
-   "tts": "Before I leave, I review what I did today. Before I restore a file, I read the note. After that, I compare my notes about the force push with Priya's. After lunch, I check the untracked file again. Priya and I spend a few minutes on the clean state. At that moment, Priya says, \"The problem is getting worse.\" I answer, and we go over it once more. At that moment, Leo says, \"It's working again now.\" I answer, then try the line myself. I revert the commit and make a clean one. The history is safe.",
+   "en": "Before I leave, I review what I did today. Before I restore a file, I read the note. I compare my notes about the force push with Priya's. After lunch, I check the untracked file again. After that, Priya and I spend a few minutes on the clean state. At that moment, Maria says, \"The problem is getting worse.\" I answer, then try the line myself. At that moment, Maria says, \"It's working again now.\" I answer, then try the line myself. I revert the commit and make a clean one. The history is safe.",
+   "tts": "Before I leave, I review what I did today. Before I restore a file, I read the note. I compare my notes about the force push with Priya's. After lunch, I check the untracked file again. After that, Priya and I spend a few minutes on the clean state. At that moment, Maria says, \"The problem is getting worse.\" I answer, then try the line myself. At that moment, Maria says, \"It's working again now.\" I answer, then try the line myself. I revert the commit and make a clean one. The history is safe.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。在恢复文件之前，我先看了说明。在那之后，我把关于强制推送的笔记和 Priya 的对照了一下。午饭后，我又检查了一遍未跟踪文件。Priya 和我在干净状态上花了几分钟。这时，Priya说：\"问题越来越严重。\"我回答后，我们又过了一遍。这时，Leo说：\"现在又能用了。\"我回答，然后自己把这句练了一遍。我还原了那次提交，重新做了一个干净的提交。历史是安全的。",
+   "zh": "离开前，我回顾了今天做的事。在恢复文件之前，我先看了说明。我把关于强制推送的笔记和 Priya 的对照了一下。午饭后，我又检查了一遍未跟踪文件。在那之后，Priya 和我在干净状态上花了几分钟。这时，Maria说：\"问题越来越严重。\"我回答，然后自己把这句练了一遍。这时，Maria说：\"现在又能用了。\"我回答，然后自己把这句练了一遍。我还原了那次提交，重新做了一个干净的提交。历史是安全的。",
    "hard": [
     {
      "w": "untracked file",

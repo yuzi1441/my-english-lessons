@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 316,
+   "word_count": 362,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The settings response ships fields nobody reads. I compare two views on the modern image format and write both down honestly. Before deciding, I reread my notes about the responsive images twice. The team names one clear owner for the image pipeline check. During the design review, I raise one careful question about the dimension attribute rule. Dry run: Priya opens, \"Photos get resized for sharing.\" I follow, \"The album cover is the thumbnail.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
-   "tts": "The settings response ships fields nobody reads. I compare two views on the modern image format and write both down honestly. Before deciding, I reread my notes about the responsive images twice. The team names one clear owner for the image pipeline check. During the design review, I raise one careful question about the dimension attribute rule. Dry run: Priya opens, \"Photos get resized for sharing.\" I follow, \"The album cover is the thumbnail.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "en": "The settings response ships fields nobody reads. I compare two views on the modern image format and write both down honestly. Before deciding, I reread my notes about the responsive images twice. The team names one clear owner for the image pipeline check. During the design review, I raise one careful question about the dimension attribute rule. In the review drill, Leo says, \"Photos get resized for sharing.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"The album cover is the thumbnail.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "The settings response ships fields nobody reads. I compare two views on the modern image format and write both down honestly. Before deciding, I reread my notes about the responsive images twice. The team names one clear owner for the image pipeline check. During the design review, I raise one careful question about the dimension attribute rule. In the review drill, Leo says, \"Photos get resized for sharing.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"The album cover is the thumbnail.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "设置接口的响应里塞满了没人读的字段。我比较了关于现代图片格式的两种观点，诚实地都记了下来。做决定之前，我把关于响应式图片的笔记重读了两遍。团队为图片流水线检查指定了明确的负责人。设计评审中，我就宽高属性规范提出了一个审慎的问题。干跑演练：Priya开场：\"分享前先缩图。\"我接上：\"相册封面就是缩略图。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "设置接口的响应里塞满了没人读的字段。我比较了关于现代图片格式的两种观点，诚实地都记了下来。做决定之前，我把关于响应式图片的笔记重读了两遍。团队为图片流水线检查指定了明确的负责人。设计评审中，我就宽高属性规范提出了一个审慎的问题。评审演练中，Leo说：\"分享前先缩图。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"相册封面就是缩略图。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "modern image format",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We prune the payload by seventy percent and document every kept field. Practice debate: Priya argues, \"Duplicates merged every month.\" I respond calmly, \"Favorites keep full resolution.\" and Priya concedes, \"Strong answer — keep that precision.\" I prepare a one-page brief about the blur placeholder so meetings start from facts. I add the lazy decode hint to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the format fallback chain. Our mentor walks me through how the hero image budget evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "We prune the payload by seventy percent and document every kept field. Practice debate: Priya argues, \"Duplicates merged every month.\" I respond calmly, \"Favorites keep full resolution.\" and Priya concedes, \"Strong answer — keep that precision.\" I prepare a one-page brief about the blur placeholder so meetings start from facts. I add the lazy decode hint to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the format fallback chain. Our mentor walks me through how the hero image budget evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "We prune the payload by seventy percent and document every kept field. In the review drill, Leo says, \"Duplicates merged every month.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Favorites keep full resolution.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the blur placeholder so meetings start from facts. I add the lazy decode hint to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the format fallback chain. Our mentor walks me through how the hero image budget evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We prune the payload by seventy percent and document every kept field. In the review drill, Leo says, \"Duplicates merged every month.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Favorites keep full resolution.\" We swap roles so I ask the questions this time. I prepare a one-page brief about the blur placeholder so meetings start from facts. I add the lazy decode hint to the meeting agenda with three supporting facts. We spend the first ten minutes of the review on the format fallback chain. Our mentor walks me through how the hero image budget evolved on this team. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们把负载砍掉七成，并为留下的每个字段写明理由。练习辩论：Priya主张：\"每月合并重复照片。\"我平静地回应：\"爱照保留原始分辨率。\"Priya承认道：\"回答有力——保持这种精确。\"我准备了一页关于模糊占位图的简报，好让会议从事实出发。我把懒解码提示连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了格式回退链上。导师带我梳理了首图体积预算在这个团队里的演变。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们把负载砍掉七成，并为留下的每个字段写明理由。评审演练中，Leo说：\"每月合并重复照片。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"爱照保留原始分辨率。\"我们互换角色，这次由我来提问。我准备了一页关于模糊占位图的简报，好让会议从事实出发。我把懒解码提示连同三条支撑事实加进了议程。评审的前十分钟，我们都用在了格式回退链上。导师带我梳理了首图体积预算在这个团队里的演变。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "blur placeholder",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the alt text lint for images and write both down honestly. Before deciding, I reread my notes about the image regression screenshots twice. The team names one clear owner for the image cdn transform. During the design review, I raise one careful question about the art direction crop. Review warm-up: Maria raises, \"Screens show, printers need more.\" I answer, \"Old scans, new formats.\" and Maria grades it, \"Agreed, note it in the ticket.\" Every byte travels the whole world twice a day.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the alt text lint for images and write both down honestly. Before deciding, I reread my notes about the image regression screenshots twice. The team names one clear owner for the image cdn transform. During the design review, I raise one careful question about the art direction crop. Review warm-up: Maria raises, \"Screens show, printers need more.\" I answer, \"Old scans, new formats.\" and Maria grades it, \"Agreed, note it in the ticket.\" Every byte travels the whole world twice a day.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the alt text lint for images and write both down honestly. Before deciding, I reread my notes about the image regression screenshots twice. The team names one clear owner for the image cdn transform. During the design review, I raise one careful question about the art direction crop. In the review drill, Priya says, \"Screens show, printers need more.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Old scans, new formats.\" We swap roles so I ask the questions this time. Every byte travels the whole world twice a day.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I compare two views on the alt text lint for images and write both down honestly. Before deciding, I reread my notes about the image regression screenshots twice. The team names one clear owner for the image cdn transform. During the design review, I raise one careful question about the art direction crop. In the review drill, Priya says, \"Screens show, printers need more.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Old scans, new formats.\" We swap roles so I ask the questions this time. Every byte travels the whole world twice a day.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于图片替代文本检查的两种观点，诚实地都记了下来。做决定之前，我把关于图片回归截图的笔记重读了两遍。团队为图片 CDN 变换指定了明确的负责人。设计评审中，我就艺术方向裁剪提出了一个审慎的问题。评审热身：Maria抛出：\"屏幕看小图\"我带着数字回答：\"旧扫描件转新格式。\"Maria点评道：\"同意，把这条记到工单里。\"每一个字节每天绕地球两圈。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我比较了关于图片替代文本检查的两种观点，诚实地都记了下来。做决定之前，我把关于图片回归截图的笔记重读了两遍。团队为图片 CDN 变换指定了明确的负责人。设计评审中，我就艺术方向裁剪提出了一个审慎的问题。评审演练中，Priya说：\"屏幕看小图\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"旧扫描件转新格式。\"我们互换角色，这次由我来提问。每一个字节每天绕地球两圈。",
    "hard": [
     {
      "w": "image cdn transform",

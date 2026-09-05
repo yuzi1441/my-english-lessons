@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 292,
+   "word_count": 335,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I teach the everyone-SQL class, hands shaking slightly. I compare my notes about the source system map with Priya's. At the review, we spend ten minutes on the orchestration view. The guide now has a short section on the spec before query. We agree to give the engineer office hour for analysts one more careful look this week. Drill without notes: Leo asks, \"The trip spreadsheet tradition.\" I answer, \"Split costs with formulas.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "I teach the everyone-S Q L class, hands shaking slightly. I compare my notes about the source system map with Priya's. At the review, we spend ten minutes on the orchestration view. The guide now has a short section on the spec before query. We agree to give the engineer office hour for analysts one more careful look this week. Drill without notes: Leo asks, \"The trip spreadsheet tradition.\" I answer, \"Split costs with formulas.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "I teach the everyone-SQL class, hands shaking slightly. I compare my notes about the source system map with Priya's. At the review, we spend ten minutes on the orchestration view. The guide now has a short section on the spec before query. We agree to give the engineer office hour for analysts one more careful look this week. In the meeting drill, Maria says, \"The trip spreadsheet tradition.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Split costs with formulas.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "I teach the everyone-S Q L class, hands shaking slightly. I compare my notes about the source system map with Priya's. At the review, we spend ten minutes on the orchestration view. The guide now has a short section on the spec before query. We agree to give the engineer office hour for analysts one more careful look this week. In the meeting drill, Maria says, \"The trip spreadsheet tradition.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Split costs with formulas.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我讲授人人 SQL 课，手有点抖。我把关于源系统地图的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在编排视图上。指南里现在有关于先规格后查询的简短章节。我们说好这周再把工程师给分析师的答疑仔细看一次。脱稿演练：Leo问：\"旅行表格的传统。\"我回答：\"公式分账不伤感情。\"Leo收束：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我讲授人人 SQL 课，手有点抖。我把关于源系统地图的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在编排视图上。指南里现在有关于先规格后查询的简短章节。我们说好这周再把工程师给分析师的答疑仔细看一次。会议演练中，Maria说：\"旅行表格的传统。\"之后我们换角色再练一遍。会议演练中，Priya说：\"公式分账不伤感情。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "source system map",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The support team writes their first queries before lunch. Whiteboard practice: Leo offers, \"Photo count per city.\" I add, \"Steps walked, proudly absurd.\" then Leo sums up, \"Keep practising, it is working.\" In today's standup, I mention the star schema basics and what comes next. While the details are fresh, I write down the slowly changing dimension. Priya suggests a cleaner way to think about the data review in pr. I connect the shared metric build days to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "The support team writes their first queries before lunch. Whiteboard practice: Leo offers, \"Photo count per city.\" I add, \"Steps walked, proudly absurd.\" then Leo sums up, \"Keep practising, it is working.\" In today's standup, I mention the star schema basics and what comes next. While the details are fresh, I write down the slowly changing dimension. Priya suggests a cleaner way to think about the data review in pr. I connect the shared metric build days to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "en": "The support team writes their first queries before lunch. In the meeting drill, Maria says, \"Photo count per city.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Steps walked, proudly absurd.\" After that, we swap roles and run it again. In today's standup, I mention the star schema basics and what comes next. While the details are fresh, I write down the slowly changing dimension. Priya suggests a cleaner way to think about the data review in pr. I connect the shared metric build days to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "The support team writes their first queries before lunch. In the meeting drill, Maria says, \"Photo count per city.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Steps walked, proudly absurd.\" After that, we swap roles and run it again. In today's standup, I mention the star schema basics and what comes next. While the details are fresh, I write down the slowly changing dimension. Priya suggests a cleaner way to think about the data review in pr. I connect the shared metric build days to the ticket so nothing gets lost. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "支持团队午饭前写出了人生第一条查询。白板练习：Leo给出：\"每个城市的照片数。\"我补充：\"步数\"然后Leo总结：\"继续练，有效果了。\"今天的站会上，我提到星型模型入门和接下来的安排。趁细节还新鲜，我把缓慢变化维度写了下来。Priya 提出了一个更清晰的PR 里的数据评审思考方式。我把共建指标日关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "支持团队午饭前写出了人生第一条查询。会议演练中，Maria说：\"每个城市的照片数。\"之后我们换角色再练一遍。会议演练中，Priya说：\"步数\"之后我们换角色再练一遍。今天的站会上，我提到星型模型入门和接下来的安排。趁细节还新鲜，我把缓慢变化维度写了下来。Priya 提出了一个更清晰的PR 里的数据评审思考方式。我把共建指标日关联到工单上，免得遗漏。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "star schema basics",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the empathy pairing with Priya's. At the review, we spend ten minutes on the glossary ownership rotation. The guide now has a short section on the data mart layer. We agree to give the lakehouse basics one more careful look this week. Meeting rehearsal: Priya opens, \"The best meal, memory per dollar.\" I respond, \"Maps tell the story later.\" and Priya confirms, \"Good point — use it in the standup.\" Teaching what you learned last month is the best review.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the empathy pairing with Priya's. At the review, we spend ten minutes on the glossary ownership rotation. The guide now has a short section on the data mart layer. We agree to give the lakehouse basics one more careful look this week. Meeting rehearsal: Priya opens, \"The best meal, memory per dollar.\" I respond, \"Maps tell the story later.\" and Priya confirms, \"Good point — use it in the standup.\" Teaching what you learned last month is the best review.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the empathy pairing with Priya's. At the review, we spend ten minutes on the glossary ownership rotation. The guide now has a short section on the data mart layer. We agree to give the lakehouse basics one more careful look this week. In the meeting drill, Leo says, \"The best meal, memory per dollar.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Maps tell the story later.\" After that, we swap roles and run it again. Teaching what you learned last month is the best review.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the empathy pairing with Priya's. At the review, we spend ten minutes on the glossary ownership rotation. The guide now has a short section on the data mart layer. We agree to give the lakehouse basics one more careful look this week. In the meeting drill, Leo says, \"The best meal, memory per dollar.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Maps tell the story later.\" After that, we swap roles and run it again. Teaching what you learned last month is the best review.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于换位结对的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在术语表轮值上。指南里现在有关于数据集市层的简短章节。我们说好这周再把湖仓一体入门仔细看一次。会议彩排：Priya开场：\"最棒的一餐\"我回应：\"地图事后讲故事。\"Priya确认道：\"说得好——站会上就用它。\"教上个月才学的东西，是最好的复习。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于换位结对的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在术语表轮值上。指南里现在有关于数据集市层的简短章节。我们说好这周再把湖仓一体入门仔细看一次。会议演练中，Leo说：\"最棒的一餐\"之后我们换角色再练一遍。会议演练中，Maria说：\"地图事后讲故事。\"之后我们换角色再练一遍。教上个月才学的东西，是最好的复习。",
    "hard": [
     {
      "w": "data mart layer",

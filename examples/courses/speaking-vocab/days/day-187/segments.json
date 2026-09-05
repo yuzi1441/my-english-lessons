@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 283,
+   "word_count": 328,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Sam suggests reviewing prompts like code. I connect the natural language query to the ticket so nothing gets lost. In today's standup, I mention the query by example and what comes next. I compare my notes about the docs chat assistant with Priya's. At the review, we spend ten minutes on the citation in answers. Drill without notes: Maria asks, \"The thermostat learns slowly.\" I answer, \"Lights on schedule, mostly.\" and Maria closes, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Sam suggests reviewing prompts like code. I connect the natural language query to the ticket so nothing gets lost. In today's standup, I mention the query by example and what comes next. I compare my notes about the docs chat assistant with Priya's. At the review, we spend ten minutes on the citation in answers. Drill without notes: Maria asks, \"The thermostat learns slowly.\" I answer, \"Lights on schedule, mostly.\" and Maria closes, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Sam suggests reviewing prompts like code. I connect the natural language query to the ticket so nothing gets lost. In today's standup, I mention the query by example and what comes next. I compare my notes about the docs chat assistant with Priya's. At the review, we spend ten minutes on the citation in answers. In the meeting drill, Priya says, \"The thermostat learns slowly.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Lights on schedule, mostly.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Sam suggests reviewing prompts like code. I connect the natural language query to the ticket so nothing gets lost. In today's standup, I mention the query by example and what comes next. I compare my notes about the docs chat assistant with Priya's. At the review, we spend ten minutes on the citation in answers. In the meeting drill, Priya says, \"The thermostat learns slowly.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Lights on schedule, mostly.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Sam 建议像评代码一样评提示词。我把自然语言查询关联到工单上，免得遗漏。今天的站会上，我提到示例查询和接下来的安排。我把关于文档问答助手的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在回答里的引用上。脱稿演练：Maria问：\"恒温器学得很慢。\"我回答：\"灯基本按表亮。\"Maria收束：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "Sam 建议像评代码一样评提示词。我把自然语言查询关联到工单上，免得遗漏。今天的站会上，我提到示例查询和接下来的安排。我把关于文档问答助手的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在回答里的引用上。会议演练中，Priya说：\"恒温器学得很慢。\"之后我们换角色再练一遍。会议演练中，Leo说：\"灯基本按表亮。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "natural language query",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Small diffs, regression tests, one approval — for text that teaches machines. Meeting rehearsal: Maria opens, \"The vacuum's hero journey.\" I respond, \"Voice guest mode.\" and Maria confirms, \"Exactly, and it saves time too.\" The guide now has a short section on the semantic code search. We agree to give the facet filters one more careful look this week. While the details are fresh, I write down the stale answer detection. Priya suggests a cleaner way to think about the unanswered questions log. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Small diffs, regression tests, one approval — for text that teaches machines. Meeting rehearsal: Maria opens, \"The vacuum's hero journey.\" I respond, \"Voice guest mode.\" and Maria confirms, \"Exactly, and it saves time too.\" The guide now has a short section on the semantic code search. We agree to give the facet filters one more careful look this week. While the details are fresh, I write down the stale answer detection. Priya suggests a cleaner way to think about the unanswered questions log. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Small diffs, regression tests, one approval — for text that teaches machines. In the meeting drill, Priya says, \"The vacuum's hero journey.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Voice guest mode.\" After that, we swap roles and run it again. The guide now has a short section on the semantic code search. We agree to give the facet filters one more careful look this week. While the details are fresh, I write down the stale answer detection. Priya suggests a cleaner way to think about the unanswered questions log. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Small diffs, regression tests, one approval — for text that teaches machines. In the meeting drill, Priya says, \"The vacuum's hero journey.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Voice guest mode.\" After that, we swap roles and run it again. The guide now has a short section on the semantic code search. We agree to give the facet filters one more careful look this week. While the details are fresh, I write down the stale answer detection. Priya suggests a cleaner way to think about the unanswered questions log. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "小改动、回归测试、一次批准——对象是教机器干活的文字。会议彩排：Maria开场：\"扫地机器人的英雄之旅。\"我回应：\"访客语音模式。\"Maria确认道：\"正是，而且还省时间。\"指南里现在有关于语义代码搜索的简短章节。我们说好这周再把分面筛选仔细看一次。趁细节还新鲜，我把过期答案检测写了下来。Priya 提出了一个更清晰的未答问题清单思考方式。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "小改动、回归测试、一次批准——对象是教机器干活的文字。会议演练中，Priya说：\"扫地机器人的英雄之旅。\"之后我们换角色再练一遍。会议演练中，Leo说：\"访客语音模式。\"之后我们换角色再练一遍。指南里现在有关于语义代码搜索的简短章节。我们说好这周再把分面筛选仔细看一次。趁细节还新鲜，我把过期答案检测写了下来。Priya 提出了一个更清晰的未答问题清单思考方式。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "semantic code search",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the answer quality feedback to the ticket so nothing gets lost. In today's standup, I mention the escalation to humans and what comes next. I compare my notes about the search intent modeling with Priya's. At the review, we spend ten minutes on the zero result rescue. Pair run: Leo starts, \"Wifi sneezes, everything pauses.\" I follow, \"Automation with an off switch.\" and Leo replies, \"Keep practising, it is working.\" The line between code and prose starts to blur, productively.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the answer quality feedback to the ticket so nothing gets lost. In today's standup, I mention the escalation to humans and what comes next. I compare my notes about the search intent modeling with Priya's. At the review, we spend ten minutes on the zero result rescue. Pair run: Leo starts, \"Wifi sneezes, everything pauses.\" I follow, \"Automation with an off switch.\" and Leo replies, \"Keep practising, it is working.\" The line between code and prose starts to blur, productively.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the answer quality feedback to the ticket so nothing gets lost. In today's standup, I mention the escalation to humans and what comes next. I compare my notes about the search intent modeling with Priya's. At the review, we spend ten minutes on the zero result rescue. In the meeting drill, Maria says, \"Wifi sneezes, everything pauses.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Automation with an off switch.\" After that, we swap roles and run it again. The line between code and prose starts to blur, productively.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I connect the answer quality feedback to the ticket so nothing gets lost. In today's standup, I mention the escalation to humans and what comes next. I compare my notes about the search intent modeling with Priya's. At the review, we spend ten minutes on the zero result rescue. In the meeting drill, Maria says, \"Wifi sneezes, everything pauses.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Automation with an off switch.\" After that, we swap roles and run it again. The line between code and prose starts to blur, productively.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把回答质量反馈关联到工单上，免得遗漏。今天的站会上，我提到转人工的通道和接下来的安排。我把关于搜索意图建模的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在零结果拯救上。结对演练：Leo起头：\"WiFi 一打喷嚏全家暂停。\"我跟上：\"自动化要有总开关。\"Leo回应：\"继续练，有效果了。\"代码与文字的边界开始模糊，而且是有效的那种。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把回答质量反馈关联到工单上，免得遗漏。今天的站会上，我提到转人工的通道和接下来的安排。我把关于搜索意图建模的笔记和 Priya 的对照了一下。评审时，我们花了十分钟在零结果拯救上。会议演练中，Maria说：\"WiFi 一打喷嚏全家暂停。\"之后我们换角色再练一遍。会议演练中，Priya说：\"自动化要有总开关。\"之后我们换角色再练一遍。代码与文字的边界开始模糊，而且是有效的那种。",
    "hard": [
     {
      "w": "search intent modeling",

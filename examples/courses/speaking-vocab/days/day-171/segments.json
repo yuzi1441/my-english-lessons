@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 296,
+   "word_count": 335,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I discover p-hacking stories in old reports. At the review, we spend ten minutes on the query cache warmup. In today's standup, I mention the aggregate aware design and what comes next. I connect the quality trends in one place to the ticket so nothing gets lost. While the details are fresh, I write down the test coverage for tables. Drill without notes: Priya asks, \"The old laptop, repurposed.\" I answer, \"Linux gives it nine lives.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "I discover p-hacking stories in old reports. At the review, we spend ten minutes on the query cache warmup. In today's standup, I mention the aggregate aware design and what comes next. I connect the quality trends in one place to the ticket so nothing gets lost. While the details are fresh, I write down the test coverage for tables. Drill without notes: Priya asks, \"The old laptop, repurposed.\" I answer, \"Linux gives it nine lives.\" and Priya closes, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "I discover p-hacking stories in old reports. At the review, we spend ten minutes on the query cache warmup. In today's standup, I mention the aggregate aware design and what comes next. I connect the quality trends in one place to the ticket so nothing gets lost. While the details are fresh, I write down the test coverage for tables. In the meeting drill, Leo says, \"The old laptop, repurposed.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Linux gives it nine lives.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "I discover p-hacking stories in old reports. At the review, we spend ten minutes on the query cache warmup. In today's standup, I mention the aggregate aware design and what comes next. I connect the quality trends in one place to the ticket so nothing gets lost. While the details are fresh, I write down the test coverage for tables. In the meeting drill, Leo says, \"The old laptop, repurposed.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Linux gives it nine lives.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我在旧报告里发现了 P 值操纵的痕迹。评审时，我们花了十分钟在查询缓存预热上。今天的站会上，我提到聚合感知设计和接下来的安排。我把质量趋势一屏看关联到工单上，免得遗漏。趁细节还新鲜，我把表的测试覆盖写了下来。脱稿演练：Priya问：\"旧笔记本再就业。\"我回答：\"Linux 给它九条命。\"Priya收束：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我在旧报告里发现了 P 值操纵的痕迹。评审时，我们花了十分钟在查询缓存预热上。今天的站会上，我提到聚合感知设计和接下来的安排。我把质量趋势一屏看关联到工单上，免得遗漏。趁细节还新鲜，我把表的测试覆盖写了下来。会议演练中，Leo说：\"旧笔记本再就业。\"之后我们换角色再练一遍。会议演练中，Maria说：\"Linux 给它九条命。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "query cache warmup",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We add peer review for analysis before anything reaches a slide. Pair run: Priya starts, \"A home dashboard screen.\" I follow, \"The keyboard still knows my hands.\" and Priya replies, \"Good point — use it in the standup.\" The guide now has a short section on the async tile loading. We agree to give the scheduled heavy queries one more careful look this week. Priya suggests a cleaner way to think about the freshness per source. I compare my notes about the incident count trend with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "We add peer review for analysis before anything reaches a slide. Pair run: Priya starts, \"A home dashboard screen.\" I follow, \"The keyboard still knows my hands.\" and Priya replies, \"Good point — use it in the standup.\" The guide now has a short section on the async tile loading. We agree to give the scheduled heavy queries one more careful look this week. Priya suggests a cleaner way to think about the freshness per source. I compare my notes about the incident count trend with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "We add peer review for analysis before anything reaches a slide. In the meeting drill, Leo says, \"A home dashboard screen.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The keyboard still knows my hands.\" After that, we swap roles and run it again. The guide now has a short section on the async tile loading. We agree to give the scheduled heavy queries one more careful look this week. Priya suggests a cleaner way to think about the freshness per source. I compare my notes about the incident count trend with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "We add peer review for analysis before anything reaches a slide. In the meeting drill, Leo says, \"A home dashboard screen.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The keyboard still knows my hands.\" After that, we swap roles and run it again. The guide now has a short section on the async tile loading. We agree to give the scheduled heavy queries one more careful look this week. Priya suggests a cleaner way to think about the freshness per source. I compare my notes about the incident count trend with Priya's. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们为分析加上同行评审，先过两双眼睛再上幻灯片。结对演练：Priya起头：\"它成了家里的看板。\"我跟上：\"键盘还认得我的手。\"Priya回应：\"说得好——站会上就用它。\"指南里现在有关于瓦片异步加载的简短章节。我们说好这周再把重查询定时跑仔细看一次。Priya 提出了一个更清晰的每个源的新鲜度思考方式。我把关于事故数量趋势的笔记和 Priya 的对照了一下。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "我们为分析加上同行评审，先过两双眼睛再上幻灯片。会议演练中，Leo说：\"它成了家里的看板。\"之后我们换角色再练一遍。会议演练中，Maria说：\"键盘还认得我的手。\"之后我们换角色再练一遍。指南里现在有关于瓦片异步加载的简短章节。我们说好这周再把重查询定时跑仔细看一次。Priya 提出了一个更清晰的每个源的新鲜度思考方式。我把关于事故数量趋势的笔记和 Priya 的对照了一下。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "async tile loading",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the quality owner column. In today's standup, I mention the quality in retro and what comes next. I connect the columnar storage basics to the ticket so nothing gets lost. While the details are fresh, I write down the cost per dashboard. Whiteboard practice: Maria offers, \"The fan sings but works.\" I add, \"Devices deserve retirement.\" then Maria sums up, \"Exactly, and it saves time too.\" Statistics is a superpower with a safety manual.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the quality owner column. In today's standup, I mention the quality in retro and what comes next. I connect the columnar storage basics to the ticket so nothing gets lost. While the details are fresh, I write down the cost per dashboard. Whiteboard practice: Maria offers, \"The fan sings but works.\" I add, \"Devices deserve retirement.\" then Maria sums up, \"Exactly, and it saves time too.\" Statistics is a superpower with a safety manual.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the quality owner column. In today's standup, I mention the quality in retro and what comes next. I connect the columnar storage basics to the ticket so nothing gets lost. While the details are fresh, I write down the cost per dashboard. In the meeting drill, Priya says, \"The fan sings but works.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Devices deserve retirement.\" After that, we swap roles and run it again. Statistics is a superpower with a safety manual.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the quality owner column. In today's standup, I mention the quality in retro and what comes next. I connect the columnar storage basics to the ticket so nothing gets lost. While the details are fresh, I write down the cost per dashboard. In the meeting drill, Priya says, \"The fan sings but works.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Devices deserve retirement.\" After that, we swap roles and run it again. Statistics is a superpower with a safety manual.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在质量负责人列上。今天的站会上，我提到质量进复盘和接下来的安排。我把列式存储入门关联到工单上，免得遗漏。趁细节还新鲜，我把看板成本核算写了下来。白板练习：Maria给出：\"风扇会唱歌但还在转。\"我补充：\"设备值得体面退休。\"然后Maria总结：\"正是，而且还省时间。\"统计是带安全手册的超能力。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在质量负责人列上。今天的站会上，我提到质量进复盘和接下来的安排。我把列式存储入门关联到工单上，免得遗漏。趁细节还新鲜，我把看板成本核算写了下来。会议演练中，Priya说：\"风扇会唱歌但还在转。\"之后我们换角色再练一遍。会议演练中，Leo说：\"设备值得体面退休。\"之后我们换角色再练一遍。统计是带安全手册的超能力。",
    "hard": [
     {
      "w": "columnar storage basics",

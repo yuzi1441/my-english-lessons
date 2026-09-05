@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 292,
+   "word_count": 335,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The feedback themes arrive: write more, speak slower, decide out loud. I compare my notes about the environment variable hygiene with Priya's. I connect the config validation on boot to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the ci notification tuning. While the details are fresh, I write down the failure ownership auto assign. Pair run: Leo starts, \"The parcel locker life.\" I follow, \"Pickup code saved twice.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "The feedback themes arrive: write more, speak slower, decide out loud. I compare my notes about the environment variable hygiene with Priya's. I connect the config validation on boot to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the ci notification tuning. While the details are fresh, I write down the failure ownership auto assign. Pair run: Leo starts, \"The parcel locker life.\" I follow, \"Pickup code saved twice.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "The feedback themes arrive: write more, speak slower, decide out loud. I compare my notes about the environment variable hygiene with Priya's. I connect the config validation on boot to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the ci notification tuning. While the details are fresh, I write down the failure ownership auto assign. In the meeting drill, Maria says, \"The parcel locker life.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Pickup code saved twice.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "The feedback themes arrive: write more, speak slower, decide out loud. I compare my notes about the environment variable hygiene with Priya's. I connect the config validation on boot to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the ci notification tuning. While the details are fresh, I write down the failure ownership auto assign. In the meeting drill, Maria says, \"The parcel locker life.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Pickup code saved twice.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "反馈主题来了：多写、说慢些、把决定说出来。我把关于环境变量卫生的笔记和 Priya 的对照了一下。我把启动配置校验关联到工单上，免得遗漏。Priya 提出了一个更清晰的CI 通知调优思考方式。趁细节还新鲜，我把失败自动认领写了下来。结对演练：Leo起头：\"智能快递柜的生活。\"我跟上：\"取件码存两遍。\"Leo回应：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "反馈主题来了：多写、说慢些、把决定说出来。我把关于环境变量卫生的笔记和 Priya 的对照了一下。我把启动配置校验关联到工单上，免得遗漏。Priya 提出了一个更清晰的CI 通知调优思考方式。趁细节还新鲜，我把失败自动认领写了下来。会议演练中，Maria说：\"智能快递柜的生活。\"之后我们换角色再练一遍。会议演练中，Priya说：\"取件码存两遍。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "environment variable hygiene",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I tape all three above my desk, next to Maria's old sticky note. Drill without notes: Leo asks, \"The fragile sticker works.\" I answer, \"Return label ready.\" and Leo closes, \"Keep practising, it is working.\" In today's standup, I mention the secrets separation and what comes next. The guide now has a short section on the config doc table. We agree to give the red main channel one more careful look this week. At the review, we spend ten minutes on the flaky report digest. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "I tape all three above my desk, next to Maria's old sticky note. Drill without notes: Leo asks, \"The fragile sticker works.\" I answer, \"Return label ready.\" and Leo closes, \"Keep practising, it is working.\" In today's standup, I mention the secrets separation and what comes next. The guide now has a short section on the config doc table. We agree to give the red main channel one more careful look this week. At the review, we spend ten minutes on the flaky report digest. I close the ticket with a clear result and one lesson for next time.",
+   "en": "I tape all three above my desk, next to Maria's old sticky note. In the meeting drill, Maria says, \"The fragile sticker works.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Return label ready.\" After that, we swap roles and run it again. In today's standup, I mention the secrets separation and what comes next. The guide now has a short section on the config doc table. We agree to give the red main channel one more careful look this week. At the review, we spend ten minutes on the flaky report digest. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "I tape all three above my desk, next to Maria's old sticky note. In the meeting drill, Maria says, \"The fragile sticker works.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Return label ready.\" After that, we swap roles and run it again. In today's standup, I mention the secrets separation and what comes next. The guide now has a short section on the config doc table. We agree to give the red main channel one more careful look this week. At the review, we spend ten minutes on the flaky report digest. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我把三条贴在桌前，就在 Maria 旧便签的旁边。脱稿演练：Leo问：\"易碎贴纸有用。\"我回答：\"退货单提前备好。\"Leo收束：\"继续练，有效果了。\"今天的站会上，我提到机密分离和接下来的安排。指南里现在有关于配置文档表的简短章节。我们说好这周再把主干变红频道仔细看一次。评审时，我们花了十分钟在抖动报告摘要上。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我把三条贴在桌前，就在 Maria 旧便签的旁边。会议演练中，Maria说：\"易碎贴纸有用。\"之后我们换角色再练一遍。会议演练中，Priya说：\"退货单提前备好。\"之后我们换角色再练一遍。今天的站会上，我提到机密分离和接下来的安排。指南里现在有关于配置文档表的简短章节。我们说好这周再把主干变红频道仔细看一次。评审时，我们花了十分钟在抖动报告摘要上。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "secrets separation",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the ci cost report with Priya's. I connect the build badge hygiene to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the safe defaults. While the details are fresh, I write down the config change log. Whiteboard practice: Priya offers, \"The courier knows my door.\" I add, \"Unboxing tiny joys.\" then Priya sums up, \"Good point — use it in the standup.\" Knowing your edges is the first map of growth.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the ci cost report with Priya's. I connect the build badge hygiene to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the safe defaults. While the details are fresh, I write down the config change log. Whiteboard practice: Priya offers, \"The courier knows my door.\" I add, \"Unboxing tiny joys.\" then Priya sums up, \"Good point — use it in the standup.\" Knowing your edges is the first map of growth.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the ci cost report with Priya's. I connect the build badge hygiene to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the safe defaults. While the details are fresh, I write down the config change log. In the meeting drill, Leo says, \"The courier knows my door.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Unboxing tiny joys.\" After that, we swap roles and run it again. Knowing your edges is the first map of growth.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. I compare my notes about the ci cost report with Priya's. I connect the build badge hygiene to the ticket so nothing gets lost. Priya suggests a cleaner way to think about the safe defaults. While the details are fresh, I write down the config change log. In the meeting drill, Leo says, \"The courier knows my door.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Unboxing tiny joys.\" After that, we swap roles and run it again. Knowing your edges is the first map of growth.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于CI 成本报告的笔记和 Priya 的对照了一下。我把构建徽章卫生关联到工单上，免得遗漏。Priya 提出了一个更清晰的默认值安全思考方式。趁细节还新鲜，我把配置变更日志写了下来。白板练习：Priya给出：\"快递员认识我家门。\"我补充：\"拆快递的小确幸。\"然后Priya总结：\"说得好——站会上就用它。\"知道自己的边界，是成长的第一张地图。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。我把关于CI 成本报告的笔记和 Priya 的对照了一下。我把构建徽章卫生关联到工单上，免得遗漏。Priya 提出了一个更清晰的默认值安全思考方式。趁细节还新鲜，我把配置变更日志写了下来。会议演练中，Leo说：\"快递员认识我家门。\"之后我们换角色再练一遍。会议演练中，Maria说：\"拆快递的小确幸。\"之后我们换角色再练一遍。知道自己的边界，是成长的第一张地图。",
    "hard": [
     {
      "w": "safe defaults",

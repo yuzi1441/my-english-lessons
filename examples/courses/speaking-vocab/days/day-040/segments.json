@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 289,
+   "word_count": 290,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Sprint planning starts for the new iteration. We spend a few minutes on the search bar at the standup. During the review, I ask one question about the search index. I double-check the sprint goal before the review. I add the story point to my checklist for tomorrow. Before we move on, Priya asks, \"How's the new apartment?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"The neighborhood is quiet.\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
-   "tts": "Sprint planning starts for the new iteration. We spend a few minutes on the search bar at the standup. During the review, I ask one question about the search index. I double-check the sprint goal before the review. I add the story point to my checklist for tomorrow. Before we move on, Priya asks, \"How's the new apartment?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"The neighborhood is quiet.\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
+   "en": "Sprint planning starts for the new iteration. We spend a few minutes on the search bar at the standup. During the review, I ask one question about the search index. I double-check the sprint goal before the review. I add the story point to my checklist for tomorrow. Before we move on, Priya asks, \"How's the new apartment?\" I answer, and we compare notes. Before we move on, Priya says, \"The neighborhood is quiet.\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
+   "tts": "Sprint planning starts for the new iteration. We spend a few minutes on the search bar at the standup. During the review, I ask one question about the search index. I double-check the sprint goal before the review. I add the story point to my checklist for tomorrow. Before we move on, Priya asks, \"How's the new apartment?\" I answer, and we compare notes. Before we move on, Priya says, \"The neighborhood is quiet.\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "新迭代的规划会开始了。站会上我们花了几分钟讨论搜索栏。评审时，我就搜索索引提了一个问题。评审之前，我再核对一遍迭代目标。我把故事点加进了明天的清单。继续之前，Priya问：\"新公寓住得怎么样？\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"这一带很安静。\"我回答，然后把它用进了自己的汇报。团队就计划达成一致，我记录了决定。",
+   "zh": "新迭代的规划会开始了。站会上我们花了几分钟讨论搜索栏。评审时，我就搜索索引提了一个问题。评审之前，我再核对一遍迭代目标。我把故事点加进了明天的清单。继续之前，Priya问：\"新公寓住得怎么样？\"我回答，我们互相对了笔记。继续之前，Priya说：\"这一带很安静。\"我回答，我们互相对了笔记。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "search bar",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I estimate my work in story points, honestly and out loud. Before we move on, Priya says, \"Rent is a bit high.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"It's close to the office.\" I answer, then reuse it in my update. I walk a new teammate through the fuzzy match. I keep one real example of the search filter in my notes. After that, I go through the backlog grooming with Priya and note her advice. I suggest that we check capacity planning first. The day ends with a clear plan for tomorrow.",
-   "tts": "I estimate my work in story points, honestly and out loud. Before we move on, Priya says, \"Rent is a bit high.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"It's close to the office.\" I answer, then reuse it in my update. I walk a new teammate through the fuzzy match. I keep one real example of the search filter in my notes. After that, I go through the backlog grooming with Priya and note her advice. I suggest that we check capacity planning first. The day ends with a clear plan for tomorrow.",
+   "en": "I estimate my work in story points, honestly and out loud. Before we move on, Leo says, \"Rent is a bit high.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"It's close to the office.\" I answer clearly and note the phrasing. I walk a new teammate through the fuzzy match. After a short break, I keep one real example of the search filter in my notes. I go through the backlog grooming with Priya and note her advice. I suggest that we check capacity planning first. The day ends with a clear plan for tomorrow.",
+   "tts": "I estimate my work in story points, honestly and out loud. Before we move on, Leo says, \"Rent is a bit high.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"It's close to the office.\" I answer clearly and note the phrasing. I walk a new teammate through the fuzzy match. After a short break, I keep one real example of the search filter in my notes. I go through the backlog grooming with Priya and note her advice. I suggest that we check capacity planning first. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我诚实地把自己的工作估算成了故事点，并大声说了出来。继续之前，Priya说：\"房租有点贵。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"离办公室很近。\"我回答，然后把它用进了自己的汇报。我带一位新队友过了一遍模糊匹配。我在笔记里留了一个搜索筛选的真实例子。在那之后，我和 Priya 过了一遍需求梳理，记下了她的建议。我建议我们先检查容量规划。这一天以一份清晰的明日计划结束。",
+   "zh": "我诚实地把自己的工作估算成了故事点，并大声说了出来。继续之前，Leo说：\"房租有点贵。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"离办公室很近。\"我清楚地回答，并记下了这个说法。我带一位新队友过了一遍模糊匹配。稍作休息后，我在笔记里留了一个搜索筛选的真实例子。我和 Priya 过了一遍需求梳理，记下了她的建议。我建议我们先检查容量规划。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "fuzzy match",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. Before I reply, I look at the stretch goal once more. I reread my notes about the carryover item after lunch. We spend a few minutes on the relevance ranking at the standup. During the review, I ask one question about the search history. Before we move on, Maria says, \"I'm still unpacking boxes.\" I answer, and we compare notes. Before we move on, Priya says, \"Come over sometime.\" I answer clearly and note the phrasing. My guess is close. Honest estimates build trust.",
-   "tts": "Before I leave, I write a short summary for the team. Before I reply, I look at the stretch goal once more. I reread my notes about the carryover item after lunch. We spend a few minutes on the relevance ranking at the standup. During the review, I ask one question about the search history. Before we move on, Maria says, \"I'm still unpacking boxes.\" I answer, and we compare notes. Before we move on, Priya says, \"Come over sometime.\" I answer clearly and note the phrasing. My guess is close. Honest estimates build trust.",
+   "en": "Before I leave, I write a short summary for the team. Before I reply, I look at the stretch goal once more. I reread my notes about the carryover item after lunch. After that, We spend a few minutes on the relevance ranking at the standup. During the review, I ask one question about the search history. Before we move on, Leo says, \"I'm still unpacking boxes.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Come over sometime.\" I answer clearly and note the phrasing. My guess is close. Honest estimates build trust.",
+   "tts": "Before I leave, I write a short summary for the team. Before I reply, I look at the stretch goal once more. I reread my notes about the carryover item after lunch. After that, We spend a few minutes on the relevance ranking at the standup. During the review, I ask one question about the search history. Before we move on, Leo says, \"I'm still unpacking boxes.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Come over sometime.\" I answer clearly and note the phrasing. My guess is close. Honest estimates build trust.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。回复之前，我又看了一遍弹性目标。午饭后我重读了关于顺延事项的笔记。站会上我们花了几分钟讨论相关度排序。评审时，我就搜索历史提了一个问题。继续之前，Maria说：\"我还在拆行李箱。\"我回答，我们互相对了笔记。继续之前，Priya说：\"改天来坐坐。\"我清楚地回答，并记下了这个说法。我的猜测很接近。诚实的估算能建立信任。",
+   "zh": "离开前，我给团队写了一份简短的总结。回复之前，我又看了一遍弹性目标。午饭后我重读了关于顺延事项的笔记。在那之后，站会上我们花了几分钟讨论相关度排序。评审时，我就搜索历史提了一个问题。继续之前，Leo说：\"我还在拆行李箱。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"改天来坐坐。\"我清楚地回答，并记下了这个说法。我的猜测很接近。诚实的估算能建立信任。",
    "hard": [
     {
      "w": "relevance ranking",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 284,
+   "word_count": 296,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A big idea comes up. We open a discussion first. I walk a new teammate through the AI model. Before I reply, I look at the prompt once more. During the review, I ask one question about GitHub Discussion. I go through the request for comments with Priya and note her advice. Before we move on, Priya says, \"I'm not completely sure.\" I answer clearly and note the phrasing. The pattern helps me sound clear and calm: As far as I know ... The team agrees on the plan, and I record the decision.",
-   "tts": "A big idea comes up. We open a discussion first. I walk a new teammate through the A I model. Before I reply, I look at the prompt once more. During the review, I ask one question about Git Hub Discussion. I go through the request for comments with Priya and note her advice. Before we move on, Priya says, \"I'm not completely sure.\" I answer clearly and note the phrasing. The pattern helps me sound clear and calm: As far as I know  The team agrees on the plan, and I record the decision.",
+   "en": "A big idea comes up. We open a discussion first. I walk a new teammate through the AI model. Before I reply, I look at the prompt once more. During the review, I ask one question about GitHub Discussion. I go through the request for comments with Priya and note her advice. Before we move on, Priya says, \"I'm not completely sure.\" I answer, and we compare notes. After a short break, The pattern helps me sound clear and calm: As far as I know ... The team agrees on the plan, and I record the decision.",
+   "tts": "A big idea comes up. We open a discussion first. I walk a new teammate through the A I model. Before I reply, I look at the prompt once more. During the review, I ask one question about Git Hub Discussion. I go through the request for comments with Priya and note her advice. Before we move on, Priya says, \"I'm not completely sure.\" I answer, and we compare notes. After a short break, The pattern helps me sound clear and calm: As far as I know  The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个大想法出现了。我们先开了一个讨论。我带一位新队友过了一遍AI 模型。回复之前，我又看了一遍提示词。评审时，我就GitHub 讨论区提了一个问题。我和 Priya 过了一遍征求意见稿，记下了她的建议。继续之前，Priya说：\"我不是完全确定。\"我清楚地回答，并记下了这个说法。这个句型让我听起来清楚又从容：据我所知……团队就计划达成一致，我记录了决定。",
+   "zh": "一个大想法出现了。我们先开了一个讨论。我带一位新队友过了一遍AI 模型。回复之前，我又看了一遍提示词。评审时，我就GitHub 讨论区提了一个问题。我和 Priya 过了一遍征求意见稿，记下了她的建议。继续之前，Priya说：\"我不是完全确定。\"我回答，我们互相对了笔记。稍作休息后，这个句型让我听起来清楚又从容：据我所知……团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "AI model",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I am not completely sure, and I say so. I build a full answer around the pattern: It seems likely that ... Before we move on, Priya says, \"I may be mistaken.\" I answer clearly and note the phrasing. I add the context window to my checklist for tomorrow. After that, We spend a few minutes on the system instruction at the standup. I reread my notes about the design proposal after lunch. I suggest that we check the open question first. The day ends with a clear plan for tomorrow.",
-   "tts": "I am not completely sure, and I say so. I build a full answer around the pattern: It seems likely that  Before we move on, Priya says, \"I may be mistaken.\" I answer clearly and note the phrasing. I add the context window to my checklist for tomorrow. After that, We spend a few minutes on the system instruction at the standup. I reread my notes about the design proposal after lunch. I suggest that we check the open question first. The day ends with a clear plan for tomorrow.",
+   "en": "I am not completely sure, and I say so. After a short break, I build a full answer around the pattern: It seems likely that ... Before we move on, Maria says, \"I may be mistaken.\" I answer, then reuse it in my update. I add the context window to my checklist for tomorrow. We spend a few minutes on the system instruction at the standup. After a short break, I reread my notes about the design proposal after lunch. I suggest that we check the open question first. The day ends with a clear plan for tomorrow.",
+   "tts": "I am not completely sure, and I say so. After a short break, I build a full answer around the pattern: It seems likely that  Before we move on, Maria says, \"I may be mistaken.\" I answer, then reuse it in my update. I add the context window to my checklist for tomorrow. We spend a few minutes on the system instruction at the standup. After a short break, I reread my notes about the design proposal after lunch. I suggest that we check the open question first. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我不是完全确定，我如实说了。我围绕这个句型组织了一个完整的回答：看起来很可能……继续之前，Priya说：\"我可能弄错了。\"我清楚地回答，并记下了这个说法。我把上下文窗口加进了明天的清单。在那之后，站会上我们花了几分钟讨论系统指令。午饭后我重读了关于设计提案的笔记。我建议我们先检查开放问题。这一天以一份清晰的明日计划结束。",
+   "zh": "我不是完全确定，我如实说了。稍作休息后，我围绕这个句型组织了一个完整的回答：看起来很可能……继续之前，Maria说：\"我可能弄错了。\"我回答，然后把它用进了自己的汇报。我把上下文窗口加进了明天的清单。站会上我们花了几分钟讨论系统指令。稍作休息后，午饭后我重读了关于设计提案的笔记。我建议我们先检查开放问题。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "context window",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I double-check the decision record before the review. I keep one real example of the technical discussion in my notes. After a short break, I walk a new teammate through the user message. Before I reply, I look at the model response once more. Before we move on, Leo says, \"Let me check first.\" I answer, then reuse it in my update. Before we move on, Maria says, \"The evidence is limited.\" I answer, and we compare notes. The discussion becomes a decision record. We build next week.",
-   "tts": "Before I leave, I write a short summary for the team. I double-check the decision record before the review. I keep one real example of the technical discussion in my notes. After a short break, I walk a new teammate through the user message. Before I reply, I look at the model response once more. Before we move on, Leo says, \"Let me check first.\" I answer, then reuse it in my update. Before we move on, Maria says, \"The evidence is limited.\" I answer, and we compare notes. The discussion becomes a decision record. We build next week.",
+   "en": "Before I leave, I write a short summary for the team. After a short break, I double-check the decision record before the review. I keep one real example of the technical discussion in my notes. I walk a new teammate through the user message. Before I reply, I look at the model response once more. Before we move on, Maria says, \"Let me check first.\" I answer, then reuse it in my update. Before we move on, Maria says, \"The evidence is limited.\" I answer, then reuse it in my update. The discussion becomes a decision record. We build next week.",
+   "tts": "Before I leave, I write a short summary for the team. After a short break, I double-check the decision record before the review. I keep one real example of the technical discussion in my notes. I walk a new teammate through the user message. Before I reply, I look at the model response once more. Before we move on, Maria says, \"Let me check first.\" I answer, then reuse it in my update. Before we move on, Maria says, \"The evidence is limited.\" I answer, then reuse it in my update. The discussion becomes a decision record. We build next week.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。评审之前，我再核对一遍决策记录。我在笔记里留了一个技术讨论的真实例子。稍作休息后，我带一位新队友过了一遍用户消息。回复之前，我又看了一遍模型响应。继续之前，Leo说：\"让我先确认一下。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"证据有限。\"我回答，我们互相对了笔记。讨论变成了一份决策记录。下周开始实现。",
+   "zh": "离开前，我给团队写了一份简短的总结。稍作休息后，评审之前，我再核对一遍决策记录。我在笔记里留了一个技术讨论的真实例子。我带一位新队友过了一遍用户消息。回复之前，我又看了一遍模型响应。继续之前，Maria说：\"让我先确认一下。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"证据有限。\"我回答，然后把它用进了自己的汇报。讨论变成了一份决策记录。下周开始实现。",
    "hard": [
     {
      "w": "user message",

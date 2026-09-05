@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 286,
+   "word_count": 323,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Leo draws the test pyramid on the whiteboard. Sam asks me about the stub, and I explain the basics. I keep one real example of the fake database in my notebook. I spend ten quiet minutes on the review in small bites after the standup. I ask one good question about the first pass mindset in the meeting. Warm-up round: Priya offers, \"The bug came back.\" I answer, \"Same symptom, new day.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Leo draws the test pyramid on the whiteboard. Sam asks me about the stub, and I explain the basics. I keep one real example of the fake database in my notebook. I spend ten quiet minutes on the review in small bites after the standup. I ask one good question about the first pass mindset in the meeting. Warm-up round: Priya offers, \"The bug came back.\" I answer, \"Same symptom, new day.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "en": "Leo draws the test pyramid on the whiteboard. Sam asks me about the stub, and I explain the basics. I keep one real example of the fake database in my notebook. I spend ten quiet minutes on the review in small bites after the standup. I ask one good question about the first pass mindset in the meeting. In the warm-up round, Leo says, \"The bug came back.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Same symptom, new day.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "Leo draws the test pyramid on the whiteboard. Sam asks me about the stub, and I explain the basics. I keep one real example of the fake database in my notebook. I spend ten quiet minutes on the review in small bites after the standup. I ask one good question about the first pass mindset in the meeting. In the warm-up round, Leo says, \"The bug came back.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Same symptom, new day.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Leo 在白板上画出了测试金字塔。Sam 问起桩函数，我讲了讲基础。我在笔记本里留了一个假数据库的真实例子。站会之后，我安安静静花了十分钟在小口评审上。会上关于初读心态，我问了一个好问题。热身一轮：Priya给出：\"那个毛病又回来了。\"我回答：\"老症状\"Priya收尾道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "Leo 在白板上画出了测试金字塔。Sam 问起桩函数，我讲了讲基础。我在笔记本里留了一个假数据库的真实例子。站会之后，我安安静静花了十分钟在小口评审上。会上关于初读心态，我问了一个好问题。热身环节里，Leo说：\"那个毛病又回来了。\"然后我们换角色，由我来问。热身环节里，Maria说：\"老症状\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "stub",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Many small tests below, a few honest end-to-end tests on top. Role play with feedback: Priya says, \"I fix the root this time.\" I try, \"Quick fixes recur.\" and Priya adds, \"Good — try it in today’s task.\" I add the spy to my study notes before I forget it. My notes about the injection point look clearer this week. I go over the comment tone one more time before lunch. There is a short paragraph about the nit versus blocker in the guide. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Many small tests below, a few honest end-to-end tests on top. Role play with feedback: Priya says, \"I fix the root this time.\" I try, \"Quick fixes recur.\" and Priya adds, \"Good — try it in today’s task.\" I add the spy to my study notes before I forget it. My notes about the injection point look clearer this week. I go over the comment tone one more time before lunch. There is a short paragraph about the nit versus blocker in the guide. Small progress today prepares the bigger step tomorrow.",
+   "en": "Many small tests below, a few honest end-to-end tests on top. In the warm-up round, Leo says, \"I fix the root this time.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Quick fixes recur.\" Then we swap roles and I ask it back. I add the spy to my study notes before I forget it. My notes about the injection point look clearer this week. I go over the comment tone one more time before lunch. There is a short paragraph about the nit versus blocker in the guide. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Many small tests below, a few honest end-to-end tests on top. In the warm-up round, Leo says, \"I fix the root this time.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Quick fixes recur.\" Then we swap roles and I ask it back. I add the spy to my study notes before I forget it. My notes about the injection point look clearer this week. I go over the comment tone one more time before lunch. There is a short paragraph about the nit versus blocker in the guide. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "底层许多小测试，顶端少数真实的端到端测试。角色扮演加反馈：Priya说：\"这次我修根子。\"我试着说：\"糊弄会复发。\"Priya补充道：\"好——今天的任务里就用上。\"我趁还没忘，把侦测替身记进了学习笔记。这周我关于注入点的笔记清楚多了。午饭前我又过了一遍评论语气。指南里有一小段关于小瑕疵与阻塞的介绍。今天的小进步为明天更大的跨越做准备。",
+   "zh": "底层许多小测试，顶端少数真实的端到端测试。热身环节里，Leo说：\"这次我修根子。\"然后我们换角色，由我来问。热身环节里，Maria说：\"糊弄会复发。\"然后我们换角色，由我来问。我趁还没忘，把侦测替身记进了学习笔记。这周我关于注入点的笔记清楚多了。午饭前我又过了一遍评论语气。指南里有一小段关于小瑕疵与阻塞的介绍。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "spy",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the approve with comments, and I explain the basics. I keep one real example of the follow up on threads in my notebook. I spend ten quiet minutes on the hardcoded dependency after the standup. I ask one good question about the seam in the meeting. We drill it twice: Maria starts, \"My knee hates stairs.\" I reply, \"I stretch it daily now.\" then Maria smiles, \"That is the one we need today.\" I stop dreaming about one giant test that covers everything.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the approve with comments, and I explain the basics. I keep one real example of the follow up on threads in my notebook. I spend ten quiet minutes on the hardcoded dependency after the standup. I ask one good question about the seam in the meeting. We drill it twice: Maria starts, \"My knee hates stairs.\" I reply, \"I stretch it daily now.\" then Maria smiles, \"That is the one we need today.\" I stop dreaming about one giant test that covers everything.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the approve with comments, and I explain the basics. I keep one real example of the follow up on threads in my notebook. I spend ten quiet minutes on the hardcoded dependency after the standup. I ask one good question about the seam in the meeting. In the warm-up round, Priya says, \"My knee hates stairs.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I stretch it daily now.\" Then we swap roles and I ask it back. I stop dreaming about one giant test that covers everything.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the approve with comments, and I explain the basics. I keep one real example of the follow up on threads in my notebook. I spend ten quiet minutes on the hardcoded dependency after the standup. I ask one good question about the seam in the meeting. In the warm-up round, Priya says, \"My knee hates stairs.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I stretch it daily now.\" Then we swap roles and I ask it back. I stop dreaming about one giant test that covers everything.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起带评论批准，我讲了讲基础。我在笔记本里留了一个跟进讨论串的真实例子。站会之后，我安安静静花了十分钟在硬编码依赖上。会上关于接缝，我问了一个好问题。我们练了两遍：Maria起头：\"我的膝盖讨厌楼梯。\"我回答：\"我现在每天拉伸它。\"然后Maria笑着说：\"今天要的就是这句。\"我不再幻想一个包打天下的大测试。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起带评论批准，我讲了讲基础。我在笔记本里留了一个跟进讨论串的真实例子。站会之后，我安安静静花了十分钟在硬编码依赖上。会上关于接缝，我问了一个好问题。热身环节里，Priya说：\"我的膝盖讨厌楼梯。\"然后我们换角色，由我来问。热身环节里，Leo说：\"我现在每天拉伸它。\"然后我们换角色，由我来问。我不再幻想一个包打天下的大测试。",
    "hard": [
     {
      "w": "hardcoded dependency",

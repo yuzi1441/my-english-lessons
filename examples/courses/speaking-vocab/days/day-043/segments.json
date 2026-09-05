@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 290,
+   "word_count": 283,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My last piece reaches the approval gate. I reread my notes about the infinite scroll after lunch. After a short break, I load more while the others watch the dashboard. I suggest that we check the approval gate first. The team agrees to request approval before Friday. Before we move on, Priya says, \"Thanks for covering for me.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Lunch is on me.\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
-   "tts": "My last piece reaches the approval gate. I reread my notes about the infinite scroll after lunch. After a short break, I load more while the others watch the dashboard. I suggest that we check the approval gate first. The team agrees to request approval before Friday. Before we move on, Priya says, \"Thanks for covering for me.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Lunch is on me.\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
+   "en": "My last piece reaches the approval gate. I reread my notes about the infinite scroll after lunch. After a short break, I load more while the others watch the dashboard. I suggest that we check the approval gate first. The team agrees to request approval before Friday. Before we move on, Priya says, \"Thanks for covering for me.\" I answer, and we compare notes. Before we move on, Priya says, \"Lunch is on me.\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
+   "tts": "My last piece reaches the approval gate. I reread my notes about the infinite scroll after lunch. After a short break, I load more while the others watch the dashboard. I suggest that we check the approval gate first. The team agrees to request approval before Friday. Before we move on, Priya says, \"Thanks for covering for me.\" I answer, and we compare notes. Before we move on, Priya says, \"Lunch is on me.\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的最后一块走到了审批关卡。午饭后我重读了关于无限滚动的笔记。稍作休息后，我加载更多，其他队友盯着仪表盘。我建议我们先检查审批关卡。团队同意在周五之前申请审批。继续之前，Priya说：\"谢谢你替我顶班。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"午饭我请。\"我回答，然后把它用进了自己的汇报。团队就计划达成一致，我记录了决定。",
+   "zh": "我的最后一块走到了审批关卡。午饭后我重读了关于无限滚动的笔记。稍作休息后，我加载更多，其他队友盯着仪表盘。我建议我们先检查审批关卡。团队同意在周五之前申请审批。继续之前，Priya说：\"谢谢你替我顶班。\"我回答，我们互相对了笔记。继续之前，Priya说：\"午饭我请。\"我回答，我们互相对了笔记。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "infinite scroll",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I request approval with a clear summary and screenshots. Before we move on, Priya says, \"I owe you one.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"It means a lot to me.\" I answer, then reuse it in my update. During the review, I ask one question about the skeleton screen. I lazy load and then explain the risk. After a short break, I add the approval history to my checklist for tomorrow. We decide to revoke approval after the review. The day ends with a clear plan for tomorrow.",
-   "tts": "I request approval with a clear summary and screenshots. Before we move on, Priya says, \"I owe you one.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"It means a lot to me.\" I answer, then reuse it in my update. During the review, I ask one question about the skeleton screen. I lazy load and then explain the risk. After a short break, I add the approval history to my checklist for tomorrow. We decide to revoke approval after the review. The day ends with a clear plan for tomorrow.",
+   "en": "I request approval with a clear summary and screenshots. Before we move on, Leo says, \"I owe you one.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"It means a lot to me.\" I answer clearly and note the phrasing. During the review, I ask one question about the skeleton screen. After that, I lazy load and then explain the risk. I add the approval history to my checklist for tomorrow. We decide to revoke approval after the review. The day ends with a clear plan for tomorrow.",
+   "tts": "I request approval with a clear summary and screenshots. Before we move on, Leo says, \"I owe you one.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"It means a lot to me.\" I answer clearly and note the phrasing. During the review, I ask one question about the skeleton screen. After that, I lazy load and then explain the risk. I add the approval history to my checklist for tomorrow. We decide to revoke approval after the review. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我带着清晰的摘要和截图申请了审批。继续之前，Priya说：\"我欠你一个人情。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"这对我意义重大。\"我回答，然后把它用进了自己的汇报。评审时，我就骨架屏提了一个问题。我懒加载，然后解释了风险。稍作休息后，我把审批记录加进了明天的清单。评审之后，我们决定撤回批准。这一天以一份清晰的明日计划结束。",
+   "zh": "我带着清晰的摘要和截图申请了审批。继续之前，Leo说：\"我欠你一个人情。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"这对我意义重大。\"我清楚地回答，并记下了这个说法。评审时，我就骨架屏提了一个问题。在那之后，我懒加载，然后解释了风险。我把审批记录加进了明天的清单。评审之后，我们决定撤回批准。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "skeleton screen",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. After a short break, I keep one real example of the compliance check in my notes. Before I reply, I look at the sign-off once more. I pull to refresh, and I record the reason. After that, I go through the scroll position with Priya and note her advice. Before we move on, Maria says, \"I'll get you back a coffee.\" I answer, and we compare notes. Before we move on, Priya says, \"Anytime, really.\" I answer clearly and note the phrasing. One approval, one signature, one green merge.",
-   "tts": "Before I leave, I write a short summary for the team. After a short break, I keep one real example of the compliance check in my notes. Before I reply, I look at the sign-off once more. I pull to refresh, and I record the reason. After that, I go through the scroll position with Priya and note her advice. Before we move on, Maria says, \"I'll get you back a coffee.\" I answer, and we compare notes. Before we move on, Priya says, \"Anytime, really.\" I answer clearly and note the phrasing. One approval, one signature, one green merge.",
+   "en": "Before I leave, I write a short summary for the team. I keep one real example of the compliance check in my notes. Before I reply, I look at the sign-off once more. After a short break, I pull to refresh, and I record the reason. I go through the scroll position with Priya and note her advice. Before we move on, Leo says, \"I'll get you back a coffee.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Anytime, really.\" I answer clearly and note the phrasing. One approval, one signature, one green merge.",
+   "tts": "Before I leave, I write a short summary for the team. I keep one real example of the compliance check in my notes. Before I reply, I look at the sign-off once more. After a short break, I pull to refresh, and I record the reason. I go through the scroll position with Priya and note her advice. Before we move on, Leo says, \"I'll get you back a coffee.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Anytime, really.\" I answer clearly and note the phrasing. One approval, one signature, one green merge.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。稍作休息后，我在笔记里留了一个合规检查的真实例子。回复之前，我又看了一遍签字确认。我下拉刷新，并记录了原因。在那之后，我和 Priya 过了一遍滚动位置，记下了她的建议。继续之前，Maria说：\"我会请你喝杯咖啡作为答谢。\"我回答，我们互相对了笔记。继续之前，Priya说：\"随时都愿意帮忙。\"我清楚地回答，并记下了这个说法。一次批准，一个签字，一次绿色的合并。",
+   "zh": "离开前，我给团队写了一份简短的总结。我在笔记里留了一个合规检查的真实例子。回复之前，我又看了一遍签字确认。稍作休息后，我下拉刷新，并记录了原因。我和 Priya 过了一遍滚动位置，记下了她的建议。继续之前，Leo说：\"我会请你喝杯咖啡作为答谢。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"随时都愿意帮忙。\"我清楚地回答，并记下了这个说法。一次批准，一个签字，一次绿色的合并。",
    "hard": [
     {
      "w": "pull to refresh",

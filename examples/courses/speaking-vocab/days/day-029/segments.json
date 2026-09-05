@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 280,
+   "word_count": 279,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I practice my short presentation for the team. Before we move on, Leo says, \"Here is the main result.\" I answer, then reuse it in my update. In my update, I use the pattern naturally: This chart shows ... I suggest that we check the health check first. After a short break, I keep one real example of the rollback in my notes. I add the production deploy to my checklist for tomorrow. I double-check the rollback plan before the review. I check my notes and confirm the next step.",
-   "tts": "I practice my short presentation for the team. Before we move on, Leo says, \"Here is the main result.\" I answer, then reuse it in my update. In my update, I use the pattern naturally: This chart shows  I suggest that we check the health check first. After a short break, I keep one real example of the rollback in my notes. I add the production deploy to my checklist for tomorrow. I double-check the rollback plan before the review. I check my notes and confirm the next step.",
+   "en": "I practice my short presentation for the team. Before we move on, Leo says, \"Here is the main result.\" I answer clearly and note the phrasing. In my update, I use the pattern naturally: This chart shows ... After a short break, I suggest that we check the health check first. I keep one real example of the rollback in my notes. I add the production deploy to my checklist for tomorrow. After that, I double-check the rollback plan before the review. I check my notes and confirm the next step.",
+   "tts": "I practice my short presentation for the team. Before we move on, Leo says, \"Here is the main result.\" I answer clearly and note the phrasing. In my update, I use the pattern naturally: This chart shows  After a short break, I suggest that we check the health check first. I keep one real example of the rollback in my notes. I add the production deploy to my checklist for tomorrow. After that, I double-check the rollback plan before the review. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我为团队演练了我的简短介绍。继续之前，Leo说：\"这是主要结果。\"我回答，然后把它用进了自己的汇报。在汇报里，我自然地用上了这个句型：这张图显示……我建议我们先检查健康检查。稍作休息后，我在笔记里留了一个回滚的真实例子。我把生产部署加进了明天的清单。评审之前，我再核对一遍回滚计划。我检查笔记，确认了下一步。",
+   "zh": "我为团队演练了我的简短介绍。继续之前，Leo说：\"这是主要结果。\"我清楚地回答，并记下了这个说法。在汇报里，我自然地用上了这个句型：这张图显示……稍作休息后，我建议我们先检查健康检查。我在笔记里留了一个回滚的真实例子。我把生产部署加进了明天的清单。在那之后，评审之前，我再核对一遍回滚计划。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "health check",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. Before I reply, I look at the release checklist once more. During the review, I ask one question about the post-release check. After that, I walk a new teammate through the production environment. I go through the service outage with Priya and note her advice. I teach the pattern to a new teammate: One limitation is ... After a short break, The pattern helps me sound clear and calm: My recommendation is ... The checklist is done. The rollback plan is ready too.",
-   "tts": "Before I leave, I write a short summary for the team. Before I reply, I look at the release checklist once more. During the review, I ask one question about the post-release check. After that, I walk a new teammate through the production environment. I go through the service outage with Priya and note her advice. I teach the pattern to a new teammate: One limitation is  After a short break, The pattern helps me sound clear and calm: My recommendation is  The checklist is done. The rollback plan is ready too.",
+   "en": "Before I leave, I write a short summary for the team. Before I reply, I look at the release checklist once more. During the review, I ask one question about the post-release check. I walk a new teammate through the production environment. I go through the service outage with Priya and note her advice. After a short break, I teach the pattern to a new teammate: One limitation is ... The pattern helps me sound clear and calm: My recommendation is ... The checklist is done. The rollback plan is ready too.",
+   "tts": "Before I leave, I write a short summary for the team. Before I reply, I look at the release checklist once more. During the review, I ask one question about the post-release check. I walk a new teammate through the production environment. I go through the service outage with Priya and note her advice. After a short break, I teach the pattern to a new teammate: One limitation is  The pattern helps me sound clear and calm: My recommendation is  The checklist is done. The rollback plan is ready too.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。回复之前，我又看了一遍发布检查表。评审时，我就发布后检查提了一个问题。在那之后，我带一位新队友过了一遍生产环境。我和 Priya 过了一遍服务中断，记下了她的建议。我把这个句型教给一位新队友：一个局限是……稍作休息后，这个句型让我听起来清楚又从容：我的建议是……检查表完成了。回滚方案也准备好了。",
+   "zh": "离开前，我给团队写了一份简短的总结。回复之前，我又看了一遍发布检查表。评审时，我就发布后检查提了一个问题。我带一位新队友过了一遍生产环境。我和 Priya 过了一遍服务中断，记下了她的建议。稍作休息后，我把这个句型教给一位新队友：一个局限是……这个句型让我听起来清楚又从容：我的建议是……检查表完成了。回滚方案也准备好了。",
    "hard": [
     {
      "w": "production environment",

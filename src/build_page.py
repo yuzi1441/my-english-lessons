@@ -171,7 +171,7 @@ def closeout(data: dict, out_dir: Path) -> str:
         rate_pct = int(str(data.get("voice", {}).get("rate", "0%")).rstrip("%"))
     except ValueError:
         rate_pct = 0
-    seg_limit = SEGMENT_WORDS_LIMIT if rate_pct <= -10 else 130
+    seg_limit = SEGMENT_WORDS_LIMIT if rate_pct <= -10 else 150
     overlong = overlong_segments(data, seg_limit)
     if overlong:
         sample = " ".join(f"§{sid.split('-')[1].lstrip('0') or '0'}({words}词)" for sid, words in overlong[:6])

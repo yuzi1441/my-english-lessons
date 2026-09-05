@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 287,
+   "word_count": 331,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "An alert at midnight: rows tripled in one hour. The guide now has a short section on the assignment service. I connect the consistent hashing to the ticket so nothing gets lost. At the review, we spend ten minutes on sql for everyone. We agree to give dashboards 101 one more careful look this week. Drill without notes: Leo asks, \"Unsubscribe from five lists.\" I answer, \"Notification diet.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "An alert at midnight: rows tripled in one hour. The guide now has a short section on the assignment service. I connect the consistent hashing to the ticket so nothing gets lost. At the review, we spend ten minutes on sql for everyone. We agree to give dashboards 101 one more careful look this week. Drill without notes: Leo asks, \"Unsubscribe from five lists.\" I answer, \"Notification diet.\" and Leo closes, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "An alert at midnight: rows tripled in one hour. The guide now has a short section on the assignment service. I connect the consistent hashing to the ticket so nothing gets lost. At the review, we spend ten minutes on sql for everyone. We agree to give dashboards 101 one more careful look this week. In the meeting drill, Maria says, \"Unsubscribe from five lists.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Notification diet.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "An alert at midnight: rows tripled in one hour. The guide now has a short section on the assignment service. I connect the consistent hashing to the ticket so nothing gets lost. At the review, we spend ten minutes on sql for everyone. We agree to give dashboards 101 one more careful look this week. In the meeting drill, Maria says, \"Unsubscribe from five lists.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Notification diet.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "午夜告警：一小时内行数变成三倍。指南里现在有关于分流服务的简短章节。我把一致性哈希关联到工单上，免得遗漏。评审时，我们花了十分钟在人人 SQL上。我们说好这周再把看板入门仔细看一次。脱稿演练：Leo问：\"退订五个邮件列表。\"我回答：\"通知瘦身计划。\"Leo收束：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "午夜告警：一小时内行数变成三倍。指南里现在有关于分流服务的简短章节。我把一致性哈希关联到工单上，免得遗漏。评审时，我们花了十分钟在人人 SQL上。我们说好这周再把看板入门仔细看一次。会议演练中，Maria说：\"退订五个邮件列表。\"之后我们换角色再练一遍。会议演练中，Priya说：\"通知瘦身计划。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "assignment service",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "A partner script, not a miracle; the duplicate spike detector earns its keep. Meeting rehearsal: Leo opens, \"The inbox zero myth.\" I respond, \"Feed curation is self care.\" and Leo confirms, \"Keep practising, it is working.\" While the details are fresh, I write down the event tracking contract. I compare my notes about the real time experiment metrics with Priya's. In today's standup, I mention the metrics glossary workshop and what comes next. Priya suggests a cleaner way to think about the query parameter warning. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "A partner script, not a miracle; the duplicate spike detector earns its keep. Meeting rehearsal: Leo opens, \"The inbox zero myth.\" I respond, \"Feed curation is self care.\" and Leo confirms, \"Keep practising, it is working.\" While the details are fresh, I write down the event tracking contract. I compare my notes about the real time experiment metrics with Priya's. In today's standup, I mention the metrics glossary workshop and what comes next. Priya suggests a cleaner way to think about the query parameter warning. I close the ticket with a clear result and one lesson for next time.",
+   "en": "A partner script, not a miracle; the duplicate spike detector earns its keep. In the meeting drill, Maria says, \"The inbox zero myth.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Feed curation is self care.\" After that, we swap roles and run it again. While the details are fresh, I write down the event tracking contract. I compare my notes about the real time experiment metrics with Priya's. In today's standup, I mention the metrics glossary workshop and what comes next. Priya suggests a cleaner way to think about the query parameter warning. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "A partner script, not a miracle; the duplicate spike detector earns its keep. In the meeting drill, Maria says, \"The inbox zero myth.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Feed curation is self care.\" After that, we swap roles and run it again. While the details are fresh, I write down the event tracking contract. I compare my notes about the real time experiment metrics with Priya's. In today's standup, I mention the metrics glossary workshop and what comes next. Priya suggests a cleaner way to think about the query parameter warning. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "是合作方的脚本，不是奇迹；重复激增检测器证明了自己的价值。会议彩排：Leo开场：\"收件箱归零的神话。\"我回应：\"信息流精选是自我关怀。\"Leo确认道：\"继续练，有效果了。\"趁细节还新鲜，我把事件埋点契约写了下来。我把关于实时实验指标的笔记和 Priya 的对照了一下。今天的站会上，我提到指标术语工作坊和接下来的安排。Priya 提出了一个更清晰的查询参数警告思考方式。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "是合作方的脚本，不是奇迹；重复激增检测器证明了自己的价值。会议演练中，Maria说：\"收件箱归零的神话。\"之后我们换角色再练一遍。会议演练中，Priya说：\"信息流精选是自我关怀。\"之后我们换角色再练一遍。趁细节还新鲜，我把事件埋点契约写了下来。我把关于实时实验指标的笔记和 Priya 的对照了一下。今天的站会上，我提到指标术语工作坊和接下来的安排。Priya 提出了一个更清晰的查询参数警告思考方式。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "event tracking contract",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the examples over theory. I connect the office hour signup to the ticket so nothing gets lost. At the review, we spend ten minutes on the experiment flag cleanup. We agree to give the guardrail dashboard one more careful look this week. Pair run: Priya starts, \"One news app, once a day.\" I follow, \"Attention is the budget.\" and Priya replies, \"Good point — use it in the standup.\" Monitors are night watchers who never blink.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the examples over theory. I connect the office hour signup to the ticket so nothing gets lost. At the review, we spend ten minutes on the experiment flag cleanup. We agree to give the guardrail dashboard one more careful look this week. Pair run: Priya starts, \"One news app, once a day.\" I follow, \"Attention is the budget.\" and Priya replies, \"Good point — use it in the standup.\" Monitors are night watchers who never blink.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the examples over theory. I connect the office hour signup to the ticket so nothing gets lost. At the review, we spend ten minutes on the experiment flag cleanup. We agree to give the guardrail dashboard one more careful look this week. In the meeting drill, Leo says, \"One news app, once a day.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Attention is the budget.\" After that, we swap roles and run it again. Monitors are night watchers who never blink.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. The guide now has a short section on the examples over theory. I connect the office hour signup to the ticket so nothing gets lost. At the review, we spend ten minutes on the experiment flag cleanup. We agree to give the guardrail dashboard one more careful look this week. In the meeting drill, Leo says, \"One news app, once a day.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Attention is the budget.\" After that, we swap roles and run it again. Monitors are night watchers who never blink.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于例子先于理论的简短章节。我把答疑预约表关联到工单上，免得遗漏。评审时，我们花了十分钟在实验开关清理上。我们说好这周再把护栏面板仔细看一次。结对演练：Priya起头：\"一个新闻应用\"我跟上：\"注意力才是预算。\"Priya回应：\"说得好——站会上就用它。\"监控是永不眨眼的守夜人。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。指南里现在有关于例子先于理论的简短章节。我把答疑预约表关联到工单上，免得遗漏。评审时，我们花了十分钟在实验开关清理上。我们说好这周再把护栏面板仔细看一次。会议演练中，Leo说：\"一个新闻应用\"之后我们换角色再练一遍。会议演练中，Maria说：\"注意力才是预算。\"之后我们换角色再练一遍。监控是永不眨眼的守夜人。",
    "hard": [
     {
      "w": "experiment flag cleanup",

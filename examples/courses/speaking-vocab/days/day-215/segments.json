@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 321,
+   "word_count": 368,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Connection pool sizing was a guess from two years ago. The team names one clear owner for the l1 cache line. We spend the first ten minutes of the review on the write through cache. I add the cache key convention to the meeting agenda with three supporting facts. I compare two views on the ttl review and write both down honestly. Practice debate: Leo argues, \"The hallway table is my L1 cache.\" I respond calmly, \"Frequently used, frequently near.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Connection pool sizing was a guess from two years ago. The team names one clear owner for the l1 cache line. We spend the first ten minutes of the review on the write through cache. I add the cache key convention to the meeting agenda with three supporting facts. I compare two views on the ttl review and write both down honestly. Practice debate: Leo argues, \"The hallway table is my L1 cache.\" I respond calmly, \"Frequently used, frequently near.\" and Leo concedes, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Connection pool sizing was a guess from two years ago. The team names one clear owner for the l1 cache line. We spend the first ten minutes of the review on the write through cache. I add the cache key convention to the meeting agenda with three supporting facts. I compare two views on the ttl review and write both down honestly. In the review drill, Maria says, \"The hallway table is my L1 cache.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Frequently used, frequently near.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Connection pool sizing was a guess from two years ago. The team names one clear owner for the l1 cache line. We spend the first ten minutes of the review on the write through cache. I add the cache key convention to the meeting agenda with three supporting facts. I compare two views on the ttl review and write both down honestly. In the review drill, Maria says, \"The hallway table is my L1 cache.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Frequently used, frequently near.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "连接池大小是两年前的一个猜测。团队为一级缓存行指定了明确的负责人。评审的前十分钟，我们都用在了写穿缓存上。我把缓存键约定连同三条支撑事实加进了议程。我比较了关于TTL 评审的两种观点，诚实地都记了下来。练习辩论：Leo主张：\"玄关桌是我的缓存。\"我平静地回应：\"常用的放近处。\"Leo承认道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "连接池大小是两年前的一个猜测。团队为一级缓存行指定了明确的负责人。评审的前十分钟，我们都用在了写穿缓存上。我把缓存键约定连同三条支撑事实加进了议程。我比较了关于TTL 评审的两种观点，诚实地都记了下来。评审演练中，Maria说：\"玄关桌是我的缓存。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"常用的放近处。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "l1 cache line",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We tune the pool sizes with real traffic numbers, and the timeouts vanish. Mock review: Leo probes, \"The junk drawer is negative caching.\" I answer from memory, \"I batch my fetches to the garage.\" and Leo confirms, \"That is the level we need.\" During the design review, I raise one careful question about the write back cache. Our mentor walks me through how the hit rate dashboard evolved on this team. Before deciding, I reread my notes about the cache stampede test twice. I prepare a one-page brief about the warmup job schedule so meetings start from facts. We end the week with something shipped and something properly learned this time.",
-   "tts": "We tune the pool sizes with real traffic numbers, and the timeouts vanish. Mock review: Leo probes, \"The junk drawer is negative caching.\" I answer from memory, \"I batch my fetches to the garage.\" and Leo confirms, \"That is the level we need.\" During the design review, I raise one careful question about the write back cache. Our mentor walks me through how the hit rate dashboard evolved on this team. Before deciding, I reread my notes about the cache stampede test twice. I prepare a one-page brief about the warmup job schedule so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "en": "We tune the pool sizes with real traffic numbers, and the timeouts vanish. In the review drill, Maria says, \"The junk drawer is negative caching.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"I batch my fetches to the garage.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the write back cache. Our mentor walks me through how the hit rate dashboard evolved on this team. Before deciding, I reread my notes about the cache stampede test twice. I prepare a one-page brief about the warmup job schedule so meetings start from facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "We tune the pool sizes with real traffic numbers, and the timeouts vanish. In the review drill, Maria says, \"The junk drawer is negative caching.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"I batch my fetches to the garage.\" We swap roles so I ask the questions this time. During the design review, I raise one careful question about the write back cache. Our mentor walks me through how the hit rate dashboard evolved on this team. Before deciding, I reread my notes about the cache stampede test twice. I prepare a one-page brief about the warmup job schedule so meetings start from facts. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们用真实流量数字调整池子大小，超时集体消失。模拟评审：Leo追问：\"杂物抽屉是负缓存。\"我凭记忆回答：\"去车库拿东西按批拿。\"Leo确认：\"我们要的就是这个水平。\"设计评审中，我就写回缓存提出了一个审慎的问题。导师带我梳理了命中率看板在这个团队里的演变。做决定之前，我把关于击穿测试的笔记重读了两遍。我准备了一页关于预热任务排期的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "我们用真实流量数字调整池子大小，超时集体消失。评审演练中，Maria说：\"杂物抽屉是负缓存。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"去车库拿东西按批拿。\"我们互换角色，这次由我来提问。设计评审中，我就写回缓存提出了一个审慎的问题。导师带我梳理了命中率看板在这个团队里的演变。做决定之前，我把关于击穿测试的笔记重读了两遍。我准备了一页关于预热任务排期的简报，好让会议从事实出发。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "write back cache",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the eviction metrics. We spend the first ten minutes of the review on the double delete pattern. I add the cache stampede to the meeting agenda with three supporting facts. I compare two views on the negative caching and write both down honestly. Review warm-up: Priya raises, \"Cache invalidation at spring cleaning.\" I answer, \"Hit rate high, steps saved.\" and Priya grades it, \"Strong answer — keep that precision.\" A queue you sized yourself is a queue you can reason about.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the eviction metrics. We spend the first ten minutes of the review on the double delete pattern. I add the cache stampede to the meeting agenda with three supporting facts. I compare two views on the negative caching and write both down honestly. Review warm-up: Priya raises, \"Cache invalidation at spring cleaning.\" I answer, \"Hit rate high, steps saved.\" and Priya grades it, \"Strong answer — keep that precision.\" A queue you sized yourself is a queue you can reason about.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the eviction metrics. We spend the first ten minutes of the review on the double delete pattern. I add the cache stampede to the meeting agenda with three supporting facts. I compare two views on the negative caching and write both down honestly. In the review drill, Leo says, \"Cache invalidation at spring cleaning.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Hit rate high, steps saved.\" We swap roles so I ask the questions this time. A queue you sized yourself is a queue you can reason about.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. The team names one clear owner for the eviction metrics. We spend the first ten minutes of the review on the double delete pattern. I add the cache stampede to the meeting agenda with three supporting facts. I compare two views on the negative caching and write both down honestly. In the review drill, Leo says, \"Cache invalidation at spring cleaning.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Hit rate high, steps saved.\" We swap roles so I ask the questions this time. A queue you sized yourself is a queue you can reason about.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为淘汰指标指定了明确的负责人。评审的前十分钟，我们都用在了双删模式上。我把缓存击穿连同三条支撑事实加进了议程。我比较了关于负缓存的两种观点，诚实地都记了下来。评审热身：Priya抛出：\"大扫除就是缓存失效。\"我带着数字回答：\"命中率高\"Priya点评道：\"回答有力——保持这种精确。\"自己算出来的队列，才是看得懂的队列。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。团队为淘汰指标指定了明确的负责人。评审的前十分钟，我们都用在了双删模式上。我把缓存击穿连同三条支撑事实加进了议程。我比较了关于负缓存的两种观点，诚实地都记了下来。评审演练中，Leo说：\"大扫除就是缓存失效。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"命中率高\"我们互换角色，这次由我来提问。自己算出来的队列，才是看得懂的队列。",
    "hard": [
     {
      "w": "cache stampede",

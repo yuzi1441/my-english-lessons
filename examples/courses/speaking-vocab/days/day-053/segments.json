@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 274,
+   "word_count": 315,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "First paint feels slow on old phones. I spend ten quiet minutes on the bundle size after the standup. I add the minify to my study notes before I forget it. There is a short paragraph about the push protection in the guide. I ask one good question about the dependency review in the meeting. We practise the dialogue: Leo opens, \"I started running again.\" I answer, \"I do stretches every morning.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "First paint feels slow on old phones. I spend ten quiet minutes on the bundle size after the standup. I add the minify to my study notes before I forget it. There is a short paragraph about the push protection in the guide. I ask one good question about the dependency review in the meeting. We practise the dialogue: Leo opens, \"I started running again.\" I answer, \"I do stretches every morning.\" and Leo nods, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "First paint feels slow on old phones. I spend ten quiet minutes on the bundle size after the standup. I add the minify to my study notes before I forget it. There is a short paragraph about the push protection in the guide. I ask one good question about the dependency review in the meeting. In the warm-up round, Maria says, \"I started running again.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I do stretches every morning.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "First paint feels slow on old phones. I spend ten quiet minutes on the bundle size after the standup. I add the minify to my study notes before I forget it. There is a short paragraph about the push protection in the guide. I ask one good question about the dependency review in the meeting. In the warm-up round, Maria says, \"I started running again.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I do stretches every morning.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "旧手机上的首次绘制感觉很慢。站会之后，我安安静静花了十分钟在包体积上。我趁还没忘，把压缩混淆记进了学习笔记。指南里有一小段关于推送保护的介绍。会上关于依赖审查，我问了一个好问题。我们练习这段对话：Leo开场：\"我又开始跑步了。\"我回答：\"我每天早上拉伸。\"Leo点头说：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "旧手机上的首次绘制感觉很慢。站会之后，我安安静静花了十分钟在包体积上。我趁还没忘，把压缩混淆记进了学习笔记。指南里有一小段关于推送保护的介绍。会上关于依赖审查，我问了一个好问题。热身环节里，Maria说：\"我又开始跑步了。\"然后我们换角色，由我来问。热身环节里，Priya说：\"我每天早上拉伸。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "bundle size",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Code splitting and lazy load cut the bundle size in half. Role play with feedback: Leo says, \"The gym is packed after work.\" I try, \"I prefer swimming.\" and Leo adds, \"Nice, keep that one handy.\" I keep one real example of tree shaking in my notebook. I go over the source map one more time before lunch. My notes about the license scan look clearer this week. Sam asks me about the vulnerable version, and I explain the basics. I end the day with fewer unknowns than I started with.",
-   "tts": "Code splitting and lazy load cut the bundle size in half. Role play with feedback: Leo says, \"The gym is packed after work.\" I try, \"I prefer swimming.\" and Leo adds, \"Nice, keep that one handy.\" I keep one real example of tree shaking in my notebook. I go over the source map one more time before lunch. My notes about the license scan look clearer this week. Sam asks me about the vulnerable version, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "en": "Code splitting and lazy load cut the bundle size in half. In the warm-up round, Maria says, \"The gym is packed after work.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I prefer swimming.\" Then we swap roles and I ask it back. I keep one real example of tree shaking in my notebook. I go over the source map one more time before lunch. My notes about the license scan look clearer this week. Sam asks me about the vulnerable version, and I explain the basics. I end the day with fewer unknowns than I started with.",
+   "tts": "Code splitting and lazy load cut the bundle size in half. In the warm-up round, Maria says, \"The gym is packed after work.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"I prefer swimming.\" Then we swap roles and I ask it back. I keep one real example of tree shaking in my notebook. I go over the source map one more time before lunch. My notes about the license scan look clearer this week. Sam asks me about the vulnerable version, and I explain the basics. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "代码分割和懒加载把包体积砍掉了一半。角色扮演加反馈：Leo说：\"下班后健身房人很多。\"我试着说：\"我更喜欢游泳。\"Leo补充道：\"不错，把这句记在手边。\"我在笔记本里留了一个摇树优化的真实例子。午饭前我又过了一遍源码映射。这周我关于许可证扫描的笔记清楚多了。Sam 问起含漏洞版本，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "代码分割和懒加载把包体积砍掉了一半。热身环节里，Maria说：\"下班后健身房人很多。\"然后我们换角色，由我来问。热身环节里，Priya说：\"我更喜欢游泳。\"然后我们换角色，由我来问。我在笔记本里留了一个摇树优化的真实例子。午饭前我又过了一遍源码映射。这周我关于许可证扫描的笔记清楚多了。Sam 问起含漏洞版本，我讲了讲基础。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "tree shaking",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the patch level after the standup. I add the security policy file to my study notes before I forget it. There is a short paragraph about code splitting in the guide. I ask one good question about the gzip compression in the meeting. Warm-up round: Priya offers, \"My step count is up.\" I answer, \"Rest days matter too.\" and Priya wraps up, \"Good — try it in today’s task.\" Every kilobyte is a user waiting.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the patch level after the standup. I add the security policy file to my study notes before I forget it. There is a short paragraph about code splitting in the guide. I ask one good question about the gzip compression in the meeting. Warm-up round: Priya offers, \"My step count is up.\" I answer, \"Rest days matter too.\" and Priya wraps up, \"Good — try it in today’s task.\" Every kilobyte is a user waiting.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the patch level after the standup. I add the security policy file to my study notes before I forget it. There is a short paragraph about code splitting in the guide. I ask one good question about the gzip compression in the meeting. In the warm-up round, Leo says, \"My step count is up.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Rest days matter too.\" Then we swap roles and I ask it back. Every kilobyte is a user waiting.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the patch level after the standup. I add the security policy file to my study notes before I forget it. There is a short paragraph about code splitting in the guide. I ask one good question about the gzip compression in the meeting. In the warm-up round, Leo says, \"My step count is up.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Rest days matter too.\" Then we swap roles and I ask it back. Every kilobyte is a user waiting.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在补丁级别上。我趁还没忘，把安全政策文件记进了学习笔记。指南里有一小段关于代码分割的介绍。会上关于gzip 压缩，我问了一个好问题。热身一轮：Priya给出：\"我的步数涨了。\"我回答：\"休息日同样重要。\"Priya收尾道：\"好——今天的任务里就用上。\"每一千字节都是一位等待中的用户。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在补丁级别上。我趁还没忘，把安全政策文件记进了学习笔记。指南里有一小段关于代码分割的介绍。会上关于gzip 压缩，我问了一个好问题。热身环节里，Leo说：\"我的步数涨了。\"然后我们换角色，由我来问。热身环节里，Maria说：\"休息日同样重要。\"然后我们换角色，由我来问。每一千字节都是一位等待中的用户。",
    "hard": [
     {
      "w": "code splitting",

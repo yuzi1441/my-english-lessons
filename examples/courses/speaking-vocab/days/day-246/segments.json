@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 325,
+   "word_count": 371,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "The company rolls out passkeys, opt in first. I add the zero trust architecture to the meeting agenda with three supporting facts. The team names one clear owner for the verify explicitly rule. Our mentor walks me through how the jit approval flow evolved on this team. We spend the first ten minutes of the review on the standing access report. Review warm-up: Priya raises, \"Verified guests get wifi, not keys.\" I answer, \"Trust is verified, not assumed.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
-   "tts": "The company rolls out passkeys, opt in first. I add the zero trust architecture to the meeting agenda with three supporting facts. The team names one clear owner for the verify explicitly rule. Our mentor walks me through how the jit approval flow evolved on this team. We spend the first ten minutes of the review on the standing access report. Review warm-up: Priya raises, \"Verified guests get wifi, not keys.\" I answer, \"Trust is verified, not assumed.\" and Priya grades it, \"Strong answer — keep that precision.\" We end the week with something shipped and something properly learned this time.",
+   "en": "The company rolls out passkeys, opt in first. I add the zero trust architecture to the meeting agenda with three supporting facts. The team names one clear owner for the verify explicitly rule. Our mentor walks me through how the jit approval flow evolved on this team. We spend the first ten minutes of the review on the standing access report. In the review drill, Leo says, \"Verified guests get wifi, not keys.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Trust is verified, not assumed.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
+   "tts": "The company rolls out passkeys, opt in first. I add the zero trust architecture to the meeting agenda with three supporting facts. The team names one clear owner for the verify explicitly rule. Our mentor walks me through how the jit approval flow evolved on this team. We spend the first ten minutes of the review on the standing access report. In the review drill, Leo says, \"Verified guests get wifi, not keys.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Trust is verified, not assumed.\" We swap roles so I ask the questions this time. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "公司推广通行密钥，先自愿。我把零信任架构连同三条支撑事实加进了议程。团队为显式验证原则指定了明确的负责人。导师带我梳理了即时授权流程在这个团队里的演变。评审的前十分钟，我们都用在了常驻权限报告上。评审热身：Priya抛出：\"访客有 Wi-Fi 没有钥匙。\"我带着数字回答：\"信任是验证出来的。\"Priya点评道：\"回答有力——保持这种精确。\"这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "公司推广通行密钥，先自愿。我把零信任架构连同三条支撑事实加进了议程。团队为显式验证原则指定了明确的负责人。导师带我梳理了即时授权流程在这个团队里的演变。评审的前十分钟，我们都用在了常驻权限报告上。评审演练中，Leo说：\"访客有 Wi-Fi 没有钥匙。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"信任是验证出来的。\"我们互换角色，这次由我来提问。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "zero trust architecture",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My hardware key gets a tiny red ribbon; it looks official now. Dry run: Priya opens, \"The delivery door rule.\" I follow, \"Repairs need appointment plus id.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" Before deciding, I reread my notes about the least standing access twice. During the design review, I raise one careful question about the just in time access. I compare two views on the posture check integration and write both down honestly. I prepare a one-page brief about the step up auth for prod so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "My hardware key gets a tiny red ribbon; it looks official now. Dry run: Priya opens, \"The delivery door rule.\" I follow, \"Repairs need appointment plus id.\" plus one proposal, and Priya accepts, \"Strong answer — keep that precision.\" Before deciding, I reread my notes about the least standing access twice. During the design review, I raise one careful question about the just in time access. I compare two views on the posture check integration and write both down honestly. I prepare a one-page brief about the step up auth for prod so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "My hardware key gets a tiny red ribbon; it looks official now. In the review drill, Leo says, \"The delivery door rule.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Repairs need appointment plus id.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the least standing access twice. During the design review, I raise one careful question about the just in time access. I compare two views on the posture check integration and write both down honestly. I prepare a one-page brief about the step up auth for prod so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "My hardware key gets a tiny red ribbon; it looks official now. In the review drill, Leo says, \"The delivery door rule.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Repairs need appointment plus id.\" We swap roles so I ask the questions this time. Before deciding, I reread my notes about the least standing access twice. During the design review, I raise one careful question about the just in time access. I compare two views on the posture check integration and write both down honestly. I prepare a one-page brief about the step up auth for prod so meetings start from facts. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我的硬件钥匙系上了小红丝带，看起来正式极了。干跑演练：Priya开场：\"快递只到门口。\"我接上：\"维修要预约加证件。\"外加一个提案，Priya接受道：\"回答有力——保持这种精确。\"做决定之前，我把关于最小常驻权限的笔记重读了两遍。设计评审中，我就即时访问权限提出了一个审慎的问题。我比较了关于设备状态检查集成的两种观点，诚实地都记了下来。我准备了一页关于生产环境二次验证的简报，好让会议从事实出发。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我的硬件钥匙系上了小红丝带，看起来正式极了。评审演练中，Leo说：\"快递只到门口。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"维修要预约加证件。\"我们互换角色，这次由我来提问。做决定之前，我把关于最小常驻权限的笔记重读了两遍。设计评审中，我就即时访问权限提出了一个审慎的问题。我比较了关于设备状态检查集成的两种观点，诚实地都记了下来。我准备了一页关于生产环境二次验证的简报，好让会议从事实出发。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "least standing access",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the session length policy to the meeting agenda with three supporting facts. The team names one clear owner for the trust level label. Our mentor walks me through how the short lived credential evolved on this team. We spend the first ten minutes of the review on the device posture check. Practice debate: Maria argues, \"Strangers in the lobby get help, not access.\" I respond calmly, \"Everyone badges in, even family.\" and Maria concedes, \"Agreed, note it in the ticket.\" Password day was quieter than anyone expected.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the session length policy to the meeting agenda with three supporting facts. The team names one clear owner for the trust level label. Our mentor walks me through how the short lived credential evolved on this team. We spend the first ten minutes of the review on the device posture check. Practice debate: Maria argues, \"Strangers in the lobby get help, not access.\" I respond calmly, \"Everyone badges in, even family.\" and Maria concedes, \"Agreed, note it in the ticket.\" Password day was quieter than anyone expected.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the session length policy to the meeting agenda with three supporting facts. The team names one clear owner for the trust level label. Our mentor walks me through how the short lived credential evolved on this team. We spend the first ten minutes of the review on the device posture check. In the review drill, Priya says, \"Strangers in the lobby get help, not access.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Everyone badges in, even family.\" We swap roles so I ask the questions this time. Password day was quieter than anyone expected.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. I add the session length policy to the meeting agenda with three supporting facts. The team names one clear owner for the trust level label. Our mentor walks me through how the short lived credential evolved on this team. We spend the first ten minutes of the review on the device posture check. In the review drill, Priya says, \"Strangers in the lobby get help, not access.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Everyone badges in, even family.\" We swap roles so I ask the questions this time. Password day was quieter than anyone expected.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把会话时长策略连同三条支撑事实加进了议程。团队为信任等级标签指定了明确的负责人。导师带我梳理了短时凭证在这个团队里的演变。评审的前十分钟，我们都用在了设备状态检查上。练习辩论：Maria主张：\"大堂里的陌生人得到帮助而非通行。\"我平静地回应：\"进楼人人刷卡\"Maria承认道：\"同意，把这条记到工单里。\"告别密码的那天，比所有人预想的都安静。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。我把会话时长策略连同三条支撑事实加进了议程。团队为信任等级标签指定了明确的负责人。导师带我梳理了短时凭证在这个团队里的演变。评审的前十分钟，我们都用在了设备状态检查上。评审演练中，Priya说：\"大堂里的陌生人得到帮助而非通行。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"进楼人人刷卡\"我们互换角色，这次由我来提问。告别密码的那天，比所有人预想的都安静。",
    "hard": [
     {
      "w": "short lived credential",

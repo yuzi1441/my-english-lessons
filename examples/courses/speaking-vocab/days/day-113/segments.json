@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 286,
+   "word_count": 327,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We invite imaginary crowds to a Friday load test. I go over the availability number one more time before lunch. I spend ten quiet minutes on the planned maintenance after the standup. I keep one real example of the release readiness in my notebook. I ask one good question about the sign-off checklist in the meeting. Warm-up round: Leo offers, \"I take stairs to floor three.\" I answer, \"Elevator small talk is an art.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
-   "tts": "We invite imaginary crowds to a Friday load test. I go over the availability number one more time before lunch. I spend ten quiet minutes on the planned maintenance after the standup. I keep one real example of the release readiness in my notebook. I ask one good question about the sign-off checklist in the meeting. Warm-up round: Leo offers, \"I take stairs to floor three.\" I answer, \"Elevator small talk is an art.\" and Leo wraps up, \"Nice, keep that one handy.\" The task moves forward, and so does my confidence.",
+   "en": "We invite imaginary crowds to a Friday load test. I go over the availability number one more time before lunch. I spend ten quiet minutes on the planned maintenance after the standup. I keep one real example of the release readiness in my notebook. I ask one good question about the sign-off checklist in the meeting. In the warm-up round, Maria says, \"I take stairs to floor three.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Elevator small talk is an art.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
+   "tts": "We invite imaginary crowds to a Friday load test. I go over the availability number one more time before lunch. I spend ten quiet minutes on the planned maintenance after the standup. I keep one real example of the release readiness in my notebook. I ask one good question about the sign-off checklist in the meeting. In the warm-up round, Maria says, \"I take stairs to floor three.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Elevator small talk is an art.\" Then we swap roles and I ask it back. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "周五的负载测试请来了想象中的人山人海。午饭前我又过了一遍可用性数字。站会之后，我安安静静花了十分钟在计划维护上。我在笔记本里留了一个发布就绪的真实例子。会上关于签字清单，我问了一个好问题。热身一轮：Leo给出：\"到三楼我走楼梯。\"我回答：\"电梯寒暄是门艺术。\"Leo收尾道：\"不错，把这句记在手边。\"任务在推进，我的信心也在成长。",
+   "zh": "周五的负载测试请来了想象中的人山人海。午饭前我又过了一遍可用性数字。站会之后，我安安静静花了十分钟在计划维护上。我在笔记本里留了一个发布就绪的真实例子。会上关于签字清单，我问了一个好问题。热身环节里，Maria说：\"到三楼我走楼梯。\"然后我们换角色，由我来问。热身环节里，Priya说：\"电梯寒暄是门艺术。\"然后我们换角色，由我来问。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "availability number",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Ramp up slowly, watch the latency target, and stop before the neighbors complain. Role play with feedback: Leo says, \"Stairwell workouts count.\" I try, \"The slow elevator lesson.\" and Leo adds, \"Nice, keep that one handy.\" There is a short paragraph about the degradation notice in the guide. Sam asks me about the regional failover, and I explain the basics. My notes about the go/no-go criteria look clearer this week. I add the launch commander to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
-   "tts": "Ramp up slowly, watch the latency target, and stop before the neighbors complain. Role play with feedback: Leo says, \"Stairwell workouts count.\" I try, \"The slow elevator lesson.\" and Leo adds, \"Nice, keep that one handy.\" There is a short paragraph about the degradation notice in the guide. Sam asks me about the regional failover, and I explain the basics. My notes about the go/no-go criteria look clearer this week. I add the launch commander to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "en": "Ramp up slowly, watch the latency target, and stop before the neighbors complain. In the warm-up round, Maria says, \"Stairwell workouts count.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"The slow elevator lesson.\" Then we swap roles and I ask it back. There is a short paragraph about the degradation notice in the guide. Sam asks me about the regional failover, and I explain the basics. My notes about the go/no-go criteria look clearer this week. I add the launch commander to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
+   "tts": "Ramp up slowly, watch the latency target, and stop before the neighbors complain. In the warm-up round, Maria says, \"Stairwell workouts count.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"The slow elevator lesson.\" Then we swap roles and I ask it back. There is a short paragraph about the degradation notice in the guide. Sam asks me about the regional failover, and I explain the basics. My notes about the go/no-go criteria look clearer this week. I add the launch commander to my study notes before I forget it. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "逐步加压，盯住延迟目标，在邻居投诉前收手。角色扮演加反馈：Leo说：\"爬楼梯也算锻炼。\"我试着说：\"慢电梯教你耐心。\"Leo补充道：\"不错，把这句记在手边。\"指南里有一小段关于降级公告的介绍。Sam 问起区域切换，我讲了讲基础。这周我关于放行标准的笔记清楚多了。我趁还没忘，把发布指挥记进了学习笔记。这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "逐步加压，盯住延迟目标，在邻居投诉前收手。热身环节里，Maria说：\"爬楼梯也算锻炼。\"然后我们换角色，由我来问。热身环节里，Priya说：\"慢电梯教你耐心。\"然后我们换角色，由我来问。指南里有一小段关于降级公告的介绍。Sam 问起区域切换，我讲了讲基础。这周我关于放行标准的笔记清楚多了。我趁还没忘，把发布指挥记进了学习笔记。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "degradation notice",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the comms owner one more time before lunch. I spend ten quiet minutes on the rollback owner after the standup. I keep one real example of the balancer health check in my notebook. I ask one good question about the duplicate detection in the meeting. We drill it twice: Priya starts, \"Mirror checks in the lift.\" I reply, \"The ground floor smells like coffee.\" then Priya smiles, \"Good — try it in today’s task.\" The capacity report is a promise with numbers in it.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the comms owner one more time before lunch. I spend ten quiet minutes on the rollback owner after the standup. I keep one real example of the balancer health check in my notebook. I ask one good question about the duplicate detection in the meeting. We drill it twice: Priya starts, \"Mirror checks in the lift.\" I reply, \"The ground floor smells like coffee.\" then Priya smiles, \"Good — try it in today’s task.\" The capacity report is a promise with numbers in it.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I go over the comms owner one more time before lunch. I spend ten quiet minutes on the rollback owner after the standup. I keep one real example of the balancer health check in my notebook. I ask one good question about the duplicate detection in the meeting. In the warm-up round, Leo says, \"Mirror checks in the lift.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The ground floor smells like coffee.\" Then we swap roles and I ask it back. The capacity report is a promise with numbers in it.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I go over the comms owner one more time before lunch. I spend ten quiet minutes on the rollback owner after the standup. I keep one real example of the balancer health check in my notebook. I ask one good question about the duplicate detection in the meeting. In the warm-up round, Leo says, \"Mirror checks in the lift.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The ground floor smells like coffee.\" Then we swap roles and I ask it back. The capacity report is a promise with numbers in it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍沟通负责人。站会之后，我安安静静花了十分钟在回滚负责人上。我在笔记本里留了一个均衡健康检查的真实例子。会上关于重复检测，我问了一个好问题。我们练了两遍：Priya起头：\"电梯里整理衣领。\"我回答：\"一楼有咖啡香。\"然后Priya笑着说：\"好——今天的任务里就用上。\"容量报告是一份写着数字的承诺。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。午饭前我又过了一遍沟通负责人。站会之后，我安安静静花了十分钟在回滚负责人上。我在笔记本里留了一个均衡健康检查的真实例子。会上关于重复检测，我问了一个好问题。热身环节里，Leo说：\"电梯里整理衣领。\"然后我们换角色，由我来问。热身环节里，Maria说：\"一楼有咖啡香。\"然后我们换角色，由我来问。容量报告是一份写着数字的承诺。",
    "hard": [
     {
      "w": "balancer health check",

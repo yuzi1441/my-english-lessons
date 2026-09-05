@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 273,
+   "word_count": 311,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A user asks for less movement on screen. Sam asks me about the transition, and I explain the basics. I spend ten quiet minutes on the keyframe after the standup. I go over the release channel one more time before lunch. My notes about the nightly build look clearer this week. We drill it twice: Maria starts, \"It's okay to feel that way.\" I reply, \"You're not alone in this.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "A user asks for less movement on screen. Sam asks me about the transition, and I explain the basics. I spend ten quiet minutes on the keyframe after the standup. I go over the release channel one more time before lunch. My notes about the nightly build look clearer this week. We drill it twice: Maria starts, \"It's okay to feel that way.\" I reply, \"You're not alone in this.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "A user asks for less movement on screen. Sam asks me about the transition, and I explain the basics. I spend ten quiet minutes on the keyframe after the standup. I go over the release channel one more time before lunch. My notes about the nightly build look clearer this week. In the warm-up round, Priya says, \"It's okay to feel that way.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"You're not alone in this.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "A user asks for less movement on screen. Sam asks me about the transition, and I explain the basics. I spend ten quiet minutes on the keyframe after the standup. I go over the release channel one more time before lunch. My notes about the nightly build look clearer this week. In the warm-up round, Priya says, \"It's okay to feel that way.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"You're not alone in this.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一位用户希望屏幕上的动效少一点。Sam 问起过渡，我讲了讲基础。站会之后，我安安静静花了十分钟在关键帧上。午饭前我又过了一遍发布通道。这周我关于每夜构建的笔记清楚多了。我们练了两遍：Maria起头：\"有这种感觉很正常。\"我回答：\"在这件事上你不是一个人。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "一位用户希望屏幕上的动效少一点。Sam 问起过渡，我讲了讲基础。站会之后，我安安静静花了十分钟在关键帧上。午饭前我又过了一遍发布通道。这周我关于每夜构建的笔记清楚多了。热身环节里，Priya说：\"有这种感觉很正常。\"然后我们换角色，由我来问。热身环节里，Leo说：\"在这件事上你不是一个人。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "transition",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We respect reduced motion, and the app becomes calmer for everyone. Role play with feedback: Maria says, \"Take a breath.\" I try, \"It'll look different tomorrow.\" and Maria adds, \"That is the one we need today.\" There is a short paragraph about the easing in the guide. I ask one good question about the frame rate in the meeting. I keep one real example of the beta program in my notebook. I add the stable channel to my study notes before I forget it. The task moves forward, and so does my confidence.",
-   "tts": "We respect reduced motion, and the app becomes calmer for everyone. Role play with feedback: Maria says, \"Take a breath.\" I try, \"It'll look different tomorrow.\" and Maria adds, \"That is the one we need today.\" There is a short paragraph about the easing in the guide. I ask one good question about the frame rate in the meeting. I keep one real example of the beta program in my notebook. I add the stable channel to my study notes before I forget it. The task moves forward, and so does my confidence.",
+   "en": "We respect reduced motion, and the app becomes calmer for everyone. In the warm-up round, Priya says, \"Take a breath.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"It'll look different tomorrow.\" Then we swap roles and I ask it back. There is a short paragraph about the easing in the guide. I ask one good question about the frame rate in the meeting. I keep one real example of the beta program in my notebook. I add the stable channel to my study notes before I forget it. The task moves forward, and so does my confidence.",
+   "tts": "We respect reduced motion, and the app becomes calmer for everyone. In the warm-up round, Priya says, \"Take a breath.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"It'll look different tomorrow.\" Then we swap roles and I ask it back. There is a short paragraph about the easing in the guide. I ask one good question about the frame rate in the meeting. I keep one real example of the beta program in my notebook. I add the stable channel to my study notes before I forget it. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们尊重减弱动效的偏好，应用对所有人都变得更安静了。角色扮演加反馈：Maria说：\"先深呼吸一下。\"我试着说：\"明天看待这事会不一样。\"Maria补充道：\"今天要的就是这句。\"指南里有一小段关于缓动的介绍。会上关于帧率，我问了一个好问题。我在笔记本里留了一个测试计划的真实例子。我趁还没忘，把稳定通道记进了学习笔记。任务在推进，我的信心也在成长。",
+   "zh": "我们尊重减弱动效的偏好，应用对所有人都变得更安静了。热身环节里，Priya说：\"先深呼吸一下。\"然后我们换角色，由我来问。热身环节里，Leo说：\"明天看待这事会不一样。\"然后我们换角色，由我来问。指南里有一小段关于缓动的介绍。会上关于帧率，我问了一个好问题。我在笔记本里留了一个测试计划的真实例子。我趁还没忘，把稳定通道记进了学习笔记。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "easing",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the channel switch, and I explain the basics. I spend ten quiet minutes on the rollback a channel after the standup. I go over the reduced motion one more time before lunch. My notes about the entrance animation look clearer this week. We practise the dialogue: Leo opens, \"I'm here if you need me.\" I answer, \"Be gentle with yourself.\" and Leo nods, \"Nice, keep that one handy.\" Accessibility is a feature, not a favor.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the channel switch, and I explain the basics. I spend ten quiet minutes on the rollback a channel after the standup. I go over the reduced motion one more time before lunch. My notes about the entrance animation look clearer this week. We practise the dialogue: Leo opens, \"I'm here if you need me.\" I answer, \"Be gentle with yourself.\" and Leo nods, \"Nice, keep that one handy.\" Accessibility is a feature, not a favor.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the channel switch, and I explain the basics. I spend ten quiet minutes on the rollback a channel after the standup. I go over the reduced motion one more time before lunch. My notes about the entrance animation look clearer this week. In the warm-up round, Maria says, \"I'm here if you need me.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Be gentle with yourself.\" Then we swap roles and I ask it back. Accessibility is a feature, not a favor.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the channel switch, and I explain the basics. I spend ten quiet minutes on the rollback a channel after the standup. I go over the reduced motion one more time before lunch. My notes about the entrance animation look clearer this week. In the warm-up round, Maria says, \"I'm here if you need me.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Be gentle with yourself.\" Then we swap roles and I ask it back. Accessibility is a feature, not a favor.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起通道切换，我讲了讲基础。站会之后，我安安静静花了十分钟在回退通道上。午饭前我又过了一遍减弱动效。这周我关于入场动画的笔记清楚多了。我们练习这段对话：Leo开场：\"需要我随时在。\"我回答：\"对自己温柔一点。\"Leo点头说：\"不错，把这句记在手边。\"无障碍是功能，不是恩惠。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起通道切换，我讲了讲基础。站会之后，我安安静静花了十分钟在回退通道上。午饭前我又过了一遍减弱动效。这周我关于入场动画的笔记清楚多了。热身环节里，Maria说：\"需要我随时在。\"然后我们换角色，由我来问。热身环节里，Priya说：\"对自己温柔一点。\"然后我们换角色，由我来问。无障碍是功能，不是恩惠。",
    "hard": [
     {
      "w": "reduced motion",

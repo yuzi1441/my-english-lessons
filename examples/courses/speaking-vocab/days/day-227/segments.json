@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 302,
+   "word_count": 349,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Every visit re-enacts a font flashing drama. Our mentor walks me through how the radio wake optimization evolved on this team. During the design review, I raise one careful question about the payload compression check. Before deciding, I reread my notes about the sync protocol review twice. I compare two views on the payload size lint and write both down honestly. Review warm-up: Leo raises, \"Downloads wait for hotel wifi.\" I answer, \"Maps cached before departure.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Every visit re-enacts a font flashing drama. Our mentor walks me through how the radio wake optimization evolved on this team. During the design review, I raise one careful question about the payload compression check. Before deciding, I reread my notes about the sync protocol review twice. I compare two views on the payload size lint and write both down honestly. Review warm-up: Leo raises, \"Downloads wait for hotel wifi.\" I answer, \"Maps cached before departure.\" and Leo grades it, \"That is the level we need.\" The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Every visit re-enacts a font flashing drama. Our mentor walks me through how the radio wake optimization evolved on this team. During the design review, I raise one careful question about the payload compression check. Before deciding, I reread my notes about the sync protocol review twice. I compare two views on the payload size lint and write both down honestly. In the review drill, Maria says, \"Downloads wait for hotel wifi.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Maps cached before departure.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Every visit re-enacts a font flashing drama. Our mentor walks me through how the radio wake optimization evolved on this team. During the design review, I raise one careful question about the payload compression check. Before deciding, I reread my notes about the sync protocol review twice. I compare two views on the payload size lint and write both down honestly. In the review drill, Maria says, \"Downloads wait for hotel wifi.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Maps cached before departure.\" We swap roles so I ask the questions this time. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "每次访问都重演字体闪现的闹剧。导师带我梳理了射频唤醒优化在这个团队里的演变。设计评审中，我就负载压缩检查提出了一个审慎的问题。做决定之前，我把关于同步协议评审的笔记重读了两遍。我比较了关于负载体积检查的两种观点，诚实地都记了下来。评审热身：Leo抛出：\"下载等到酒店 Wi-Fi。\"我带着数字回答：\"出发前先缓存地图。\"Leo点评道：\"我们要的就是这个水平。\"风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "每次访问都重演字体闪现的闹剧。导师带我梳理了射频唤醒优化在这个团队里的演变。设计评审中，我就负载压缩检查提出了一个审慎的问题。做决定之前，我把关于同步协议评审的笔记重读了两遍。我比较了关于负载体积检查的两种观点，诚实地都记了下来。评审演练中，Maria说：\"下载等到酒店 Wi-Fi。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"出发前先缓存地图。\"我们互换角色，这次由我来提问。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "radio wake optimization",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Subsetting and swap display end the drama politely. Mock review: Leo probes, \"Messages batch on the train.\" I answer from memory, \"Roaming apps get audited.\" and Leo confirms, \"That is the level we need.\" The team names one clear owner for the sync interval tuning. We spend the first ten minutes of the review on the delta sync. I prepare a one-page brief about the delta format documentation so meetings start from facts. I add the offline conflict policy to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
-   "tts": "Subsetting and swap display end the drama politely. Mock review: Leo probes, \"Messages batch on the train.\" I answer from memory, \"Roaming apps get audited.\" and Leo confirms, \"That is the level we need.\" The team names one clear owner for the sync interval tuning. We spend the first ten minutes of the review on the delta sync. I prepare a one-page brief about the delta format documentation so meetings start from facts. I add the offline conflict policy to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "en": "Subsetting and swap display end the drama politely. In the review drill, Maria says, \"Messages batch on the train.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Roaming apps get audited.\" We swap roles so I ask the questions this time. The team names one clear owner for the sync interval tuning. We spend the first ten minutes of the review on the delta sync. I prepare a one-page brief about the delta format documentation so meetings start from facts. I add the offline conflict policy to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
+   "tts": "Subsetting and swap display end the drama politely. In the review drill, Maria says, \"Messages batch on the train.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Roaming apps get audited.\" We swap roles so I ask the questions this time. The team names one clear owner for the sync interval tuning. We spend the first ten minutes of the review on the delta sync. I prepare a one-page brief about the delta format documentation so meetings start from facts. I add the offline conflict policy to the meeting agenda with three supporting facts. We end the week with something shipped and something properly learned this time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "子集化加交换显示，礼貌地终结了闹剧。模拟评审：Leo追问：\"火车上消息攒着发。\"我凭记忆回答：\"漫游应用要审计。\"Leo确认：\"我们要的就是这个水平。\"团队为同步间隔调优指定了明确的负责人。评审的前十分钟，我们都用在了增量同步上。我准备了一页关于增量格式文档的简报，好让会议从事实出发。我把离线冲突策略连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
+   "zh": "子集化加交换显示，礼貌地终结了闹剧。评审演练中，Maria说：\"火车上消息攒着发。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"漫游应用要审计。\"我们互换角色，这次由我来提问。团队为同步间隔调优指定了明确的负责人。评审的前十分钟，我们都用在了增量同步上。我准备了一页关于增量格式文档的简报，好让会议从事实出发。我把离线冲突策略连同三条支撑事实加进了议程。这一周结束时，我们交付了东西，这次也真正学到了东西。",
    "hard": [
     {
      "w": "sync interval tuning",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the background sync budget evolved on this team. During the design review, I raise one careful question about the metered connection test. Before deciding, I reread my notes about the batch upload strategy twice. I compare two views on the offline queue design and write both down honestly. Practice debate: Priya argues, \"The travel router trick.\" I respond calmly, \"Data budget, five gb calm.\" and Priya concedes, \"Strong answer — keep that precision.\" First impressions include typography.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the background sync budget evolved on this team. During the design review, I raise one careful question about the metered connection test. Before deciding, I reread my notes about the batch upload strategy twice. I compare two views on the offline queue design and write both down honestly. Practice debate: Priya argues, \"The travel router trick.\" I respond calmly, \"Data budget, five gb calm.\" and Priya concedes, \"Strong answer — keep that precision.\" First impressions include typography.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the background sync budget evolved on this team. During the design review, I raise one careful question about the metered connection test. Before deciding, I reread my notes about the batch upload strategy twice. I compare two views on the offline queue design and write both down honestly. In the review drill, Leo says, \"The travel router trick.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Data budget, five gb calm.\" We swap roles so I ask the questions this time. First impressions include typography.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. Our mentor walks me through how the background sync budget evolved on this team. During the design review, I raise one careful question about the metered connection test. Before deciding, I reread my notes about the batch upload strategy twice. I compare two views on the offline queue design and write both down honestly. In the review drill, Leo says, \"The travel router trick.\" We swap roles so I ask the questions this time. In the review drill, Maria says, \"Data budget, five gb calm.\" We swap roles so I ask the questions this time. First impressions include typography.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了后台同步预算在这个团队里的演变。设计评审中，我就计费网络测试提出了一个审慎的问题。做决定之前，我把关于批量上传策略的笔记重读了两遍。我比较了关于离线队列设计的两种观点，诚实地都记了下来。练习辩论：Priya主张：\"旅行路由的小技巧。\"我平静地回应：\"流量预算五个 G\"Priya承认道：\"回答有力——保持这种精确。\"第一印象里也包括字体。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。导师带我梳理了后台同步预算在这个团队里的演变。设计评审中，我就计费网络测试提出了一个审慎的问题。做决定之前，我把关于批量上传策略的笔记重读了两遍。我比较了关于离线队列设计的两种观点，诚实地都记了下来。评审演练中，Leo说：\"旅行路由的小技巧。\"我们互换角色，这次由我来提问。评审演练中，Maria说：\"流量预算五个 G\"我们互换角色，这次由我来提问。第一印象里也包括字体。",
    "hard": [
     {
      "w": "batch upload strategy",

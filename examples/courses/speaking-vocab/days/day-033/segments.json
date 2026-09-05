@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 297,
+   "word_count": 300,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I split the assignment into small pieces. I double-check the local storage before the review. We spend a few minutes on the persistent data at the standup. After that, I reread my notes about the review turnaround after lunch. I suggest that we check the reviewer assignment first. Before we move on, Leo asks, \"How do you take your coffee?\" I answer, then reuse it in my update. Before we move on, Maria says, \"I like it with milk, no sugar.\" I answer, and we compare notes. I check my notes and confirm the next step.",
-   "tts": "I split the assignment into small pieces. I double-check the local storage before the review. We spend a few minutes on the persistent data at the standup. After that, I reread my notes about the review turnaround after lunch. I suggest that we check the reviewer assignment first. Before we move on, Leo asks, \"How do you take your coffee?\" I answer, then reuse it in my update. Before we move on, Maria says, \"I like it with milk, no sugar.\" I answer, and we compare notes. I check my notes and confirm the next step.",
+   "en": "I split the assignment into small pieces. I double-check the local storage before the review. We spend a few minutes on the persistent data at the standup. After that, I reread my notes about the review turnaround after lunch. I suggest that we check the reviewer assignment first. Before we move on, Leo asks, \"How do you take your coffee?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I like it with milk, no sugar.\" I answer clearly and note the phrasing. I check my notes and confirm the next step.",
+   "tts": "I split the assignment into small pieces. I double-check the local storage before the review. We spend a few minutes on the persistent data at the standup. After that, I reread my notes about the review turnaround after lunch. I suggest that we check the reviewer assignment first. Before we move on, Leo asks, \"How do you take your coffee?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I like it with milk, no sugar.\" I answer clearly and note the phrasing. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我把任务切成了小块。评审之前，我再核对一遍本地存储。站会上我们花了几分钟讨论持久数据。在那之后，午饭后我重读了关于评审周转的笔记。我建议我们先检查评审人分配。继续之前，Leo问：\"你的咖啡要怎么喝？\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我要加奶不加糖。\"我回答，我们互相对了笔记。我检查笔记，确认了下一步。",
+   "zh": "我把任务切成了小块。评审之前，我再核对一遍本地存储。站会上我们花了几分钟讨论持久数据。在那之后，午饭后我重读了关于评审周转的笔记。我建议我们先检查评审人分配。继续之前，Leo问：\"你的咖啡要怎么喝？\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我要加奶不加糖。\"我清楚地回答，并记下了这个说法。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "local storage",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Each piece is one small pull request, easy to review. Before we move on, Leo says, \"Let's grab a coffee.\" I answer, then reuse it in my update. Before we move on, Maria says, \"My treat this time.\" I answer, and we compare notes. After a short break, I walk a new teammate through the save a draft. I add the auto-save to my checklist for tomorrow. During the review, I ask one question about the small pull request. After that, I go through the atomic commit with Priya and note her advice. The team agrees on the plan, and I record the decision.",
-   "tts": "Each piece is one small pull request, easy to review. Before we move on, Leo says, \"Let's grab a coffee.\" I answer, then reuse it in my update. Before we move on, Maria says, \"My treat this time.\" I answer, and we compare notes. After a short break, I walk a new teammate through the save a draft. I add the auto-save to my checklist for tomorrow. During the review, I ask one question about the small pull request. After that, I go through the atomic commit with Priya and note her advice. The team agrees on the plan, and I record the decision.",
+   "en": "Each piece is one small pull request, easy to review. Before we move on, Maria says, \"Let's grab a coffee.\" I answer, then reuse it in my update. Before we move on, Maria says, \"My treat this time.\" I answer, then reuse it in my update. I walk a new teammate through the save a draft. I add the auto-save to my checklist for tomorrow. During the review, I ask one question about the small pull request. I go through the atomic commit with Priya and note her advice. The team agrees on the plan, and I record the decision.",
+   "tts": "Each piece is one small pull request, easy to review. Before we move on, Maria says, \"Let's grab a coffee.\" I answer, then reuse it in my update. Before we move on, Maria says, \"My treat this time.\" I answer, then reuse it in my update. I walk a new teammate through the save a draft. I add the auto-save to my checklist for tomorrow. During the review, I ask one question about the small pull request. I go through the atomic commit with Priya and note her advice. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每一块都是一个小拉取请求，方便评审。继续之前，Leo说：\"我们去喝杯咖啡吧。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"这次我请客。\"我回答，我们互相对了笔记。稍作休息后，我带一位新队友过了一遍保存草稿。我把自动保存加进了明天的清单。评审时，我就小拉取请求提了一个问题。在那之后，我和 Priya 过了一遍原子提交，记下了她的建议。团队就计划达成一致，我记录了决定。",
+   "zh": "每一块都是一个小拉取请求，方便评审。继续之前，Maria说：\"我们去喝杯咖啡吧。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"这次我请客。\"我回答，然后把它用进了自己的汇报。我带一位新队友过了一遍保存草稿。我把自动保存加进了明天的清单。评审时，我就小拉取请求提了一个问题。我和 Priya 过了一遍原子提交，记下了她的建议。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "save a draft",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I describe the change while the others watch the dashboard. Before I reply, I look at the before and after once more. I keep one real example of the restore session in my notes. I double-check the cache key before the review. Before we move on, Priya says, \"This café is cozy.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I needed this break.\" I answer, then reuse it in my update. My plan fits on one page. Maria likes it.",
-   "tts": "Before I leave, I write a short summary for the team. I describe the change while the others watch the dashboard. Before I reply, I look at the before and after once more. I keep one real example of the restore session in my notes. I double-check the cache key before the review. Before we move on, Priya says, \"This café is cozy.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I needed this break.\" I answer, then reuse it in my update. My plan fits on one page. Maria likes it.",
+   "en": "Before I leave, I write a short summary for the team. After a short break, I describe the change while the others watch the dashboard. Before I reply, I look at the before and after once more. I keep one real example of the restore session in my notes. After that, I double-check the cache key before the review. Before we move on, Maria says, \"This café is cozy.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I needed this break.\" I answer, then reuse it in my update. My plan fits on one page. Maria likes it.",
+   "tts": "Before I leave, I write a short summary for the team. After a short break, I describe the change while the others watch the dashboard. Before I reply, I look at the before and after once more. I keep one real example of the restore session in my notes. After that, I double-check the cache key before the review. Before we move on, Maria says, \"This café is cozy.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I needed this break.\" I answer, then reuse it in my update. My plan fits on one page. Maria likes it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我描述改动，其他队友盯着仪表盘。回复之前，我又看了一遍修改前后。我在笔记里留了一个恢复会话的真实例子。评审之前，我再核对一遍缓存键。继续之前，Priya说：\"这家咖啡馆很温馨。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我正需要这个休息。\"我回答，然后把它用进了自己的汇报。我的计划只有一页纸。Maria 很满意。",
+   "zh": "离开前，我给团队写了一份简短的总结。稍作休息后，我描述改动，其他队友盯着仪表盘。回复之前，我又看了一遍修改前后。我在笔记里留了一个恢复会话的真实例子。在那之后，评审之前，我再核对一遍缓存键。继续之前，Maria说：\"这家咖啡馆很温馨。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我正需要这个休息。\"我回答，然后把它用进了自己的汇报。我的计划只有一页纸。Maria 很满意。",
    "hard": [
     {
      "w": "restore session",

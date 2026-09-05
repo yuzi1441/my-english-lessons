@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 286,
+   "word_count": 325,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My first serious prompt fails mysteriously. In today's standup, I mention the retrieval augmented generation and what comes next. We agree to give the embedding one more careful look this week. The guide now has a short section on the internal knowledge base. I compare my notes about the doc freshness for retrieval with Priya's. Whiteboard practice: Priya offers, \"The colorized memories debate.\" I add, \"Sepia becomes sky blue.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
-   "tts": "My first serious prompt fails mysteriously. In today's standup, I mention the retrieval augmented generation and what comes next. We agree to give the embedding one more careful look this week. The guide now has a short section on the internal knowledge base. I compare my notes about the doc freshness for retrieval with Priya's. Whiteboard practice: Priya offers, \"The colorized memories debate.\" I add, \"Sepia becomes sky blue.\" then Priya sums up, \"Good point — use it in the standup.\" I close the ticket with a clear result and one lesson for next time.",
+   "en": "My first serious prompt fails mysteriously. In today's standup, I mention the retrieval augmented generation and what comes next. We agree to give the embedding one more careful look this week. The guide now has a short section on the internal knowledge base. I compare my notes about the doc freshness for retrieval with Priya's. In the meeting drill, Leo says, \"The colorized memories debate.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Sepia becomes sky blue.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "My first serious prompt fails mysteriously. In today's standup, I mention the retrieval augmented generation and what comes next. We agree to give the embedding one more careful look this week. The guide now has a short section on the internal knowledge base. I compare my notes about the doc freshness for retrieval with Priya's. In the meeting drill, Leo says, \"The colorized memories debate.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Sepia becomes sky blue.\" After that, we swap roles and run it again. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的第一个正经提示词神秘失败。今天的站会上，我提到检索增强生成和接下来的安排。我们说好这周再把向量嵌入仔细看一次。指南里现在有关于内部知识库的简短章节。我把关于给检索用的文档保鲜的笔记和 Priya 的对照了一下。白板练习：Priya给出：\"给记忆上色的争论。\"我补充：\"深褐变成天蓝色。\"然后Priya总结：\"说得好——站会上就用它。\"我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "我的第一个正经提示词神秘失败。今天的站会上，我提到检索增强生成和接下来的安排。我们说好这周再把向量嵌入仔细看一次。指南里现在有关于内部知识库的简短章节。我把关于给检索用的文档保鲜的笔记和 Priya 的对照了一下。会议演练中，Leo说：\"给记忆上色的争论。\"之后我们换角色再练一遍。会议演练中，Maria说：\"深褐变成天蓝色。\"之后我们换角色再练一遍。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "retrieval augmented generation",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The temperature setting, it turns out, was set to jazz improvisation. Drill without notes: Priya asks, \"Grandfather's shirt was grey.\" I answer, \"The original stays untouched.\" and Priya closes, \"Good point — use it in the standup.\" I connect the vector database to the ticket so nothing gets lost. At the review, we spend ten minutes on the semantic search. Priya suggests a cleaner way to think about the knowledge gap backlog. While the details are fresh, I write down the answers with source links. Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "The temperature setting, it turns out, was set to jazz improvisation. Drill without notes: Priya asks, \"Grandfather's shirt was grey.\" I answer, \"The original stays untouched.\" and Priya closes, \"Good point — use it in the standup.\" I connect the vector database to the ticket so nothing gets lost. At the review, we spend ten minutes on the semantic search. Priya suggests a cleaner way to think about the knowledge gap backlog. While the details are fresh, I write down the answers with source links. Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "The temperature setting, it turns out, was set to jazz improvisation. In the meeting drill, Leo says, \"Grandfather's shirt was grey.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The original stays untouched.\" After that, we swap roles and run it again. I connect the vector database to the ticket so nothing gets lost. At the review, we spend ten minutes on the semantic search. Priya suggests a cleaner way to think about the knowledge gap backlog. While the details are fresh, I write down the answers with source links. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "The temperature setting, it turns out, was set to jazz improvisation. In the meeting drill, Leo says, \"Grandfather's shirt was grey.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"The original stays untouched.\" After that, we swap roles and run it again. I connect the vector database to the ticket so nothing gets lost. At the review, we spend ten minutes on the semantic search. Priya suggests a cleaner way to think about the knowledge gap backlog. While the details are fresh, I write down the answers with source links. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "原来温度参数被调成了爵士即兴模式。脱稿演练：Priya问：\"爷爷的衬衫是灰色的。\"我回答：\"原片依然神圣不可动。\"Priya收束：\"说得好——站会上就用它。\"我把向量数据库关联到工单上，免得遗漏。评审时，我们花了十分钟在语义搜索上。Priya 提出了一个更清晰的知识缺口积压单思考方式。趁细节还新鲜，我把带来源链接的回答写了下来。明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "原来温度参数被调成了爵士即兴模式。会议演练中，Leo说：\"爷爷的衬衫是灰色的。\"之后我们换角色再练一遍。会议演练中，Maria说：\"原片依然神圣不可动。\"之后我们换角色再练一遍。我把向量数据库关联到工单上，免得遗漏。评审时，我们花了十分钟在语义搜索上。Priya 提出了一个更清晰的知识缺口积压单思考方式。趁细节还新鲜，我把带来源链接的回答写了下来。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "vector database",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the indexing schedule and what comes next. We agree to give the embedding access control one more careful look this week. The guide now has a short section on the chunking strategy. I compare my notes about the citation requirement with Priya's. Meeting rehearsal: Maria opens, \"Side by side comparison.\" I respond, \"Colors are guesses, kind ones.\" and Maria confirms, \"Exactly, and it saves time too.\" Now I write prompts like recipes: steps, format, examples.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the indexing schedule and what comes next. We agree to give the embedding access control one more careful look this week. The guide now has a short section on the chunking strategy. I compare my notes about the citation requirement with Priya's. Meeting rehearsal: Maria opens, \"Side by side comparison.\" I respond, \"Colors are guesses, kind ones.\" and Maria confirms, \"Exactly, and it saves time too.\" Now I write prompts like recipes: steps, format, examples.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the indexing schedule and what comes next. We agree to give the embedding access control one more careful look this week. The guide now has a short section on the chunking strategy. I compare my notes about the citation requirement with Priya's. In the meeting drill, Priya says, \"Side by side comparison.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Colors are guesses, kind ones.\" After that, we swap roles and run it again. Now I write prompts like recipes: steps, format, examples.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. In today's standup, I mention the indexing schedule and what comes next. We agree to give the embedding access control one more careful look this week. The guide now has a short section on the chunking strategy. I compare my notes about the citation requirement with Priya's. In the meeting drill, Priya says, \"Side by side comparison.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Colors are guesses, kind ones.\" After that, we swap roles and run it again. Now I write prompts like recipes: steps, format, examples.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到索引更新排期和接下来的安排。我们说好这周再把嵌入数据的权限仔细看一次。指南里现在有关于切块策略的简短章节。我把关于引用要求的笔记和 Priya 的对照了一下。会议彩排：Maria开场：\"新旧并排对比。\"我回应：\"颜色是猜测\"Maria确认道：\"正是，而且还省时间。\"现在我写提示词像写菜谱：步骤、格式、例子。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。今天的站会上，我提到索引更新排期和接下来的安排。我们说好这周再把嵌入数据的权限仔细看一次。指南里现在有关于切块策略的简短章节。我把关于引用要求的笔记和 Priya 的对照了一下。会议演练中，Priya说：\"新旧并排对比。\"之后我们换角色再练一遍。会议演练中，Leo说：\"颜色是猜测\"之后我们换角色再练一遍。现在我写提示词像写菜谱：步骤、格式、例子。",
    "hard": [
     {
      "w": "chunking strategy",

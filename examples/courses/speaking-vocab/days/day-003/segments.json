@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 175,
+   "word_count": 173,
    "segment_count": 3,
    "difficulty": "入门短句 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Today I run a small program, and it works. I point to the program. This is the command. Maria shows me the commit. I look at the commit message. Leo asks, \"What time is it?\" I answer with a smile. Maria asks, \"What time works for you?\" I nod and reply. I learn one new thing.",
-   "tts": "Today I run a small program, and it works. I point to the program. This is the command. Maria shows me the commit. I look at the commit message. Leo asks, \"What time is it?\" I answer with a smile. Maria asks, \"What time works for you?\" I nod and reply. I learn one new thing.",
+   "en": "Today I run a small program, and it works. I point to the program. This is the command. Maria shows me the commit. I look at the commit message. Leo asks, \"What time is it?\" I answer politely. Leo asks, \"What time works for you?\" I answer politely. I learn one new thing.",
+   "tts": "Today I run a small program, and it works. I point to the program. This is the command. Maria shows me the commit. I look at the commit message. Leo asks, \"What time is it?\" I answer politely. Leo asks, \"What time works for you?\" I answer politely. I learn one new thing.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "今天我运行了一个小程序，它成功了。我指着程序。这是命令。Maria 给我看了提交。我看着提交说明。Leo问：\"现在几点？\"我微笑着回答。Maria问：\"什么时间对你方便？\"我点头回应。我学到了一件新东西。",
+   "zh": "今天我运行了一个小程序，它成功了。我指着程序。这是命令。Maria 给我看了提交。我看着提交说明。Leo问：\"现在几点？\"我礼貌地回应。Leo问：\"什么时间对你方便？\"我礼貌地回应。我学到了一件新东西。",
    "hard": [
     {
      "w": "program",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I do one last thing. I see the commit hash. I make a commit slowly. I point to the output. Now I can stop a process. Maria says, \"I'm running late.\" I nod and reply. Priya says, \"See you tomorrow.\" I answer politely. Before I leave, I save my first commit. My name is in the history now.",
-   "tts": "Before I leave, I do one last thing. I see the commit hash. I make a commit slowly. I point to the output. Now I can stop a process. Maria says, \"I'm running late.\" I nod and reply. Priya says, \"See you tomorrow.\" I answer politely. Before I leave, I save my first commit. My name is in the history now.",
+   "en": "Before I leave, I do one last thing. I see the commit hash. I make a commit slowly. I point to the output. Now I can stop a process. Priya says, \"I'm running late.\" I nod and reply. Priya says, \"See you tomorrow.\" I nod and reply. Before I leave, I save my first commit. My name is in the history now.",
+   "tts": "Before I leave, I do one last thing. I see the commit hash. I make a commit slowly. I point to the output. Now I can stop a process. Priya says, \"I'm running late.\" I nod and reply. Priya says, \"See you tomorrow.\" I nod and reply. Before I leave, I save my first commit. My name is in the history now.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我做最后一件事。我看到了提交哈希。我慢慢创建提交。我指着输出。现在我会停止进程了。Maria说：\"我要迟到了。\"我点头回应。Priya说：\"明天见。\"我礼貌地回应。离开前，我保存了第一次提交。我的名字现在进入了历史记录。",
+   "zh": "离开前，我做最后一件事。我看到了提交哈希。我慢慢创建提交。我指着输出。现在我会停止进程了。Priya说：\"我要迟到了。\"我点头回应。Priya说：\"明天见。\"我点头回应。离开前，我保存了第一次提交。我的名字现在进入了历史记录。",
    "hard": [
     {
      "w": "output",

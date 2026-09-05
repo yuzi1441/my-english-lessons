@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 272,
+   "word_count": 316,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A small release ships on potluck day, calmly. Priya suggests a cleaner way to think about the url versioning. I compare my notes about the header versioning with Priya's. I search before build while Leo checks the other half. The guide now has a short section on the repo template sync. Pair run: Leo starts, \"The city glitters politely.\" I follow, \"Distant trains sound homely.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "A small release ships on potluck day, calmly. Priya suggests a cleaner way to think about the url versioning. I compare my notes about the header versioning with Priya's. I search before build while Leo checks the other half. The guide now has a short section on the repo template sync. Pair run: Leo starts, \"The city glitters politely.\" I follow, \"Distant trains sound homely.\" and Leo replies, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "A small release ships on potluck day, calmly. Priya suggests a cleaner way to think about the url versioning. I compare my notes about the header versioning with Priya's. I search before build while Leo checks the other half. The guide now has a short section on the repo template sync. In the meeting drill, Maria says, \"The city glitters politely.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Distant trains sound homely.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "A small release ships on potluck day, calmly. Priya suggests a cleaner way to think about the url versioning. I compare my notes about the header versioning with Priya's. I search before build while Leo checks the other half. The guide now has a short section on the repo template sync. In the meeting drill, Maria says, \"The city glitters politely.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Distant trains sound homely.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个小版本在百乐餐日平静地发布了。Priya 提出了一个更清晰的URL 版本化思考方式。我把关于头版本化的笔记和 Priya 的对照了一下。我先搜后建，Leo 检查另一半。指南里现在有关于仓库模板同步的简短章节。结对演练：Leo起头：\"城市礼貌地闪烁着。\"我跟上：\"远处的火车声很家常。\"Leo回应：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "一个小版本在百乐餐日平静地发布了。Priya 提出了一个更清晰的URL 版本化思考方式。我把关于头版本化的笔记和 Priya 的对照了一下。我先搜后建，Leo 检查另一半。指南里现在有关于仓库模板同步的简短章节。会议演练中，Maria说：\"城市礼貌地闪烁着。\"之后我们换角色再练一遍。会议演练中，Priya说：\"远处的火车声很家常。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "url versioning",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Someone's dumplings, someone's dashboard, everything green. Drill without notes: Leo asks, \"One window is always awake.\" I answer, \"The moon does overtime.\" and Leo closes, \"Keep practising, it is working.\" We agree to give the deprecation window one more careful look this week. In today's standup, I mention the sunset header and what comes next. I connect the shared package registry to the ticket so nothing gets lost. While the details are fresh, I write down the internal open source day. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Someone's dumplings, someone's dashboard, everything green. Drill without notes: Leo asks, \"One window is always awake.\" I answer, \"The moon does overtime.\" and Leo closes, \"Keep practising, it is working.\" We agree to give the deprecation window one more careful look this week. In today's standup, I mention the sunset header and what comes next. I connect the shared package registry to the ticket so nothing gets lost. While the details are fresh, I write down the internal open source day. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Someone's dumplings, someone's dashboard, everything green. In the meeting drill, Maria says, \"One window is always awake.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The moon does overtime.\" After that, we swap roles and run it again. We agree to give the deprecation window one more careful look this week. In today's standup, I mention the sunset header and what comes next. I connect the shared package registry to the ticket so nothing gets lost. While the details are fresh, I write down the internal open source day. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Someone's dumplings, someone's dashboard, everything green. In the meeting drill, Maria says, \"One window is always awake.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The moon does overtime.\" After that, we swap roles and run it again. We agree to give the deprecation window one more careful look this week. In today's standup, I mention the sunset header and what comes next. I connect the shared package registry to the ticket so nothing gets lost. While the details are fresh, I write down the internal open source day. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "有人带了饺子，有人带了仪表盘，全都是绿的。脱稿演练：Leo问：\"总有一扇窗亮着。\"我回答：\"月亮在加班。\"Leo收束：\"继续练，有效果了。\"我们说好这周再把弃用窗口仔细看一次。今天的站会上，我提到日落响应头和接下来的安排。我把共享包仓库关联到工单上，免得遗漏。趁细节还新鲜，我把内部开源日写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "有人带了饺子，有人带了仪表盘，全都是绿的。会议演练中，Maria说：\"总有一扇窗亮着。\"之后我们换角色再练一遍。会议演练中，Priya说：\"月亮在加班。\"之后我们换角色再练一遍。我们说好这周再把弃用窗口仔细看一次。今天的站会上，我提到日落响应头和接下来的安排。我把共享包仓库关联到工单上，免得遗漏。趁细节还新鲜，我把内部开源日写了下来。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "deprecation window",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the org security policy. Priya suggests a cleaner way to think about the deprecation registry. I compare my notes about the version negotiation with Priya's. The guide now has a short section on the compat test matrix. Meeting rehearsal: Priya opens, \"Night breeze carries jasmine.\" I respond, \"Stars above the office towers.\" and Priya confirms, \"Good point — use it in the standup.\" Not every release needs fireworks.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the org security policy. Priya suggests a cleaner way to think about the deprecation registry. I compare my notes about the version negotiation with Priya's. The guide now has a short section on the compat test matrix. Meeting rehearsal: Priya opens, \"Night breeze carries jasmine.\" I respond, \"Stars above the office towers.\" and Priya confirms, \"Good point — use it in the standup.\" Not every release needs fireworks.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the org security policy. Priya suggests a cleaner way to think about the deprecation registry. I compare my notes about the version negotiation with Priya's. The guide now has a short section on the compat test matrix. In the meeting drill, Leo says, \"Night breeze carries jasmine.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Stars above the office towers.\" After that, we swap roles and run it again. Not every release needs fireworks.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the org security policy. Priya suggests a cleaner way to think about the deprecation registry. I compare my notes about the version negotiation with Priya's. The guide now has a short section on the compat test matrix. In the meeting drill, Leo says, \"Night breeze carries jasmine.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Stars above the office towers.\" After that, we swap roles and run it again. Not every release needs fireworks.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在组织安全政策上。Priya 提出了一个更清晰的弃用登记处思考方式。我把关于版本协商的笔记和 Priya 的对照了一下。指南里现在有关于兼容测试矩阵的简短章节。会议彩排：Priya开场：\"晚风带来茉莉香。\"我回应：\"写字楼顶上有星星。\"Priya确认道：\"说得好——站会上就用它。\"不是每次发布都需要烟花。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在组织安全政策上。Priya 提出了一个更清晰的弃用登记处思考方式。我把关于版本协商的笔记和 Priya 的对照了一下。指南里现在有关于兼容测试矩阵的简短章节。会议演练中，Leo说：\"晚风带来茉莉香。\"之后我们换角色再练一遍。会议演练中，Maria说：\"写字楼顶上有星星。\"之后我们换角色再练一遍。不是每次发布都需要烟花。",
    "hard": [
     {
      "w": "version negotiation",

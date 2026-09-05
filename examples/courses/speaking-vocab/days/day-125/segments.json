@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 281,
+   "word_count": 325,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Priya and I pair by strength: she navigates, I drive. At the review, we spend ten minutes on the async standup bot. I compare my notes about the recorded walkthrough with Priya's. Priya suggests a cleaner way to think about the repo health check. In today's standup, I mention the orphaned branch report and what comes next. Meeting rehearsal: Leo opens, \"The vet speaks softly to her.\" I respond, \"Vaccination due next month.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "Priya and I pair by strength: she navigates, I drive. At the review, we spend ten minutes on the async standup bot. I compare my notes about the recorded walkthrough with Priya's. Priya suggests a cleaner way to think about the repo health check. In today's standup, I mention the orphaned branch report and what comes next. Meeting rehearsal: Leo opens, \"The vet speaks softly to her.\" I respond, \"Vaccination due next month.\" and Leo confirms, \"Keep practising, it is working.\" The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "Priya and I pair by strength: she navigates, I drive. At the review, we spend ten minutes on the async standup bot. I compare my notes about the recorded walkthrough with Priya's. Priya suggests a cleaner way to think about the repo health check. In today's standup, I mention the orphaned branch report and what comes next. In the meeting drill, Maria says, \"The vet speaks softly to her.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Vaccination due next month.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "Priya and I pair by strength: she navigates, I drive. At the review, we spend ten minutes on the async standup bot. I compare my notes about the recorded walkthrough with Priya's. Priya suggests a cleaner way to think about the repo health check. In today's standup, I mention the orphaned branch report and what comes next. In the meeting drill, Maria says, \"The vet speaks softly to her.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"Vaccination due next month.\" After that, we swap roles and run it again. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Priya 和我按强项配对：她领航，我开车。评审时，我们花了十分钟在异步站会机器人上。我把关于录屏走讲的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的仓库体检思考方式。今天的站会上，我提到孤儿分支报告和接下来的安排。会议彩排：Leo开场：\"兽医对她说话很温柔。\"我回应：\"下个月该打疫苗了。\"Leo确认道：\"继续练，有效果了。\"计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "Priya 和我按强项配对：她领航，我开车。评审时，我们花了十分钟在异步站会机器人上。我把关于录屏走讲的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的仓库体检思考方式。今天的站会上，我提到孤儿分支报告和接下来的安排。会议演练中，Maria说：\"兽医对她说话很温柔。\"之后我们换角色再练一遍。会议演练中，Priya说：\"下个月该打疫苗了。\"之后我们换角色再练一遍。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "async standup bot",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Keyboard handoffs every twenty minutes keep both brains warm. Drill without notes: Leo asks, \"The waiting room drama.\" I answer, \"A brave cat, mostly.\" and Leo closes, \"Keep practising, it is working.\" We agree to give the time zone fairness one more careful look this week. While the details are fresh, I write down camera optional norm. I connect the open pr age to the ticket so nothing gets lost. The guide now has a short section on the first contribution time. I close the ticket with a clear result and one lesson for next time.",
-   "tts": "Keyboard handoffs every twenty minutes keep both brains warm. Drill without notes: Leo asks, \"The waiting room drama.\" I answer, \"A brave cat, mostly.\" and Leo closes, \"Keep practising, it is working.\" We agree to give the time zone fairness one more careful look this week. While the details are fresh, I write down camera optional norm. I connect the open pr age to the ticket so nothing gets lost. The guide now has a short section on the first contribution time. I close the ticket with a clear result and one lesson for next time.",
+   "en": "Keyboard handoffs every twenty minutes keep both brains warm. In the meeting drill, Maria says, \"The waiting room drama.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"A brave cat, mostly.\" After that, we swap roles and run it again. We agree to give the time zone fairness one more careful look this week. While the details are fresh, I write down camera optional norm. I connect the open pr age to the ticket so nothing gets lost. The guide now has a short section on the first contribution time. I close the ticket with a clear result and one lesson for next time.",
+   "tts": "Keyboard handoffs every twenty minutes keep both brains warm. In the meeting drill, Maria says, \"The waiting room drama.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"A brave cat, mostly.\" After that, we swap roles and run it again. We agree to give the time zone fairness one more careful look this week. While the details are fresh, I write down camera optional norm. I connect the open pr age to the ticket so nothing gets lost. The guide now has a short section on the first contribution time. I close the ticket with a clear result and one lesson for next time.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "每二十分钟换一次手，两颗大脑都保持温度。脱稿演练：Leo问：\"候诊室的小剧场。\"我回答：\"一只勇敢的猫\"Leo收束：\"继续练，有效果了。\"我们说好这周再把时区公平仔细看一次。趁细节还新鲜，我把摄像头自选规范写了下来。我把PR 存龄关联到工单上，免得遗漏。指南里现在有关于首次贡献时间的简短章节。我带着清晰的结果关闭了工单，还为下次留了一课。",
+   "zh": "每二十分钟换一次手，两颗大脑都保持温度。会议演练中，Maria说：\"候诊室的小剧场。\"之后我们换角色再练一遍。会议演练中，Priya说：\"一只勇敢的猫\"之后我们换角色再练一遍。我们说好这周再把时区公平仔细看一次。趁细节还新鲜，我把摄像头自选规范写了下来。我把PR 存龄关联到工单上，免得遗漏。指南里现在有关于首次贡献时间的简短章节。我带着清晰的结果关闭了工单，还为下次留了一课。",
    "hard": [
     {
      "w": "time zone fairness",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the response coverage. I compare my notes about the archival candidates with Priya's. Priya suggests a cleaner way to think about the handoff document. The team decides that I should follow the sun review first. Pair run: Priya starts, \"The bill and the peace of mind.\" I follow, \"Treats bribe everyone.\" and Priya replies, \"Good point — use it in the standup.\" I write slower and think faster.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the response coverage. I compare my notes about the archival candidates with Priya's. Priya suggests a cleaner way to think about the handoff document. The team decides that I should follow the sun review first. Pair run: Priya starts, \"The bill and the peace of mind.\" I follow, \"Treats bribe everyone.\" and Priya replies, \"Good point — use it in the standup.\" I write slower and think faster.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the response coverage. I compare my notes about the archival candidates with Priya's. Priya suggests a cleaner way to think about the handoff document. The team decides that I should follow the sun review first. In the meeting drill, Leo says, \"The bill and the peace of mind.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Treats bribe everyone.\" After that, we swap roles and run it again. I write slower and think faster.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. At the review, we spend ten minutes on the response coverage. I compare my notes about the archival candidates with Priya's. Priya suggests a cleaner way to think about the handoff document. The team decides that I should follow the sun review first. In the meeting drill, Leo says, \"The bill and the peace of mind.\" After that, we swap roles and run it again. In the meeting drill, Maria says, \"Treats bribe everyone.\" After that, we swap roles and run it again. I write slower and think faster.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在响应覆盖上。我把关于归档候选的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的交接文档思考方式。团队决定先由我来接力评审。结对演练：Priya起头：\"账单和安心一起结账。\"我跟上：\"零食贿赂所有生命。\"Priya回应：\"说得好——站会上就用它。\"我写得更慢，想得更快。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。评审时，我们花了十分钟在响应覆盖上。我把关于归档候选的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的交接文档思考方式。团队决定先由我来接力评审。会议演练中，Leo说：\"账单和安心一起结账。\"之后我们换角色再练一遍。会议演练中，Maria说：\"零食贿赂所有生命。\"之后我们换角色再练一遍。我写得更慢，想得更快。",
    "hard": [
     {
      "w": "handoff document",

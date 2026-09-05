@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Today the team deploys a small change to the real users. After lunch, I check the JSON again. After that, Leo walks me through the CSV step by step. Before the meeting, I review the test suite one more time. When I get stuck, I ask Maria about the build job. At that moment, Priya says, \"I'd like to return this.\" I answer, and we go over it once more. At that moment, Leo says, \"This item is damaged.\" I answer, then try the line myself. With the team's help, the problem becomes smaller.",
-   "tts": "Today the team deploys a small change to the real users. After lunch, I check the J son again. After that, Leo walks me through the C S V step by step. Before the meeting, I review the test suite one more time. When I get stuck, I ask Maria about the build job. At that moment, Priya says, \"I'd like to return this.\" I answer, and we go over it once more. At that moment, Leo says, \"This item is damaged.\" I answer, then try the line myself. With the team's help, the problem becomes smaller.",
+   "en": "Today the team deploys a small change to the real users. After lunch, I check the JSON again. After that, Leo walks me through the CSV step by step. Before the meeting, I review the test suite one more time. When I get stuck, I ask Maria about the build job. At that moment, Priya says, \"I'd like to return this.\" I reply, and she notes it down. At that moment, Priya says, \"This item is damaged.\" I reply, and she notes it down. With the team's help, the problem becomes smaller.",
+   "tts": "Today the team deploys a small change to the real users. After lunch, I check the J son again. After that, Leo walks me through the C S V step by step. Before the meeting, I review the test suite one more time. When I get stuck, I ask Maria about the build job. At that moment, Priya says, \"I'd like to return this.\" I reply, and she notes it down. At that moment, Priya says, \"This item is damaged.\" I reply, and she notes it down. With the team's help, the problem becomes smaller.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "今天团队向真实用户部署一个小改动。午饭后，我又检查了一遍JSON 格式。在那之后，Leo 一步一步带我过了逗号分隔值。开会前，我又复习了一遍测试套件。卡住的时候，我就向 Maria 请教构建任务。这时，Priya说：\"我想退掉这个。\"我回答后，我们又过了一遍。这时，Leo说：\"这个商品损坏了。\"我回答，然后自己把这句练了一遍。在团队的帮助下，问题变小了。",
+   "zh": "今天团队向真实用户部署一个小改动。午饭后，我又检查了一遍JSON 格式。在那之后，Leo 一步一步带我过了逗号分隔值。开会前，我又复习了一遍测试套件。卡住的时候，我就向 Maria 请教构建任务。这时，Priya说：\"我想退掉这个。\"我回答，她把它记了下来。这时，Priya说：\"这个商品损坏了。\"我回答，她把它记了下来。在团队的帮助下，问题变小了。",
    "hard": [
     {
      "w": "JSON",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "My order is wrong at the shop, and I ask to change it. At that moment, Priya says, \"I received the wrong order.\" I answer, and we go over it once more. At that moment, Leo asks, \"Could I get a refund?\" I answer, then try the line myself. I reread the section about the log file after lunch. Before I parse data, I read the note. After that, Priya and I spend a few minutes on the deployment job. The team talks about the test failure at the standup. The work is not easy, but I keep going.",
-   "tts": "My order is wrong at the shop, and I ask to change it. At that moment, Priya says, \"I received the wrong order.\" I answer, and we go over it once more. At that moment, Leo asks, \"Could I get a refund?\" I answer, then try the line myself. I reread the section about the log file after lunch. Before I parse data, I read the note. After that, Priya and I spend a few minutes on the deployment job. The team talks about the test failure at the standup. The work is not easy, but I keep going.",
+   "en": "My order is wrong at the shop, and I ask to change it. At that moment, Leo says, \"I received the wrong order.\" I answer, and we go over it once more. At that moment, Leo asks, \"Could I get a refund?\" I answer, and we go over it once more. I reread the section about the log file after lunch. Before I parse data, I read the note. Priya and I spend a few minutes on the deployment job. The team talks about the test failure at the standup. The work is not easy, but I keep going.",
+   "tts": "My order is wrong at the shop, and I ask to change it. At that moment, Leo says, \"I received the wrong order.\" I answer, and we go over it once more. At that moment, Leo asks, \"Could I get a refund?\" I answer, and we go over it once more. I reread the section about the log file after lunch. Before I parse data, I read the note. Priya and I spend a few minutes on the deployment job. The team talks about the test failure at the standup. The work is not easy, but I keep going.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我在商店拿错了订单，我请求更换。这时，Priya说：\"我收到了错误的订单。\"我回答后，我们又过了一遍。这时，Leo问：\"我可以退款吗？\"我回答，然后自己把这句练了一遍。午饭后我重读了关于日志文件的章节。在解析数据之前，我先看了说明。在那之后，Priya 和我在部署任务上花了几分钟。团队在站会上讨论了测试失败。工作不容易，但我继续前进。",
+   "zh": "我在商店拿错了订单，我请求更换。这时，Leo说：\"我收到了错误的订单。\"我回答后，我们又过了一遍。这时，Leo问：\"我可以退款吗？\"我回答后，我们又过了一遍。午饭后我重读了关于日志文件的章节。在解析数据之前，我先看了说明。Priya 和我在部署任务上花了几分钟。团队在站会上讨论了测试失败。工作不容易，但我继续前进。",
    "hard": [
     {
      "w": "log file",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I review what I did today. After that, We keep a short checklist for the build artifact. I compare my notes about the deployment environment with Priya's. I add structured data to my notes with one example. After lunch, I check the log entry again. At that moment, Maria asks, \"Could you replace it?\" I reply, and she notes it down. At that moment, Priya says, \"Thank you for resolving this.\" I answer, and we go over it once more. The deployment works. We watch the logs together.",
-   "tts": "Before I leave, I review what I did today. After that, We keep a short checklist for the build artifact. I compare my notes about the deployment environment with Priya's. I add structured data to my notes with one example. After lunch, I check the log entry again. At that moment, Maria asks, \"Could you replace it?\" I reply, and she notes it down. At that moment, Priya says, \"Thank you for resolving this.\" I answer, and we go over it once more. The deployment works. We watch the logs together.",
+   "en": "Before I leave, I review what I did today. We keep a short checklist for the build artifact. I compare my notes about the deployment environment with Priya's. After that, I add structured data to my notes with one example. After lunch, I check the log entry again. At that moment, Leo asks, \"Could you replace it?\" I answer, and we go over it once more. At that moment, Leo says, \"Thank you for resolving this.\" I answer, and we go over it once more. The deployment works. We watch the logs together.",
+   "tts": "Before I leave, I review what I did today. We keep a short checklist for the build artifact. I compare my notes about the deployment environment with Priya's. After that, I add structured data to my notes with one example. After lunch, I check the log entry again. At that moment, Leo asks, \"Could you replace it?\" I answer, and we go over it once more. At that moment, Leo says, \"Thank you for resolving this.\" I answer, and we go over it once more. The deployment works. We watch the logs together.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我回顾了今天做的事。在那之后，我们为构建产物准备了一张简短的检查单。我把关于部署环境的笔记和 Priya 的对照了一下。我把结构化数据和一个例子一起记进了笔记。午饭后，我又检查了一遍日志条目。这时，Maria问：\"你可以更换它吗？\"我回答，她把它记了下来。这时，Priya说：\"谢谢你解决这个问题。\"我回答后，我们又过了一遍。部署成功了。我们一起观察日志。",
+   "zh": "离开前，我回顾了今天做的事。我们为构建产物准备了一张简短的检查单。我把关于部署环境的笔记和 Priya 的对照了一下。在那之后，我把结构化数据和一个例子一起记进了笔记。午饭后，我又检查了一遍日志条目。这时，Leo问：\"你可以更换它吗？\"我回答后，我们又过了一遍。这时，Leo说：\"谢谢你解决这个问题。\"我回答后，我们又过了一遍。部署成功了。我们一起观察日志。",
    "hard": [
     {
      "w": "structured data",

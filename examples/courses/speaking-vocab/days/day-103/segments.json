@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 276,
+   "word_count": 315,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Our drafts API has a new consumer: the mobile team. Sam asks me about the self-documenting code, and I explain the basics. I spend ten quiet minutes on the intention-revealing name after the standup. I add the single idea paragraphs to my study notes before I forget it. Priya and I write for skimming together after lunch. We drill it twice: Maria starts, \"Same jokes, older faces.\" I reply, \"Ten years vanish in a minute.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "Our drafts A P I has a new consumer: the mobile team. Sam asks me about the self-documenting code, and I explain the basics. I spend ten quiet minutes on the intention-revealing name after the standup. I add the single idea paragraphs to my study notes before I forget it. Priya and I write for skimming together after lunch. We drill it twice: Maria starts, \"Same jokes, older faces.\" I reply, \"Ten years vanish in a minute.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "Our drafts API has a new consumer: the mobile team. Sam asks me about the self-documenting code, and I explain the basics. I spend ten quiet minutes on the intention-revealing name after the standup. I add the single idea paragraphs to my study notes before I forget it. Priya and I write for skimming together after lunch. In the warm-up round, Priya says, \"Same jokes, older faces.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Ten years vanish in a minute.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Our drafts A P I has a new consumer: the mobile team. Sam asks me about the self-documenting code, and I explain the basics. I spend ten quiet minutes on the intention-revealing name after the standup. I add the single idea paragraphs to my study notes before I forget it. Priya and I write for skimming together after lunch. In the warm-up round, Priya says, \"Same jokes, older faces.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Ten years vanish in a minute.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们的草稿接口有了新消费者：移动团队。Sam 问起自解释代码，我讲了讲基础。站会之后，我安安静静花了十分钟在表意命名上。我趁还没忘，把单想法段落记进了学习笔记。午饭之后，Priya 和我一起为略读而写。我们练了两遍：Maria起头：\"老笑话\"我回答：\"十年在一分钟里消失。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "我们的草稿接口有了新消费者：移动团队。Sam 问起自解释代码，我讲了讲基础。站会之后，我安安静静花了十分钟在表意命名上。我趁还没忘，把单想法段落记进了学习笔记。午饭之后，Priya 和我一起为略读而写。热身环节里，Priya说：\"老笑话\"然后我们换角色，由我来问。热身环节里，Leo说：\"十年在一分钟里消失。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "self-documenting code",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We write a consumer contract and let CI verify both sides. Warm-up round: Maria offers, \"We pick up mid-sentence.\" I answer, \"People change, kindly.\" and Maria wraps up, \"That is the one we need today.\" There is a short paragraph about the guard clause in the guide. I go over the early return one more time before lunch. I keep one real example of the active voice in my notebook. This morning, I expand acronyms before the first call. The task moves forward, and so does my confidence.",
-   "tts": "We write a consumer contract and let C I verify both sides. Warm-up round: Maria offers, \"We pick up mid-sentence.\" I answer, \"People change, kindly.\" and Maria wraps up, \"That is the one we need today.\" There is a short paragraph about the guard clause in the guide. I go over the early return one more time before lunch. I keep one real example of the active voice in my notebook. This morning, I expand acronyms before the first call. The task moves forward, and so does my confidence.",
+   "en": "We write a consumer contract and let CI verify both sides. In the warm-up round, Priya says, \"We pick up mid-sentence.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"People change, kindly.\" Then we swap roles and I ask it back. There is a short paragraph about the guard clause in the guide. I go over the early return one more time before lunch. I keep one real example of the active voice in my notebook. This morning, I expand acronyms before the first call. The task moves forward, and so does my confidence.",
+   "tts": "We write a consumer contract and let C I verify both sides. In the warm-up round, Priya says, \"We pick up mid-sentence.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"People change, kindly.\" Then we swap roles and I ask it back. There is a short paragraph about the guard clause in the guide. I go over the early return one more time before lunch. I keep one real example of the active voice in my notebook. This morning, I expand acronyms before the first call. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们写下了消费方契约，让 CI 替两边把关。热身一轮：Maria给出：\"我们从半句话接着聊。\"我回答：\"人都在变\"Maria收尾道：\"今天要的就是这句。\"指南里有一小段关于卫语句的介绍。午饭前我又过了一遍提前返回。我在笔记本里留了一个主动语态的真实例子。今天早上，第一次通话之前我先缩写展开。任务在推进，我的信心也在成长。",
+   "zh": "我们写下了消费方契约，让 CI 替两边把关。热身环节里，Priya说：\"我们从半句话接着聊。\"然后我们换角色，由我来问。热身环节里，Leo说：\"人都在变\"然后我们换角色，由我来问。指南里有一小段关于卫语句的介绍。午饭前我又过了一遍提前返回。我在笔记本里留了一个主动语态的真实例子。今天早上，第一次通话之前我先缩写展开。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "guard clause",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the example driven docs look clearer this week. I prune the adverbs the way the guide suggests. I ask one good question about the cognitive load in the meeting. Sam asks me about the boy scout rule, and I explain the basics. We practise the dialogue: Leo opens, \"Old friends skip the small talk.\" I answer, \"Book the next meetup now.\" and Leo nods, \"Nice, keep that one handy.\" A contract test is a promise both teams can read.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the example driven docs look clearer this week. I prune the adverbs the way the guide suggests. I ask one good question about the cognitive load in the meeting. Sam asks me about the boy scout rule, and I explain the basics. We practise the dialogue: Leo opens, \"Old friends skip the small talk.\" I answer, \"Book the next meetup now.\" and Leo nods, \"Nice, keep that one handy.\" A contract test is a promise both teams can read.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. My notes about the example driven docs look clearer this week. I prune the adverbs the way the guide suggests. I ask one good question about the cognitive load in the meeting. Sam asks me about the boy scout rule, and I explain the basics. In the warm-up round, Maria says, \"Old friends skip the small talk.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Book the next meetup now.\" Then we swap roles and I ask it back. A contract test is a promise both teams can read.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. My notes about the example driven docs look clearer this week. I prune the adverbs the way the guide suggests. I ask one good question about the cognitive load in the meeting. Sam asks me about the boy scout rule, and I explain the basics. In the warm-up round, Maria says, \"Old friends skip the small talk.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"Book the next meetup now.\" Then we swap roles and I ask it back. A contract test is a promise both teams can read.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于例子先行的文档的笔记清楚多了。我按照指南建议的方式删掉副词。会上关于认知负担，我问了一个好问题。Sam 问起童子军规则，我讲了讲基础。我们练习这段对话：Leo开场：\"老朋友不用寒暄。\"我回答：\"当场约定下次见面。\"Leo点头说：\"不错，把这句记在手边。\"契约测试是双方都读得懂的承诺。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。这周我关于例子先行的文档的笔记清楚多了。我按照指南建议的方式删掉副词。会上关于认知负担，我问了一个好问题。Sam 问起童子军规则，我讲了讲基础。热身环节里，Maria说：\"老朋友不用寒暄。\"然后我们换角色，由我来问。热身环节里，Priya说：\"当场约定下次见面。\"然后我们换角色，由我来问。契约测试是双方都读得懂的承诺。",
    "hard": [
     {
      "w": "cognitive load",

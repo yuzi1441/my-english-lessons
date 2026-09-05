@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 299,
+   "word_count": 304,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Before launch, we practice the worst day. We spend a few minutes on the accessibility at the standup. I double-check the screen reader before the review. After that, I reread my notes about the milestone complete after lunch. During the review, I ask one question about the burndown chart. Before we move on, Leo says, \"This month flew by.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I finished my first feature.\" I answer, and we compare notes. I check my notes and confirm the next step.",
-   "tts": "Before launch, we practice the worst day. We spend a few minutes on the accessibility at the standup. I double-check the screen reader before the review. After that, I reread my notes about the milestone complete after lunch. During the review, I ask one question about the burndown chart. Before we move on, Leo says, \"This month flew by.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I finished my first feature.\" I answer, and we compare notes. I check my notes and confirm the next step.",
+   "en": "Before launch, we practice the worst day. We spend a few minutes on the accessibility at the standup. I double-check the screen reader before the review. After that, I reread my notes about the milestone complete after lunch. During the review, I ask one question about the burndown chart. Before we move on, Leo says, \"This month flew by.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I finished my first feature.\" I answer clearly and note the phrasing. I check my notes and confirm the next step.",
+   "tts": "Before launch, we practice the worst day. We spend a few minutes on the accessibility at the standup. I double-check the screen reader before the review. After that, I reread my notes about the milestone complete after lunch. During the review, I ask one question about the burndown chart. Before we move on, Leo says, \"This month flew by.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I finished my first feature.\" I answer clearly and note the phrasing. I check my notes and confirm the next step.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "上线之前，我们先练习最糟糕的一天。站会上我们花了几分钟讨论无障碍。评审之前，我再核对一遍屏幕阅读器。在那之后，午饭后我重读了关于里程碑完成的笔记。评审时，我就燃尽图提了一个问题。继续之前，Leo说：\"这个月过得飞快。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我完成了第一个完整功能。\"我回答，我们互相对了笔记。我检查笔记，确认了下一步。",
+   "zh": "上线之前，我们先练习最糟糕的一天。站会上我们花了几分钟讨论无障碍。评审之前，我再核对一遍屏幕阅读器。在那之后，午饭后我重读了关于里程碑完成的笔记。评审时，我就燃尽图提了一个问题。继续之前，Leo说：\"这个月过得飞快。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我完成了第一个完整功能。\"我清楚地回答，并记下了这个说法。我检查笔记，确认了下一步。",
    "hard": [
     {
      "w": "accessibility",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I promote a build, break it on purpose, and roll it back in five minutes. Before we move on, Leo says, \"I learned a ton.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I want to keep this momentum.\" I answer, and we compare notes. After a short break, I go through the alt text with Priya and note her advice. Before I reply, I look at the keyboard navigation once more. I add the velocity to my checklist for tomorrow. After that, I walk a new teammate through the estimate accuracy. The team agrees on the plan, and I record the decision.",
-   "tts": "I promote a build, break it on purpose, and roll it back in five minutes. Before we move on, Leo says, \"I learned a ton.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I want to keep this momentum.\" I answer, and we compare notes. After a short break, I go through the alt text with Priya and note her advice. Before I reply, I look at the keyboard navigation once more. I add the velocity to my checklist for tomorrow. After that, I walk a new teammate through the estimate accuracy. The team agrees on the plan, and I record the decision.",
+   "en": "I promote a build, break it on purpose, and roll it back in five minutes. Before we move on, Maria says, \"I learned a ton.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I want to keep this momentum.\" I answer, then reuse it in my update. I go through the alt text with Priya and note her advice. Before I reply, I look at the keyboard navigation once more. After a short break, I add the velocity to my checklist for tomorrow. I walk a new teammate through the estimate accuracy. The team agrees on the plan, and I record the decision.",
+   "tts": "I promote a build, break it on purpose, and roll it back in five minutes. Before we move on, Maria says, \"I learned a ton.\" I answer, then reuse it in my update. Before we move on, Maria says, \"I want to keep this momentum.\" I answer, then reuse it in my update. I go through the alt text with Priya and note her advice. Before I reply, I look at the keyboard navigation once more. After a short break, I add the velocity to my checklist for tomorrow. I walk a new teammate through the estimate accuracy. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我晋级一个构建，故意弄坏它，然后在五分钟内回滚。继续之前，Leo说：\"我学到了特别多。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我想保持这个势头。\"我回答，我们互相对了笔记。稍作休息后，我和 Priya 过了一遍替代文本，记下了她的建议。回复之前，我又看了一遍键盘导航。我把团队速度加进了明天的清单。在那之后，我带一位新队友过了一遍估算准确度。团队就计划达成一致，我记录了决定。",
+   "zh": "我晋级一个构建，故意弄坏它，然后在五分钟内回滚。继续之前，Maria说：\"我学到了特别多。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"我想保持这个势头。\"我回答，然后把它用进了自己的汇报。我和 Priya 过了一遍替代文本，记下了她的建议。回复之前，我又看了一遍键盘导航。稍作休息后，我把团队速度加进了明天的清单。我带一位新队友过了一遍估算准确度。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "alt text",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. I suggest that we check the retrospective first. After that, I keep one real example of the improvement plan in my notes. We spend a few minutes on the color contrast at the standup. I double-check the focus ring before the review. Before we move on, Priya says, \"Next month I'll aim higher.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Thanks for the guidance.\" I answer, then reuse it in my update. Now the worst day is just another drill.",
-   "tts": "Before I leave, I write a short summary for the team. I suggest that we check the retrospective first. After that, I keep one real example of the improvement plan in my notes. We spend a few minutes on the color contrast at the standup. I double-check the focus ring before the review. Before we move on, Priya says, \"Next month I'll aim higher.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Thanks for the guidance.\" I answer, then reuse it in my update. Now the worst day is just another drill.",
+   "en": "Before I leave, I write a short summary for the team. After a short break, I suggest that we check the retrospective first. I keep one real example of the improvement plan in my notes. We spend a few minutes on the color contrast at the standup. After that, I double-check the focus ring before the review. Before we move on, Maria says, \"Next month I'll aim higher.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Thanks for the guidance.\" I answer, then reuse it in my update. Now the worst day is just another drill.",
+   "tts": "Before I leave, I write a short summary for the team. After a short break, I suggest that we check the retrospective first. I keep one real example of the improvement plan in my notes. We spend a few minutes on the color contrast at the standup. After that, I double-check the focus ring before the review. Before we move on, Maria says, \"Next month I'll aim higher.\" I answer, then reuse it in my update. Before we move on, Maria says, \"Thanks for the guidance.\" I answer, then reuse it in my update. Now the worst day is just another drill.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。我建议我们先检查复盘会。在那之后，我在笔记里留了一个改进计划的真实例子。站会上我们花了几分钟讨论颜色对比度。评审之前，我再核对一遍焦点框。继续之前，Priya说：\"下个月我会瞄准更高目标。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"感谢你的指导。\"我回答，然后把它用进了自己的汇报。现在最糟糕的一天也只是一次演练。",
+   "zh": "离开前，我给团队写了一份简短的总结。稍作休息后，我建议我们先检查复盘会。我在笔记里留了一个改进计划的真实例子。站会上我们花了几分钟讨论颜色对比度。在那之后，评审之前，我再核对一遍焦点框。继续之前，Maria说：\"下个月我会瞄准更高目标。\"我回答，然后把它用进了自己的汇报。继续之前，Maria说：\"感谢你的指导。\"我回答，然后把它用进了自己的汇报。现在最糟糕的一天也只是一次演练。",
    "hard": [
     {
      "w": "color contrast",

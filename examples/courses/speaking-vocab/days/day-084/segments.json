@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 284,
+   "word_count": 320,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Maria draws the error budget on the whiteboard. I spend ten quiet minutes on the chaos experiment after the standup. Sam asks me about the steady state, and I explain the basics. My notes about the release engineering look clearer this week. I add the artifact promotion to my study notes before I forget it. We practise the dialogue: Priya opens, \"My mug picks the mood.\" I answer, \"The same seat every morning.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Maria draws the error budget on the whiteboard. I spend ten quiet minutes on the chaos experiment after the standup. Sam asks me about the steady state, and I explain the basics. My notes about the release engineering look clearer this week. I add the artifact promotion to my study notes before I forget it. We practise the dialogue: Priya opens, \"My mug picks the mood.\" I answer, \"The same seat every morning.\" and Priya nods, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "en": "Maria draws the error budget on the whiteboard. I spend ten quiet minutes on the chaos experiment after the standup. Sam asks me about the steady state, and I explain the basics. My notes about the release engineering look clearer this week. I add the artifact promotion to my study notes before I forget it. In the warm-up round, Leo says, \"My mug picks the mood.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The same seat every morning.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "Maria draws the error budget on the whiteboard. I spend ten quiet minutes on the chaos experiment after the standup. Sam asks me about the steady state, and I explain the basics. My notes about the release engineering look clearer this week. I add the artifact promotion to my study notes before I forget it. In the warm-up round, Leo says, \"My mug picks the mood.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"The same seat every morning.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Maria 在白板上画出了错误预算。站会之后，我安安静静花了十分钟在混沌实验上。Sam 问起稳态，我讲了讲基础。这周我关于发布工程的笔记清楚多了。我趁还没忘，把产物晋级记进了学习笔记。我们练习这段对话：Priya开场：\"我的杯子决定今天的心情。\"我回答：\"每天早上同一个座位。\"Priya点头说：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "Maria 在白板上画出了错误预算。站会之后，我安安静静花了十分钟在混沌实验上。Sam 问起稳态，我讲了讲基础。这周我关于发布工程的笔记清楚多了。我趁还没忘，把产物晋级记进了学习笔记。热身环节里，Leo说：\"我的杯子决定今天的心情。\"然后我们换角色，由我来问。热身环节里，Maria说：\"每天早上同一个座位。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "chaos experiment",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Some weeks we spend it on experiments; some weeks we save it for trust. Role play with feedback: Priya says, \"Rituals anchor the day.\" I try, \"I warm the cup first.\" and Priya adds, \"Good — try it in today’s task.\" There is a short paragraph about the blast radius in the guide. I go over the abort condition one more time before lunch. I ask one good question about the immutable artifact in the meeting. I keep one real example of the release inventory in my notebook. Small progress today prepares the bigger step tomorrow.",
-   "tts": "Some weeks we spend it on experiments; some weeks we save it for trust. Role play with feedback: Priya says, \"Rituals anchor the day.\" I try, \"I warm the cup first.\" and Priya adds, \"Good — try it in today’s task.\" There is a short paragraph about the blast radius in the guide. I go over the abort condition one more time before lunch. I ask one good question about the immutable artifact in the meeting. I keep one real example of the release inventory in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "en": "Some weeks we spend it on experiments; some weeks we save it for trust. In the warm-up round, Leo says, \"Rituals anchor the day.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I warm the cup first.\" Then we swap roles and I ask it back. There is a short paragraph about the blast radius in the guide. I go over the abort condition one more time before lunch. I ask one good question about the immutable artifact in the meeting. I keep one real example of the release inventory in my notebook. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Some weeks we spend it on experiments; some weeks we save it for trust. In the warm-up round, Leo says, \"Rituals anchor the day.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"I warm the cup first.\" Then we swap roles and I ask it back. There is a short paragraph about the blast radius in the guide. I go over the abort condition one more time before lunch. I ask one good question about the immutable artifact in the meeting. I keep one real example of the release inventory in my notebook. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "有时我们把它花在实验上；有时我们把它攒成信任。角色扮演加反馈：Priya说：\"仪式感锚定一天。\"我试着说：\"我先烫杯。\"Priya补充道：\"好——今天的任务里就用上。\"指南里有一小段关于爆炸半径的介绍。午饭前我又过了一遍中止条件。会上关于不可变产物，我问了一个好问题。我在笔记本里留了一个发布清单的真实例子。今天的小进步为明天更大的跨越做准备。",
+   "zh": "有时我们把它花在实验上；有时我们把它攒成信任。热身环节里，Leo说：\"仪式感锚定一天。\"然后我们换角色，由我来问。热身环节里，Maria说：\"我先烫杯。\"然后我们换角色，由我来问。指南里有一小段关于爆炸半径的介绍。午饭前我又过了一遍中止条件。会上关于不可变产物，我问了一个好问题。我在笔记本里留了一个发布清单的真实例子。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "blast radius",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the version pinning after the standup. Sam asks me about the traceable build, and I explain the basics. My notes about the hypothesis card look clearer this week. I add the resilience score to my study notes before I forget it. We drill it twice: Maria starts, \"Slow pours, better days.\" I reply, \"Small ceremonies, big calm.\" then Maria smiles, \"That is the one we need today.\" Reliability is a spendable resource, not a vibe.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the version pinning after the standup. Sam asks me about the traceable build, and I explain the basics. My notes about the hypothesis card look clearer this week. I add the resilience score to my study notes before I forget it. We drill it twice: Maria starts, \"Slow pours, better days.\" I reply, \"Small ceremonies, big calm.\" then Maria smiles, \"That is the one we need today.\" Reliability is a spendable resource, not a vibe.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the version pinning after the standup. Sam asks me about the traceable build, and I explain the basics. My notes about the hypothesis card look clearer this week. I add the resilience score to my study notes before I forget it. In the warm-up round, Priya says, \"Slow pours, better days.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Small ceremonies, big calm.\" Then we swap roles and I ask it back. Reliability is a spendable resource, not a vibe.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I spend ten quiet minutes on the version pinning after the standup. Sam asks me about the traceable build, and I explain the basics. My notes about the hypothesis card look clearer this week. I add the resilience score to my study notes before I forget it. In the warm-up round, Priya says, \"Slow pours, better days.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"Small ceremonies, big calm.\" Then we swap roles and I ask it back. Reliability is a spendable resource, not a vibe.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在版本锁定上。Sam 问起可追溯构建，我讲了讲基础。这周我关于假设卡的笔记清楚多了。我趁还没忘，把韧性得分记进了学习笔记。我们练了两遍：Maria起头：\"慢慢倒\"我回答：\"小仪式\"然后Maria笑着说：\"今天要的就是这句。\"可靠性是可支出的资源，不是一种感觉。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。站会之后，我安安静静花了十分钟在版本锁定上。Sam 问起可追溯构建，我讲了讲基础。这周我关于假设卡的笔记清楚多了。我趁还没忘，把韧性得分记进了学习笔记。热身环节里，Priya说：\"慢慢倒\"然后我们换角色，由我来问。热身环节里，Leo说：\"小仪式\"然后我们换角色，由我来问。可靠性是可支出的资源，不是一种感觉。",
    "hard": [
     {
      "w": "hypothesis card",

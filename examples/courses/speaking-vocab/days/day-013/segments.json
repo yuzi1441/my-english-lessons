@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 256,
+   "word_count": 257,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "A new issue comes in. The team asks who can take it. I ask one question about the HTTP request. After a short break, I write a short note about the HTTP response. Leo shows me an example of the assignee. I need to assign an issue before lunch. Then Priya asks, \"Where is the check-in counter?\" I answer as best I can. Then Leo says, \"I'd like an aisle seat.\" I reply, and we keep chatting. The team gives me good advice.",
-   "tts": "A new issue comes in. The team asks who can take it. I ask one question about the H T T P request. After a short break, I write a short note about the H T T P response. Leo shows me an example of the assignee. I need to assign an issue before lunch. Then Priya asks, \"Where is the check-in counter?\" I answer as best I can. Then Leo says, \"I'd like an aisle seat.\" I reply, and we keep chatting. The team gives me good advice.",
+   "en": "A new issue comes in. The team asks who can take it. I ask one question about the HTTP request. After a short break, I write a short note about the HTTP response. Leo shows me an example of the assignee. I need to assign an issue before lunch. Then Priya asks, \"Where is the check-in counter?\" I think for a second, then answer. Then Priya says, \"I'd like an aisle seat.\" I think for a second, then answer. The team gives me good advice.",
+   "tts": "A new issue comes in. The team asks who can take it. I ask one question about the H T T P request. After a short break, I write a short note about the H T T P response. Leo shows me an example of the assignee. I need to assign an issue before lunch. Then Priya asks, \"Where is the check-in counter?\" I think for a second, then answer. Then Priya says, \"I'd like an aisle seat.\" I think for a second, then answer. The team gives me good advice.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "一个新的问题单进来了。团队问谁能负责。我问了一个关于HTTP 请求的问题。稍作休息后，我给HTTP 响应写了一条简短的笔记。Leo 给我看了一个负责人的例子。午饭前，我需要分配问题单。接着Priya问：\"值机柜台在哪里？\"我尽力回答。接着Leo说：\"我想要靠过道的座位。\"我回答后，我们继续聊。团队给了我很好的建议。",
+   "zh": "一个新的问题单进来了。团队问谁能负责。我问了一个关于HTTP 请求的问题。稍作休息后，我给HTTP 响应写了一条简短的笔记。Leo 给我看了一个负责人的例子。午饭前，我需要分配问题单。接着Priya问：\"值机柜台在哪里？\"我想了一下，然后回答。接着Priya说：\"我想要靠过道的座位。\"我想了一下，然后回答。团队给了我很好的建议。",
    "hard": [
     {
      "w": "HTTP request",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Leo goes to the airport. His flight is delayed. Then Priya asks, \"Where is the security check?\" I answer as best I can. Then Leo asks, \"What gate is it?\" I reply, and we keep chatting. Maria explains the status code to me. I read the short guide about the request header twice. After a short break, I mention a teammate, and Maria checks it. I learn about the team mention because it is useful. The day is busy, but I learn a lot.",
-   "tts": "Leo goes to the airport. His flight is delayed. Then Priya asks, \"Where is the security check?\" I answer as best I can. Then Leo asks, \"What gate is it?\" I reply, and we keep chatting. Maria explains the status code to me. I read the short guide about the request header twice. After a short break, I mention a teammate, and Maria checks it. I learn about the team mention because it is useful. The day is busy, but I learn a lot.",
+   "en": "Leo goes to the airport. His flight is delayed. Then Leo asks, \"Where is the security check?\" I answer as best I can. Then Leo asks, \"What gate is it?\" I answer as best I can. Maria explains the status code to me. After that, I read the short guide about the request header twice. I mention a teammate, and Maria checks it. I learn about the team mention because it is useful. The day is busy, but I learn a lot.",
+   "tts": "Leo goes to the airport. His flight is delayed. Then Leo asks, \"Where is the security check?\" I answer as best I can. Then Leo asks, \"What gate is it?\" I answer as best I can. Maria explains the status code to me. After that, I read the short guide about the request header twice. I mention a teammate, and Maria checks it. I learn about the team mention because it is useful. The day is busy, but I learn a lot.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Leo 去机场。他的航班延误了。接着Priya问：\"安检在哪里？\"我尽力回答。接着Leo问：\"是哪个登机口？\"我回答后，我们继续聊。Maria 给我讲解状态码。我把关于请求头的简短说明读了两遍。稍作休息后，我提及队友，Maria 来检查。我学习团队提及，因为它很有用。这天很忙，但我学到了很多。",
+   "zh": "Leo 去机场。他的航班延误了。接着Leo问：\"安检在哪里？\"我尽力回答。接着Leo问：\"是哪个登机口？\"我尽力回答。Maria 给我讲解状态码。在那之后，我把关于请求头的简短说明读了两遍。我提及队友，Maria 来检查。我学习团队提及，因为它很有用。这天很忙，但我学到了很多。",
    "hard": [
     {
      "w": "status code",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. Today I subscribe to an issue for the first time. I unsubscribe from updates one small step at a time. Now I understand the response body. After that, I hear the GET request in the meeting and write it down. Then Maria says, \"The flight is delayed.\" I think for a second, then answer. Then Priya asks, \"Where can I collect my luggage?\" I answer as best I can. I take the issue. The team mentions me, and I see it.",
-   "tts": "Before I leave, I finish one last task. Today I subscribe to an issue for the first time. I unsubscribe from updates one small step at a time. Now I understand the response body. After that, I hear the GET request in the meeting and write it down. Then Maria says, \"The flight is delayed.\" I think for a second, then answer. Then Priya asks, \"Where can I collect my luggage?\" I answer as best I can. I take the issue. The team mentions me, and I see it.",
+   "en": "Before I leave, I finish one last task. Today I subscribe to an issue for the first time. I unsubscribe from updates one small step at a time. After a short break, Now I understand the response body. I hear the GET request in the meeting and write it down. Then Leo says, \"The flight is delayed.\" I answer as best I can. Then Leo asks, \"Where can I collect my luggage?\" I answer as best I can. I take the issue. The team mentions me, and I see it.",
+   "tts": "Before I leave, I finish one last task. Today I subscribe to an issue for the first time. I unsubscribe from updates one small step at a time. After a short break, Now I understand the response body. I hear the GET request in the meeting and write it down. Then Leo says, \"The flight is delayed.\" I answer as best I can. Then Leo asks, \"Where can I collect my luggage?\" I answer as best I can. I take the issue. The team mentions me, and I see it.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。今天我第一次订阅问题单。我一步一步地取消订阅更新。现在我理解了响应体。在那之后，我在会上听到GET 请求，把它记了下来。接着Maria说：\"航班延误了。\"我想了一下，然后回答。接着Priya问：\"我在哪里取行李？\"我尽力回答。我接下了这个问题单。团队提到了我，我看到了提醒。",
+   "zh": "离开前，我完成最后一项任务。今天我第一次订阅问题单。我一步一步地取消订阅更新。稍作休息后，现在我理解了响应体。我在会上听到GET 请求，把它记了下来。接着Leo说：\"航班延误了。\"我尽力回答。接着Leo问：\"我在哪里取行李？\"我尽力回答。我接下了这个问题单。团队提到了我，我看到了提醒。",
    "hard": [
     {
      "w": "response body",

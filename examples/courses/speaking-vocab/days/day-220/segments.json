@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 317,
+   "word_count": 364,
    "segment_count": 3,
    "difficulty": "进阶职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "We cache aggressively, then apologize with invalidation rules. During the design review, I raise one careful question about the web worker. I prepare a one-page brief about the main thread relief so meetings start from facts. I add the worker smoke test to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the fallback for no worker twice. Practice debate: Maria argues, \"The dishwasher is my worker.\" I respond calmly, \"Washing machine runs in background.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
-   "tts": "We cache aggressively, then apologize with invalidation rules. During the design review, I raise one careful question about the web worker. I prepare a one-page brief about the main thread relief so meetings start from facts. I add the worker smoke test to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the fallback for no worker twice. Practice debate: Maria argues, \"The dishwasher is my worker.\" I respond calmly, \"Washing machine runs in background.\" and Maria concedes, \"Agreed, note it in the ticket.\" I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "en": "We cache aggressively, then apologize with invalidation rules. During the design review, I raise one careful question about the web worker. I prepare a one-page brief about the main thread relief so meetings start from facts. I add the worker smoke test to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the fallback for no worker twice. In the review drill, Priya says, \"The dishwasher is my worker.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Washing machine runs in background.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
+   "tts": "We cache aggressively, then apologize with invalidation rules. During the design review, I raise one careful question about the web worker. I prepare a one-page brief about the main thread relief so meetings start from facts. I add the worker smoke test to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the fallback for no worker twice. In the review drill, Priya says, \"The dishwasher is my worker.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Washing machine runs in background.\" We swap roles so I ask the questions this time. I can explain the decision to anyone on the team now, including the parts I fought for.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我们大胆缓存，然后用失效规则礼貌善后。设计评审中，我就Web Worker提出了一个审慎的问题。我准备了一页关于主线程减负的简报，好让会议从事实出发。我把Worker 冒烟测试连同三条支撑事实加进了议程。做决定之前，我把关于无 Worker 兜底的笔记重读了两遍。练习辩论：Maria主张：\"洗碗机是我的分身。\"我平静地回应：\"洗衣机后台运行。\"Maria承认道：\"同意，把这条记到工单里。\"现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
+   "zh": "我们大胆缓存，然后用失效规则礼貌善后。设计评审中，我就Web Worker提出了一个审慎的问题。我准备了一页关于主线程减负的简报，好让会议从事实出发。我把Worker 冒烟测试连同三条支撑事实加进了议程。做决定之前，我把关于无 Worker 兜底的笔记重读了两遍。评审演练中，Priya说：\"洗碗机是我的分身。\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"洗衣机后台运行。\"我们互换角色，这次由我来提问。现在我能向团队任何人解释这个决定，包括我坚持过的部分。",
    "hard": [
     {
      "w": "web worker",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Stale while revalidate serves the old page while the new one cooks. Review warm-up: Maria raises, \"I am the main thread, cooking.\" I answer, \"Delegation beats hero mode.\" and Maria grades it, \"Agreed, note it in the ticket.\" The team names one clear owner for the transferable object. I compare two views on the worker pool design and write both down honestly. Our mentor walks me through how the worker bundle split evolved on this team. We spend the first ten minutes of the review on the message schema doc. The risk is named, owned, tracked, and a little smaller than yesterday.",
-   "tts": "Stale while revalidate serves the old page while the new one cooks. Review warm-up: Maria raises, \"I am the main thread, cooking.\" I answer, \"Delegation beats hero mode.\" and Maria grades it, \"Agreed, note it in the ticket.\" The team names one clear owner for the transferable object. I compare two views on the worker pool design and write both down honestly. Our mentor walks me through how the worker bundle split evolved on this team. We spend the first ten minutes of the review on the message schema doc. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "en": "Stale while revalidate serves the old page while the new one cooks. In the review drill, Priya says, \"I am the main thread, cooking.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Delegation beats hero mode.\" We swap roles so I ask the questions this time. The team names one clear owner for the transferable object. I compare two views on the worker pool design and write both down honestly. Our mentor walks me through how the worker bundle split evolved on this team. We spend the first ten minutes of the review on the message schema doc. The risk is named, owned, tracked, and a little smaller than yesterday.",
+   "tts": "Stale while revalidate serves the old page while the new one cooks. In the review drill, Priya says, \"I am the main thread, cooking.\" We swap roles so I ask the questions this time. In the review drill, Leo says, \"Delegation beats hero mode.\" We swap roles so I ask the questions this time. The team names one clear owner for the transferable object. I compare two views on the worker pool design and write both down honestly. Our mentor walks me through how the worker bundle split evolved on this team. We spend the first ten minutes of the review on the message schema doc. The risk is named, owned, tracked, and a little smaller than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "先旧后新策略让旧页面先顶上，新的在后台出炉。评审热身：Maria抛出：\"我是主线程\"我带着数字回答：\"派活胜过英雄模式。\"Maria点评道：\"同意，把这条记到工单里。\"团队为可转移对象指定了明确的负责人。我比较了关于Worker 池设计的两种观点，诚实地都记了下来。导师带我梳理了Worker 打包拆分在这个团队里的演变。评审的前十分钟，我们都用在了消息结构文档上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
+   "zh": "先旧后新策略让旧页面先顶上，新的在后台出炉。评审演练中，Priya说：\"我是主线程\"我们互换角色，这次由我来提问。评审演练中，Leo说：\"派活胜过英雄模式。\"我们互换角色，这次由我来提问。团队为可转移对象指定了明确的负责人。我比较了关于Worker 池设计的两种观点，诚实地都记了下来。导师带我梳理了Worker 打包拆分在这个团队里的演变。评审的前十分钟，我们都用在了消息结构文档上。风险被点明、认领、跟踪，而且比昨天更小了一点。",
    "hard": [
     {
      "w": "transferable object",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the cpu spike regression test. I prepare a one-page brief about the worker pool sizing note so meetings start from facts. I add the message overhead to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the worker termination twice. Mock review: Leo probes, \"Finished jobs get put away.\" I answer from memory, \"Too many workers, noisy house.\" and Leo confirms, \"That is the level we need.\" Users get speed and truth, both.",
-   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the cpu spike regression test. I prepare a one-page brief about the worker pool sizing note so meetings start from facts. I add the message overhead to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the worker termination twice. Mock review: Leo probes, \"Finished jobs get put away.\" I answer from memory, \"Too many workers, noisy house.\" and Leo confirms, \"That is the level we need.\" Users get speed and truth, both.",
+   "en": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the cpu spike regression test. I prepare a one-page brief about the worker pool sizing note so meetings start from facts. I add the message overhead to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the worker termination twice. In the review drill, Maria says, \"Finished jobs get put away.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Too many workers, noisy house.\" We swap roles so I ask the questions this time. Users get speed and truth, both.",
+   "tts": "Before I leave, I note tomorrow's risks, name a clear owner for each of them, and set out the first task. During the design review, I raise one careful question about the cpu spike regression test. I prepare a one-page brief about the worker pool sizing note so meetings start from facts. I add the message overhead to the meeting agenda with three supporting facts. Before deciding, I reread my notes about the worker termination twice. In the review drill, Maria says, \"Finished jobs get put away.\" We swap roles so I ask the questions this time. In the review drill, Priya says, \"Too many workers, noisy house.\" We swap roles so I ask the questions this time. Users get speed and truth, both.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就CPU 尖峰回归测试提出了一个审慎的问题。我准备了一页关于Worker 池大小说明的简报，好让会议从事实出发。我把消息通信开销连同三条支撑事实加进了议程。做决定之前，我把关于Worker 终止的笔记重读了两遍。模拟评审：Leo追问：\"完工的任务要归位。\"我凭记忆回答：\"分身太多\"Leo确认：\"我们要的就是这个水平。\"用户得到速度和真相，两者都要。",
+   "zh": "离开前，我记下明天的风险，给每一项定好负责人，并摆好第一件事。设计评审中，我就CPU 尖峰回归测试提出了一个审慎的问题。我准备了一页关于Worker 池大小说明的简报，好让会议从事实出发。我把消息通信开销连同三条支撑事实加进了议程。做决定之前，我把关于Worker 终止的笔记重读了两遍。评审演练中，Maria说：\"完工的任务要归位。\"我们互换角色，这次由我来提问。评审演练中，Priya说：\"分身太多\"我们互换角色，这次由我来提问。用户得到速度和真相，两者都要。",
    "hard": [
     {
      "w": "message overhead",

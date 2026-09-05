@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 257,
+   "word_count": 262,
    "segment_count": 3,
    "difficulty": "基础表达 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "I start the new work, but it is not ready for review. After a short break, I read the short guide about the client twice. Now I understand the server. Maria explains the draft pull request to me. After that, I mark as ready one small step at a time. Then Maria asks, \"Do you have a table for two?\" I think for a second, then answer. Then Priya asks, \"Could we see the menu?\" I answer as best I can. The day is busy, but I learn a lot.",
-   "tts": "I start the new work, but it is not ready for review. After a short break, I read the short guide about the client twice. Now I understand the server. Maria explains the draft pull request to me. After that, I mark as ready one small step at a time. Then Maria asks, \"Do you have a table for two?\" I think for a second, then answer. Then Priya asks, \"Could we see the menu?\" I answer as best I can. The day is busy, but I learn a lot.",
+   "en": "I start the new work, but it is not ready for review. After a short break, I read the short guide about the client twice. Now I understand the server. Maria explains the draft pull request to me. After that, I mark as ready one small step at a time. Then Maria asks, \"Do you have a table for two?\" I reply, and we keep chatting. Then Maria asks, \"Could we see the menu?\" I reply, and we keep chatting. The day is busy, but I learn a lot.",
+   "tts": "I start the new work, but it is not ready for review. After a short break, I read the short guide about the client twice. Now I understand the server. Maria explains the draft pull request to me. After that, I mark as ready one small step at a time. Then Maria asks, \"Do you have a table for two?\" I reply, and we keep chatting. Then Maria asks, \"Could we see the menu?\" I reply, and we keep chatting. The day is busy, but I learn a lot.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我开始做新工作，但还不到评审的时候。稍作休息后，我把关于客户端的简短说明读了两遍。现在我理解了服务器。Maria 给我讲解草稿拉取请求。在那之后，我一步一步地标记为可评审。接着Maria问：\"有两个人的桌位吗？\"我想了一下，然后回答。接着Priya问：\"可以给我们看菜单吗？\"我尽力回答。这天很忙，但我学到了很多。",
+   "zh": "我开始做新工作，但还不到评审的时候。稍作休息后，我把关于客户端的简短说明读了两遍。现在我理解了服务器。Maria 给我讲解草稿拉取请求。在那之后，我一步一步地标记为可评审。接着Maria问：\"有两个人的桌位吗？\"我回答后，我们继续聊。接着Maria问：\"可以给我们看菜单吗？\"我回答后，我们继续聊。这天很忙，但我学到了很多。",
    "hard": [
     {
      "w": "client",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We eat at a new restaurant. I ask about the menu. Then Maria says, \"I'm allergic to peanuts.\" I think for a second, then answer. Then Priya asks, \"Is this dish spicy?\" I answer as best I can. I ask one question about the API. After a short break, I learn about the endpoint because it is useful. Today I convert to draft for the first time. I hear the review status in the meeting and write it down. I understand a little more than yesterday.",
-   "tts": "We eat at a new restaurant. I ask about the menu. Then Maria says, \"I'm allergic to peanuts.\" I think for a second, then answer. Then Priya asks, \"Is this dish spicy?\" I answer as best I can. I ask one question about the A P I. After a short break, I learn about the endpoint because it is useful. Today I convert to draft for the first time. I hear the review status in the meeting and write it down. I understand a little more than yesterday.",
+   "en": "We eat at a new restaurant. I ask about the menu. Then Priya says, \"I'm allergic to peanuts.\" I think for a second, then answer. Then Priya asks, \"Is this dish spicy?\" I think for a second, then answer. After that, I ask one question about the API. I learn about the endpoint because it is useful. Today I convert to draft for the first time. After a short break, I hear the review status in the meeting and write it down. I understand a little more than yesterday.",
+   "tts": "We eat at a new restaurant. I ask about the menu. Then Priya says, \"I'm allergic to peanuts.\" I think for a second, then answer. Then Priya asks, \"Is this dish spicy?\" I think for a second, then answer. After that, I ask one question about the A P I. I learn about the endpoint because it is useful. Today I convert to draft for the first time. After a short break, I hear the review status in the meeting and write it down. I understand a little more than yesterday.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们去了一家新餐厅。我询问了菜单。接着Maria说：\"我对花生过敏。\"我想了一下，然后回答。接着Priya问：\"这道菜辣吗？\"我尽力回答。我问了一个关于应用程序接口的问题。稍作休息后，我学习接口端点，因为它很有用。今天我第一次转换为草稿。我在会上听到评审状态，把它记了下来。我比昨天多懂了一点。",
+   "zh": "我们去了一家新餐厅。我询问了菜单。接着Priya说：\"我对花生过敏。\"我想了一下，然后回答。接着Priya问：\"这道菜辣吗？\"我想了一下，然后回答。在那之后，我问了一个关于应用程序接口的问题。我学习接口端点，因为它很有用。今天我第一次转换为草稿。稍作休息后，我在会上听到评审状态，把它记了下来。我比昨天多懂了一点。",
    "hard": [
     {
      "w": "API",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish one last task. I write a short note about the base branch. Leo shows me an example of the compare branch. After that, Leo shows me how to send a request. I receive a response carefully. Then Leo asks, \"Could you pack this to go?\" I reply, and we keep chatting. Then Maria says, \"Everything was delicious.\" I think for a second, then answer. I open a draft pull request. The team can watch it grow.",
-   "tts": "Before I leave, I finish one last task. I write a short note about the base branch. Leo shows me an example of the compare branch. After that, Leo shows me how to send a request. I receive a response carefully. Then Leo asks, \"Could you pack this to go?\" I reply, and we keep chatting. Then Maria says, \"Everything was delicious.\" I think for a second, then answer. I open a draft pull request. The team can watch it grow.",
+   "en": "Before I leave, I finish one last task. I write a short note about the base branch. After a short break, Leo shows me an example of the compare branch. Leo shows me how to send a request. I receive a response carefully. Then Priya asks, \"Could you pack this to go?\" I think for a second, then answer. Then Priya says, \"Everything was delicious.\" I think for a second, then answer. I open a draft pull request. The team can watch it grow.",
+   "tts": "Before I leave, I finish one last task. I write a short note about the base branch. After a short break, Leo shows me an example of the compare branch. Leo shows me how to send a request. I receive a response carefully. Then Priya asks, \"Could you pack this to go?\" I think for a second, then answer. Then Priya says, \"Everything was delicious.\" I think for a second, then answer. I open a draft pull request. The team can watch it grow.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项任务。我给基础分支写了一条简短的笔记。Leo 给我看了一个比较分支的例子。在那之后，Leo 教我怎样发送请求。我认真地接收响应。接着Leo问：\"可以把这个打包吗？\"我回答后，我们继续聊。接着Maria说：\"所有菜都很好吃。\"我想了一下，然后回答。我开了一个草稿拉取请求。团队可以看着它慢慢成形。",
+   "zh": "离开前，我完成最后一项任务。我给基础分支写了一条简短的笔记。稍作休息后，Leo 给我看了一个比较分支的例子。Leo 教我怎样发送请求。我认真地接收响应。接着Priya问：\"可以把这个打包吗？\"我想了一下，然后回答。接着Priya说：\"所有菜都很好吃。\"我想了一下，然后回答。我开了一个草稿拉取请求。团队可以看着它慢慢成形。",
    "hard": [
     {
      "w": "send a request",

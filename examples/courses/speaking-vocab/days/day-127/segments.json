@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 283,
+   "word_count": 327,
    "segment_count": 3,
    "difficulty": "工作交流 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Sam opens a first pull request, five lines and enormous courage. I compare my notes about the inner source with Priya's. Priya suggests a cleaner way to think about the contributing guide for teams. I code reuse first, then I note one thing I learned. At the review, we spend ten minutes on the shared snippets repo. Pair run: Maria starts, \"Label every box twice.\" I follow, \"The essentials bag survives.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
-   "tts": "Sam opens a first pull request, five lines and enormous courage. I compare my notes about the inner source with Priya's. Priya suggests a cleaner way to think about the contributing guide for teams. I code reuse first, then I note one thing I learned. At the review, we spend ten minutes on the shared snippets repo. Pair run: Maria starts, \"Label every box twice.\" I follow, \"The essentials bag survives.\" and Maria replies, \"Exactly, and it saves time too.\" Tomorrow builds on what we finished today, without any wasted steps.",
+   "en": "Sam opens a first pull request, five lines and enormous courage. I compare my notes about the inner source with Priya's. Priya suggests a cleaner way to think about the contributing guide for teams. I code reuse first, then I note one thing I learned. At the review, we spend ten minutes on the shared snippets repo. In the meeting drill, Priya says, \"Label every box twice.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"The essentials bag survives.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
+   "tts": "Sam opens a first pull request, five lines and enormous courage. I compare my notes about the inner source with Priya's. Priya suggests a cleaner way to think about the contributing guide for teams. I code reuse first, then I note one thing I learned. At the review, we spend ten minutes on the shared snippets repo. In the meeting drill, Priya says, \"Label every box twice.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"The essentials bag survives.\" After that, we swap roles and run it again. Tomorrow builds on what we finished today, without any wasted steps.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "Sam 开了第一个拉取请求，五行代码和巨大的勇气。我把关于内部开源的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的团队贡献指南思考方式。我先找轮子，然后记下一条学到的东西。评审时，我们花了十分钟在共享代码片段库上。结对演练：Maria起头：\"每个箱子写两遍标签。\"我跟上：\"随行包永远在你身边。\"Maria回应：\"正是，而且还省时间。\"明天会建立在我们今天完成的工作之上，一步都不浪费。",
+   "zh": "Sam 开了第一个拉取请求，五行代码和巨大的勇气。我把关于内部开源的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的团队贡献指南思考方式。我先找轮子，然后记下一条学到的东西。评审时，我们花了十分钟在共享代码片段库上。会议演练中，Priya说：\"每个箱子写两遍标签。\"之后我们换角色再练一遍。会议演练中，Leo说：\"随行包永远在你身边。\"之后我们换角色再练一遍。明天会建立在我们今天完成的工作之上，一步都不浪费。",
    "hard": [
     {
      "w": "inner source",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "We review it gently, praise in public, and merge before lunch. Drill without notes: Maria asks, \"Photos before disassembly.\" I answer, \"Cables go in one box.\" and Maria closes, \"Exactly, and it saves time too.\" The guide now has a short section on the component ownership. We agree to give the review reciprocity one more careful look this week. In today's standup, I mention the template picker and what comes next. I connect the style consistency check to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
-   "tts": "We review it gently, praise in public, and merge before lunch. Drill without notes: Maria asks, \"Photos before disassembly.\" I answer, \"Cables go in one box.\" and Maria closes, \"Exactly, and it saves time too.\" The guide now has a short section on the component ownership. We agree to give the review reciprocity one more careful look this week. In today's standup, I mention the template picker and what comes next. I connect the style consistency check to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "en": "We review it gently, praise in public, and merge before lunch. In the meeting drill, Priya says, \"Photos before disassembly.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Cables go in one box.\" After that, we swap roles and run it again. The guide now has a short section on the component ownership. We agree to give the review reciprocity one more careful look this week. In today's standup, I mention the template picker and what comes next. I connect the style consistency check to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
+   "tts": "We review it gently, praise in public, and merge before lunch. In the meeting drill, Priya says, \"Photos before disassembly.\" After that, we swap roles and run it again. In the meeting drill, Leo says, \"Cables go in one box.\" After that, we swap roles and run it again. The guide now has a short section on the component ownership. We agree to give the review reciprocity one more careful look this week. In today's standup, I mention the template picker and what comes next. I connect the style consistency check to the ticket so nothing gets lost. The plan is written, the team is aligned, and tomorrow has a door.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我们温柔评审、公开表扬，午饭前合并。脱稿演练：Maria问：\"拆之前先拍照。\"我回答：\"数据线装同一个箱子。\"Maria收束：\"正是，而且还省时间。\"指南里现在有关于组件归属的简短章节。我们说好这周再把评审互惠仔细看一次。今天的站会上，我提到模板选择器和接下来的安排。我把风格一致性检查关联到工单上，免得遗漏。计划写好了，团队也一致了，明天有了一扇门。",
+   "zh": "我们温柔评审、公开表扬，午饭前合并。会议演练中，Priya说：\"拆之前先拍照。\"之后我们换角色再练一遍。会议演练中，Leo说：\"数据线装同一个箱子。\"之后我们换角色再练一遍。指南里现在有关于组件归属的简短章节。我们说好这周再把评审互惠仔细看一次。今天的站会上，我提到模板选择器和接下来的安排。我把风格一致性检查关联到工单上，免得遗漏。计划写好了，团队也一致了，明天有了一扇门。",
    "hard": [
     {
      "w": "component ownership",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the reuse review question. I compare my notes about the documentation of intents with Priya's. Priya suggests a cleaner way to think about the shared library governance. At the review, we spend ten minutes on the credit in the changelog. Whiteboard practice: Leo offers, \"Tape is cheaper than regret.\" I add, \"The sofa fits, barely.\" then Leo sums up, \"Keep practising, it is working.\" The confetti emoji in the channel feels earned.",
-   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the reuse review question. I compare my notes about the documentation of intents with Priya's. Priya suggests a cleaner way to think about the shared library governance. At the review, we spend ten minutes on the credit in the changelog. Whiteboard practice: Leo offers, \"Tape is cheaper than regret.\" I add, \"The sofa fits, barely.\" then Leo sums up, \"Keep practising, it is working.\" The confetti emoji in the channel feels earned.",
+   "en": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the reuse review question. I compare my notes about the documentation of intents with Priya's. Priya suggests a cleaner way to think about the shared library governance. At the review, we spend ten minutes on the credit in the changelog. In the meeting drill, Maria says, \"Tape is cheaper than regret.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The sofa fits, barely.\" After that, we swap roles and run it again. The confetti emoji in the channel feels earned.",
+   "tts": "Before I leave, I wrap up the day's work and set out tomorrow's first task. While the details are fresh, I write down the reuse review question. I compare my notes about the documentation of intents with Priya's. Priya suggests a cleaner way to think about the shared library governance. At the review, we spend ten minutes on the credit in the changelog. In the meeting drill, Maria says, \"Tape is cheaper than regret.\" After that, we swap roles and run it again. In the meeting drill, Priya says, \"The sofa fits, barely.\" After that, we swap roles and run it again. The confetti emoji in the channel feels earned.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把复用评审之问写了下来。我把关于意图文档的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的共享库治理思考方式。评审时，我们花了十分钟在变更日志署名上。白板练习：Leo给出：\"胶带比后悔便宜。\"我补充：\"沙发进来了\"然后Leo总结：\"继续练，有效果了。\"频道里的彩带表情，实至名归。",
+   "zh": "离开前，我把今天的工作收尾，并摆好明天的第一件事。趁细节还新鲜，我把复用评审之问写了下来。我把关于意图文档的笔记和 Priya 的对照了一下。Priya 提出了一个更清晰的共享库治理思考方式。评审时，我们花了十分钟在变更日志署名上。会议演练中，Maria说：\"胶带比后悔便宜。\"之后我们换角色再练一遍。会议演练中，Priya说：\"沙发进来了\"之后我们换角色再练一遍。频道里的彩带表情，实至名归。",
    "hard": [
     {
      "w": "shared library governance",

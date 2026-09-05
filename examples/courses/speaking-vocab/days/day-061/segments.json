@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 282,
+   "word_count": 321,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Month three opens with a big date on the calendar: the next release train. I add the metric to my study notes before I forget it. I keep one real example of the time series in my notebook. I go over the release captain one more time before lunch. There is a short paragraph about the release window in the guide. We drill it twice: Maria starts, \"I feel the deadline pressure.\" I reply, \"I take five to breathe.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "Month three opens with a big date on the calendar: the next release train. I add the metric to my study notes before I forget it. I keep one real example of the time series in my notebook. I go over the release captain one more time before lunch. There is a short paragraph about the release window in the guide. We drill it twice: Maria starts, \"I feel the deadline pressure.\" I reply, \"I take five to breathe.\" then Maria smiles, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "Month three opens with a big date on the calendar: the next release train. I add the metric to my study notes before I forget it. I keep one real example of the time series in my notebook. I go over the release captain one more time before lunch. There is a short paragraph about the release window in the guide. In the warm-up round, Priya says, \"I feel the deadline pressure.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I take five to breathe.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Month three opens with a big date on the calendar: the next release train. I add the metric to my study notes before I forget it. I keep one real example of the time series in my notebook. I go over the release captain one more time before lunch. There is a short paragraph about the release window in the guide. In the warm-up round, Priya says, \"I feel the deadline pressure.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I take five to breathe.\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第三个月以一种庄重的方式开始：日历上写着一个大日子，下一班发布列车。我趁还没忘，把指标记进了学习笔记。我在笔记本里留了一个时间序列的真实例子。午饭前我又过了一遍发布负责人。指南里有一小段关于发布窗口的介绍。我们练了两遍：Maria起头：\"我感受到了截止日期的压力。\"我回答：\"我停下来五分钟喘口气。\"然后Maria笑着说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "第三个月以一种庄重的方式开始：日历上写着一个大日子，下一班发布列车。我趁还没忘，把指标记进了学习笔记。我在笔记本里留了一个时间序列的真实例子。午饭前我又过了一遍发布负责人。指南里有一小段关于发布窗口的介绍。热身环节里，Priya说：\"我感受到了截止日期的压力。\"然后我们换角色，由我来问。热身环节里，Leo说：\"我停下来五分钟喘口气。\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "metric",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "Maria explains, \"The train leaves on Friday, with us on it or not.\" Role play with feedback: Maria says, \"A little pressure keeps me focused.\" I try, \"I write my worries down.\" and Maria adds, \"That is the one we need today.\" I ask one good question about the sampling in the meeting. I spend ten quiet minutes on the distributed tracing after the standup. Sam asks me about the go/no-go call, and I explain the basics. My notes about the release blocker look clearer this week. The task moves forward, and so does my confidence.",
-   "tts": "Maria explains, \"The train leaves on Friday, with us on it or not.\" Role play with feedback: Maria says, \"A little pressure keeps me focused.\" I try, \"I write my worries down.\" and Maria adds, \"That is the one we need today.\" I ask one good question about the sampling in the meeting. I spend ten quiet minutes on the distributed tracing after the standup. Sam asks me about the go/no-go call, and I explain the basics. My notes about the release blocker look clearer this week. The task moves forward, and so does my confidence.",
+   "en": "Maria explains, \"The train leaves on Friday, with us on it or not.\" In the warm-up round, Priya says, \"A little pressure keeps me focused.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I write my worries down.\" Then we swap roles and I ask it back. I ask one good question about the sampling in the meeting. I spend ten quiet minutes on the distributed tracing after the standup. Sam asks me about the go/no-go call, and I explain the basics. My notes about the release blocker look clearer this week. The task moves forward, and so does my confidence.",
+   "tts": "Maria explains, \"The train leaves on Friday, with us on it or not.\" In the warm-up round, Priya says, \"A little pressure keeps me focused.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I write my worries down.\" Then we swap roles and I ask it back. I ask one good question about the sampling in the meeting. I spend ten quiet minutes on the distributed tracing after the standup. Sam asks me about the go/no-go call, and I explain the basics. My notes about the release blocker look clearer this week. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "Maria 解释说：“列车周五发车，我们上不上车，它都会开。”角色扮演加反馈：Maria说：\"一点压力让我保持专注。\"我试着说：\"我把担心写下来。\"Maria补充道：\"今天要的就是这句。\"会上关于采样，我问了一个好问题。站会之后，我安安静静花了十分钟在分布式追踪上。Sam 问起上线与否，我讲了讲基础。这周我关于发布阻塞的笔记清楚多了。任务在推进，我的信心也在成长。",
+   "zh": "Maria 解释说：“列车周五发车，我们上不上车，它都会开。”热身环节里，Priya说：\"一点压力让我保持专注。\"然后我们换角色，由我来问。热身环节里，Leo说：\"我把担心写下来。\"然后我们换角色，由我来问。会上关于采样，我问了一个好问题。站会之后，我安安静静花了十分钟在分布式追踪上。Sam 问起上线与否，我讲了讲基础。这周我关于发布阻塞的笔记清楚多了。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "sampling",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I add the freeze exception to my study notes before I forget it. Priya and I sign off the release together after lunch. I keep one real example of the span in my notebook. I go over the aggregation one more time before lunch. Warm-up round: Leo offers, \"One thing at a time.\" I answer, \"It's temporary.\" and Leo wraps up, \"Nice, keep that one handy.\" I like the honesty of deadlines that do not move.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the freeze exception to my study notes before I forget it. Priya and I sign off the release together after lunch. I keep one real example of the span in my notebook. I go over the aggregation one more time before lunch. Warm-up round: Leo offers, \"One thing at a time.\" I answer, \"It's temporary.\" and Leo wraps up, \"Nice, keep that one handy.\" I like the honesty of deadlines that do not move.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I add the freeze exception to my study notes before I forget it. Priya and I sign off the release together after lunch. I keep one real example of the span in my notebook. I go over the aggregation one more time before lunch. In the warm-up round, Maria says, \"One thing at a time.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"It's temporary.\" Then we swap roles and I ask it back. I like the honesty of deadlines that do not move.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I add the freeze exception to my study notes before I forget it. Priya and I sign off the release together after lunch. I keep one real example of the span in my notebook. I go over the aggregation one more time before lunch. In the warm-up round, Maria says, \"One thing at a time.\" Then we swap roles and I ask it back. In the warm-up round, Priya says, \"It's temporary.\" Then we swap roles and I ask it back. I like the honesty of deadlines that do not move.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把冻结例外记进了学习笔记。午饭之后，Priya 和我一起确认放行。我在笔记本里留了一个跨度的真实例子。午饭前我又过了一遍聚合。热身一轮：Leo给出：\"一次只做一件事。\"我回答：\"这只是暂时的。\"Leo收尾道：\"不错，把这句记在手边。\"我喜欢这种不动摇的截止日期带来的诚实。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。我趁还没忘，把冻结例外记进了学习笔记。午饭之后，Priya 和我一起确认放行。我在笔记本里留了一个跨度的真实例子。午饭前我又过了一遍聚合。热身环节里，Maria说：\"一次只做一件事。\"然后我们换角色，由我来问。热身环节里，Priya说：\"这只是暂时的。\"然后我们换角色，由我来问。我喜欢这种不动摇的截止日期带来的诚实。",
    "hard": [
     {
      "w": "span",

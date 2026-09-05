@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 283,
+   "word_count": 322,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Drafts need a real home in the database. Sam asks me about the primary key, and I explain the basics. My notes about the foreign key look clearer this week. I ask one good question about the build cache in the meeting. I keep one real example of the cache hit rate in my notebook. We practise the dialogue: Maria opens, \"I need a bit more context.\" I answer, \"Could you walk me through it?\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
-   "tts": "Drafts need a real home in the database. Sam asks me about the primary key, and I explain the basics. My notes about the foreign key look clearer this week. I ask one good question about the build cache in the meeting. I keep one real example of the cache hit rate in my notebook. We practise the dialogue: Maria opens, \"I need a bit more context.\" I answer, \"Could you walk me through it?\" and Maria nods, \"That is the one we need today.\" Small progress today prepares the bigger step tomorrow.",
+   "en": "Drafts need a real home in the database. Sam asks me about the primary key, and I explain the basics. My notes about the foreign key look clearer this week. I ask one good question about the build cache in the meeting. I keep one real example of the cache hit rate in my notebook. In the warm-up round, Priya says, \"I need a bit more context.\" Then we swap roles and I ask it back. In the warm-up round, Leo asks, \"Could you walk me through it?\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
+   "tts": "Drafts need a real home in the database. Sam asks me about the primary key, and I explain the basics. My notes about the foreign key look clearer this week. I ask one good question about the build cache in the meeting. I keep one real example of the cache hit rate in my notebook. In the warm-up round, Priya says, \"I need a bit more context.\" Then we swap roles and I ask it back. In the warm-up round, Leo asks, \"Could you walk me through it?\" Then we swap roles and I ask it back. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "草稿需要在数据库里有个真正的家。Sam 问起主键，我讲了讲基础。这周我关于外键的笔记清楚多了。会上关于构建缓存，我问了一个好问题。我在笔记本里留了一个缓存命中率的真实例子。我们练习这段对话：Maria开场：\"我需要多一点背景信息。\"我回答：\"你能带我过一遍吗？\"Maria点头说：\"今天要的就是这句。\"今天的小进步为明天更大的跨越做准备。",
+   "zh": "草稿需要在数据库里有个真正的家。Sam 问起主键，我讲了讲基础。这周我关于外键的笔记清楚多了。会上关于构建缓存，我问了一个好问题。我在笔记本里留了一个缓存命中率的真实例子。热身环节里，Priya说：\"我需要多一点背景信息。\"然后我们换角色，由我来问。热身环节里，Leo问：\"你能带我过一遍吗？\"然后我们换角色，由我来问。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "primary key",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I write a migration script with a primary key and a foreign key. We drill it twice: Maria starts, \"That works for me.\" I reply, \"I'd rather do it async.\" then Maria smiles, \"That is the one we need today.\" I add the index to my study notes before I forget it. There is a short paragraph about the join query in the guide. I go over the cache invalidation one more time before lunch. I spend ten quiet minutes on the pipeline minutes after the standup. The task moves forward, and so does my confidence.",
-   "tts": "I write a migration script with a primary key and a foreign key. We drill it twice: Maria starts, \"That works for me.\" I reply, \"I'd rather do it async.\" then Maria smiles, \"That is the one we need today.\" I add the index to my study notes before I forget it. There is a short paragraph about the join query in the guide. I go over the cache invalidation one more time before lunch. I spend ten quiet minutes on the pipeline minutes after the standup. The task moves forward, and so does my confidence.",
+   "en": "I write a migration script with a primary key and a foreign key. In the warm-up round, Priya says, \"That works for me.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I'd rather do it async.\" Then we swap roles and I ask it back. I add the index to my study notes before I forget it. There is a short paragraph about the join query in the guide. I go over the cache invalidation one more time before lunch. I spend ten quiet minutes on the pipeline minutes after the standup. The task moves forward, and so does my confidence.",
+   "tts": "I write a migration script with a primary key and a foreign key. In the warm-up round, Priya says, \"That works for me.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"I'd rather do it async.\" Then we swap roles and I ask it back. I add the index to my study notes before I forget it. There is a short paragraph about the join query in the guide. I go over the cache invalidation one more time before lunch. I spend ten quiet minutes on the pipeline minutes after the standup. The task moves forward, and so does my confidence.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我写了一个带主键和外键的迁移脚本。我们练了两遍：Maria起头：\"我可以接受这个安排。\"我回答：\"我更想异步处理这件事。\"然后Maria笑着说：\"今天要的就是这句。\"我趁还没忘，把索引记进了学习笔记。指南里有一小段关于连接查询的介绍。午饭前我又过了一遍缓存失效。站会之后，我安安静静花了十分钟在流水线分钟上。任务在推进，我的信心也在成长。",
+   "zh": "我写了一个带主键和外键的迁移脚本。热身环节里，Priya说：\"我可以接受这个安排。\"然后我们换角色，由我来问。热身环节里，Leo说：\"我更想异步处理这件事。\"然后我们换角色，由我来问。我趁还没忘，把索引记进了学习笔记。指南里有一小段关于连接查询的介绍。午饭前我又过了一遍缓存失效。站会之后，我安安静静花了十分钟在流水线分钟上。任务在推进，我的信心也在成长。",
    "hard": [
     {
      "w": "index",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the parallel job, and I explain the basics. My notes about the artifact retention look clearer this week. I ask one good question about the migration script in the meeting. I keep one real example of the data type check in my notebook. Warm-up round: Leo offers, \"I'm at capacity this week.\" I answer, \"Can we split the task?\" and Leo wraps up, \"Nice, keep that one handy.\" The table is small, but the thinking is serious.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the parallel job, and I explain the basics. My notes about the artifact retention look clearer this week. I ask one good question about the migration script in the meeting. I keep one real example of the data type check in my notebook. Warm-up round: Leo offers, \"I'm at capacity this week.\" I answer, \"Can we split the task?\" and Leo wraps up, \"Nice, keep that one handy.\" The table is small, but the thinking is serious.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the parallel job, and I explain the basics. My notes about the artifact retention look clearer this week. I ask one good question about the migration script in the meeting. I keep one real example of the data type check in my notebook. In the warm-up round, Maria says, \"I'm at capacity this week.\" Then we swap roles and I ask it back. In the warm-up round, Priya asks, \"Can we split the task?\" Then we swap roles and I ask it back. The table is small, but the thinking is serious.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. Sam asks me about the parallel job, and I explain the basics. My notes about the artifact retention look clearer this week. I ask one good question about the migration script in the meeting. I keep one real example of the data type check in my notebook. In the warm-up round, Maria says, \"I'm at capacity this week.\" Then we swap roles and I ask it back. In the warm-up round, Priya asks, \"Can we split the task?\" Then we swap roles and I ask it back. The table is small, but the thinking is serious.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起并行任务，我讲了讲基础。这周我关于产物保留期的笔记清楚多了。会上关于迁移脚本，我问了一个好问题。我在笔记本里留了一个数据类型检查的真实例子。热身一轮：Leo给出：\"我这周已经排满了。\"我回答：\"我们能把任务拆开吗？\"Leo收尾道：\"不错，把这句记在手边。\"表很小，但思考很严肃。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。Sam 问起并行任务，我讲了讲基础。这周我关于产物保留期的笔记清楚多了。会上关于迁移脚本，我问了一个好问题。我在笔记本里留了一个数据类型检查的真实例子。热身环节里，Maria说：\"我这周已经排满了。\"然后我们换角色，由我来问。热身环节里，Priya问：\"我们能把任务拆开吗？\"然后我们换角色，由我来问。表很小，但思考很严肃。",
    "hard": [
     {
      "w": "migration script",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 297,
+   "word_count": 290,
    "segment_count": 3,
    "difficulty": "专业场景 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "My first piece is ready for the merge queue. I walk a new teammate through the character encoding. After a short break, I go through the unicode with Priya and note her advice. During the review, I ask one question about the merge queue. I add the queue position to my checklist for tomorrow. Before we move on, Priya asks, \"Any plans for the weekend?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I might visit my parents.\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
-   "tts": "My first piece is ready for the merge queue. I walk a new teammate through the character encoding. After a short break, I go through the unicode with Priya and note her advice. During the review, I ask one question about the merge queue. I add the queue position to my checklist for tomorrow. Before we move on, Priya asks, \"Any plans for the weekend?\" I answer clearly and note the phrasing. Before we move on, Leo says, \"I might visit my parents.\" I answer, then reuse it in my update. The team agrees on the plan, and I record the decision.",
+   "en": "My first piece is ready for the merge queue. I walk a new teammate through the character encoding. After a short break, I go through the unicode with Priya and note her advice. During the review, I ask one question about the merge queue. I add the queue position to my checklist for tomorrow. Before we move on, Priya asks, \"Any plans for the weekend?\" I answer, and we compare notes. Before we move on, Priya says, \"I might visit my parents.\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
+   "tts": "My first piece is ready for the merge queue. I walk a new teammate through the character encoding. After a short break, I go through the unicode with Priya and note her advice. During the review, I ask one question about the merge queue. I add the queue position to my checklist for tomorrow. Before we move on, Priya asks, \"Any plans for the weekend?\" I answer, and we compare notes. Before we move on, Priya says, \"I might visit my parents.\" I answer, and we compare notes. The team agrees on the plan, and I record the decision.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "我的第一块准备好了，可以进合并队列。我带一位新队友过了一遍字符编码。稍作休息后，我和 Priya 过了一遍统一字符编码，记下了她的建议。评审时，我就合并队列提了一个问题。我把队列位置加进了明天的清单。继续之前，Priya问：\"周末有什么安排吗？\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"我可能去看望父母。\"我回答，然后把它用进了自己的汇报。团队就计划达成一致，我记录了决定。",
+   "zh": "我的第一块准备好了，可以进合并队列。我带一位新队友过了一遍字符编码。稍作休息后，我和 Priya 过了一遍统一字符编码，记下了她的建议。评审时，我就合并队列提了一个问题。我把队列位置加进了明天的清单。继续之前，Priya问：\"周末有什么安排吗？\"我回答，我们互相对了笔记。继续之前，Priya说：\"我可能去看望父母。\"我回答，我们互相对了笔记。团队就计划达成一致，我记录了决定。",
    "hard": [
     {
      "w": "character encoding",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "The queue position moves slowly, one check at a time. Before we move on, Priya says, \"Nothing much, really.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Let's hope the weather holds.\" I answer, then reuse it in my update. I reread my notes about the whitespace character after lunch. I keep one real example of the line break in my notes. After a short break, I double-check the rebase before merge before the review. Before I reply, I look at the flaky test once more. The day ends with a clear plan for tomorrow.",
-   "tts": "The queue position moves slowly, one check at a time. Before we move on, Priya says, \"Nothing much, really.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Let's hope the weather holds.\" I answer, then reuse it in my update. I reread my notes about the whitespace character after lunch. I keep one real example of the line break in my notes. After a short break, I double-check the rebase before merge before the review. Before I reply, I look at the flaky test once more. The day ends with a clear plan for tomorrow.",
+   "en": "The queue position moves slowly, one check at a time. Before we move on, Leo says, \"Nothing much, really.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Let's hope the weather holds.\" I answer clearly and note the phrasing. I reread my notes about the whitespace character after lunch. After that, I keep one real example of the line break in my notes. I double-check the rebase before merge before the review. Before I reply, I look at the flaky test once more. The day ends with a clear plan for tomorrow.",
+   "tts": "The queue position moves slowly, one check at a time. Before we move on, Leo says, \"Nothing much, really.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Let's hope the weather holds.\" I answer clearly and note the phrasing. I reread my notes about the whitespace character after lunch. After that, I keep one real example of the line break in my notes. I double-check the rebase before merge before the review. Before I reply, I look at the flaky test once more. The day ends with a clear plan for tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "队列位置移动得很慢，一次检查接着一次。继续之前，Priya说：\"其实没什么特别的安排。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"希望天气一直这么好。\"我回答，然后把它用进了自己的汇报。午饭后我重读了关于空白字符的笔记。我在笔记里留了一个换行符的真实例子。稍作休息后，评审之前，我再核对一遍合并前变基。回复之前，我又看了一遍不稳定测试。这一天以一份清晰的明日计划结束。",
+   "zh": "队列位置移动得很慢，一次检查接着一次。继续之前，Leo说：\"其实没什么特别的安排。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"希望天气一直这么好。\"我清楚地回答，并记下了这个说法。午饭后我重读了关于空白字符的笔记。在那之后，我在笔记里留了一个换行符的真实例子。评审之前，我再核对一遍合并前变基。回复之前，我又看了一遍不稳定测试。这一天以一份清晰的明日计划结束。",
    "hard": [
     {
      "w": "whitespace character",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I write a short summary for the team. After a short break, I retry the build while the others watch the dashboard. We spend a few minutes on the merge order at the standup. I suggest that we check the escape character first. After that, I walk a new teammate through the case conversion. Before we move on, Maria says, \"I'll play it by ear.\" I answer, and we compare notes. Before we move on, Priya says, \"Enjoy your weekend!\" I answer clearly and note the phrasing. Patience is part of shipping.",
-   "tts": "Before I leave, I write a short summary for the team. After a short break, I retry the build while the others watch the dashboard. We spend a few minutes on the merge order at the standup. I suggest that we check the escape character first. After that, I walk a new teammate through the case conversion. Before we move on, Maria says, \"I'll play it by ear.\" I answer, and we compare notes. Before we move on, Priya says, \"Enjoy your weekend!\" I answer clearly and note the phrasing. Patience is part of shipping.",
+   "en": "Before I leave, I write a short summary for the team. I retry the build while the others watch the dashboard. We spend a few minutes on the merge order at the standup. After a short break, I suggest that we check the escape character first. I walk a new teammate through the case conversion. Before we move on, Leo says, \"I'll play it by ear.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Enjoy your weekend!\" I answer clearly and note the phrasing. Patience is part of shipping.",
+   "tts": "Before I leave, I write a short summary for the team. I retry the build while the others watch the dashboard. We spend a few minutes on the merge order at the standup. After a short break, I suggest that we check the escape character first. I walk a new teammate through the case conversion. Before we move on, Leo says, \"I'll play it by ear.\" I answer clearly and note the phrasing. Before we move on, Leo says, \"Enjoy your weekend!\" I answer clearly and note the phrasing. Patience is part of shipping.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我给团队写了一份简短的总结。稍作休息后，我重试构建，其他队友盯着仪表盘。站会上我们花了几分钟讨论合并顺序。我建议我们先检查转义字符。在那之后，我带一位新队友过了一遍大小写转换。继续之前，Maria说：\"到时候看情况吧。\"我回答，我们互相对了笔记。继续之前，Priya说：\"周末愉快！\"我清楚地回答，并记下了这个说法。耐心也是发布的一部分。",
+   "zh": "离开前，我给团队写了一份简短的总结。我重试构建，其他队友盯着仪表盘。站会上我们花了几分钟讨论合并顺序。稍作休息后，我建议我们先检查转义字符。我带一位新队友过了一遍大小写转换。继续之前，Leo说：\"到时候看情况吧。\"我清楚地回答，并记下了这个说法。继续之前，Leo说：\"周末愉快！\"我清楚地回答，并记下了这个说法。耐心也是发布的一部分。",
    "hard": [
     {
      "w": "escape character",

@@ -7,7 +7,7 @@
   "kind": "article",
   "lang": "en",
   "study_card": {
-   "word_count": 293,
+   "word_count": 330,
    "segment_count": 3,
    "difficulty": "日常职场 · 词汇主线",
    "estimated_days": 1,
@@ -30,10 +30,10 @@
   {
    "id": "seg-01",
    "spk": "Alex",
-   "en": "Day ninety: Maria asks what changed since my first morning. I ask one good question about the system map in the meeting. There is a short paragraph about the onboarding doc in the guide. Sam asks me about the quarter retro, and I explain the basics. My notes about the shipped list look clearer this week. Warm-up round: Priya offers, \"Ninety days ago, alerts scared me.\" I answer, \"Now they point me somewhere.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
-   "tts": "Day ninety: Maria asks what changed since my first morning. I ask one good question about the system map in the meeting. There is a short paragraph about the onboarding doc in the guide. Sam asks me about the quarter retro, and I explain the basics. My notes about the shipped list look clearer this week. Warm-up round: Priya offers, \"Ninety days ago, alerts scared me.\" I answer, \"Now they point me somewhere.\" and Priya wraps up, \"Good — try it in today’s task.\" I end the day with fewer unknowns than I started with.",
+   "en": "Day ninety: Maria asks what changed since my first morning. I ask one good question about the system map in the meeting. There is a short paragraph about the onboarding doc in the guide. Sam asks me about the quarter retro, and I explain the basics. My notes about the shipped list look clearer this week. In the warm-up round, Leo says, \"Ninety days ago, alerts scared me.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Now they point me somewhere.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
+   "tts": "Day ninety: Maria asks what changed since my first morning. I ask one good question about the system map in the meeting. There is a short paragraph about the onboarding doc in the guide. Sam asks me about the quarter retro, and I explain the basics. My notes about the shipped list look clearer this week. In the warm-up round, Leo says, \"Ninety days ago, alerts scared me.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Now they point me somewhere.\" Then we swap roles and I ask it back. I end the day with fewer unknowns than I started with.",
    "audio_file": "audio/seg-01.mp3",
-   "zh": "第九十天：Maria 问，从第一个早晨到现在，什么改变了。会上关于系统地图，我问了一个好问题。指南里有一小段关于入职文档的介绍。Sam 问起季度复盘，我讲了讲基础。这周我关于已发布清单的笔记清楚多了。热身一轮：Priya给出：\"九十天前\"我回答：\"现在它们给我指路。\"Priya收尾道：\"好——今天的任务里就用上。\"这一天结束时，我心中的未知比开始时更少了。",
+   "zh": "第九十天：Maria 问，从第一个早晨到现在，什么改变了。会上关于系统地图，我问了一个好问题。指南里有一小段关于入职文档的介绍。Sam 问起季度复盘，我讲了讲基础。这周我关于已发布清单的笔记清楚多了。热身环节里，Leo说：\"九十天前\"然后我们换角色，由我来问。热身环节里，Maria说：\"现在它们给我指路。\"然后我们换角色，由我来问。这一天结束时，我心中的未知比开始时更少了。",
    "hard": [
     {
      "w": "system map",
@@ -70,10 +70,10 @@
   {
    "id": "seg-02",
    "spk": "Alex",
-   "en": "I say, \"I used to fear alerts. Now I read them like a map.\" We drill it twice: Priya starts, \"I keep a win jar.\" I reply, \"Confidence compounds quietly.\" then Priya smiles, \"Good — try it in today’s task.\" I keep one real example of the team playbook in my notebook. I spend ten quiet minutes on the architecture review after the standup. I add the incident summary to my study notes before I forget it. I go over the metrics movement one more time before lunch. Small progress today prepares the bigger step tomorrow.",
-   "tts": "I say, \"I used to fear alerts. Now I read them like a map.\" We drill it twice: Priya starts, \"I keep a win jar.\" I reply, \"Confidence compounds quietly.\" then Priya smiles, \"Good — try it in today’s task.\" I keep one real example of the team playbook in my notebook. I spend ten quiet minutes on the architecture review after the standup. I add the incident summary to my study notes before I forget it. I go over the metrics movement one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "en": "I say, \"I used to fear alerts. Now I read them like a map.\" In the warm-up round, Leo says, \"I keep a win jar.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Confidence compounds quietly.\" Then we swap roles and I ask it back. I keep one real example of the team playbook in my notebook. I spend ten quiet minutes on the architecture review after the standup. I add the incident summary to my study notes before I forget it. I go over the metrics movement one more time before lunch. Small progress today prepares the bigger step tomorrow.",
+   "tts": "I say, \"I used to fear alerts. Now I read them like a map.\" In the warm-up round, Leo says, \"I keep a win jar.\" Then we swap roles and I ask it back. In the warm-up round, Maria says, \"Confidence compounds quietly.\" Then we swap roles and I ask it back. I keep one real example of the team playbook in my notebook. I spend ten quiet minutes on the architecture review after the standup. I add the incident summary to my study notes before I forget it. I go over the metrics movement one more time before lunch. Small progress today prepares the bigger step tomorrow.",
    "audio_file": "audio/seg-02.mp3",
-   "zh": "我说：“以前我害怕告警，现在我像看地图一样读它们。”我们练了两遍：Priya起头：\"我存了一个成就罐。\"我回答：\"信心在悄悄复利。\"然后Priya笑着说：\"好——今天的任务里就用上。\"我在笔记本里留了一个团队手册的真实例子。站会之后，我安安静静花了十分钟在架构评审上。我趁还没忘，把事故摘要记进了学习笔记。午饭前我又过了一遍指标变化。今天的小进步为明天更大的跨越做准备。",
+   "zh": "我说：“以前我害怕告警，现在我像看地图一样读它们。”热身环节里，Leo说：\"我存了一个成就罐。\"然后我们换角色，由我来问。热身环节里，Maria说：\"信心在悄悄复利。\"然后我们换角色，由我来问。我在笔记本里留了一个团队手册的真实例子。站会之后，我安安静静花了十分钟在架构评审上。我趁还没忘，把事故摘要记进了学习笔记。午饭前我又过了一遍指标变化。今天的小进步为明天更大的跨越做准备。",
    "hard": [
     {
      "w": "team playbook",
@@ -110,10 +110,10 @@
   {
    "id": "seg-03",
    "spk": "Alex",
-   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the next quarter bets in the meeting. There is a short paragraph about the thank-you wall in the guide. Sam asks me about the design doc, and I explain the basics. My notes about the decision log look clearer this week. Role play with feedback: Maria says, \"Next quarter, deeper water.\" I try, \"The ladder goes up.\" and Maria adds, \"That is the one we need today.\" The release train left; I am still on it, and I am not the same passenger.",
-   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the next quarter bets in the meeting. There is a short paragraph about the thank-you wall in the guide. Sam asks me about the design doc, and I explain the basics. My notes about the decision log look clearer this week. Role play with feedback: Maria says, \"Next quarter, deeper water.\" I try, \"The ladder goes up.\" and Maria adds, \"That is the one we need today.\" The release train left; I am still on it, and I am not the same passenger.",
+   "en": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the next quarter bets in the meeting. There is a short paragraph about the thank-you wall in the guide. Sam asks me about the design doc, and I explain the basics. My notes about the decision log look clearer this week. In the warm-up round, Priya says, \"Next quarter, deeper water.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"The ladder goes up.\" Then we swap roles and I ask it back. The release train left; I am still on it, and I am not the same passenger.",
+   "tts": "Before I leave, I finish the last small task and tidy my desk. I ask one good question about the next quarter bets in the meeting. There is a short paragraph about the thank-you wall in the guide. Sam asks me about the design doc, and I explain the basics. My notes about the decision log look clearer this week. In the warm-up round, Priya says, \"Next quarter, deeper water.\" Then we swap roles and I ask it back. In the warm-up round, Leo says, \"The ladder goes up.\" Then we swap roles and I ask it back. The release train left; I am still on it, and I am not the same passenger.",
    "audio_file": "audio/seg-03.mp3",
-   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于下季押注，我问了一个好问题。指南里有一小段关于感谢墙的介绍。Sam 问起设计文档，我讲了讲基础。这周我关于决策日志的笔记清楚多了。角色扮演加反馈：Maria说：\"下个季度\"我试着说：\"梯子是向上的。\"Maria补充道：\"今天要的就是这句。\"发布列车开走了；我还在车上，但我已不是当初那位乘客。",
+   "zh": "离开前，我完成最后一项小任务，整理好桌面。会上关于下季押注，我问了一个好问题。指南里有一小段关于感谢墙的介绍。Sam 问起设计文档，我讲了讲基础。这周我关于决策日志的笔记清楚多了。热身环节里，Priya说：\"下个季度\"然后我们换角色，由我来问。热身环节里，Leo说：\"梯子是向上的。\"然后我们换角色，由我来问。发布列车开走了；我还在车上，但我已不是当初那位乘客。",
    "hard": [
     {
      "w": "design doc",
