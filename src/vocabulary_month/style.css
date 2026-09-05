@@ -200,3 +200,12 @@ details.answer div { margin-top: 7px; padding: 8px 10px; background: var(--green
 .leech-tag { display: inline-block; margin-left: 6px; padding: 1px 6px; border-radius: 6px; background: #f7e3e2; color: #b3261e; font-size: 11px; font-weight: 600; }
 .review-context-link { margin-left: 8px; font-size: 12px; color: #2d6b55; text-decoration: none; }
 .review-context-link:hover { text-decoration: underline; }
+
+/* tap-any-word dictionary card */
+#wordCard { position: fixed; z-index: 9999; max-width: 260px; background: #fff; border: 1px solid #d8ded9;
+  border-radius: 12px; box-shadow: 0 12px 32px rgba(0,0,0,.16); padding: 10px 12px; font-size: 14px; line-height: 1.45; }
+#wordCard b { font-size: 16px; color: #163e33; }
+#wordCard .wc-phon { margin-left: 6px; color: #7a8a82; font-size: 12px; margin-right: 4px; }
+#wordCard .wc-cn { margin: 6px 0 2px; color: #163e33; font-weight: 600; }
+#wordCard .wc-def { margin: 4px 0; color: #555; font-size: 12.5px; max-height: 96px; overflow: auto; }
+.word-term { cursor: pointer; }

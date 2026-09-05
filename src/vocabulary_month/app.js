@@ -19,6 +19,85 @@
   let cloudAccount = null;
   let toastTimer = null;
   let activeAudio = null;
+  let dictMap = null;
+
+  // load per-course dictionary for tap-any-word lookup
+  (async () => {
+    try {
+      const res = await fetch("../dictionary.json", { credentials: "same-origin" });
+      if (res.ok) dictMap = await res.json();
+    } catch { /* offline */ }
+  })();
+
+  function closeWordCard() { document.getElementById("wordCard")?.remove(); }
+
+  function wordAtPoint(x, y) {
+    let el = document.elementFromPoint(x, y);
+    while (el && !el.closest?.(".en, .word-term, .word-detail, .review-prompt, .meaning, .example")) {
+      el = el.parentElement;
+    }
+    if (!el) return null;
+    let range = null;
+    if (document.caretRangeFromPoint) range = document.caretRangeFromPoint(x, y);
+    else if (document.caretPositionFromPoint) {
+      const pos = document.caretPositionFromPoint(x, y);
+      if (pos) { range = document.createRange(); range.setStart(pos.offsetNode, pos.offset); }
+    }
+    if (!range || !range.startContainer || range.startContainer.nodeType !== Node.TEXT_NODE) return null;
+    const text = range.startContainer.textContent;
+    const off = range.startOffset;
+    let a = off, b = off;
+    const isW = c => /[A-Za-z'-]/.test(c);
+    while (a > 0 && isW(text[a - 1])) a -= 1;
+    while (b < text.length && isW(text[b])) b += 1;
+    const word = text.slice(a, b).replace(/^['-]+|['-]+$/g, "").toLowerCase();
+    if (!word || word.length < 2) return null;
+    const r2 = document.createRange();
+    r2.setStart(range.startContainer, a);
+    r2.setEnd(range.startContainer, b);
+    return { word, rect: r2.getBoundingClientRect() };
+  }
+
+  function lookupWord(word) {
+    if (!dictMap) return null;
+    if (dictMap[word]) return dictMap[word];
+    const cands = [];
+    if (word.endsWith("s")) cands.push(word.slice(0, -1), word.slice(0, -2));
+    if (word.endsWith("es")) cands.push(word.slice(0, -2));
+    if (word.endsWith("ed")) cands.push(word.slice(0, -1), word.slice(0, -2));
+    if (word.endsWith("ing")) cands.push(word.slice(0, -3), word.slice(0, -3) + "e");
+    if (word.endsWith("ly")) cands.push(word.slice(0, -2));
+    for (const c of cands) if (dictMap[c]) return dictMap[c];
+    return null;
+  }
+
+  function showWordCard(word, rect) {
+    closeWordCard();
+    const hit = lookupWord(word);
+    const pop = document.createElement("div");
+    pop.id = "wordCard";
+    const head = hit
+      ? `<b>${word}</b>${hit.p ? `<span class="wc-phon">${hit.p}</span>` : ""}${hit.pos ? `<span class="wc-phon">${hit.pos}</span>` : ""}`
+      : `<b>${word}</b>`;
+    const body = hit
+      ? `${hit.t ? `<p class="wc-cn">${hit.t}</p>` : ""}${hit.d ? `<p class="wc-def">${hit.d}</p>` : ""}`
+      : '<p class="wc-cn">暂无释义</p>';
+    pop.innerHTML = head + body;
+    document.body.appendChild(pop);
+    const vw = window.innerWidth, vh = window.innerHeight;
+    pop.style.top = Math.min(Math.max(rect.top - 8, 60), vh - 150) + "px";
+    pop.style.left = Math.min(Math.max(rect.left, 10), vw - 250) + "px";
+    setTimeout(() => {
+      document.addEventListener("click", closeWordCard, { once: true });
+      document.addEventListener("touchstart", closeWordCard, { once: true });
+    }, 60);
+  }
+
+  document.addEventListener("click", event => {
+    if (event.target.closest("#wordCard") || event.target.closest("button") || event.target.closest("a") || event.target.closest("select")) return;
+    const hit = wordAtPoint(event.clientX, event.clientY);
+    if (hit) { event.stopPropagation(); showWordCard(hit.word, hit.rect); }
+  });
 
   const esc = value => String(value ?? "").replace(/[&<>"']/g, char => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"

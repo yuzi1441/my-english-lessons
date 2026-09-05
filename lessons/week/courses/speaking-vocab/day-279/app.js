@@ -59,6 +59,110 @@
   }
   migrateLegacyState();
 
+  // ---- tap-any-word dictionary (mobile tap + desktop click) ----
+  const DICT = { map: null };
+  (async () => {
+    try {
+      const res = await fetch("../dictionary.json", { credentials: "same-origin" });
+      if (res.ok) DICT.map = await res.json();
+    } catch { /* offline: only hard[]/lexicon defs available */ }
+  })();
+
+  const WORD_RE = /^[A-Za-z][A-Za-z'-]*$/;
+
+  function wordAtPoint(x, y) {
+    let el = document.elementFromPoint(x, y);
+    while (el && el.id !== "app" && !el.classList?.contains("en")) {
+      if (el.classList?.contains("en")) break;
+      el = el.parentElement;
+    }
+    if (!el || !el.classList?.contains("en")) return null;
+    let range = null;
+    if (document.caretRangeFromPoint) range = document.caretRangeFromPoint(x, y);
+    else if (document.caretPositionFromPoint) {
+      const pos = document.caretPositionFromPoint(x, y);
+      if (pos) {
+        range = document.createRange();
+        range.setStart(pos.offsetNode, pos.offset);
+      }
+    }
+    if (!range || !range.startContainer) return null;
+    const node = range.startContainer;
+    if (node.nodeType !== Node.TEXT_NODE) return null;
+    const text = node.textContent;
+    let off = range.startOffset;
+    let a = off, b = off;
+    const isWord = c => /[A-Za-z'-]/.test(c);
+    while (a > 0 && isWord(text[a - 1])) a -= 1;
+    while (b < text.length && isWord(text[b])) b += 1;
+    const word = text.slice(a, b).replace(/^['-]+|['-]+$/g, "");
+    if (!word || !WORD_RE.test(word) || word.length < 2) return null;
+    const r2 = document.createRange();
+    r2.setStart(node, a);
+    r2.setEnd(node, b);
+    const rect = r2.getBoundingClientRect();
+    return { word: word.toLowerCase(), rect, base: node };
+  }
+
+  function lookupWord(word) {
+    if (!DICT.map) return null;
+    const direct = DICT.map[word];
+    if (direct) return direct;
+    const cands = [];
+    if (word.endsWith("s")) cands.push(word.slice(0, -1), word.slice(0, -2));
+    if (word.endsWith("es")) cands.push(word.slice(0, -2));
+    if (word.endsWith("ed")) cands.push(word.slice(0, -1), word.slice(0, -2));
+    if (word.endsWith("ing")) cands.push(word.slice(0, -3), word.slice(0, -3) + "e");
+    if (word.endsWith("ly")) cands.push(word.slice(0, -2));
+    for (const c of cands) if (DICT.map[c]) return { ...DICT.map[c], base: c };
+    return null;
+  }
+
+  function showWordCard(hit, rect) {
+    closeWordCard();
+    const pop = document.createElement("div");
+    pop.id = "wordCard";
+    const def = hit ? (hit.d || hit.t || "") : "";
+    const cn = hit ? (hit.t || "") : "";
+    const head = hit
+      ? `<b>${hit.w || rect.word}</b>${hit.p ? `<span class="wc-phon">${hit.p}</span>` : ""}`
+      : `<b>${rect.word}</b>`;
+    const body = hit
+      ? `${cn ? `<p class="wc-cn">${cn}</p>` : ""}${def ? `<p class="wc-def">${def}</p>` : ""}`
+      : '<p class="wc-cn">暂无释义 · 可复制问 agent</p>';
+    pop.innerHTML = `${head}${body}
+      <button class="wc-add" data-word="${rect.word}">＋ 加入生词本</button>`;
+    document.body.appendChild(pop);
+    const vw = window.innerWidth, vh = window.innerHeight;
+    const top = Math.min(Math.max(rect.top - 10, 60), vh - 160);
+    const left = Math.min(Math.max(rect.left, 10), vw - 240);
+    pop.style.top = `${top}px`;
+    pop.style.left = `${left}px`;
+    pop.querySelector(".wc-add").addEventListener("click", ev => {
+      ev.stopPropagation();
+      const info = hit ? { def: cn || def, type: "word" } : { def: "", type: "word" };
+      addVocabWord(rect.word, info, "");
+      pop.remove();
+    });
+    setTimeout(() => {
+      document.addEventListener("click", closeWordCard, { once: true });
+      document.addEventListener("touchstart", closeWordCard, { once: true });
+    }, 50);
+  }
+
+  function closeWordCard() {
+    document.getElementById("wordCard")?.remove();
+  }
+
+  document.addEventListener("click", event => {
+    if (event.target.closest("#wordCard") || event.target.closest("mark") || event.target.closest("button") || event.target.closest("a")) return;
+    if (!event.target.classList?.contains?.("en") && !event.target.closest?.(".en")) return;
+    const sel = window.getSelection && window.getSelection();
+    if (sel && sel.type === "Range" && String(sel).trim()) return; // user is selecting text
+    const hit = wordAtPoint(event.clientX, event.clientY);
+    if (hit && DICT.map) showWordCard(hit, hit.rect);
+  });
+
   // Tell the course catalog that this day was opened.
   function recordProgress() {
     if (!COURSE.day) return;

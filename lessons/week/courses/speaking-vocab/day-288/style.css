@@ -1440,3 +1440,14 @@ textarea:focus {
   background: #f0f7ff;
   border-color: #7fb0e8;
 }
+
+/* tap-any-word dictionary card */
+#wordCard { position: fixed; z-index: 999; max-width: 260px; background: #fff; border: 1px solid #d8ded9;
+  border-radius: 12px; box-shadow: 0 12px 32px rgba(0,0,0,.16); padding: 10px 12px; font-size: 14px; line-height: 1.45; }
+#wordCard b { font-size: 16px; color: #163e33; }
+#wordCard .wc-phon { margin-left: 8px; color: #7a8a82; font-size: 12px; }
+#wordCard .wc-cn { margin: 6px 0 2px; color: #163e33; font-weight: 600; }
+#wordCard .wc-def { margin: 4px 0; color: #555; font-size: 12.5px; max-height: 96px; overflow: auto; }
+#wordCard .wc-add { margin-top: 6px; padding: 4px 10px; border: 1px solid #2d6b55; border-radius: 8px;
+  background: #f0f7f4; color: #2d6b55; cursor: pointer; font-size: 12px; }
+.en { cursor: pointer; }
