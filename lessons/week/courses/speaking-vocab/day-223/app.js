@@ -118,20 +118,20 @@
     return null;
   }
 
-  function showWordCard(hit, rect) {
+  function showWordCard(hit, rect, word) {
     closeWordCard();
     const pop = document.createElement("div");
     pop.id = "wordCard";
     const def = hit ? (hit.d || hit.t || "") : "";
     const cn = hit ? (hit.t || "") : "";
     const head = hit
-      ? `<b>${hit.w || rect.word}</b>${hit.p ? `<span class="wc-phon">${hit.p}</span>` : ""}`
-      : `<b>${rect.word}</b>`;
+      ? `<b>${word}</b>${hit.p ? `<span class="wc-phon">${hit.p}</span>` : ""}`
+      : `<b>${word}</b>`;
     const body = hit
       ? `${cn ? `<p class="wc-cn">${cn}</p>` : ""}${def ? `<p class="wc-def">${def}</p>` : ""}`
       : '<p class="wc-cn">暂无释义 · 可复制问 agent</p>';
     pop.innerHTML = `${head}${body}
-      <button class="wc-add" data-word="${rect.word}">＋ 加入生词本</button>`;
+      <button class="wc-add" data-word="${word}">＋ 加入生词本</button>`;
     document.body.appendChild(pop);
     const vw = window.innerWidth, vh = window.innerHeight;
     const top = Math.min(Math.max(rect.top - 10, 60), vh - 160);
@@ -141,7 +141,7 @@
     pop.querySelector(".wc-add").addEventListener("click", ev => {
       ev.stopPropagation();
       const info = hit ? { def: cn || def, type: "word" } : { def: "", type: "word" };
-      addVocabWord(rect.word, info, "");
+      addVocabWord(word, info, "");
       pop.remove();
     });
     setTimeout(() => {
@@ -160,7 +160,7 @@
     const sel = window.getSelection && window.getSelection();
     if (sel && sel.type === "Range" && String(sel).trim()) return; // user is selecting text
     const hit = wordAtPoint(event.clientX, event.clientY);
-    if (hit && DICT.map) showWordCard(hit, hit.rect);
+    if (hit && DICT.map) showWordCard(hit, hit.rect, hit.word);
   });
 
   // Tell the course catalog that this day was opened.
