@@ -209,3 +209,5 @@ details.answer div { margin-top: 7px; padding: 8px 10px; background: var(--green
 #wordCard .wc-cn { margin: 6px 0 2px; color: #163e33; font-weight: 600; }
 #wordCard .wc-def { margin: 4px 0; color: #555; font-size: 12.5px; max-height: 96px; overflow: auto; }
 .word-term { cursor: pointer; }
+
+.wc-syn { margin: 4px 0; color: #7a8a82; font-size: 12px; }

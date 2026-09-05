@@ -1451,3 +1451,5 @@ textarea:focus {
 #wordCard .wc-add { margin-top: 6px; padding: 4px 10px; border: 1px solid #2d6b55; border-radius: 8px;
   background: #f0f7f4; color: #2d6b55; cursor: pointer; font-size: 12px; }
 .en { cursor: pointer; }
+
+.wc-syn { margin: 4px 0; color: #7a8a82; font-size: 12px; }

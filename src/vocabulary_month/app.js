@@ -79,8 +79,9 @@
     const head = hit
       ? `<b>${word}</b>${hit.p ? `<span class="wc-phon">${hit.p}</span>` : ""}${hit.pos ? `<span class="wc-phon">${hit.pos}</span>` : ""}`
       : `<b>${word}</b>`;
+    const synHtml = hit && hit.syn && hit.syn.length ? `<p class="wc-syn">近义词: ${hit.syn.join(", ")}</p>` : "";
     const body = hit
-      ? `${hit.t ? `<p class="wc-cn">${hit.t}</p>` : ""}${hit.d ? `<p class="wc-def">${hit.d}</p>` : ""}`
+      ? `${hit.t ? `<p class="wc-cn">${hit.t}</p>` : ""}${hit.d ? `<p class="wc-def">${hit.d}</p>` : ""}${synHtml}`
       : '<p class="wc-cn">暂无释义</p>';
     pop.innerHTML = head + body;
     document.body.appendChild(pop);

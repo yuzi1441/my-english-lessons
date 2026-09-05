@@ -122,14 +122,14 @@
     closeWordCard();
     const pop = document.createElement("div");
     pop.id = "wordCard";
-    const def = hit ? (hit.d || hit.t || "") : "";
-    const cn = hit ? (hit.t || "") : "";
-    const head = hit
-      ? `<b>${word}</b>${hit.p ? `<span class="wc-phon">${hit.p}</span>` : ""}`
-      : `<b>${word}</b>`;
-    const body = hit
-      ? `${cn ? `<p class="wc-cn">${cn}</p>` : ""}${def ? `<p class="wc-def">${def}</p>` : ""}`
-      : '<p class="wc-cn">暂无释义 · 可复制问 agent</p>';
+    const entry = lookupWord(word);
+    const def = entry ? (entry.d || "") : "";
+    const cn = entry ? (entry.t || "") : "";
+    const ipa = entry ? (entry.p || "") : "";
+    const syn = entry ? (entry.syn || []) : [];
+    const head = `<b>${word}</b>${ipa ? `<span class="wc-phon">${ipa}</span>` : ""}${entry && entry.pos ? `<span class="wc-phon">${entry.pos}</span>` : ""}`;
+    const synHtml = syn.length ? `<p class="wc-syn">近义词: ${syn.join(", ")}</p>` : "";
+    const body = `${cn ? `<p class="wc-cn">${cn}</p>` : ""}${def ? `<p class="wc-def">${def}</p>` : ""}${synHtml}`;
     pop.innerHTML = `${head}${body}
       <button class="wc-add" data-word="${word}">＋ 加入生词本</button>`;
     document.body.appendChild(pop);
